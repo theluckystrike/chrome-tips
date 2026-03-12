@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Chrome Right To Left Language Support
+title: chrome right to left language support
 description: Learn how to fix right-to-left language display issues in Chrome. Solutions
-  for Arabic, Hebrew, Persian, and other RTL languages. Learn how to optimize your
-  ...
+  for Arabic, Hebrew, Persian, and other RTL languages. Read our comprehensive guide
+  t
 date: 2026-03-09
 categories:
 - features
@@ -15,8 +15,8 @@ tags:
 - text-display
 - international
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-right-to-left-language-support
+last_modified_at: '2026-03-12'
 ---
 # Chrome Right to Left Language Support
 
@@ -92,5 +92,9 @@ Finally, provide feedback to Google about persistent issues. While individual re
 
 With these steps, you should be able to read and write in Arabic, Hebrew, Persian, and other right-to-left languages without problems. Give these solutions a try and enjoy a smoother browsing experience in your preferred language.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome Extensions for AI Writing Assistant](/articles/chrome-extensions-for-ai-writing-assistant/)
+* [How to Auto Create and Organize Chrome Tab Groups](/articles/chrome-tab-groups-auto-create-organize/)
+* [Chrome Cleanup Tool: Where Did It Go?](/articles/chrome-cleanup-tool-where-did-it-go/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

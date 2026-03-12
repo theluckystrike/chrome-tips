@@ -1,24 +1,14 @@
 ---
-layout: post
 title: Chrome Extensions for Lo Fi Music
 description: Discover the best chrome extensions for lo fi music to enhance your focus,
-  block distractions, and create the perfect ambient atmosphere. Learn how to optimi...
-date: 2026-03-09
-categories:
-- productivity
-- music
-tags:
-- chrome-extensions
-- lofi
-- lo-fi
-- music
-- focus
-- ambient
-- productivity
-- concentration
-author: theluckystrike
+  block distractions, and create the perfect ambient atmosphere. Check out our...
+date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-lo-fi-music
+layout: post
+categories: '[productivity, music]'
+tags: '[chrome-extensions, lofi, lo-fi, music, focus, ambient, productivity, concentration]'
+author: theluckystrike
 ---
 # Chrome Extensions for Lo Fi Music
 
@@ -79,3 +69,9 @@ Your digital workspace should support your goals, and adding the right music ext
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Images Not Loading Fix](/articles/chrome-images-not-loading-fix/)
+* [Chrome Extensions for Password Sharing Securely](/articles/chrome-extensions-for-password-sharing-securely/)
+* [Chrome Text Wrap Balance CSS](/articles/chrome-text-wrap-balance-css/)
+

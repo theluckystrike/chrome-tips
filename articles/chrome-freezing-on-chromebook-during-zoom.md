@@ -2,9 +2,11 @@
 layout: post
 title: Chrome Freezing on Chromebook During Zoom? Try These Fixes
 description: Is Chrome freezing on your Chromebook during Zoom calls? Here's why it
-  happens and how to get your video meetings running smoothly again. Learn how to
-  optimi...
-date: 2025-02-16
+  happens and how to get your video meetings running smoothly again. Check out our
+  expert
+date: '2025-02-16'
+last_modified_at: '2026-03-10'
+permalink: chrome-freezing-on-chromebook-during-zoom
 categories:
 - performance
 - chromebook
@@ -16,8 +18,6 @@ tags:
 - video-calls
 - performance
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-freezing-on-chromebook-during-zoom
 ---
 # Chrome Freezing on Chromebook During Zoom? Try These Fixes
 
@@ -98,3 +98,9 @@ Video calling on Chromebooks has come a long way, and with the right settings an
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Command Line Flags for Low Memory: A Practical Guide](/articles/chrome-command-line-flags-for-low-memory/)
+* [Chrome Notifications Won't Stop Popping Up? Here's How to Fix It](/articles/chrome-notifications-wont-stop-popping-up/)
+* [chrome for github best extensions](/articles/chrome-for-github-best-extensions/)
+

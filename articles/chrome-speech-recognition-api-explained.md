@@ -1,21 +1,13 @@
 ---
 layout: post
 title: Chrome Speech Recognition API Explained
-description: Learn what the Chrome Speech Recognition API is, how it works, and how
-  to use voice features in your browser. Learn how to optimize your browser today
-  for be...
-date: 2025-03-12
-categories:
-- features
-- accessibility
-tags:
-- speech-recognition
-- voice-input
-- chrome-features
-- accessibility
-author: theluckystrike
-last_modified_at: '2026-03-10'
+description: Chrome Speech Recognition API Explained If you have ever searched for "chrome speech recognition api explained," you might have been curious about how Chro
+date: '2025-03-12'
+last_modified_at: '2026-03-12'
 permalink: chrome-speech-recognition-api-explained
+categories: null
+tags: null
+author: theluckystrike
 ---
 # Chrome Speech Recognition API Explained
 
@@ -64,3 +56,8 @@ To get the best experience with voice recognition in Chrome, make sure your micr
 Chrome Speech Recognition API explained is really about understanding how your browser enables voice interaction with websites. This technology has made the web more accessible and convenient, allowing people to type, search, and navigate using just their voice. Whether you are using it for accessibility reasons or just for convenience, knowing how it works helps you troubleshoot issues and make informed decisions about browser settings and extensions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Save Page as Shortcut](/articles/chrome-save-page-as-shortcut/)
+* [Chrome Tab Discarding What It Means](/articles/chrome-tab-discarding-what-it-means/)
+* [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained/)

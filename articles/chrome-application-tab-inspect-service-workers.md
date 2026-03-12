@@ -17,7 +17,7 @@ tags:
 - pwa
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-application-tab-inspect-service-workers
 ---
 # Chrome Application Tab Inspect Service Workers
@@ -176,4 +176,15 @@ Chrome's Application tab provides comprehensive tools for inspecting, debugging,
 
 The ability to simulate push notifications, test background sync, and inspect cache storage makes the Application tab an essential tool for any web developer working with service workers or Progressive Web Apps.
 
+## Related Articles
+* [How to Capture Full Page Screenshots in Chrome Using DevTools](/articles/chrome-screenshot-capture-devtools-full-page/)
+* [Chrome Game Streaming Optimization Tips](/articles/chrome-game-streaming-optimization-tips/)
+* [Chrome Extension for QR Code Generator](/articles/chrome-extension-for-qr-code-generator/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Devtools Color Picker How to Use](/articles//chrome-devtools-color-picker-how-to-use/)
+- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/articles/chrome-err-too-many-redirects-cookie-fix)
+- [Chrome Extensions For Email Templates](/articles//articles/chrome-extensions-for-email-templates/)

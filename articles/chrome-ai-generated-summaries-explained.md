@@ -14,7 +14,7 @@ tags:
 - summaries
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-generated-summaries-explained
 ---
 # Chrome AI Generated Summaries Explained
@@ -77,4 +77,15 @@ Remember that AI summaries are a tool to enhance your reading, not replace it en
 
 As Chrome continues to develop its AI capabilities, expect to see more features like this appearing in your browser. The goal is to make your browsing experience more efficient and help you get to the information you need faster.
 
+## Related Articles
+* [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css/)
+* [Chrome for Trello Power Ups in Browser](/articles/chrome-for-trello-power-ups-in-browser/)
+* [Chrome Navigation Timing API Explained](/articles/chrome-navigation-timing-api-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Side Panel Features Guide](/articles/chrome-side-panel-features-guide)
+- [chrome mobile translate page automatically](/articles/chrome-mobile-translate-page-automatically)
+- [Chrome Cookie Settings for Best Privacy](/articles/chrome-cookie-settings-best-privacy)

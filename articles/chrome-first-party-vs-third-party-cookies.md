@@ -1,22 +1,13 @@
 ---
 layout: post
-title: Chrome First Party Vs Third Party Cookies
-description: Understanding the difference between first party and third party cookies
-  in Chrome. Learn why they matter for privacy and how to manage them. Learn how to
-  op...
-date: 2026-01-15
-categories:
-- browser
-- privacy
-- settings
-tags:
-- chrome
-- cookies
-- privacy
-- browser-settings
+title: "chrome first party vs third party cookies"
+description: "Understanding the difference between first party and third party cookies.............................................................................."
+date: "2026-01-15"
+last_modified_at: '2026-03-12'
+permalink: "chrome-first-party-vs-third-party-cookies"
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-first-party-vs-third-party-cookies
 ---
 # Chrome First Party vs Third Party Cookies
 
@@ -83,3 +74,8 @@ Understanding the difference between chrome first party vs third party cookies e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Autofill Not Working Fix](/articles/chrome-autofill-not-working-fix/)
+* [Chrome Spell Check Adding Custom Words](/articles/chrome-spell-check-adding-custom-words/)
+* [Chrome Extensions For Font Changer On Any Website](/articles//articles/chrome-extensions-for-font-changer-on-any-website//)

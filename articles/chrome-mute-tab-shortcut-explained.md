@@ -2,9 +2,10 @@
 layout: post
 title: Chrome Mute Tab Shortcut Explained
 description: Learn how to quickly mute and unmute audio in Chrome tabs using keyboard
-  shortcuts. Stop annoying auto-playing videos with these simple tricks. Learn how
-  to ...
-date: 2026-03-11
+  shortcuts. Stop annoying auto-playing videos with these simple tricks. Learn effecti...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-mute-tab-shortcut-explained
 categories:
 - features
 - productivity
@@ -14,8 +15,6 @@ tags:
 - audio
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-mute-tab-shortcut-explained
 ---
 # Chrome Mute Tab Shortcut Explained
 
@@ -71,4 +70,15 @@ Remember that the mute indicator in the tab bar is your friend. Get in the habit
 
 Chrome's mute tab shortcut explained simply is about giving you quick, keyboard-driven control over your browser's audio. Whether you are dealing with intrusive auto-play videos, managing multiple audio sources, or just need quick silence, these shortcuts provide the control you need without interrupting your workflow.
 
+## Related Articles
+* [Chrome Accessibility Extensions Best 2026](/articles/chrome-accessibility-extensions-best-2026/)
+* [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions/)
+* [Best Chrome Extensions for Content Creators](/articles/best-chrome-extensions-for-content-creators/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling)
+- [chrome for pinterest web clipper](/articles/chrome-for-pinterest-web-clipper)
+- [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained)

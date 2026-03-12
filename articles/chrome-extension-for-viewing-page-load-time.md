@@ -1,21 +1,15 @@
 ---
-layout: post
 title: Chrome Extension for Viewing Page Load Time
 description: Discover Chrome extensions that show you how long pages take to load.
-  Find out what slows down your browsing and how to fix it. Learn how to optimize
-  your br...
-date: 2026-01-15
-categories:
-- performance
-- extensions
-tags:
-- page-load-time
-- browser-speed
-- chrome-extensions
-- troubleshooting
-author: theluckystrike
+  Find out what slows down your browsing and how to fix it. Discover how these tools
+  can ...
+date: '2026-01-15'
 last_modified_at: '2026-03-10'
 permalink: chrome-extension-for-viewing-page-load-time
+layout: post
+categories: '[performance, extensions]'
+tags: '[page-load-time, browser-speed, chrome-extensions, troubleshooting]'
+author: theluckystrike
 ---
 # Chrome Extension for Viewing Page Load Time
 
@@ -65,4 +59,15 @@ Consider upgrading to a faster internet plan if you frequently find yourself wai
 
 ---
 
+## Related Articles
+* [chrome for google flights tips and tricks](/articles/chrome-for-google-flights-tips-and-tricks/)
+* [Chrome Scroll-Driven Animations: Complete Guide for 2026](/articles/chrome-scroll-driven-animations/)
+* [Chrome Prerender Pages Faster Browsing: Complete Guide](/articles/chrome-prerender-pages-faster-browsing/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Secure DNS: What It Is and How to Enable](/articles/chrome-secure-dns-what-it-is-and-how-to-enable)
+- [Chrome Reading List vs Bookmarks Difference](/articles/chrome-reading-list-vs-bookmarks-difference)
+- [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does)

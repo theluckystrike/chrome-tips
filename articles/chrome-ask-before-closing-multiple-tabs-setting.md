@@ -13,7 +13,7 @@ tags:
 - chrome-settings
 - browser-management
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ask-before-closing-multiple-tabs-setting
 ---
 # Chrome Ask Before Closing Multiple Tabs Setting
@@ -81,3 +81,9 @@ The most important thing is finding a system that works for you and gives you pe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Address Bar Autocomplete How to Clear](/articles/chrome-address-bar-autocomplete-how-to-clear/)
+* [Chrome Web Codecs API Explained](/articles/chrome-web-codecs-api-explained/)
+* [chrome for podcast web players best setup](/articles/chrome-for-podcast-web-players-best-setup/)
+

@@ -2,17 +2,14 @@
 layout: post
 title: How to Make Chrome Open Links in a New Tab
 description: Learn easy methods to make Chrome open links in new tabs. Simple keyboard
-  shortcuts and settings explained. Learn how to optimize your browser today for bett...
-date: 2025-02-19
-categories:
-- browsing-tips
-tags:
-- chrome-links
-- tab-management
-- browser-settings
-author: theluckystrike
+  shortcuts and settings explained. Read our comprehensive guide to learn more and
+  op...
+date: '2025-02-19'
 last_modified_at: '2026-03-10'
 permalink: how-to-make-chrome-open-links-in-new-tab
+categories: '[browsing-tips]'
+tags: '[chrome-links, tab-management, browser-settings]'
+author: theluckystrike
 ---
 # How to Make Chrome Open Links in a New Tab
 
@@ -87,3 +84,9 @@ The keyboard shortcut (Ctrl-click or Command-click) is the fastest once you reme
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Split Screen Two Tabs Side by Side](/articles/chrome-split-screen-two-tabs-side-by-side/)
+* [chrome for online learning best setup](/articles/chrome-for-online-learning-best-setup/)
+* [Chrome CORS Error Explained in Simple Terms](/articles/chrome-cors-error-explained-simple-terms/)
+

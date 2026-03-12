@@ -3,8 +3,10 @@ layout: post
 title: Chrome Permissions Manager Guide
 description: Learn how to manage Chrome permissions for camera, microphone, location,
   notifications, and per-site controls to protect your privacy and security. Learn
-  how...
-date: 2026-01-15
+  eff...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-permissions-manager-guide
 categories:
 - privacy
 - security
@@ -18,8 +20,6 @@ tags:
 - notifications
 - browser-security
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-permissions-manager-guide
 ---
 # Chrome Permissions Manager Guide
 
@@ -217,4 +217,15 @@ Combined with tools like Tab Suspender Pro that help you manage your active brow
 
 ---
 
+## Related Articles
+* [Chrome Password Checkup What It Does](/articles/chrome-password-checkup-what-it-does/)
+* [Chrome Pop Ups on Phone How to Block](/articles/chrome-pop-ups-on-phone-how-to-block/)
+* [Chrome for SEO Analysis Extensions](/articles/chrome-for-seo-analysis-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Offscreen Canvas Performance: A Complete Guide](/articles/chrome-offscreen-canvas-performance)
+- [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents)
+- [How to Change Chrome Font Size Permanently](/articles/chrome-font-size-permanently-change)

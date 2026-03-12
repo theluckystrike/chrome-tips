@@ -3,7 +3,9 @@ layout: post
 title: 'Chrome Overriding CSS in DevTools: A Practical Tutorial'
 description: Learn how to override CSS in Chrome DevTools to test style changes instantly.
   This step-by-step guide covers quick edits, permanent changes, and real-world d...
-date: 2026-01-15
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-overriding-css-in-devtools-tutorial
 categories:
 - chrome
 - devtools
@@ -16,8 +18,6 @@ tags:
 - browser-tools
 - debugging
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-overriding-css-in-devtools-tutorial
 ---
 # Chrome Overriding CSS in DevTools: A Practical Tutorial
 
@@ -185,5 +185,10 @@ Sometimes your overrides don't seem to work. Here's what to check:
 Chrome DevTools is an incredibly powerful CSS editing environment. The ability to override CSS in real-time saves countless hours during development and debugging. Whether you're tweaking a single property or creating entire new rule sets, the instant feedback helps you understand exactly how CSS affects your pages.
 
 Start with simple changes—modify a color or adjust a margin—and gradually explore more advanced features. Before long, you'll wonder how you ever worked without these tools.
+
+## Related Articles
+* [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut//)
+* [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup/)
+* [How to Backup Chrome Bookmarks and Passwords](/articles/how-to-backup-chrome-bookmarks-and-passwords/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

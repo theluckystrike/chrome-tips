@@ -1,22 +1,14 @@
 ---
-layout: post
 title: Chrome Extension Using Too Much Memory? Here's How to Find the Culprit
 description: Is your Chrome browser running slow? Learn how to identify which extension
-  is consuming too much memory and what you can do about it. Learn how to optimize
-  y...
-date: 2026-01-15
-categories:
-- performance
-- extensions
-- troubleshooting
-tags:
-- chrome-extensions
-- memory-usage
-- chrome-performance
-- fix-slow-chrome
-author: theluckystrike
+  is consuming too much memory and what you can do about it. Discover how these tool...
+date: '2026-01-15'
 last_modified_at: '2026-03-11'
 permalink: chrome-extension-using-too-much-memory-find
+layout: post
+categories: '[performance, extensions, troubleshooting]'
+tags: '[chrome-extensions, memory-usage, chrome-performance, fix-slow-chrome]'
+author: theluckystrike
 ---
 # Chrome Extension Using Too Much Memory? Here's How to Find the Culprit
 
@@ -74,4 +66,15 @@ Finally, make a habit of checking the Chrome Task Manager occasionally, especial
 
 Finding which chrome extension is using too much memory does not require technical expertise. With Chrome is built-in tools, you can identify problematic extensions in just a few clicks. Once you know which ones are causing issues, you can either remove them, adjust their settings, or use tools like Tab Suspender Pro to keep your browser running smoothly.
 
+## Related Articles
+* [Chrome Speed Dial Extensions Best](/articles/chrome-speed-dial-extensions-best/)
+* [Chrome MotionMark Graphics Benchmark](/articles/chrome-motionmark-graphics-benchmark/)
+* [Chrome Saved Passwords How to View](/articles/chrome-saved-passwords-how-to-view/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Password Checkup What It Does](/articles/chrome-password-checkup-what-it-does)
+- [Best Chrome Extensions for Video Editors](/articles/best-chrome-extensions-for-video-editors)
+- [Chrome for Quizlet Web App Best Settings](/articles/chrome-for-quizlet-web-app-best-settings)

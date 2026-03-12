@@ -1,10 +1,21 @@
 ---
-title: Chrome Custom Properties Css Variables
-description: ' Learn how to optimize your browser today for better performance...........................................................................................'
-date: '2026-03-12'
-last_modified_at: '2026-03-09'
-permalink: chrome-custom-properties-css-variables
+title: Chrome Custom Properties CSS Variables
+description: Learn how Chrome custom properties CSS variables work and how to use
+  them to build more maintainable websites. Learn more about how to optimize your
+  Chrome
+date: 2026-01-15
+last_modified_at: '%Y->-'
+permalink: /chrome-custom-properties-css-variables/
 layout: post
+categories:
+- web-development
+- features
+tags:
+- css-variables
+- custom-properties
+- web-development
+- chrome-devtools
+author: theluckystrike
 ---
 # Chrome Custom Properties CSS Variables
 
@@ -85,3 +96,9 @@ Take some time to identify the values you repeat most often in your CSS and star
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Google Sheets Keyboard Shortcuts](/articles/chrome-google-sheets-keyboard-shortcuts/)
+* [Chrome Microphone Access on Phone How to Control](/articles/chrome-microphone-access-on-phone-how-to-control/)
+* [Chrome Media Keys Not Working Fix](/articles/chrome-media-keys-not-working-fix/)
+

@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Chrome Cross Device Tab Sync Not Working Fix
 description: Chrome cross device tab sync not working can be frustrating. Learn why
-  tabs do not sync across your devices and how to fix it. Learn how to optimize your
-  bro...
-date: 2025-03-09
+  tabs do not sync across your devices and how to fix it. Read our full guide to master
+  you
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-cross-device-tab-sync-not-working-fix
+layout: post
 categories:
 - troubleshooting
 - tips
@@ -14,8 +16,6 @@ tags:
 - tab-sync-not-working
 - chrome-fix
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-cross-device-tab-sync-not-working-fix
 ---
 # Chrome Cross Device Tab Sync Not Working Fix
 
@@ -98,3 +98,9 @@ Chrome tab sync is incredibly useful when it works, and most of the time it does
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Video Playback Speed Control](/articles/chrome-extensions-for-video-playback-speed-control/)
+* [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use/)
+* [chromebook file manager tips and tricks](/articles/chromebook-file-manager-tips-and-tricks/)
+

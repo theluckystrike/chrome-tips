@@ -1,10 +1,11 @@
 ---
-layout: default
 title: Chrome Coverage Tool Guide
-description: Master Chrome DevTools Coverage tool to identify unused CSS and JavaScript,
-  optimize code splitting, and reduce bundle sizes for faster websites. Learn how
-  t...
-date: 2026-01-15
+description: 'Master Chrome DevTools Coverage tool to identify unused CSS and JavaScript,
+  optimize code splitting, and reduce bundle sizes for faster websites. Read our full '
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-coverage-tool-guide
+layout: default
 categories:
 - development
 - performance
@@ -17,8 +18,6 @@ tags:
 - bundle-optimization
 - web-performance
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-coverage-tool-guide
 ---
 # Chrome Coverage Tool Guide: Optimize Your Code for Better Performance
 
@@ -106,4 +105,9 @@ Finally, combine coverage analysis with other performance tools in Chrome DevToo
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [chrome taking too long to open fix](/articles/chrome-taking-too-long-to-open-fix/)
+* [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained/)
+* [Chromebook External Monitor How to Connect](/articles/chromebook-external-monitor-how-to-connect/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

@@ -1,21 +1,14 @@
 ---
-layout: post
 title: Chrome Extensions for Habit Tracker
 description: Discover the best Chrome extensions for building better habits. Track
-  your daily routines and stay motivated with these helpful tools. Learn how to optimize
-  ...
-date: 2026-01-15
-categories:
-- productivity
-- extensions
-tags:
-- chrome-extensions
-- habit-tracker
-- productivity
-- browser
-author: theluckystrike
+  your daily routines and stay motivated with these helpful tools. Check out our expert...
+date: '2026-01-15'
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-habit-tracker
+layout: post
+categories: '[productivity, extensions]'
+tags: '[chrome-extensions, habit-tracker, productivity, browser]'
+author: theluckystrike
 ---
 # Chrome Extensions for Habit Tracker
 
@@ -94,3 +87,9 @@ With the right extension and a consistent approach, you will be well on your way
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome for Loom Screen Recording Tips](/articles/chrome-for-loom-screen-recording-tips/)
+* [Chrome Using More Memory After an Update? Here's What to Do](/articles/chrome-using-more-memory-after-update/)
+* [Chrome Breakpoints and Conditional Debugging Guide](/articles/chrome-breakpoints-conditional-debugging-guide/)
+

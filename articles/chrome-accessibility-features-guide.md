@@ -15,7 +15,7 @@ tags:
 - browser-accessibility
 - assistive-technology
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-accessibility-features-guide
 ---
 # Chrome Accessibility Features Guide: Everything You Need to Know
@@ -89,5 +89,11 @@ Chrome offers several additional settings worth exploring. The screen magnifier 
 The browser also includes settings to simplify pages by hiding sidebars and cleaning up cluttered content, which can help users with cognitive challenges focus on main content. You can customize these settings in the accessibility section of Chrome settings.
 
 Chrome accessibility features represent significant progress in making the web accessible to everyone. By exploring and configuring these tools, you can transform your browsing experience into something more comfortable, efficient, and enjoyable.
+
+## Related Articles
+- [Chrome Side Panel Features Guide](/chrome-side-panel-features-guide)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chromebook Accessibility Features Guide](/chromebook-accessibility-features-guide)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

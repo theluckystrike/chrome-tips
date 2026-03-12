@@ -2,9 +2,9 @@
 layout: post
 title: Chrome Mobile Dark Mode Force on All Sites
 description: Learn how to force dark mode on every website in Chrome mobile. Easy
-  methods to make all sites dark, even ones without native dark themes. Learn how
-  to optim...
-date: '2026-01-15'
+  methods to make all sites dark, even ones without native dark themes. Learn effective
+  ti...
+date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-mobile-dark-mode-force-on-all-sites
 categories:
@@ -87,3 +87,9 @@ Consider using a combination of the methods described above. For example, you mi
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Live Captions How to Turn On](/articles/chrome-live-captions-how-to-turn-on/)
+* [Chrome View Page Resources How to](/articles/chrome-view-page-resources-how-to/)
+* [Chrome What Technology Is Website Using](/articles/chrome-what-technology-is-website-using/)
+

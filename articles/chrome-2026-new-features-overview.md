@@ -13,7 +13,7 @@ tags:
 - new-features
 - browser-update
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-2026-new-features-overview
 ---
 # Chrome 2026 New Features Overview
@@ -89,3 +89,8 @@ If a feature is not appearing after updating:
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Best New Tab Extension 2026](/chrome-best-new-tab-extension-2026)
+- [Chrome Experimental Features List 2026](/chrome-experimental-features-list-2026)
+- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)

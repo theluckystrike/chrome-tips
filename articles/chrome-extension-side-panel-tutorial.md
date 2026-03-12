@@ -1,23 +1,14 @@
 ---
-layout: default
 title: Chrome Extension Side Panel Tutorial
 description: Learn how to build a Chrome extension with side panel support. This comprehensive
   tutorial covers manifest configuration, HTML/CSS/JS implementation, and bes...
-date: 2026-03-11
-categories:
-- chrome
-- extensions
-- development
-- tutorials
-tags:
-- chrome-extension
-- side-panel
-- chrome-dev
-- extension-development
-- manifest-v3
-author: theluckystrike
+date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-extension-side-panel-tutorial
+layout: default
+categories: '[chrome, extensions, development, tutorials]'
+tags: '[chrome-extension, side-panel, chrome-dev, extension-development, manifest-v3]'
+author: theluckystrike
 ---
 # Chrome Extension Side Panel Tutorial
 
@@ -183,4 +174,15 @@ Extensions like Tab Suspender Pro demonstrate how side panels can deliver signif
 
 Start experimenting with your own side panel extension today, and remember to test thoroughly before publishing to the Chrome Web Store.
 
+## Related Articles
+* [Chrome Navigation Timing API Explained](/articles/chrome-navigation-timing-api-explained/)
+* [How to Change Your Chrome New Tab Background to a Custom Image](/articles/chrome-new-tab-background-change-custom-image/)
+* [chrome default browser how to set on windows](/articles//chrome-default-browser-how-to-set-on-windows//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Canva Companion](/articles//articles/chrome-extensions-for-canva-companion/)
+- [How to Use Chrome DevTools Device Orientation Emulator](/articles//chrome-devtools-device-orientation-emulator/)
+- [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure)

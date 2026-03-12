@@ -17,7 +17,7 @@ tags:
 - jank
 - browser-optimization
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-animation-performance
 ---
 # Chrome Animation Performance Guide
@@ -143,4 +143,15 @@ Remember that optimization is a process. Start with the fundamentals, measure yo
 
 ---
 
+## Related Articles
+* [Chrome User Data Directory: What Each File Does](/articles/chrome-user-data-directory-what-each-file-does/)
+* [Chrome Extensions for Meeting Notes](/articles/chrome-extensions-for-meeting-notes/)
+* [chrome for crypto portfolio tracking web](/articles/chrome-for-crypto-portfolio-tracking-web/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions)
+- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)
+- [chrome for codesandbox optimization](/articles/chrome-for-codesandbox-optimization)

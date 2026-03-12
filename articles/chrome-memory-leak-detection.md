@@ -4,7 +4,9 @@ title: Chrome Memory Leak Detection Guide
 description: Learn how to detect and fix memory leaks in Chrome using heap snapshots,
   allocation timeline, detached DOM analysis, and performance monitor. Complete guide
   ...
-date: 2026-01-20
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chrome-memory-leak-detection
 categories:
 - performance
 - development
@@ -16,8 +18,6 @@ tags:
 - debugging
 - chrome-devtools
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-memory-leak-detection
 ---
 # Chrome Memory Leak Detection Guide
 
@@ -91,4 +91,9 @@ Whether you are a developer debugging a web application or a power user looking 
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Saved Addresses How to Edit](/articles/chrome-saved-addresses-how-to-edit/)
+* [Chrome Extensions For Flight Price Alerts](/articles//articles/chrome-extensions-for-flight-price-alerts//)
+* [Chrome Extensions For Email Finder](/articles//articles/chrome-extensions-for-email-finder//)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

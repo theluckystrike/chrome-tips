@@ -1,20 +1,15 @@
 ---
-layout: post
 title: Chrome Extensions for Mouse Gestures Navigation
 description: Learn how Chrome extensions for mouse gestures navigation can speed up
-  your browsing and reduce keyboard reliance. Learn how to optimize your browser today
-  f...
-date: 2026-03-10
-categories:
-- browsing
-- tips
-tags:
-- chrome-extensions
-- mouse-gestures
-- navigation
-author: theluckystrike
+  your browsing and reduce keyboard reliance. Check out our expert recommendations
+  and...
+date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-mouse-gestures-navigation
+layout: post
+categories: '[browsing, tips]'
+tags: '[chrome-extensions, mouse-gestures, navigation]'
+author: theluckystrike
 ---
 # Chrome Extensions for Mouse Gestures Navigation
 
@@ -75,3 +70,9 @@ Switching to mouse gesture navigation requires a small investment of time to lea
 Give yourself permission to be clumsy at first. You will likely trigger the wrong actions occasionally or forget to use gestures in situations where they would help. That is normal and part of the learning process. Keep at it, and soon gesture navigation will become second nature.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Lazy Loading Images Explained](/articles/chrome-lazy-loading-images-explained/)
+* [Chrome Reading List vs Bookmarks Difference](/articles/chrome-reading-list-vs-bookmarks-difference/)
+* [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords/)
+

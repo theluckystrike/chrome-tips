@@ -2,18 +2,14 @@
 layout: post
 title: How to Block Websites on Chrome
 description: Learn how to block distracting or harmful websites on Chrome using built-in
-  tools and extensions. Simple methods to take control of your browsing. Learn how
-  ...
-date: 2026-03-09
-categories:
-- productivity
-tags:
-- website-blocking
-- parental-controls
-- chrome-settings
-author: theluckystrike
-last_modified_at: '2026-03-09'
+  tools and extensions. Simple methods to take control of your browsing. Read our
+  c...
+date: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: how-to-block-websites-on-chrome
+categories: '[productivity]'
+tags: '[website-blocking, parental-controls, chrome-settings]'
+author: theluckystrike
 ---
 # How to Block Websites on Chrome
 
@@ -86,3 +82,9 @@ Start with the method that matches your technical comfort level and specific nee
 Take some time to set up your preferred method, and enjoy a more productive and controlled browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Malware Removal Without Antivirus](/articles/chrome-malware-removal-without-antivirus/)
+* [Chrome for CodePen in Browser Tips](/articles/chrome-for-codepen-in-browser-tips/)
+* [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management/)
+

@@ -2,9 +2,9 @@
 layout: post
 title: Chrome Workbox Library for Service Workers
 description: Learn how Chrome Workbox simplifies service worker creation for faster,
-  offline-capable websites and extensions. Learn how to optimize your browser today
-  for...
-date: '2026-01-15'
+  offline-capable websites and extensions. Read our comprehensive guide to learn more
+  a...
+date: '2026-01-01'
 last_modified_at: '2026-03-10'
 permalink: chrome-workbox-library-for-service-workers
 ---
@@ -65,3 +65,9 @@ Workbox represents a shift in how developers think about web performance and use
 By handling the complexity of service workers, Workbox lets developers focus on creating great websites and extensions. The library does the heavy lifting so you can spend more time on features that matter to your users and less time debugging caching issues.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Recover Accidentally Closed Chrome Tabs](/articles/accidentally-closed-all-chrome-tabs-recovery/)
+* [Chrome Save Open Tabs as Bookmarks All at Once](/articles/chrome-save-open-tabs-as-bookmarks-all-at-once/)
+* [Chrome Font Palette Customization: Complete Guide for 2026](/articles/chrome-font-palette-customization/)
+

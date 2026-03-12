@@ -2,18 +2,10 @@
 layout: post
 title: Chrome Devtools Screenshot Full Page
 description: Learn how to take full page screenshots using Chrome DevTools. Step-by-step
-  guide for capturing entire web pages easily. Learn how to optimize your browser
-  t...
+  guide for capturing entire web pages easily. Explore our comprehensive guide to
+  ...
 date: 2025-02-19
-categories:
-- browser-tips
-- how-to
-tags:
-- devtools
-- screenshot
-- troubleshooting
-author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-09
 permalink: chrome-devtools-screenshot-full-page
 ---
 # Chrome Devtools Screenshot Full Page
@@ -73,3 +65,9 @@ For the best of both worlds, consider using a combination of methods. Take a scr
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Split Screen Browsing](/articles/chrome-extensions-for-split-screen-browsing/)
+* [chrome right to left language support](/articles/chrome-right-to-left-language-support/)
+* [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms/)
+

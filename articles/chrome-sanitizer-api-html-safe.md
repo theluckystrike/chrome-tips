@@ -17,8 +17,8 @@ tags:
 - xss-protection
 - web-security
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-sanitizer-api-html-safe
+last_modified_at: '2026-03-11'
 ---
 # Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser
 
@@ -102,4 +102,15 @@ Finally, keep your browsers updated to ensure you have the latest security impro
 
 ---
 
+## Related Articles
+* [Chrome Upcoming Features Preview 2026](/articles/chrome-upcoming-features-preview-2026/)
+* [chrome image search by url how to](/articles/chrome-image-search-by-url-how-to/)
+* [How to Recover Accidentally Closed Chrome Tabs](/articles/accidentally-closed-all-chrome-tabs-recovery/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Fix Chrome Downloads Stuck at 100 Percent](/articles/chrome-downloads-stuck-at-100-percent)
+- [How to Fix Chrome ERR_NAME_NOT_RESOLVED Error](/articles/chrome-err-name-not-resolved-fix)
+- [Chrome for Keyboard Shortcut Customization](/articles/chrome-for-keyboard-shortcut-customization)

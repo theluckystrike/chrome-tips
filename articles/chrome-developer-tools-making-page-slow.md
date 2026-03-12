@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Chrome Developer Tools Making Page Slow: What You Need to Know'
-description: Is Chrome Developer Tools making your page slow? Learn how DevTools affects
-  performance and what you can do to speed things up on low-RAM computers. Learn ho...
+description: 'Is Chrome Developer Tools making your page slow? Learn how DevTools
+  affects performance and what you can do to speed things up on low-RAM computers.
+  Learn '
 date: 2026-01-15
 categories:
 - browser-tips
@@ -13,8 +14,8 @@ tags:
 - memory
 - troubleshooting
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-developer-tools-making-page-slow
+last_modified_at: '%Y->-'
+permalink: /chrome-developer-tools-making-page-slow/
 ---
 # Chrome Developer Tools Making Page Slow: What You Need to Know
 
@@ -90,4 +91,9 @@ For users who frequently need DevTools and also have many tabs open, combining D
 
 If Chrome Developer Tools is making your page slow, remember these key points: close unused panels, avoid leaving Network recording running unnecessarily, use separate window docking if helpful, and pair DevTools usage with tab suspension to manage memory effectively on low-RAM systems.
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Extensions for Website Dark Mode Forced](/articles/chrome-extensions-for-website-dark-mode-forced/)
+* [Chrome for Lofi Music Extensions](/articles/chrome-for-lofi-music-extensions/)
+* [Chrome Not Playing Videos Fix](/articles/chrome-not-playing-videos-fix/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

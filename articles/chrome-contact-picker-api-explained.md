@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Chrome Contact Picker API Explained
 description: Learn what Chrome Contact Picker API is, how websites use it, and how
-  to manage contact access permissions in your browser for better privacy. Learn how
-  to o...
-date: 2026-03-09
+  to manage contact access permissions in your browser for better privacy. Read our
+  full gui
+date: '2026-03-09'
+last_modified_at: '%Y->- (origin/fix/lastmod-batch-4)'
+permalink: chrome-contact-picker-api-explained
+layout: post
 categories:
 - features
 - privacy
@@ -14,8 +16,6 @@ tags:
 - chrome-features
 - privacy
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-contact-picker-api-explained
 ---
 # Chrome Contact Picker API Explained
 
@@ -84,3 +84,9 @@ The Chrome Contact Picker API is a useful feature that lets websites access spec
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [how to screenshot full page in chrome](/articles/how-to-screenshot-full-page-in-chrome/)
+* [Chrome Startup Too Slow Diagnosis Guide](/articles/chrome-startup-too-slow-diagnosis-guide/)
+* [Chrome Console Commands: Useful Tricks Every User Should Know](/articles/chrome-console-commands-useful-tricks/)
+

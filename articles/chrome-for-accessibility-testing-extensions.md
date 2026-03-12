@@ -2,8 +2,8 @@
 layout: post
 title: Chrome for Accessibility Testing Extensions
 description: Discover Chrome extensions that help test and improve web accessibility.
-  Make your websites usable for everyone. Learn how to optimize your browser today
-  for...
+  Make your websites usable for everyone. Find out more tips on how to optimize your
+  C...
 date: 2026-01-15
 categories:
 - accessibility
@@ -15,7 +15,7 @@ tags:
 - web-accessibility
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-accessibility-testing-extensions
 ---
 # Chrome for Accessibility Testing Extensions
@@ -89,3 +89,9 @@ Start with one or two extensions that address your most common needs, and gradua
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Open Last Session on Startup](/articles/chrome-open-last-session-on-startup/)
+* [chrome webrtc leak what it is and how to fix](/articles/chrome-webrtc-leak-what-it-is-and-how-to-fix/)
+* [chrome search by image right click how to](/articles/chrome-search-by-image-right-click-how-to/)
+

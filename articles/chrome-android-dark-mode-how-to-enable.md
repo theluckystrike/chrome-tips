@@ -14,7 +14,7 @@ tags:
 - android-tips
 - theme
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-android-dark-mode-how-to-enable
 ---
 # Chrome Android Dark Mode How to Enable
@@ -87,4 +87,15 @@ Dark mode is becoming a standard feature in most apps and websites, so enabling 
 
 Give dark mode a try for a few days to see if it works for you. You can always switch back to light mode by following the same steps and selecting Light or System default from the theme settings.
 
+## Related Articles
+* [Best Extensions for Tab Management Chrome](/articles/best-extensions-for-tab-management-chrome/)
+* [Chrome Largest Contentful Paint Improve Tips](/articles/chrome-largest-contentful-paint-improve-tips/)
+* [How to Speed Up Chrome on 2GB RAM Laptop](/articles/how-to-speed-up-chrome-on-2gb-ram-laptop/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Pop Ups How to Block All](/articles/chrome-pop-ups-how-to-block-all)
+- [chrome performance monitor fps counter](/articles/chrome-performance-monitor-fps-counter)
+- [chrome reduce data usage tips](/articles/chrome-reduce-data-usage-tips)

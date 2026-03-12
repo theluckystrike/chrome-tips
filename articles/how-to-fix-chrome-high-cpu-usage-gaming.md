@@ -2,20 +2,14 @@
 layout: post
 title: How to Fix Chrome High CPU Usage When Gaming
 description: Chrome eating your CPU while you game? Here are practical fixes to lower
-  Chrome's resource usage and enjoy smoother gaming. Learn how to optimize your browse...
-date: 2025-02-20
-categories:
-- performance
-- gaming
-- chrome-tips
-tags:
-- chrome-cpu
-- gaming-performance
-- browser-optimization
-- chrome-slow
-author: theluckystrike
-last_modified_at: '2026-03-09'
+  Chrome's resource usage and enjoy smoother gaming. Read our comprehensive guide
+  to l...
+date: '2025-02-20'
+last_modified_at: '2026-03-12'
 permalink: how-to-fix-chrome-high-cpu-usage-gaming
+categories: '[performance, gaming, chrome-tips]'
+tags: '[chrome-cpu, gaming-performance, browser-optimization, chrome-slow]'
+author: theluckystrike
 ---
 # How to Fix Chrome High CPU Usage When Gaming
 
@@ -84,3 +78,9 @@ Finally, keep an eye on how many programs you have running in the background. Ot
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation/)
+* [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix/)
+* [Chrome Web Vitals Optimization Guide](/articles/chrome-web-vitals-optimization/)
+

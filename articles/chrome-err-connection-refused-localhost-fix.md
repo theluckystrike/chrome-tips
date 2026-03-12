@@ -1,22 +1,14 @@
 ---
-layout: post
 title: How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost
 description: Getting ERR_CONNECTION_REFUSED when accessing localhost in Chrome? Learn
   practical solutions to fix this common development error, from checking server statu...
-date: 2026-01-15
-categories:
-- chrome
-- localhost
-- development
-- troubleshooting
-tags:
-- chrome-error
-- localhost-fix
-- web-development
-- browser-troubleshooting
-author: theluckystrike
+date: '2026-01-15'
 last_modified_at: '2026-03-11'
 permalink: chrome-err-connection-refused-localhost-fix
+layout: post
+categories: '[chrome, localhost, development, troubleshooting]'
+tags: '[chrome-error, localhost-fix, web-development, browser-troubleshooting]'
+author: theluckystrike
 ---
 # How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost
 
@@ -152,4 +144,15 @@ ERR_CONNECTION_REFUSED on localhost is usually a simple fix. In most cases, it's
 
 Remember: always double-check that your development server is running and note the correct port from the terminal output. Most of the time, that's all it takes to get past this error.
 
+## Related Articles
+* [Chrome Screen Flickering Fix](/articles/chrome-screen-flickering-fix/)
+* [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely/)
+* [How to Reduce Chrome Startup Time](/articles/how-to-reduce-chrome-startup-time/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions That Save You Time](/articles/chrome-extensions-that-save-you-time)
+- [Chrome Group Policy Settings Explained](/articles/chrome-group-policy-settings-explained)
+- [Chrome Hardware Acceleration Causes Problems](/articles/chrome-hardware-acceleration-causes-problems)

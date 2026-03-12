@@ -16,7 +16,7 @@ tags:
 - payment-methods
 - address-book
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-autofill-settings-complete
 ---
 # Chrome Autofill Settings Complete Guide
@@ -133,4 +133,15 @@ Chrome autofill is an invaluable feature that can dramatically streamline your w
 
 Remember that autofill is designed to work for you, not the other way around. Take control of your autofill settings, remove outdated information, and enable sync across your devices for maximum convenience. With the right approach, Chrome autofill becomes an invisible assistant that handles the repetitive details of online life, leaving you free to focus on what matters most.
 
+## Related Articles
+* [Chrome Window Size Not Saving Fix](/articles/chrome-window-size-not-saving-fix/)
+* [Chrome ERR_CONNECTION_REFUSED Fix](/articles/chrome-err-connection-refused-fix/)
+* [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome videos buffering slow fix](/articles/chrome-videos-buffering-slow-fix)
+- [Best Privacy Settings For Chrome 2026](/articles/best-privacy-settings-for-chrome-2026)
+- [How to Use Chrome Read Later: Save Articles for Offline Reading](/articles/chrome-read-later-save-articles-offline)

@@ -4,7 +4,9 @@ title: Chrome Breakpoints and Conditional Debugging Guide
 description: Master Chrome DevTools breakpoints and conditional debugging techniques.
   Learn how to set line breakpoints, conditional breakpoints, DOM breakpoints, XHR
   bre...
-date: 2025-03-11
+date: '2025-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-breakpoints-conditional-debugging-guide
 categories:
 - web-development
 - chrome-devtools
@@ -18,8 +20,6 @@ tags:
 - web-development
 - frontend
 author: theluckystrike
-last_modified_at: '2026-03-12'
-permalink: chrome-breakpoints-conditional-debugging-guide
 ---
 # Chrome Breakpoints and Conditional Debugging Guide
 
@@ -83,4 +83,15 @@ The key to effective debugging with breakpoints is practice and experimentation.
 
 ---
 
+## Related Articles
+* [Chrome Tabs on Top vs Bottom: How to Change](/articles/chrome-tabs-on-top-vs-bottom-how-to-change/)
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
+* [chromebook file manager tips and tricks](/articles/chromebook-file-manager-tips-and-tricks/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Zoom Level Per Site How to Set](/articles/chrome-zoom-level-per-site-how-to-set)
+- [Chrome Err Connection Timed Out Fix](/articles/chrome-err-connection-timed-out-fix)
+- [Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide)

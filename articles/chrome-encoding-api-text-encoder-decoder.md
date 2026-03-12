@@ -1,22 +1,15 @@
 ---
-layout: post
 title: Chrome Encoding API Text Encoder Decoder
 description: Learn about the Chrome Encoding API TextEncoder and TextDecoder tools
-  for handling text in web apps. Simple explanations for everyday users. Learn how
-  to opt...
-date: 2025-03-11
-categories:
-- encoding
-- web-development
-tags:
-- encoding
-- text-encoder
-- text-decoder
-- chrome-api
-- web-api
-author: theluckystrike
+  for handling text in web apps. Simple explanations for everyday users. Check out
+  our exper
+date: '2025-03-11'
 last_modified_at: '2026-03-10'
 permalink: chrome-encoding-api-text-encoder-decoder
+layout: post
+categories: '[encoding, web-development]'
+tags: '[encoding, text-encoder, text-decoder, chrome-api, web-api]'
+author: theluckystrike
 ---
 # Chrome Encoding API Text Encoder Decoder
 
@@ -72,4 +65,15 @@ The Chrome Encoding API TextEncoder and TextDecoder might be invisible to most u
 
 ---
 
+## Related Articles
+* [How to Speed Up Chrome on Chromebook in 2026](/articles/how-to-speed-up-chrome-on-chromebook-2026/)
+* [Chrome Full Screen Mode How to Exit Stuck](/articles/chrome-full-screen-mode-how-to-exit-stuck/)
+* [Chrome Extensions for Zoom Meetings](/articles/chrome-extensions-for-zoom-meetings/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome IndexedDB Storage Explained](/articles/chrome-indexeddb-storage-explained)
+- [chrome vs firefox for privacy 2026](/articles/chrome-vs-firefox-for-privacy-2026)
+- [chrome clipboard permission explained](/articles/chrome-clipboard-permission-explained)

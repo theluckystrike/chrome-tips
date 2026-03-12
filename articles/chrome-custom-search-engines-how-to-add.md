@@ -2,8 +2,8 @@
 layout: post
 title: Chrome Custom Search Engines How to Add
 description: Learn how to add and manage custom search engines in Chrome. Step-by-step
-  guide to create shortcuts for faster browsing. Learn how to optimize your browser
-  t...
+  guide to create shortcuts for faster browsing. Learn more about how to optimize
+  y
 date: 2026-03-09
 categories:
 - features
@@ -14,8 +14,8 @@ tags:
 - shortcuts
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-custom-search-engines-how-to-add
+last_modified_at: '%Y->-'
+permalink: /chrome-custom-search-engines-how-to-add/
 ---
 # Chrome Custom Search Engines How to Add
 
@@ -88,3 +88,9 @@ Custom search engines are one of those Chrome features that many people do not k
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Toolbar Missing Fix](/articles/chrome-toolbar-missing-fix/)
+* [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams/)
+* [chrome sandbox mode explained](/articles/chrome-sandbox-mode-explained/)
+

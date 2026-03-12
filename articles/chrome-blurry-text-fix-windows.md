@@ -13,7 +13,7 @@ tags:
 - text-clarity
 - windows-fix
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-blurry-text-fix-windows
 ---
 # Chrome Blurry Text Fix Windows
@@ -91,3 +91,9 @@ Blurry text in Chrome on Windows is annoying, but it is usually fixable. Start w
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Chrome Extensions for Students 2026](/articles/chrome-extensions-for-students/)
+* [Chrome Remote Desktop Slow Fix](/articles/chrome-remote-desktop-slow-fix/)
+* [How to Pin a Website in Chrome Taskbar](/articles/how-to-pin-a-website-in-chrome-taskbar/)
+

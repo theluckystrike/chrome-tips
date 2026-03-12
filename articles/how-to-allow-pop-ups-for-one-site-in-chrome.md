@@ -2,9 +2,9 @@
 layout: post
 title: How to Allow Pop Ups for One Site in Chrome
 description: Step by step guide to letting specific websites open popups in Chrome
-  without turning off your popup blocker. Learn how to optimize your browser today
-  for be...
-date: '2026-01-15'
+  without turning off your popup blocker. Read our comprehensive guide to learn more
+  and ...
+date: '2026-01-01'
 last_modified_at: '2026-03-10'
 permalink: how-to-allow-pop-ups-for-one-site-in-chrome
 ---
@@ -55,3 +55,9 @@ It is smart to occasionally review which sites you have allowed to open popups. 
 Learning how to allow pop ups for one site in Chrome gives you precise control over your browsing experience. You do not have to choose between functionality and protection. By whitelisting specific trusted sites, you can keep your popup blocker active for unwanted windows while allowing legitimate ones to work when you need them. Whether you use the address bar shortcut or go through settings, managing these permissions takes only a few moments and can save you significant frustration.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Habit Tracker](/articles/chrome-extensions-for-habit-tracker/)
+* [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix/)
+* [Chrome Spellcheck Not Working? Here's How to Fix It](/articles/chrome-spellcheck-not-working-fix/)
+

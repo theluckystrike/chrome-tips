@@ -14,7 +14,7 @@ tags:
 - browser-tips
 - history-search
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-powered-history-search
 ---
 # Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past
@@ -75,4 +75,15 @@ In the meantime, the extensions and approaches described here give you powerful 
 
 The key is understanding that standard Chrome search has limits. By recognizing this problem and seeking solutions, you gain back time that would otherwise be lost to fruitless searching.
 
+## Related Articles
+* [Chrome Profile Backup How to Save](/articles/chrome-profile-backup-how-to-save/)
+* [Chrome Using Too Much Disk Space: A Complete Guide](/articles/chrome-using-too-much-disk-space/)
+* [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Google Keep Extension Tips](/articles/chrome-for-google-keep-extension-tips)
+- [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom)
+- [Chrome Accessibility Extensions Best 2026](/articles/chrome-accessibility-extensions-best-2026)

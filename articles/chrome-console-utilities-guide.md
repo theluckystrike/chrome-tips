@@ -1,10 +1,12 @@
 ---
-layout: default
 title: Chrome Console Utilities Reference
 description: Master Chrome DevTools console utilities including dollar sign selectors,
   monitor, copy, debug, keys, and values. Boost productivity with these essential
   con...
-date: 2026-01-20
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chrome-console-utilities-guide
+layout: default
 categories:
 - developer-tools
 - chrome-devtools
@@ -16,8 +18,6 @@ tags:
 - javascript
 - web-development
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-console-utilities-guide
 ---
 # Chrome Console Utilities Reference
 
@@ -113,4 +113,15 @@ Chrome DevTools console utilities are indispensable for any web developer or QA 
 
 These tools require no setup, work across any website, and can be used immediately in the console. Take time to experiment with each utility in your next debugging session, and you will find yourself reaching for them increasingly often. The Chrome console is not just for logging messages; it is a comprehensive development environment that can streamline your workflow and make complex debugging tasks manageable.
 
+## Related Articles
+* [Does Having Many Chrome Extensions Slow Down Browser](/articles/does-having-many-chrome-extensions-slow-down-browser/)
+* [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents/)
+* [Chrome VPN Extension Best Free Options 2026](/articles/chrome-vpn-extension-best-free-options-2026/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome AI Powered Search Suggestions](/articles/chrome-ai-powered-search-suggestions)
+- [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android)
+- [chrome extensions for screen recording free](/articles/chrome-extensions-for-screen-recording-free)

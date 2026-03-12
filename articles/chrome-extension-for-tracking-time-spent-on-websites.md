@@ -1,20 +1,15 @@
 ---
-layout: post
 title: Chrome Extension for Tracking Time Spent on Websites
 description: Learn how to use a chrome extension for tracking time spent on websites
-  to understand your browsing habits and improve productivity. Learn how to optimize
-  yo...
-date: 2026-03-09
-categories:
-- productivity
-- tips
-tags:
-- chrome-extensions
-- time-tracking
-- productivity
-author: theluckystrike
+  to understand your browsing habits and improve productivity. Discover how these
+  tools...
+date: '2026-03-09'
 last_modified_at: '2026-03-10'
 permalink: chrome-extension-for-tracking-time-spent-on-websites
+layout: post
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, time-tracking, productivity]'
+author: theluckystrike
 ---
 # Chrome Extension for Tracking Time Spent on Websites
 
@@ -68,4 +63,15 @@ Finally, share what you learn with others if it helps. Discussing your findings 
 
 ---
 
+## Related Articles
+* [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings/)
+* [How to Use Chrome Profiles Properly — The Complete Guide](/articles/how-to-use-chrome-profiles-properly/)
+* [Chrome Extensions for Site Permissions Manager](/articles/chrome-extensions-for-site-permissions-manager/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Mouse Scroll Not Working Fix](/articles/chrome-mouse-scroll-not-working-fix)
+- [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage/)
+- [Chrome DevTools Flexbox Debugger](/articles/chrome-devtools-flexbox-debugger)

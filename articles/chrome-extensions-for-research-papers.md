@@ -1,20 +1,14 @@
 ---
-layout: post
 title: Chrome Extensions for Research Papers
 description: Discover the best Chrome extensions for research papers that can help
-  you find, organize, and read academic content more efficiently. Learn how to optimize
-  y...
-date: 2026-03-09
-categories:
-- research
-- tips
-tags:
-- chrome-extensions
-- research-papers
-- academic
-author: theluckystrike
+  you find, organize, and read academic content more efficiently. Check out our expert...
+date: '2026-03-09'
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-research-papers
+layout: post
+categories: '[research, tips]'
+tags: '[chrome-extensions, research-papers, academic]'
+author: theluckystrike
 ---
 # Chrome Extensions for Research Papers
 
@@ -71,3 +65,9 @@ Experiment with different extensions to see what fits your workflow best. The go
 With the right extensions handling the technical details, you can devote more mental energy to what truly matters: engaging with the research itself and producing quality academic work.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome 64 bit vs 32 bit How to Check](/articles/chrome-64-bit-vs-32-bit-how-to-check/)
+* [chrome sandbox mode explained](/articles/chrome-sandbox-mode-explained/)
+* [chrome home screen shortcut how to add on phone](/articles/chrome-home-screen-shortcut-how-to-add-on-phone/)
+

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Chrome Shortcuts In Pwa How To Define
+title: chrome shortcuts in pwa how to define
 description: Learn what Chrome shortcuts in PWAs are and how to define them. A simple
-  guide to adding custom shortcuts to your Progressive Web Apps. Learn how to optimize...
+  guide to adding custom shortcuts to your Progressive Web Apps. Read our comprehensive
+  g
 date: 2026-03-10
 categories:
 - pwa
@@ -15,8 +16,8 @@ tags:
 - web-apps
 - progressive-web-apps
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-shortcuts-in-pwa-how-to-define
+last_modified_at: '2026-03-10'
 ---
 # Chrome Shortcuts in PWA How to Define
 
@@ -71,3 +72,9 @@ Chrome shortcuts in PWAs represent one of those features that not many people kn
 The next time you install a new PWA, pay attention to what shortcuts are available. You might discover quick paths to features you use all the time but never realized were just a right-click away. And if you are involved in building PWAs yourself, consider adding well-thought-out shortcuts to improve the user experience for everyone who installs your app.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Web App vs Native App Battery Comparison](/articles/chrome-web-app-vs-native-app-battery-comparison/)
+* [Chrome for Stripe Dashboard Tips](/articles/chrome-for-stripe-dashboard-tips/)
+* [Chrome Text to Speech Built In Feature](/articles/chrome-text-to-speech-built-in-feature/)
+

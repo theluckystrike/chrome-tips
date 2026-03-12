@@ -1,22 +1,14 @@
 ---
 layout: post
-title: Chrome Webgpu Gaming In Browser Future
+title: chrome webgpu gaming in browser future
 description: Explore how Chrome WebGPU is revolutionizing gaming in the browser, enabling
   console-quality graphics and immersive experiences without installations.
-date: 2026-01-20
-categories:
-- gaming
-- technology
-- web-development
-tags:
-- webgpu
-- chrome
-- gaming
-- browser-gaming
-- web-development
-author: theluckystrike
+date: '2026-01-20'
 last_modified_at: '2026-03-11'
 permalink: chrome-webgpu-gaming-in-browser-future
+categories: '[gaming, technology, web-development]'
+tags: '[webgpu, chrome, gaming, browser-gaming, web-development]'
+author: theluckystrike
 ---
 # Chrome WebGPU: The Future of Gaming in Your Browser
 
@@ -72,4 +64,9 @@ Chrome WebGPU represents a pivotal moment in browser technology. What was once a
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Animation Performance Guide](/articles/chrome-animation-performance/)
+* [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals/)
+* [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

@@ -3,7 +3,9 @@ layout: post
 title: Chrome Gesture Navigation Complete Guide
 description: Master Chrome gesture navigation on desktop and mobile. Learn mouse gestures,
   touch controls, and hidden shortcuts to browse faster without keyboard shortcuts.
-date: 2026-01-20
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-gesture-navigation
 categories:
 - productivity
 - tips
@@ -14,8 +16,6 @@ tags:
 - touch-gestures
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-gesture-navigation
 ---
 # Chrome Gesture Navigation Complete Guide
 
@@ -68,3 +68,9 @@ For power users who manage many tabs, chrome gesture navigation combined with ta
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use/)
+* [Chrome Extensions for Instapaper](/articles/chrome-extensions-for-instapaper/)
+* [Chrome Extensions for Amazon Price History](/articles/chrome-extensions-for-amazon-price-history/)
+

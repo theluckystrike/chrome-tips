@@ -1,21 +1,13 @@
 ---
 layout: post
-title: Chrome Jump to Specific Tab Number Shortcut
-description: Learn how to instantly jump to any tab in Chrome using number keys. Save
-  time with this simple keyboard shortcut for tab management. Learn how to optimize
-  yo...
-date: 2025-03-09
-categories:
-- productivity
-- tips
-tags:
-- tabs
-- chrome-tips
-- browser-management
-- shortcuts
+title: "Chrome Jump to Specific Tab Number Shortcut"
+description: "Learn how to instantly jump to any tab in Chrome using number keys. Save.............................................................................."
+date: "2025-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-jump-to-specific-tab-number-shortcut"
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-jump-to-specific-tab-number-shortcut
 ---
 # Chrome Jump to Specific Tab Number Shortcut
 
@@ -62,3 +54,8 @@ If you often have more than nine tabs open and struggle to find specific ones, c
 Chrome is designed to handle many tabs, and these shortcuts are built right in to help you manage them effectively. By taking advantage of these features, you can turn an overwhelming tab bar into a well-organized workspace that works for you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Slow on Windows 10 Old Laptop Fix](/articles/chrome-slow-on-windows-10-old-laptop-fix/)
+* [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location/)
+* [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup/)

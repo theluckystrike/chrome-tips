@@ -4,6 +4,8 @@ title: Chrome Extensions for Vertical Tab Bar
 description: Looking for chrome extensions for vertical tab bar? Discover extensions
   that move your tabs to the side for better organization and more screen space.
 date: 2026-03-09
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-vertical-tab-bar
 categories:
 - productivity
 - tips
@@ -13,8 +15,6 @@ tags:
 - chrome-extensions
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-extensions-for-vertical-tab-bar
 ---
 # Chrome Extensions for Vertical Tab Bar
 
@@ -83,3 +83,9 @@ Most extensions will import your existing tabs automatically, so you do not need
 You might find that you prefer having your vertical tab bar on the left side, or you might move it to the right. You can adjust the width, choose which information is displayed for each tab, and set up keyboard shortcuts for faster navigation. Small adjustments like these can make a big difference in how comfortable your setup feels.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome How to Print Selection Only](/articles/chrome-how-to-print-selection-only/)
+* [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable/)
+* [Chrome Passkeys How to Set Up and Use](/articles/chrome-passkeys-how-to-set-up-and-use/)
+

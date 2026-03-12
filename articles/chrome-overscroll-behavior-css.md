@@ -3,7 +3,9 @@ layout: post
 title: Chrome Overscroll Behavior CSS
 description: Discover how to control Chrome overscroll behavior with CSS. Learn what
   causes unwanted scroll effects and how to fix them for a smoother browsing experience.
-date: 2026-01-21
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-overscroll-behavior-css
 categories:
 - css
 - development
@@ -13,8 +15,6 @@ tags:
 - css
 - web-development
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-overscroll-behavior-css
 ---
 If you have ever been scrolling through a webpage in Chrome and noticed the page keeps stretching or bouncing after you reach the top or bottom, you have experienced what is called overscroll behavior. Many people search for "chrome overscroll behavior css" because they want to understand why this happens and how to control it. This guide will explain what overscroll behavior is, why it can be frustrating, and what you can do about it.
 
@@ -62,4 +62,15 @@ Some developers combine **overscroll-behavior** with JavaScript to create entire
 
 If you are looking for a solution that works across websites without needing to modify code, browser extensions can help. **Tab Suspender Pro** is one option that can help manage how tabs behave, including some aspects of scrolling performance. This extension is part of the Zovo extension suite designed to improve your browsing experience. While it may not directly control CSS overscroll behavior on every website, it can help with overall tab management and performance.
 
+## Related Articles
+* [Chrome Hidden Games Easter Eggs List](/articles/chrome-hidden-games-easter-eggs-list/)
+* [chrome for obs browser source tips](/articles/chrome-for-obs-browser-source-tips/)
+* [Should I Switch to Firefox for Less RAM? A Practical Guide](/articles/should-i-switch-to-firefox-for-less-ram/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory)
+- [Chrome Helper Renderer High CPU Mac Fix](/articles/chrome-helper-renderer-high-cpu-mac-fix)
+- [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/articles/chrome-freezing-on-chromebook-during-zoom)

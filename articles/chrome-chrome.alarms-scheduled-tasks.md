@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome chrome.alarms API for Scheduled Tasks
-description: Learn how to use the chrome.alarms API to schedule recurring tasks and timed events in your Chrome extensions.
+description: Learn how to use the chrome.alarms API to schedule recurring tasks and
+  timed events in your Chrome extensions.
 date: 2026-01-15
 categories:
 - extensions
@@ -12,10 +13,9 @@ tags:
 - chrome-extensions
 - development
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: /articles/chrome-chrome.alarms-scheduled-tasks/
 ---
-
 # Chrome chrome.alarms API for Scheduled Tasks
 
 If you are building a Chrome extension that needs to perform actions at specific times or intervals, the **chrome.alarms API** is exactly what you need. This powerful API allows you to schedule tasks to run in the future, either once or repeatedly. Whether you want to refresh data periodically, show notifications at certain times, or automate background tasks, the chrome.alarms API provides a reliable way to handle scheduled operations in your extension.
@@ -92,4 +92,15 @@ The **chrome.alarms API** is an essential tool for Chrome extension developers w
 
 Combined with other Chrome APIs, chrome.alarms opens up a wide range of possibilities for extension functionality. Whether you are building a productivity tool, a notification system, or an automated tab manager like **Tab Suspender Pro**, the ability to schedule tasks reliably is a valuable feature that enhances the user experience.
 
+## Related Articles
+* [chrome extensions for screenshot full page](/articles/chrome-extensions-for-screenshot-full-page/)
+* [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup/)
+* [chrome for google translate extension tips](/articles/chrome-for-google-translate-extension-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/articles/chrome-incognito-mode-what-it-actually-does)
+- [Laptop Freezing When Opening Chrome: Practical Solutions That Actually Work](/articles/laptop-freezing-when-opening-chrome)
+- [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/articles/chrome-slow-on-work-computer-vpn)

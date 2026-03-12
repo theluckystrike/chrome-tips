@@ -2,20 +2,14 @@
 layout: post
 title: Chrome Timeline Recording Explained
 description: Learn how to use Chrome's timeline recording feature to understand what
-  happens when pages load and find performance issues. Learn how to optimize your
-  brows...
-date: 2026-03-09
-categories:
-- performance
-- troubleshooting
-tags:
-- chrome-devtools
-- performance
-- timeline
-- browser-tools
-author: theluckystrike
-last_modified_at: '2026-03-10'
+  happens when pages load and find performance issues. Read our comprehensive guide
+  to ...
+date: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-timeline-recording-explained
+categories: '[performance, troubleshooting]'
+tags: '[chrome-devtools, performance, timeline, browser-tools]'
+author: theluckystrike
 ---
 # Chrome Timeline Recording Explained
 
@@ -73,4 +67,15 @@ It also helps when Chrome has been gradually getting slower over time. By record
 
 ---
 
+## Related Articles
+* [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to/)
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
+* [Chrome Extensions for Link Checker Broken Links](/articles/chrome-extensions-for-link-checker-broken-links/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide)
+- [Chrome Components Page Update Manually](/articles/chrome-components-page-update-manually)
+- [Chrome Local Font Access for Web Design](/articles/chrome-local-font-access-web-design)

@@ -3,7 +3,9 @@ layout: post
 title: Chrome MediaRecorder API Guide
 description: Learn how to use the Chrome MediaRecorder API for audio, video, and screen
   recording in web applications. Complete guide covering MediaStream handling, encod...
-date: 2026-01-20
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-mediarecorder-api-guide
 categories:
 - development
 - chrome
@@ -17,8 +19,6 @@ tags:
 - screen-recording
 - browser-api
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-mediarecorder-api-guide
 ---
 # Chrome MediaRecorder API Guide
 
@@ -108,4 +108,15 @@ Finally, consider the end-to-end workflow for your recorded content. The MediaRe
 
 ---
 
+## Related Articles
+* [Chrome Extensions For Dns Lookup](/articles//articles/chrome-extensions-for-dns-lookup//)
+* [Best Chrome Extensions for HR Professionals](/articles/best-chrome-extensions-for-hr-professionals/)
+* [Chrome Extensions for YouTube Productivity](/articles/chrome-extensions-for-youtube-productivity/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome WebAuthn Passwordless Login](/articles/chrome-webauthn-passwordless-login)
+- [Chrome Mouse Cursor Extension Customize](/articles/chrome-mouse-cursor-extension-customize)
+- [Chrome Extensions for iMacros Alternative](/articles/chrome-extensions-for-imacros-alternative)

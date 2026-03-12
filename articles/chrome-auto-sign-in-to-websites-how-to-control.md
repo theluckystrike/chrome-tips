@@ -14,7 +14,7 @@ tags:
 - chrome-sign-in
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-auto-sign-in-to-websites-how-to-control
 ---
 # Chrome Auto Sign In to Websites How to Control
@@ -72,3 +72,9 @@ Take some time to explore the settings we've discussed and experiment with diffe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for WhatsApp Web Tips and Tricks](/articles/chrome-for-whatsapp-web-tips-and-tricks/)
+* [Chrome for Speed Reading Extensions](/articles/chrome-for-speed-reading-extensions/)
+* [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix/)
+

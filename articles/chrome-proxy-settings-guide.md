@@ -3,7 +3,9 @@ layout: post
 title: Chrome Proxy Settings Guide
 description: Complete guide to Chrome proxy settings including system proxy configuration,
   PAC files, SOCKS5 proxy setup, and Chrome extension proxies. Optimize your brow...
-date: 2026-01-15
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-proxy-settings-guide
 categories:
 - privacy
 - security
@@ -16,8 +18,6 @@ tags:
 - chrome-extensions
 - privacy
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-proxy-settings-guide
 ---
 # Chrome Proxy Settings Guide
 
@@ -215,4 +215,15 @@ With this knowledge, you are now equipped to configure Chrome proxy settings eff
 
 ---
 
+## Related Articles
+* [Chrome Layer Cascade CSS: A Complete Guide to Modern Style Management](/articles/chrome-layer-cascade-css/)
+* [Chrome Extensions for Web Development Tools](/articles/chrome-extensions-for-web-development-tools/)
+* [Chrome Camera Access on Phone How to Manage](/articles/chrome-camera-access-on-phone-how-to-manage/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Group Tabs by Color in Chrome: A Complete Guide](/articles/chrome-group-tabs-by-color-organize)
+- [Chrome Camera Not Working Fix](/articles/chrome-camera-not-working-fix)
+- [Chrome Extensions for Text Comparison Diff Tool](/articles/chrome-extensions-for-text-comparison-diff-tool)

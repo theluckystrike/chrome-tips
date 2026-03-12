@@ -1,20 +1,13 @@
 ---
-layout: default
-title: Chrome Omnibox Tricks You Should Know
-description: Learn powerful Chrome omnibox tricks to search faster, navigate quickly,
-  and boost your productivity with these simple tips. Learn how to optimize your brows...
-date: 2025-02-20
-categories:
-- productivity
-- tips
-tags:
-- chrome-omnibox
-- chrome-tips
-- browser-tips
-- productivity
+layout: post
+title: "Chrome Omnibox Tricks You Should Know"
+description: "Learn powerful Chrome omnibox tricks to search faster, navigate quickly,.............................................................................."
+date: "2026-03-10"
+last_modified_at: '2026-03-12'
+permalink: "chrome-omnibox-tricks-you-should-know"
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-omnibox-tricks-you-should-know
 ---
 # Chrome Omnibox Tricks You Should Know
 
@@ -80,4 +73,15 @@ You can open an incognito window quickly by pressing **Ctrl+Shift+N** on Windows
 
 The omnibox is one of the most powerful features in Chrome, yet most people only use it to type website addresses. These tricks can significantly speed up your browsing and make you more productive. Start with the ones that apply to your daily workflow and add more as you get comfortable. Once you start using these omnibox tricks regularly, you will wonder how you ever browsed without them.
 
+## Related Articles
+* [Chrome Cache First vs Network First Strategy](/articles/chrome-cache-first-vs-network-first-strategy/)
+* [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/articles/chrome-extension-using-too-much-memory-find/)
+* [Chrome Devtools Security Panel Explained](/articles/chrome-devtools-security-panel-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Hidden Games Easter Eggs List](/articles/chrome-hidden-games-easter-eggs-list)
+- [Chrome Safe Search How to Lock](/articles/chrome-safe-search-how-to-lock)
+- [Chrome Password Not Autofilling Fix](/articles/chrome-password-not-autofilling-fix)

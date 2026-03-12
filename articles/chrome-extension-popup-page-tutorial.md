@@ -1,22 +1,15 @@
 ---
-layout: post
 title: Chrome Extension Popup Page Tutorial
 description: Learn how to create a Chrome extension popup page from scratch. This
-  tutorial covers HTML, CSS, JavaScript, and manifest configuration. Learn how to
-  optimize...
-date: 2026-01-20
-categories:
-- tutorials
-- extensions
-- development
-tags:
-- chrome-extensions
-- popup
-- tutorial
-- web-development
-author: theluckystrike
+  tutorial covers HTML, CSS, JavaScript, and manifest configuration. Discover how
+  these to...
+date: '2026-01-20'
 last_modified_at: '2026-03-11'
 permalink: chrome-extension-popup-page-tutorial
+layout: post
+categories: '[tutorials, extensions, development]'
+tags: '[chrome-extensions, popup, tutorial, web-development]'
+author: theluckystrike
 ---
 # Chrome Extension Popup Page Tutorial
 
@@ -160,4 +153,15 @@ Building a popup is often one of the first steps in extension development becaus
 
 Creating a Chrome extension popup page is a straightforward process once you understand the file structure and manifest configuration. By combining HTML for structure, CSS for styling, and JavaScript for interactivity, you can build popups that are both functional and visually appealing. Start with this basic tutorial, experiment with your own ideas, and you will be on your way to building powerful Chrome extensions in no time.
 
+## Related Articles
+* [Chrome DevTools Command Menu Shortcuts](/articles//chrome-devtools-command-menu-shortcuts//)
+* [Chrome Status Code 502 Bad Gateway Fix](/articles/chrome-status-code-502-bad-gateway-fix/)
+* [chrome reduce data usage tips](/articles/chrome-reduce-data-usage-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Students 2026](/articles/chrome-extensions-for-students)
+- [Chrome Extensions For Focus And Productivity](/articles//articles/chrome-extensions-for-focus-and-productivity/)
+- [Chrome Helper Renderer Using Too Much CPU](/articles/chrome-helper-renderer-using-too-much-cpu)

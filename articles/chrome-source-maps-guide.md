@@ -16,8 +16,8 @@ tags:
 - web-development
 - javascript-debugging
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-source-maps-guide
+last_modified_at: '2026-03-10'
 ---
 Chrome source maps are one of the most powerful yet often overlooked features available to web developers. When configured correctly, they transform the debugging experience from an exercise in frustration into a streamlined workflow that can save countless hours of development time. Whether you are working with a complex webpack build system, debugging production issues, or trying to understand how a third-party library works, source maps provide the bridge between the code you write and the code that actually runs in the browser.
 
@@ -124,4 +124,15 @@ Chrome source maps are an indispensable tool for modern web development, providi
 
 Whether you are working with webpack, debugging minified code, or setting up error tracking for production applications, source maps provide the visibility you need to understand and fix problems quickly. Take the time to configure them correctly in your projects, and you will find that debugging complex web applications becomes far more manageable.
 
+## Related Articles
+* [Chrome Multiple Profiles How to Switch Quickly](/articles/chrome-multiple-profiles-how-to-switch-quickly/)
+* [chrome extension for measuring things on screen](/articles/chrome-extension-for-measuring-things-on-screen/)
+* [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Video Conferencing Enhancement](/articles/chrome-extensions-for-video-conferencing-enhancement)
+- [chrome for recipe browsing without ads](/articles/chrome-for-recipe-browsing-without-ads)
+- [Chrome Shadow DOM What It Is](/articles/chrome-shadow-dom-what-it-is)

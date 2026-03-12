@@ -2,21 +2,14 @@
 layout: post
 title: Chrome Web GPU API Explained
 description: What is Chrome Web GPU API and how to use it for better browser graphics
-  performance. A simple guide for everyone. Learn how to optimize your browser today
-  f...
-date: 2026-01-15
-categories:
-- performance
-- gpu
-- web-development
-tags:
-- chrome-web-gpu
-- web-gpu-api
-- browser-graphics
-- chrome-performance
-author: theluckystrike
-last_modified_at: '2026-03-09'
+  performance. A simple guide for everyone. Read our comprehensive guide to learn
+  more...
+date: '2026-01-15'
+last_modified_at: '2026-03-12'
 permalink: chrome-web-gpu-api-explained
+categories: '[performance, gpu, web-development]'
+tags: '[chrome-web-gpu, web-gpu-api, browser-graphics, chrome-performance]'
+author: theluckystrike
 ---
 # Chrome Web GPU API Explained
 
@@ -75,3 +68,9 @@ The combination of powerful new web technologies like Web GPU and smart resource
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Customize Chrome Toolbar](/articles/how-to-customize-chrome-toolbar/)
+* [Chrome MediaRecorder API Guide](/articles/chrome-mediarecorder-api-guide/)
+* [Chrome Multiple Windows vs Tabs Which Is Better](/articles/chrome-multiple-windows-vs-tabs-which-is-better/)
+

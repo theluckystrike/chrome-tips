@@ -14,7 +14,7 @@ tags:
 - chrome-tips
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-commands-you-didnt-know
 ---
 # Chrome Address Bar Commands You Didnt Know
@@ -93,5 +93,11 @@ The true "pro" way to use the address bar involves mastering the keyboard. These
 - **Shift+Delete**: Permanently removes a highlighted autocomplete suggestion so you never see it again.
 
 By integrating these commands and shortcuts into your daily routine, you can drastically reduce the time you spend navigating through menus and clicking on UI elements. The Omnibox isn’t just an address bar—it’s the command center of your entire web experience.
+
+## Related Articles
+- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [Chrome Coupons In Address Bar Feature](/chrome-coupons-in-address-bar-feature)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

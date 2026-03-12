@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Chrome Extensions For Website Distraction Blocker
+title: chrome extensions for website distraction blocker
 description: Discover chrome extensions for website distraction blocker to stay focused,
-  boost productivity, and reduce digital distractions while browsing. Learn how to
-  ...
+  boost productivity, and reduce digital distractions while browsing. Read our comp...
 date: 2026-01-15
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-website-distraction-blocker
 categories:
 - extensions
 - productivity
@@ -14,8 +15,6 @@ tags:
 - productivity
 - focus
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-extensions-for-website-distraction-blocker
 ---
 # Chrome Extensions for Website Distraction Blocker
 
@@ -88,3 +87,9 @@ Finally, be patient with yourself. Building new habits takes time, and setbacks 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Best Settings for Streaming Video](/articles/chrome-best-settings-for-streaming-video/)
+* [Chrome Developer Tools for Non Developers](/articles//chrome-developer-tools-for-non-developers//)
+* [Chrome Guest Browsing for Shared Computers](/articles/chrome-guest-browsing-for-shared-computers/)
+

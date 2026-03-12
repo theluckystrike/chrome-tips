@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Chrome Font Editor in DevTools Explained
-description: Learn what the Chrome Font Editor in DevTools does, how to access it,
-  and how to use it to inspect and adjust fonts on any website. Learn how to optimize
-  you...
-date: '2026-01-15'
-last_modified_at: '2026-03-09'
-permalink: chrome-font-editor-in-devtools-explained
+title: "Chrome Font Editor in DevTools Explained"
+description: "Learn what the Chrome Font Editor in DevTools does, how to access it,................................................................................."
+date: "2026-01-15"
+last_modified_at: '2026-03-12'
+permalink: "chrome-font-editor-in-devtools-explained"
 ---
 Chrome font editor in DevTools explained is something many people search for when they want to understand or modify the fonts they see on websites. Maybe you have visited a page and loved the typography but had no idea how to figure out what font was being used. Or perhaps you have been struggling to read text on a site because the font size was too small. The good news is that Chrome has a built-in tool called the Font Editor that can help with both of these situations, and you do not need any technical experience to use it.
 
@@ -75,3 +73,8 @@ The more you use the Font Editor, the more comfortable you will become with DevT
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app/)
+* [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing/)
+* [Chrome Sandbox Mode Explained Simply](/articles/chrome-sandbox-mode-explained-simply/)

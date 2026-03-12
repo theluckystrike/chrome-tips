@@ -3,7 +3,9 @@ layout: default
 title: Chrome Lighthouse Audit Complete Guide
 description: Master Chrome Lighthouse audits with this comprehensive guide covering
   performance scores, accessibility, SEO, and PWA validation for faster, more accessible...
-date: 2026-01-20
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chrome-lighthouse-audit-guide
 categories:
 - web-development
 - performance
@@ -17,8 +19,6 @@ tags:
 - pwa
 - web-audit
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-lighthouse-audit-guide
 ---
 # Chrome Lighthouse Audit Complete Guide
 
@@ -98,4 +98,15 @@ It is also important to prioritize based on your specific goals. If you are prim
 
 ---
 
+## Related Articles
+* [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature/)
+* [Chrome Slow After Hibernation Fix](/articles/chrome-slow-after-hibernation-fix/)
+* [Chrome Memory Saver Mode How to Use](/articles/chrome-memory-saver-mode-how-to-use/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Certificate Transparency Explained Simply](/articles/chrome-certificate-transparency-explained-simply)
+- [Chrome Extension for Managing Multiple Email Accounts](/articles/chrome-extension-for-managing-multiple-email-accounts)
+- [Chrome Coverage Tool: Find Unused JavaScript](/articles/chrome-coverage-tool-find-unused-javascript)

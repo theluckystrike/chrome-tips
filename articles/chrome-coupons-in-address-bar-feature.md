@@ -1,10 +1,12 @@
 ---
-layout: post
-title: Chrome Coupons In Address Bar Feature
+title: chrome coupons in address bar feature
 description: Learn how the chrome coupons in address bar feature works and discover
-  tools that automatically find and apply coupon codes while you shop online. Learn
-  how ...
-date: 2026-01-15
+  tools that automatically find and apply coupon codes while you shop online. Read
+  our full
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-coupons-in-address-bar-feature
+layout: post
 categories:
 - extensions
 - shopping
@@ -14,8 +16,6 @@ tags:
 - shopping
 - deals
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-coupons-in-address-bar-feature
 ---
 # Chrome Coupons in Address Bar Feature
 
@@ -82,3 +82,9 @@ Additionally, coupon codes found through browser extensions may not always be th
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome vs Safari on Mac — Which Uses Less Battery?](/articles/chrome-vs-safari-on-mac-battery/)
+* [chrome kiosk mode how to set up](/articles/chrome-kiosk-mode-how-to-set-up/)
+* [Chrome Saved Passwords How to See Them](/articles/chrome-saved-passwords-how-to-see-them/)
+

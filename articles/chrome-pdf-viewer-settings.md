@@ -2,9 +2,10 @@
 layout: post
 title: 'Chrome PDF Viewer Settings: Complete Customization Guide'
 description: Learn how to customize Chrome's built-in PDF viewer settings for better
-  reading, printing, and viewing experience. Learn how to optimize your browser today
-  f...
-date: 2026-01-15
+  reading, printing, and viewing experience. Learn effective tips and tricks to optimiz...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-pdf-viewer-settings
 categories:
 - productivity
 - pdf
@@ -15,8 +16,6 @@ tags:
 - browser-settings
 - chrome
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-pdf-viewer-settings
 ---
 # Chrome PDF Viewer Settings: Complete Customization Guide
 
@@ -94,4 +93,15 @@ Take time to explore the toolbar options and keyboard shortcuts to find what wor
 
 For power users managing multiple PDF documents, consider incorporating tab management tools to maintain performance while keeping reference materials accessible. The combination of Chrome's native capabilities and thoughtful browser extensions creates a productive PDF workflow that serves both casual and professional needs.
 
+## Related Articles
+* [Chrome Recorder Panel Guide](/articles/chrome-recorder-panel-guide/)
+* [Chrome Extensions for Tab Grouping Automatically](/articles/chrome-extensions-for-tab-grouping-automatically/)
+* [Chrome for Canva Web App Optimization](/articles/chrome-for-canva-web-app-optimization/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Restore Closed Tabs in Chrome](/articles/chrome-restore-closed-tabs-guide)
+- [Chrome for Research Workflow Best Setup](/articles/chrome-for-research-workflow-best-setup)
+- [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching)

@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Chrome Recently Closed Tabs Shortcut
+title: chrome recently closed tabs shortcut
 description: Learn how to quickly access and reopen your recently closed tabs in Chrome
-  using simple shortcuts and built-in features. Learn how to optimize your browser
-  t...
-date: 2025-01-15
+  using simple shortcuts and built-in features. Learn effective tips and tricks to
+  o...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-recently-closed-tabs-shortcut
 categories:
 - browsing
 - productivity
@@ -14,8 +16,6 @@ tags:
 - browser-tips
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-recently-closed-tabs-shortcut
 ---
 # Chrome Recently Closed Tabs Shortcut
 
@@ -75,4 +75,15 @@ For users who frequently need to recover closed tabs, consider enabling Chrome's
 
 The chrome recently closed tabs shortcut is a simple but powerful tool that every Chrome user should know. Whether you prefer using Ctrl+Shift+T on Windows or Cmd+Shift+T on Mac, or you prefer using the right click menu or history, there are multiple ways to access your recently closed tabs. By understanding these methods and incorporating good tab management habits into your browsing routine, you can work more efficiently and avoid the stress of losing important pages.
 
+## Related Articles
+* [How to Restore Closed Tabs in Chrome](/articles/chrome-restore-closed-tabs-guide/)
+* [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they/)
+* [Chrome MotionMark Graphics Benchmark](/articles/chrome-motionmark-graphics-benchmark/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Descript Web App Optimization](/articles/chrome-for-descript-web-app-optimization)
+- [chrome how to block specific website notifications](/articles/chrome-how-to-block-specific-website-notifications)
+- [how to make chrome default browser windows 11](/articles/how-to-make-chrome-default-browser-windows-11)

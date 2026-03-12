@@ -4,6 +4,8 @@ title: 'How to Find a Tab by Name in Chrome: Complete Guide'
 description: Struggling to find a specific tab in Chrome? Learn built-in methods and
   extensions to quickly search and locate tabs by name, title, or URL. Practical soluti...
 date: 2026-01-15
+last_modified_at: '2026-03-11'
+permalink: chrome-find-tab-by-name-search
 categories:
 - chrome
 - tabs
@@ -14,8 +16,6 @@ tags:
 - browser-tips
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-find-tab-by-name-search
 ---
 # How to Find a Tab by Name in Chrome: Complete Guide
 
@@ -109,4 +109,15 @@ Finding a specific tab in Chrome is easy once you know these methods:
 
 Next time you have 20 tabs open and can't find that one important page, try these shortcuts. They'll save you time and frustration—whether you're on a fast desktop or a slower computer with limited resources.
 
+## Related Articles
+* [Chrome Slow With Many Tabs Open? Here's How to Fix It](/articles/chrome-slow-with-many-tabs-open/)
+* [Chrome Startup Pages How to Set Multiple](/articles/chrome-startup-pages-how-to-set-multiple/)
+* [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Job Hunting 2026](/articles/chrome-extensions-for-job-hunting-2026)
+- [Best Chrome Extensions for Working From Home](/articles/best-chrome-extensions-for-working-from-home)
+- [Chrome Shared Storage API Explained](/articles/chrome-shared-storage-api-explained)

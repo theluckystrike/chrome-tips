@@ -1,19 +1,14 @@
 ---
-layout: post
 title: Chrome Event Timing API Explained
 description: Learn what the Chrome Event Timing API is, how it works, and why it matters
-  for measuring input responsiveness in web applications. Learn how to optimize you...
-date: 2026-03-10
-categories:
-- performance
-- web-development
-tags:
-- chrome-performance
-- browser-tools
-- chrome-tips
-author: theluckystrike
+  for measuring input responsiveness in web applications. Check out our expert recomme
+date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-event-timing-api-explained
+layout: post
+categories: '[performance, web-development]'
+tags: '[chrome-performance, browser-tools, chrome-tips]'
+author: theluckystrike
 ---
 # Chrome Event Timing API Explained
 
@@ -71,4 +66,15 @@ One solution worth considering is Tab Suspender Pro, which automatically pauses 
 
 Keeping your tabs organized and managing how many you have open is a simple way to ensure a better browsing experience. Combined with the improvements that developers make using tools like the Event Timing API, you can enjoy a faster, more responsive web.
 
+## Related Articles
+* [Chrome Extensions for Auto Refresh Page](/articles/chrome-extensions-for-auto-refresh-page/)
+* [Chrome Layers Panel Guide](/articles/chrome-layers-panel-guide/)
+* [chrome for vpn extensions comparison](/articles/chrome-for-vpn-extensions-comparison/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about)
+- [Chrome Math Symbols How to Type](/articles/chrome-math-symbols-how-to-type)
+- [Chrome Address Bar Suggestions How to Clear](/articles/chrome-address-bar-suggestions-how-to-clear)

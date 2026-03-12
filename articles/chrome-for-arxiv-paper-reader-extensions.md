@@ -2,7 +2,7 @@
 layout: post
 title: Chrome for Arxiv Paper Reader Extensions
 description: Discover the best Chrome extensions for reading Arxiv papers more efficiently,
-  with features for better formatting and organization. Learn how to optimize yo...
+  with features for better formatting and organization. Find out more tips on ho...
 date: 2026-03-10
 categories:
 - browsing
@@ -13,7 +13,7 @@ tags:
 - academic
 - reading
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-arxiv-paper-reader-extensions
 ---
 # Chrome for Arxiv Paper Reader Extensions
@@ -55,3 +55,9 @@ Everyone reads and processes information differently, so the best combination of
 The key is to start with one or two extensions that address your biggest frustration with reading Arxiv papers, see how they work for you, and then add more tools only if needed. This approach prevents overwhelm and helps you build a setup that truly enhances your research reading experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Energy Saver Mode Explained](/articles/chrome-energy-saver-mode-explained/)
+* [Chrome Version History: Major Milestones That Shaped the Browser](/articles/chrome-version-history-major-milestones/)
+* [Chrome Extensions for Auto Refresh Page](/articles/chrome-extensions-for-auto-refresh-page/)
+

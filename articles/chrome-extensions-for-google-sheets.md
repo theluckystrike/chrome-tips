@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Chrome Extensions for Google Sheets
 description: Struggling with too many Google Sheets tabs? Learn which Chrome extensions
-  can help you work smarter with spreadsheets. Learn how to optimize your browser
-  to...
-date: '2026-01-15'
+  can help you work smarter with spreadsheets. Check out our expert recommendations...
+date: '2026-01-01'
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-google-sheets
+layout: post
 ---
 Chrome extensions for Google Sheets can genuinely transform how you work with spreadsheets. If you find yourself juggling dozens of sheet tabs, struggling to keep track of important data, or wasting time on repetitive tasks, the right extension can make a real difference. Let me walk you through some common problems people face and the extensions that can help solve them.
 
@@ -53,3 +52,9 @@ The right combination of extensions can genuinely improve your Google Sheets exp
 Take some time to think about where you are spending the most effort. Is it finding the right tab? Waiting for your browser to respond? Manually moving data between sheets? Identifying your biggest frustration will help you choose the extension that will make the most difference.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug/)
+* [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely/)
+* [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable/)
+

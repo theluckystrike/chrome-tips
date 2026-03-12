@@ -1,20 +1,15 @@
 ---
-layout: post
 title: Chrome Extensions for Meeting Notes
 description: Find the best Chrome extensions for meeting notes to capture key points,
-  stay organized, and follow up effectively. Learn how to optimize your browser today
-  ...
-date: 2026-03-10
-categories:
-- productivity
-- tips
-tags:
-- chrome-extensions
-- meetings
-- notes
-author: theluckystrike
+  stay organized, and follow up effectively. Check out our expert recommendations
+  and...
+date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-meeting-notes
+layout: post
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, meetings, notes]'
+author: theluckystrike
 ---
 # Chrome Extensions for Meeting Notes
 
@@ -97,3 +92,9 @@ If typing while listening is difficult, try a transcription tool like Otter.ai. 
 Start with one or two extensions that address your biggest pain point. You can always add more tools as you discover other needs. The goal is to find a system that lets you stay engaged in meetings while still capturing the information you need.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Time Tracking](/articles/chrome-extensions-for-time-tracking/)
+* [Chrome WebGL Crashing Fix](/articles/chrome-webgl-crashing-fix/)
+* [Chrome Extension for Managing Multiple Email Accounts](/articles/chrome-extension-for-managing-multiple-email-accounts/)
+

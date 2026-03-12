@@ -2,8 +2,7 @@
 layout: post
 title: Chrome Custom Tabs on Android What They Are
 description: Curious about Chrome Custom Tabs on Android and what they do? Learn how
-  this feature affects your browsing and when you might encounter it. Learn how to
-  opti...
+  this feature affects your browsing and when you might encounter it. Learn more abou
 date: 2026-01-15
 categories:
 - mobile
@@ -13,8 +12,8 @@ tags:
 - custom-tabs
 - mobile-browser
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-custom-tabs-on-android-what-they-are
+last_modified_at: '%Y->-'
+permalink: /chrome-custom-tabs-on-android-what-they-are/
 ---
 # Chrome Custom Tabs on Android What They Are
 
@@ -73,3 +72,9 @@ As an Android user, you encounter this feature dozens of times per day without e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking//)
+* [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs/)
+* [Chrome Reset All Settings: What Gets Deleted](/articles/chrome-reset-all-settings-what-gets-deleted/)
+

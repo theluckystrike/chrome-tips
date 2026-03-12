@@ -1,20 +1,15 @@
 ---
-layout: post
 title: Chrome Extensions for Podcasters
 description: Essential Chrome extensions to boost your podcast production workflow
-  and save time on research, writing, and promotion. Learn how to optimize your browser
-  t...
-date: 2026-03-10
-categories:
-- productivity
-- podcasting
-tags:
-- chrome-extensions
-- podcasters
-- browser-tools
-author: theluckystrike
+  and save time on research, writing, and promotion. Check out our expert... Learn
+  more abou
+date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-podcasters
+layout: post
+categories: '[productivity, podcasting]'
+tags: '[chrome-extensions, podcasters, browser-tools]'
+author: theluckystrike
 ---
 # Chrome Extensions for Podcasters
 
@@ -79,3 +74,9 @@ Once you find the right set of tools, you will notice significant improvements i
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome for recipe browsing without ads](/articles/chrome-for-recipe-browsing-without-ads/)
+* [chrome reduce data usage tips](/articles/chrome-reduce-data-usage-tips/)
+* [Chrome Live Captions Languages: Complete Setup Guide](/articles/chrome-live-captions-languages/)
+

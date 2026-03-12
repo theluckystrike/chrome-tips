@@ -2,7 +2,7 @@
 layout: post
 title: Chrome for DeFi Dashboard Extensions
 description: Discover Chrome extensions for DeFi dashboards to manage your decentralized
-  finance portfolio directly in your browser. Learn how to optimize your browser to...
+  finance portfolio directly in your browser. Find out more tips on how to optimize...
 date: 2026-03-10
 categories:
 - defi
@@ -13,7 +13,7 @@ tags:
 - dashboard
 - browser-tools
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-defi-dashboard-extensions
 ---
 # Chrome for DeFi Dashboard Extensions
@@ -61,3 +61,9 @@ Never enter your private keys or seed phrases into a browser extension. Legitima
 Regularly review which extensions have access to your wallet addresses and revoke access for any extensions you no longer use. This is good security practice that minimizes your exposure in case an extension is ever compromised.
 
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices/)
+* [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer/)
+* [Chrome Tabs Keep Reloading When I Switch Back](/articles/chrome-tabs-keep-reloading-when-i-switch-back/)
+

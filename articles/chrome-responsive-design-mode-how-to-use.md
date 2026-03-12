@@ -14,8 +14,8 @@ tags:
 - web-testing
 - design-mode
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-responsive-design-mode-how-to-use
+last_modified_at: '2026-03-11'
 ---
 # Chrome Responsive Design Mode: How to Use It Effectively
 
@@ -85,4 +85,16 @@ Also remember to test both with and without scrollbars. Some responsive designs 
 
 ---
 
+## Related Articles
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
+
+
 Built by theluckystrike — More tips at zovo.one
+
+## Related Articles
+* [chrome trusted types dom xss prevent](/articles/chrome-trusted-types-dom-xss-prevent/)
+* [Chrome Fullscreen Not Working Fix](/articles/chrome-fullscreen-not-working-fix/)
+* [Best Chrome Extensions for Email Management](/articles/best-chrome-extensions-for-email-management/)
+

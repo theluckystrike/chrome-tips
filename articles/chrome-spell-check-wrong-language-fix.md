@@ -1,20 +1,13 @@
 ---
 layout: post
 title: Chrome Spell Check Wrong Language Fix
-description: Is Chrome spell check using the wrong language? Here is how to fix it
-  and get accurate spelling suggestions in your preferred language. Learn how to optimize...
-date: 2025-03-15
-categories:
-- troubleshooting
-- features
-tags:
-- spellcheck
-- chrome-fix
-- language
-- spelling
-author: theluckystrike
-last_modified_at: '2026-03-10'
+description: Chrome Spell Check Wrong Language Fix You are typing an email or filling out a form in Chrome and the red squiggly lines are showing up under words that ar
+date: '2025-03-15'
+last_modified_at: '2026-03-12'
 permalink: chrome-spell-check-wrong-language-fix
+categories: null
+tags: null
+author: theluckystrike
 ---
 # Chrome Spell Check Wrong Language Fix
 
@@ -83,3 +76,8 @@ Once you have everything set up correctly, you should see accurate red squiggly 
 If you continue to have issues after trying these steps, you might want to consider using a dedicated spell check extension or reaching out to Chrome support for more specific help with your situation.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup/)
+* [Chrome Extensions for iMacros Alternative](/articles/chrome-extensions-for-imacros-alternative/)
+* [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide/)

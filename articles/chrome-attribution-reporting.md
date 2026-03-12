@@ -15,7 +15,7 @@ tags:
 - privacy
 - advertising
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-attribution-reporting
 ---
 # Chrome Attribution Reporting Guide
@@ -210,4 +210,9 @@ Advertisers and publishers who adopt attribution reporting early will be better 
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature/)
+* [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/articles/how-to-limit-chrome-ram-usage-mac/)
+* [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

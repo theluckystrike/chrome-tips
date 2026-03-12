@@ -17,7 +17,7 @@ tags:
 - pwa
 - web-development
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-application-panel-guide
 ---
 # Chrome Application Panel Guide
@@ -172,4 +172,15 @@ Take time to explore each section of the Application panel in your own projects.
 
 ---
 
+## Related Articles
+* [chrome for soundcloud web player extensions](/articles/chrome-for-soundcloud-web-player-extensions/)
+* [Chrome Keeps Logging Me Out of Websites Fix](/articles/chrome-keeps-logging-me-out-of-websites-fix/)
+* [Chrome Location Access on Phone How to Control](/articles/chrome-location-access-on-phone-how-to-control/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Lazy Loading Images How It Works](/articles/chrome-lazy-loading-images-how-it-works)
+- [Best Chrome Extensions for Twitch Streamers](/articles/best-chrome-extensions-for-twitch-streamers)
+- [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations)

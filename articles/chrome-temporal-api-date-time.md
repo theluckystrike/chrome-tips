@@ -3,7 +3,7 @@ layout: post
 title: 'Chrome Temporal API Date Time: A Complete Guide to Modern Date Handling'
 description: Learn how to use the Chrome Temporal API for advanced date and time operations.
   Discover practical examples, browser support, and how it improves upon tradit...
-date: '2026-01-15'
+date: '2026-01-01'
 last_modified_at: '2026-03-11'
 permalink: chrome-temporal-api-date-time
 ---
@@ -95,4 +95,15 @@ The clarity and reliability that Temporal provides make it especially valuable f
 
 For managing browser resources while working with date-intensive applications, consider using **Tab Suspender Pro** to automatically suspend inactive tabs. When you are testing complex date-handling features or running multiple development instances, Tab Suspender Pro helps maintain browser performance by freeing up memory from tabs you are not actively using.
 
+## Related Articles
+* [chrome for apple music web player tips](/articles/chrome-for-apple-music-web-player-tips/)
+* [Chrome Extensions for Highlighting Text on Web](/articles/chrome-extensions-for-highlighting-text-on-web/)
+* [Chrome Slow on Android Fix](/articles/chrome-slow-on-android-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Reduce Chrome Startup Time](/articles/how-to-reduce-chrome-startup-time)
+- [Chrome for Font Identification Extensions](/articles/chrome-for-font-identification-extensions)
+- [How Many Chrome Tabs Can I Have Open](/articles/how-many-chrome-tabs-can-i-have-open)

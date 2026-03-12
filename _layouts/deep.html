@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+
+  <!-- Canonical -->
+  {% if page.canonical_url %}
+  <link rel="canonical" href="{{ page.canonical_url }}">
+  {% else %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  {% endif %}
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  {% if page.image %}
+  <meta property="og:image" content="{{ page.image | absolute_url }}">
+  {% endif %}
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  {% if page.last_modified_at %}
+  <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}">
+  {% endif %}
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+  {% if page.image %}
+  <meta name="twitter:image" content="{{ page.image | absolute_url }}">
+  {% endif %}
+
+  {% seo %}
+
+  <!-- Article Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ page.title | jsonify }},
+    "description": {{ page.description | default: site.description | jsonify }},
+    "author": {
+      "@type": "Person",
+      "name": "theluckystrike",
+      "url": "https://github.com/theluckystrike"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Zovo",
+      "url": "https://zovo.one"
+    },
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    {% if page.last_modified_at %}"dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",{% endif %}
+    {% if page.word_count %}"wordCount": {{ page.word_count }},{% endif %}
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}"
+    }
+  }
+  </script>
+
+  <!-- FAQPage Schema -->
+  {% if page.faq and page.faq.size > 0 %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {% for item in page.faq %}
+      {
+        "@type": "Question",
+        "name": {{ item.q | jsonify }},
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ item.a | jsonify }}
+        }
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {% endif %}
+
+  <!-- Inter Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    /* ── Reset & Base ──────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      line-height: 1.7;
+      color: #1a1a2e;
+      background: #fff;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    /* ── Layout Shell ──────────────────────────────────── */
+    .deep-layout {
+      display: grid;
+      grid-template-columns: 1fr;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+
+    @media (min-width: 1025px) {
+      .deep-layout {
+        grid-template-columns: 1fr 260px;
+        gap: 48px;
+        padding: 0 40px;
+      }
+    }
+
+    /* ── Header ────────────────────────────────────────── */
+    .site-header {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px 20px;
+    }
+
+    @media (min-width: 1025px) {
+      .site-header { padding: 20px 40px; }
+    }
+
+    .site-header a {
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05em;
+      color: #6C5CE7;
+    }
+
+    .site-header a:hover { color: #5a4bd4; }
+
+    /* ── Article Area ──────────────────────────────────── */
+    .article-content {
+      max-width: 800px;
+      width: 100%;
+      padding: 20px 0 60px;
+    }
+
+    .article-title {
+      font-size: 2.1em;
+      font-weight: 700;
+      line-height: 1.25;
+      color: #1a1a2e;
+      margin-bottom: 12px;
+      letter-spacing: -0.02em;
+    }
+
+    .article-meta {
+      font-size: 0.9em;
+      color: #6b7280;
+      margin-bottom: 32px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .article-meta .sep {
+      color: #d1d5db;
+    }
+
+    .article-meta time {
+      color: #6b7280;
+    }
+
+    /* ── Key Facts Box (GEO) ───────────────────────────── */
+    .key-facts {
+      background: #f0f1f6;
+      border-left: 4px solid #6C5CE7;
+      border-radius: 0 8px 8px 0;
+      padding: 20px 24px;
+      margin-bottom: 36px;
+    }
+
+    .key-facts-title {
+      font-size: 0.85em;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #6C5CE7;
+      margin-bottom: 12px;
+    }
+
+    .key-facts ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .key-facts li {
+      position: relative;
+      padding-left: 20px;
+      margin-bottom: 8px;
+      font-size: 0.95em;
+      line-height: 1.55;
+      color: #374151;
+    }
+
+    .key-facts li:last-child { margin-bottom: 0; }
+
+    .key-facts li::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 9px;
+      width: 8px;
+      height: 8px;
+      background: #6C5CE7;
+      border-radius: 50%;
+      opacity: 0.6;
+    }
+
+    /* ── Content Typography ─────────────────────────────── */
+    .article-body h2 {
+      font-size: 1.5em;
+      font-weight: 700;
+      margin-top: 2.4em;
+      margin-bottom: 0.6em;
+      color: #1a1a2e;
+      letter-spacing: -0.01em;
+    }
+
+    .article-body h3 {
+      font-size: 1.2em;
+      font-weight: 600;
+      margin-top: 1.8em;
+      margin-bottom: 0.5em;
+      color: #374151;
+    }
+
+    .article-body h4 {
+      font-size: 1.05em;
+      font-weight: 600;
+      margin-top: 1.4em;
+      margin-bottom: 0.4em;
+      color: #4b5563;
+    }
+
+    .article-body p {
+      margin-bottom: 1.2em;
+      font-size: 1.05em;
+      color: #374151;
+    }
+
+    .article-body a {
+      color: #6C5CE7;
+      text-decoration: underline;
+      text-decoration-color: rgba(108, 92, 231, 0.3);
+      text-underline-offset: 2px;
+      transition: text-decoration-color 0.15s;
+    }
+
+    .article-body a:hover {
+      text-decoration-color: #6C5CE7;
+    }
+
+    .article-body ul, .article-body ol {
+      margin-bottom: 1.2em;
+      padding-left: 1.6em;
+    }
+
+    .article-body li {
+      margin-bottom: 0.4em;
+      font-size: 1.05em;
+      color: #374151;
+    }
+
+    .article-body blockquote {
+      border-left: 3px solid #6C5CE7;
+      margin: 1.6em 0;
+      padding: 0.8em 1.2em;
+      background: #faf9ff;
+      border-radius: 0 6px 6px 0;
+      color: #4b5563;
+      font-style: italic;
+    }
+
+    .article-body blockquote p:last-child { margin-bottom: 0; }
+
+    .article-body img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin: 1.6em 0;
+    }
+
+    .article-body table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.6em 0;
+      font-size: 0.95em;
+    }
+
+    .article-body th, .article-body td {
+      padding: 10px 14px;
+      border: 1px solid #e5e7eb;
+      text-align: left;
+    }
+
+    .article-body th {
+      background: #f8f8fc;
+      font-weight: 600;
+      color: #1a1a2e;
+    }
+
+    .article-body hr {
+      border: none;
+      border-top: 1px solid #e5e7eb;
+      margin: 2em 0;
+    }
+
+    /* ── Code Blocks ───────────────────────────────────── */
+    .article-body code {
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      font-size: 0.88em;
+      background: #f3f4f6;
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #5b21b6;
+    }
+
+    .article-body pre {
+      background: #1e1e2e;
+      color: #cdd6f4;
+      padding: 20px 24px;
+      border-radius: 8px;
+      overflow-x: auto;
+      margin: 1.6em 0;
+      line-height: 1.5;
+    }
+
+    .article-body pre code {
+      background: none;
+      padding: 0;
+      border-radius: 0;
+      color: inherit;
+      font-size: 0.9em;
+    }
+
+    /* ── Table of Contents (Sidebar) ───────────────────── */
+    .toc-sidebar {
+      display: none;
+    }
+
+    @media (min-width: 1025px) {
+      .toc-sidebar {
+        display: block;
+        padding-top: 20px;
+      }
+
+      .toc-container {
+        position: sticky;
+        top: 24px;
+        max-height: calc(100vh - 48px);
+        overflow-y: auto;
+      }
+    }
+
+    .toc-label {
+      font-size: 0.78em;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #9ca3af;
+      margin-bottom: 12px;
+    }
+
+    .toc-list {
+      list-style: none;
+      padding: 0;
+      border-left: 2px solid #e5e7eb;
+    }
+
+    .toc-list li {
+      margin: 0;
+    }
+
+    .toc-list a {
+      display: block;
+      padding: 4px 0 4px 16px;
+      font-size: 0.85em;
+      color: #6b7280;
+      text-decoration: none;
+      border-left: 2px solid transparent;
+      margin-left: -2px;
+      transition: color 0.15s, border-color 0.15s;
+      line-height: 1.4;
+    }
+
+    .toc-list a:hover {
+      color: #6C5CE7;
+    }
+
+    .toc-list a.active {
+      color: #6C5CE7;
+      border-left-color: #6C5CE7;
+      font-weight: 500;
+    }
+
+    .toc-list .toc-h3 a {
+      padding-left: 32px;
+      font-size: 0.82em;
+    }
+
+    /* ── Mobile TOC ────────────────────────────────────── */
+    .toc-mobile {
+      display: block;
+      margin-bottom: 32px;
+    }
+
+    @media (min-width: 1025px) {
+      .toc-mobile { display: none; }
+    }
+
+    .toc-mobile-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      background: #f8f8fc;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      padding: 12px 16px;
+      cursor: pointer;
+      font-family: inherit;
+      font-size: 0.9em;
+      font-weight: 600;
+      color: #374151;
+    }
+
+    .toc-mobile-toggle .toc-chevron {
+      transition: transform 0.2s;
+      font-size: 0.8em;
+      color: #9ca3af;
+    }
+
+    .toc-mobile-toggle[aria-expanded="true"] .toc-chevron {
+      transform: rotate(180deg);
+    }
+
+    .toc-mobile-list {
+      list-style: none;
+      padding: 8px 0 0 0;
+      display: none;
+    }
+
+    .toc-mobile-list.open {
+      display: block;
+    }
+
+    .toc-mobile-list a {
+      display: block;
+      padding: 6px 16px;
+      font-size: 0.88em;
+      color: #6b7280;
+      text-decoration: none;
+    }
+
+    .toc-mobile-list a:hover { color: #6C5CE7; }
+
+    .toc-mobile-list .toc-h3 a {
+      padding-left: 32px;
+      font-size: 0.84em;
+    }
+
+    /* ── FAQ Section ────────────────────────────────────── */
+    .faq-section {
+      margin-top: 3em;
+      padding-top: 2em;
+      border-top: 1px solid #e5e7eb;
+    }
+
+    .faq-section h2 {
+      font-size: 1.5em;
+      font-weight: 700;
+      margin-bottom: 1em;
+      color: #1a1a2e;
+    }
+
+    .faq-item {
+      margin-bottom: 1.4em;
+    }
+
+    .faq-item h3 {
+      font-size: 1.08em;
+      font-weight: 600;
+      color: #1a1a2e;
+      margin-bottom: 0.3em;
+    }
+
+    .faq-item p {
+      font-size: 1em;
+      color: #4b5563;
+      line-height: 1.65;
+    }
+
+    /* ── Footer ─────────────────────────────────────────── */
+    .site-footer {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px 20px;
+      border-top: 1px solid #e5e7eb;
+      font-size: 0.88em;
+      color: #9ca3af;
+    }
+
+    @media (min-width: 1025px) {
+      .site-footer { padding: 24px 40px; }
+    }
+
+    .site-footer a {
+      color: #6C5CE7;
+      text-decoration: none;
+    }
+
+    .site-footer a:hover { text-decoration: underline; }
+
+    .footer-categories {
+      margin-top: 8px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .footer-categories a {
+      display: inline-block;
+      padding: 3px 10px;
+      background: #f3f4f6;
+      border-radius: 4px;
+      font-size: 0.88em;
+      color: #6b7280;
+      text-decoration: none;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .footer-categories a:hover {
+      background: #ede9fe;
+      color: #6C5CE7;
+    }
+
+    /* ── Scrollbar (TOC) ───────────────────────────────── */
+    .toc-container::-webkit-scrollbar { width: 3px; }
+    .toc-container::-webkit-scrollbar-track { background: transparent; }
+    .toc-container::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 3px; }
+
+    /* ── Print ──────────────────────────────────────────── */
+    @media print {
+      .toc-sidebar, .toc-mobile, .site-header, .site-footer { display: none; }
+      .deep-layout { display: block; }
+      .article-content { max-width: 100%; }
+      body { color: #000; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+  </header>
+
+  <div class="deep-layout">
+
+    <!-- ── Article Column ──────────────────────────────── -->
+    <article class="article-content">
+      <h1 class="article-title">{{ page.title }}</h1>
+
+      <div class="article-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+        {% if page.reading_time or page.word_count %}
+        <span class="sep">&middot;</span>
+        {% if page.reading_time %}{{ page.reading_time }} min read{% endif %}
+        {% if page.reading_time and page.word_count %} &middot; {% endif %}
+        {% if page.word_count %}{{ page.word_count | number_with_delimiter }} words{% endif %}
+        {% endif %}
+      </div>
+
+      <!-- Key Facts (GEO Summary Box) -->
+      {% if page.geo.key_facts and page.geo.key_facts.size > 0 %}
+      <div class="key-facts">
+        <div class="key-facts-title">Key Facts</div>
+        <ul>
+          {% for fact in page.geo.key_facts %}
+          <li>{{ fact }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      <!-- Mobile TOC -->
+      <nav class="toc-mobile" aria-label="Table of contents">
+        <button class="toc-mobile-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'true' ? 'false' : 'true'); this.nextElementSibling.classList.toggle('open');">
+          <span>Table of Contents</span>
+          <span class="toc-chevron">&#9660;</span>
+        </button>
+        <ul class="toc-mobile-list" id="toc-mobile-list"></ul>
+      </nav>
+
+      <!-- Article Body -->
+      <div class="article-body" id="article-body">
+        {{ content }}
+      </div>
+
+      <!-- FAQ Section (rendered from frontmatter) -->
+      {% if page.faq and page.faq.size > 0 %}
+      <section class="faq-section">
+        <h2>Frequently Asked Questions</h2>
+        {% for item in page.faq %}
+        <div class="faq-item">
+          <h3>{{ item.q }}</h3>
+          <p>{{ item.a }}</p>
+        </div>
+        {% endfor %}
+      </section>
+      {% endif %}
+    </article>
+
+    <!-- ── Desktop TOC Sidebar ─────────────────────────── -->
+    <aside class="toc-sidebar" aria-label="Table of contents">
+      <div class="toc-container">
+        <div class="toc-label">On this page</div>
+        <ul class="toc-list" id="toc-desktop-list"></ul>
+      </div>
+    </aside>
+
+  </div>
+
+  <footer class="site-footer">
+    <div>Built by theluckystrike &mdash; More tips at <a href="https://zovo.one">zovo.one</a></div>
+    {% if site.categories and site.categories.size > 0 %}
+    <div class="footer-categories">
+      {% for category in site.categories %}
+      <a href="{{ site.baseurl }}/categories/{{ category[0] | slugify }}/">{{ category[0] }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </footer>
+
+  <!-- ── TOC Generation + Active Tracking ─────────────── -->
+  <script>
+  (function () {
+    var body = document.getElementById('article-body');
+    if (!body) return;
+
+    var headings = body.querySelectorAll('h2, h3');
+    if (headings.length === 0) return;
+
+    var desktopList = document.getElementById('toc-desktop-list');
+    var mobileList = document.getElementById('toc-mobile-list');
+
+    headings.forEach(function (heading, i) {
+      // Ensure heading has an ID for anchor linking
+      if (!heading.id) {
+        heading.id = 'heading-' + i + '-' + heading.textContent
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, '-')
+          .replace(/(^-|-$)/g, '');
+      }
+
+      var level = heading.tagName.toLowerCase(); // 'h2' or 'h3'
+      var text = heading.textContent;
+      var href = '#' + heading.id;
+
+      // Desktop TOC item
+      if (desktopList) {
+        var li = document.createElement('li');
+        if (level === 'h3') li.className = 'toc-h3';
+        var a = document.createElement('a');
+        a.href = href;
+        a.textContent = text;
+        a.setAttribute('data-target', heading.id);
+        li.appendChild(a);
+        desktopList.appendChild(li);
+      }
+
+      // Mobile TOC item
+      if (mobileList) {
+        var mLi = document.createElement('li');
+        if (level === 'h3') mLi.className = 'toc-h3';
+        var mA = document.createElement('a');
+        mA.href = href;
+        mA.textContent = text;
+        mA.addEventListener('click', function () {
+          // Close mobile TOC on click
+          var toggle = document.querySelector('.toc-mobile-toggle');
+          if (toggle) {
+            toggle.setAttribute('aria-expanded', 'false');
+            mobileList.classList.remove('open');
+          }
+        });
+        mLi.appendChild(mA);
+        mobileList.appendChild(mLi);
+      }
+    });
+
+    // Active heading tracking (desktop only)
+    if (!desktopList) return;
+
+    var tocLinks = desktopList.querySelectorAll('a[data-target]');
+    var headingEls = Array.from(headings);
+    var ticking = false;
+
+    function updateActive() {
+      var scrollY = window.scrollY || window.pageYOffset;
+      var current = null;
+
+      for (var i = headingEls.length - 1; i >= 0; i--) {
+        if (headingEls[i].getBoundingClientRect().top <= 80) {
+          current = headingEls[i].id;
+          break;
+        }
+      }
+
+      tocLinks.forEach(function (link) {
+        if (link.getAttribute('data-target') === current) {
+          link.classList.add('active');
+        } else {
+          link.classList.remove('active');
+        }
+      });
+
+      ticking = false;
+    }
+
+    window.addEventListener('scroll', function () {
+      if (!ticking) {
+        requestAnimationFrame(updateActive);
+        ticking = true;
+      }
+    }, { passive: true });
+
+    // Initial highlight
+    updateActive();
+  })();
+  </script>
+
+</body>
+</html>

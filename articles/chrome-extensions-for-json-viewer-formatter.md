@@ -1,21 +1,15 @@
 ---
-layout: post
 title: Chrome Extensions for JSON Viewer Formatter
 description: Struggling with messy JSON data? Discover the best Chrome extensions
-  for JSON viewer formatter tools that make reading raw data simple. Learn how to
-  optimize...
-date: 2026-01-20
-categories:
-- tools
-- extensions
-tags:
-- chrome-extensions
-- json
-- developer-tools
-- browser
-author: theluckystrike
+  for JSON viewer formatter tools that make reading raw data simple. Check out our
+  expert...
+date: '2026-01-20'
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-json-viewer-formatter
+layout: post
+categories: '[tools, extensions]'
+tags: '[chrome-extensions, json, developer-tools, browser]'
+author: theluckystrike
 ---
 # Chrome Extensions for JSON Viewer Formatter
 
@@ -76,3 +70,9 @@ Take some time to try a few different extensions and see which interface works b
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Content Encoding Error Fix](/articles/chrome-content-encoding-error-fix/)
+* [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/articles/chrome-your-computer-is-infected-popup-fix/)
+* [Chrome Keeps Logging Me Out of Sites Fix](/articles/chrome-keeps-logging-me-out-of-sites-fix/)
+

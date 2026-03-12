@@ -1,11 +1,12 @@
 ---
 title: Chrome Site Keeps Asking for Notifications? Here's How to Stop It
 description: Tired of websites constantly asking for permission to send notifications?
-  Learn practical solutions to stop notification requests in Chrome for good. Learn
-  h...
-date: '2026-01-15'
-last_modified_at: '2026-03-11'
+  Learn practical solutions to stop notification requests in Chrome for good. Read
+  our c
 permalink: chrome-site-keeps-asking-for-notifications-stop
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+layout: post
 ---
 Does this sound familiar? You're trying to read an article or shop online, and suddenly a popup appears asking if you want to allow notifications. You click "Block" or "No thanks," but the same site asks again a few minutes later. Or worse—different sites keep prompting you over and over.
 
@@ -120,4 +121,15 @@ Try the solution that fits your situation, and enjoy a less interrupted browsing
 
 ---
 
+## Related Articles
+* [Chrome for MDN Web Docs Extension](/articles/chrome-for-mdn-web-docs-extension/)
+* [Chrome Live Captions How to Turn On](/articles/chrome-live-captions-how-to-turn-on/)
+* [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https)
+- [Chrome Web USB API Explained](/articles/chrome-web-usb-api-explained)
+- [Chrome User Agent String: What It Is and How It Works](/articles/chrome-user-agent-string-what-it-is)

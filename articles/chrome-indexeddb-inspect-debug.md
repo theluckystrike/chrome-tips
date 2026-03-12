@@ -1,9 +1,9 @@
 ---
 title: 'How to Inspect and Debug IndexedDB in Chrome: A Complete Guide'
 description: Learn how to inspect, query, and debug IndexedDB databases in Chrome
-  DevTools with practical tips for developers. Learn how to optimize your browser
-  today fo...
-date: '2026-01-15'
+  DevTools with practical tips for developers. Check out our expert recommendations
+  and tips
+date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-indexeddb-inspect-debug
 ---
@@ -97,4 +97,15 @@ Whether you're building offline-capable PWAs, managing complex client-side state
 
 ---
 
+## Related Articles
+* [Chrome for Text to Speech on Any Page](/articles/chrome-for-text-to-speech-on-any-page/)
+* [Chrome for Snapchat Web Tips](/articles/chrome-for-snapchat-web-tips/)
+* [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix)
+- [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely)
+- [Chrome for iPad Tips and Tricks](/articles/chrome-for-ipad-tips-and-tricks)

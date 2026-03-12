@@ -2,8 +2,8 @@
 layout: default
 title: Chrome Split Screen Two Tabs Side by Side
 description: Learn how to view two Chrome tabs side by side. Use built-in features
-  and extensions to split your screen for better multitasking and productivity. Learn
-  how...
+  and extensions to split your screen for better multitasking and productivity. Read
+  our com
 date: 2025-03-09
 categories:
 - features
@@ -15,7 +15,7 @@ tags:
 - productivity
 - chrome-features
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-split-screen-two-tabs-side-by-side
 ---
 # Chrome Split Screen Two Tabs Side by Side
@@ -82,4 +82,15 @@ Chrome split screen two tabs side by side is one of those features that once you
 
 Try setting up a split screen today. Pick two pages you need to use together, arrange them side by side, and see how much easier your work becomes. You might find that this simple change transforms the way you use Chrome entirely.
 
+## Related Articles
+* [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained/)
+* [chrome for rosetta stone web tips](/articles/chrome-for-rosetta-stone-web-tips/)
+* [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Sales Prospecting](/articles/chrome-extensions-for-sales-prospecting)
+- [Chrome Preload Pages Setting Explained](/articles/chrome-preload-pages-setting-explained)
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser)

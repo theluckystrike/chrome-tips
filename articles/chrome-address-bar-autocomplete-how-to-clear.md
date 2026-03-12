@@ -12,7 +12,7 @@ tags:
 - autocomplete
 - privacy
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-autocomplete-how-to-clear
 ---
 # Chrome Address Bar Autocomplete How to Clear
@@ -81,5 +81,11 @@ Occasionally, you might find that the **Shift+Delete** shortcut doesn't work. Th
 2. **It's a "search engine" match:** If you have added custom search engines (like searching Amazon or Wikipedia directly from the address bar), those sites might be suggested as "Site search" options. You can manage these at `chrome://settings/searchEngines`.
 
 By understanding where these suggestions come from, you can tailor your Chrome experience to be as fast—or as private—as you need it to be.
+
+## Related Articles
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+- [Chrome How to Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)
+- [Chrome How to Clear DNS Cache](/chrome-how-to-clear-dns-cache)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

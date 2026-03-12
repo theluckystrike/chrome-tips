@@ -1,22 +1,15 @@
 ---
-layout: post
 title: Chrome Extension for Auto Fill Forms Faster
 description: Tired of typing the same information over and over in online forms? Learn
-  how a chrome extension for auto fill forms faster can save you time. Learn how to
-  o...
-date: 2025-03-09
-categories:
-- productivity
-- tips
-tags:
-- chrome-extension
-- auto-fill
-- forms
-- productivity
-- browser-tips
-author: theluckystrike
+  how a chrome extension for auto fill forms faster can save you time. Check out our
+  exp
+date: '2025-03-09'
 last_modified_at: '2026-03-10'
 permalink: chrome-extension-for-auto-fill-forms-faster
+layout: post
+categories: '[productivity, tips]'
+tags: '[chrome-extension, auto-fill, forms, productivity, browser-tips]'
+author: theluckystrike
 ---
 # Chrome Extension for Auto Fill Forms Faster
 
@@ -74,4 +67,15 @@ Form filling does not have to be a tedious chore. With the right chrome extensio
 
 ---
 
+## Related Articles
+* [chrome profile picture how to change](/articles/chrome-profile-picture-how-to-change/)
+* [Chrome Extension for Spotify Lyrics](/articles/chrome-extension-for-spotify-lyrics/)
+* [Chrome WebGL Not Supported Fix](/articles/chrome-webgl-not-supported-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Email Tracking Read Receipts](/articles//articles/chrome-extensions-for-email-tracking-read-receipts/)
+- [How to Use the Chrome Inert Attribute to Disable Interaction](/articles/chrome-inert-attribute-disable-interaction)
+- [Chrome Opens by Itself Randomly Fix](/articles/chrome-opens-by-itself-randomly-fix)

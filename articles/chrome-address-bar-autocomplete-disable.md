@@ -14,7 +14,7 @@ tags:
 - privacy
 - omnibox
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-autocomplete-disable
 ---
 # Chrome Address Bar Autocomplete Disable
@@ -148,5 +148,11 @@ Remember that Chrome's autocomplete is designed for convenience, but it comes at
 If you found this guide helpful, consider exploring other Chrome privacy settings to further secure your browsing experience. And if memory management is a concern, tools like Tab Suspender Pro can help you maintain a lean, efficient browser setup.
 
 ---
+
+## Related Articles
+- [Chrome Address Bar Not Showing Full URL Fix](/chrome-address-bar-not-showing-full-url-fix)
+- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

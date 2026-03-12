@@ -4,7 +4,9 @@ title: 'The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Bro
 description: Discover how to use Chrome's address bar as a calculator. This hidden
   feature lets you perform calculations instantly without opening a separate app.
   Perfect...
-date: 2026-01-20
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-omnibox-calculator-trick
 categories:
 - chrome
 - tips
@@ -16,8 +18,6 @@ tags:
 - productivity
 - browser-tricks
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-omnibox-calculator-trick
 ---
 # The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Browser
 
@@ -108,4 +108,15 @@ Next time you need to do quick math while browsing, skip the calculator app—ju
 
 ---
 
+## Related Articles
+* [Chrome How to Disable GPU Acceleration](/articles/chrome-how-to-disable-gpu-acceleration/)
+* [Chrome Extensions for SEO Analysis Free](/articles/chrome-extensions-for-seo-analysis-free/)
+* [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Layout Instability API Explained](/articles/chrome-layout-instability-api-explained)
+- [Chrome Energy Saver Mode What Does It Do](/articles/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions)

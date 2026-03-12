@@ -1,19 +1,14 @@
 ---
-layout: post
 title: Chrome Extensions for Link Checker Broken Links
 description: Find and fix broken links on any website with these helpful Chrome extensions
-  for link checking. Learn how to optimize your browser today for better performa...
-date: 2026-03-10
-categories:
-- extensions
-- tips
-tags:
-- chrome-extensions
-- link-checker
-- broken-links
-author: theluckystrike
+  for link checking. Check out our expert recommendations and tips to enhance...
+date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-link-checker-broken-links
+layout: post
+categories: '[extensions, tips]'
+tags: '[chrome-extensions, link-checker, broken-links]'
+author: theluckystrike
 ---
 # Chrome Extensions for Link Checker Broken Links
 
@@ -56,3 +51,9 @@ Broken links are an inevitable part of the web, but they do not have to ruin you
 The next time you encounter a dead end while browsing, remember that help is just a few clicks away. Installing a link checker extension takes only a moment and can save you considerable time and frustration in the long run.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Waze Web Tips](/articles/chrome-for-waze-web-tips/)
+* [Chrome Not Enough Memory Error](/articles/chrome-not-enough-memory-error/)
+* [Chrome Jump to Specific Tab Number Shortcut](/articles/chrome-jump-to-specific-tab-number-shortcut/)
+

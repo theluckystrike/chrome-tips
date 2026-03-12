@@ -1,22 +1,14 @@
 ---
-layout: post
 title: Chrome Extensions for Meditation
 description: Discover the best chrome extensions for meditation to reduce stress,
-  improve focus, and bring calm to your browsing experience. Learn how to optimize
-  your br...
-date: 2026-03-09
-categories:
-- productivity
-- wellness
-tags:
-- chrome-extensions
-- meditation
-- mindfulness
-- stress-relief
-- focus
-author: theluckystrike
+  improve focus, and bring calm to your browsing experience. Check out our expert...
+date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-meditation
+layout: post
+categories: '[productivity, wellness]'
+tags: '[chrome-extensions, meditation, mindfulness, stress-relief, focus]'
+author: theluckystrike
 ---
 # Chrome Extensions for Meditation
 
@@ -67,3 +59,9 @@ Practice single-tasking whenever possible. Instead of keeping dozens of tabs ope
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Switch Between Windows Shortcut](/articles/chrome-switch-between-windows-shortcut/)
+* [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension/)
+* [Chrome What Technology Is Website Using](/articles/chrome-what-technology-is-website-using/)
+

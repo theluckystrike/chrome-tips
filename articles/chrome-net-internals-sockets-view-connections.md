@@ -4,7 +4,7 @@ title: 'Chrome Net Internals Sockets View: Monitor and Manage Active Connections
 description: Learn how to use Chrome Net Internals Sockets view to monitor active
   connections, diagnose network issues, and flush socket pools for better browser
   performa...
-date: '2026-01-15'
+date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-net-internals-sockets-view-connections
 ---
@@ -50,4 +50,15 @@ The Sockets view in Chrome Net Internals is best used when you encounter specifi
 
 However, if you find yourself regularly needing to flush socket pools to keep Chrome running smoothly, consider whether an extension might reduce the frequency of these issues. Prevention combined with the knowledge of how to diagnose problems when they arise gives you the best of both worlds.
 
+## Related Articles
+* [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking/)
+* [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track/)
+* [Best Chrome Extensions for Reading Articles](/articles/best-chrome-extensions-for-reading-articles/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Blurry Text Fix Windows](/articles/chrome-blurry-text-fix-windows)
+- [Chrome New Tab Page Best Extensions](/articles/chrome-new-tab-page-best-extensions)
+- [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs)

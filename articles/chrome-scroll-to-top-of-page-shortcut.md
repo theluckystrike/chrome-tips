@@ -2,11 +2,11 @@
 layout: post
 title: Chrome Scroll to Top of Page Shortcut
 description: Learn the fastest ways to scroll to the top of any webpage in Chrome
-  using simple keyboard shortcuts. Learn how to optimize your browser today for better
-  per...
-date: '2026-01-15'
-last_modified_at: '2026-03-10'
+  using simple keyboard shortcuts. Read our comprehensive guide to learn more and
+  improve you
 permalink: chrome-scroll-to-top-of-page-shortcut
+date: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 Chrome scroll to top of page shortcut is something many people search for when they find themselves stuck at the bottom of a long article or webpage. Whether you have been reading through a lengthy blog post, scrolling through search results, or navigating a website with infinite scroll, knowing how to get back to the top quickly can save you time and frustration.
 
@@ -64,5 +64,9 @@ If you frequently have dozens of tabs open and find your browser lagging while y
 
 Using **Tab Suspender Pro** is an excellent way to keep your browser responsive. It automatically "hibernates" background tabs, freeing up resources so your active page stays smooth. This ensures that your **keyboard shortcuts** and **smooth scrolling** work instantly, providing a much more fluid browsing experience when navigating long articles.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome for iPad Tips and Tricks](/articles/chrome-for-ipad-tips-and-tricks/)
+* [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/articles/chrome-autofill-wrong-address-keeps-appearing/)
+* [Chrome Unicode Symbols How to Insert](/articles/chrome-unicode-symbols-how-to-insert/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

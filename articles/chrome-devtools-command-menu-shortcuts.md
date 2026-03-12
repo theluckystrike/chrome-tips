@@ -2,7 +2,8 @@
 layout: post
 title: Chrome DevTools Command Menu Shortcuts
 description: Learn how to use Chrome DevTools command menu shortcuts to work faster,
-  access hidden features, and navigate developer tools like a pro. Learn how to optimiz...
+  access hidden features, and navigate developer tools like a pro. Learn more about
+  h
 date: 2025-03-09
 categories:
 - productivity
@@ -13,8 +14,8 @@ tags:
 - developer-tools
 - shortcuts
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-devtools-command-menu-shortcuts
+last_modified_at: '%Y->-'
+permalink: /chrome-devtools-command-menu-shortcuts/
 ---
 # Chrome DevTools Command Menu Shortcuts
 
@@ -79,3 +80,9 @@ The command menu in Chrome DevTools is a gateway to becoming a more productive d
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Dark Mode How To Enable](/articles//chrome-dark-mode-how-to-enable//)
+* [Chrome for Goodreads Best Extensions](/articles/chrome-for-goodreads-best-extensions/)
+* [Chrome IndexedDB Storage Explained](/articles/chrome-indexeddb-storage-explained/)
+

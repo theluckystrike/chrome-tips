@@ -3,7 +3,9 @@ layout: post
 title: How to Capture Network Logs in Chrome Using Net Export
 description: Learn how to use Chrome's Net Export feature to capture and analyze network
   traffic. Perfect for debugging, troubleshooting, and understanding web requests.
-date: 2026-01-18
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-net-export-capture-network-log
 categories:
 - chrome
 - developer-tools
@@ -16,8 +18,6 @@ tags:
 - debugging
 - troubleshooting
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-net-export-capture-network-log
 ---
 # How to Capture Network Logs in Chrome Using Net Export
 
@@ -89,4 +89,15 @@ Chrome's Net Export feature is a powerful tool for anyone who needs to capture a
 
 For ongoing browser optimization, remember that managing your tabs efficiently can significantly impact your browsing experience. **Tab Suspender Pro** helps you keep your browser responsive while maintaining access to all your important resources.
 
+## Related Articles
+* [Chrome Extensions for WebRTC Leak Prevention](/articles/chrome-extensions-for-webrtc-leak-prevention/)
+* [Chrome Permissions Policy Header Explained](/articles/chrome-permissions-policy-header-explained/)
+* [Chrome Flags Best Performance Settings](/articles/chrome-flags-best-performance-settings/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users)
+- [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix)
+- [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms)

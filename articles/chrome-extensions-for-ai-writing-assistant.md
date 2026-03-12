@@ -1,20 +1,15 @@
 ---
-layout: post
 title: Chrome Extensions for AI Writing Assistant
 description: Find the best chrome extensions for AI writing assistant to enhance your
-  content creation. These tools help you write faster and better. Learn how to optimiz...
-date: 2026-03-09
-categories:
-- writing
-- tips
-tags:
-- chrome-extensions
-- ai
-- writing
-- productivity
-author: theluckystrike
+  content creation. These tools help you write faster and better. Discover how these
+  t...
+date: '2026-03-09'
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-ai-writing-assistant
+layout: post
+categories: '[writing, tips]'
+tags: '[chrome-extensions, ai, writing, productivity]'
+author: theluckystrike
 ---
 # Chrome Extensions for AI Writing Assistant
 
@@ -84,4 +79,15 @@ Most of these extensions offer free versions or trials, so you can test them bef
 
 Remember that these tools are meant to assist you, not replace your own voice and ideas. Use them to overcome blocks, improve your writing, and save time, but always review the final output to make sure it truly represents what you want to say.
 
+## Related Articles
+* [Chrome for Custom Search Engines Setup](/articles/chrome-for-custom-search-engines-setup/)
+* [Chrome Text Wrap Balance CSS](/articles/chrome-text-wrap-balance-css/)
+* [Chrome Taking 5 Minutes to Load: Fixes for Slow Computers](/articles/chrome-taking-5-minutes-to-load/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Mouse Cursor Disappears Fix](/articles/chrome-mouse-cursor-disappears-fix)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/articles/chrome-view-transitions-api-smooth)
+- [Chrome AI Tab Organizer Feature: A Complete Guide](/articles/chrome-ai-tab-organizer-feature)

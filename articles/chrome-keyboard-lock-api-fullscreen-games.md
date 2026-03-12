@@ -2,9 +2,11 @@
 layout: post
 title: 'Chrome Keyboard Lock API: Building Immersive Fullscreen Games'
 description: Learn how to use the Chrome Keyboard Lock API to capture keyboard input
-  for immersive fullscreen web games. Step-by-step guide with code examples. Learn
-  how ...
-date: 2026-01-15
+  for immersive fullscreen web games. Step-by-step guide with code examples. Check
+  out ou
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-keyboard-lock-api-fullscreen-games
 categories:
 - chrome
 - web-development
@@ -19,8 +21,6 @@ tags:
 - browser-gaming
 - game-development
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-keyboard-lock-api-fullscreen-games
 ---
 # Chrome Keyboard Lock API: Building Immersive Fullscreen Games
 
@@ -228,4 +228,15 @@ While browser support remains limited to Chromium-based browsers, this API is a 
 
 For developers building browser-based games, pairing keyboard lock with extensions like Tab Suspender Pro can help maintain optimal performance by managing background tabs while players enjoy uninterrupted gameplay.
 
+## Related Articles
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
+* [Chrome Extensions for Gantt Chart](/articles/chrome-extensions-for-gantt-chart/)
+* [Hidden Chrome Extensions You Should Install](/articles/hidden-chrome-extensions-you-should-install/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Social Media Managers](/articles/chrome-extensions-for-social-media-managers)
+- [Chrome Wappalyzer Alternative Built In](/articles/chrome-wappalyzer-alternative-built-in)
+- [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free)

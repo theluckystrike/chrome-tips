@@ -1,21 +1,15 @@
 ---
-layout: post
 title: Chrome ERR_INTERNET_DISCONNECTED But Internet Works Fix
 description: Getting ERR_INTERNET_DISCONNECTED in Chrome even when internet works?
-  Learn why this happens and how to fix it with simple steps. Learn how to optimize
-  your ...
-date: 2026-01-15
-categories:
-- troubleshooting
-- connectivity
-tags:
-- chrome-error
-- internet-disconnected
-- chrome-fix
-- browser-problem
-author: theluckystrike
+  Learn why this happens and how to fix it with simple steps. Check out our expert
+  recommend
+date: '2026-01-15'
 last_modified_at: '2026-03-10'
 permalink: chrome-err-internet-disconnected-but-internet-works-fix
+layout: post
+categories: '[troubleshooting, connectivity]'
+tags: '[chrome-error, internet-disconnected, chrome-fix, browser-problem]'
+author: theluckystrike
 ---
 # Chrome ERR_INTERNET_DISCONNECTED But Internet Works Fix
 
@@ -87,4 +81,15 @@ By following these troubleshooting steps, you should be able to get Chrome worki
 
 ---
 
+## Related Articles
+* [Best Settings to Speed Up Chrome 2026](/articles/best-settings-to-speed-up-chrome-2026/)
+* [Must Have Chrome Extensions for Students](/articles/must-have-chrome-extensions-for-students/)
+* [chrome vs firefox extensions comparison](/articles/chrome-vs-firefox-extensions-comparison/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome web share api how it works](/articles/chrome-web-share-api-how-it-works)
+- [How to Limit Chrome Extension Permissions](/articles/how-to-limit-chrome-extension-permissions)
+- [Chrome for News Reading Best Setup](/articles/chrome-for-news-reading-best-setup)

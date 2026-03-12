@@ -2,8 +2,8 @@
 layout: post
 title: Chrome for Habitica In Browser Tips
 description: Get the most out of Habitica with Chrome. Learn browser tips to improve
-  your productivity and habit tracking experience. Learn how to optimize your browser
-  t...
+  your productivity and habit tracking experience. Discover more tips and tricks to
+  opt
 date: 2026-01-15
 categories:
 - productivity
@@ -16,7 +16,7 @@ tags:
 - productivity
 - habit-tracking
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-habitica-in-browser-tips
 ---
 # Chrome for Habitica In Browser Tips
@@ -88,3 +88,9 @@ Tools like **Tab Suspender Pro** can help you maintain a cleaner, more focused b
 Give these tips a try and see which ones work best for your workflow. A few small adjustments can make a big difference in how effectively you use Habitica to build the life you want.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chromebook touchscreen not working fix](/articles/chromebook-touchscreen-not-working-fix/)
+* [How to Use Chrome Net Internals to Clear DNS Cache](/articles/chrome-net-internals-dns-clear-cache/)
+* [chrome fledge api what advertisers know about you](/articles/chrome-fledge-api-what-advertisers-know-about-you/)
+

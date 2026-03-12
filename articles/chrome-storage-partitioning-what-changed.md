@@ -15,8 +15,8 @@ tags:
 - browser
 - tracking
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-storage-partitioning-what-changed
+last_modified_at: '2026-03-11'
 ---
 # Chrome Storage Partitioning: What Changed and Why It Matters
 
@@ -78,4 +78,15 @@ For now, if you find that certain sites are not working as expected, you can try
 
 If you are concerned about storage and tracking in Chrome, there are tools that can help you manage your browser's data more effectively. **Tab Suspender Pro** is an extension that can automatically suspend tabs you are not using, which helps reduce memory usage and gives you more control over what data is being stored. It can also help you visualize which sites are storing data and make it easier to clear storage for specific sites when needed.
 
+## Related Articles
+* [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug/)
+* [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut/)
+* [Chrome Google Drive Integration Tips](/articles/chrome-google-drive-integration-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome payment request api what users see](/articles/chrome-payment-request-api-what-users-see)
+- [chrome on linux best version 2026](/articles/chrome-on-linux-best-version-2026)
+- [Chrome for Email Productivity Extensions](/articles/chrome-for-email-productivity-extensions)

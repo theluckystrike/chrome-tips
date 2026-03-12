@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "chrome css container type inline size"
-description: "Learn how to use CSS container queries with container-type inline-size in Chrome. This guide explains how to create responsive components that adapt based on their container's width, not the viewport."
+title: chrome css container type inline size
+description: Learn how to use CSS container queries with container-type inline-size
+  in Chrome. This guide explains how to create responsive components that adapt based
+  on their container's width, not the viewport.
 date: 2026-01-15
-categories: [web-development, css, responsive-design]
-tags: [css-container-queries, responsive-web-design, css-features, web-development]
+categories:
+- web-development
+- css
+- responsive-design
+tags:
+- css-container-queries
+- responsive-web-design
+- css-features
+- web-development
 author: theluckystrike
+permalink: chrome-css-container-type-inline-size
 ---
-
 # Chrome CSS Container Type Inline Size: A Complete Guide
 
 If you've ever wished your CSS could respond to a parent container's size instead of always relying on the viewport width, you're in luck. Chrome supports CSS container queries through the `container-type: inline-size` property, and this game-changing feature is revolutionizing how we build responsive web layouts. In this guide, we'll explore everything you need to know about **chrome css container type inline size** and how to use it effectively.
@@ -200,3 +209,8 @@ Start experimenting with container queries today, and you'll quickly see how the
 ---
 
 **Built by theluckystrike** — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+* [Chrome Typing Lag in Text Boxes: Practical Solutions](/articles/chrome-typing-lag-in-text-boxes/)
+* [Chrome Flags Explained for Beginners](/articles/chrome-flags-explained-for-beginners/)
+* [Chrome This Site Cant Provide a Secure Connection Fix](/articles/chrome-this-site-cant-provide-a-secure-connection-fix/)

@@ -14,7 +14,7 @@ tags:
 - browser-fix
 - troubleshooting
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-not-working-fix
 ---
 # Chrome Address Bar Not Working Fix
@@ -76,5 +76,11 @@ Once you have fixed your address bar, there are steps you can take to prevent th
 It is also a good idea to occasionally clear your cache and cookies, even when you are not experiencing problems. This keeps your browser running smoothly and prevents the buildup of corrupted data.
 
 Finally, make sure your computer has adequate free storage space and your operating system is updated. Sometimes underlying system issues can manifest as browser problems.
+
+## Related Articles
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [Chrome Zoom Meeting Not Working Fix](/chrome-zoom-meeting-not-working-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

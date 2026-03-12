@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Chrome Kiosk Mode How To Set Up
+title: chrome kiosk mode how to set up
 description: Learn how to set up chrome kiosk mode to lock your browser to a single
-  website. Perfect for public displays, kiosks, and dedicated workstations. Learn
-  how to...
-date: 2026-01-15
+  website. Perfect for public displays, kiosks, and dedicated workstations. Check
+  out our
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-kiosk-mode-how-to-set-up
 categories:
 - browsers
 - tips
@@ -13,8 +15,6 @@ tags:
 - kiosk-mode
 - browser-settings
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-kiosk-mode-how-to-set-up
 ---
 # Chrome Kiosk Mode How to Set Up
 
@@ -79,3 +79,9 @@ Finally, consider implementing network-level protections such as content filteri
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome DOMContentLoaded vs Load Event](/articles/chrome-dom-content-loaded-vs-load-event/)
+* [How to Inspect and Debug IndexedDB in Chrome: A Complete Guide](/articles/chrome-indexeddb-inspect-debug/)
+* [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location/)
+

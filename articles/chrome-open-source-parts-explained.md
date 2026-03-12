@@ -3,8 +3,10 @@ layout: post
 title: Chrome Open Source Parts Explained
 description: Discover what makes Chrome tick. A deep dive into Chromium, V8, Blink,
   and other open-source components that power the world's most popular browser. Learn
-  ho...
-date: 2026-01-20
+  ef...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-open-source-parts-explained
 categories:
 - features
 - technology
@@ -13,8 +15,6 @@ tags:
 - open-source
 - browser-engine
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-open-source-parts-explained
 ---
 # Chrome Open Source Parts Explained
 
@@ -74,4 +74,15 @@ Chrome's open-source foundation represents a remarkable achievement in collabora
 
 ---
 
+## Related Articles
+* [CHIPS: Cookies Having Independent Partitioned State in Chrome](/articles/chrome-chips-cookies-having-independent-state/)
+* [Chrome Keyboard Shortcuts for Power Users](/articles/chrome-keyboard-shortcuts-for-power-users/)
+* [Best Chrome Extensions for Twitter X](/articles/best-chrome-extensions-for-twitter-x/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome tab groups advanced tips](/articles/chrome-tab-groups-advanced-tips)
+- [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/articles/chrome-extension-using-too-much-memory-find)
+- [Chrome Block Specific Websites Guide](/articles/chrome-block-specific-websites-guide)

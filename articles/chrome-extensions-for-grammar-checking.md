@@ -1,21 +1,15 @@
 ---
-layout: post
 title: Chrome Extensions for Grammar Checking
 description: Find the best chrome extensions for grammar checking to improve your
-  writing. Easy tools that catch mistakes and help you write better. Learn how to
-  optimize...
-date: 2026-03-09
-categories:
-- writing
-- tips
-tags:
-- chrome-extensions
-- grammar
-- writing
-- productivity
-author: theluckystrike
+  writing. Easy tools that catch mistakes and help you write better. Check out our
+  expert...
+date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-grammar-checking
+layout: post
+categories: '[writing, tips]'
+tags: '[chrome-extensions, grammar, writing, productivity]'
+author: theluckystrike
 ---
 # Chrome Extensions for Grammar Checking
 
@@ -88,3 +82,9 @@ If you want comprehensive checking and are willing to pay for premium features, 
 Remember that these extensions are meant to help, not replace careful reading. They are excellent tools, but they are not perfect. Always review your important writing yourself before hitting send or publish.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Turn Off Autocomplete in Chrome](/articles/chrome-how-to-turn-off-autocomplete/)
+* [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change/)
+* [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about/)
+

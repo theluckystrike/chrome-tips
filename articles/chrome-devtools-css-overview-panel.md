@@ -2,8 +2,8 @@
 layout: post
 title: Chrome DevTools CSS Overview Panel
 description: Discover the CSS Overview panel in Chrome DevTools, a powerful tool for
-  analyzing and fixing CSS issues on any website. Learn how to optimize your browser
-  to...
+  analyzing and fixing CSS issues on any website. Learn more about how to optimize
+  yo
 date: 2025-03-09
 categories:
 - productivity
@@ -14,8 +14,8 @@ tags:
 - css
 - developer-tools
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-devtools-css-overview-panel
+last_modified_at: '%Y->-'
+permalink: /chrome-devtools-css-overview-panel/
 ---
 # Chrome DevTools CSS Overview Panel
 
@@ -74,3 +74,9 @@ The CSS Overview panel in Chrome DevTools is an invaluable tool for anyone who w
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking//)
+* [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging/)
+* [How to Search Open Chrome Tabs](/articles/how-to-search-open-chrome-tabs/)
+

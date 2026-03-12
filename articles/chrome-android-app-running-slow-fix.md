@@ -13,7 +13,7 @@ tags:
 - android-tips
 - browser-optimization
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-android-app-running-slow-fix
 ---
 # Chrome Android App Running Slow Fix: Practical Solutions That Actually Work
@@ -139,4 +139,9 @@ These changes together can make Chrome feel significantly faster, even on older 
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*
+*## Related Articles
+* [Chrome WebGL Crashing My Browser](/articles/chrome-webgl-crashing-my-browser/)
+* [Chrome for Email Productivity Extensions](/articles/chrome-for-email-productivity-extensions/)
+* [Chrome Compact Mode How to Enable](/articles/chrome-compact-mode-how-to-enable/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*

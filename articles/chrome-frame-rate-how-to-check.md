@@ -1,20 +1,13 @@
 ---
 layout: post
-title: Chrome Frame Rate How to Check
-description: Learn how to check the frame rate in Chrome to troubleshoot stuttering
-  videos, laggy animations, and slow page scrolling. Learn how to optimize your browser
-  ...
-date: 2026-01-15
-categories:
-- performance
-- troubleshooting
-tags:
-- chrome-frame-rate
-- browser-tools
-- chrome-tips
+title: "Chrome Frame Rate How to Check"
+description: "Learn how to check the frame rate in Chrome to troubleshoot stuttering................................................................................"
+date: "2026-01-15"
+last_modified_at: '2026-03-12'
+permalink: "chrome-frame-rate-how-to-check"
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-frame-rate-how-to-check
 ---
 # Chrome Frame Rate How to Check
 
@@ -67,3 +60,8 @@ Watch the number of extensions you install. Each extension adds some overhead to
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Address Bar Not Showing Full URL Fix](/articles/chrome-address-bar-not-showing-full-url-fix/)
+* [Chrome Extensions for URL Shortener](/articles/chrome-extensions-for-url-shortener/)
+* [Chrome Extensions for Whois Lookup](/articles/chrome-extensions-for-whois-lookup/)

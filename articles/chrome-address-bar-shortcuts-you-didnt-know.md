@@ -15,7 +15,7 @@ tags:
 - browser-shortcuts
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-shortcuts-you-didnt-know
 ---
 # Chrome Address Bar Shortcuts You Didn't Know
@@ -93,5 +93,11 @@ You don't need to memorize everything at once. Pick two or three that feel most 
 The Chrome address bar is one of the most underutilized features in modern browsers. These shortcuts represent genuine productivity gains that compound over time. The more you use them, the faster your browsing becomes—without any extra effort beyond a few keystrokes.
 
 Start with the basics, and you'll quickly discover why power users rely on the Omnibox for so much more than typing URLs.
+
+## Related Articles
+- [Chrome Accessibility Features You Didn't Know About](/chrome-accessibility-features-you-didnt-know-about)
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [Chrome Address Bar Commands You Didnt Know](/chrome-address-bar-commands-you-didnt-know)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

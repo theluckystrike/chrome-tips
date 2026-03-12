@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Chrome Dark Reader Extension Worth It
+title: chrome dark reader extension worth it
 description: Is the Dark Reader extension worth installing? A practical guide covering
   benefits, drawbacks, setup steps, and tips to decide if it's right for you. Learn
-  h...
 date: 2025-01-15
 categories:
 - extensions
@@ -14,8 +13,8 @@ tags:
 - eye-strain
 - accessibility
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-dark-reader-extension-worth-it
+last_modified_at: '%Y->-'
+permalink: /chrome-dark-reader-extension-worth-it/
 ---
 # Is the Chrome Dark Reader Extension Worth It?
 
@@ -128,4 +127,15 @@ Give it a two-week trial period. If you find certain sites problematic, use the 
 
 ---
 
+## Related Articles
+* [Chrome Netflix Not Working Fix](/articles/chrome-netflix-not-working-fix/)
+* [Chrome Attribution Reporting API Explained](/articles/chrome-attribution-reporting-api-explained/)
+* [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions Disappeared After Update](/articles/chrome-extensions-disappeared-after-update)
+- [Chrome 2026 New Features Overview](/articles/chrome-2026-new-features-overview)
+- [Chrome Accessibility Features You Didn't Know About](/articles/chrome-accessibility-features-you-didnt-know-about)

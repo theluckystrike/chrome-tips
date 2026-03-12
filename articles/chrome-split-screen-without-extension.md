@@ -2,8 +2,8 @@
 layout: post
 title: Chrome Split Screen Without Extension
 description: Learn how to use split screen in Chrome without installing extensions.
-  Easy built-in methods for side by side viewing. Learn how to optimize your browser
-  tod...
+  Easy built-in methods for side by side viewing. Read our comprehensive guide to
+  learn mor
 date: 2025-03-10
 categories:
 - features
@@ -14,8 +14,8 @@ tags:
 - how-to
 - no-extension
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-split-screen-without-extension
+last_modified_at: '2026-03-10'
 ---
 # Chrome Split Screen Without Extension
 
@@ -68,3 +68,9 @@ Chrome split screen without extension is entirely possible using the methods des
 Try different arrangements to find what works best for your workflow. Some users prefer always having two windows open side by side, while others open a second window only when needed. The beauty of these built-in methods is that they are flexible enough to adapt to whatever task you are working on, whether that is comparing products, researching topics, or multitasking between different projects.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs/)
+* [Chrome Cycle Through Tabs Shortcut](/articles//chrome-cycle-through-tabs-shortcut//)
+* [Chrome Clear Data for One Site Without Clearing All](/articles/chrome-clear-data-for-one-site-without-clearing-all/)
+

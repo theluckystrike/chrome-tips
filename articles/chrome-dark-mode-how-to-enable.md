@@ -2,7 +2,7 @@
 layout: post
 title: Chrome Dark Mode How To Enable
 description: Learn how to enable dark mode in Chrome on desktop and mobile. Step-by-step
-  guide to turn on Chrome dark theme for easier nighttime browsing. Learn how to op...
+  guide to turn on Chrome dark theme for easier nighttime browsing. Learn more ab
 date: 2026-03-09
 categories:
 - features
@@ -13,8 +13,8 @@ tags:
 - theme
 - appearance
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-dark-mode-how-to-enable
+last_modified_at: '%Y->- (origin/fix/lastmod-batch-4)'
+permalink: /chrome-dark-mode-how-to-enable/
 ---
 # Chrome Dark Mode How to Enable
 
@@ -99,3 +99,9 @@ Give dark mode a try, especially during evening hours. You might find that it ma
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extensions for YouTube Thumbnail Preview](/articles/chrome-extensions-for-youtube-thumbnail-preview/)
+* [Chrome Web Store Reviews How to Spot Fake](/articles/chrome-web-store-reviews-how-to-spot-fake/)
+* [Chrome Ai Features Built In 2026](/articles/chrome-ai-features-built-in-2026/)
+

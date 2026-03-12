@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome for mouse gestures extensions"
-description: "Discover chrome for mouse gestures extensions that let you navigate faster by drawing simple shapes with your cursor."
+title: Chrome For Mouse Gestures Extensions
+description: Discover chrome for mouse gestures extensions that let you navigate faster
+  by drawing simple shapes with your cursor. Learn how to optimize your browser toda...
 date: 2026-01-15
-categories: [extensions, productivity]
-tags: [chrome, mouse-gestures, browser, productivity]
+categories:
+- extensions
+- productivity
+tags:
+- chrome
+- mouse-gestures
+- browser
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-mouse-gestures-extensions
 ---
-
 # Chrome for Mouse Gestures Extensions
 
 If you are looking for chrome for mouse gestures extensions, you probably want to speed up your browsing by controlling your browser with simple hand movements instead of clicking through menus and buttons. Mouse gestures are a productivity feature that lets you trigger actions by drawing patterns with your cursor, and they can genuinely change how you use Chrome.

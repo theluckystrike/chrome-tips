@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Chrome DevTools Flexbox Debugger"
-description: "Learn how to use Chrome DevTools flexbox debugger to fix layout issues, understand flex properties, and align elements perfectly."
+description: "Learn how to use Chrome DevTools flexbox debugger to fix layout issues, understand flex properties, and align elements perfectly. Explore our comprehensive ..."
 date: 2025-03-09
-categories: [productivity, tips]
-tags: [devtools, chrome-tips, flexbox, debugging]
-author: theluckystrike
+last_modified_at: 2026-03-09
+permalink: chrome-devtools-flexbox-debugger
 ---
 
 # Chrome DevTools Flexbox Debugger

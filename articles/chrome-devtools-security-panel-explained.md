@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Chrome Devtools Security Panel Explained"
-description: "Learn how to use Chrome DevTools Security panel to check if websites are secure and fix common security issues."
+description: "Learn how to use Chrome DevTools Security panel to check if websites are secure and fix common security issues. Explore our comprehensive guide to mastering..."
 date: 2025-02-19
-categories: [browser-tips, web-development]
-tags: [devtools, security-panel, troubleshooting, privacy]
-author: theluckystrike
+last_modified_at: 2026-03-09
+permalink: chrome-devtools-security-panel-explained
 ---
 
 # Chrome Devtools Security Panel Explained

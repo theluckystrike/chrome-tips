@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Chrome DevTools Emulate Vision Deficiencies"
-description: "Learn how to use Chrome DevTools to emulate vision deficiencies and test your website for accessibility."
+description: "Learn how to use Chrome DevTools to emulate vision deficiencies and test your website for accessibility. Explore our comprehensive guide to mastering Chrome..."
+date: 2026-03-09
+last_modified_at: 2026-03-09
+permalink: chrome-devtools-emulate-vision-deficiencies
 ---
 
 Chrome devtools emulate vision deficiencies is a feature that many web developers and designers do not know about, but it is incredibly useful for building accessible websites. If you have ever wondered how your website looks to someone with color blindness or other vision challenges, Chrome DevTools has a built-in way to show you exactly that. This tool is free, easy to use, and can help you create a more inclusive web experience for everyone.

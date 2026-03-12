@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Chrome Upcoming Features Preview 2026
-description: "A friendly look at the new Chrome features arriving in 2026. Discover................................................................................."
-  what's coming to make your browsing better. Read our comprehensive guide to learn
-  more ...
+title: "Chrome Upcoming Features Preview 2026: What's New & Coming"
+description: Explore the exciting new Chrome features arriving in 2026. From AI-driven tab management to enhanced privacy tools, see how your browsing experience is evolving.
 date: '2026-01-20'
 last_modified_at: '2026-03-12'
 permalink: chrome-upcoming-features-preview-2026

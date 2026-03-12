@@ -1,15 +1,10 @@
 ---
 layout: post
-title: 'Chrome Version History: Major Changes You Should Know About'
-description: "A guide to Chrome version history and major changes that affect your.................................................................................."
-  browsing. Learn what changed and how to adapt. Read our comprehensive guide to learn
-  mor...
+title: "Chrome Version History: Major Changes and Features to Know"
+description: Trace the evolution of Google Chrome through its version history. Learn about major milestones, UI shifts, and security updates that shaped the modern browser.
 date: '2025-02-17'
 last_modified_at: '2026-03-12'
 permalink: chrome-version-history-major-changes
-categories: '[chrome, browser-guides]'
-tags: '[chrome-version, chrome-update, browser-history]'
-author: theluckystrike
 ---
 
 # Chrome Version History: Major Changes You Should Know About

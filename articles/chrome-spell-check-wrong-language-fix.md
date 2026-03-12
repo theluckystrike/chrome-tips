@@ -1,16 +1,14 @@
 --- 
 layout: post
-title: How to Fix Chrome Spell Check Using the Wrong Language
-description: Is Chrome checking your spelling in the wrong language? Learn how to fix language settings, manage dictionaries, and use extensions for better spell checking.
-date: '2025-03-15'
+title: "Chrome Spell Check Wrong Language Fix"
+description: Is Chrome spell check using the wrong language? Here is how to fix it You are typing an email or filling out a form in Chrome and the red squiggly lines are
+date: "2025-03-15"
 last_modified_at: '2026-03-12'
 permalink: chrome-spell-check-wrong-language-fix
 categories: null
 tags: null
 author: theluckystrike
----
-
-# Chrome Spell Check Wrong Language Fix
+---# Chrome Spell Check Wrong Language Fix
 
 You are typing an email or filling out a form in Chrome and the red squiggly lines are showing up under words that are actually spelled correctly. Or maybe you are writing in English but Chrome keeps suggesting words from Spanish or German. This happens more often than you would think and it can be really frustrating when Chrome spell check wrong language is the problem you are dealing with.
 

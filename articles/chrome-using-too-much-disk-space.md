@@ -1,9 +1,7 @@
 ---
 layout: post
-title: 'Chrome Using Too Much Disk Space: A Complete Guide'
-description: "Is Chrome consuming too much disk space? Discover the causes and solutions............................................................................"
-  to reclaim storage and optimize browser performance. Read our comprehensive guide
-  ...
+title: "How to Fix Chrome Using Too Much Disk Space: Storage Guide"
+description: Reclaim your storage by fixing Chrome using too much disk space. Our guide shows you how to clear cache, manage site data, and remove hidden junk files easily.
 date: '2026-01-01'
 last_modified_at: '2026-03-12'
 permalink: chrome-using-too-much-disk-space

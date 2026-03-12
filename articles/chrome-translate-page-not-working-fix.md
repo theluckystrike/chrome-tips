@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 'Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work'
-description: "Chrome translate feature not working? Learn step-by-step solutions to................................................................................."
-  fix the page translation issue in Google Chrome. Covers common causes and fixes.
-date: '2026-01-20'
+title: Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work
+description: Discover Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work. This essential guide provides expert tips, step-by-step instruction
+date: 2026-03-12
 last_modified_at: '2026-03-12'
 permalink: chrome-translate-page-not-working-fix
 categories: '[chrome, translation, troubleshooting]'
 tags: '[chrome-translate, browser-translation, translation-fix, google-chrome]'
 author: theluckystrike
 ---
+
 
 # Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work
 

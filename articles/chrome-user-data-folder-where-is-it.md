@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Chrome User Data Folder Where Is It
-description: "Find where Chrome stores your profile data including bookmarks, history,.............................................................................."
-  Read our comprehensive guide to learn more and optimize your browser experience
-  with...
+title: "Chrome User Data Folder: Where Is It on Windows, Mac, and Linux?"
+description: Find your Chrome user data folder easily on any operating system. Our guide shows you the exact paths to back up your bookmarks, history, and browser settings.
 date: '2026-03-09'
 last_modified_at: '2026-03-12'
 permalink: chrome-user-data-folder-where-is-it

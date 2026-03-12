@@ -1,13 +1,25 @@
 ---
 layout: default
-title: "Chrome Network Throttling Guide"
-description: "Learn how to use Chrome's network throttling features for testing, debugging, and simulating slow connections. Master custom profiles, offline mode, latency testing, and bandwidth limits."
+title: Chrome Network Throttling Guide
+description: Learn how to use Chrome's network throttling features for testing, debugging,
+  and simulating slow connections. Master custom profiles, offline mode, latency ...
 date: 2026-03-10
-categories: [chrome, developer-tools, testing, performance]
-tags: [chrome-devtools, network-throttling, web-development, performance-testing, latency, bandwidth]
+categories:
+- chrome
+- developer-tools
+- testing
+- performance
+tags:
+- chrome-devtools
+- network-throttling
+- web-development
+- performance-testing
+- latency
+- bandwidth
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-network-throttling-guide
 ---
-
 # Chrome Network Throttling Guide
 
 Network throttling is one of the most powerful yet underutilized features in Google Chrome. Whether you are a web developer testing how your site performs on slow connections, a quality assurance engineer debugging network-dependent issues, or simply a user who wants to understand how their browser handles poor connectivity, Chrome's built-in throttling tools can help you simulate a wide range of network conditions without leaving your browser.

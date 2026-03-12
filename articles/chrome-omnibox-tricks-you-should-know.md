@@ -1,13 +1,21 @@
 ---
 layout: default
-title: "Chrome Omnibox Tricks You Should Know"
-description: "Learn powerful Chrome omnibox tricks to search faster, navigate quickly, and boost your productivity with these simple tips."
+title: Chrome Omnibox Tricks You Should Know
+description: Learn powerful Chrome omnibox tricks to search faster, navigate quickly,
+  and boost your productivity with these simple tips. Learn how to optimize your brows...
 date: 2025-02-20
-categories: [productivity, tips]
-tags: [chrome-omnibox, chrome-tips, browser-tips, productivity]
+categories:
+- productivity
+- tips
+tags:
+- chrome-omnibox
+- chrome-tips
+- browser-tips
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-omnibox-tricks-you-should-know
 ---
-
 # Chrome Omnibox Tricks You Should Know
 
 If you have ever searched for chrome omnibox tricks you should know, you might be surprised to learn just how much power is hiding in that simple address bar at the top of your browser. The omnibox is not just for typing website addresses. It is a powerful search and command tool that can save you time and make your browsing experience much smoother. Most people type a search query into Google and click through to the results, but you can do so much more directly from the omnibox.

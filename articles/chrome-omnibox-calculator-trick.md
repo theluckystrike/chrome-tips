@@ -1,13 +1,24 @@
 ---
 layout: post
-title: "The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Browser"
-description: "Discover how to use Chrome's address bar as a calculator. This hidden feature lets you perform calculations instantly without opening a separate app. Perfect for quick math while browsing."
+title: 'The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Browser'
+description: Discover how to use Chrome's address bar as a calculator. This hidden
+  feature lets you perform calculations instantly without opening a separate app.
+  Perfect...
 date: 2026-01-20
-categories: [chrome, tips, productivity]
-tags: [chrome-tips, omnibox, calculator, productivity, browser-tricks]
+categories:
+- chrome
+- tips
+- productivity
+tags:
+- chrome-tips
+- omnibox
+- calculator
+- productivity
+- browser-tricks
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-omnibox-calculator-trick
 ---
-
 # The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Browser
 
 Ever needed to calculate something while browsing but didn't want to open a separate calculator app? What if I told you Chrome has a built-in calculator hiding in plain sight—right in your address bar? This feature is called the Chrome omnibox calculator trick, and once you learn it, you'll wonder how you ever lived without it.

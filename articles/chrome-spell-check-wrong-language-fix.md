@@ -1,23 +1,14 @@
----
+--- 
 layout: post
-title: Chrome Spell Check Wrong Language Fix
-description: Is Chrome spell check using the wrong language? Here is how to fix it
-  and get accurate spelling suggestions in your preferred language. This guide on
-  Chrome ...
-date: 2025-03-15
-categories:
-- troubleshooting
-- features
-tags:
-- spellcheck
-- chrome-fix
-- language
-- spelling
-author: theluckystrike
+title: "Chrome Spell Check Wrong Language Fix"
+description: "You are typing an email or filling out a form in Chrome and the red squiggly lines are showing up under words that are actually spelled correctly. Or maybe"
+date: "2025-03-15"
 last_modified_at: '2026-03-12'
-permalink: chrome-spell-check-wrong-language-fix
+permalink: "chrome-spell-check-wrong-language-fix"
+categories: 
+tags: 
+author: theluckystrike
 ---
-
 # Chrome Spell Check Wrong Language Fix
 
 You are typing an email or filling out a form in Chrome and the red squiggly lines are showing up under words that are actually spelled correctly. Or maybe you are writing in English but Chrome keeps suggesting words from Spanish or German. This happens more often than you would think and it can be really frustrating when Chrome spell check wrong language is the problem you are dealing with.
@@ -86,8 +77,7 @@ If you continue to have issues after trying these steps, you might want to consi
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Autofill Wrong Address How to Fix](/chrome-autofill-wrong-address-how-to-fix)
-- [Chrome Spell Check Adding Custom Words](/chrome-spell-check-adding-custom-words)
-- [Chrome Redirecting to Wrong Pages Fix](/chrome-redirecting-to-wrong-pages-fix)
+* [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix/)
+* [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser/)
+* [Chrome Save Page as Shortcut](/articles/chrome-save-page-as-shortcut/)

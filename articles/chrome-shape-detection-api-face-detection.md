@@ -1,23 +1,14 @@
----
+--- 
 layout: post
-title: Chrome Shape Detection API Face Detection
-description: Learn how Chrome's Shape Detection API enables face detection in your
-  browser, what it means for your privacy, and how to manage your security settings
-  today.
-date: 2026-01-15
+title: "Chrome Shape Detection API Face Detection"
+description: "If you have ever wondered how some websites can automatically detect faces in your photos or enable face unlock features directly in Chrome, the answer lies"
+date: "2026-01-15"
 last_modified_at: '2026-03-12'
-permalink: chrome-shape-detection-api-face-detection
-categories:
-- privacy
-- features
-tags:
-- chrome-shape-detection
-- face-detection
-- browser-privacy
-- shape-detection-api
+permalink: "chrome-shape-detection-api-face-detection"
+categories: 
+tags: 
 author: theluckystrike
 ---
-
 # Chrome Shape Detection API Face Detection
 
 If you have ever wondered how some websites can automatically detect faces in your photos or enable face unlock features directly in Chrome, the answer lies in something called the Shape Detection API. This built-in Chrome feature allows websites to detect faces, barcodes, and text within images using the Shape Detection API face detection capability. Understanding what this API does, how it works, and what it means for your privacy can help you make informed decisions about your browsing experience.
@@ -74,12 +65,9 @@ Finally, consider your overall browser performance. Running **Face Detection** a
 
 Using **Tab Suspender Pro** is an excellent way to handle this. It automatically "hibernates" background tabs, freeing up **RAM** and **CPU** resources so that your active **Shape Detection** tasks run smoothly and without lag. By keeping your browser lean, you ensure that high-performance **Web APIs** have the resources they need to function correctly.
 
-
-
 ## Related Articles
-- [Chrome Shape Detection API Explained](/chrome-shape-detection-api-explained)
-- [Chrome Idle Detection API Explained: What It Means for Your Browser](/chrome-idle-detection-api-explained)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+* [Chrome Process Per Tab Why and How to Change](/articles/chrome-process-per-tab-why-and-how-to-change/)
+* [chrome mobile save page offline how to](/articles/chrome-mobile-save-page-offline-how-to/)
+* [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-

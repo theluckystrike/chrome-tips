@@ -1,23 +1,14 @@
----
+--- 
 layout: post
-title: Chrome Speech Recognition API Explained
-description: Learn what the Chrome Speech Recognition API is, how it works, and how
-  to use voice features in your browser. This guide on Chrome Speech Recognition API
-  Exp...
-date: 2025-03-12
-categories:
-- features
-- accessibility
-tags:
-- speech-recognition
-- voice-input
-- chrome-features
-- accessibility
-author: theluckystrike
+title: "Chrome Speech Recognition API Explained"
+description: "If you have ever searched for "chrome speech recognition api explained," you might have been curious about how Chrome can understand what you say or convert"
+date: "2025-03-12"
 last_modified_at: '2026-03-12'
-permalink: chrome-speech-recognition-api-explained
+permalink: "chrome-speech-recognition-api-explained"
+categories: 
+tags: 
+author: theluckystrike
 ---
-
 # Chrome Speech Recognition API Explained
 
 If you have ever searched for "chrome speech recognition api explained," you might have been curious about how Chrome can understand what you say or convert your voice into text. This feature is more relevant to your daily browsing than you might realize, and understanding how it works can help you make the most of voice features in Chrome.
@@ -66,8 +57,7 @@ Chrome Speech Recognition API explained is really about understanding how your b
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Speech Recognition API Guide](/chrome-speech-recognition-api)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+* [Chrome Extension for Managing Multiple Email Accounts](/articles/chrome-extension-for-managing-multiple-email-accounts/)
+* [Chrome Individual Transform Properties CSS – A Complete Guide](/articles/chrome-individual-transform-properties-css/)
+* [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android/)

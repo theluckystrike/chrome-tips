@@ -1,22 +1,14 @@
----
-layout: default
-title: Chrome Spellcheck Not Working? Here's How to Fix It
-description: Fix Chrome's spellcheck when it stops underlining misspelled words. Troubleshoot
-  language settings, enhanced spellcheck, and extension conflicts. This guide ...
-date: 2025-03-15
-categories:
-- troubleshooting
-- features
-tags:
-- spellcheck
-- chrome-fix
-- spelling
-- writing-tools
-author: theluckystrike
+--- 
+layout: post
+title: "Chrome Spellcheck Not Working? Here's How to Fix It"
+description: "You're typing in a text field and Chrome isn't catching your misspellings anymore. The familiar red squiggly underlines have disappeared. This is surprisingly"
+date: "2025-03-15"
 last_modified_at: '2026-03-12'
-permalink: chrome-spellcheck-not-working-fix
+permalink: "chrome-spellcheck-not-working-fix"
+categories: 
+tags: 
+author: theluckystrike
 ---
-
 # Chrome Spellcheck Not Working? Here's How to Fix It
 
 You're typing in a text field and Chrome isn't catching your misspellings anymore. The familiar red squiggly underlines have disappeared. This is surprisingly common and usually easy to fix.
@@ -110,9 +102,7 @@ For casual writing (comments, messages, quick emails), Chrome's basic spellcheck
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
-
 ## Related Articles
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+* [Chrome Site Isolation Explained](/articles/chrome-site-isolation-explained/)
+* [Chrome Extensions for Link Checker Broken Links](/articles/chrome-extensions-for-link-checker-broken-links/)
+* [chrome save all open tabs as bookmarks](/articles/chrome-save-all-open-tabs-as-bookmarks/)

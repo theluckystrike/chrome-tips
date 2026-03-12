@@ -1,23 +1,14 @@
----
-layout: default
-title: Chrome Slow on Your Old MacBook? Here's How to Fix It
-description: Speed up Chrome on older MacBooks. Practical fixes for lag, high CPU
-  usage, and excessive memory consumption on aging Apple hardware. This guide on Chrome
-  Sl...
-date: 2025-02-18
-categories:
-- performance
-- mac
-tags:
-- chrome-slow
-- macbook
-- mac-performance
-- browser-speed
-author: theluckystrike
+--- 
+layout: post
+title: "Chrome Slow on Your Old MacBook? Here's How to Fix It"
+description: "Your MacBook might still look great on the outside, but if Chrome is crawling every time you open it, the years are starting to show on the inside. The good"
+date: "2025-02-18"
 last_modified_at: '2026-03-12'
-permalink: chrome-slow-on-old-macbook-fix
+permalink: "chrome-slow-on-old-macbook-fix"
+categories: 
+tags: 
+author: theluckystrike
 ---
-
 # Chrome Slow on Your Old MacBook? Here's How to Fix It
 
 Your MacBook might still look great on the outside, but if Chrome is crawling every time you open it, the years are starting to show on the inside. The good news is that older MacBooks can still run Chrome perfectly well — you just need to optimize a few things.
@@ -104,10 +95,21 @@ Restart Chrome once a day instead of leaving it running for weeks. Close tabs be
 
 ## Use Tab Suspender Pro for Better Memory Control
 
+<<<<<<< HEAD
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
 
 ## Related Articles
-- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
-- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
-- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
+* [Chrome Extensions For Email Tracking Read Receipts](/articles/chrome-extensions-for-email-tracking-read-receipts/)
+* [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide/)
+* [Chrome for Screencastify Extension Guide](/articles/chrome-for-screencastify-extension-guide/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+>>>>>>> qa/loop-3
+
+## Related Articles
+
+- [How to Find a Tab by Name in Chrome: Complete Guide](/articles/chrome-find-tab-by-name-search)
+- [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to)
+- [chrome surfshark extension review 2026](/articles/chrome-surfshark-extension-review-2026)

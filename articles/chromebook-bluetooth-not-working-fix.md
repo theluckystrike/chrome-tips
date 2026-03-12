@@ -97,8 +97,7 @@ Before giving up, remember that most Bluetooth problems can be solved with the s
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chromebook touchscreen not working fix](/chromebook-touchscreen-not-working-fix)
-- [Chromebook Android Apps Not Working Fix](/chromebook-android-apps-not-working-fix)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
+- [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
+- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)

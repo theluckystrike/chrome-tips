@@ -70,8 +70,7 @@ If you run into any issues, the troubleshooting tips above should help you get b
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
-- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome Screen Recording in Browser How To](/chrome-screen-recording-in-browser-how-to)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Cast to TV How to Set Up](/chrome-cast-to-tv-how-to-set-up)

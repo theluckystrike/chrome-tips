@@ -96,8 +96,7 @@ Making these adjustments takes about ten minutes but pays off every time you ope
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
-- [Chrome for Quizlet Web App Best Settings](/chrome-for-quizlet-web-app-best-settings)
-- [chrome for instacart web app best settings](/chrome-for-instacart-web-app-best-settings)
+- [Chrome For Telegram Web Best Settings](/chrome-for-telegram-web-best-settings)
+- [Chrome for ChatGPT Web App Best Extensions](/chrome-for-chatgpt-web-app-best-extensions)
+- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)

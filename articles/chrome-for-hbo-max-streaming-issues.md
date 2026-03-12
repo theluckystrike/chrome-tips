@@ -93,8 +93,7 @@ Streaming issues in Chrome are usually fixable with some basic troubleshooting. 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [chrome for twitch streaming setup in browser](/chrome-for-twitch-streaming-setup-in-browser)
-- [Chrome Tracing for Performance Issues](/chrome-tracing-for-performance-issues)
+- [Chrome For Twitch Streaming Setup In Browser](/chrome-for-twitch-streaming-setup-in-browser)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)

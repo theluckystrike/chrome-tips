@@ -71,8 +71,7 @@ Breaking the habit of opening too many tabs takes some effort, but it is absolut
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)
-- [Chrome Notifications on Phone Too Many How to Stop](/chrome-notifications-on-phone-too-many-how-to-stop)
-- [Chrome Android Tabs Too Many How to Manage](/chrome-android-tabs-too-many-how-to-manage)
+- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
+- [Chrome Opens Old Tabs on Startup How to Stop](/chrome-opens-old-tabs-on-startup-how-to-stop)
+- [How to Stop Chrome from Suspending My Tabs](/how-to-stop-chrome-from-suspending-my-tabs)

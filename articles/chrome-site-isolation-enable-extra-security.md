@@ -83,11 +83,10 @@ While no single security measure can guarantee complete protection, Site Isolati
 
 Don't wait until after a security incident to take action. Enable Chrome Site Isolation today and enjoy the peace of mind that comes with knowing your browsing activity is better protected.
 
-
-
 ## Related Articles
-- [Chrome Strict Site Isolation: Should I Enable](/chrome-strict-site-isolation-should-i-enable)
-- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/chrome-site-isolation-security-feature)
 - [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
+- [Chrome Site Isolation Explained Simply](/chrome-site-isolation-explained-simply)
+- [Chrome Site Isolation Explained for Users](/chrome-site-isolation-explained-for-users)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

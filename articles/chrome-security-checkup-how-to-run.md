@@ -96,11 +96,10 @@ Running Chrome's security checkup is one of the simplest ways to maintain good b
 
 Make it a point to run the security checkup regularly and address any issues it finds promptly. A few minutes of attention now can prevent much bigger problems down the road.
 
-
-
 ## Related Articles
-- [chrome security check how to run](/chrome-security-check-how-to-run)
-- [chrome lighthouse audit how to run](/chrome-lighthouse-audit-how-to-run)
-- [Chrome for Password Security Best Practices](/chrome-for-password-security-best-practices)
+- [Chrome Security Panel How to Check SSL](/chrome-security-panel-how-to-check-ssl)
+- [Chrome Lighthouse Audit How To Run](/chrome-lighthouse-audit-how-to-run)
+- [How To Use Chrome Password Checkup Feature](/how-to-use-chrome-password-checkup-feature)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

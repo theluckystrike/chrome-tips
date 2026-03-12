@@ -74,8 +74,7 @@ Remember that Chrome shows these warnings to protect you. When you encounter a c
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Status Invalid Image Hash Fix](/chrome-status-invalid-image-hash-fix)
-- [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/chrome-err-cert-authority-invalid-fix)
-- [Chrome NET ERR CERT DATE INVALID Fix](/chrome-net-err-cert-date-invalid-fix)
+- [Chrome Slow on School Laptop? Here's How to Fix It](/chrome-slow-on-school-laptop-how-to-fix)
+- [How to Disable Chrome Notifications Permanently](/how-to-disable-chrome-notifications-permanently)
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)

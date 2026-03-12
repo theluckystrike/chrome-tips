@@ -69,8 +69,7 @@ Take some time to experiment with different approaches. You may find that a comb
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome Lite Mode Data Saver Replacement](/chrome-lite-mode-data-saver-replacement)
-- [Chrome Memory Saver Mode 2026 Guide](/chrome-memory-saver-mode-2026)
-- [chrome reader mode how to turn on 2026](/chrome-reader-mode-how-to-turn-on-2026)
+- [Chrome Lite Mode Does It Still Exist](/chrome-lite-mode-does-it-still-exist)
+- [Chrome Reader Mode How To Turn On 2026](/chrome-reader-mode-how-to-turn-on-2026)

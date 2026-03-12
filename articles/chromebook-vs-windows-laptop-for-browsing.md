@@ -57,8 +57,7 @@ Both platforms can provide an excellent browsing experience. The best choice dep
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
-- [Chrome Not Responding on Windows 11 Laptop](/chrome-not-responding-on-windows-11-laptop)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)
 - [Best Chromebook Extensions for Students](/best-chromebook-extensions-for-students)

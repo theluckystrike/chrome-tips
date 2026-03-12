@@ -96,8 +96,7 @@ Most extensions are safe and useful when you choose them carefully. By taking co
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extension Permissions Too Many Warning](/chrome-extension-permissions-too-many-warning)
-- [How to Limit Screen Time in Chrome with Extensions](/chrome-limit-screen-time-with-extension)
-- [Chrome Extension Permissions Best Practices](/chrome-extension-permissions-best-practices)
+- [How to Limit Chrome RAM Usage on Windows](/how-to-limit-chrome-ram-usage-windows)
+- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
+- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)

@@ -71,8 +71,7 @@ You do not need to install every extension you come across. In fact, having too 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Offline Google Calendar](/chrome-offline-google-calendar)
-- [Chrome Extensions for Google Drive](/chrome-extensions-for-google-drive)
-- [Chrome Extensions for Google Forms](/chrome-extensions-for-google-forms)
+- [Best Chrome Extensions for Google Drive](/best-chrome-extensions-for-google-drive)
+- [Chrome for Google Maps Best Extensions](/chrome-for-google-maps-best-extensions)
+- [Chrome Extensions for Google Classroom](/chrome-extensions-for-google-classroom)

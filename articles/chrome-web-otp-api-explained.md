@@ -74,8 +74,7 @@ As more websites adopt this API and more users come to expect automatic verifica
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome Web Share API Explained](/chrome-web-share-api-explained)
-- [Chrome Web Codecs API Explained](/chrome-web-codecs-api-explained)
-- [chrome web serial api explained](/chrome-web-serial-api-explained)
+- [Chrome Web Share Target Api Explained](/chrome-web-share-target-api-explained)
+- [Chrome Web GPU API Explained](/chrome-web-gpu-api-explained)

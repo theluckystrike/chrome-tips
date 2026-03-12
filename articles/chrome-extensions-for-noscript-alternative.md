@@ -69,8 +69,7 @@ Remember that you do not have to choose just one solution. Many users find that 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
+- [Chrome Extensions For Privacy Badger Alternative](/chrome-extensions-for-privacy-badger-alternative)
 - [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)
-- [chrome extensions for whatfont alternative](/chrome-extensions-for-whatfont-alternative)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

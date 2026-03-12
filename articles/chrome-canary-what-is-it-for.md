@@ -59,8 +59,7 @@ If you are curious about what Google is building next for Chrome, downloading Ca
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Canary vs Stable Difference Explained](/chrome-canary-vs-stable-difference-explained)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is)
+- [Chrome Headless Mode What It Is](/chrome-headless-mode-what-it-is)
+- [Chrome Secure DNS: What It Is and How to Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)

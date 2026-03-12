@@ -83,8 +83,7 @@ If you encounter a website where the dark mode does not look quite right, most e
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [how to turn on chrome dark mode on any website](/how-to-turn-on-chrome-dark-mode-on-any-website)
-- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
-- [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/chrome-extensions-developer-mode)
+- [Chrome Extensions For Website Distraction Blocker](/chrome-extensions-for-website-distraction-blocker)
+- [Chrome Extensions for Website Monitoring Changes](/chrome-extensions-for-website-monitoring-changes)
+- [Chrome Extensions for Website Blocker](/chrome-extensions-for-website-blocker)

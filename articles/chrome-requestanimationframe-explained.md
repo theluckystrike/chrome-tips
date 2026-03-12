@@ -86,11 +86,10 @@ requestAnimationFrame represents how modern browsers have evolved to provide bet
 
 Understanding these underlying technologies helps you become a more informed internet user. Whether you are just curious about how your browser works or you are troubleshooting performance issues, knowing about requestAnimationFrame gives you insight into the complex systems that make the web work.
 
-
-
 ## Related Articles
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
-- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

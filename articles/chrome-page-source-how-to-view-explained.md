@@ -73,11 +73,10 @@ Viewing page source in Chrome is a straightforward process that anyone can do. W
 
 The next time you wonder what is going on behind the scenes of a webpage, remember these simple methods and take a look for yourself. You might be surprised at how much you can learn just by spending a few minutes exploring the code.
 
-
-
 ## Related Articles
-- [Chrome View Page Source: What It Tells You](/chrome-view-page-source-what-it-tells-you)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)
+- [Chrome Startup Page How to Set](/chrome-startup-page-how-to-set)
+- [How to Use Chrome Translate Page](/chrome-translate-page-how-to-use)
+- [Chrome Mobile View on Desktop How to](/chrome-mobile-view-on-desktop-how-to)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

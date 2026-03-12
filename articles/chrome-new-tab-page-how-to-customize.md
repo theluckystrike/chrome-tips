@@ -52,8 +52,7 @@ Remember that your needs may change over time. Revisit your new tab page setup e
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
-- [chrome for custom new tab page extensions](/chrome-for-custom-new-tab-page-extensions)
-- [Chrome New Tab Page Minimalist Extensions](/chrome-new-tab-page-minimalist-extensions)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+- [Chrome Startup Page How to Set](/chrome-startup-page-how-to-set)
+- [How to Use Chrome Translate Page](/chrome-translate-page-how-to-use)

@@ -69,8 +69,7 @@ Next time a specific site will not load properly or keeps asking you to sign in,
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
-- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
-- [Chrome Local Storage How to Clear for One Site](/chrome-local-storage-how-to-clear-for-one-site)
+- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
+- [Chrome Camera Permission for One Site How to Set](/chrome-camera-permission-for-one-site-how-to-set)
+- [Chrome How To Allow Popups For One Site](/chrome-how-to-allow-popups-for-one-site)

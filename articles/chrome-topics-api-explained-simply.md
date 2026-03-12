@@ -71,11 +71,10 @@ The important thing is that you understand what is happening with your data. Bro
 
 ---
 
-
-
 ## Related Articles
-- [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
+- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)
+- [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -85,8 +85,7 @@ Remember to keep your recovery phrase safe, review transaction requests carefull
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
-- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
 - [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
+- [Chrome Extension for Changing User Agent](/chrome-extension-for-changing-user-agent)

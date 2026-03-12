@@ -155,11 +155,10 @@ Consider:
 
 Chrome slow only on your computer not others is frustrating, but it's almost always fixable. Start with Memory Saver and reducing your open tabs, and you'll likely see immediate improvements. The tips above work whether you have 4GB, 8GB, or even 16GB of RAM — it's about using what you have wisely.
 
-
-
 ## Related Articles
-- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
-- [My Computer Is So Slow How to Fix Chrome](/my-computer-is-so-slow-how-to-fix-chrome)
-- [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/chrome-slow-on-work-computer-vpn)
+- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

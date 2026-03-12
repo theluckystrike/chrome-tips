@@ -69,8 +69,7 @@ By staying informed about how these protections work and doing your part to main
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Content Security Policy Explained: A Complete Guide](/chrome-content-security-policy-explained)
-- [Chrome Devtools Security Panel Explained](/chrome-devtools-security-panel-explained)
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)

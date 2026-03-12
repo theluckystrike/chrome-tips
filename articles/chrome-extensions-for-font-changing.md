@@ -63,8 +63,7 @@ Take some time to try a few different extensions to find the one that works best
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Font Identification Extensions](/chrome-for-font-identification-extensions)
-- [chrome extensions for font changer on any website](/chrome-extensions-for-font-changer-on-any-website)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)

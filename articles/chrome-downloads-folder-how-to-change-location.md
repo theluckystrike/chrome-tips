@@ -70,8 +70,7 @@ The key is finding a system that works for you and sticking with it. Whether you
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome DNS Settings How to Change for Privacy](/chrome-dns-settings-how-to-change-for-privacy)
 - [Chrome Downloads Folder How to Change](/chrome-downloads-folder-how-to-change)
-- [How to Change Your Chrome Downloads Folder](/chrome-downloads-folder-change)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)

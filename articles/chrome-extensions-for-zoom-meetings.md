@@ -69,8 +69,7 @@ Remember that extensions are helpers, not replacements for good meeting habits. 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Extensions for Note Taking in Meetings](/chrome-extensions-for-note-taking-in-meetings)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)

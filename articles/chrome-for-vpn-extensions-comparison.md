@@ -79,8 +79,7 @@ Check that the VPN is actually connected before doing sensitive activities. Some
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Text Comparison Diff Tool](/chrome-extensions-for-text-comparison-diff-tool)
-- [chrome vs firefox extensions comparison](/chrome-vs-firefox-extensions-comparison)
-- [Chrome for Language Translation Extensions Comparison](/chrome-for-language-translation-extensions-comparison)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)

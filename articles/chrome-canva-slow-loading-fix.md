@@ -85,11 +85,10 @@ Slow loading times in Canva can be frustrating, but with a systematic approach, 
 
 By keeping your browser optimized, your extensions in check, and your system resources managed, you can create a faster, more responsive environment for designing in Canva. The time you invest in these optimizations will pay off with a smoother, more productive design workflow.
 
-
-
 ## Related Articles
-- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
-- [Chrome Images Not Loading Fix](/chrome-images-not-loading-fix)
-- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
+- [Chrome YouTube Slow But Other Sites Fine Fix](/chrome-youtube-slow-but-other-sites-fine-fix)
+- [Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM](/chrome-canvas-rendering-slow-fix)
+- [How to Fix Chrome Not Loading Images on Webpages](/chrome-webpage-not-loading-images-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

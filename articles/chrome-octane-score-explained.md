@@ -76,8 +76,7 @@ Remember that your time is valuable, and a faster browser means less waiting and
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome lighthouse performance score explained simply](/chrome-lighthouse-performance-score-explained-simply)
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
 - [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)

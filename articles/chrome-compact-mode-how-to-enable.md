@@ -69,8 +69,7 @@ The best approach is the one that fits your specific needs and workflow. What wo
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome High Contrast Mode How To Enable](/chrome-high-contrast-mode-how-to-enable)
+- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
 - [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)
-- [Chrome HTTPS Only Mode How to Enable](/chrome-https-only-mode-how-to-enable)

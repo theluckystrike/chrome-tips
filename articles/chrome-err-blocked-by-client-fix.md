@@ -93,11 +93,10 @@ Remember that some blocking is there to protect you. Only disable blockers on si
 
 ---
 
-
-
 ## Related Articles
+- [Chrome ERR_CACHE_MISS Fix](/chrome-err-cache-miss-fix)
 - [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/chrome-err-ssl-protocol-error-fix)
-- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)
-- [Chrome ERR_NETWORK_CHANGED Fix](/chrome-err-network-changed-fix)
+- [Chrome Search Engine Changed by Itself Fix](/chrome-search-engine-changed-by-itself-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

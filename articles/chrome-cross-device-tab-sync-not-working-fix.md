@@ -93,8 +93,7 @@ Chrome tab sync is incredibly useful when it works, and most of the time it does
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome Sync Not Working Fix](/chrome-sync-not-working-fix)
-- [Chrome Sync Between Devices Not Working Fix](/chrome-sync-between-devices-not-working-fix)
-- [Chrome Cast Tab to TV Not Working Fix](/chrome-cast-tab-to-tv-not-working-fix)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
+- [Chrome Zoom Meeting Not Working Fix](/chrome-zoom-meeting-not-working-fix)

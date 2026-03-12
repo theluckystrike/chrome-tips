@@ -62,8 +62,7 @@ Remember that no browser is completely immune to threats, but by staying vigilan
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for banking online security tips](/chrome-for-banking-online-security-tips)
-- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
-- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
+- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
+- [How to Lock Safe Search in Chrome for Children](/chrome-safe-search-lock-for-children)
+- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)

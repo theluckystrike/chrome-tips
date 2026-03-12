@@ -89,8 +89,7 @@ Remember, you do not need to be a tech expert to get great streaming quality. Ju
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Amazon Prime Video Quality Settings](/chrome-for-amazon-prime-video-quality-settings)
-- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
-- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
+- [Chrome For Tiktok Web Best Settings](/chrome-for-tiktok-web-best-settings)
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
+- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)

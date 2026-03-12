@@ -66,8 +66,7 @@ Tab Suspender Pro is an extension that automatically suspends tabs you have not 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Switching Profiles Keyboard Shortcut](/chrome-switching-profiles-keyboard-shortcut)
-- [Chrome Emoji Keyboard Shortcut How to Use](/chrome-emoji-keyboard-shortcut-how-to-use)
-- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

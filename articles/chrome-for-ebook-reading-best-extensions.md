@@ -77,8 +77,7 @@ Finding the right extensions can turn Chrome into an excellent ebook reader. Whe
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)
-- [Chrome Reading Mode vs Reader View Extensions](/chrome-reading-mode-vs-reader-view-extensions)
-- [Chrome for Speed Reading Extensions](/chrome-for-speed-reading-extensions)
+- [Best Chrome Extensions for Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)
+- [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
+- [Chrome for Medium Best Reading Extensions](/chrome-for-medium-best-reading-extensions)

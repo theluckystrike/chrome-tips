@@ -107,6 +107,10 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 ## Related Articles
-- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
-- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
-- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
+
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+>>>>>>> qa/loop-3

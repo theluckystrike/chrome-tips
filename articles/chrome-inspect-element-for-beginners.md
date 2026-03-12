@@ -82,8 +82,7 @@ Give it a try on your next browsing session. Pick one small thing you want to un
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)
 - [Chrome How to Inspect Element Beginners](/chrome-how-to-inspect-element-beginners)
-- [How to Edit Any Webpage Text Using Inspect Element](/chrome-edit-webpage-text-inspect-element)
+- [Chrome Cache API Tutorial for Beginners](/chrome-cache-api-tutorial-for-beginners)
+- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)

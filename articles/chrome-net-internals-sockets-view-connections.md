@@ -48,11 +48,10 @@ The Sockets view in Chrome Net Internals is best used when you encounter specifi
 
 However, if you find yourself regularly needing to flush socket pools to keep Chrome running smoothly, consider whether an extension might reduce the frequency of these issues. Prevention combined with the knowledge of how to diagnose problems when they arise gives you the best of both worlds.
 
-
-
 ## Related Articles
+- [Chrome Local Storage View Edit: How to Inspect and Modify Website Data](/chrome-local-storage-view-edit)
 - [Chrome Net Internals How to Use](/chrome-net-internals-how-to-use)
-- [How to Use Chrome Net Internals to Clear DNS Cache](/chrome-net-internals-dns-clear-cache)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

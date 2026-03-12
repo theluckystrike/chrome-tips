@@ -79,11 +79,10 @@ The key is to be proactive rather than reactive. Instead of just clicking "allow
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
-- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
-- [Chrome Extension Permissions Too Many Warning](/chrome-extension-permissions-too-many-warning)
+- [Chrome for Proxy Settings How to Configure](/chrome-for-proxy-settings-how-to-configure)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [Chrome Permissions on Android How to Manage](/chrome-permissions-on-android-how-to-manage)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

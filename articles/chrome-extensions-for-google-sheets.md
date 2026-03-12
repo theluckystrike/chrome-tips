@@ -52,8 +52,7 @@ Take some time to think about where you are spending the most effort. Is it find
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
-- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
-- [Chrome Extensions for Google Drive](/chrome-extensions-for-google-drive)
+- [Chrome Extensions for Google Slides](/chrome-extensions-for-google-slides)
+- [Best Chrome Extensions for Google Drive](/best-chrome-extensions-for-google-drive)
+- [Chrome Extensions for Google Meet](/chrome-extensions-for-google-meet)

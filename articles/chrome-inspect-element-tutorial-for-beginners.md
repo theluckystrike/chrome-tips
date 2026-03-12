@@ -114,11 +114,10 @@ Once you're comfortable with the basics, you'll find Inspect Element is an inval
 
 ---
 
-
-
 ## Related Articles
-- [Chrome How to Inspect Element Beginners](/chrome-how-to-inspect-element-beginners)
-- [Chrome Inspect Element for Beginners](/chrome-inspect-element-for-beginners)
-- [How to Edit Any Webpage Text Using Inspect Element](/chrome-edit-webpage-text-inspect-element)
+- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
+- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)
+- [Chrome Encrypted DNS Explained for Beginners](/chrome-encrypted-dns-explained-for-beginners)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -53,11 +53,10 @@ Making it a habit to check the Task Manager occasionally helps you catch problem
 
 The Shift+Esc shortcut puts this powerful tool at your fingertips whenever you need it. Once you start using it regularly, you will find it much easier to keep your browser running smoothly and to troubleshoot issues when they arise.
 
-
-
 ## Related Articles
-- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
-- [Chrome Task Manager Guide](/chrome-task-manager-guide)
-- [Chrome Credential Manager Autofill Explained](/chrome-credential-manager-autofill-explained)
+- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-task-manager-find-heavy-tabs)
+- [How to Use Chrome Task Manager to Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs)
+- [Chrome Mute Tab Shortcut Explained](/chrome-mute-tab-shortcut-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -73,8 +73,7 @@ Finally, remember that clearing your browser cache and cookies might reset some 
 
 Managing your trusted sites in Chrome gives you better control over your privacy and browsing experience. By taking a few minutes to review and organize your permissions, you can ensure that only the websites you trust have access to the features they need.
 
-
 ## Related Articles
-- [chrome trusted types dom xss prevent](/chrome-trusted-types-dom-xss-prevent)
-- [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
-- [Chrome YouTube Slow But Other Sites Fine Fix](/chrome-youtube-slow-but-other-sites-fine-fix)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [How to Add Chrome Shortcut to Desktop](/how-to-add-chrome-shortcut-to-desktop)

@@ -76,8 +76,7 @@ Remember, you can always change your homepage later if your needs change. Chrome
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
 - [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
-- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)

@@ -87,11 +87,10 @@ A slow LastPass extension is frustrating, especially when you need to log in qui
 
 Start with the simplest solutions first: update Chrome and LastPass, clear the cache, and remove unnecessary extensions. If the problem persists, move on to managing your vault, checking for conflicting software, and using tools like Tab Suspender Pro to reduce memory usage. In most cases, you will see a noticeable improvement without having to reinstall anything.
 
-
-
 ## Related Articles
-- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome YouTube Slow But Other Sites Fine Fix](/chrome-youtube-slow-but-other-sites-fine-fix)
+- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
 - [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
-- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

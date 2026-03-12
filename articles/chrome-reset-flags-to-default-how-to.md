@@ -56,8 +56,7 @@ Remember, a well-managed browser is not about enabling every experimental featur
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Reset Chrome to Default Settings](/how-to-reset-chrome-to-default-settings)
 - [Chrome Flags Reset How to Undo Changes](/chrome-flags-reset-how-to-undo-changes)
-- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
+- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
+- [How To Make Chrome Default Browser Windows 11](/how-to-make-chrome-default-browser-windows-11)

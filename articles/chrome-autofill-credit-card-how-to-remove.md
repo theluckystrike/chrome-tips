@@ -75,9 +75,7 @@ That said, Chrome's built-in settings are usually sufficient for most users who 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-
-- [Chrome Extensions for Quick Notes Sidebar](/articles/chrome-extensions-for-quick-notes-sidebar/)
-- [Chrome Android Flags Best Settings 2026](/articles/chrome-android-flags-best-settings-2026/)
-- [Chrome for Descript Web App Optimization](/articles/chrome-for-descript-web-app-optimization/)
+- [How to Remove Chrome Malware](/how-to-remove-chrome-malware)
+- [Chrome Payment Methods How to Remove](/chrome-payment-methods-how-to-remove)
+- [Chrome for Autofill Credit Card Safety](/chrome-for-autofill-credit-card-safety)

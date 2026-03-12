@@ -81,8 +81,7 @@ If you run into issues, check your network connection, make sure your TV is comp
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Cast Tab to TV Not Working Fix](/chrome-cast-tab-to-tv-not-working-fix)
-- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
-- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [Chrome Cast to TV How to Set Up](/chrome-cast-to-tv-how-to-set-up)
+- [Chrome Which Tab Is Using Most CPU How to Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
+- [Chrome Tab Groups Auto Create How To Set Up](/chrome-tab-groups-auto-create-how-to-set-up)

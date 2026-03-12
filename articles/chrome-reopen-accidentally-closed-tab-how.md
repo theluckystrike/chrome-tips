@@ -71,11 +71,10 @@ As a last resort, you can try searching for the page directly using Google. If y
 
 ---
 
-
-
 ## Related Articles
-- [chrome reopen closed tab shortcut](/chrome-reopen-closed-tab-shortcut)
+- [Chrome Reopen Closed Tab Shortcut](/chrome-reopen-closed-tab-shortcut)
 - [How to Recover Accidentally Closed Chrome Tabs](/accidentally-closed-all-chrome-tabs-recovery)
-- [chrome recently closed tabs how to reopen](/chrome-recently-closed-tabs-how-to-reopen)
+- [Chrome Recently Closed Tabs How To Reopen](/chrome-recently-closed-tabs-how-to-reopen)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

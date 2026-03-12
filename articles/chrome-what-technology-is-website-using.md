@@ -89,8 +89,7 @@ Understanding what technology a site uses can satisfy your curiosity, help you m
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+- [Chrome Shadow DOM What It Is](/chrome-shadow-dom-what-it-is)
+- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)
+- [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)

@@ -62,8 +62,7 @@ By keeping your browser updated, using extensions like Tab Suspender Pro to mana
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
+- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
 - [Chrome Site Isolation Explained Simply](/chrome-site-isolation-explained-simply)
-- [Chrome Site Isolation Explained](/chrome-site-isolation-explained)
-- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)

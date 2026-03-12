@@ -57,8 +57,7 @@ Experiment with different approaches to find what works best for you. The goal i
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
-- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
 - [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
+- [Chrome Extension for Changing User Agent](/chrome-extension-for-changing-user-agent)

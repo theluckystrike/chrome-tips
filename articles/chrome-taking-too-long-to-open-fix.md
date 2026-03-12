@@ -67,11 +67,10 @@ Keeping your computer free of malware is also important for browser performance.
 
 Finally, consider resetting Chrome to its default settings if nothing else works. This will remove all extensions, saved data, and customizations, giving you a fresh start. You can find this option in Chrome settings under the advanced section. Just make sure to back up any important data or bookmarks before doing this.
 
-
-
 ## Related Articles
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
 - [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)
+- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

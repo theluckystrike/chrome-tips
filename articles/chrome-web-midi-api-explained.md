@@ -50,8 +50,7 @@ Understanding the Chrome Web MIDI API explained in simple terms helps demystify 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
-- [Chrome Web MIDI API for Musicians](/chrome-web-midi-api-for-musicians)
-- [Chrome Web Codecs API Explained](/chrome-web-codecs-api-explained)
+- [Chrome Web OTP API Explained](/chrome-web-otp-api-explained)
+- [Chrome Web Animation API Explained](/chrome-web-animation-api-explained)
+- [Chrome Web GPU API Explained](/chrome-web-gpu-api-explained)

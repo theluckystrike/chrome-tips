@@ -73,8 +73,7 @@ Remember that clearing cookies will log you out of websites, while clearing cach
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Cookies Explained Simply](/chrome-cookies-explained-simply)
-- [Chrome Cookies Explained for Beginners](/chrome-cookies-explained-for-beginners)
-- [Chrome Back Forward Cache Explained](/chrome-back-forward-cache-explained)
+- [Chrome Mobile vs Desktop Features Difference: What You Need to Know](/chrome-mobile-vs-desktop-features-difference)
+- [Chrome First Party Vs Third Party Cookies](/chrome-first-party-vs-third-party-cookies)
+- [Google Chrome vs Chromium Difference Explained](/google-chrome-vs-chromium-difference-explained)

@@ -61,8 +61,7 @@ Whether you are a hobbyist looking to build your first project or someone who is
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
-- [chrome web serial api explained](/chrome-web-serial-api-explained)
-- [Chrome Web GPU API Explained for Beginners](/chrome-web-gpu-api-explained-for-beginners)
+- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
+- [Chrome Web MIDI API for Musicians](/chrome-web-midi-api-for-musicians)
+- [Chrome Cache API Tutorial for Beginners](/chrome-cache-api-tutorial-for-beginners)

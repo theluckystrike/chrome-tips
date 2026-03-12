@@ -66,8 +66,7 @@ The next time you need to show something during a video call, remember that you 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Sharing Screen in Video Calls](/chrome-sharing-screen-in-video-calls)
-- [Chrome Closed Captions on Any Video](/chrome-closed-captions-on-any-video)
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)

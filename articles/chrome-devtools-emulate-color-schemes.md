@@ -64,8 +64,7 @@ Remember, creating an inclusive web experience does not require complex technica
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Devtools Color Picker How to Use](/chrome-devtools-color-picker-how-to-use)
-- [Chrome DevTools Emulate Vision Deficiencies](/chrome-devtools-emulate-vision-deficiencies)
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
+- [Chrome DevTools Protocol Monitor](/chrome-devtools-protocol-monitor)
+- [Chrome Color Picker Extension Best](/chrome-color-picker-extension-best)

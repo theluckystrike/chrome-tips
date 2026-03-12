@@ -115,11 +115,10 @@ For users with slower computers, being familiar with browser developer tools can
 
 This is where **Tab Suspender Pro** comes in useful. This extension automatically suspends tabs you're not actively using, which saves significant memory and can make your browser more responsive, especially on computers with limited RAM.
 
-
-
 ## Related Articles
-- [Chrome Console Utilities Reference](/chrome-console-utilities-guide)
-- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
+- [Chrome for Quick Commands Feature](/chrome-for-quick-commands-feature)
+- [Chrome Android Tips and Tricks 2026](/chrome-android-tips-and-tricks-2026)
 - [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

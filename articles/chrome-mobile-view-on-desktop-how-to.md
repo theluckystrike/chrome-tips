@@ -67,8 +67,7 @@ If you spend a lot of time switching between different device views or testing m
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Mobile vs Desktop Features Difference: What You Need to Know](/chrome-mobile-vs-desktop-features-difference)
-- [Chrome Force Mobile Site on Desktop](/chrome-force-mobile-site-on-desktop)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
+- [Chrome Shortcuts On Desktop How To Create](/chrome-shortcuts-on-desktop-how-to-create)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)

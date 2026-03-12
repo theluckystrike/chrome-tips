@@ -82,9 +82,7 @@ These chrome address bar tips and tricks take just a few minutes to learn but ca
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-
-- [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips/)
-- [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/articles/chrome-your-computer-is-infected-popup-fix/)
-- [Chrome Extensions for News Aggregator](/articles/chrome-extensions-for-news-aggregator/)
+- [Chrome For Google Flights Tips And Tricks](/chrome-for-google-flights-tips-and-tricks)
+- [Chrome Android Tips and Tricks 2026](/chrome-android-tips-and-tricks-2026)
+- [Chrome for Google Sheets Tips and Tricks](/chrome-for-google-sheets-tips-and-tricks)

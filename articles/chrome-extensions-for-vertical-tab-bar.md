@@ -80,8 +80,7 @@ You might find that you prefer having your vertical tab bar on the left side, or
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome Extensions for Vertical Tabs Sidebar](/chrome-extensions-for-vertical-tabs-sidebar)
 - [Chrome Extensions for Workona Tab Manager](/chrome-extensions-for-workona-tab-manager)
-- [Chrome New Tab Extensions Aesthetic 2026](/chrome-new-tab-extensions-aesthetic-2026)
+- [Chrome Extensions for Tab Grouping Automatically](/chrome-extensions-for-tab-grouping-automatically)

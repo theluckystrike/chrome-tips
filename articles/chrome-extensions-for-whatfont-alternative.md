@@ -67,8 +67,7 @@ Take some time to try a few different extensions to find the one that works best
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
-- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)
-- [chrome extensions for privacy badger alternative](/chrome-extensions-for-privacy-badger-alternative)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome Extensions for iMacros Alternative](/chrome-extensions-for-imacros-alternative)
+- [Chrome Extensions For Privacy Badger Alternative](/chrome-extensions-for-privacy-badger-alternative)

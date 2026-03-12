@@ -84,11 +84,10 @@ Remember that Tab Suspender Pro and similar tools combine dark mode functionalit
 
 Experiment with these options to find the combination that works best for your browsing habits. Once you establish your preferred setup, you will enjoy consistent dark mode across the entire web, reducing eye strain and creating a more comfortable browsing experience.
 
-
-
 ## Related Articles
-- [chrome force dark mode on all websites](/chrome-force-dark-mode-on-all-websites)
+- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
 - [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
-- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Sandbox Mode Explained](/chrome-sandbox-mode-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -61,8 +61,7 @@ Over time, unused extensions and accumulated data can slow down Chrome and make 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac)
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
+- [How to Make Chrome Use Less Battery on MacBook](/how-to-make-chrome-use-less-battery-macbook)
+- [How to Make Chrome Remember Tabs After Closing](/how-to-make-chrome-remember-tabs-after-closing)

@@ -72,8 +72,7 @@ If you want to optimize Chrome further, exploring Chrome's performance settings 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/chrome-lazy-loading-images-native)
-- [Chrome Lazy Loading Images Explained](/chrome-lazy-loading-images-explained)
-- [Chrome Images Not Loading Fix](/chrome-images-not-loading-fix)
+- [Chrome Live Caption How It Works](/chrome-live-caption-how-it-works)
+- [Chrome Sync Across Devices How It Works](/chrome-sync-across-devices-how-it-works)
+- [Chrome Pwa Offline Capability How It Works](/chrome-pwa-offline-capability-how-it-works)

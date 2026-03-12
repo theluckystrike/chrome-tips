@@ -78,11 +78,10 @@ Consider creating a system for naming your bookmark folders. You might include t
 
 Finally, take time periodically to clean up old bookmark folders. Go through your saved tabs and remove bookmarks for pages that no longer exist or are no longer relevant. A tidy bookmarks library is more valuable than a cluttered one, and regular maintenance prevents your bookmarks from becoming an unmanageable mess.
 
-
-
 ## Related Articles
+- [Chrome Lost All My Tabs After Update Fix](/chrome-lost-all-my-tabs-update-fix)
 - [Chrome Save Open Tabs as Bookmarks All at Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
-- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
-- [How to Save Chrome Tabs for Later](/how-to-save-chrome-tabs-for-later)
+- [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/chrome-save-webpage-as-mhtml-offline)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

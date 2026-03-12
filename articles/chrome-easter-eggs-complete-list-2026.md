@@ -72,8 +72,7 @@ Remember that Chrome is updated regularly, so new easter eggs may appear and old
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Hidden Games Easter Eggs List](/chrome-hidden-games-easter-eggs-list)
-- [chrome keyboard shortcuts complete list 2026](/chrome-keyboard-shortcuts-complete-list-2026)
-- [chrome privacy settings complete guide 2026](/chrome-privacy-settings-complete-guide-2026)
+- [Chrome Memory Saver Mode 2026 Guide](/chrome-memory-saver-mode-2026)
+- [Chrome Keyboard Shortcuts Complete List 2026](/chrome-keyboard-shortcuts-complete-list-2026)
+- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)

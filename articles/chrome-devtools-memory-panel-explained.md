@@ -54,8 +54,7 @@ Another helpful step is to restart Chrome periodically. Over time, memory can be
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
-- [Chrome Devtools Security Panel Explained](/chrome-devtools-security-panel-explained)
+- [Chrome DevTools CSS Overview Panel](/chrome-devtools-css-overview-panel)
+- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
+- [Chrome Layers Panel 3D View Explained](/chrome-layers-panel-3d-view-explained)

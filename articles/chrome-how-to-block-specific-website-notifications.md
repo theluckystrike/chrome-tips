@@ -60,8 +60,7 @@ By following these steps and checking in on your settings regularly, you can enj
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Block Specific Websites Guide](/chrome-block-specific-websites-guide)
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Pop Ups on Phone How to Block](/chrome-pop-ups-on-phone-how-to-block)
+- [Chrome Profile Specific Extensions How to Set](/chrome-profile-specific-extensions-how-to-set)
 - [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)

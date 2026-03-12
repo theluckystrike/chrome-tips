@@ -73,11 +73,10 @@ Remember that encrypted DNS is just one layer of online privacy. Using a reputab
 
 ---
 
-
-
 ## Related Articles
-- [chrome blink engine explained for beginners](/chrome-blink-engine-explained-for-beginners)
+- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)
 - [Chrome Passkeys Explained for Beginners](/chrome-passkeys-explained-for-beginners)
-- [Chrome Cookies Explained for Beginners](/chrome-cookies-explained-for-beginners)
+- [Chrome WebAuthn Explained for Regular Users](/chrome-webauthn-explained-for-regular-users)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

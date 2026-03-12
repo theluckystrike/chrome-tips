@@ -77,8 +77,7 @@ Start with your most important sources. Archive the web pages you reference most
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
-- [Chrome Extensions for Website Testing](/chrome-extensions-for-website-testing)
+- [Chrome Extensions for Website Blocker](/chrome-extensions-for-website-blocker)
 - [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

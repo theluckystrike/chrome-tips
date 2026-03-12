@@ -67,8 +67,7 @@ Remember that the best solution depends on your specific situation. If you have 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
-- [Chrome Lite Mode Does It Still Exist](/chrome-lite-mode-does-it-still-exist)
-- [Chrome Desktop Mode on Phone How to Use](/chrome-desktop-mode-on-phone-how-to-use)
+- [Chrome Lite Mode on Android: What Happened](/chrome-lite-mode-on-android-what-happened)
+- [Chrome Memory Saver Mode How to Use](/chrome-memory-saver-mode-how-to-use)
+- [Chrome Devtools Responsive Mode How to Use](/chrome-devtools-responsive-mode-how-to-use)

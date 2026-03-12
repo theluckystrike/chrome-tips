@@ -76,8 +76,7 @@ Remember that many rendering problems are caused by having too many tabs open or
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
 - [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
+- [Chrome Tab Organize AI Feature Explained](/chrome-tab-organize-ai-feature-explained)

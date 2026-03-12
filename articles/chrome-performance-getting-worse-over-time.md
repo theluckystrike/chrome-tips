@@ -88,11 +88,10 @@ Try closing Chrome completely at the end of your workday or whenever you notice 
 
 By taking these steps, you can restore Chrome to its responsive best and enjoy a faster browsing experience. Small maintenance habits go a long way in preventing performance decline and keeping your browser working well for years to come.
 
-
-
 ## Related Articles
-- [Chrome Memory Usage Keeps Going Up Over Time Fix](/chrome-memory-usage-keeps-going-up-over-time-fix)
-- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+- [Chrome Tracing for Performance Issues](/chrome-tracing-for-performance-issues)
 - [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
+- [How to Improve Chrome WebGL Performance](/chrome-webgl-performance-how-to-improve)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

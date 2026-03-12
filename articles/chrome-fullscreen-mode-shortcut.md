@@ -83,8 +83,7 @@ Now that you know the chrome fullscreen mode shortcut, go ahead and try it. Pres
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
+- [Chrome Sandbox Mode Explained](/chrome-sandbox-mode-explained)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
 - [Chrome Toggle Fullscreen Shortcut](/chrome-toggle-fullscreen-shortcut)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)

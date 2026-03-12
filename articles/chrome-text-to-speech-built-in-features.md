@@ -77,11 +77,10 @@ For people with reading difficulties or visual impairments, chrome text to speec
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Text to Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
 - [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
-- [chrome ai features built in 2026](/chrome-ai-features-built-in-2026)
+- [Chrome Virus Scan Built in How to Use](/chrome-virus-scan-built-in-how-to-use)
+- [Chrome Text to Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

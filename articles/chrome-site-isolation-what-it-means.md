@@ -64,8 +64,7 @@ By keeping your browser updated, using extensions like Tab Suspender Pro to mana
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
-- [Chrome Site Isolation Explained Simply](/chrome-site-isolation-explained-simply)
-- [Chrome Strict Site Isolation: Should I Enable](/chrome-strict-site-isolation-should-i-enable)
+- [Chrome Attribution Reporting What It Means for Users](/chrome-attribution-reporting-what-it-means-for-users)
+- [Chrome HSTS What It Means for Security](/chrome-hsts-what-it-means-for-security)
+- [Chrome Tab Discard What It Means](/chrome-tab-discard-what-it-means)

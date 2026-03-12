@@ -79,11 +79,10 @@ As web standards mature and more applications adopt WebAuthn, users can expect b
 
 Whether you are a user looking for a more convenient way to log in or a developer building the next generation of web applications, understanding and leveraging Chrome's biometric authentication capabilities will serve you well in the years ahead.
 
-
-
 ## Related Articles
-- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [Chrome Web Otp Autofill Sms](/chrome-web-otp-autofill-sms)
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

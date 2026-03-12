@@ -75,8 +75,7 @@ Finding similar images has become much easier thanks to these dedicated Chrome e
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Extensions for Image Downloader Bulk](/chrome-extensions-for-image-downloader-bulk)
-- [Chrome Extensions for Hotel Deal Finder](/chrome-extensions-for-hotel-deal-finder)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
 - [Chrome Extensions for Email Finder](/chrome-extensions-for-email-finder)

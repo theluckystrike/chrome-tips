@@ -67,8 +67,7 @@ Remember that not every extension will be useful for every trip. A quick weekend
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions For Meal Planning](/chrome-extensions-for-meal-planning)
-- [Chrome Extensions for Meal Planning Recipes](/chrome-extensions-for-meal-planning-recipes)
-- [Chrome for Travel Itinerary Extensions](/chrome-for-travel-itinerary-extensions)
+- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
+- [Chrome for LinkedIn Best Extensions](/chrome-for-linkedin-best-extensions)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)

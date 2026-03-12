@@ -84,8 +84,7 @@ Every few months, take a moment to do some basic browser maintenance. Clear your
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)

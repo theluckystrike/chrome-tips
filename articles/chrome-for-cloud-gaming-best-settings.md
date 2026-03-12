@@ -67,8 +67,7 @@ Chrome's Memory Saver mode, found in the Performance section of settings, can he
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome GPU Acceleration Gaming Settings](/chrome-gpu-acceleration-gaming-settings)
-- [Chrome Best Settings for Gaming](/chrome-best-settings-for-gaming)
-- [chrome for xbox cloud gaming optimization](/chrome-for-xbox-cloud-gaming-optimization)
+- [Chrome for Zoom in Browser Best Settings](/chrome-for-zoom-in-browser-best-settings)
+- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)

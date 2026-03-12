@@ -73,8 +73,7 @@ Your new tab page does not have to be an afterthought. With a little effort, it 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome Extensions for New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
-- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
+- [Chrome Extensions for Productivity Dashboard](/chrome-extensions-for-productivity-dashboard)
+- [Chrome Extensions for Weather Forecast New Tab](/chrome-extensions-for-weather-forecast-new-tab)

@@ -87,11 +87,10 @@ Taking time to understand and adjust the chrome preload pages setting lets you c
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Preloading Pages Setting Explained](/chrome-preloading-pages-setting-explained)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
+- [Chrome Sandbox Mode Explained](/chrome-sandbox-mode-explained)
+- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

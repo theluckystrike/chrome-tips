@@ -84,11 +84,10 @@ This cycle repeats every time you use the PWA, ensuring you always have the most
 
 For users who want more control, some PWA management options exist in Chrome settings. You can see which PWAs are installed and when they were last updated. While you can't force an instant update from here, you can see the state of each installed PWA.
 
-
-
 ## Related Articles
-- [chrome pwa offline capability how it works](/chrome-pwa-offline-capability-how-it-works)
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
+- [Chrome Release Schedule: How Often Does It Update](/chrome-release-schedule-how-often-does-it-update)
+- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
+- [Chrome Web Nfc How It Works](/chrome-web-nfc-how-it-works)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

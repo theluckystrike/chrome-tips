@@ -88,8 +88,7 @@ Take a moment to add those words that constantly get flagged. Your name, your wo
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Spell Check Wrong Language Fix](/chrome-spell-check-wrong-language-fix)
-- [Chrome Custom Search Engines Guide](/chrome-search-engines-custom)
+- [How to Check If Chrome Extension Is Spying on Me](/how-to-check-if-chrome-extension-is-spying-on-me)
+- [Chrome for Custom Cursor Extensions](/chrome-for-custom-cursor-extensions)
 - [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)

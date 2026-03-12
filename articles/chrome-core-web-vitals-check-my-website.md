@@ -80,11 +80,10 @@ For website owners who manage multiple tabs and browsers, consider using tools l
 
 Remember that Core Web Vitals are just one part of overall website performance. A site that loads quickly but has poor content will not retain visitors either. Focus on providing value, and make sure your site loads fast enough to deliver that value without delays.
 
-
-
 ## Related Articles
-- [Chrome Web Vitals What They Mean](/chrome-web-vitals-what-they-mean)
-- [How to Check Website Speed in Chrome](/how-to-check-website-speed-in-chrome)
 - [Chrome Web Vitals Extension How to Use](/chrome-web-vitals-extension-how-to-use)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [How to Check Website Speed in Chrome](/how-to-check-website-speed-in-chrome)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

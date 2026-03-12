@@ -90,8 +90,7 @@ Set a simple rule for yourself. Whenever you find something worth remembering, c
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
-- [chrome for onenote web clipper setup](/chrome-for-onenote-web-clipper-setup)
-- [chrome for odysee web player tips](/chrome-for-odysee-web-player-tips)
+- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)
+- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
+- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)

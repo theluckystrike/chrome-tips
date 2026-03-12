@@ -92,11 +92,9 @@ You do not need to be technically inclined to make these changes. Everything can
 
 ---
 
-*
+*Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*
 
 ## Related Articles
-- [Chrome Slows Down After Sleep Mode Fix](/chrome-slows-down-after-sleep-mode-fix)
-- [How to Make Chrome Remember Tabs After Closing](/how-to-make-chrome-remember-tabs-after-closing)
-- [Chrome Background Tabs Slowing Down Computer Fix](/chrome-background-tabs-slowing-down-computer-fix)
-
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [Why Does Opening Chrome Slow Down Everything](/why-does-opening-chrome-slow-down-everything)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)

@@ -58,8 +58,7 @@ For those who want additional features beyond what Chrome offers, Tab Suspender 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
 - [How to View Saved Passwords in Chrome 2026](/how-to-view-saved-passwords-in-chrome-2026)
-- [Chrome Saved Passwords How to See Them](/chrome-saved-passwords-how-to-see-them)
-- [Chrome Passwords on Phone How to View](/chrome-passwords-on-phone-how-to-view)
+- [Chrome Saved Payment Methods How to Edit](/chrome-saved-payment-methods-how-to-edit)

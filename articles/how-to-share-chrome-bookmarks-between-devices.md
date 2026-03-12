@@ -56,8 +56,7 @@ You can also use the bookmark bar, which appears below the address bar in Chrome
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Sync Between Devices Not Working Fix](/chrome-sync-between-devices-not-working-fix)
-- [Chrome Share Page Between Phone and Laptop: Complete Guide](/chrome-share-page-between-phone-and-laptop)
-- [Chrome WebUSB How to Connect Devices](/chrome-webusb-how-to-connect-devices)
+- [How to Recover Deleted Bookmarks Chrome](/how-to-recover-deleted-bookmarks-chrome)
+- [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
+- [How to Export Bookmarks from Chrome](/how-to-export-bookmarks-from-chrome)

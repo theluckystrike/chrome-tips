@@ -70,8 +70,7 @@ For persistent issues on a site you use frequently, consider reaching out to the
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
-- [Chrome Devtools Security Panel Explained](/chrome-devtools-security-panel-explained)
 - [Chrome DevTools Performance Panel Explained](/chrome-devtools-performance-panel-explained)
+- [Chrome DevTools Memory Panel Explained](/chrome-devtools-memory-panel-explained)
+- [Chrome DevTools Changes Panel to Track Edits](/chrome-devtools-changes-panel-track-edits)

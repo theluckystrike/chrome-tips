@@ -73,8 +73,7 @@ Remember that extensions are helpers, not replacements for good study habits. St
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome for Google Classroom Tips](/chrome-for-google-classroom-tips)
+- [Chrome Extensions for Google Sheets](/chrome-extensions-for-google-sheets)
 - [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
-- [Chrome Extensions for Google Drive](/chrome-extensions-for-google-drive)
-- [Chrome Extensions for Google Forms](/chrome-extensions-for-google-forms)

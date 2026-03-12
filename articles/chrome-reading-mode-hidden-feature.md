@@ -80,11 +80,10 @@ Whether you are a student researching for a project, a professional reading indu
 
 Take a moment to enable it and try it out on your favorite articles. You might find that it becomes one of those features you wonder how you ever lived without.
 
-
-
 ## Related Articles
-- [Chrome Reading Mode AI Summary Feature](/chrome-reading-mode-ai-summary-feature)
-- [chrome for distraction free reading mode](/chrome-for-distraction-free-reading-mode)
-- [Chrome Extension for Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
+- [Chrome Reading Mode — How to Enable and Use It](/chrome-reading-mode-how-to-enable)
+- [Chrome Reading Mode How to Activate](/chrome-reading-mode-how-to-activate)
+- [Chrome Hidden Games Easter Eggs List](/chrome-hidden-games-easter-eggs-list)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

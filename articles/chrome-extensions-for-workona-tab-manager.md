@@ -48,8 +48,7 @@ The combination of Workona for organization and a tab suspension extension for p
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
-- [Chrome Extensions for Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
-- [Chrome Extensions for Code Snippet Manager](/chrome-extensions-for-code-snippet-manager)
+- [Chrome Extensions for Tab Notes](/chrome-extensions-for-tab-notes)
+- [Chrome for Citation Manager Extensions](/chrome-for-citation-manager-extensions)
+- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)

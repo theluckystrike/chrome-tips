@@ -81,8 +81,7 @@ Remember to start slow, test thoroughly, and always respect your users' preferen
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Push Notifications Web Apps: Complete Guide](/chrome-push-notifications-web-apps)
-- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)
-- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
+- [Chrome for Skillshare Web App Setup](/chrome-for-skillshare-web-app-setup)
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)

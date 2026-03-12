@@ -96,8 +96,7 @@ Remember that you can always adjust your theme settings based on your preference
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
-- [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)
-- [Chrome Android Dark Mode How to Enable](/chrome-android-dark-mode-how-to-enable)
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
+- [Chrome Desktop Mode on Phone How to Use](/chrome-desktop-mode-on-phone-how-to-use)

@@ -88,8 +88,7 @@ If you notice anything suspicious, contact your bank immediately. The sooner you
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Is Chrome Safe for Online Banking](/is-chrome-safe-for-online-banking)
-- [Chrome for Microsoft Office Online Tips](/chrome-for-microsoft-office-online-tips)
+- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
 - [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [Chrome for Microsoft Office Online Tips](/chrome-for-microsoft-office-online-tips)

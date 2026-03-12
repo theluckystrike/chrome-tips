@@ -81,8 +81,7 @@ Remember that no filter is perfect. Even the best content filtering tools can oc
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Fix Chrome Mixed Content Warning](/chrome-mixed-content-warning-fix)
-- [Best Chrome Extensions for Content Creators](/best-chrome-extensions-for-content-creators)
-- [Chrome Content Security Policy Explained: A Complete Guide](/chrome-content-security-policy-explained)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)

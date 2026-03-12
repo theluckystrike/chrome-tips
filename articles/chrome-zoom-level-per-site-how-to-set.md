@@ -60,8 +60,7 @@ The default zoom is useful if you generally prefer browsing at a higher or lower
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Zoom Level How to Set Default](/chrome-zoom-level-how-to-set-default)
-- [Chrome Camera Permission for One Site How to Set](/chrome-camera-permission-for-one-site-how-to-set)
+- [Chrome Microphone Permission for One Site How to Set](/chrome-microphone-permission-for-one-site-how-to-set)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)

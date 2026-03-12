@@ -94,8 +94,7 @@ Getting the dns probe finished nxdomain error does not mean your browsing experi
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
 - [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome This Site Cant Be Reached Fix](/chrome-this-site-cant-be-reached-fix)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)

@@ -65,8 +65,7 @@ With the right extensions handling the technical details, you can devote more me
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Extensions for Keyword Research Free](/chrome-extensions-for-keyword-research-free)
 - [Chrome for SEO Keyword Research Extensions](/chrome-for-seo-keyword-research-extensions)
-- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
-- [Chrome Extensions for Organizing Research](/chrome-extensions-for-organizing-research)

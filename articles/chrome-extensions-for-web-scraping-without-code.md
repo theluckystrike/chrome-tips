@@ -78,8 +78,7 @@ Finally, remember that these tools are meant to help with reasonable data collec
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extensions for Code Snippet Manager](/chrome-extensions-for-code-snippet-manager)
-- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
+- [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)
+- [Chrome for ChatGPT Web App Best Extensions](/chrome-for-chatgpt-web-app-best-extensions)
+- [Chrome Extensions For Web Clipping](/chrome-extensions-for-web-clipping)

@@ -63,8 +63,7 @@ The key is to start simple and add complexity only as you need it. Most people f
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for onenote web clipper setup](/chrome-for-onenote-web-clipper-setup)
-- [Chrome for Instapaper Web Clipper](/chrome-for-instapaper-web-clipper)
 - [Chrome for Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
+- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome for Instapaper Web Clipper](/chrome-for-instapaper-web-clipper)

@@ -74,8 +74,7 @@ Having a dedicated profile means you can keep your work-related tabs and extensi
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
-- [chrome for odysee web player tips](/chrome-for-odysee-web-player-tips)
-- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
+- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
+- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)
+- [Chrome for Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)

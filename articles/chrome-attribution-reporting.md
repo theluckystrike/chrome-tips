@@ -212,9 +212,7 @@ Advertisers and publishers who adopt attribution reporting early will be better 
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
-
 ## Related Articles
-
-- [Chrome Cycle Through Tabs Shortcut](/articles//chrome-cycle-through-tabs-shortcut//)
-- ['How to Use Chrome Read Later: Save Articles for Offline Reading'](/articles/chrome-read-later-save-articles-offline/)
-- [Chrome YouTube Slow But Other Sites Fine Fix](/articles/chrome-youtube-slow-but-other-sites-fine-fix/)
+- [Chrome Attribution Reporting What It Means for Users](/chrome-attribution-reporting-what-it-means-for-users)
+- [Chrome Attribution Reporting API Explained](/chrome-attribution-reporting-api-explained)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)

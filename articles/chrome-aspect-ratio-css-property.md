@@ -71,9 +71,7 @@ Whether you are building a website or simply browsing the internet, understandin
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-
-- [Chrome Notification Sound How to Change](/articles/chrome-notification-sound-how-to-change/)
-- [How to Fix Chrome ERR_NAME_NOT_RESOLVED Error](/articles/chrome-err-name-not-resolved-fix/)
-- [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method/)
+- [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)
+- [Chrome Nesting CSS Explained](/chrome-nesting-css-explained)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)

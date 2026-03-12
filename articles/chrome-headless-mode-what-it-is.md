@@ -56,8 +56,7 @@ The next time your browser feels sluggish, remember that there are powerful tech
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
-- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
-- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
+- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
+- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is)
+- [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)

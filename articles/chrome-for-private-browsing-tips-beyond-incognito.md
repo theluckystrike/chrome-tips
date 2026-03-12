@@ -75,8 +75,7 @@ Give these tips a try and see which ones work best for your browsing habits.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/chrome-incognito-mode-actually-private-or-not)
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
+- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
+- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
+- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)

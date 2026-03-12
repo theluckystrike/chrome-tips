@@ -69,8 +69,7 @@ For people with reading difficulties or visual impairments, chrome text to speec
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [How to Use Chrome Built In Screenshot Tool](/how-to-use-chrome-built-in-screenshot-tool)
 - [Chrome Text to Speech Built In Features](/chrome-text-to-speech-built-in-features)
-- [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
-- [Chrome Text to Speech: Complete Guide for 2026](/chrome-text-to-speech)
+- [Chrome Google Translate Built in Feature Tips](/chrome-google-translate-built-in-feature-tips)

@@ -96,8 +96,7 @@ By following these tips and maintaining good browser hygiene, you can enjoy your
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Spotify Web Player Not Working Fix](/chrome-spotify-web-player-not-working-fix)
-- [Chrome for Spotify Web Player Shortcuts](/chrome-for-spotify-web-player-shortcuts)
-- [Chrome Extensions for Spotify Web Player Enhancement](/chrome-extensions-for-spotify-web-player-enhancement)
+- [Chrome for Salesforce Web App Optimization](/chrome-for-salesforce-web-app-optimization)
+- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
+- [Chrome For Rumble Web Player Settings](/chrome-for-rumble-web-player-settings)

@@ -67,9 +67,7 @@ Give it a try. Install an extension, play your favorite content, and start adjus
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-
-- [Chrome Layer Cascade CSS: A Complete Guide to Modern Style Management](/articles/chrome-layer-cascade-css/)
-- [chrome tab groups auto create how to set up](/articles/chrome-tab-groups-auto-create-how-to-set-up/)
-- [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals/)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)

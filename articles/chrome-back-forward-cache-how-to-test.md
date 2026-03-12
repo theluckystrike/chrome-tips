@@ -71,8 +71,7 @@ Remember to test not just on Chrome but also on other browsers that support the 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Back Forward Cache Explained](/chrome-back-forward-cache-explained)
-- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
-- [Chrome Forward Button Greyed Out Fix](/chrome-forward-button-greyed-out-fix)
+- [How to Clear Chrome Cache Fast](/how-to-clear-chrome-cache-fast)
+- [Chrome How to Clear DNS Cache](/chrome-how-to-clear-dns-cache)
+- [How to Increase Chrome Cache Size](/chrome-cache-size-how-to-increase)

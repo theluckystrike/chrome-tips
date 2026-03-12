@@ -83,8 +83,7 @@ If you find yourself constantly running into memory limits, consider adding Tab 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Privacy Error Your Connection Is Not Private Fix](/chrome-privacy-error-your-connection-is-not-private-fix)
-- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)

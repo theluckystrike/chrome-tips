@@ -66,8 +66,7 @@ Regularly restarting your computer can also help clear memory and refresh system
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
-- [chrome for odysee web player tips](/chrome-for-odysee-web-player-tips)
+- [Chrome For Walmart Grocery Web Tips](/chrome-for-walmart-grocery-web-tips)
+- [Chrome For Youtube Music Web Tips](/chrome-for-youtube-music-web-tips)
 - [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)

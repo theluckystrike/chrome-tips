@@ -64,8 +64,7 @@ Understanding features like the has selector helps you appreciate the complexity
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
-- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
+- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)

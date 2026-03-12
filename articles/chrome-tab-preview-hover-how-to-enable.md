@@ -75,11 +75,10 @@ Getting tab previews enabled in Chrome is a straightforward process thanks to ex
 
 Take a moment to try a few different extensions to see which interface feels most natural. The right extension, combined with good tab management habits, transforms Chrome from a tab-heavy struggle into a productive workspace where you can find anything in seconds.
 
-
-
 ## Related Articles
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [How To Enable Chrome Experimental Features](/how-to-enable-chrome-experimental-features)
 - [How to Enable Chrome Tab Hover Previews](/how-to-enable-chrome-tab-hover-previews)
-- [Chrome Extensions for Tab Previewer Hover](/chrome-extensions-for-tab-previewer-hover)
-- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

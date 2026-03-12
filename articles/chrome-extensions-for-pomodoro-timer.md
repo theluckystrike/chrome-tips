@@ -77,8 +77,7 @@ With the right chrome extensions for pomodoro timer, you have a powerful toolkit
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Pomodoro Timer Extensions](/chrome-for-pomodoro-timer-extensions)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
 - [Chrome Extensions for Study Timer](/chrome-extensions-for-study-timer)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

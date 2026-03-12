@@ -60,11 +60,10 @@ If the issue persists across multiple websites and you have tried everything els
 
 Most of the time, the ERR_NAME_NOT_RESOLVED error is nothing serious. It is usually just a simple typo, a temporary DNS issue, or a minor configuration problem that you can resolve in a few minutes. Now that you know what causes it and how to fix it, you can get back to browsing the web without frustration.
 
-
-
 ## Related Articles
-- [chrome net err cert common name invalid fix](/chrome-net-err-cert-common-name-invalid-fix)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Net Err Cert Common Name Invalid Fix](/chrome-net-err-cert-common-name-invalid-fix)
+- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

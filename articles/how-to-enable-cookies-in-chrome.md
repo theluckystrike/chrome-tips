@@ -67,8 +67,7 @@ For those who want a smoother browsing experience with less manual management, b
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
-- [chrome how to enable cookies](/chrome-how-to-enable-cookies)
-- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)

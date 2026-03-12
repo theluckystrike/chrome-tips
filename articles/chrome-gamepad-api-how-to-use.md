@@ -69,8 +69,7 @@ Using the Gamepad API in Chrome is a great way to enjoy web games with a control
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [chrome voice search how to use](/chrome-voice-search-how-to-use)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Sensors Emulation How to Use](/chrome-sensors-emulation-how-to-use)
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)

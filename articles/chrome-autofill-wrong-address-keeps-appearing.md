@@ -111,11 +111,10 @@ While you're optimizing Chrome's settings, consider installing **Tab Suspender P
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Autofill Wrong Address How to Fix](/chrome-autofill-wrong-address-how-to-fix)
-- [Chrome Address Autofill How to Manage](/chrome-address-autofill-how-to-manage)
-- [chrome web otp autofill sms](/chrome-web-otp-autofill-sms)
+- [Chrome Coupons In Address Bar Feature](/chrome-coupons-in-address-bar-feature)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

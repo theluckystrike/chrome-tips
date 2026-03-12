@@ -84,12 +84,11 @@ Also remember to test both with and without scrollbars. Some responsive designs 
 
 ---
 
+## Related Articles
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
 
-
-### Related Articles
-- [Chrome Devtools Responsive Mode How To Use](/chrome-devtools-responsive-mode-how-to-use)
-- [Chrome Desktop Mode On Phone How To Use](/chrome-desktop-mode-on-phone-how-to-use)
-- [Chrome Memory Saver Mode How To Use](/chrome-memory-saver-mode-how-to-use)
 
 Built by theluckystrike — More tips at zovo.one
 

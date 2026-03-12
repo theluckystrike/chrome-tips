@@ -74,8 +74,7 @@ Whether you are troubleshooting a slow website or just curious about how browser
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome User Timing API Explained](/chrome-user-timing-api-explained)
-- [Chrome Event Timing API Explained](/chrome-event-timing-api-explained)
-- [Chrome Resource Timing API Explained](/chrome-resource-timing-api-explained)
+- [Chrome Long Tasks API Explained](/chrome-long-tasks-api-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)

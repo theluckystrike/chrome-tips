@@ -66,8 +66,7 @@ Understanding chrome service worker caching strategies gives you insight into ho
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)
-- [Chrome Service Worker What It Does Explained](/chrome-service-worker-what-it-does-explained)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
 - [Chrome Service Worker Debugging Guide](/chrome-service-worker-debugging)
+- [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)

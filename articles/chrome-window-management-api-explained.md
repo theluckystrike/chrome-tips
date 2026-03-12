@@ -61,8 +61,7 @@ Remember that your browser is a tool you likely use every day, and small improve
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
 - [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome Badging API Explained](/chrome-badging-api-explained)
+- [Chrome Long Tasks API Explained](/chrome-long-tasks-api-explained)
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)

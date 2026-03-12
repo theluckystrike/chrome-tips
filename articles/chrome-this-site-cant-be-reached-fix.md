@@ -85,9 +85,10 @@ If you have tried all these steps and still cannot reach certain websites, there
 
 <<<<<<< HEAD
 
-
+Built by theluckystroller — More tips at [zovo.one](https://zovo.one)
+>>>>>>> qa/loop-5
 
 ## Related Articles
-- [Chrome This Site Cant Provide a Secure Connection Fix](/chrome-this-site-cant-provide-a-secure-connection-fix)
-- [Chrome Window Too Small Cant Resize Fix](/chrome-window-too-small-cant-resize-fix)
-- [chrome deceptive site ahead warning fix](/chrome-deceptive-site-ahead-warning-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)

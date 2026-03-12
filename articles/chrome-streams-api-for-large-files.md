@@ -66,8 +66,7 @@ The next time you download a large file, upload a big folder to the cloud, or wa
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Beacon API for Analytics](/chrome-beacon-api-for-analytics)
+- [Chrome Web MIDI API for Musicians](/chrome-web-midi-api-for-musicians)
+- [Chrome Media Session API for Music Players](/chrome-media-session-api-for-music-players)

@@ -81,8 +81,7 @@ With your browser configured to support your focus, you will find it easier to a
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome for Screencastify Extension Guide](/chrome-for-screencastify-extension-guide)
-- [Chrome Extension GDPR Compliance Guide](/chrome-extension-gdpr-compliance-guide)
-- [Chrome Extension Publish to Web Store Guide](/chrome-extension-publish-to-web-store-guide)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
+- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)

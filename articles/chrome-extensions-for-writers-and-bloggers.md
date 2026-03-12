@@ -81,8 +81,7 @@ Once you find the right combination of extensions, you will notice a significant
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)
-- [Chrome Extensions For Writers](/chrome-extensions-for-writers)
-- [Best Chrome Extensions for Writers 2026](/chrome-extensions-for-writers-2026)
+- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome Extensions for Focus and Productivity](/chrome-extensions-for-focus-and-productivity)

@@ -89,11 +89,10 @@ You can also type **chrome://downloads** in the address bar or click the **Downl
 
 Once you start using the keyboard shortcut, you will wonder how you ever managed without it. It is one of those small time-savers that makes using Chrome much more convenient.
 
-
-
 ## Related Articles
-- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
-- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
-- [Chrome Scroll to Top of Page Shortcut](/chrome-scroll-to-top-of-page-shortcut)
+- [Chrome Save Page as Shortcut](/chrome-save-page-as-shortcut)
+- [Chrome Open Settings Shortcut](/chrome-open-settings-shortcut)
+- [Chrome Open Link in New Tab Shortcut](/chrome-open-link-in-new-tab-shortcut)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

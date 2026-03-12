@@ -141,8 +141,7 @@ But for most users, the solutions above will restore smooth cursor movement with
 
 **Built by theluckystrike** — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-- [Chrome Mouse Cursor Disappears Fix](/chrome-mouse-cursor-disappears-fix)
-- [Chrome Mouse Cursor Extension Customize](/chrome-mouse-cursor-extension-customize)
-- [Chrome for Custom Cursor Extensions](/chrome-for-custom-cursor-extensions)
+- [Chrome For Mouse Gestures Extensions](/chrome-for-mouse-gestures-extensions)
+- [Chrome Lagging on Android Phone Fix](/chrome-lagging-on-android-phone-fix)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

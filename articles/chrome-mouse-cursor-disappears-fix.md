@@ -90,8 +90,7 @@ If your browser feels sluggish or you often have many tabs open, consider using 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Mouse Cursor Lagging Fix](/chrome-mouse-cursor-lagging)
 - [Chrome Mouse Scroll Not Working Fix](/chrome-mouse-scroll-not-working-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
 - [Chrome Mouse Cursor Extension Customize](/chrome-mouse-cursor-extension-customize)

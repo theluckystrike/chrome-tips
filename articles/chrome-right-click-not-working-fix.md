@@ -89,8 +89,7 @@ Consider using a tab management tool to keep your browser running smoothly. One 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Camera Not Working Fix](/chrome-camera-not-working-fix)
+- [Chrome Zoom Meeting Not Working Fix](/chrome-zoom-meeting-not-working-fix)
 - [Chrome Right Click Not Working on Some Sites Fix](/chrome-right-click-not-working-on-some-sites-fix)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)

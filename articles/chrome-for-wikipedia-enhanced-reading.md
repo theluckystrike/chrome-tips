@@ -71,8 +71,7 @@ Give these tools a try and see which ones work best for your specific needs. Eve
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Enable Chrome Reading List](/how-to-enable-chrome-reading-list)
-- [Chrome Reading Mode AI Summary Feature](/chrome-reading-mode-ai-summary-feature)
-- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+- [Chrome Extensions for Reading List Manager](/chrome-extensions-for-reading-list-manager)
+- [Chrome for Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
+- [Chrome For Distraction Free Reading Mode](/chrome-for-distraction-free-reading-mode)

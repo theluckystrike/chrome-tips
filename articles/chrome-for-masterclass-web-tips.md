@@ -69,8 +69,7 @@ The Chrome task manager is a useful tool for identifying what might be distracti
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
-- [chrome for odysee web player tips](/chrome-for-odysee-web-player-tips)
-- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
+- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
+- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
+- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)

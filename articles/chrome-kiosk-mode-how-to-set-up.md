@@ -73,8 +73,7 @@ Finally, consider implementing network-level protections such as content filteri
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
-- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
-- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [How to Set Up Chrome Profiles for Work and Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)
+- [Chrome Sync Phone and Computer How to Set Up](/chrome-sync-phone-and-computer-how-to-set-up)
+- [Chrome iPhone Widgets How to Set Up](/chrome-iphone-widgets-how-to-set-up)

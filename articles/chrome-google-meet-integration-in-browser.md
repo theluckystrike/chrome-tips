@@ -69,8 +69,7 @@ Remember that extensions are helpers, not replacements for good meeting habits. 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Google Chat Integration in Browser](/chrome-google-chat-integration-in-browser)
+- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
 - [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
-- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)

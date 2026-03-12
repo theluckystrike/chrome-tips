@@ -54,8 +54,7 @@ To create a new profile, click the profile icon in the top right of Chrome and s
 
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
-- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
-- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
+- [Chrome for Netflix Best Quality Settings](/chrome-for-netflix-best-quality-settings)
+- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
+- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet)

@@ -91,8 +91,7 @@ Most importantly, use tools like Tab Suspender Pro to manage your tab memory int
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
 - [Chrome WebGL Crashing Fix](/chrome-webgl-crashing-fix)
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)

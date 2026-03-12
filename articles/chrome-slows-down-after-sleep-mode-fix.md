@@ -72,8 +72,7 @@ As a last resort, you might want to check if there are any background processes 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/chrome-slows-down-after-opening-20-tabs)
+- [Chrome Slow After Hibernation Fix](/chrome-slow-after-hibernation-fix)
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
 - [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)

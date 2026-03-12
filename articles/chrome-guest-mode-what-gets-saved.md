@@ -79,8 +79,7 @@ For casual sharing of your computer with family members or guests, Guest mode wo
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Guest Mode vs Incognito Mode: What''s the Difference?](/chrome-guest-mode-vs-incognito-difference)
-- [Chrome Guest Browsing: What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)
-- [Chrome Guest Mode Explained](/chrome-guest-mode-explained)
+- [Chrome Sync What Data Gets Synced](/chrome-sync-what-data-gets-synced)
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome Reset All Settings: What Gets Deleted](/chrome-reset-all-settings-what-gets-deleted)

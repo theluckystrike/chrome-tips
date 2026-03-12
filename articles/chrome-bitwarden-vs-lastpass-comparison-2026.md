@@ -72,8 +72,7 @@ One more tip that helps with browser extensions overall: keeping too many tabs o
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome vs firefox privacy comparison 2026](/chrome-vs-firefox-privacy-comparison-2026)
-- [Chrome vs Edge RAM Usage Comparison 2026](/chrome-vs-edge-ram-usage-comparison-2026)
-- [Chrome vs Brave Browser Comparison 2026](/chrome-vs-brave-browser-comparison-2026)
+- [Chrome vs Arc Browser 2026](/chrome-vs-arc-browser-2026)
+- [Chrome vs Edge Speed Test 2026](/chrome-vs-edge-speed-test-2026)
+- [Chrome Pi Hole Vs Browser Ad Blocker Comparison](/chrome-pi-hole-vs-browser-ad-blocker-comparison)

@@ -72,8 +72,7 @@ A clean install gives you a fresh, fast browser. And with proper backup, you get
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome install as app pwa how to](/chrome-install-as-app-pwa-how-to)
-- [Chrome Profile Backup How to Save](/chrome-profile-backup-how-to-save)
-- [Chrome HTTPS First Mode Guide](/chrome-https-first-mode)
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+- [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
+- [Chrome Install As App Pwa How To](/chrome-install-as-app-pwa-how-to)

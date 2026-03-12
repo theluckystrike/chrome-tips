@@ -56,11 +56,10 @@ Whether you are building a simple blog or a complex enterprise application, taki
 
 ---
 
-
-
 ## Related Articles
+- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
 - [Chrome Content Security Policy Explained: A Complete Guide](/chrome-content-security-policy-explained)
-- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/chrome-site-isolation-security-feature)
-- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

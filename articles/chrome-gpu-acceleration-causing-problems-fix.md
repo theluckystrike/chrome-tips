@@ -61,8 +61,7 @@ When you find chrome gpu acceleration causing problems, start by disabling hardw
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Hardware Acceleration Causes Problems](/chrome-hardware-acceleration-causes-problems)
-- [Chrome How to Disable GPU Acceleration](/chrome-how-to-disable-gpu-acceleration)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
 - [Chrome GPU Process High CPU Fix](/chrome-gpu-process-high-cpu-fix)
+- [Chrome This Site Cant Be Reached Fix](/chrome-this-site-cant-be-reached-fix)

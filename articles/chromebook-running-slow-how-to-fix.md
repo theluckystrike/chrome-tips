@@ -95,8 +95,7 @@ With these simple habits, you can keep your Chromebook running smoothly for year
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chromebook Linux Apps How To Install](/chromebook-linux-apps-how-to-install)
 - [Chrome Android App Running Slow Fix: Practical Solutions That Actually Work](/chrome-android-app-running-slow-fix)
-- [Chrome Slow on Chromebook? Here's How to Fix It](/chrome-slow-on-chromebook-fix)
-- [Chrome Figma Running Slow Fix: A Practical Guide](/chrome-figma-running-slow-fix)
+- [Chrome Zoom Too Big How to Fix](/chrome-zoom-too-big-how-to-fix)

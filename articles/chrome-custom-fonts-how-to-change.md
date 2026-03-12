@@ -51,8 +51,7 @@ Remember that extensions that change website fonts may not work perfectly on eve
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Change Your Chrome New Tab Background to a Custom Image](/chrome-new-tab-background-change-custom-image)
-- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome Custom Theme How To Make Your Own](/chrome-custom-theme-how-to-make-your-own)
+- [Chrome Text Size on Phone How to Change](/chrome-text-size-on-phone-how-to-change)
 - [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)

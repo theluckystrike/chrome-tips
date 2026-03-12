@@ -89,8 +89,7 @@ Finally, check how much storage space you have available on your phone before sa
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome mobile save page offline how to](/chrome-mobile-save-page-offline-how-to)
-- [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/chrome-save-webpage-as-mhtml-offline)
-- [How to Save Webpage Offline Chrome Android](/how-to-save-webpage-offline-chrome-android)
+- [Chrome Microphone Access on Phone How to Control](/chrome-microphone-access-on-phone-how-to-control)
+- [Chrome Translate On Phone How To Use](/chrome-translate-on-phone-how-to-use)
+- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)

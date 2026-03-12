@@ -63,8 +63,7 @@ Remember that extensions are helpers, not magic solutions. They can provide stru
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome for Email Productivity Extensions](/chrome-for-email-productivity-extensions)
-- [Chrome Extensions for Productivity Students](/chrome-extensions-for-productivity-students)
+- [Chrome for Meditation and Focus Extensions](/chrome-for-meditation-and-focus-extensions)
+- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
+- [Chrome for Focus Music Playlists Extensions](/chrome-for-focus-music-playlists-extensions)

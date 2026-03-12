@@ -68,8 +68,7 @@ Protecting your eyes from blue light does not mean you have to stop using your c
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome Extensions for Blue Light Filter](/chrome-extensions-for-blue-light-filter)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
 - [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

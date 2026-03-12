@@ -98,8 +98,7 @@ If your browser feels sluggish overall, consider using a tab management tool lik
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Zoom Meeting Not Working Fix](/chrome-zoom-meeting-not-working-fix)
 - [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)

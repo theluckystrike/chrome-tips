@@ -74,8 +74,7 @@ Remember that Fire tablets have different hardware limitations compared to smart
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Translate Not Working? Here's How to Fix It](/chrome-translate-not-working-fix)
 - [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
-- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
+- [Chrome Not Working on Android Fix](/chrome-not-working-on-android-fix)

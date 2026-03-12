@@ -61,11 +61,10 @@ Finally, share what you learn with others if it helps. Discussing your findings 
 
 ---
 
-
-
 ## Related Articles
+- [Chrome Extension for Highlighting Text on Websites](/chrome-extension-for-highlighting-text-on-websites)
+- [Chrome Extension for Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time)
 - [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
-- [Chrome Extensions for Time Tracking Freelancers](/chrome-extensions-for-time-tracking-freelancers)
-- [Chrome Extension for Email Tracking Notification](/chrome-extension-for-email-tracking-notification)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

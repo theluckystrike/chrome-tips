@@ -95,8 +95,7 @@ Sometimes browser problems can be related to malware or unwanted programs on you
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Keeps Logging Me Out of Websites Fix](/chrome-keeps-logging-me-out-of-websites-fix)
-- [Chrome Keeps Logging Me Out of Sites Fix](/chrome-keeps-logging-me-out-of-sites-fix)
-- [Chrome Err Connection Timed Out Fix](/chrome-err-connection-timed-out-fix)
+- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome This Site Cant Be Reached Fix](/chrome-this-site-cant-be-reached-fix)

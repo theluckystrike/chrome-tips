@@ -56,11 +56,10 @@ You can also inspect element styles directly in Chrome to see which styles are b
 
 If you find that Chrome is running slowly or using too much memory due to many open tabs, consider using an extension designed to manage tabs more efficiently. Tab Suspender Pro, for example, can automatically suspend tabs you are not actively using, which can speed up your browser and reduce memory usage. By keeping only the tabs you need at any given moment active, you can maintain a faster browsing experience and avoid performance issues related to having too many tabs open at once.
 
-
-
 ## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
 - [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
-- [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)
+- [Chrome Sandbox Mode Explained](/chrome-sandbox-mode-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -67,8 +67,7 @@ The key is to start using it regularly so it becomes a natural part of your brow
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
-- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
-- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
+- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)

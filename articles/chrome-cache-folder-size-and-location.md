@@ -129,11 +129,10 @@ For users with limited disk space, consider limiting Chrome's cache size using s
 
 The Chrome cache folder is an essential part of how Chrome works, storing temporary files that speed up your web browsing. Whether you are on Windows, Mac, or Linux, the cache is stored in predictable locations that you can access and manage. By understanding what is in the cache, checking its size regularly, and clearing it when necessary, you can keep Chrome running smoothly and free up valuable disk space.
 
-
-
 ## Related Articles
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
-- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
 - [How to Increase Chrome Cache Size](/chrome-cache-size-how-to-increase)
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

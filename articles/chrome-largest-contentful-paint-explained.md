@@ -54,8 +54,7 @@ Chrome largest contentful paint explained is really about helping you understand
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Largest Contentful Paint Optimize: A Complete Guide](/chrome-largest-contentful-paint-optimize)
-- [Chrome Largest Contentful Paint Improve Tips](/chrome-largest-contentful-paint-improve-tips)
 - [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/chrome-paint-holding-feature-explained)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)

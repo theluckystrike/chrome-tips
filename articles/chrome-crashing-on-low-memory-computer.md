@@ -97,11 +97,10 @@ Chrome crashing on low memory computer is a frustrating problem, but it is one y
 
 Remember that your computer's limited RAM does not mean you cannot have a good browsing experience. With the right settings and a few adjustments, Chrome can run reliably even on older hardware. Try these solutions one at a time to see which ones make the biggest difference for you.
 
-
-
 ## Related Articles
 - [Chrome Command Line Flags for Low Memory: A Practical Guide](/chrome-command-line-flags-for-low-memory)
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Crashing on Samsung Galaxy Phone](/chrome-crashing-on-samsung-galaxy-phone)
+- [Chrome Crashing on iPhone Fix](/chrome-crashing-on-iphone-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -55,8 +55,7 @@ For those who want even more control over their browser experience, there are ex
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome PWA Install Prompt Not Showing Fix](/chrome-pwa-install-prompt-not-showing-fix)
-- [chrome pwa vs electron app comparison](/chrome-pwa-vs-electron-app-comparison)
-- [Chrome Add to Home Screen vs Install App](/chrome-add-to-home-screen-vs-install-app)
+- [Chrome Web Apps How To Install](/chrome-web-apps-how-to-install)
+- [Chrome File Handling How to Change Default App](/chrome-file-handling-how-to-change-default-app)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)

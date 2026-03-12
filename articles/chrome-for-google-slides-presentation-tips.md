@@ -66,8 +66,7 @@ Whether you are putting together a quick update for your team or preparing a maj
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
-- [chrome for google translate extension tips](/chrome-for-google-translate-extension-tips)
-- [chrome for google ads management tips](/chrome-for-google-ads-management-tips)
+- [Chrome for Google Sheets Tips and Tricks](/chrome-for-google-sheets-tips-and-tricks)
+- [Chrome For Google Flights Tips And Tricks](/chrome-for-google-flights-tips-and-tricks)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)

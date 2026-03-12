@@ -51,8 +51,7 @@ The next time you encounter a dead end while browsing, remember that help is jus
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Robots Txt Checker](/chrome-extensions-for-robots-txt-checker)
-- [Chrome Extensions for Color Accessibility Checker](/chrome-extensions-for-color-accessibility-checker)
-- [Chrome Extensions for SSL Certificate Checker](/chrome-extensions-for-ssl-certificate-checker)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

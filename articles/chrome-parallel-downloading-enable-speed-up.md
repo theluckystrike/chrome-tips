@@ -127,11 +127,10 @@ Remember that the actual speed improvement depends on various factors, including
 
 Give it a try on your next large download and see the difference for yourself!
 
-
-
 ## Related Articles
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [Chrome Enable Parallel Downloading](/chrome-enable-parallel-downloading)
 - [How to Enable Chrome Parallel Downloading](/how-to-enable-chrome-parallel-downloading)
-- [chrome enable parallel downloading](/chrome-enable-parallel-downloading)
-- [Chrome Flags to Enable for Speed](/chrome-flags-to-enable-for-speed)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

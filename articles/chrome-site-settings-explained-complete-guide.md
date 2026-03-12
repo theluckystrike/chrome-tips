@@ -76,12 +76,11 @@ If you find that your browser is still sluggish after auditing your **permission
 
 Using **Tab Suspender Pro** is an excellent way to handle this. It automatically "hibernates" background tabs, freeing up **memory** so that Chrome remains fast and responsive. This ensures that when you need to navigate the **Privacy and security** menu to manage your **site settings**, the browser is snappy and doesn't lag. By keeping your browser lean, you can perform your monthly **security audits** without the frustration of a slow computer.
 
-
-
 ## Related Articles
-- [chrome privacy settings complete guide 2026](/chrome-privacy-settings-complete-guide-2026)
-- [Chrome Site Settings Permissions Explained](/chrome-site-settings-permissions-explained)
+- [Chrome Flexbox Layout Complete Guide](/chrome-flexbox-layout-complete-guide)
+- [Chrome Site Isolation Explained Simply](/chrome-site-isolation-explained-simply)
 - [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

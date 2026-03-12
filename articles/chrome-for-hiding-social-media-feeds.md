@@ -61,8 +61,7 @@ With the right tools and strategies, you can enjoy social media on your own term
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Social Media Managers](/chrome-extensions-for-social-media-managers)
-- [Chrome Extension for Blocking Social Media During Work](/chrome-extension-for-blocking-social-media-during-work)
+- [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)
 - [Chrome Extensions for Social Media Scheduling](/chrome-extensions-for-social-media-scheduling)
+- [Chrome Extension for Blocking Social Media During Work](/chrome-extension-for-blocking-social-media-during-work)

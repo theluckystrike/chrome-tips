@@ -61,8 +61,7 @@ If you continue to experience issues with fullscreen or other browser behavior, 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome Desktop Mode on Phone How to Use](/chrome-desktop-mode-on-phone-how-to-use)
+- [Chrome Android Dark Mode How to Enable](/chrome-android-dark-mode-how-to-enable)
+- [Chrome Screen Recording in Browser How To](/chrome-screen-recording-in-browser-how-to)

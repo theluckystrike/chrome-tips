@@ -67,8 +67,7 @@ Remember that user agent switching is not a complete privacy solution. Websites 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Client Hints Instead of User Agent: What Changed](/chrome-client-hints-instead-of-user-agent)
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
 - [Chrome Extension for Changing User Agent](/chrome-extension-for-changing-user-agent)
-- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)

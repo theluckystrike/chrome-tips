@@ -137,11 +137,10 @@ The key is knowing which method to use for each situation. For entire webpages, 
 
 Next time you need to capture something from a webpage, try Chrome's built-in tools first—you might find they handle everything you need without ever needing to install another extension.
 
-
-
 ## Related Articles
-- [How to Use Chrome Built In Screenshot Tool](/how-to-use-chrome-built-in-screenshot-tool)
-- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
-- [Chrome Built-In PDF Editor Guide](/chrome-pdf-editor-built-in)
+- [Chrome Text to Speech Built In Features](/chrome-text-to-speech-built-in-features)
+- [Chrome Google Translate Built in Feature Tips](/chrome-google-translate-built-in-feature-tips)
+- [Chrome Ai Features Built In 2026](/chrome-ai-features-built-in-2026)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

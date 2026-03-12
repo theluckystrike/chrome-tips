@@ -63,8 +63,7 @@ The next time you wonder what technology powers a website, try opening Developer
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Built-In Screenshot Tool](/chrome-built-in-screenshot-tool)
-- [Chrome Built-In PDF Editor Guide](/chrome-pdf-editor-built-in)
-- [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
+- [Chrome Coupon Finder Built In Feature](/chrome-coupon-finder-built-in-feature)
+- [Chrome Text to Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
+- [Chrome Virus Scan Built in How to Use](/chrome-virus-scan-built-in-how-to-use)

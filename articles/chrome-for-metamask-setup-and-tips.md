@@ -71,8 +71,7 @@ Remember that taking time to learn about your tools pays off in the long run. Un
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for LeechBlock Setup and Tips](/chrome-for-leechblock-setup-and-tips)
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
+- [Chrome for Google Sheets Tips and Tricks](/chrome-for-google-sheets-tips-and-tricks)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)

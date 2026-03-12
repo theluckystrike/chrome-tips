@@ -51,11 +51,10 @@ Browser settings themselves may offer limited refresh capabilities in certain co
 
 ---
 
-
-
 ## Related Articles
-- [chrome extensions for auto page refresh](/chrome-extensions-for-auto-page-refresh)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Extensions for Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
+- [Chrome Extensions For Tab Suspender Auto](/chrome-extensions-for-tab-suspender-auto)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

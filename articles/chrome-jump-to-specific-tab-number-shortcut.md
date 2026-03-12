@@ -55,8 +55,7 @@ Chrome is designed to handle many tabs, and these shortcuts are built right in t
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
-- [chrome reopen closed tab shortcut](/chrome-reopen-closed-tab-shortcut)
-- [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/chrome-tab-search-shortcut)
+- [Chrome Profile Specific Extensions How to Set](/chrome-profile-specific-extensions-how-to-set)
+- [Chrome Reopen Closed Tab Shortcut](/chrome-reopen-closed-tab-shortcut)
+- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)

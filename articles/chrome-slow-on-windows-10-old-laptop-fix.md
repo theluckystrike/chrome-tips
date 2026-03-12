@@ -74,8 +74,7 @@ Remember that keeping fewer tabs open makes the biggest difference for most peop
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome Slow on Your Old MacBook? Here's How to Fix It](/chrome-slow-on-old-macbook-fix)
-- [Chrome Slow on School Laptop? Here's How to Fix It](/chrome-slow-on-school-laptop-how-to-fix)
-- [Chrome Slow After Windows Update Fix](/chrome-slow-after-windows-update-fix)
+- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
+- [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/chrome-slow-on-4gb-ram-laptop)

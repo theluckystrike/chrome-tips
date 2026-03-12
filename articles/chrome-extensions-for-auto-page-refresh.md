@@ -83,11 +83,10 @@ Finally, remember to stop the auto refresh when you no longer need it. Leaving e
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Extensions for Auto Refresh Page](/chrome-extensions-for-auto-refresh-page)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
 - [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
+- [Chrome Extensions for Cookie Auto Delete](/chrome-extensions-for-cookie-auto-delete)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

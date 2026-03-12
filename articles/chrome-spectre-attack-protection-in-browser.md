@@ -71,8 +71,7 @@ Your browser is your gateway to the internet, and taking a few simple steps to p
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/chrome-wasm-run-desktop-apps-in-browser)
 - [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [chrome fingerprinting protection explained](/chrome-fingerprinting-protection-explained)
-- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)

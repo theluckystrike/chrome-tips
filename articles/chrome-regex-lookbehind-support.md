@@ -111,11 +111,10 @@ Whether you are extracting data from text, validating input, or transforming str
 
 Start experimenting with lookbehind assertions in Chrome today, and you will likely find many opportunities to simplify your text processing code.
 
-
-
 ## Related Articles
-- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)
-- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
-- [chrome right to left language support](/chrome-right-to-left-language-support)
+- [Chrome Tech Support Scam Popup Fix](/chrome-tech-support-scam-popup-fix)
+- [Chrome Extensions for Regex Tester](/chrome-extensions-for-regex-tester)
+- [Chrome Right To Left Language Support](/chrome-right-to-left-language-support)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

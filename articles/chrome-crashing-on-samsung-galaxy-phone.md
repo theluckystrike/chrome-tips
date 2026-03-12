@@ -71,8 +71,7 @@ Keeping your apps updated, managing your open tabs, and maintaining free storage
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Translate On Phone How To Use](/chrome-translate-on-phone-how-to-use)
 - [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
-- [chrome data usage on phone how to reduce](/chrome-data-usage-on-phone-how-to-reduce)
-- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
+- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)

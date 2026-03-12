@@ -69,8 +69,7 @@ Give it a try and see how much easier your browsing becomes when everything has 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Work vs Personal — How to Use Separate Profiles](/chrome-for-work-vs-personal-separate-profiles)
-- [chrome work profile vs personal profile tips](/chrome-work-profile-vs-personal-profile-tips)
-- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [Chrome Tab Groups Auto Create How To Set Up](/chrome-tab-groups-auto-create-how-to-set-up)
+- [Chrome iPhone Widgets How to Set Up](/chrome-iphone-widgets-how-to-set-up)
+- [Chrome Cast to TV How to Set Up](/chrome-cast-to-tv-how-to-set-up)

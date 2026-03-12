@@ -58,8 +58,7 @@ If you have been struggling with a slow Chrome browser, try these suggestions an
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Enable Parallel Downloading in Chrome for Faster Downloads](/chrome-parallel-downloading-enable-speed-up)
-- [Chrome Flags for Speed Optimization](/chrome-flags-for-speed-optimization)
-- [Chrome Flags for Speed Optimization](/chrome-flags-for-speed)
+- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
+- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)

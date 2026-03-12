@@ -59,8 +59,7 @@ Give tab groups a try if you have not already. Start small, perhaps with just tw
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Tab Groups on Phone How to Use](/chrome-tab-groups-on-phone-how-to-use)
-- [chrome tab groups advanced tips](/chrome-tab-groups-advanced-tips)
-- [Chrome Tab Groups vs Multiple Windows](/chrome-tab-groups-vs-windows)
+- [Chrome Network Tab: How to Use and Debug Network Requests](/chrome-network-tab-how-to-use-debug)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)

@@ -90,8 +90,7 @@ Remember to set up regular backups and keep sync enabled to protect yourself fro
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Bookmarks Disappeared: How to Recover Them](/chrome-bookmarks-disappeared-how-to-recover)
-- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
-- [Chrome Bookmarks Bar Disappeared Fix](/chrome-bookmarks-bar-disappeared-fix)
+- [How to Import Bookmarks to Chrome](/how-to-import-bookmarks-to-chrome)
+- [How to Export Bookmarks from Chrome](/how-to-export-bookmarks-from-chrome)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)

@@ -73,11 +73,10 @@ These small changes can make a big difference in how your MacBook Air performs. 
 
 ---
 
-
-
 ## Related Articles
+- [Chrome Using Too Much Disk Space Fix](/chrome-using-too-much-disk-space-fix)
 - [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)
 - [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/chrome-extension-using-too-much-memory-find)
-- [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -74,8 +74,7 @@ Chrome is built to be flexible, and using it for multiple search engines switchi
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Custom Search Engines Guide](/chrome-search-engines-custom)
 - [Chrome for Custom Search Engines Setup](/chrome-for-custom-search-engines-setup)
-- [Chrome Custom Search Engines How to Add](/chrome-custom-search-engines-how-to-add)
+- [Chrome Extensions for Reverse Video Search](/chrome-extensions-for-reverse-video-search)
+- [Chrome For Site Search From Address Bar](/chrome-for-site-search-from-address-bar)

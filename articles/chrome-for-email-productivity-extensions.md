@@ -74,8 +74,7 @@ Remember that extensions are tools, and like any tools, they work best when used
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Productivity Students](/chrome-extensions-for-productivity-students)
-- [Chrome Extensions for Email Tracking](/chrome-extensions-for-email-tracking)
+- [Best Chrome Extensions for Email Management](/best-chrome-extensions-for-email-management)
+- [Chrome Extensions for Email Tracking Read Receipts](/chrome-extensions-for-email-tracking-read-receipts)
+- [Chrome Extensions for Focus and Productivity](/chrome-extensions-for-focus-and-productivity)

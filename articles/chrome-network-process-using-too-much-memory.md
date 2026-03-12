@@ -72,8 +72,7 @@ Give these tips a try and see how much of a difference they make. Your computer 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)
-- [Chrome Using Too Much Memory on MacBook Air](/chrome-using-too-much-memory-on-macbook-air)
+- [Why Is Chrome Using So Much Memory](/why-is-chrome-using-so-much-memory)
 - [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/chrome-extension-using-too-much-memory-find)
+- [Chrome Using Too Much Disk Space Fix](/chrome-using-too-much-disk-space-fix)

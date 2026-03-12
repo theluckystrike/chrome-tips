@@ -79,8 +79,7 @@ Dealing with chrome autofill wrong address can be frustrating, but it's usually 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/chrome-autofill-wrong-address-keeps-appearing)
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+- [Chrome Sync Paused How to Fix](/chrome-sync-paused-how-to-fix)
 - [Chrome Address Autofill How to Manage](/chrome-address-autofill-how-to-manage)
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)

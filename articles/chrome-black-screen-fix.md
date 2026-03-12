@@ -94,8 +94,7 @@ If you continue having issues after trying all these steps, it might be worth ch
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Black Screen When Opening Fix: Complete Practical Guide](/chrome-black-screen-when-opening-fix)
-- [Chrome Screen Flickering Fix](/chrome-screen-flickering-fix)
-- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)

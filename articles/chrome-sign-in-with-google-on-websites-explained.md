@@ -77,8 +77,7 @@ You now have the knowledge to decide whether this feature is right for you and h
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Sign Out of Google in Chrome Without Losing Your Data](/chrome-sign-out-of-google-without-losing-data)
-- [Chrome Auto Sign In to Websites How to Control](/chrome-auto-sign-in-to-websites-how-to-control)
-- [Google Chrome vs Chromium Difference Explained](/google-chrome-vs-chromium-difference-explained)
+- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
+- [Chrome Google Chat Integration in Browser](/chrome-google-chat-integration-in-browser)

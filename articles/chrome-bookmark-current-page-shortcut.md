@@ -79,8 +79,7 @@ Also take time occasionally to clean up old bookmarks. Go through your collectio
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
 - [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
-- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
-- [Chrome Scroll to Top of Page Shortcut](/chrome-scroll-to-top-of-page-shortcut)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)

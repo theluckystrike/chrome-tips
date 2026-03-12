@@ -83,8 +83,7 @@ Use it for what it's good at — local privacy and fresh browser sessions — an
 
 *Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
 
-
 ## Related Articles
-- [Does Incognito Mode Make Chrome Faster?](/does-incognito-mode-make-chrome-faster)
-- [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/chrome-incognito-mode-actually-private-or-not)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
 - [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)

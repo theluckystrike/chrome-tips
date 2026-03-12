@@ -71,8 +71,7 @@ Chrome receives updates fairly often, and each update can bring improvements to 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
-- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
 - [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)

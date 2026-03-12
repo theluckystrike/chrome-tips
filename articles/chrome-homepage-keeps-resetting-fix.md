@@ -71,8 +71,7 @@ Take a few minutes to go through these steps, and you should be able to browse w
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Homepage Keeps Changing to Yahoo Fix](/chrome-homepage-keeps-changing-to-yahoo-fix)
-- [Chrome Homepage Keeps Changing Fix](/chrome-homepage-keeps-changing-fix)
+- [Chrome Keeps Logging Me Out of Websites Fix](/chrome-keeps-logging-me-out-of-websites-fix)
+- [Chrome Memory Usage Keeps Going Up Over Time Fix](/chrome-memory-usage-keeps-going-up-over-time-fix)
 - [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)

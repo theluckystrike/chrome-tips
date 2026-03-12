@@ -61,11 +61,10 @@ When you find a page full of images you want, click the extension icon to see wh
 
 Give each extension a try to see which one fits your style best. They all work a little differently, and the right choice depends on what kind of image downloading you do most often.
 
-
-
 ## Related Articles
-- [Chrome Extensions for Image Downloader Bulk](/chrome-extensions-for-image-downloader-bulk)
-- [chrome extensions for similar image finder](/chrome-extensions-for-similar-image-finder)
-- [chrome extensions for image editor online](/chrome-extensions-for-image-editor-online)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

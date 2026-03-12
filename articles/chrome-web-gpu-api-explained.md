@@ -67,8 +67,7 @@ The combination of powerful new web technologies like Web GPU and smart resource
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Web GPU API Explained for Beginners](/chrome-web-gpu-api-explained-for-beginners)
-- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
-- [Chrome Web Codecs API Explained](/chrome-web-codecs-api-explained)
+- [Chrome Web OTP API Explained](/chrome-web-otp-api-explained)
+- [Chrome Web Share Target Api Explained](/chrome-web-share-target-api-explained)
+- [Chrome Web MIDI API Explained](/chrome-web-midi-api-explained)

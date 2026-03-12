@@ -61,11 +61,10 @@ Understanding these concepts helps you become a more informed internet user. Whe
 
 Chrome continues to refine and improve its security model, and cross-origin isolation will likely play an even greater role in future web standards. By staying aware of these developments, you can better understand how modern browsers work to keep you safe online.
 
-
-
 ## Related Articles
-- [Chrome Cross Origin Error What It Means](/chrome-cross-origin-error-what-it-means)
+- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
 - [Chrome Site Isolation Explained Simply](/chrome-site-isolation-explained-simply)
-- [Chrome Site Isolation Explained](/chrome-site-isolation-explained)
+- [Chrome Site Isolation Explained for Users](/chrome-site-isolation-explained-for-users)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

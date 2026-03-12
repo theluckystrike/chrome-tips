@@ -89,8 +89,7 @@ Chrome continue where you left off not working is frustrating, but it is usually
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
 - [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+- [Chrome Translate Not Working? Here's How to Fix It](/chrome-translate-not-working-fix)
+- [Chrome Netflix Not Working Fix](/chrome-netflix-not-working-fix)

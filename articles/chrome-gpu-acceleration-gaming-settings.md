@@ -57,8 +57,7 @@ Remember that every computer is different, and what works perfectly for one pers
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome How to Disable GPU Acceleration](/chrome-how-to-disable-gpu-acceleration)
-- [Chrome GPU Acceleration Causing Problems Fix](/chrome-gpu-acceleration-causing-problems-fix)
-- [Chrome Best Settings for Gaming](/chrome-best-settings-for-gaming)
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)

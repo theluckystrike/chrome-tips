@@ -99,11 +99,10 @@ Think about why you want to limit your screen time. Is it to be more productive 
 
 Remember that setbacks are normal. If you have a day where you spend too much time online, do not give up. Review what happened, adjust your settings if needed, and try again tomorrow.
 
-
-
 ## Related Articles
-- [chrome extension for measuring things on screen](/chrome-extension-for-measuring-things-on-screen)
-- [Chrome Extension for Tracking Time Spent on Websites](/chrome-extension-for-tracking-time-spent-on-websites)
-- [Chrome Extension for Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time)
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

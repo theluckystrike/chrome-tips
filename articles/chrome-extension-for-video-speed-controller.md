@@ -73,11 +73,10 @@ Pay attention to which websites you use most often for video content. If an exte
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Video Speed Controller Extension](/chrome-video-speed-controller-extension)
 - [Chrome Extension for Video Downloading: What is Legal](/chrome-extension-for-video-downloading-legal)
-- [Chrome Extension for Reading Speed Tracker](/chrome-extension-for-reading-speed-tracker)
+- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
+- [Chrome Extensions for Video Playback Speed Control](/chrome-extensions-for-video-playback-speed-control)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -52,8 +52,7 @@ Modern web design increasingly relies on animation to guide users through interf
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
 - [Chrome Web Codecs API Explained](/chrome-web-codecs-api-explained)
-- [chrome web serial api explained](/chrome-web-serial-api-explained)
+- [Chrome Web MIDI API Explained](/chrome-web-midi-api-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)

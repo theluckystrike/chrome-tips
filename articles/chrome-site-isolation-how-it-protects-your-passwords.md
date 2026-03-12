@@ -84,8 +84,7 @@ Chrome site isolation is one of those features that works quietly in the backgro
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Site Isolation Explained Simply](/chrome-site-isolation-explained-simply)
-- [Chrome Strict Site Isolation: Should I Enable](/chrome-strict-site-isolation-should-i-enable)
-- [Chrome Site Isolation Explained](/chrome-site-isolation-explained)
+- [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)
+- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
+- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)

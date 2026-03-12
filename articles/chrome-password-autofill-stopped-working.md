@@ -137,11 +137,10 @@ Here's what to try, in order:
 
 Most users find the issue is resolved by step 3 or 4. Try these solutions in order, and you should have your password autofill working again in no time.
 
-
-
 ## Related Articles
-- [Chrome Autofill Not Working Fix](/chrome-autofill-not-working-fix)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Web Otp Autofill Sms](/chrome-web-otp-autofill-sms)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -89,8 +89,7 @@ If memory usage from too many tabs is slowing Chrome down, tools like Tab Suspen
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
-- [Chrome vs Edge Speed Test 2026](/chrome-vs-edge-speed-test-2026)
-- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)
+- [Chrome Geolocation Override How to Test](/chrome-geolocation-override-how-to-test)
+- [Chrome Back Forward Cache How to Test](/chrome-back-forward-cache-how-to-test)
+- [Chrome Lighthouse Audit How To Run](/chrome-lighthouse-audit-how-to-run)

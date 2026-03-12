@@ -108,11 +108,10 @@ Chrome's Media Session API transforms your browser into a capable media control 
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Media Session API for Music Players](/chrome-media-session-api-for-music-players)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)
+- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

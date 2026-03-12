@@ -72,8 +72,7 @@ Remember to review your offline documents periodically, keep your browser update
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome offline google docs how to enable](/chrome-offline-google-docs-how-to-enable)
-- [Chrome Offline Google Calendar](/chrome-offline-google-calendar)
-- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
+- [Chrome Offline Google Docs How To Enable](/chrome-offline-google-docs-how-to-enable)
+- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)
+- [Chrome For Twitch Streaming Setup In Browser](/chrome-for-twitch-streaming-setup-in-browser)

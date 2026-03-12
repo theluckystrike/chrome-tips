@@ -73,8 +73,7 @@ Keep the feature enabled. Once you turn Live Captions on, there is no harm in le
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Live Captions Feature Guide](/chrome-live-captions-feature)
-- [Chrome Live Captions Languages: Complete Setup Guide](/chrome-live-captions-languages)
+- [How to Enable Chrome Parallel Downloading](/how-to-enable-chrome-parallel-downloading)
 - [Chrome Live Captions How to Turn On](/chrome-live-captions-how-to-turn-on)
+- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)

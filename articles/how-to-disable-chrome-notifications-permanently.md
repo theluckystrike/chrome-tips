@@ -76,8 +76,7 @@ The key is to visit your Chrome settings regularly and make sure only the sites 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Turn Off Chrome Notifications Permanently](/how-to-turn-off-chrome-notifications-permanently)
-- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)
 - [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [Chrome Javascript Disable For One Site How To](/chrome-javascript-disable-for-one-site-how-to)
+- [Chrome How To Block Specific Website Notifications](/chrome-how-to-block-specific-website-notifications)

@@ -74,8 +74,7 @@ Think of Chrome flags as a playground where you can try new things, but always k
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome voice search how to use](/chrome-voice-search-how-to-use)
-- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
-- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
+- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)

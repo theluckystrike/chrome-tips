@@ -65,8 +65,7 @@ Remember that translation extensions are tools to help you, and they get better 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
-- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
-- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
+- [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
+- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)

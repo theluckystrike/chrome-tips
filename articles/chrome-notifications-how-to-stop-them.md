@@ -72,8 +72,7 @@ Remember that you can always adjust these settings later if your needs change. T
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Site Keeps Asking for Notifications? Here's How to Stop It](/chrome-site-keeps-asking-for-notifications-stop)
-- [Chrome Notifications on Phone Too Many How to Stop](/chrome-notifications-on-phone-too-many-how-to-stop)
-- [Chrome Notifications Won't Stop Popping Up? Here's How to Fix It](/chrome-notifications-wont-stop-popping-up)
+- [How to Stop Chrome from Tracking Me](/how-to-stop-chrome-from-tracking-me)
+- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
+- [How to Turn Off Chrome Notifications Permanently](/how-to-turn-off-chrome-notifications-permanently)

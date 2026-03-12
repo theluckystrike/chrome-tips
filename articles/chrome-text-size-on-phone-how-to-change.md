@@ -86,8 +86,7 @@ Remember that you can combine methods. Using system text size as a baseline and 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)
 - [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
-- [How to Change Chrome Font Size Permanently](/chrome-font-size-permanently-change)
-- [Chrome Text Size How to Increase Permanently](/chrome-text-size-how-to-increase-permanently)
+- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)

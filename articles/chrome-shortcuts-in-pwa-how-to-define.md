@@ -71,8 +71,7 @@ The next time you install a new PWA, pay attention to what shortcuts are availab
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome desktop shortcuts how to create](/chrome-desktop-shortcuts-how-to-create)
-- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
-- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+- [Chrome Desktop Shortcuts How To Create](/chrome-desktop-shortcuts-how-to-create)

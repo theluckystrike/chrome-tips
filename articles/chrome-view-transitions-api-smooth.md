@@ -54,11 +54,10 @@ Developers are exploring increasingly sophisticated uses of the View Transitions
 
 ---
 
-
-
 ## Related Articles
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Streams API for Large Files](/chrome-streams-api-for-large-files)
+- [Chrome Long Tasks API Explained](/chrome-long-tasks-api-explained)
+- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

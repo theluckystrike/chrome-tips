@@ -73,8 +73,7 @@ The key is to start with the simple settings first, then build better habits aro
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Limit Chrome RAM Usage on Windows](/how-to-limit-chrome-ram-usage-windows)
-- [Chrome High Memory Usage Windows 11](/chrome-high-memory-usage-windows-11)
-- [How to Limit Chrome Memory Usage Mac](/how-to-limit-chrome-memory-usage-mac)
+- [How To Make Chrome Default Browser Windows 11](/how-to-make-chrome-default-browser-windows-11)
+- [How to Reduce Chrome Memory Usage](/how-to-reduce-chrome-memory-usage)
+- [Chrome Opens on Startup Windows: How to Stop](/chrome-opens-on-startup-windows-how-to-stop)

@@ -94,11 +94,10 @@ The Chrome address bar is one of the most underutilized features in modern brows
 
 Start with the basics, and you'll quickly discover why power users rely on the Omnibox for so much more than typing URLs.
 
-
-
 ## Related Articles
-- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
+- [Chrome Accessibility Features You Didn't Know About](/chrome-accessibility-features-you-didnt-know-about)
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
 - [Chrome Address Bar Commands You Didnt Know](/chrome-address-bar-commands-you-didnt-know)
-- [Chrome for Address Bar Shortcuts Tips](/chrome-for-address-bar-shortcuts-tips)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

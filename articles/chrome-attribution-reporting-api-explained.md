@@ -64,9 +64,7 @@ Whether you decide to leave the Attribution Reporting API enabled or turn it off
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-
-- [Chrome Permissions on Startup How to Configure](/articles/chrome-permissions-on-startup-how-to-configure/)
-- [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation/)
-- [Chrome Service Worker Caching Strategies](/articles/chrome-service-worker-caching-strategies/)
+- [Chrome Long Tasks API Explained](/chrome-long-tasks-api-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)

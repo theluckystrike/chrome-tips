@@ -87,8 +87,7 @@ Try a few of these methods and see which fits your lifestyle best. Once you have
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/chrome-save-webpage-as-mhtml-offline)
-- [chrome android tips to save data](/chrome-android-tips-to-save-data)
-- [chrome mobile save page offline how to](/chrome-mobile-save-page-offline-how-to)
+- [How to Save Chrome Tabs for Later](/how-to-save-chrome-tabs-for-later)
+- [Chrome Android Desktop Mode How to Enable](/chrome-android-desktop-mode-how-to-enable)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)

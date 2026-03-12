@@ -59,8 +59,7 @@ The internet will never be perfect, and connection drops will happen. But with t
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
-- [Chrome Background Sync API Explained](/chrome-background-sync-api-explained)
 - [Chrome Periodic Background Sync Explained](/chrome-periodic-background-sync-explained)
+- [Chrome Extensions for Google Forms](/chrome-extensions-for-google-forms)
+- [Chrome for Google Docs Offline Setup](/chrome-for-google-docs-offline-setup)

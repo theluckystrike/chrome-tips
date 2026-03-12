@@ -64,8 +64,7 @@ Give both methods a try and see which one fits your workflow. You might be surpr
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Extensions for Tab Sleeping Automatically](/chrome-extensions-for-tab-sleeping-automatically)
-- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
-- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [Chrome For Dual Monitor Tab Management](/chrome-for-dual-monitor-tab-management)
+- [Chrome Tab Groups vs Multiple Windows](/chrome-tab-groups-vs-windows)
+- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)

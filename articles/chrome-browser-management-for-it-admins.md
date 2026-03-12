@@ -75,8 +75,7 @@ Remember that employees need to be able to do their work, so try to find the rig
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Browser Cloud Management Explained](/chrome-browser-cloud-management-explained)
+- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
 - [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)

@@ -94,11 +94,10 @@ The true "pro" way to use the address bar involves mastering the keyboard. These
 
 By integrating these commands and shortcuts into your daily routine, you can drastically reduce the time you spend navigating through menus and clicking on UI elements. The Omnibox isn’t just an address bar—it’s the command center of your entire web experience.
 
-
-
 ## Related Articles
-- [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know)
 - [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
-- [Chrome Accessibility Features You Didn't Know About](/chrome-accessibility-features-you-didnt-know-about)
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [Chrome Coupons In Address Bar Feature](/chrome-coupons-in-address-bar-feature)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

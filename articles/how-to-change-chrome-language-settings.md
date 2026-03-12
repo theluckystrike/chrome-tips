@@ -63,8 +63,7 @@ Changing Chrome language settings is a matter of knowing where to look and makin
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome DNS Settings How to Change for Privacy](/chrome-dns-settings-how-to-change-for-privacy)
-- [Chrome Settings You Should Change Right Now](/chrome-settings-you-should-change-right-now)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome for Proxy Settings How to Configure](/chrome-for-proxy-settings-how-to-configure)
+- [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
+- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)

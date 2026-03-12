@@ -103,11 +103,10 @@ When Chrome Web Store extensions not installing becomes a problem, the issue is 
 
 If you've tried all these steps and still can't install extensions, the issue might be on Google's end (temporary outages happen) or related to your network's configuration. In those cases, waiting a few hours and trying again often resolves the problem.
 
-
-
 ## Related Articles
-- [Chrome WebStore Extensions Not Installing Fix](/chrome-webstore-extensions-not-installing-fix)
-- [chrome web store not loading fix](/chrome-web-store-not-loading-fix)
-- [Chrome Web Store How to Find Safe Extensions](/chrome-web-store-how-to-find-safe-extensions)
+- [Chrome Extensions For Web Clipping](/chrome-extensions-for-web-clipping)
+- [Chrome Web Store How to Leave Review](/chrome-web-store-how-to-leave-review)
+- [Chrome Web Store Not Loading Fix](/chrome-web-store-not-loading-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

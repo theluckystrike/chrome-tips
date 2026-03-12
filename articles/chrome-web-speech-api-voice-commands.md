@@ -79,11 +79,10 @@ Voice interaction represents the next frontier of browser usability. Whether you
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
-- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
 - [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+- [Chrome Web Serial Api Explained](/chrome-web-serial-api-explained)
+- [Chrome Web Codecs API Explained](/chrome-web-codecs-api-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -92,11 +92,10 @@ If you find that you need additional control over how tabs and resources are man
 
 By mastering streams, you unlock the ability to handle large datasets, process network data efficiently, and build applications that feel fast and responsive. Take the time to experiment with the Streams API in Chrome, and you will find that it opens up new possibilities for what you can build on the web.
 
-
-
 ## Related Articles
+- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)
 - [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
-- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -71,8 +71,7 @@ Combine this organizational power with the performance management of **Tab Suspe
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
 - [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
-- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
+- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)

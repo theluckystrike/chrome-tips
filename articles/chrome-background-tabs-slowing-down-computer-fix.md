@@ -89,8 +89,7 @@ You might also want to try lighter browsers for everyday tasks and reserve Chrom
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Slows Down After Sleep Mode Fix](/chrome-slows-down-after-sleep-mode-fix)
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
 - [Chrome Lost All My Tabs After Update Fix](/chrome-lost-all-my-tabs-update-fix)
-- [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/chrome-slows-down-after-opening-20-tabs)

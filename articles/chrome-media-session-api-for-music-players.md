@@ -65,8 +65,7 @@ For now, if you have not tried using media keys with your favorite web music pla
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Media Session API: Mastering Music Controls in Your Browser](/chrome-media-session-api-music-controls)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Streams API for Large Files](/chrome-streams-api-for-large-files)
+- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
+- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)

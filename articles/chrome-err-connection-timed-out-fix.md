@@ -68,11 +68,10 @@ Remember that websites themselves can sometimes be the problem. If a server is o
 
 ---
 
-
-
 ## Related Articles
-- [Chrome ERR_CONNECTION_REFUSED Fix](/chrome-err-connection-refused-fix)
+- [Chrome Privacy Error Your Connection Is Not Private Fix](/chrome-privacy-error-your-connection-is-not-private-fix)
+- [Chrome ERR_NETWORK_CHANGED Fix](/chrome-err-network-changed-fix)
 - [How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost](/chrome-err-connection-refused-localhost-fix)
-- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/chrome-err-ssl-protocol-error-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

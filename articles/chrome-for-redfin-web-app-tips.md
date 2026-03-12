@@ -68,8 +68,7 @@ If you are searching on a laptop, try moving closer to your router, or consider 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
-- [chrome for asana web app tips](/chrome-for-asana-web-app-tips)
-- [chrome for coinbase web app tips](/chrome-for-coinbase-web-app-tips)
+- [Chrome For Asana Web App Tips](/chrome-for-asana-web-app-tips)
+- [Chrome For Coinbase Web App Tips](/chrome-for-coinbase-web-app-tips)

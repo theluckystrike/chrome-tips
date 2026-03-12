@@ -73,8 +73,7 @@ Incognito mode is a helpful feature for anyone who wants to browse privately, te
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
-- [chrome data usage on phone how to reduce](/chrome-data-usage-on-phone-how-to-reduce)
-- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
+- [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)
+- [Chrome Home Screen Shortcut How To Add On Phone](/chrome-home-screen-shortcut-how-to-add-on-phone)
+- [Chrome Translate On Phone How To Use](/chrome-translate-on-phone-how-to-use)

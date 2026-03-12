@@ -92,8 +92,7 @@ There are many resources online where people share their favorite snippets. You 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Devtools Color Picker How to Use](/chrome-devtools-color-picker-how-to-use)
+- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
+- [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
 - [Chrome Devtools Responsive Mode How to Use](/chrome-devtools-responsive-mode-how-to-use)
-- [chrome devtools recorder panel how to use](/chrome-devtools-recorder-panel-how-to-use)

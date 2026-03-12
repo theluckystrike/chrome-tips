@@ -166,11 +166,10 @@ If you're not seeing the auto-change option for a particular password, the websi
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Built in Password Checkup How to Use](/chrome-built-in-password-checkup-how-to-use)
 - [Chrome Password Checkup What It Does](/chrome-password-checkup-what-it-does)
-- [how to use chrome password checkup feature](/how-to-use-chrome-password-checkup-feature)
+- [Chrome Privacy Checkup How To Do](/chrome-privacy-checkup-how-to-do)
+- [Chrome for Password Security Best Practices](/chrome-for-password-security-best-practices)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

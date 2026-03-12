@@ -80,11 +80,10 @@ Chrome split screen two tabs side by side is one of those features that once you
 
 Try setting up a split screen today. Pick two pages you need to use together, arrange them side by side, and see how much easier your work becomes. You might find that this simple change transforms the way you use Chrome entirely.
 
-
-
 ## Related Articles
-- [Chrome Side by Side Tabs How to Split Screen](/chrome-side-by-side-tabs-how-to-split-screen)
-- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
 - [Chrome Extensions for Split Tabs](/chrome-extensions-for-split-tabs)
+- [Chrome Keeps Opening New Tabs By Itself Virus](/chrome-keeps-opening-new-tabs-by-itself-virus)
+- [How to Group Tabs by Color in Chrome: A Complete Guide](/chrome-group-tabs-by-color-organize)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

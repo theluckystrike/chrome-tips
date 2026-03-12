@@ -85,8 +85,7 @@ You can also try the Chrome offline installer, which is a different version of t
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
-- [Chrome Update Failed Error 7 Fix](/chrome-update-failed-error-7-fix)
 - [Chrome Update Failed Error 3 Fix](/chrome-update-failed-error-3-fix)
+- [Chrome Update Failed Error 7 Fix](/chrome-update-failed-error-7-fix)
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)

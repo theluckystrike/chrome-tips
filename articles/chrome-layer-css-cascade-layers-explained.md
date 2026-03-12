@@ -66,8 +66,7 @@ By keeping your browser running smoothly, you can focus on your work without dea
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Starting Style CSS Explained](/chrome-starting-style-css-explained)
 - [Chrome Layer Cascade CSS: A Complete Guide to Modern Style Management](/chrome-layer-cascade-css)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
+- [Chrome Nesting CSS Explained](/chrome-nesting-css-explained)

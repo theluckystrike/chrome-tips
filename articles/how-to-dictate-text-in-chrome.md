@@ -69,8 +69,7 @@ Voice input in Chrome is a powerful feature that more people should know about. 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
-- [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [Chrome Text to Speech Built In Features](/chrome-text-to-speech-built-in-features)
+- [Chrome Virus Scan Built in How to Use](/chrome-virus-scan-built-in-how-to-use)

@@ -119,11 +119,10 @@ Try the solution that fits your situation, and enjoy a less interrupted browsing
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Keeps Asking to Be Default Browser Stop](/chrome-keeps-asking-to-be-default-browser-stop)
-- [chrome site notifications stop all](/chrome-site-notifications-stop-all)
-- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
+- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
+- [Chrome for Managing Site Notifications](/chrome-for-managing-site-notifications)
+- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

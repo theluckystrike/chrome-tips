@@ -77,11 +77,10 @@ Take your time browsing through the options. The Chrome Web Store has many free 
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
 - [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
-- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+- [Chrome Process Per Tab Why and How to Change](/chrome-process-per-tab-why-and-how-to-change)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

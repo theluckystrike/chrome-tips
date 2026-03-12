@@ -54,8 +54,7 @@ Using tools like this along with regular attention to your storage settings can 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Shared Storage API Explained](/chrome-shared-storage-api-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
 - [Chrome Persistent Storage Permission Explained](/chrome-persistent-storage-permission-explained)
-- [Chrome Web Storage Limits Explained](/chrome-web-storage-limits-explained)
+- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)

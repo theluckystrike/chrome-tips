@@ -61,8 +61,7 @@ Think about which websites you visit most often and make sure your dark mode sol
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
-- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
-- [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
+- [Chrome Android Dark Mode How to Enable](/chrome-android-dark-mode-how-to-enable)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)

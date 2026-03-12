@@ -65,8 +65,7 @@ Whether you are making a permanent switch or just need access to your bookmarks 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Profile Import From Another Computer](/chrome-profile-import-from-another-computer)
-- [Why Are People Switching from Chrome to Firefox](/why-are-people-switching-from-chrome-to-firefox)
-- [Should I Switch from Chrome to Firefox for Speed?](/should-i-switch-from-chrome-to-firefox-for-speed)
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How to Stop Chrome from Tracking Me](/how-to-stop-chrome-from-tracking-me)
+- [How to Recover Deleted Bookmarks Chrome](/how-to-recover-deleted-bookmarks-chrome)

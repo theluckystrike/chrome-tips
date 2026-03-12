@@ -58,8 +58,7 @@ As web capabilities continue to expand, staying informed about what permissions 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome file system access api explained](/chrome-file-system-access-api-explained)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
 - [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)

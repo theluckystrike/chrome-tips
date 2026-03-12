@@ -73,8 +73,7 @@ Some users find it helpful to clear cache for Slack more often, especially if yo
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Fix Slow Slack Web App in Chrome](/chrome-slack-web-app-slow-fix)
 - [Chrome for Quizlet Web App Best Settings](/chrome-for-quizlet-web-app-best-settings)
-- [chrome for instacart web app best settings](/chrome-for-instacart-web-app-best-settings)
+- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome For Instacart Web App Best Settings](/chrome-for-instacart-web-app-best-settings)

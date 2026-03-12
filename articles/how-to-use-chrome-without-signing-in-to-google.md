@@ -75,8 +75,7 @@ The choice is yours, and now you have the information to make the decision that 
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [How to Use Chrome Without a Google Account](/how-to-use-chrome-without-google-account)
-- [How to Sign Out of Google in Chrome Without Losing Your Data](/chrome-sign-out-of-google-without-losing-data)
-- [chrome google lens integration how to use](/chrome-google-lens-integration-how-to-use)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
+- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
+- [Chrome Send Feedback to Google How to](/chrome-send-feedback-to-google-how-to)

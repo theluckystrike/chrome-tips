@@ -71,8 +71,7 @@ If you want even more control over how Chrome manages your tabs, try Tab Suspend
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
 
-
 ## Related Articles
-- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
-- [Chrome vs Edge Speed Test 2026](/chrome-vs-edge-speed-test-2026)
-- [Best Settings to Speed Up Chrome 2026](/best-settings-to-speed-up-chrome-2026)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
+- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)

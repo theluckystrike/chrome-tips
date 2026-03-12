@@ -65,8 +65,7 @@ Setting up Chrome for Any.do does not take much time, but it can significantly i
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Skillshare Web App Setup](/chrome-for-skillshare-web-app-setup)
-- [chrome for uber web app setup](/chrome-for-uber-web-app-setup)
-- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)
+- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)

@@ -76,8 +76,7 @@ Finally, remember that the "web" of 2026 is much heavier than it was five years 
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
-- [chrome webrtc leak what it is and how to fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Memory Saver Mode 2026 Guide](/chrome-memory-saver-mode-2026)
+- [Chrome Using Swap Memory Fix](/chrome-using-swap-memory-fix)
+- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
+- [Chrome Slow on iPad Fix 2026](/chrome-slow-on-ipad-fix-2026)

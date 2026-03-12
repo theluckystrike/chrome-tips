@@ -71,8 +71,7 @@ Remember that extensions are helpers, not replacements for good meeting habits. 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
+- [Chrome Extensions for Google Slides](/chrome-extensions-for-google-slides)
 - [Chrome Extensions for Google Drive](/chrome-extensions-for-google-drive)
-- [Chrome Extensions for Google Forms](/chrome-extensions-for-google-forms)
+- [Chrome for Google Scholar Best Extensions](/chrome-for-google-scholar-best-extensions)

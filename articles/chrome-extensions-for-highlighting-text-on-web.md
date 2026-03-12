@@ -63,8 +63,7 @@ The best way to find what works for you is to try a highlighting extension and u
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
 - [Chrome Extensions for Web Automation Free](/chrome-extensions-for-web-automation-free)
-- [Chrome Extensions for Text Comparison Diff Tool](/chrome-extensions-for-text-comparison-diff-tool)
+- [Chrome Extensions for Web Annotation](/chrome-extensions-for-web-annotation)
+- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)

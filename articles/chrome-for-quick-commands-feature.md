@@ -84,8 +84,7 @@ Give it a try for a few days. Pick one or two commands that match what you actua
 
 ---
 
-
 ## Related Articles
-- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
-- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [Chrome for W3Schools Quick Reference Extension](/chrome-for-w3schools-quick-reference-extension)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)

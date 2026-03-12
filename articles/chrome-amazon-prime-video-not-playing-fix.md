@@ -139,12 +139,11 @@ Playback issues with Amazon Prime Video in Chrome are frustrating, but they're u
 
 By keeping your browser and system updated and being mindful of how extensions and settings affect playback, you can enjoy seamless streaming without interruptions.
 
-
-
 ## Related Articles
 - [Chrome Not Playing Videos Fix](/chrome-not-playing-videos-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
 - [Chrome for Amazon Prime Video Quality Settings](/chrome-for-amazon-prime-video-quality-settings)
-- [chrome not playing youtube videos fix](/chrome-not-playing-youtube-videos-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

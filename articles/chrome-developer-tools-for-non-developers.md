@@ -102,8 +102,7 @@ DevTools is a powerful resource that is available to everyone using Chrome. Even
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Network Speed in Developer Tools](/chrome-network-speed-in-developer-tools)
-- [Chrome Developer Tools Shortcut](/chrome-developer-tools-shortcut)
-- [Chrome Developer Tools Making Page Slow: What You Need to Know](/chrome-developer-tools-making-page-slow)
+- [Chrome For Screenshot And Annotation Tools](/chrome-for-screenshot-and-annotation-tools)
+- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
+- [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)

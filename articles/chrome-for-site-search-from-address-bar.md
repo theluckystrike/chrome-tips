@@ -78,8 +78,7 @@ Give it a try with a site you visit often. Set up the bookmark or keyword, run a
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
-- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
-- [chrome coupons in address bar feature](/chrome-coupons-in-address-bar-feature)
+- [Chrome Extensions for IP Address Lookup](/chrome-extensions-for-ip-address-lookup)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)

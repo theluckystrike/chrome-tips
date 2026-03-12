@@ -75,8 +75,7 @@ If voice search seems slow or inaccurate, try closing unnecessary tabs and exten
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
-- [chrome voice search how to use](/chrome-voice-search-how-to-use)
-- [chrome safe search how to force enable](/chrome-safe-search-how-to-force-enable)
+- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
+- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)
+- [How to Enable Chrome Reading List](/how-to-enable-chrome-reading-list)

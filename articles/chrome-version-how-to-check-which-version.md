@@ -80,11 +80,10 @@ If you find that Chrome feels slow or you have many tabs open, consider using to
 
 Understanding your browser and keeping it updated is a simple but effective way to have a better browsing experience. Take a moment to check your Chrome version today, and make sure you are running the latest version available.
 
-
-
 ## Related Articles
-- [How to Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
-- [Chrome vs Brave Browser Which Is Better](/chrome-vs-brave-browser-which-is-better)
-- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
+- [Chrome 64 bit vs 32 bit How to Check](/chrome-64-bit-vs-32-bit-how-to-check)
+- [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)](/how-to-downgrade-chrome-to-older-version)
+- [Chrome Frame Rate How to Check](/chrome-frame-rate-how-to-check)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

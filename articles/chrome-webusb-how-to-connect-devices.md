@@ -74,8 +74,7 @@ While learning how to connect USB devices in Chrome is useful, managing your bro
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extension Settings Sync Across Devices](/chrome-extension-settings-sync-across-devices)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
 - [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)
-- [Chrome Sync Between Devices Not Working Fix](/chrome-sync-between-devices-not-working-fix)
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)

@@ -74,8 +74,7 @@ Remember that focus music is a tool to support your goals, not a magic solution.
 
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Music Discovery Extensions](/chrome-for-music-discovery-extensions)
-- [Chrome Extensions for Focus and Productivity](/chrome-extensions-for-focus-and-productivity)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
 - [Chrome for Meditation and Focus Extensions](/chrome-for-meditation-and-focus-extensions)

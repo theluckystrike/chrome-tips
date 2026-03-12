@@ -67,8 +67,7 @@ Try different arrangements to find what works best for your workflow. Some users
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
-- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
-- [chrome extension for measuring things on screen](/chrome-extension-for-measuring-things-on-screen)
+- [How to Limit Screen Time in Chrome with Extensions](/chrome-limit-screen-time-with-extension)
+- [How to Block Ads on Chrome Without Extension](/how-to-block-ads-on-chrome-without-extension)
+- [How to Do a Reverse Image Search in Chrome Without an Extension](/chrome-reverse-image-search-without-extension)

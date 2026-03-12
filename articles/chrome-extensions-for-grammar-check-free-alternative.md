@@ -63,8 +63,7 @@ One helpful tool for managing browser performance is Tab Suspender Pro. It suspe
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Extensions For Privacy Badger Alternative](/chrome-extensions-for-privacy-badger-alternative)
 - [Chrome Extensions for Grammarly Alternative Free](/chrome-extensions-for-grammarly-alternative-free)
-- [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
 - [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)

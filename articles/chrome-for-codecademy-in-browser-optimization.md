@@ -77,8 +77,7 @@ A smoother Codecademy experience is within reach. Close unnecessary tabs, trim d
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
-- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac)
+- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
+- [Chrome For Twitch Streaming Setup In Browser](/chrome-for-twitch-streaming-setup-in-browser)
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)

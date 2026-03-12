@@ -78,8 +78,7 @@ The process does not have to be overwhelming. Start by enabling the checkup, rev
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [how to use chrome password checkup feature](/how-to-use-chrome-password-checkup-feature)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
 - [Chrome Virus Scan Built in How to Use](/chrome-virus-scan-built-in-how-to-use)
-- [Chrome Password Checkup Tool Guide](/chrome-password-checkup-tool)
+- [How To Use Chrome Password Checkup Feature](/how-to-use-chrome-password-checkup-feature)

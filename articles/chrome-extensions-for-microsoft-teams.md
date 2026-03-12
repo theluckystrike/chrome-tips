@@ -71,8 +71,7 @@ Remember that extensions are helpers, not replacements for good work habits. Sta
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome for Microsoft Teams in Browser Tips](/chrome-for-microsoft-teams-in-browser-tips)
-- [Best Chrome Extensions for Sales Teams](/best-chrome-extensions-for-sales-teams)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
 - [Chrome for Microsoft Teams Web Optimization](/chrome-for-microsoft-teams-web-optimization)

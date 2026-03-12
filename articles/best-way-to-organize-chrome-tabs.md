@@ -77,8 +77,7 @@ Start with the basics, see what fits your workflow, and build from there. You do
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [How to Group Tabs by Color in Chrome: A Complete Guide](/chrome-group-tabs-by-color-organize)
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
-- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
+- [How to Save Chrome Tabs for Later](/how-to-save-chrome-tabs-for-later)
+- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)

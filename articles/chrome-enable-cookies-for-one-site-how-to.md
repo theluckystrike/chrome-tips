@@ -79,8 +79,7 @@ If you find yourself frequently managing cookie permissions and want additional 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
-- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)
-- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
+- [How to Allow Pop Ups for One Site in Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)
+- [Chrome How To Allow Popups For One Site](/chrome-how-to-allow-popups-for-one-site)
+- [Chrome Local Storage How to Clear for One Site](/chrome-local-storage-how-to-clear-for-one-site)

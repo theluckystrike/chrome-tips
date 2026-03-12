@@ -85,8 +85,7 @@ Regular maintenance like closing unused tabs, keeping your extensions minimal, a
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Storage Inspector How to Use](/chrome-storage-inspector-how-to-use)
-- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
-- [Chrome Memory Saver Mode How to Use](/chrome-memory-saver-mode-how-to-use)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+- [Chrome Flexbox Inspector How to Use](/chrome-flexbox-inspector-how-to-use)

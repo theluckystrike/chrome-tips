@@ -140,8 +140,7 @@ Ready to supercharge your browsing? Try **[Tab Suspender Pro](https://zovo.one/t
 
 **[zovo.one](https://zovo.one)**
 
-
 ## Related Articles
 - [Chrome Slow After Windows Update Fix](/chrome-slow-after-windows-update-fix)
-- [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
+- [Chrome Slower After macOS Update Fix](/chrome-slower-after-macos-update-fix)
+- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)

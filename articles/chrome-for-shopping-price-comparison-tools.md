@@ -66,8 +66,7 @@ The key is to find the right combination of tools that fit your shopping style. 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome extensions for elderly users simple tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)
-- [Chrome Reader Mode vs Safari Reader Comparison](/chrome-reader-mode-vs-safari-reader-comparison)
+- [Chrome Extensions for Text Comparison Diff Tool](/chrome-extensions-for-text-comparison-diff-tool)
+- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)
+- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)

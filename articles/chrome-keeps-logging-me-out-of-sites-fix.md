@@ -85,8 +85,7 @@ You might also consider whether your Chrome profile itself has become corrupted.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Keeps Logging Me Out of Websites Fix](/chrome-keeps-logging-me-out-of-websites-fix)
+- [Chrome Homepage Keeps Changing to Yahoo Fix](/chrome-homepage-keeps-changing-to-yahoo-fix)
+- [How to Sign Out of Google in Chrome Without Losing Your Data](/chrome-sign-out-of-google-without-losing-data)
 - [Chrome Forward Button Greyed Out Fix](/chrome-forward-button-greyed-out-fix)
-- [Chrome YouTube Slow But Other Sites Fine Fix](/chrome-youtube-slow-but-other-sites-fine-fix)

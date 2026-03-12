@@ -113,11 +113,10 @@ Your old computer doesn't have to feel slow anymore. A few simple changes can gi
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Flags That Actually Help Performance](/chrome-flags-that-actually-help-performance)
 - [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [Does Incognito Mode Make Chrome Faster?](/does-incognito-mode-make-chrome-faster)
+- [Chrome Do Not Track: Does It Actually Work](/chrome-do-not-track-does-it-actually-work)
+- [Chrome Dark Reader Extension Worth It](/chrome-dark-reader-extension-worth-it)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

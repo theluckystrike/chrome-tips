@@ -79,8 +79,7 @@ Finally, always double-check your exported PDF before submitting. Open it in Chr
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
 - [Chrome for Stock Screener Web Tools](/chrome-for-stock-screener-web-tools)
-- [Chrome Extensions for Resume Building](/chrome-extensions-for-resume-building)
-- [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)
+- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)

@@ -70,8 +70,7 @@ Once you find the combination that works for you, the days of manually zooming i
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [How to Block Websites on Chrome](/how-to-block-websites-on-chrome)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
 - [Chrome Window Too Small Cant Resize Fix](/chrome-window-too-small-cant-resize-fix)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)

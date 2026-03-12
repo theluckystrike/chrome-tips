@@ -75,8 +75,7 @@ Finally, consider how your notes fit into your broader productivity system. If y
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Meeting Notes](/chrome-extensions-for-meeting-notes)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
 - [Chrome Extensions for Vertical Tabs Sidebar](/chrome-extensions-for-vertical-tabs-sidebar)
-- [Chrome Extensions for Tab Notes](/chrome-extensions-for-tab-notes)

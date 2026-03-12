@@ -55,8 +55,7 @@ The good news is that Chrome is already supporting this technology, and you do n
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Web GPU API Explained](/chrome-web-gpu-api-explained)
-- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
-- [chrome web serial api for beginners](/chrome-web-serial-api-for-beginners)
+- [Chrome Cache API Tutorial for Beginners](/chrome-cache-api-tutorial-for-beginners)
+- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
+- [Chrome Encrypted DNS Explained for Beginners](/chrome-encrypted-dns-explained-for-beginners)

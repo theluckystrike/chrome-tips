@@ -53,8 +53,7 @@ If selling or giving away your Chromebook is not the goal, there might be altern
 
 The team behind Tab Suspender Pro and the Zovo extension suite at zovo.one hopes this guide helps you understand what Powerwash does and whether it is the right solution for your situation.
 
-
 ## Related Articles
+- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
 - [Chromebook Guest Mode What It Does](/chromebook-guest-mode-what-it-does)
-- [Best Chromebook Extensions for Students](/best-chromebook-extensions-for-students)
-- [chromebook file manager tips and tricks](/chromebook-file-manager-tips-and-tricks)
+- [Chrome Pin Tab What It Does Explained](/chrome-pin-tab-what-it-does-explained)

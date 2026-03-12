@@ -98,8 +98,7 @@ Remember that no single tool will tell you everything about your website. Use th
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
-- [chrome extensions for whatfont alternative](/chrome-extensions-for-whatfont-alternative)
-- [chrome extensions for privacy badger alternative](/chrome-extensions-for-privacy-badger-alternative)
+- [Chrome Extensions for Noscript Alternative](/chrome-extensions-for-noscript-alternative)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

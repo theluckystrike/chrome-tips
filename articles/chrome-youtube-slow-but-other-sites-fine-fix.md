@@ -80,8 +80,7 @@ Stay updated. Keep Chrome updated, and make sure your operating system is curren
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
-- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
+- [Chrome Right Click Not Working on Some Sites Fix](/chrome-right-click-not-working-on-some-sites-fix)
+- [Chrome Slow After Hibernation Fix](/chrome-slow-after-hibernation-fix)
 - [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)

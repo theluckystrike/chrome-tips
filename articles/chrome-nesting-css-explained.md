@@ -54,8 +54,7 @@ Keeping your browser organized and your extensions minimal also contributes to s
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)
-- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
+- [Chrome Starting Style CSS Explained](/chrome-starting-style-css-explained)
+- [Chrome Scope CSS Explained](/chrome-scope-css-explained)
+- [Chrome CSS Custom Properties Explained](/chrome-css-custom-properties-explained)

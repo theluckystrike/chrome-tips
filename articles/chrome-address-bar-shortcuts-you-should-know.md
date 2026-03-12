@@ -104,9 +104,7 @@ Each one shaves seconds off tasks you perform many times a day. Over a week, tha
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-
-- [Chrome for Roam Research Web Tips](/articles/chrome-for-roam-research-web-tips/)
-- [Chrome What Technology Is Website Using](/articles/chrome-what-technology-is-website-using/)
-- [Chrome for Managing Site Notifications](/articles/chrome-for-managing-site-notifications/)
+- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+- [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know)

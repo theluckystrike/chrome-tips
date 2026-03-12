@@ -77,11 +77,10 @@ For users who want additional location privacy, several extensions offer enhance
 
 ---
 
-
-
 ## Related Articles
 - [Chrome Geolocation Permission Settings](/chrome-geolocation-permission-settings)
-- [Chrome Camera Microphone Permission Manage: Complete Guide](/chrome-camera-microphone-permission-manage)
-- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
+- [How to Manage Addresses in Chrome Autofill](/chrome-autofill-manage-addresses)
+- [Chrome Payment Autofill How to Manage Cards](/chrome-payment-autofill-how-to-manage-cards)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

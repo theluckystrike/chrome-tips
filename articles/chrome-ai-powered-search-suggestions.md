@@ -71,12 +71,11 @@ The good news is that Chrome does not force you to accept AI suggestions. You ha
 
 Remember that you can always adjust these settings later as your needs or preferences change. What feels right today might not feel right next year, and Chrome's settings are designed to be flexible.
 
-
-
 ## Related Articles
+- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+- [Chrome Reading Mode AI Summary Feature](/chrome-reading-mode-ai-summary-feature)
 - [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/chrome-ai-powered-history-search)
-- [Chrome AI Search Suggestions Explained](/chrome-ai-search-suggestions-explained)
-- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

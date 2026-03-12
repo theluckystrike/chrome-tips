@@ -91,8 +91,7 @@ If you continue to experience problems after trying all these solutions, conside
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Crashing on iPhone Fix](/chrome-crashing-on-iphone-fix)
+- [Chrome Slow on Android Fix](/chrome-slow-on-android-fix)
 - [Chrome Not Working on Android Fix](/chrome-not-working-on-android-fix)
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
-- [Chrome Keeps Logging Me Out of Websites Fix](/chrome-keeps-logging-me-out-of-websites-fix)

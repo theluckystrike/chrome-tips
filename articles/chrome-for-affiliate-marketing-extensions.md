@@ -90,8 +90,7 @@ Small improvements in your daily workflow add up to big gains in productivity ov
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
 - [Chrome for Email Marketing Best Extensions](/chrome-for-email-marketing-best-extensions)
-- [Best Chrome Extensions for Marketing Professionals](/best-chrome-extensions-for-marketing-professionals)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

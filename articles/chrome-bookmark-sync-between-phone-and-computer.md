@@ -72,8 +72,7 @@ Having your Chrome bookmarks available on both your phone and computer makes bro
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Sync Phone and Computer How to Set Up](/chrome-sync-phone-and-computer-how-to-set-up)
-- [How to Sync Everything Between Your Phone and Laptop with Chrome](/chrome-sync-everything-between-phone-and-laptop)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
 - [Chrome Sync Between Devices Not Working Fix](/chrome-sync-between-devices-not-working-fix)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)

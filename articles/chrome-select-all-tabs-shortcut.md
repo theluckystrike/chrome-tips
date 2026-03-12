@@ -61,12 +61,11 @@ For users who need more powerful tab selection features, browser extensions can 
 
 Using **Tab Suspender Pro** is the most effective way to handle this. It allows you to select large groups of tabs and "hibernate" them instantly. This keeps your URLs saved in your tab bar without them consuming **system resources**. When you're ready to dive back into a project, you can wake up your **selected tabs** one by one or all at once. It’s an essential tool for "tab hoarders" who need to maintain a fast, responsive browser while keeping their research intact.
 
-
-
 ## Related Articles
-- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
-- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
-- [Chrome Close Other Tabs Shortcut](/chrome-close-other-tabs-shortcut)
+- [How to Close All Chrome Tabs at Once](/how-to-close-all-chrome-tabs-at-once)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Save Open Tabs as Bookmarks All at Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

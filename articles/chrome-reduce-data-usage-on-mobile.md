@@ -82,11 +82,10 @@ Reducing Chrome's data usage on your phone does not require technical knowledge 
 
 Small changes add up quickly. If you normally use several gigabytes of data per month on Chrome alone, implementing these tips could cut that usage in half or more. That means more data for other activities, fewer overage charges, and a more efficient browsing experience overall.
 
-
-
 ## Related Articles
-- [chrome reduce data usage mobile](/chrome-reduce-data-usage-mobile)
-- [chrome data usage on phone how to reduce](/chrome-data-usage-on-phone-how-to-reduce)
+- [Chrome Reduce Memory Usage Android - Complete Guide](/chrome-reduce-memory-usage-android)
 - [Chrome Mobile Tips Save Data Usage](/chrome-mobile-tips-save-data-usage)
+- [Chrome Force Mobile Site on Desktop](/chrome-force-mobile-site-on-desktop)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

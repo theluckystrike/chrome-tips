@@ -75,11 +75,10 @@ The time you invest in setting up a good bibliography system will pay dividends 
 
 ---
 
-
-
 ## Related Articles
-- [Chrome for Bibliography Management Extensions](/chrome-for-bibliography-management-extensions)
-- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
 - [Chrome For Window Management Extensions](/chrome-for-window-management-extensions)
+- [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

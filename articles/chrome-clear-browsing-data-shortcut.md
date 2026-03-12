@@ -80,8 +80,7 @@ The shortcut works instantly and is the fastest way to access this useful featur
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
-- [Chrome How to Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)
-- [Chrome for Clearing Browsing Data Automatically](/chrome-for-clearing-browsing-data-automatically)
+- [Chrome Safe Browsing Should I Turn On](/chrome-safe-browsing-should-i-turn-on)
+- [How To Delete Chrome Browsing Data Automatically](/how-to-delete-chrome-browsing-data-automatically)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)

@@ -55,8 +55,7 @@ By understanding what permissions you have granted and staying proactive about m
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Chrome Extensions for Clipboard Manager](/chrome-extensions-for-clipboard-manager)
 - [Chrome Extensions for Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
-- [Chrome Extensions for Code Snippet Manager](/chrome-extensions-for-code-snippet-manager)
+- [Chrome Extensions for Bookmark Manager](/chrome-extensions-for-bookmark-manager)

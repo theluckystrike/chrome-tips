@@ -73,8 +73,7 @@ Most meeting problems stem from Chrome using too many resources or competing for
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome for Online Exams Best Settings](/chrome-for-online-exams-best-settings)
 - [Chrome for QuickBooks Online Best Settings](/chrome-for-quickbooks-online-best-settings)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+- [Chrome For Tiktok Web Best Settings](/chrome-for-tiktok-web-best-settings)
+- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online)

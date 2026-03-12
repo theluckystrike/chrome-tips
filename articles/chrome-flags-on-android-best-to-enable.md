@@ -79,8 +79,7 @@ If you have been feeling limited by Chrome on your Android phone, try these sugg
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Best Chrome Android Flags to Enable](/best-chrome-android-flags-to-enable)
+- [Chrome Android Flags Best Settings 2026](/chrome-android-flags-best-settings-2026)
 - [Chrome Android Desktop Mode How to Enable](/chrome-android-desktop-mode-how-to-enable)
-- [Chrome Android Dark Mode How to Enable](/chrome-android-dark-mode-how-to-enable)
+- [Chrome Notification Badge on PWA How to Enable](/chrome-notification-badge-on-pwa-how-to-enable)

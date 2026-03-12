@@ -97,8 +97,7 @@ Combine these methods for the best results. Enable Chrome's built-in restore, in
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/chrome-slows-down-after-opening-20-tabs)
-- [Chrome Ask Before Closing Multiple Tabs Setting](/chrome-ask-before-closing-multiple-tabs-setting)
-- [Chrome Restore Tabs Not Working After Update: Practical Fixes](/chrome-restore-tabs-not-working-after-update)
+- [How To Group Tabs In Chrome 2026](/how-to-group-tabs-in-chrome-2026)
+- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)

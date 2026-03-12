@@ -120,11 +120,10 @@ Once everything is set up and working, try not to change things. Elderly users b
 
 If Chrome updates change the interface, take a few minutes to walk them through what's different.
 
-
-
 ## Related Articles
-- [chrome extensions for elderly users simple tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Best Chrome Setup For Graphic Designers](/best-chrome-setup-for-graphic-designers)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome for News Reading Best Setup](/chrome-for-news-reading-best-setup)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -86,8 +86,7 @@ Resetting Chrome is a useful reset button when you need it, but with good habits
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Reset Chrome to Default Settings](/how-to-reset-chrome-to-default-settings)
-- [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
+- [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
+- [Chrome Sync What Data Gets Synced](/chrome-sync-what-data-gets-synced)
+- [Chrome Guest Mode What Gets Saved](/chrome-guest-mode-what-gets-saved)

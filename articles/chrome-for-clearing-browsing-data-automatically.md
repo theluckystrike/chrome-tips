@@ -66,8 +66,7 @@ Whatever method you choose, setting something up is better than doing nothing. E
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [how to delete chrome browsing data automatically](/how-to-delete-chrome-browsing-data-automatically)
-- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
-- [Chrome Guest Browsing: What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)
+- [Chrome Extensions for Faster Browsing](/chrome-extensions-for-faster-browsing)

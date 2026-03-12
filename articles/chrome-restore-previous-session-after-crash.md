@@ -68,8 +68,7 @@ Losing your tabs after a Chrome crash is frustrating, but it does not have to be
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Slow After Hibernation Fix](/chrome-slow-after-hibernation-fix)
 - [Chrome Extensions for Session Saver Restore](/chrome-extensions-for-session-saver-restore)
-- [Chrome Session Restore Not Working Fix](/chrome-session-restore-not-working-fix)
-- [Chrome Restore Tabs Not Working After Update: Practical Fixes](/chrome-restore-tabs-not-working-after-update)

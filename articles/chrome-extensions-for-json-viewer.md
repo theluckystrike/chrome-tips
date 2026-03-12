@@ -79,8 +79,7 @@ Consider keeping a few sample JSON files bookmarked for testing. This way, you c
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Extensions for JSON Viewer Formatter](/chrome-extensions-for-json-viewer-formatter)
-- [Chrome Extensions for HTTP Header Viewer](/chrome-extensions-for-http-header-viewer)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)

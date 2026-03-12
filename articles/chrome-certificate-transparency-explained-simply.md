@@ -74,8 +74,7 @@ Certificate transparency might sound like a technical concept, but it serves a s
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)
-- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
-- [Chrome Extensions Permissions Explained Simply](/chrome-extensions-permissions-explained-simply)
+- [Chrome Lighthouse Performance Score Explained Simply](/chrome-lighthouse-performance-score-explained-simply)
+- [Chrome Privacy Sandbox Explained Simply](/chrome-privacy-sandbox-explained-simply)
+- [Chrome Topics Api Explained Simply](/chrome-topics-api-explained-simply)

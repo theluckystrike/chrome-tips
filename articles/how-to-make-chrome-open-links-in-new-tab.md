@@ -83,8 +83,7 @@ The keyboard shortcut (Ctrl-click or Command-click) is the fastest once you reme
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Open Link in New Tab Shortcut](/chrome-open-link-in-new-tab-shortcut)
-- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
-- [Chrome for Productivity Dashboard New Tab](/chrome-for-productivity-dashboard-new-tab)
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)

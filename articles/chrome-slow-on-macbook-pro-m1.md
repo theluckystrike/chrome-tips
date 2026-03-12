@@ -155,11 +155,10 @@ Most users see significant improvements after just a few of these changes. The M
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
+- [Chrome Slow on iPad Why: Causes and Solutions](/chrome-slow-on-ipad-why)
+- [Chrome Slow Only on My Computer Not Others: Why and How to Fix It](/chrome-slow-only-on-my-computer-not-others)
 - [Chrome Slow on Your Old MacBook? Here's How to Fix It](/chrome-slow-on-old-macbook-fix)
-- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

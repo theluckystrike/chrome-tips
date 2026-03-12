@@ -67,8 +67,7 @@ Start with one extension and give yourself time to adjust to the new workflow. O
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Translation Real Time](/chrome-extensions-for-translation-real-time)
-- [Chrome Extensions for Tab Previewer Hover](/chrome-extensions-for-tab-previewer-hover)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
 - [Chrome for Language Translation Extensions Comparison](/chrome-for-language-translation-extensions-comparison)

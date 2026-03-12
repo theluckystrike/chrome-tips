@@ -66,8 +66,7 @@ Give it a try. Spend a few minutes setting up tab groups with colors that make s
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Tab Groups on Phone How to Use](/chrome-tab-groups-on-phone-how-to-use)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
 - [Chrome Network Tab: How to Use and Debug Network Requests](/chrome-network-tab-how-to-use-debug)
-- [Chrome Devtools Color Picker How to Use](/chrome-devtools-color-picker-how-to-use)
-- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)

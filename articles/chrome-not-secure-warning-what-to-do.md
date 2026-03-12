@@ -54,8 +54,7 @@ Seeing the Chrome not secure warning does not have to be confusing or frightenin
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Lite Mode Discontinued What to Use Instead](/chrome-lite-mode-discontinued-what-to-use-instead)
 - [Chrome Says Not Secure But Site Is Safe](/chrome-says-not-secure-but-site-is-safe)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Privacy Checkup How To Do](/chrome-privacy-checkup-how-to-do)

@@ -82,9 +82,7 @@ The most important thing is finding a system that works for you and gives you pe
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-
-- ['Chrome Slow on iPad Why: Causes and Solutions'](/articles/chrome-slow-on-ipad-why/)
-- [How to Change Your Chrome New Tab Background to a Custom Image](/articles/chrome-new-tab-background-change-custom-image/)
-- [Chrome Web Store How to Leave Review](/articles/chrome-web-store-how-to-leave-review/)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [Chrome Multiple Windows vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
+- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)

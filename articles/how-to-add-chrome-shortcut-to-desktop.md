@@ -63,8 +63,7 @@ Having Chrome just a double-click away on your desktop is one of those small con
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome home screen shortcut how to add on phone](/chrome-home-screen-shortcut-how-to-add-on-phone)
-- [chrome desktop shortcuts how to create](/chrome-desktop-shortcuts-how-to-create)
-- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Site Search Shortcut How To Set Up](/chrome-site-search-shortcut-how-to-set-up)
+- [Chrome Desktop Mode on Phone How to Use](/chrome-desktop-mode-on-phone-how-to-use)
+- [Chrome Family Link How to Use on Desktop](/chrome-family-link-how-to-use-on-desktop)

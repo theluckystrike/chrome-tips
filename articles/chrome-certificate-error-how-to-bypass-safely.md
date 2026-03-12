@@ -74,8 +74,7 @@ Remember that Chrome shows these warnings to protect you. By understanding the i
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Connection Not Private Bypass Safely](/chrome-connection-not-private-bypass-safely)
-- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
-- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/chrome-err-ssl-protocol-error-fix)
+- [How to Share Chrome with Family Safely](/how-to-share-chrome-with-family-safely)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+- [How to Use Chrome Flags Safely](/how-to-use-chrome-flags-safely)

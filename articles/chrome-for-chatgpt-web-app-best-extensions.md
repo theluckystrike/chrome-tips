@@ -73,8 +73,7 @@ Remember that the goal is to make your ChatGPT experience better, not more compl
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
+- [Chrome for Quizlet Web App Best Settings](/chrome-for-quizlet-web-app-best-settings)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)

@@ -70,11 +70,10 @@ Changing your Chrome new tab background to a custom image is a simple yet effect
 
 By taking a few minutes to set up a custom background that resonates with you, you can transform an ordinary part of your daily workflow into something more enjoyable. The new tab page does not have to be a bland, forgettable space—make it your own and enjoy a more personalized Chrome experience.
 
-
-
 ## Related Articles
-- [chrome for custom new tab page extensions](/chrome-for-custom-new-tab-page-extensions)
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
-- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
+- [Chrome New Tab Page Minimalist Extensions](/chrome-new-tab-page-minimalist-extensions)
+- [Chrome Freezes When Opening New Tab Fix](/chrome-freezes-when-opening-new-tab-fix)
+- [Chrome for Productivity Dashboard New Tab](/chrome-for-productivity-dashboard-new-tab)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

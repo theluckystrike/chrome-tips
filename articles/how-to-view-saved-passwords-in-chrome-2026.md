@@ -72,8 +72,7 @@ With your passwords easily accessible, you can log into your accounts quickly an
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Page Source How to View Explained](/chrome-page-source-how-to-view-explained)
 - [Chrome Saved Passwords How to View](/chrome-saved-passwords-how-to-view)
-- [Chrome Saved Passwords How to See Them](/chrome-saved-passwords-how-to-see-them)
-- [Chrome Passwords on Phone How to View](/chrome-passwords-on-phone-how-to-view)
+- [How To Group Tabs In Chrome 2026](/how-to-group-tabs-in-chrome-2026)

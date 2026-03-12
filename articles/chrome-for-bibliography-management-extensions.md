@@ -83,8 +83,7 @@ The time you invest in setting up a good bibliography system will pay dividends 
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Extensions for Bibliography Management](/chrome-extensions-for-bibliography-management)
-- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
-- [Chrome For Window Management Extensions](/chrome-for-window-management-extensions)
+- [Best Chrome Extensions for Email Management](/best-chrome-extensions-for-email-management)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)

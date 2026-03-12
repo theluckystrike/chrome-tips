@@ -53,8 +53,7 @@ The important thing is to take advantage of the tools that are available to you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Built in Password Checkup How to Use](/chrome-built-in-password-checkup-how-to-use)
+- [Chrome Shopping List Feature How to Use](/chrome-shopping-list-feature-how-to-use)
 - [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Password Checkup Tool Guide](/chrome-password-checkup-tool)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)

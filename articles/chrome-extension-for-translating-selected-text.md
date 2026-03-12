@@ -71,11 +71,10 @@ Start by trying one of the extensions mentioned above. Most offer free versions 
 
 The best translation extension is the one that fits seamlessly into your workflow without adding friction. When translation becomes effortless, the language barrier fades away, and you can focus on the content itself.
 
-
-
 ## Related Articles
-- [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
-- [Chrome Extension for Highlighting Text on Websites](/chrome-extension-for-highlighting-text-on-websites)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome Extension for Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

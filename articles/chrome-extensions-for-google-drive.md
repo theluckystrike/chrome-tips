@@ -70,8 +70,7 @@ Remember to keep your extension list lean, only adding what you will actually us
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [best chrome extensions for google drive](/best-chrome-extensions-for-google-drive)
-- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
+- [Chrome Extensions for Google Meet](/chrome-extensions-for-google-meet)
 - [Chrome Extensions for Google Forms](/chrome-extensions-for-google-forms)
+- [Best Chrome Extensions for Google Drive](/best-chrome-extensions-for-google-drive)

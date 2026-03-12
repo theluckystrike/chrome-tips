@@ -65,11 +65,10 @@ Beyond locking safe search, there are other steps you can take to create a safer
 
 For parents, having open conversations with children about internet safety is just as important as technical controls. Explain why certain content is filtered and teach them how to make good decisions online. Technical tools work best when combined with education and open communication about browsing habits.
 
-
-
 ## Related Articles
-- [How to Lock Safe Search in Chrome for Children](/chrome-safe-search-lock-for-children)
-- [chrome safe search how to force enable](/chrome-safe-search-how-to-force-enable)
-- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
+- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
+- [Chrome Image Search By Url How To](/chrome-image-search-by-url-how-to)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

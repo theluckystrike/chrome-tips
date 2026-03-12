@@ -74,8 +74,7 @@ The goal is not to memorize every shortcut, but to find the ones that match how 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
-- [Chrome Address Bar Tips and Tricks](/chrome-address-bar-tips-and-tricks)
+- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
 - [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know)
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)

@@ -66,11 +66,10 @@ Remember that you have options when a site performs poorly. You can look for alt
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Web Vitals What They Mean](/chrome-web-vitals-what-they-mean)
-- [Chrome for MDN Web Docs Extension](/chrome-for-mdn-web-docs-extension)
-- [chrome web bluetooth how to use](/chrome-web-bluetooth-how-to-use)
+- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [Chrome Sensors Emulation How to Use](/chrome-sensors-emulation-how-to-use)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -76,8 +76,7 @@ The key is to periodically check your notification permissions and remove access
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [How to Turn Off Chrome Notifications Permanently](/how-to-turn-off-chrome-notifications-permanently)
-- [How to Turn Off Autocomplete in Chrome](/chrome-how-to-turn-off-autocomplete)
-- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
+- [Chrome Ad Personalization How To Turn Off](/chrome-ad-personalization-how-to-turn-off)
+- [Chrome Location Services How To Turn Off](/chrome-location-services-how-to-turn-off)

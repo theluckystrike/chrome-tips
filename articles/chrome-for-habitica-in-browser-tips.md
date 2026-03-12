@@ -87,8 +87,7 @@ Give these tips a try and see which ones work best for your workflow. A few smal
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
+- [Chrome for Microsoft Teams in Browser Tips](/chrome-for-microsoft-teams-in-browser-tips)
 - [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
-- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)

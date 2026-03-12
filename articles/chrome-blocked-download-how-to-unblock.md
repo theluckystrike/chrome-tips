@@ -95,8 +95,7 @@ Finally, contact the website where the download is hosted. They might be aware o
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
 - [How to Change Default Download Location Chrome](/how-to-change-default-download-location-chrome)
-- [Chrome Download Files on Phone Where to Find](/chrome-download-files-on-phone-where-to-find)
+- [Chrome Default Download Location How to Set](/chrome-default-download-location-how-to-set)

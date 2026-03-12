@@ -57,8 +57,7 @@ With the right extensions installed, Chrome can feel like a brand new browser ag
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
-- [Chrome Prerender Pages Faster Browsing: Complete Guide](/chrome-prerender-pages-faster-browsing)
-- [Chrome for Real Estate Browsing Extensions](/chrome-for-real-estate-browsing-extensions)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome for NFT Browsing Extensions](/chrome-for-nft-browsing-extensions)
+- [Chrome for Web3 Browsing Extensions](/chrome-for-web3-browsing-extensions)

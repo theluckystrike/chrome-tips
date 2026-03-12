@@ -69,8 +69,7 @@ If you have been missing Lite Mode, try exploring the alternatives mentioned her
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Lite Mode Does It Still Exist](/chrome-lite-mode-does-it-still-exist)
-- [Chrome Android Desktop Mode How to Enable](/chrome-android-desktop-mode-how-to-enable)
-- [Chrome Lite Mode Discontinued What to Use Instead](/chrome-lite-mode-discontinued-what-to-use-instead)
+- [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
+- [How to Block Ads on Chrome Android](/how-to-block-ads-on-chrome-android)
+- [Chrome Reader Mode How To Turn On 2026](/chrome-reader-mode-how-to-turn-on-2026)

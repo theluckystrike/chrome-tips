@@ -77,8 +77,7 @@ For occasional users, however, the convenience of browser-based tools usually ou
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
-- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac)
+- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
+- [Chrome For Twitch Streaming Setup In Browser](/chrome-for-twitch-streaming-setup-in-browser)
+- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)

@@ -52,8 +52,7 @@ This kind of improvement is part of a larger trend in web development where webs
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome mutation observer api explained](/chrome-mutation-observer-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
 - [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained)
-- [Chrome Intersection Observer API Explained](/chrome-intersection-observer-api-explained)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)

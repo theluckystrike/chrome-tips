@@ -65,11 +65,10 @@ Some users also find that switching to a lighter-weight browser helps, particula
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Extension Permissions Too Many Warning](/chrome-extension-permissions-too-many-warning)
-- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)
-- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)
+- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-task-manager-find-heavy-tabs)
+- [Chrome Too Many Redirects Error Fix](/chrome-too-many-redirects-error-fix)
+- [Why Does Chrome Open So Many Processes](/why-does-chrome-open-so-many-processes)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

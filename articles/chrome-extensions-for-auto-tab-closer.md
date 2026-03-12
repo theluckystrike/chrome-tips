@@ -75,11 +75,10 @@ Remember that managing tabs is about more than just performance. It is also abou
 
 ---
 
-
-
 ## Related Articles
-- [chrome extensions for tab suspender auto](/chrome-extensions-for-tab-suspender-auto)
+- [Chrome Extensions for Cookie Auto Delete](/chrome-extensions-for-cookie-auto-delete)
 - [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
-- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
+- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

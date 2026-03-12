@@ -72,8 +72,7 @@ Streaming should be enjoyable, not frustrating. With a few tweaks to Chrome's se
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Amazon Prime Video Quality Settings](/chrome-for-amazon-prime-video-quality-settings)
-- [Chrome Streaming Video Buffering Fix](/chrome-streaming-video-buffering-fix)
-- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [Best Chrome Extensions for Video Editors](/best-chrome-extensions-for-video-editors)

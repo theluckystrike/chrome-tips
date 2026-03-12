@@ -61,8 +61,7 @@ Remember that while these solutions make browsing more pleasant, they do not cha
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extension for Blocking Cookie Popups](/chrome-extension-for-blocking-cookie-popups)
-- [Chrome Cookie Consent Popups How to Auto Reject](/chrome-cookie-consent-popups-how-to-auto-reject)
-- [Chrome Cookie Consent Popups How to Handle](/chrome-cookie-consent-popups-how-to-handle)
+- [Chrome Extensions for Blocking Distracting Websites](/chrome-extensions-for-blocking-distracting-websites)
+- [Chrome Cookie Consent Popups How to Auto Accept](/chrome-cookie-consent-popups-how-to-auto-accept)
+- [Chrome Allow Popups for One Site How To](/chrome-allow-popups-for-one-site-how-to)

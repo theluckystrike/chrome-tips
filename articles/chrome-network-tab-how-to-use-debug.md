@@ -164,11 +164,10 @@ The Chrome Network tab is an incredibly powerful tool that goes far beyond just 
 
 Whether you're debugging a production issue, optimizing your own website, or just curious about how web applications work, spending time with the Network tab pays off. And remember—if you're working with many open tabs and noticing performance issues, **Tab Suspender Pro** can help by automatically suspending tabs you're not using, freeing up resources and connections for the work that matters most.
 
-
-
 ## Related Articles
-- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
-- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
-- [Chrome Tab Color Coding How to Use](/chrome-tab-color-coding-how-to-use)
+- [Chrome Tab to Search Feature How to Use](/chrome-tab-to-search-feature-how-to-use)
+- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
+- [Chrome Tab Stacking How to Use](/chrome-tab-stacking-how-to-use)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

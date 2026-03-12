@@ -72,8 +72,7 @@ Remember that most websites require JavaScript to function properly. While disab
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome javascript disable for one site how to](/chrome-javascript-disable-for-one-site-how-to)
-- [How to Disable Chrome Notifications Permanently](/how-to-disable-chrome-notifications-permanently)
-- [Chrome for Accessibility Testing Extensions](/chrome-for-accessibility-testing-extensions)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Chrome for Page Load Speed Testing](/chrome-for-page-load-speed-testing)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)

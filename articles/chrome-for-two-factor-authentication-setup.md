@@ -82,8 +82,7 @@ Start with your most important accounts, like your Google account and your prima
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Two Factor Authentication Setup Guide](/chrome-two-factor-authentication-setup-guide)
-- [Chrome Two Factor Authentication Setup](/chrome-two-factor-authentication-setup)
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome for Research Workflow Best Setup](/chrome-for-research-workflow-best-setup)
+- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)

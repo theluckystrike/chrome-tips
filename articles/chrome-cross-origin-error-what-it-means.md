@@ -67,8 +67,7 @@ The next time you see one of these error messages, remember that Chrome is doing
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Cross-Origin Isolation Explained](/chrome-cross-origin-isolation-explained)
-- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome Mixed Content Warning What It Means](/chrome-mixed-content-warning-what-it-means)
+- [Chrome Forced Extensions by Admin What It Means](/chrome-forced-extensions-by-admin-what-it-means)
+- [Chrome Tab Discard What It Means](/chrome-tab-discard-what-it-means)

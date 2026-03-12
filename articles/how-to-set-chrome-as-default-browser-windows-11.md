@@ -81,8 +81,7 @@ Give it a try and see how it improves your browsing. Once Chrome is set as your 
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [chrome default browser how to set on windows](/chrome-default-browser-how-to-set-on-windows)
-- [chrome default browser how to set windows mac](/chrome-default-browser-how-to-set-windows-mac)
-- [how to make chrome default browser windows 11](/how-to-make-chrome-default-browser-windows-11)
+- [Chrome Zoom Level How to Set Default](/chrome-zoom-level-how-to-set-default)
+- [Chrome Default Download Location How to Set](/chrome-default-download-location-how-to-set)
+- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)

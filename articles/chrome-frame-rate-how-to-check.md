@@ -61,8 +61,7 @@ Watch the number of extensions you install. Each extension adds some overhead to
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
-- [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version)
-- [Chrome Spell Check Wrong Language Fix](/chrome-spell-check-wrong-language-fix)
+- [How to Check Website Speed in Chrome](/how-to-check-website-speed-in-chrome)
+- [Chrome Browser Fingerprint How To Check Yours](/chrome-browser-fingerprint-how-to-check-yours)
+- [Chrome Security Panel How to Check SSL](/chrome-security-panel-how-to-check-ssl)

@@ -115,11 +115,10 @@ Chrome's blackbox script feature is an essential tool for any web developer who 
 
 Take some time to set up blackbox patterns for the libraries you use most frequently. You'll be surprised how much more productive your debugging sessions become when you can focus on your code alone.
 
-
-
 ## Related Articles
-- [chrome source maps debug minified code](/chrome-source-maps-debug-minified-code)
-- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
+- [Chrome Source Maps Debug Minified Code](/chrome-source-maps-debug-minified-code)
+- [How to Inspect and Debug WebSocket Connections in Chrome](/chrome-websocket-inspect-debug)
 - [Chrome Status Code 502 Bad Gateway Fix](/chrome-status-code-502-bad-gateway-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

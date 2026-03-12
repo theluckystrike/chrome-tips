@@ -52,8 +52,7 @@ If you are looking for a straightforward way to manage zoom along with other bro
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Extensions for Auto Refresh Page](/chrome-extensions-for-auto-refresh-page)
+- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
 - [Chrome Zoom Level Per Site How to Set](/chrome-zoom-level-per-site-how-to-set)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)

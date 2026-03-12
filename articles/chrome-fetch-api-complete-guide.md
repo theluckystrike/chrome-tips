@@ -79,8 +79,7 @@ As web technologies continue to evolve, the Fetch API remains a reliable tool fo
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome CSS Grid Layout Complete Guide](/chrome-css-grid-layout-complete-guide)
 - [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
-- [Chrome Topics API Guide](/chrome-topics-api-guide)
+- [Chrome Privacy Settings Complete Guide 2026](/chrome-privacy-settings-complete-guide-2026)

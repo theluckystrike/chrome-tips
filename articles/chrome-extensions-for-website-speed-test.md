@@ -77,8 +77,7 @@ The tools are there, they are easy to use, and the information they provide is v
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Extensions for Website Archiving](/chrome-extensions-for-website-archiving)
 - [Chrome Extensions for Website Testing](/chrome-extensions-for-website-testing)
 - [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
+- [Chrome Extensions for Website Monitoring Changes](/chrome-extensions-for-website-monitoring-changes)

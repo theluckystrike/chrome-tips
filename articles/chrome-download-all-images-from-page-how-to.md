@@ -48,8 +48,7 @@ How to download all images from a web page in Chrome? The answer is that you nee
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
-- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+- [Chrome Page Source How to View Explained](/chrome-page-source-how-to-view-explained)
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How to Use Chrome Translate Page](/chrome-translate-page-how-to-use)

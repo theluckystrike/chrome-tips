@@ -79,11 +79,10 @@ Testing is the best way to know the real impact on your specific laptop. Try usi
 
 ---
 
-
-
 ## Related Articles
-- [Chrome vs Edge Battery Life Laptop Comparison](/chrome-vs-edge-battery-life-laptop-comparison)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [Chrome vs Firefox Battery Life: Which Browser Saves More Power](/chrome-vs-firefox-battery-life)
+- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)
+- [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/chrome-vs-edge-on-windows-11)
+- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

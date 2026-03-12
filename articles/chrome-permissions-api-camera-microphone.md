@@ -196,11 +196,10 @@ For developers building media-heavy applications, consider implementing your own
 
 ---
 
-
-
 ## Related Articles
+- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
 - [Chrome Camera Microphone Permission Manage: Complete Guide](/chrome-camera-microphone-permission-manage)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

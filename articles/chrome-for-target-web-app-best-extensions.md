@@ -75,8 +75,7 @@ Remember that the goal is to make your Target experience better, not more compli
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for ChatGPT Web App Best Extensions](/chrome-for-chatgpt-web-app-best-extensions)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
+- [Chrome for edX Web App Best Settings](/chrome-for-edx-web-app-best-settings)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)

@@ -81,8 +81,7 @@ Try these methods next time you see an interesting image and want to learn more.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [chrome search by image right click how to](/chrome-search-by-image-right-click-how-to)
-- [chrome extensions for image reverse search](/chrome-extensions-for-image-reverse-search)
-- [How to Do a Reverse Image Search in Chrome Without an Extension](/chrome-reverse-image-search-without-extension)
+- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+- [Chrome Safe Search How to Lock](/chrome-safe-search-how-to-lock)

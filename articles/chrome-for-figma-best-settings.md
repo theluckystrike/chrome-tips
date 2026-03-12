@@ -91,8 +91,7 @@ Every computer is different, so you might need to experiment with a few settings
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
-- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
+- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/best-chrome-settings-for-chromebook)
+- [Chrome for Zoom in Browser Best Settings](/chrome-for-zoom-in-browser-best-settings)
+- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)

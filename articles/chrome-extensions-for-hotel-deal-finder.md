@@ -67,8 +67,7 @@ Once you start using these tools consistently, you will notice the savings addin
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome extensions for similar image finder](/chrome-extensions-for-similar-image-finder)
-- [Chrome Extensions for Email Finder](/chrome-extensions-for-email-finder)
-- [Chrome Extensions for Duplicate Tab Finder](/chrome-extensions-for-duplicate-tab-finder)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)

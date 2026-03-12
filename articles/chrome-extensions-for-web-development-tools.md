@@ -69,8 +69,7 @@ It is also worth periodically reviewing your installed extensions and removing o
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Extensions for Web Automation Free](/chrome-extensions-for-web-automation-free)
 - [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [chrome extensions for elderly users simple tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
+- [Chrome Extensions for Web Annotation](/chrome-extensions-for-web-annotation)

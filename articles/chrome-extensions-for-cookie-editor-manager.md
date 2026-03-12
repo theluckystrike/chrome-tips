@@ -69,8 +69,7 @@ While cookie editors give you direct control over individual cookies, managing a
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
-- [Chrome Extensions for Code Snippet Manager](/chrome-extensions-for-code-snippet-manager)
-- [chrome bookmark manager best extensions 2026](/chrome-bookmark-manager-best-extensions-2026)
+- [Chrome Extensions for Cookie Auto Delete](/chrome-extensions-for-cookie-auto-delete)
+- [Chrome Extensions for Bookmark Manager](/chrome-extensions-for-bookmark-manager)
+- [Chrome Extensions for Markdown Editor Preview](/chrome-extensions-for-markdown-editor-preview)

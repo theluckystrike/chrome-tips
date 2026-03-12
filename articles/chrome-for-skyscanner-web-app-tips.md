@@ -70,8 +70,7 @@ Instead of just opening Skyscanner in a regular tab, you can install it as a web
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome For Mailchimp Web App Tips](/chrome-for-mailchimp-web-app-tips)
+- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
 - [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
-- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)
-- [chrome for asana web app tips](/chrome-for-asana-web-app-tips)

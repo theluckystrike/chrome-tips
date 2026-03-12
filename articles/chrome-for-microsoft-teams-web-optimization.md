@@ -79,8 +79,7 @@ By implementing these adjustments, you should notice faster response times in Te
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Microsoft Teams Web Slow Fix](/chrome-microsoft-teams-web-slow-fix)
-- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
 - [Chrome for Spotify Web Player Optimization](/chrome-for-spotify-web-player-optimization)
+- [Chrome for Discord Web App Optimization](/chrome-for-discord-web-app-optimization)
+- [Chrome Microsoft Teams Web Slow Fix](/chrome-microsoft-teams-web-slow-fix)

@@ -65,11 +65,10 @@ Form filling does not have to be a tedious chore. With the right chrome extensio
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Extension for Auto Scroll Pages](/chrome-extension-for-auto-scroll-pages)
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
+- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
+- [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

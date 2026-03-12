@@ -162,11 +162,10 @@ If you've tried everything and ChatGPT is still slow, the issue might be on Open
 
 ---
 
-
-
 ## Related Articles
-- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
-- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
-- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
+- [Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM](/chrome-canvas-rendering-slow-fix)
+- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
+- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

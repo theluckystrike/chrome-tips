@@ -89,11 +89,10 @@ Start small—create a few groups for your most common workflows and see how muc
 
 ---
 
-
-
 ## Related Articles
-- [How to Group Tabs in Chrome 2026](/how-to-group-tabs-in-chrome-2026)
-- [Best Way to Organize Chrome Tabs](/best-way-to-organize-chrome-tabs)
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome Keeps Opening New Tabs By Itself Virus](/chrome-keeps-opening-new-tabs-by-itself-virus)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

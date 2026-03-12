@@ -63,8 +63,7 @@ One useful tool to manage your browser resources is Tab Suspender Pro. It helps 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Extensions For Privacy Badger Alternative](/chrome-extensions-for-privacy-badger-alternative)
 - [Chrome Extension Alternative to Grammarly Free](/chrome-extension-alternative-to-grammarly-free)
-- [Chrome Extensions for Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
-- [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
+- [Chrome Extensions for Web Automation Free](/chrome-extensions-for-web-automation-free)

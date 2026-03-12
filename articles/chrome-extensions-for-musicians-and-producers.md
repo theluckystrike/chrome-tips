@@ -75,8 +75,7 @@ Start with one or two extensions that address your biggest pain points. Once you
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Extensions for Writers and Bloggers](/chrome-extensions-for-writers-and-bloggers)
+- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
 - [Best Chrome Extensions for Musicians](/best-chrome-extensions-for-musicians)
-- [Chrome Extensions for Musicians](/chrome-extensions-for-musicians)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

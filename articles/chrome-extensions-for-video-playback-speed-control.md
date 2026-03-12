@@ -71,8 +71,7 @@ Whether you need to speed through mandatory training videos, slow down a tutoria
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
-- [Chrome Extensions for Reverse Video Search](/chrome-extensions-for-reverse-video-search)
-- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)
+- [Chrome Best Extensions for Parental Control](/chrome-best-extensions-for-parental-control)
+- [Best Chrome Extensions for Video Editors](/best-chrome-extensions-for-video-editors)

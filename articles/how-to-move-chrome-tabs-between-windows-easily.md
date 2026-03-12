@@ -73,8 +73,7 @@ Moving tabs between windows does not have to be complicated. With drag and drop,
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Drag and Drop Tabs Between Windows in Chrome: A Complete Guide](/chrome-drag-drop-tabs-between-windows)
-- [Chrome Move Tabs Between Profiles](/chrome-move-tabs-between-profiles)
-- [Chrome Switch Between Windows Shortcut](/chrome-switch-between-windows-shortcut)
+- [How To Make Chrome Default Browser Windows 11](/how-to-make-chrome-default-browser-windows-11)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [How to Make Chrome Remember Tabs After Closing](/how-to-make-chrome-remember-tabs-after-closing)

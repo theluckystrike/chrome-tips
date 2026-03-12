@@ -77,11 +77,10 @@ Start with the simple fixes like restarting Chrome and clearing cache, then move
 
 If nothing seems to work, remember that you can always reach out to Chrome support or your computer manufacturer for additional help. Most touchpad gesture issues can be resolved with some patience and systematic troubleshooting.
 
-
-
 ## Related Articles
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
+- [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
+- [Chrome Camera Not Working Fix](/chrome-camera-not-working-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

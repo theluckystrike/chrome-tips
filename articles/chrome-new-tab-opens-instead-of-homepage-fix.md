@@ -101,8 +101,7 @@ Using a tool like Tab Suspender Pro can serve as an extra layer of protection. I
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
+- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)
 - [Chrome Freezes When Opening New Tab Fix](/chrome-freezes-when-opening-new-tab-fix)
-- [Chrome Tab Crashed He Dead Fix](/chrome-tab-crashed-he-dead-fix)
+- [Chrome Keeps Logging Me Out of Sites Fix](/chrome-keeps-logging-me-out-of-sites-fix)

@@ -71,8 +71,7 @@ Once you have installed a few extensions, take some time to explore their settin
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Amazon FBA Sellers](/chrome-extensions-for-amazon-fba-sellers)
-- [Best Chrome Extensions for Online Sellers](/best-chrome-extensions-for-online-sellers)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
 - [Chrome for Etsy Seller Best Extensions](/chrome-for-etsy-seller-best-extensions)
+- [Chrome Extensions for Amazon FBA Sellers](/chrome-extensions-for-amazon-fba-sellers)

@@ -84,11 +84,10 @@ If you find yourself juggling many browser tabs while shopping online, you might
 
 Using a tab management extension like **Tab Suspender Pro** complements the **Payment Request API** nicely. Your checkout process stays fast and responsive because Chrome has more resources available when you are ready to complete your purchase. It is a simple way to improve your overall Chrome experience while shopping online.
 
-
-
 ## Related Articles
-- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
 - [Chrome Payment Request API Guide](/chrome-payment-request-api)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Incognito What Can My Employer See](/chrome-incognito-what-can-my-employer-see)
+- [Chrome V8 Engine What It Means for Users](/chrome-v8-engine-what-it-means-for-users)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

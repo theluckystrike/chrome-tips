@@ -69,11 +69,10 @@ If you find yourself frequently losing track of open tabs and needing to revisit
 
 The extension works automatically in the background, so you do not need to manually manage which tabs are active. When you return to a suspended tab, it reloads instantly so you can continue exactly where you left off. This is just one tool among many that can help improve your Chrome experience.
 
-
-
 ## Related Articles
-- [Chrome Open Downloads Page Shortcut](/chrome-open-downloads-page-shortcut)
-- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
-- [Chrome Scroll to Top of Page Shortcut](/chrome-scroll-to-top-of-page-shortcut)
+- [Chrome Bookmark Current Page Shortcut](/chrome-bookmark-current-page-shortcut)
+- [Chrome Open Settings Shortcut](/chrome-open-settings-shortcut)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

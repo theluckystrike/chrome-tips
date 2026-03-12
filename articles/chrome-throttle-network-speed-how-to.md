@@ -83,11 +83,10 @@ For students or anyone working on older computers, reducing network demands can 
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Network Speed in Developer Tools](/chrome-network-speed-in-developer-tools)
-- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome Network Tab: How to Use and Debug Network Requests](/chrome-network-tab-how-to-use-debug)
 - [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

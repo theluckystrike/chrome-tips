@@ -102,11 +102,10 @@ Picture in Picture is one of those Chrome features that becomes indispensable on
 
 ---
 
-
-
 ## Related Articles
-- [chrome voice search how to use](/chrome-voice-search-how-to-use)
-- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
+- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
 - [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [Chrome Virus Scan Built in How to Use](/chrome-virus-scan-built-in-how-to-use)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

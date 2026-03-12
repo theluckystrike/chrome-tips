@@ -71,11 +71,10 @@ Start with the quick fixes, enable the built-in performance features, and consid
 
 ---
 
-
-
 ## Related Articles
-- [Why Chrome Is Slow on Battery But Fast When Plugged In](/chrome-slow-on-battery-but-fast-plugged-in)
-- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
-- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [Chrome Web Vitals What They Mean](/chrome-web-vitals-what-they-mean)
+- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

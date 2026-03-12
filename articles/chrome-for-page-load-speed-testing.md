@@ -65,8 +65,7 @@ Restarting Chrome periodically also helps. Over time, Chrome can accumulate cach
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [What Is Chrome Paint Holding and How It Speeds Up Page Load](/chrome-paint-holding-page-load)
-- [Chrome New Tab Page Slow to Load: Complete Fix Guide](/chrome-new-tab-page-slow-to-load)
-- [Chrome Extension for Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time)
+- [Chrome for Speed Reading Extensions](/chrome-for-speed-reading-extensions)
+- [Chrome Extensions for Website Testing](/chrome-extensions-for-website-testing)
+- [Chrome Extensions For Screenshot Full Page](/chrome-extensions-for-screenshot-full-page)

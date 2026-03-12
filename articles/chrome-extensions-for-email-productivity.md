@@ -75,8 +75,7 @@ Remember that more extensions is not always better. Each extension adds some ove
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Email Productivity Extensions](/chrome-for-email-productivity-extensions)
-- [Chrome Extensions for Productivity Students](/chrome-extensions-for-productivity-students)
-- [Chrome Extensions for Email Tracking](/chrome-extensions-for-email-tracking)
+- [Chrome For Gmail Productivity Extensions](/chrome-for-gmail-productivity-extensions)
+- [Best Chrome Extensions for Email Management](/best-chrome-extensions-for-email-management)
+- [Chrome Extensions for Productivity Dashboard](/chrome-extensions-for-productivity-dashboard)

@@ -70,8 +70,7 @@ Typing math symbols in Chrome does not have to be a headache. Whether you prefer
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
 - [Chrome Unicode Symbols How to Insert](/chrome-unicode-symbols-how-to-insert)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

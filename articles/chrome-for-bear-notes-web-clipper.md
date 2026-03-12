@@ -77,8 +77,7 @@ By taking the time to set up a method that works for you and following the tips 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for onenote web clipper setup](/chrome-for-onenote-web-clipper-setup)
+- [Chrome For Pinterest Web Clipper](/chrome-for-pinterest-web-clipper)
 - [Chrome for Instapaper Web Clipper](/chrome-for-instapaper-web-clipper)
-- [Chrome for Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
+- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)

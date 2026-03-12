@@ -87,8 +87,7 @@ If you are looking for ways to improve your Chrome experience overall, consider 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
-- [Chrome HTTPS First Mode Guide](/chrome-https-first-mode)
-- [Chrome DNS Over HTTPS How to Enable](/chrome-dns-over-https-how-to-enable)
+- [Chrome High Contrast Mode How To Enable](/chrome-high-contrast-mode-how-to-enable)
+- [Chrome Restricted Mode Youtube How To Enable](/chrome-restricted-mode-youtube-how-to-enable)
+- [Chrome Android Desktop Mode How to Enable](/chrome-android-desktop-mode-how-to-enable)

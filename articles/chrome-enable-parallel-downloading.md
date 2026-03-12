@@ -59,11 +59,10 @@ Organizing your downloads folder also helps. When Chrome saves multiple files to
 
 ---
 
-
-
 ## Related Articles
-- [How to Enable Chrome Parallel Downloading](/how-to-enable-chrome-parallel-downloading)
-- [How to Enable Parallel Downloading in Chrome for Faster Downloads](/chrome-parallel-downloading-enable-speed-up)
-- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)
+- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)
+- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
+- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -154,11 +154,10 @@ Chrome not loading pages while your internet works is frustrating, but it's usua
 
 For most users, clearing the cache and disabling problematic extensions does the trick. If you keep many tabs open and notice Chrome getting sluggish, **Tab Suspender Pro** can help by managing your tabs more efficiently and freeing up system resources.
 
-
-
 ## Related Articles
-- [Chrome ERR_INTERNET_DISCONNECTED But Internet Works Fix](/chrome-err-internet-disconnected-but-internet-works-fix)
-- [Chrome Images Not Loading Fix](/chrome-images-not-loading-fix)
-- [Chrome Says Not Secure But Site Is Safe](/chrome-says-not-secure-but-site-is-safe)
+- [Chrome Web Store Not Loading Fix](/chrome-web-store-not-loading-fix)
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

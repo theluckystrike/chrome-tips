@@ -70,8 +70,7 @@ Regardless of which VPN extension you choose, keeping your browser running effic
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
-- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
-- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome Dark Reader Extension Worth It](/chrome-dark-reader-extension-worth-it)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chrome Extension for Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)

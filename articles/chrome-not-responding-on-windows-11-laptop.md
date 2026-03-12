@@ -78,8 +78,7 @@ Finally, keep your system clean by running regular disk cleanup and making sure 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
-- [Chrome Not Responding Force Close and Recover](/chrome-not-responding-force-close-and-recover)
-- [Chrome Not Responding How to Force Close Safely](/chrome-not-responding-how-to-force-close-safely)
+- [Chrome Slow on Windows 11 After Update: Practical Fixes](/chrome-slow-on-windows-11-after-update)
+- [Chrome Not Working on Android Fix](/chrome-not-working-on-android-fix)
+- [Chrome Opens on Startup Windows: How to Stop](/chrome-opens-on-startup-windows-how-to-stop)

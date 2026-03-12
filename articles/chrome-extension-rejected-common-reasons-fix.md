@@ -81,11 +81,10 @@ If your extension is rejected, read the rejection reason carefully. The review t
 
 If you run multiple extensions or need to manage browser resources efficiently, consider using Tab Suspender Pro to automatically suspend tabs you are not actively using. This helps keep Chrome running smoothly and can improve the performance of any extension you develop. It frees up memory and CPU resources, which can be particularly helpful during extension development and testing.
 
-
-
 ## Related Articles
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
-- [Chrome LastPass Extension Slow Fix](/chrome-lastpass-extension-slow-fix)
-- [chrome net err cert common name invalid fix](/chrome-net-err-cert-common-name-invalid-fix)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+- [Chrome Net Err Cert Common Name Invalid Fix](/chrome-net-err-cert-common-name-invalid-fix)
+- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -75,8 +75,7 @@ Give it a try on your next webpage. You will be surprised at how easy it is to g
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome extensions for screenshot full page](/chrome-extensions-for-screenshot-full-page)
-- [Chrome Devtools Screenshot Full Page](/chrome-devtools-screenshot-full-page)
-- [How to Capture Full Page Screenshots in Chrome Using DevTools](/chrome-screenshot-capture-devtools-full-page)
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)

@@ -106,11 +106,10 @@ Start by converting your most important accounts—email, banking, and shopping 
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Passkeys Guide 2026](/chrome-passkeys-guide-2026)
 - [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
-- [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
+- [Chrome Privacy Settings Complete Guide 2026](/chrome-privacy-settings-complete-guide-2026)
+- [Chrome Passkeys Guide 2026](/chrome-passkeys-guide-2026)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -71,11 +71,10 @@ One solution that many users find helpful is Tab Suspender Pro, which automatica
 
 This approach complements the work that developers do with tools like the User Timing API. Even the fastest website can feel sluggish if your browser is struggling with too many open tabs. By managing your tabs effectively, you ensure that every website you visit can perform at its best.
 
-
-
 ## Related Articles
 - [Chrome Navigation Timing API Explained](/chrome-navigation-timing-api-explained)
-- [Chrome Event Timing API Explained](/chrome-event-timing-api-explained)
-- [Chrome Resource Timing API Explained](/chrome-resource-timing-api-explained)
+- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

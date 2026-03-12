@@ -70,8 +70,7 @@ With your passwords safely transferred, you can enjoy the peace of mind that com
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
-- [Chrome Passkeys vs Passwords Comparison](/chrome-passkeys-vs-passwords-comparison)
-- [Chrome Extension for Saving Passwords Securely](/chrome-extension-for-saving-passwords-securely)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+- [Chrome Saved Passwords How to View](/chrome-saved-passwords-how-to-view)

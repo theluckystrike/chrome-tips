@@ -80,8 +80,7 @@ With these tips, you can make the most of Waze web in Chrome and navigate with c
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
-- [chrome for odysee web player tips](/chrome-for-odysee-web-player-tips)
-- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
+- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
+- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)
+- [Chrome for Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)

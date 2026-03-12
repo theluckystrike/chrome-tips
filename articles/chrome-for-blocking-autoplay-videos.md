@@ -70,8 +70,7 @@ Finally, remember that you have the power to close tabs and windows that are cau
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
-- [Chrome for Website Blocking During Work](/chrome-for-website-blocking-during-work)
-- [Chrome Not Playing Videos Fix](/chrome-not-playing-videos-fix)
+- [Chrome Extensions for Blocking Distracting Websites](/chrome-extensions-for-blocking-distracting-websites)
+- [Chrome for Blocking Cookie Consent Popups](/chrome-for-blocking-cookie-consent-popups)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)

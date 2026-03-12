@@ -94,8 +94,7 @@ By following these tips and maintaining good browser hygiene, you can enjoy your
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
-- [chrome for odysee web player tips](/chrome-for-odysee-web-player-tips)
-- [chrome for rumble web player settings](/chrome-for-rumble-web-player-settings)
+- [Chrome For Rumble Web Player Settings](/chrome-for-rumble-web-player-settings)
+- [Chrome For Audible Web Player Tips](/chrome-for-audible-web-player-tips)
+- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)

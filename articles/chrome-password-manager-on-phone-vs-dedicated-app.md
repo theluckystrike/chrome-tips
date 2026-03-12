@@ -60,11 +60,10 @@ Both **Chrome's built-in password manager** and dedicated apps have their place.
 
 The most important thing is that you are using some form of password management rather than reusing the same password across multiple accounts. Whether that solution is Chrome's built-in tool or a dedicated app, taking this step makes you much safer online.
 
-
-
 ## Related Articles
-- [Best Password Manager Chrome Extension](/best-password-manager-chrome-extension)
-- [Chrome Password Manager Is It Safe Enough](/chrome-password-manager-is-it-safe-enough)
-- [Chrome Password Manager vs Bitwarden: Which One Should You Use?](/chrome-password-manager-vs-bitwarden)
+- [Chrome Bitwarden vs Chrome Password Manager: Which Should You Use?](/chrome-bitwarden-vs-chrome-password-manager)
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

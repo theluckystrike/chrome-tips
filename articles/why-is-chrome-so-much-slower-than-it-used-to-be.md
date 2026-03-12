@@ -70,8 +70,7 @@ Chrome can feel fast again. It just needs a little attention now and then to sta
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Secure DNS: What It Is and How to Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)
+- [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
 - [Why Is Chrome Slower Than Firefox?](/why-is-chrome-slower-than-firefox)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [Chrome Slower After macOS Update Fix](/chrome-slower-after-macos-update-fix)

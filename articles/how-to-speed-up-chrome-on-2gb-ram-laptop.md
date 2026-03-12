@@ -91,8 +91,7 @@ The key is to reduce the amount of content Chrome needs to load and process. Ext
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/chrome-slow-on-4gb-ram-laptop)
-- [Best Browser for 2GB RAM Laptop 2026](/best-browser-for-2gb-ram-laptop-2026)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [Chrome Slow on School Laptop? Here's How to Fix It](/chrome-slow-on-school-laptop-how-to-fix)
+- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)

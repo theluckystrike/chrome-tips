@@ -67,8 +67,7 @@ The next time you see a subresource integrity error, remember that Chrome is act
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
-- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
+- [Chrome Sandbox Mode Explained](/chrome-sandbox-mode-explained)
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)

@@ -87,8 +87,7 @@ Use the chrome extensions for website testing that match your specific needs. No
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
 - [Chrome for Accessibility Testing Extensions](/chrome-for-accessibility-testing-extensions)
-- [Chrome Extensions for Website Archiving](/chrome-extensions-for-website-archiving)
+- [Chrome Extensions for Website Monitoring Changes](/chrome-extensions-for-website-monitoring-changes)
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)

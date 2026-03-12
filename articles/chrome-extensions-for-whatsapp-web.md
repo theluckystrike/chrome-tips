@@ -71,8 +71,7 @@ Once you start using these extensions, you will wonder how you ever used WhatsAp
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
-- [Chrome Extensions for Web Automation Free](/chrome-extensions-for-web-automation-free)
+- [Chrome For Soundcloud Web Player Extensions](/chrome-for-soundcloud-web-player-extensions)
+- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
+- [Chrome Extensions for Web Scraping Without Code](/chrome-extensions-for-web-scraping-without-code)

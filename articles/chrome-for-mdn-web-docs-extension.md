@@ -70,8 +70,7 @@ Remember that extensions are meant to enhance your browsing experience, not comp
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Web Vitals Extension How to Use](/chrome-web-vitals-extension-how-to-use)
-- [Chrome Extension Publish to Web Store Guide](/chrome-extension-publish-to-web-store-guide)
-- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)
+- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)

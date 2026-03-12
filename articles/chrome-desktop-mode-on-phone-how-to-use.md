@@ -82,8 +82,7 @@ Finally, remember that desktop mode is temporary for each site. If you want to a
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
-- [Chrome Remote Desktop How to Use](/chrome-remote-desktop-how-to-use)
-- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+- [Chrome Voice Search How To Use On Desktop](/chrome-voice-search-how-to-use-on-desktop)
+- [Chrome Translate On Phone How To Use](/chrome-translate-on-phone-how-to-use)
+- [Chrome Tab Groups on Phone How to Use](/chrome-tab-groups-on-phone-how-to-use)

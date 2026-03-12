@@ -75,8 +75,7 @@ Remember that the most sophisticated dashboard is useless if you do not check it
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Extensions for Time Tracking Freelancers](/chrome-extensions-for-time-tracking-freelancers)
+- [Chrome Extensions for Productivity Dashboard](/chrome-extensions-for-productivity-dashboard)
 - [Chrome Extensions for Fitness Tracking](/chrome-extensions-for-fitness-tracking)
-- [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
-- [Chrome for Stock Market Tracking Extensions](/chrome-for-stock-market-tracking-extensions)

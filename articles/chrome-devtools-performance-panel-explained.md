@@ -62,8 +62,7 @@ Tools like the Performance Panel help you understand what is happening inside yo
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
 - [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
-- [Chrome Devtools Security Panel Explained](/chrome-devtools-security-panel-explained)
+- [Chrome DevTools Memory Panel Explained](/chrome-devtools-memory-panel-explained)
+- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)

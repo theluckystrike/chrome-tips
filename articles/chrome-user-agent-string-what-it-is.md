@@ -62,11 +62,10 @@ You can check if Chrome is up to date by clicking the three dots in the upper ri
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Client Hints Instead of User Agent: What Changed](/chrome-client-hints-instead-of-user-agent)
-- [Chrome Extension for Changing User Agent](/chrome-extension-for-changing-user-agent)
-- [Chrome Extensions for User Agent Randomizer](/chrome-extensions-for-user-agent-randomizer)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+- [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
+- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

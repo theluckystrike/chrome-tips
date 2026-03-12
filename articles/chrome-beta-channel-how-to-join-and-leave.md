@@ -65,8 +65,7 @@ Switching between Chrome channels is easier than you might think, and now you kn
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Web Store How to Leave Review](/chrome-web-store-how-to-leave-review)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [Chrome Sync Phone and Computer How to Set Up](/chrome-sync-phone-and-computer-how-to-set-up)
+- [How to Uninstall Chrome Completely and Reinstall](/how-to-uninstall-chrome-completely-and-reinstall)

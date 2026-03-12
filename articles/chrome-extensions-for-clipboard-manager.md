@@ -61,8 +61,7 @@ The best approach is to try one of the popular extensions, spend a week using it
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Extensions for Bookmark Manager](/chrome-extensions-for-bookmark-manager)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
 - [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
-- [Chrome Extensions for Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
-- [Chrome Extensions for Code Snippet Manager](/chrome-extensions-for-code-snippet-manager)

@@ -91,11 +91,10 @@ Your employer, your ISP, websites you visit, and Google can still track your act
 
 Think of Incognito mode as a way to keep your browsing private from people who use your computer after you—not as a way to browse the internet anonymously.
 
-
-
 ## Related Articles
-- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
+- [Does Incognito Mode Make Chrome Faster?](/does-incognito-mode-make-chrome-faster)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
 - [Chrome Do Not Track: Does It Actually Work](/chrome-do-not-track-does-it-actually-work)
-- [Chrome for Private Browsing Tips Beyond Incognito](/chrome-for-private-browsing-tips-beyond-incognito)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

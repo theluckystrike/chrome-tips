@@ -75,11 +75,10 @@ Take a few minutes to check your Chrome settings and decide what level of sharin
 
 Your privacy is worth the small amount of time it takes to understand these settings. The more you know about how your browser handles your data, the better decisions you can make about what you are willing to share.
 
-
-
 ## Related Articles
-- [chrome privacy sandbox explained for users](/chrome-privacy-sandbox-explained-for-users)
-- [Chrome WebAuthn Explained for Regular Users](/chrome-webauthn-explained-for-regular-users)
-- [Chrome CORS Error for Regular Users](/chrome-cors-error-for-regular-users)
+- [Chrome Extension Manifest V3 What Users Need to Know](/chrome-extension-manifest-v3-what-users-need-to-know)
+- [Chrome Privacy Sandbox Explained Simply](/chrome-privacy-sandbox-explained-simply)
+- [Chrome Privacy Sandbox Explained For Users](/chrome-privacy-sandbox-explained-for-users)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -73,11 +73,10 @@ Finally, remember that pinned tabs are not the only tool available for managing 
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Sleeping Tabs Explained: What They Are and How to Use Them](/chrome-sleeping-tabs-explained)
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

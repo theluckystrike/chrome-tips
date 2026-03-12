@@ -81,8 +81,7 @@ Try starting with one extension and getting comfortable with how it works before
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Amazon Price History](/chrome-extensions-for-amazon-price-history)
-- [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
-- [Chrome for Stock Market Tracking Extensions](/chrome-for-stock-market-tracking-extensions)
+- [Chrome Extensions for Email Tracking](/chrome-extensions-for-email-tracking)
+- [Chrome Extensions for Flight Price Alerts](/chrome-extensions-for-flight-price-alerts)
+- [Chrome Extensions for Amazon FBA Sellers](/chrome-extensions-for-amazon-fba-sellers)

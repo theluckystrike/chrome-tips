@@ -122,8 +122,7 @@ With practice, these shortcuts will become second nature, and you will wonder ho
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome keyboard shortcuts complete list 2026](/chrome-keyboard-shortcuts-complete-list-2026)
-- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
 - [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Gmail Keyboard Shortcuts](/chrome-gmail-keyboard-shortcuts)

@@ -63,8 +63,7 @@ Keeping track of where Chrome stores your files makes it easier to find things, 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
-- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
-- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
+- [Chrome Profile Data Where It Is Stored](/chrome-profile-data-where-it-is-stored)
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)

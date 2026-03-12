@@ -86,8 +86,7 @@ Finally, keep an eye on your accounts in the following weeks. Attackers sometime
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Find Chrome Extensions That Slow Down Browser](/how-to-find-chrome-extensions-that-slow-down-browser)
-- [Chrome Developer Mode Extensions Warning: How to Dismiss](/chrome-developer-mode-extensions-warning-how-to-dismiss)
+- [Can Chrome Extensions Steal Your Data](/can-chrome-extensions-steal-your-data)
 - [Chrome Extensions That Save You Time](/chrome-extensions-that-save-you-time)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)

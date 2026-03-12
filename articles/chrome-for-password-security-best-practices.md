@@ -89,8 +89,7 @@ One useful extension for browser management is Tab Suspender Pro. While it does 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)
-- [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run)
-- [Chrome Security Key How to Use With Chrome](/chrome-security-key-how-to-use-with-chrome)
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)

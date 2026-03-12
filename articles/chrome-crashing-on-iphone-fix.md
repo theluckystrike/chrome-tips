@@ -89,8 +89,7 @@ Remember that keeping your apps updated, managing your open tabs, and maintainin
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Keep Crashing Fix 2026](/chrome-keep-crashing-fix-2026)
-- [Chrome WebGL Crashing Fix](/chrome-webgl-crashing-fix)
-- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+- [Chrome Wont Install on Windows 11 Fix](/chrome-wont-install-on-windows-11-fix)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)

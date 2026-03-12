@@ -157,11 +157,10 @@ Finally, keep your application updated as the Web NFC API evolves. The specifica
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
+- [Chrome Web Bluetooth Api Guide](/chrome-web-bluetooth-api-guide)
 - [Chrome Web USB API Guide](/chrome-web-usb-api-guide)
-- [Chrome Web Bluetooth API Guide](/chrome-web-bluetooth-api-guide)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

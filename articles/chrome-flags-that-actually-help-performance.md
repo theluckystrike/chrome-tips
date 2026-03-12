@@ -58,8 +58,7 @@ Give these suggestions a try and notice the difference in your daily browsing. A
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Flags That Actually Make It Faster: A Practical Guide for Slow Computers](/chrome-flags-that-actually-make-it-faster)
-- [Chrome Flags Best Performance Settings](/chrome-flags-best-performance-settings)
 - [Chrome Do Not Track: Does It Actually Work](/chrome-do-not-track-does-it-actually-work)
+- [Chrome Tracing for Performance Issues](/chrome-tracing-for-performance-issues)
+- [Chrome Performance Monitor Fps Counter](/chrome-performance-monitor-fps-counter)

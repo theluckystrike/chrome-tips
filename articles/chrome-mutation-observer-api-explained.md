@@ -71,8 +71,7 @@ The next time you see smooth animations, instant content updates, or responsive 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained)
-- [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained)
-- [Chrome Intersection Observer API Explained](/chrome-intersection-observer-api-explained)
+- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)

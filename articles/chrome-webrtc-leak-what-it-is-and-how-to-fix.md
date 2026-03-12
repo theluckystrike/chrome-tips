@@ -75,8 +75,7 @@ If you use multiple browsers, remember that WebRTC settings are specific to each
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome WebRTC Leak Test and Fix Guide](/chrome-webrtc-leak-test-and-fix-guide)
-- [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
-- [Chrome Extensions for WebRTC Leak Prevention](/chrome-extensions-for-webrtc-leak-prevention)
+- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
+- [Ungoogled Chromium What It Is and How to Install](/ungoogled-chromium-what-it-is-and-how-to-install)
+- [Chrome Shadow DOM What It Is](/chrome-shadow-dom-what-it-is)

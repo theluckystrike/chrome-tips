@@ -75,8 +75,7 @@ Remember that keeping your browser clean is an ongoing process. By following the
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Cleanup Tool: Where Did It Go?](/chrome-cleanup-tool-where-did-it-go)
 - [Chrome Lite Mode Discontinued What to Use Instead](/chrome-lite-mode-discontinued-what-to-use-instead)
-- [How to Use Chrome Built In Screenshot Tool](/how-to-use-chrome-built-in-screenshot-tool)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)

@@ -63,11 +63,10 @@ Start with small changes, like moving your most-used extension to a more accessi
 
 ---
 
-
-
 ## Related Articles
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+- [Chrome Work Profile Vs Personal Profile Tips](/chrome-work-profile-vs-personal-profile-tips)
+- [Chrome For Stripe Dashboard Tips](/chrome-for-stripe-dashboard-tips)
+- [Chrome Toolbar Missing Fix](/chrome-toolbar-missing-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

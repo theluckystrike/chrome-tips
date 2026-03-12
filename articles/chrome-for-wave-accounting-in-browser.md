@@ -75,8 +75,7 @@ Take some time to set up your Chrome profile, pin your Wave tab, and explore whi
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
-- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac)
-- [Chrome vs Brave Browser Which Is Better](/chrome-vs-brave-browser-which-is-better)
+- [Chrome for HubSpot CRM in Browser](/chrome-for-hubspot-crm-in-browser)
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+- [Chrome for Trello Power Ups in Browser](/chrome-for-trello-power-ups-in-browser)

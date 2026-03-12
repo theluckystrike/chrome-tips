@@ -81,8 +81,7 @@ Regular maintenance matters more than chasing the highest possible numbers. Keep
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Forced Extensions by Admin What It Means](/chrome-forced-extensions-by-admin-what-it-means)
-- [Chrome MotionMark Graphics Benchmark](/chrome-motionmark-graphics-benchmark)
-- [Chrome HSTS What It Means for Security](/chrome-hsts-what-it-means-for-security)
+- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
+- [Chrome Site Isolation What It Means](/chrome-site-isolation-what-it-means)
+- [Chrome Cross Origin Error What It Means](/chrome-cross-origin-error-what-it-means)

@@ -84,8 +84,7 @@ Remember to keep your browser and sheets organized, use tools like Tab Suspender
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for google flights tips and tricks](/chrome-for-google-flights-tips-and-tricks)
-- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
-- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
+- [Chrome for iPad Tips and Tricks](/chrome-for-ipad-tips-and-tricks)
+- [Chrome For Google Flights Tips And Tricks](/chrome-for-google-flights-tips-and-tricks)
+- [Chrome Android Tips and Tricks 2026](/chrome-android-tips-and-tricks-2026)

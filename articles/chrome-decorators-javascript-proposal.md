@@ -71,11 +71,10 @@ Remember that while decorators are powerful, they are not always the right solut
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Coverage Tool: Find Unused JavaScript](/chrome-coverage-tool-find-unused-javascript)
-- [chrome javascript disable for one site how to](/chrome-javascript-disable-for-one-site-how-to)
-- [chrome disable javascript for testing](/chrome-disable-javascript-for-testing)
+- [Chrome Disable Javascript For Testing](/chrome-disable-javascript-for-testing)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

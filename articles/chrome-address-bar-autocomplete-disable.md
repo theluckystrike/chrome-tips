@@ -149,11 +149,10 @@ If you found this guide helpful, consider exploring other Chrome privacy setting
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Address Bar Autocomplete How to Clear](/chrome-address-bar-autocomplete-how-to-clear)
+- [Chrome Address Bar Not Showing Full URL Fix](/chrome-address-bar-not-showing-full-url-fix)
+- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
 - [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
-- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

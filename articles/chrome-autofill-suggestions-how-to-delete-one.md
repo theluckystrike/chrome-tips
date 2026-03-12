@@ -82,8 +82,7 @@ Regularly reviewing and cleaning up your autofill data helps ensure that Chrome 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
-- [chrome web otp autofill sms](/chrome-web-otp-autofill-sms)
-- [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/chrome-autofill-wrong-address-keeps-appearing)
+- [Chrome Autofill Credit Card How to Remove](/chrome-autofill-credit-card-how-to-remove)
+- [Chrome Camera Permission for One Site How to Set](/chrome-camera-permission-for-one-site-how-to-set)
+- [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)

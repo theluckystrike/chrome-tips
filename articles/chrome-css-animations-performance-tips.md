@@ -76,8 +76,7 @@ Remember that the goal of animation is to enhance your website, not distract fro
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Browser Games Performance Tips](/chrome-browser-games-performance-tips)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)

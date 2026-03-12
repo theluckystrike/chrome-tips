@@ -73,11 +73,10 @@ The chrome process per tab feature exists for good reasons, and you do not need 
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Process Per Tab: How to Disable It to Save Memory](/chrome-process-per-tab-disable-to-save-memory)
-- [chrome browser process vs tab process explained](/chrome-browser-process-vs-tab-process-explained)
-- [How to Change Your Chrome New Tab Background to a Custom Image](/chrome-new-tab-background-change-custom-image)
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [Chrome Notification Sound How to Change](/chrome-notification-sound-how-to-change)
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

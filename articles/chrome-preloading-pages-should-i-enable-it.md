@@ -75,11 +75,10 @@ Remember that you can always change your mind. Chrome settings are not permanent
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Strict Site Isolation: Should I Enable](/chrome-strict-site-isolation-should-i-enable)
-- [Chrome Preloading Pages Setting Explained](/chrome-preloading-pages-setting-explained)
-- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [Chrome Secure DNS: What It Is and How to Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)
+- [Chrome vs Arc Browser: Should I Switch?](/chrome-vs-arc-browser-should-i-switch)
+- [Chrome Hardware Acceleration Should I Turn On or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

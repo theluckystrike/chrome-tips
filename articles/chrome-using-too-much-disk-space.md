@@ -70,11 +70,10 @@ Chrome using too much disk space does not have to be a permanent problem. By und
 
 Start with the simplest solutions like clearing your cache and removing unused extensions, then build more comprehensive habits over time. Your computer's storage capacity will thank you.
 
-
-
 ## Related Articles
-- [Chrome Using Too Much Disk Space Fix](/chrome-using-too-much-disk-space-fix)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Helper Renderer Using Too Much CPU](/chrome-helper-renderer-using-too-much-cpu)
+- [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/chrome-extension-using-too-much-memory-find)
 - [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

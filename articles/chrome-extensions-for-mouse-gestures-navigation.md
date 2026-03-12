@@ -69,8 +69,7 @@ Give yourself permission to be clumsy at first. You will likely trigger the wron
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for mouse gestures extensions](/chrome-for-mouse-gestures-extensions)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome For Mouse Gestures Extensions](/chrome-for-mouse-gestures-extensions)
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)

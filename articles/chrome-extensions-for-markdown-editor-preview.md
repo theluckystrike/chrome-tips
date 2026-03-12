@@ -61,8 +61,7 @@ Experiment with different extensions to find the combination that works best for
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
-- [Chrome Extensions for YouTube Thumbnail Preview](/chrome-extensions-for-youtube-thumbnail-preview)
-- [chrome extensions for image editor online](/chrome-extensions-for-image-editor-online)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)

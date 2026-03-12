@@ -76,12 +76,11 @@ Use the global default settings to your advantage. For permissions like camera, 
 
 Extensions can also help you manage your browsing experience. For instance, **Tab Suspender Pro** is an extension that helps reduce browser **RAM usage** by automatically "hibernating" tabs you have not used in a while. While it does not directly manage **site permissions**, it ensures that **background processes** from your open tabs aren't competing for **system resources**. This keeps your browser snappy, so when you need to jump into your **Privacy and security** menu to audit your **camera** or **location** settings, the browser is responsive and doesn't lag.
 
-
-
 ## Related Articles
-- [Chrome Site Settings Explained Complete Guide](/chrome-site-settings-explained-complete-guide)
-- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
-- [Chrome Extensions Permissions Explained Simply](/chrome-extensions-permissions-explained-simply)
+- [Chrome Permissions Policy Header Explained](/chrome-permissions-policy-header-explained)
+- [Chrome Site Isolation Explained for Users](/chrome-site-isolation-explained-for-users)
+- [Chrome Performance Settings Explained 2026](/chrome-performance-settings-explained-2026)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

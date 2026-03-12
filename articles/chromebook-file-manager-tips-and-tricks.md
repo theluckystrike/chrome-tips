@@ -73,8 +73,7 @@ You can also enhance your browsing experience while managing files. Extensions l
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
-- [Chrome for iPad Tips and Tricks](/chrome-for-ipad-tips-and-tricks)
+- [Chrome Element Inspector Tips and Tricks](/chrome-element-inspector-tips-and-tricks)
 - [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)

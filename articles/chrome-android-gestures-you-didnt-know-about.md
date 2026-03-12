@@ -77,12 +77,11 @@ If you find these chrome android gestures you didnt know about helpful and want 
 
 Chrome is constantly adding new features and gestures, so it is worth checking the settings menu occasionally to see what is new. The browser has come a long way from its early days, and the team keeps improving how you can interact with web content on your phone. These chrome android gestures you didnt know about are just the beginning of what is possible when you start exploring your browser capabilities.
 
-
-
 ## Related Articles
-- [Chrome Accessibility Features You Didn't Know About](/chrome-accessibility-features-you-didnt-know-about)
-- [chrome fledge api what advertisers know about you](/chrome-fledge-api-what-advertisers-know-about-you)
 - [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know)
+- [Chrome Fledge Api What Advertisers Know About You](/chrome-fledge-api-what-advertisers-know-about-you)
+- [Chrome Continue Where You Left Off Not Working](/chrome-continue-where-you-left-off-not-working)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

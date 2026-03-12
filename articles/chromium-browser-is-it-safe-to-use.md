@@ -67,8 +67,7 @@ If you are looking for a browser that balances security, privacy, and features, 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Are Chrome Extensions Safe to Use](/are-chrome-extensions-safe-to-use)
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
+- [Ungoogled Chromium What It Is and How to Install](/ungoogled-chromium-what-it-is-and-how-to-install)
+- [Why Is Chrome So Much Slower Than It Used to Be](/why-is-chrome-so-much-slower-than-it-used-to-be)

@@ -64,8 +64,7 @@ Chrome devtools sensors tab geolocation is just one of many helpful features bui
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome DevTools Rendering Tab Explained](/chrome-devtools-rendering-tab-explained)
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
+- [Chrome Tab Memory Usage Keeps Growing](/chrome-tab-memory-usage-keeps-growing)
+- [Chrome Devtools Edit HTML Live](/chrome-devtools-edit-html-live)
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)

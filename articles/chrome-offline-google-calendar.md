@@ -72,8 +72,7 @@ If you frequently work in offline or low-connectivity environments, consider thi
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
-- [chrome offline google docs how to enable](/chrome-offline-google-docs-how-to-enable)
-- [Chrome for Google Docs Offline Setup](/chrome-for-google-docs-offline-setup)
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+- [Chrome Google Calendar Quick Add from Browser](/chrome-google-calendar-quick-add-from-browser)
+- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)

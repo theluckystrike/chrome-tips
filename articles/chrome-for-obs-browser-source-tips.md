@@ -67,8 +67,7 @@ Remember that every streaming setup is different, so you might need to experimen
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
 - [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
-- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
-- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
+- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)

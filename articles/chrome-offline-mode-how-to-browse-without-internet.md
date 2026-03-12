@@ -84,8 +84,7 @@ Finally, keep important files and documents saved locally on your computer rathe
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome text only mode how to browse](/chrome-text-only-mode-how-to-browse)
-- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
-- [Chrome Offline Google Calendar](/chrome-offline-google-calendar)
+- [Chrome HTTPS Only Mode How to Enable](/chrome-https-only-mode-how-to-enable)
+- [Chrome Android Desktop Mode How to Enable](/chrome-android-desktop-mode-how-to-enable)
+- [Chrome Offline Google Docs How To Enable](/chrome-offline-google-docs-how-to-enable)

@@ -63,8 +63,7 @@ If you use WebGL frequently and your computer struggles, consider upgrading your
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome WebGL Crashing My Browser](/chrome-webgl-crashing-my-browser)
-- [Chrome Interaction to Next Paint Improve: Complete Guide](/chrome-interaction-next-paint-improve)
-- [Chrome WebGPU vs WebGL Comparison](/chrome-webgpu-vs-webgl)
+- [Chrome Send Feedback to Google How to](/chrome-send-feedback-to-google-how-to)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)

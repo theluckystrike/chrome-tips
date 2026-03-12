@@ -75,8 +75,7 @@ The real power of chrome extensions for fitness tracking lies in consistency. By
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Extensions for Price Tracking Amazon](/chrome-extensions-for-price-tracking-amazon)
+- [Chrome for Cryptocurrency Tracking Extensions](/chrome-for-cryptocurrency-tracking-extensions)
 - [Chrome Extensions for Fitness Tracking Dashboard](/chrome-extensions-for-fitness-tracking-dashboard)
-- [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
-- [Chrome for Stock Market Tracking Extensions](/chrome-for-stock-market-tracking-extensions)

@@ -81,8 +81,7 @@ These changes do not require technical expertise. They take just a few minutes t
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
-- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
-- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Extension for Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
+- [Chrome vs Opera GX for Gaming](/chrome-vs-opera-gx-for-gaming)
+- [Chrome Auto Dark Mode for Web Contents](/chrome-auto-dark-mode-for-web-contents)

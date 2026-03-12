@@ -69,8 +69,7 @@ One solution to keep your browser running smoothly is to use Tab Suspender Pro. 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Color Palette Generator](/chrome-extensions-for-color-palette-generator)
-- [chrome for color picker extensions](/chrome-for-color-picker-extensions)
-- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chrome For Color Picker Extensions](/chrome-for-color-picker-extensions)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome Extensions for Color Accessibility Checker](/chrome-extensions-for-color-accessibility-checker)

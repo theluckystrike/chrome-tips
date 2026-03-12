@@ -75,11 +75,10 @@ Staying aware of major changes, keeping your extensions updated, and using tools
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Version History: Major Milestones That Shaped the Browser](/chrome-version-history-major-milestones)
-- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
-- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
+- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/chrome-ai-powered-history-search)
+- [Chrome Flags Reset How to Undo Changes](/chrome-flags-reset-how-to-undo-changes)
+- [Chrome Portable Version How To Get](/chrome-portable-version-how-to-get)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

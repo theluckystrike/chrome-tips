@@ -63,8 +63,7 @@ You might also want to print out a cheat sheet of Chrome shortcuts and keep it n
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
-- [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/chrome-tab-search-shortcut)
-- [chrome site search shortcut how to set up](/chrome-site-search-shortcut-how-to-set-up)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+- [Chrome Jump to Specific Tab Number Shortcut](/chrome-jump-to-specific-tab-number-shortcut)

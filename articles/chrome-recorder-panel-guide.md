@@ -117,11 +117,10 @@ Remember to explore all the features we covered in this guide, experiment with d
 
 ---
 
-
-
 ## Related Articles
-- [chrome recorder panel how to record user flows](/chrome-recorder-panel-how-to-record-user-flows)
-- [Chrome Application Panel Guide](/chrome-application-panel-guide)
-- [Chrome Side Panel Features Guide](/chrome-side-panel-features-guide)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Recorder Panel How To Record User Flows](/chrome-recorder-panel-how-to-record-user-flows)
+- [Chrome Rendering Panel Guide](/chrome-rendering-panel-guide)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

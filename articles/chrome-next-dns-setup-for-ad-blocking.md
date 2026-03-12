@@ -81,8 +81,7 @@ If you switch internet service providers or change your network setup, remember 
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [chrome dns over https setup](/chrome-dns-over-https-setup)
-- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome For Twitch Streaming Setup In Browser](/chrome-for-twitch-streaming-setup-in-browser)
+- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)
+- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)

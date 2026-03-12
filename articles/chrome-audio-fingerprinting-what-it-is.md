@@ -79,9 +79,7 @@ Taking small, consistent steps to protect your privacy adds up over time. Using 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-
-- [Chrome Send Feedback to Google How to](/articles/chrome-send-feedback-to-google-how-to/)
-- [Chrome Extensions for Virtual Whiteboard](/articles/chrome-extensions-for-virtual-whiteboard/)
-- [Chrome Version History: Major Milestones That Shaped the Browser](/articles/chrome-version-history-major-milestones/)
+- [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
+- [Chrome Shadow DOM What It Is](/chrome-shadow-dom-what-it-is)
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)

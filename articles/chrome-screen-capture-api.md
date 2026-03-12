@@ -471,11 +471,9 @@ Remember to consider how your screen capture features interact with other browse
 
 With this knowledge, you're well-equipped to implement screen capture functionality that meets your users' needs while maintaining the security and privacy standards that Chrome users expect.
 
-*
+*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)

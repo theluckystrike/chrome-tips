@@ -70,8 +70,7 @@ Getting the most out of Odysee in Chrome does not require technical expertise. B
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
-- [chrome for audible web player tips](/chrome-for-audible-web-player-tips)
+- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)
+- [Chrome for Dailymotion Web Player](/chrome-for-dailymotion-web-player)
 - [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)

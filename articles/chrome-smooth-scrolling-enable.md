@@ -83,11 +83,10 @@ Enabling chrome smooth scrolling is a simple change that can make a significant 
 
 Give smooth scrolling a try and see how it works for you. Once you experience the difference, you may wonder how you ever browsed without it.
 
-
-
 ## Related Articles
-- [How to Enable Chrome Smooth Scrolling](/how-to-enable-chrome-smooth-scrolling)
+- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
 - [Chrome Smooth Scrolling How to Enable](/chrome-smooth-scrolling-how-to-enable)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

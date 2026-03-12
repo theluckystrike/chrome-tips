@@ -89,8 +89,7 @@ Cookies do not have to be confusing or mysterious. They are simply small files t
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
 - [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)
-- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
 - [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
+- [Chrome Tracking Prevention Explained Simply](/chrome-tracking-prevention-explained-simply)

@@ -121,11 +121,10 @@ For children ages 9 to 12, the mature sites filter is usually a good fit. They n
 
 For teenagers, the conversation becomes more important than the technical controls. Have open discussions about online safety, the reasons behind your rules, and trust them to make good decisions while maintaining oversight.
 
-
-
 ## Related Articles
-- [Chrome Supervised Profiles for Kids](/chrome-supervised-profiles-for-kids)
-- [Chrome User Data Folder Where Is It](/chrome-user-data-folder-where-is-it)
-- [Chrome Profile Backup How to Save](/chrome-profile-backup-how-to-save)
+- [Chrome Block Inappropriate Content for Kids](/chrome-block-inappropriate-content-for-kids)
+- [Chrome Extension for Changing User Agent](/chrome-extension-for-changing-user-agent)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

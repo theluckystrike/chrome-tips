@@ -83,8 +83,7 @@ Once you find a tool that clicks, you will wonder how you ever managed to do res
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Extensions For Web Clipping](/chrome-extensions-for-web-clipping)
+- [Chrome For Soundcloud Web Player Extensions](/chrome-for-soundcloud-web-player-extensions)
 - [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
-- [Chrome Extensions for Web Automation Free](/chrome-extensions-for-web-automation-free)

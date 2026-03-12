@@ -75,8 +75,7 @@ With the right set of extensions, Chrome can become a powerful command center fo
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Social Media Managers](/chrome-extensions-for-social-media-managers)
-- [Chrome Extensions for Social Media Scheduling](/chrome-extensions-for-social-media-scheduling)
-- [Chrome Extensions for Social Media Scheduler](/chrome-extensions-for-social-media-scheduler)
+- [Chrome For Window Management Extensions](/chrome-for-window-management-extensions)
+- [Chrome for Bibliography Management Extensions](/chrome-for-bibliography-management-extensions)
+- [Chrome Extension for Blocking Social Media During Work](/chrome-extension-for-blocking-social-media-during-work)

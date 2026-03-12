@@ -68,8 +68,7 @@ Make it a habit to close tabs you don't need and update Chrome regularly. These 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Stop Chrome from Eating Your RAM](/how-to-stop-chrome-from-eating-ram)
+- [Chrome Save All Open Tabs As Bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
 - [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
-- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
+- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)

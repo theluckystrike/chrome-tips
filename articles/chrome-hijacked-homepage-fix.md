@@ -54,8 +54,7 @@ A hijacked homepage is annoying but usually not dangerous if you address it quic
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Fix Chrome Hijacked Homepage (Complete Guide)](/chrome-hijacked-homepage-fix-guide)
-- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
-- [Chrome Homepage Changed by Itself Fix](/chrome-homepage-changed-by-itself-fix)
+- [Chrome This Site Cant Be Reached Fix](/chrome-this-site-cant-be-reached-fix)
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)

@@ -77,11 +77,10 @@ If you frequently have dozens of tabs open and notice constant reloading, consid
 
 Remember that Chrome's tab discarding is designed to help, not hurt. It keeps your browser from crashing and your computer from slowing down too much. By understanding how it works and taking steps to manage it, you can enjoy a better browsing experience without constantly losing your place in important tabs.
 
-
-
 ## Related Articles
+- [Chrome Site Isolation What It Means](/chrome-site-isolation-what-it-means)
+- [Chrome Forced Extensions by Admin What It Means](/chrome-forced-extensions-by-admin-what-it-means)
 - [Chrome Tab Freezing What It Means](/chrome-tab-freezing-what-it-means)
-- [Chrome Tab Discarding What It Means](/chrome-tab-discarding-what-it-means)
-- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

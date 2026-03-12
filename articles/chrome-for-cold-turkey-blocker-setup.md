@@ -68,8 +68,7 @@ Finally, be patient with yourself. Changing browsing habits takes time, and ther
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
 - [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)
+- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)

@@ -34,8 +34,7 @@ In conclusion, Shadow DOM is a powerful web technology that creates protected bo
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome DevTools Shadow DOM Inspector](/chrome-devtools-shadow-dom-inspector)
-- [chrome trusted types dom xss prevent](/chrome-trusted-types-dom-xss-prevent)
-- [Chrome DOMContentLoaded vs Load Event](/chrome-dom-content-loaded-vs-load-event)
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
+- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is)

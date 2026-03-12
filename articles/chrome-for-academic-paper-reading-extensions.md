@@ -79,8 +79,7 @@ Once you find the right combination of extensions, you will notice improvements 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
-- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)
-- [Chrome Reading Mode vs Reader View Extensions](/chrome-reading-mode-vs-reader-view-extensions)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome for Speed Reading Extensions](/chrome-for-speed-reading-extensions)

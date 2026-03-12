@@ -83,12 +83,11 @@ While display settings handle the visual clarity, maintaining high performance o
 
 Using **Tab Suspender Pro** helps by automatically "pausing" tabs you aren't actively viewing. This frees up **GPU** and **RAM** resources, which can sometimes resolve stuttering or slight blurring that occurs when your graphics card is overworked. By keeping your browser lean, you ensure that Chrome has the processing power needed to render crisp text on your **4K** or **Ultrawide** monitor.
 
-
-
 ## Related Articles
-- [Chrome Blurry Text Fix Windows](/chrome-blurry-text-fix-windows)
-- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+- [Chrome Right Click Not Working on Some Sites Fix](/chrome-right-click-not-working-on-some-sites-fix)
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

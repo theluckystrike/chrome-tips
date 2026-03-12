@@ -69,8 +69,7 @@ Taking time to organize your tabs might seem like extra work, but it pays off in
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/chrome-slow-on-dual-monitor-setup)
-- [Chrome Tab Management Shortcuts Cheat Sheet](/chrome-tab-management-shortcuts-cheat-sheet)
 - [Best Extensions for Tab Management Chrome](/best-extensions-for-tab-management-chrome)
+- [Chrome For Window Management Extensions](/chrome-for-window-management-extensions)
+- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)

@@ -63,8 +63,7 @@ Mastering Chrome's history search takes just a few minutes, but it pays off ever
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome for iPad Tips and Tricks](/chrome-for-ipad-tips-and-tricks)
-- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
-- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/chrome-ai-powered-history-search)
+- [Chrome Bookmark Bar Tips And Tricks](/chrome-bookmark-bar-tips-and-tricks)
+- [Chrome on iPhone — Tips and Tricks for 2026](/chrome-on-iphone-tips-and-tricks-2026)

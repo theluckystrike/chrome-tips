@@ -51,11 +51,10 @@ Clearing your browser cache and cookies can also help. Sometimes cached data int
 
 If all else fails, you may need to reset Chrome to its default settings. This removes all your extensions, settings, and data, so make sure to back up anything important first, such as your bookmarks and saved passwords. After the reset, you can reinstall your extensions from the Chrome Web Store fresh.
 
-
-
 ## Related Articles
-- [Chrome Extensions Disappeared After Update](/chrome-extensions-disappeared-after-update)
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
-- [Chrome Slower After macOS Update Fix](/chrome-slower-after-macos-update-fix)
+- [Chrome Update Failed Error 7 Fix](/chrome-update-failed-error-7-fix)
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

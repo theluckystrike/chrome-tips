@@ -76,8 +76,7 @@ If you are frustrated with Chrome, download Firefox and give it a try for one we
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/should-i-switch-to-edge-for-speed)
-- [How to Import Bookmarks from Firefox to Chrome](/how-to-import-bookmarks-from-firefox-to-chrome)
-- [Chrome vs Arc Browser: Should I Switch?](/chrome-vs-arc-browser-should-i-switch)
+- [Chrome Safe Browsing Should I Turn On](/chrome-safe-browsing-should-i-turn-on)
+- [Chrome Flags to Enable for Speed](/chrome-flags-to-enable-for-speed)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)

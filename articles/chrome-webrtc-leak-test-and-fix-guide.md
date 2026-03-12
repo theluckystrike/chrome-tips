@@ -125,11 +125,10 @@ If you're looking to optimize Chrome further, give Tab Suspender Pro a try. It's
 
 ---
 
-
-
 ## Related Articles
-- [chrome webrtc leak what it is and how to fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
 - [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
-- [Chrome Extensions for WebRTC Leak Prevention](/chrome-extensions-for-webrtc-leak-prevention)
+- [Chrome Memory Leak Fix for 2026](/chrome-memory-leak-fix-2026)
+- [Chrome Font Fingerprinting Explained and Fix](/chrome-font-fingerprinting-explained-and-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

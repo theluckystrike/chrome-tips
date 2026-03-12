@@ -83,11 +83,9 @@ The Chrome Coverage Tool is an essential part of any web performance optimizatio
 
 ---
 
-*
+*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/chrome-coverage-tool-find-unused-css)
-- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
-- [Chrome Coverage Tool Guide](/chrome-coverage-tool-guide)
-
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+- [Chrome Built-In Screenshot Tool](/chrome-built-in-screenshot-tool)
+- [Chrome Decorators JavaScript Proposal: What You Need to Know](/chrome-decorators-javascript-proposal)
+- [Chrome Which Tab Is Using Most CPU How to Find](/chrome-which-tab-is-using-most-cpu-how-to-find)

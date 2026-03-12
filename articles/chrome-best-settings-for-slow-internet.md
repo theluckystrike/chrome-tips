@@ -81,8 +81,7 @@ You can also manually suspend tabs by right-clicking on them and selecting "Slee
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
-- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
-- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
+- [Chrome for Netflix Best Quality Settings](/chrome-for-netflix-best-quality-settings)
+- [Chrome for Figma Best Settings](/chrome-for-figma-best-settings)

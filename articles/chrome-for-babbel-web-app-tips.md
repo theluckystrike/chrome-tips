@@ -83,8 +83,7 @@ Getting the most out of Chrome for Babbel web app does not require technical exp
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)
-- [chrome for asana web app tips](/chrome-for-asana-web-app-tips)
-- [chrome for coinbase web app tips](/chrome-for-coinbase-web-app-tips)
+- [Chrome for Skyscanner Web App Tips](/chrome-for-skyscanner-web-app-tips)
+- [Chrome For Mailchimp Web App Tips](/chrome-for-mailchimp-web-app-tips)
+- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)

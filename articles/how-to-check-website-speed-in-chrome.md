@@ -69,8 +69,7 @@ Finally, consider your internet connection. If you are on a slow connection, web
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
-- [Chrome Lighthouse Audit for Website Speed: Complete Guide](/chrome-lighthouse-audit-website-speed)
-- [Chrome Core Web Vitals Check My Website](/chrome-core-web-vitals-check-my-website)
+- [Chrome Location History in Browser How to Check](/chrome-location-history-in-browser-how-to-check)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+- [How to Pin a Website in Chrome Taskbar](/how-to-pin-a-website-in-chrome-taskbar)

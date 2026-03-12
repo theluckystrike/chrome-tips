@@ -80,8 +80,7 @@ In the vast majority of cases, the desire to downgrade Chrome is a reaction to a
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version)
-- [Chrome Version History: Major Milestones That Shaped the Browser](/chrome-version-history-major-milestones)
-- [Chrome Version History: Major Changes You Should Know About](/chrome-version-history-major-changes)
+- [Chrome Desktop Shortcuts How To Create](/chrome-desktop-shortcuts-how-to-create)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)

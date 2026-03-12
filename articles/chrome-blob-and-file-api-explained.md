@@ -85,8 +85,7 @@ If you find yourself with many open tabs while working with files, you might ben
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome file handling api explained](/chrome-file-handling-api-explained)
-- [chrome file system access api explained](/chrome-file-system-access-api-explained)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Long Tasks API Explained](/chrome-long-tasks-api-explained)
+- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)

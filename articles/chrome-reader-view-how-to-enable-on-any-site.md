@@ -68,11 +68,10 @@ Remember that Tab Suspender Pro can help keep your browser running smoothly, whi
 
 The next time you encounter a cluttered website that makes reading difficult, try one of these solutions. You might be surprised at how much more you can read and how much less tired your eyes feel when the distractions are removed.
 
-
-
 ## Related Articles
-- [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)
-- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
+- [Chrome Passwords on Phone How to View](/chrome-passwords-on-phone-how-to-view)
+- [How To Turn On Chrome Dark Mode On Any Website](/how-to-turn-on-chrome-dark-mode-on-any-website)
 - [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

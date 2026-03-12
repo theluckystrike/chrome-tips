@@ -67,11 +67,10 @@ Features like the Chrome Web Share API work best when Chrome is performing optim
 
 Tab Suspender Pro can help with this by automatically suspending tabs you are not actively using, freeing up memory so Chrome can run smoothly. When your browser has resources to spare, you get the full benefit of modern web features like the Web Share API — fast, responsive, and capable of handling all your sharing needs.
 
-
-
 ## Related Articles
-- [chrome web share target api explained](/chrome-web-share-target-api-explained)
-- [Chrome Web Codecs API Explained](/chrome-web-codecs-api-explained)
-- [chrome web serial api explained](/chrome-web-serial-api-explained)
+- [Chrome Web USB API Explained](/chrome-web-usb-api-explained)
+- [Chrome Web Serial Api Explained](/chrome-web-serial-api-explained)
+- [Chrome Web GPU API Explained for Beginners](/chrome-web-gpu-api-explained-for-beginners)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

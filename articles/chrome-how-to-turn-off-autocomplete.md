@@ -73,8 +73,7 @@ If you decide later that you want to turn autocomplete back on, the process is e
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
-- [How to Turn Off Chrome Notifications on Android](/how-to-turn-off-chrome-notifications-android)
-- [Chrome Hardware Acceleration Should I Turn On or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
+- [How To Turn On Chrome Dark Mode On Any Website](/how-to-turn-on-chrome-dark-mode-on-any-website)
+- [Chrome Autocomplete Wrong Suggestions How to Fix](/chrome-autocomplete-wrong-suggestions-how-to-fix)
+- [Chrome Live Captions How to Turn On](/chrome-live-captions-how-to-turn-on)

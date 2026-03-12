@@ -77,8 +77,7 @@ Give these methods a try and see which ones work best for how you use social med
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extension for Managing Multiple Email Accounts](/chrome-extension-for-managing-multiple-email-accounts)
 - [Chrome Extensions for Social Media Managers](/chrome-extensions-for-social-media-managers)
-- [How to Use Chrome for Multiple Work Accounts](/how-to-use-chrome-for-multiple-work-accounts)
+- [Chrome Extensions for Social Media Scheduling](/chrome-extensions-for-social-media-scheduling)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

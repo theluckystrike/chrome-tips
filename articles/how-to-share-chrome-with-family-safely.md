@@ -112,8 +112,7 @@ Remember that the most important part of family online safety is the conversatio
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
-- [Chrome Certificate Error How to Bypass Safely](/chrome-certificate-error-how-to-bypass-safely)
-- [Chrome Share Page Between Phone and Laptop: Complete Guide](/chrome-share-page-between-phone-and-laptop)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Family Link How to Use on Desktop](/chrome-family-link-how-to-use-on-desktop)
+- [How to Share Chrome Tabs in Video Calls](/how-to-share-chrome-tabs-in-video-calls)

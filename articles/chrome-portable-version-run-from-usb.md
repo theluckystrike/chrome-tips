@@ -123,11 +123,10 @@ For most users, the benefits far outweigh the drawbacks. The ability to carry yo
 
 ---
 
-
-
 ## Related Articles
-- [chrome portable version how to get](/chrome-portable-version-how-to-get)
-- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
-- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)
+- [Chrome For Site Search From Address Bar](/chrome-for-site-search-from-address-bar)
+- [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)
+- [Chrome Lighthouse Audit How To Run](/chrome-lighthouse-audit-how-to-run)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -74,8 +74,7 @@ Whether you stick with Chrome's native tools, try an extension like Tab Suspende
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Saved Addresses How to Edit](/chrome-saved-addresses-how-to-edit)
 - [Chrome for Managing Site Notifications](/chrome-for-managing-site-notifications)
-- [Chrome Saved Payment Methods How to Edit](/chrome-saved-payment-methods-how-to-edit)
+- [Chrome Saved Addresses How to Edit](/chrome-saved-addresses-how-to-edit)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)

@@ -81,8 +81,7 @@ Sometimes the simplest maintenance task can prevent many problems. Closing Chrom
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome Zoom Meeting Not Working Fix](/chrome-zoom-meeting-not-working-fix)
 - [How to Fix Chrome Not Loading Images on Webpages](/chrome-webpage-not-loading-images-fix)
-- [chrome web store not loading fix](/chrome-web-store-not-loading-fix)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome Web Store Not Loading Fix](/chrome-web-store-not-loading-fix)

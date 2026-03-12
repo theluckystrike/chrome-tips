@@ -71,9 +71,7 @@ One common reason people want to stop Chrome updates is that new browser version
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-
-- [Chrome for Snapchat Web Tips](/articles/chrome-for-snapchat-web-tips/)
-- [chrome enable parallel downloading](/articles/chrome-enable-parallel-downloading/)
-- [Chrome Side Panel Features Guide](/articles/chrome-side-panel-features-guide/)
+- [How to Stop Chrome from Redirecting to HTTPS](/how-to-stop-chrome-from-redirecting-to-https)
+- [Chrome Auto Sign In to Websites How to Control](/chrome-auto-sign-in-to-websites-how-to-control)
+- [Chrome Opens on Startup Windows: How to Stop](/chrome-opens-on-startup-windows-how-to-stop)

@@ -98,8 +98,7 @@ These chrome google workspace integration tips help you build a productive setup
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Google Keep Integration Tips](/chrome-google-keep-integration-tips)
-- [Chrome Google Drive Integration Tips](/chrome-google-drive-integration-tips)
-- [chrome google photos integration tips](/chrome-google-photos-integration-tips)
+- [Chrome Google Photos Integration Tips](/chrome-google-photos-integration-tips)
+- [Chrome Google Lens Integration How To Use](/chrome-google-lens-integration-how-to-use)
+- [Chrome Classroom Integration Tips For Teachers](/chrome-classroom-integration-tips-for-teachers)

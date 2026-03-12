@@ -65,8 +65,7 @@ Once you have fixed the cookie issue, remember to periodically check your Chrome
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome Extensions Keep Disabling Themselves Fix](/chrome-extensions-keep-disabling-themselves-fix)
-- [Chrome Keep Crashing Fix 2026](/chrome-keep-crashing-fix-2026)
-- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)

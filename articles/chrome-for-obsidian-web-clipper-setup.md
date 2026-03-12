@@ -88,8 +88,7 @@ With a little practice, this workflow becomes second nature. You will find yours
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome for onenote web clipper setup](/chrome-for-onenote-web-clipper-setup)
 - [Chrome for Notion Web Clipper Setup](/chrome-for-notion-web-clipper-setup)
-- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome For Github Copilot Web Setup](/chrome-for-github-copilot-web-setup)
+- [Chrome for Zotero Web Connector Setup](/chrome-for-zotero-web-connector-setup)

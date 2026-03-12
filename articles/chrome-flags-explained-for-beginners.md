@@ -92,8 +92,7 @@ Start by trying one or two flags that address something you actually want to imp
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome blink engine explained for beginners](/chrome-blink-engine-explained-for-beginners)
-- [Chrome Encrypted DNS Explained for Beginners](/chrome-encrypted-dns-explained-for-beginners)
+- [Chrome Web GPU API Explained for Beginners](/chrome-web-gpu-api-explained-for-beginners)
 - [Chrome Passkeys Explained for Beginners](/chrome-passkeys-explained-for-beginners)
+- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)

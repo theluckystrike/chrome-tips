@@ -71,8 +71,7 @@ By choosing a reliable extension, using it strategically, and maintaining good e
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome for Stock Market Tracking Extensions](/chrome-for-stock-market-tracking-extensions)
 - [Chrome Extensions for Email Tracking Read Receipts](/chrome-extensions-for-email-tracking-read-receipts)
 - [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome for Email Productivity Extensions](/chrome-for-email-productivity-extensions)

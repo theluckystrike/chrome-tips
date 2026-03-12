@@ -72,8 +72,7 @@ If you are a regular user at home and suddenly see forced extensions you did not
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Tab Discard What It Means](/chrome-tab-discard-what-it-means)
+- [Chrome Site Isolation What It Means](/chrome-site-isolation-what-it-means)
+- [Chrome Benchmark Score What It Means](/chrome-benchmark-score-what-it-means)

@@ -66,8 +66,7 @@ Saving data on Chrome mobile does not have to mean giving up the websites you en
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome reduce data usage mobile](/chrome-reduce-data-usage-mobile)
-- [chrome android tips to save data](/chrome-android-tips-to-save-data)
-- [chrome reduce data usage tips](/chrome-reduce-data-usage-tips)
+- [Chrome Mobile Save Page Offline How To](/chrome-mobile-save-page-offline-how-to)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [Chrome Reduce Data Usage On Mobile](/chrome-reduce-data-usage-on-mobile)

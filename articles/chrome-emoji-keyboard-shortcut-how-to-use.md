@@ -74,8 +74,7 @@ With these tools at your disposal, adding personality and expression to your onl
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Switching Profiles Keyboard Shortcut](/chrome-switching-profiles-keyboard-shortcut)
-- [Chrome for Keyboard Shortcut Customization](/chrome-for-keyboard-shortcut-customization)
-- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome Sensors Emulation How to Use](/chrome-sensors-emulation-how-to-use)
+- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)

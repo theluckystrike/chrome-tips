@@ -71,8 +71,7 @@ Remember that these tools exist to make your life easier, not more complicated. 
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
+- [Chrome for Cashback Extensions Comparison](/chrome-for-cashback-extensions-comparison)
 - [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extensions for Text Expander](/chrome-extensions-for-text-expander)
-- [Chrome Extensions for Eye Dropper Tool](/chrome-extensions-for-eye-dropper-tool)
+- [Chrome for Language Translation Extensions Comparison](/chrome-for-language-translation-extensions-comparison)

@@ -68,11 +68,10 @@ However, passwords are not going away overnight. Many websites still do not supp
 
 As more websites add passkey support and as you become more comfortable with the technology, you may find yourself using passwords less and less. The transition is happening gradually, and there is no pressure to switch everything at once. The important thing is to understand the benefits and start using passkeys where you can.
 
-
-
 ## Related Articles
-- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
-- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
-- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)
+- [Chrome vs Opera Features Comparison](/chrome-vs-opera-features-comparison)
+- [Chrome Reader Mode vs Safari Reader Comparison](/chrome-reader-mode-vs-safari-reader-comparison)
+- [Chrome IndexedDB vs LocalStorage Comparison](/chrome-indexeddb-vs-localstorage-comparison)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -97,8 +97,7 @@ Start by understanding your specific needs, choose an extension that addresses t
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome extensions for website distraction blocker](/chrome-extensions-for-website-distraction-blocker)
-- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
-- [Chrome Extensions for Website Archiving](/chrome-extensions-for-website-archiving)
+- [Chrome Extensions for Website Monitoring Changes](/chrome-extensions-for-website-monitoring-changes)
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
+- [Chrome Extensions For Canvas Fingerprint Blocker](/chrome-extensions-for-canvas-fingerprint-blocker)

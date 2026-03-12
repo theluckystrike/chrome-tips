@@ -89,8 +89,7 @@ Once you have these basics in place, you will likely find that JSFiddle loads fa
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
-- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet)
+- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/best-chrome-settings-for-chromebook)
+- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)

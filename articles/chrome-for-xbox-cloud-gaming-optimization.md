@@ -81,8 +81,7 @@ Remember that small things add up. That extension you forgot was running in the 
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [Chrome for Cloud Gaming Best Settings](/chrome-for-cloud-gaming-best-settings)
-- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
-- [chrome for codesandbox optimization](/chrome-for-codesandbox-optimization)
+- [Chrome for Spotify Web Player Optimization](/chrome-for-spotify-web-player-optimization)
+- [Chrome for Zoom Classes Optimization](/chrome-for-zoom-classes-optimization)
+- [Chrome for Kindle Cloud Reader Setup - A Complete Guide](/chrome-for-kindle-cloud-reader-setup)

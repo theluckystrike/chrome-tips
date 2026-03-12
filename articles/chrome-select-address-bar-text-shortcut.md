@@ -58,12 +58,11 @@ While Chrome's built-in shortcuts are usually sufficient, running dozens of tabs
 
 Using **Tab Suspender Pro** is an excellent way to keep your browser snappy. It automatically "hibernates" background tabs, freeing up resources so that your **address bar shortcuts** and **URL copying** happen instantly. By keeping your browser lean, you ensure that your **workflow** remains fast and your **shortcuts** are always responsive, no matter how much research you're doing.
 
-
-
 ## Related Articles
-- [Chrome Address Bar Focus Shortcut](/chrome-address-bar-focus-shortcut)
-- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
-- [chrome coupons in address bar feature](/chrome-coupons-in-address-bar-feature)
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [Chrome For Site Search From Address Bar](/chrome-for-site-search-from-address-bar)
+- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

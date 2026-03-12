@@ -87,8 +87,7 @@ For users who want additional control over tab management and resource usage, ex
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Shape Detection API Explained](/chrome-shape-detection-api-explained)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)

@@ -70,8 +70,7 @@ Whether you are looking for better tab management with something like Tab Suspen
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
-- [chrome privacy badger vs ublock origin comparison](/chrome-privacy-badger-vs-ublock-origin-comparison)
-- [Chrome Web Push Notifications Setup Guide](/chrome-web-push-notifications-setup-guide)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)

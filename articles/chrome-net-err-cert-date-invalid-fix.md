@@ -66,8 +66,7 @@ Finally, if you encounter this error frequently on specific websites, consider r
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome net err cert common name invalid fix](/chrome-net-err-cert-common-name-invalid-fix)
-- [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/chrome-err-cert-authority-invalid-fix)
 - [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/chrome-err-ssl-protocol-error-fix)
+- [Chrome ERR_NETWORK_CHANGED Fix](/chrome-err-network-changed-fix)
+- [Chrome ERR_QUIC_PROTOCOL_ERROR Fix](/chrome-err-quic-protocol-error-fix)

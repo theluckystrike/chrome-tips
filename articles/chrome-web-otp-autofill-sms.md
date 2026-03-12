@@ -83,11 +83,10 @@ However, SMS-based verification will likely remain prevalent for the foreseeable
 
 By understanding how this feature works and implementing it correctly, both users and developers can benefit from faster, more secure authentication processes.
 
-
-
 ## Related Articles
 - [Chrome Web OTP API Explained](/chrome-web-otp-api-explained)
-- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

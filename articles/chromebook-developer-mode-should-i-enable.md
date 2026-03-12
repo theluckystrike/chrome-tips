@@ -95,8 +95,7 @@ Whatever you decide, your Chromebook will still be a capable machine. The choice
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
-- [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/chrome-extensions-developer-mode)
-- [Chrome Developer Mode Extensions Guide](/chrome-developer-mode-extensions)
+- [Chrome Safe Browsing Should I Turn On](/chrome-safe-browsing-should-i-turn-on)
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
+- [How Often Should I Clear Chrome Cache](/how-often-should-i-clear-chrome-cache)

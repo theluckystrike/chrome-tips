@@ -72,11 +72,10 @@ Whether you are a developer building performance-conscious applications or a use
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained)
-- [chrome mutation observer api explained](/chrome-mutation-observer-api-explained)
-- [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Intersection Observer API Explained](/chrome-intersection-observer-api-explained)
+- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

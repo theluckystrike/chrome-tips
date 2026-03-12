@@ -71,8 +71,7 @@ Take a few minutes to implement the tips above before your next Duolingo session
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+- [Chrome for Canva Web App Optimization](/chrome-for-canva-web-app-optimization)
 - [Chrome for Salesforce Web App Optimization](/chrome-for-salesforce-web-app-optimization)
-- [Chrome for Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)
-- [Chrome for Descript Web App Optimization](/chrome-for-descript-web-app-optimization)
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)

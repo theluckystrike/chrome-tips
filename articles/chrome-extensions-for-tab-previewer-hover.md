@@ -61,8 +61,7 @@ Most of these extensions offer free versions with basic features, so you can tes
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
-- [Chrome for Translation On Hover Extensions](/chrome-for-translation-on-hover-extensions)
+- [Chrome Extensions for Weather Forecast New Tab](/chrome-extensions-for-weather-forecast-new-tab)
 - [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
+- [Chrome Extensions for Tab Notes](/chrome-extensions-for-tab-notes)

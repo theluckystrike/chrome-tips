@@ -69,11 +69,9 @@ For additional performance improvements, consider using extensions like Tab Susp
 
 ---
 
-*
+*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Coverage Tool: Find Unused JavaScript](/chrome-coverage-tool-find-unused-javascript)
-- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
 - [Chrome Coverage Tool Guide](/chrome-coverage-tool-guide)
-
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)

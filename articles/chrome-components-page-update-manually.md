@@ -67,8 +67,7 @@ Keeping your Chrome components updated is a simple maintenance task that can pre
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [Chrome Update Failed Error 7 Fix](/chrome-update-failed-error-7-fix)
 - [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)

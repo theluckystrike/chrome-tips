@@ -73,8 +73,7 @@ Consider using a quality antivirus program. Some malware can interfere with brow
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
+- [Chrome Clock Behind Error Fix](/chrome-clock-behind-error-fix)
 - [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
 - [How to Fix Chrome Mixed Content Warning](/chrome-mixed-content-warning-fix)
-- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/chrome-err-ssl-protocol-error-fix)

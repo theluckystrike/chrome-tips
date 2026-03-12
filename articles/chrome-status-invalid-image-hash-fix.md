@@ -77,11 +77,10 @@ Be careful about installing too many extensions, as each one has the potential t
 
 Using a reputable antivirus program can also help by preventing malware that might inject unwanted code into your web sessions and cause image hash conflicts.
 
-
-
 ## Related Articles
-- [Chrome Status Code 502 Bad Gateway Fix](/chrome-status-code-502-bad-gateway-fix)
-- [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/chrome-err-cert-authority-invalid-fix)
-- [Chrome NET ERR CERT DATE INVALID Fix](/chrome-net-err-cert-date-invalid-fix)
+- [Chrome Net Err Cert Common Name Invalid Fix](/chrome-net-err-cert-common-name-invalid-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

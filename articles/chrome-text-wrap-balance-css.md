@@ -62,11 +62,10 @@ For those who want to explore more ways to improve their browser experience and 
 
 ---
 
-
-
 ## Related Articles
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
 - [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)
+- [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)
+- [Chrome Overriding CSS in DevTools: A Practical Tutorial](/chrome-overriding-css-in-devtools-tutorial)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

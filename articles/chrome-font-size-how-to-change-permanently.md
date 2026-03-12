@@ -64,8 +64,7 @@ Once you find the combination that works for you, the days of manually zooming i
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [How to Change Chrome Font Size Permanently](/chrome-font-size-permanently-change)
-- [Chrome Text Size on Phone How to Change](/chrome-text-size-on-phone-how-to-change)
+- [How to Increase Chrome Cache Size](/chrome-cache-size-how-to-increase)
 - [Chrome Text Size How to Increase Permanently](/chrome-text-size-how-to-increase-permanently)
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)

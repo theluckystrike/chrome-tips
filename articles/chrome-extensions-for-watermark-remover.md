@@ -76,8 +76,7 @@ Remember that the goal is to achieve a result that looks natural and professiona
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [Chrome Extensions for Background Remover](/chrome-extensions-for-background-remover)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
 - [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

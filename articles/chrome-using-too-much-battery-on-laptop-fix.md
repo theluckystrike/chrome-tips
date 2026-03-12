@@ -83,11 +83,10 @@ After making these changes, pay attention to how long your battery lasts. You mi
 
 Chrome using too much battery on laptop is a common problem, but it is one you can solve. With a few tweaks to your settings and habits, you can enjoy all the features Chrome offers without watching your battery icon drain in front of your eyes.
 
-
-
 ## Related Articles
-- [Chrome Using Too Much Disk Space Fix](/chrome-using-too-much-disk-space-fix)
 - [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)
-- [Chrome Using Too Much Memory on MacBook Air](/chrome-using-too-much-memory-on-macbook-air)
+- [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
+- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

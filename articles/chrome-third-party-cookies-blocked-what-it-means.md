@@ -72,11 +72,10 @@ You do not need to do anything if you are comfortable with the changes. Chrome i
 
 ---
 
-
-
 ## Related Articles
 - [Chrome Third Party Cookies What Happens When Blocked](/chrome-third-party-cookies-what-happens-when-blocked)
-- [chrome first party vs third party cookies](/chrome-first-party-vs-third-party-cookies)
-- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)
+- [Chrome Forced Extensions by Admin What It Means](/chrome-forced-extensions-by-admin-what-it-means)
+- [Chrome First Party Vs Third Party Cookies](/chrome-first-party-vs-third-party-cookies)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

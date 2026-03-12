@@ -63,8 +63,7 @@ Chrome Speech Recognition API explained is really about understanding how your b
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Speech Recognition API Guide](/chrome-speech-recognition-api)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
+- [Chrome Background Sync API Explained](/chrome-background-sync-api-explained)
 - [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)

@@ -54,8 +54,7 @@ Try browsing the way you normally do and pay attention to how quickly pages star
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome prefetch dns how to enable](/chrome-prefetch-dns-how-to-enable)
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome Pin Tab What It Does Explained](/chrome-pin-tab-what-it-does-explained)
 - [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+- [Chrome Password Checkup What It Does](/chrome-password-checkup-what-it-does)

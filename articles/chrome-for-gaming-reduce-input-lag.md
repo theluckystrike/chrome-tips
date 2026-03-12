@@ -57,8 +57,7 @@ An outdated version of Chrome may have performance issues that contribute to inp
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [chrome data usage on phone how to reduce](/chrome-data-usage-on-phone-how-to-reduce)
-- [chrome reduce data usage mobile](/chrome-reduce-data-usage-mobile)
-- [Chrome Reduce Memory Usage Android - Complete Guide](/chrome-reduce-memory-usage-android)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Low Latency Mode for Gaming](/chrome-low-latency-mode-for-gaming)
+- [Chrome vs Opera GX for Gaming](/chrome-vs-opera-gx-for-gaming)

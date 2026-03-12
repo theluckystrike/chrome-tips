@@ -91,8 +91,7 @@ Remember that technology should support your teaching, not complicate it. Small 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
-- [chrome classroom extension for teachers](/chrome-classroom-extension-for-teachers)
-- [Chrome for Google Classroom Tips](/chrome-for-google-classroom-tips)
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+- [Chrome For Stripe Dashboard Tips](/chrome-for-stripe-dashboard-tips)
+- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online)

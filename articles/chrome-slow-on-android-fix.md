@@ -92,8 +92,7 @@ By following these steps, you should notice a significant improvement in your Ch
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Android App Running Slow Fix: Practical Solutions That Actually Work](/chrome-android-app-running-slow-fix)
-- [Chrome Android Slow Fix 2026](/chrome-android-slow-fix-2026)
-- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Keeps Stopping on Android Fix](/chrome-keeps-stopping-on-android-fix)
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)

@@ -85,8 +85,7 @@ For more advanced tab management, consider using extensions like Tab Suspender P
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
 - [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)
-- [chrome recently closed tabs shortcut](/chrome-recently-closed-tabs-shortcut)
-- [Chrome Cycle Through Tabs Shortcut](/chrome-cycle-through-tabs-shortcut)
+- [How to Close All Chrome Tabs at Once](/how-to-close-all-chrome-tabs-at-once)
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)

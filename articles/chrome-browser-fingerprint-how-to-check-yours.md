@@ -65,8 +65,7 @@ Remember that protecting your privacy is an ongoing process. New tracking techni
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [Chrome Location History in Browser How to Check](/chrome-location-history-in-browser-how-to-check)
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
+- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
+- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)

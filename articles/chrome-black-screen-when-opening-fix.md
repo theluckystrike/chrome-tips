@@ -171,11 +171,10 @@ Chrome black screen issues are annoying but usually fixable. Start with the easi
 
 If you've tried all these fixes and still see a black screen, the issue might be related to your operating system or hardware. Consider checking for Windows updates or, on Mac, running Apple Diagnostics to check for hardware problems.
 
-
-
 ## Related Articles
-- [Chrome Black Screen Fix](/chrome-black-screen-fix)
-- [Chrome Freezes When Opening New Tab Fix](/chrome-freezes-when-opening-new-tab-fix)
-- [Chrome PDF Not Opening Fix](/chrome-pdf-not-opening-fix)
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Screen Flickering Fix](/chrome-screen-flickering-fix)
+- [Chrome Uses All CPU When Idle Fix](/chrome-uses-all-cpu-when-idle-fix)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

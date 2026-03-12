@@ -79,11 +79,10 @@ Start by checking your startup tabs, disabling unnecessary extensions, and enabl
 
 With these steps, you can enjoy a faster browsing experience and stop wondering why opening Chrome slows down everything.
 
-
-
 ## Related Articles
-- [Does Having Many Chrome Extensions Slow Down Browser](/does-having-many-chrome-extensions-slow-down-browser)
+- [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/chrome-slows-down-after-opening-20-tabs)
 - [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
-- [How to Find Chrome Extensions That Slow Down Browser](/how-to-find-chrome-extensions-that-slow-down-browser)
+- [One Chrome Tab Making Everything Slow: What to Do About It](/one-chrome-tab-making-everything-slow)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

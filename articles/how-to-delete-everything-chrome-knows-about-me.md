@@ -77,8 +77,7 @@ For ongoing privacy, consider making a habit of clearing your data regularly or 
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
 
-
 ## Related Articles
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Why Does Opening Chrome Slow Down Everything](/why-does-opening-chrome-slow-down-everything)
+- [Chrome Web and App Activity How to Delete](/chrome-web-and-app-activity-how-to-delete)
+- [How to Check If Chrome Extension Is Spying on Me](/how-to-check-if-chrome-extension-is-spying-on-me)
+- [Chrome Desktop Shortcuts How To Create](/chrome-desktop-shortcuts-how-to-create)

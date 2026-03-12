@@ -109,11 +109,10 @@ The manual scrolling method works well as a backup when other methods fail or wh
 
 ---
 
-
-
 ## Related Articles
-- [chrome extensions for screenshot full page](/chrome-extensions-for-screenshot-full-page)
 - [How to Take Screenshot in Chrome Without Extension](/how-to-take-screenshot-in-chrome-without-extension)
-- [how to screenshot full page in chrome](/how-to-screenshot-full-page-in-chrome)
+- [Chrome Devtools Screenshot Full Page](/chrome-devtools-screenshot-full-page)
+- [Chrome Extension Popup Page Tutorial](/chrome-extension-popup-page-tutorial)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

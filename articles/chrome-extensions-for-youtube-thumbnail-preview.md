@@ -61,8 +61,7 @@ Most thumbnail preview extensions are free and work automatically once installed
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
-- [best chrome extensions for youtube power users](/best-chrome-extensions-for-youtube-power-users)
-- [Chrome Extensions for YouTube Productivity](/chrome-extensions-for-youtube-productivity)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
 - [Chrome Extensions for Markdown Editor Preview](/chrome-extensions-for-markdown-editor-preview)

@@ -105,11 +105,10 @@ Remember that effective debugging is not just about finding problems but also un
 
 ---
 
-
-
 ## Related Articles
+- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
+- [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
 - [Chrome CSS Grid Layout Complete Guide](/chrome-css-grid-layout-complete-guide)
-- [Chrome Gap Property CSS Flexbox Grid](/chrome-gap-property-css-flexbox-grid)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

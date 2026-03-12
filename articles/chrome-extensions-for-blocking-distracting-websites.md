@@ -1,20 +1,9 @@
 ---
-layout: post
-title: Chrome Extensions for Blocking Distracting Websites
-description: Learn how chrome extensions for blocking distracting websites can help
-  you focus better and reclaim your productivity. Learn how to optimize your browser
-  tod...
+title: "Chrome Extensions For Blocking Distracting Websites"
+description: "Discover how Chrome Extensions For Blocking Distracting Websites can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions..."
 date: 2026-03-09
-categories:
-- productivity
-tags:
-- distractions
-- chrome-extensions
-- focus
-- website-blocking
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-extensions-for-blocking-distracting-websites
+last_modified_at: 2026-03-10
+permalink: /articles/chrome-extensions-for-blocking-distracting-websites/
 ---
 # Chrome Extensions for Blocking Distracting Websites
 

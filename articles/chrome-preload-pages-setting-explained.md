@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Preload Pages Setting Explained
-description: Discover Chrome's preload pages setting, why it affects your browser,
-  and how to configure it for optimal performance. Learn how to optimize your browser
-  tod...
-date: 2026-01-15
+description: Discover Chrome's preload pages setting, why it affects your browser, and how to configure it for optimal performance. Learn effective tips and tricks to opt...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-preload-pages-setting-explained
 categories:
 - performance
 - troubleshooting

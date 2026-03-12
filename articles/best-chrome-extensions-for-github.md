@@ -85,4 +85,9 @@ If tab management is your main challenge, Tab Suspender Pro can help. If navigat
 
 Once you find the right tools, you will notice a smoother workflow that lets you focus on what matters most: writing code and collaborating with your team. Small improvements in your daily tools can lead to significant productivity gains over time.
 
+## Related Articles
+* [chrome for github best extensions](/articles/chrome-for-github-best-extensions/)
+* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
+* [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

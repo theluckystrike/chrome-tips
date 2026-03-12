@@ -1,20 +1,9 @@
 ---
-layout: post
-title: Chrome Extensions for Diigo
-description: Discover the best Chrome extensions for Diigo that help you save, annotate,
-  and organize web pages for research and productivity. Learn how to optimize your
-  ...
+title: "Chrome Extensions For Diigo"
+description: "Discover how Chrome Extensions For Diigo can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings to boost p..."
 date: 2026-03-09
-categories:
-- productivity
-- tips
-tags:
-- chrome-extensions
-- diigo
-- bookmarking
-author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-extensions-for-diigo
+last_modified_at: 2026-03-09
+permalink: /articles/chrome-extensions-for-diigo/
 ---
 # Chrome Extensions for Diigo
 

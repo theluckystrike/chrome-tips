@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Chrome For Audible Web Player Tips
-description: Get more out of Audible in Chrome with practical tips for better performance,
-  easier listening, and smoother playback. Learn how to optimize your browser tod...
+title: chrome for audible web player tips
+description: Get more out of Audible in Chrome with practical tips for better performance, easier listening, and smoother playback. Find out more tips on how to optimize ...
 date: 2025-01-15
 categories:
 - audiobooks
@@ -14,7 +13,7 @@ tags:
 - web-player
 - audiobook-streaming
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-audible-web-player-tips
 ---
 # Chrome for Audible Web Player Tips

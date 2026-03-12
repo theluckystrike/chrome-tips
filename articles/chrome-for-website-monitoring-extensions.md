@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome for Website Monitoring Extensions
-description: Discover Chrome extensions that help you monitor websites for changes,
-  price drops, and updates automatically. Learn how to optimize your browser today
-  for b...
-date: 2026-01-15
-categories:
-- extensions
-- productivity
-tags:
-- chrome-extensions
-- website-monitoring
-- automation
-- productivity
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-for-website-monitoring-extensions
+layout: "post"
+title: "Chrome for Website Monitoring Extensions"
+description: "Discover Chrome extensions that help you monitor websites for changes, price drops, and updates automatically. Check out our expert recommendations and tips to"
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-for-website-monitoring-extensions"
+categories: [extensions, productivity]
+tags: [chrome-extensions, website-monitoring, automation, productivity]
+author: "theluckystrike"
 ---
 # Chrome for Website Monitoring Extensions
 

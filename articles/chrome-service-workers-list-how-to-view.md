@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Service Workers List How to View
-description: Learn how to view all service workers running in Chrome, why they matter,
-  and how to manage them for better browser performance. Learn how to optimize your
-  b...
+description: Learn how to view all service workers running in Chrome, why they matter, and how to manage them for better browser performance. Read our comprehensive guide to
 date: '2026-01-15'
 last_modified_at: '2026-03-11'
 permalink: chrome-service-workers-list-how-to-view

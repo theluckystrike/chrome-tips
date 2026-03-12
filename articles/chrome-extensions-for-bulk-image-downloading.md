@@ -1,23 +1,9 @@
 ---
-layout: post
-title: Chrome Extensions for Bulk Image Downloading
-description: Discover the best Chrome extensions for bulk image downloading. Save
-  multiple images quickly with these simple tools. Learn how to optimize your browser
-  toda...
+title: "Chrome Extensions For Bulk Image Downloading"
+description: "Discover how Chrome Extensions For Bulk Image Downloading can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and se..."
 date: 2026-03-10
-categories:
-- image-download
-- chrome-extensions
-- productivity
-- tips
-tags:
-- chrome-extensions
-- bulk-download
-- image-saving
-- browser-tools
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-extensions-for-bulk-image-downloading
+last_modified_at: 2026-03-10
+permalink: /articles/chrome-extensions-for-bulk-image-downloading/
 ---
 # Chrome Extensions for Bulk Image Downloading
 

@@ -1,20 +1,12 @@
 ---
+title: "Chrome Crashing on Samsung Galaxy Phone"
+description: "Is Chrome crashing on your Samsung Galaxy? Find out why this happens and get simple fixes to stop the crashes and keep browsing smoothly. Read our full guide to"
+date: "2026-01-20"
+last_modified_at: "%Y->-"
+permalink: "chrome-crashing-on-samsung-galaxy-phone"
 layout: post
-title: Chrome Crashing on Samsung Galaxy Phone
-description: Is Chrome crashing on your Samsung Galaxy? Find out why this happens
-  and get simple fixes to stop the crashes and keep browsing smoothly. Learn how to
-  optimi...
-date: 2026-01-20
-categories:
-- mobile
-- troubleshooting
-- android
-- samsung
-tags:
-- chrome-android
-- samsung-browser
-- chrome-crash
-- mobile-browser
+categories: ['mobile', 'troubleshooting', 'android', 'samsung']
+tags: ['chrome-android', 'samsung-browser', 'chrome-crash', 'mobile-browser']
 author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-crashing-on-samsung-galaxy-phone

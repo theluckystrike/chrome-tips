@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome Incognito What Can My Employer See
-description: Wondering if Chrome Incognito hides your browsing from your employer?
-  Here's the honest answer and what you can actually do. Learn how to optimize your
-  brows...
-date: 2026-01-15
-categories:
-- privacy
-- features
-tags:
-- incognito-mode
-- chrome-privacy
-- employer-monitoring
-- private-browsing
-author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-incognito-what-can-my-employer-see
+layout: "post"
+title: "Chrome Incognito What Can My Employer See"
+description: "Wondering if Chrome Incognito hides your browsing from your employer? Here's the honest answer and what you can actually do. Check out our expert recommendatio"
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "chrome-incognito-what-can-my-employer-see"
+categories: [privacy, features]
+tags: [incognito-mode, chrome-privacy, employer-monitoring, private-browsing]
+author: "theluckystrike"
 ---
 # Chrome Incognito What Can My Employer See
 

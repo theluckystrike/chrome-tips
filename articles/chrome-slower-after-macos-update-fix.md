@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Slower After macOS Update Fix
-description: Is Chrome running slower after your macOS update? Discover practical
-  solutions to fix Chrome performance on older Macs with limited RAM. Learn how to
-  optimiz...
+description: 'Is Chrome running slower after your macOS update? Discover practical solutions to fix Chrome performance on older Macs with limited RAM. Read our comprehensive '
 date: 2026-01-15
 categories:
 - performance
@@ -16,8 +14,8 @@ tags:
 - browser-performance
 - low-ram
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-slower-after-macos-update-fix
+last_modified_at: '2026-03-11'
 ---
 # Chrome Slower After macOS Update Fix
 

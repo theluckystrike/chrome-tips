@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Chrome Performance Settings Explained 2026
-description: A complete guide to Chrome performance settings explained for 2026, helping
-  you speed up your browser and reduce memory usage. Learn how to optimize your bro...
-date: 2026-03-10
+description: A complete guide to Chrome performance settings explained for 2026, helping you speed up your browser and reduce memory usage. Learn effective tips and trick...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-performance-settings-explained-2026
 categories:
 - performance
 - settings

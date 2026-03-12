@@ -1,20 +1,13 @@
 ---
-layout: post
-title: Chrome High Memory Usage Windows 11
-description: Chrome using too much RAM on Windows 11? Learn why it happens and practical
-  fixes to reduce memory usage. Learn how to optimize your browser today for better...
-date: 2026-01-20
-categories:
-- performance
-- windows-11
-tags:
-- chrome-memory
-- windows-11
-- ram-usage
-- browser-performance
-author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-high-memory-usage-windows-11
+layout: "post"
+title: "Chrome High Memory Usage Windows 11"
+description: "Chrome using too much RAM on Windows 11? Learn why it happens and practical fixes to reduce memory usage. Check out our expert recommendations and tips to enha"
+date: "2026-01-20"
+last_modified_at: "2026-03-09"
+permalink: "chrome-high-memory-usage-windows-11"
+categories: [performance, windows-11]
+tags: [chrome-memory, windows-11, ram-usage, browser-performance]
+author: "theluckystrike"
 ---
 # Chrome High Memory Usage Windows 11
 

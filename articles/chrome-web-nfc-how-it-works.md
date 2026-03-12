@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome Web Nfc How It Works
-description: Learn how Chrome Web NFC works to read and write NFC tags directly from
-  your browser. A simple guide for using NFC on any website. Learn how to optimize
-  your...
-date: 2026-03-09
-categories:
-- features
-- connectivity
-tags:
-- nfc
-- web-nfc
-- chrome-features
-- wireless
-author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-web-nfc-how-it-works
+layout: "post"
+title: "chrome web nfc how it works"
+description: "Learn how Chrome Web NFC works to read and write NFC tags directly from your browser. A simple guide for using NFC on any website. Read our comprehensive gui..."
+date: "2026-03-09"
+last_modified_at: "2026-03-09"
+permalink: "chrome-web-nfc-how-it-works"
+categories: "[features, connectivity]"
+tags: "[nfc, web-nfc, chrome-features, wireless]"
+author: "theluckystrike"
 ---
 # Chrome Web NFC How It Works
 

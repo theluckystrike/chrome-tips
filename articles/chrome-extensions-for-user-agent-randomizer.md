@@ -1,18 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions for User Agent Randomizer
-description: Looking for chrome extensions for user agent randomizer? Find the best
-  tools to change your browser identity and improve privacy. Learn how to optimize
-  your ...
+title: "Chrome Extensions for User Agent Randomizer"
+description: "Looking for chrome extensions for user agent randomizer? Find the best tools to change your browser identity and improve privacy. Read our comprehensive guid..."
 date: 2026-03-09
-categories:
-- privacy
-- browsing
-tags:
-- chrome-extensions
-- user-agent
-- privacy
-- browser-identity
+last_modified_at: 2026-03-09
+permalink: chrome-extensions-for-user-agent-randomizer
+categories: [privacy, browsing]
+tags: [chrome-extensions, user-agent, privacy, browser-identity]
 author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-user-agent-randomizer

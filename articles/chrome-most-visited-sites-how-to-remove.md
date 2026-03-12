@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Chrome Most Visited Sites How to Remove
-description: Learn how to remove most visited sites in Chrome. Simple steps to clear,
-  hide, or customize the sites that appear on your new tab page. Learn how to optimize...
-date: 2025-02-19
+description: Learn how to remove most visited sites in Chrome. Simple steps to clear, hide, or customize the sites that appear on your new tab page. Learn effective tips ...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-most-visited-sites-how-to-remove
 categories:
 - browser-tips
 - customization

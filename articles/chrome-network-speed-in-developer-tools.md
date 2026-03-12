@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Chrome Network Speed in Developer Tools
-description: Learn how to check and improve your network speed using Chrome Developer
-  Tools. Simple steps to diagnose slow browsing issues. Learn how to optimize your
-  bro...
-date: '2026-01-15'
+description: Learn how to check and improve your network speed using Chrome Developer Tools. Simple steps to diagnose slow browsing issues. Learn effective tips and trick...
+date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-network-speed-in-developer-tools
 ---

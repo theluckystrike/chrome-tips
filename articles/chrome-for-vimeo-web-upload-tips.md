@@ -1,22 +1,13 @@
 ---
-layout: post
-title: Chrome For Vimeo Web Upload Tips
-description: Learn how to use Chrome for Vimeo web uploads with these practical tips
-  to speed up your workflow and avoid common issues. Learn how to optimize your browser...
-date: 2026-01-15
-categories:
-- browsers
-- video
-- productivity
-tags:
-- chrome
-- vimeo
-- upload
-- video-upload
-- tips
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-for-vimeo-web-upload-tips
+layout: "post"
+title: "chrome for vimeo web upload tips"
+description: "Learn how to use Chrome for Vimeo web uploads with these practical tips to speed up your workflow and avoid common issues. Check out our expert recommendations"
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-for-vimeo-web-upload-tips"
+categories: [browsers, video, productivity]
+tags: [chrome, vimeo, upload, video-upload, tips]
+author: "theluckystrike"
 ---
 # Chrome for Vimeo Web Upload Tips
 

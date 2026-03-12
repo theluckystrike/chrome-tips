@@ -1,22 +1,13 @@
 ---
-layout: post
-title: Chrome Webgpu Gaming In Browser Future
-description: Explore how Chrome WebGPU is revolutionizing gaming in the browser, enabling
-  console-quality graphics and immersive experiences without installations.
-date: 2026-01-20
-categories:
-- gaming
-- technology
-- web-development
-tags:
-- webgpu
-- chrome
-- gaming
-- browser-gaming
-- web-development
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-webgpu-gaming-in-browser-future
+layout: "post"
+title: "chrome webgpu gaming in browser future"
+description: "Explore how Chrome WebGPU is revolutionizing gaming in the browser, enabling console-quality graphics and immersive experiences without installations."
+date: "2026-01-20"
+last_modified_at: "2026-03-11"
+permalink: "chrome-webgpu-gaming-in-browser-future"
+categories: "[gaming, technology, web-development]"
+tags: "[webgpu, chrome, gaming, browser-gaming, web-development]"
+author: "theluckystrike"
 ---
 # Chrome WebGPU: The Future of Gaming in Your Browser
 

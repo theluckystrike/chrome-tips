@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Why Chrome Is Slow on Battery But Fast When Plugged In
-description: Understanding why Chrome runs slower on laptop battery and how to fix
-  it. Tips to improve Chrome performance on battery power. Learn how to optimize your
-  bro...
+description: Understanding why Chrome runs slower on laptop battery and how to fix it. Tips to improve Chrome performance on battery power. Read our comprehensive guide to l
 date: 2026-03-11
 categories:
 - chrome
@@ -15,8 +13,8 @@ tags:
 - laptop-performance
 - chrome-slow
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-slow-on-battery-but-fast-plugged-in
+last_modified_at: '2026-03-11'
 ---
 # Why Chrome Is Slow on Battery But Fast When Plugged In
 

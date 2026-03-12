@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for Language Learning Extensions
-description: Discover the best Chrome extensions for language learning to improve
-  vocabulary, grammar, and pronunciation while you browse. Learn how to optimize your
-  brow...
+description: Discover the best Chrome extensions for language learning to improve vocabulary, grammar, and pronunciation while you browse. Discover more tips and tricks t
 date: 2026-01-15
 categories:
 - language-learning
@@ -14,7 +12,7 @@ tags:
 - education
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-language-learning-extensions
 ---
 # Chrome for Language Learning Extensions

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Chrome For Recipe Browsing Without Ads
-description: Learn how to browse recipes in Chrome without ads interrupting your cooking.
-  Practical tips for a cleaner recipe browsing experience. Learn how to optimize y...
+title: chrome for recipe browsing without ads
+description: 'Learn how to browse recipes in Chrome without ads interrupting your cooking. Practical tips for a cleaner recipe browsing experience. Discover more tips and '
 date: 2025-01-15
 categories:
 - extensions
@@ -13,7 +12,7 @@ tags:
 - browsing
 - extensions
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-recipe-browsing-without-ads
 ---
 # Chrome for Recipe Browsing Without Ads

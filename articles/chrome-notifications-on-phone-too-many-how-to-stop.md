@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Chrome Notifications on Phone Too Many How to Stop
-description: Getting too many Chrome notifications on your phone? Learn simple ways
-  to regain control and reduce the noise. Learn how to optimize your browser today
-  for b...
-date: '2026-01-15'
+description: Getting too many Chrome notifications on your phone? Learn simple ways to regain control and reduce the noise. Learn effective tips and tricks to optimize yo...
+date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-notifications-on-phone-too-many-how-to-stop
 ---

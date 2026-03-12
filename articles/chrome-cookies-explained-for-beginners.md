@@ -1,18 +1,12 @@
 ---
+title: "Chrome Cookies Explained for Beginners"
+description: "Learn what Chrome cookies are, how they work, and how to manage them. A simple guide for everyday users. Read our full guide to master your Chrome browser exper"
+date: "2025-03-09"
+last_modified_at: "%Y->-"
+permalink: "chrome-cookies-explained-for-beginners"
 layout: post
-title: Chrome Cookies Explained for Beginners
-description: Learn what Chrome cookies are, how they work, and how to manage them.
-  A simple guide for everyday users. Learn how to optimize your browser today for
-  better ...
-date: 2025-03-09
-categories:
-- beginners
-- tips
-tags:
-- chrome-cookies
-- browser-cookies
-- beginners-guide
-- cookie-management
+categories: ['beginners', 'tips']
+tags: ['chrome-cookies', 'browser-cookies', 'beginners-guide', 'cookie-management']
 author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-cookies-explained-for-beginners

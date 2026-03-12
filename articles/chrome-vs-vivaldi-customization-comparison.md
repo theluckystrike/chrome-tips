@@ -1,23 +1,13 @@
 ---
-layout: post
-title: 'Chrome vs Vivaldi Customization Comparison: Which Browser Gives You More Control?'
-description: A practical comparison of Chrome and Vivaldi customization options. Learn
-  which browser offers better themes, tab management, and personalization features
-  fo...
-date: 2026-01-15
-categories:
-- browsers
-- customization
-- chrome
-- vivaldi
-tags:
-- chrome-customization
-- vivaldi-customization
-- browser-comparison
-- browser-themes
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-vs-vivaldi-customization-comparison
+layout: "post"
+title: "Chrome vs Vivaldi Customization Comparison: Which Browser Gives You More Control?"
+description: "A practical comparison of Chrome and Vivaldi customization options. Learn which browser offers better themes, tab management, and personalization features fo..."
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-vs-vivaldi-customization-comparison"
+categories: "[browsers, customization, chrome, vivaldi]"
+tags: "[chrome-customization, vivaldi-customization, browser-comparison, browser-themes]"
+author: "theluckystrike"
 ---
 # Chrome vs Vivaldi Customization Comparison: Which Browser Gives You More Control?
 

@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome for Zoom in Browser Best Settings
-description: Improve your Zoom calls in Chrome with these simple settings. Better
-  video quality, less lag, and smoother meetings. Learn how to optimize your browser
-  today...
-date: 2025-02-20
-categories:
-- performance
-- video-calls
-tags:
-- zoom
-- video-calls
-- chrome-settings
-- browser-zoom
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-for-zoom-in-browser-best-settings
+layout: "post"
+title: "Chrome for Zoom in Browser Best Settings"
+description: "Improve your Zoom calls in Chrome with these simple settings. Better video quality, less lag, and smoother meetings. Check out our expert recommendations and t"
+date: "2025-02-20"
+last_modified_at: "2026-03-10"
+permalink: "chrome-for-zoom-in-browser-best-settings"
+categories: [performance, video-calls]
+tags: [zoom, video-calls, chrome-settings, browser-zoom]
+author: "theluckystrike"
 ---
 # Chrome for Zoom in Browser Best Settings
 

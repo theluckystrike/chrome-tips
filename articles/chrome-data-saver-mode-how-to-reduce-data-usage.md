@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Chrome Data Saver Mode How To Reduce Data Usage
+title: chrome data saver mode how to reduce data usage
 description: Learn how to use Chrome Data Saver mode to reduce data usage by up to
-  60 percent. Easy step-by-step guide for saving data. Learn how to optimize your
-  browser...
+  60 percent. Easy step-by-step guide for saving data. Learn more about how to optimize
 date: 2025-03-16
 categories:
 - tips
@@ -15,8 +14,8 @@ tags:
 - data-saving
 - reduce-data-usage
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-data-saver-mode-how-to-reduce-data-usage
+last_modified_at: '%Y->-'
+permalink: /chrome-data-saver-mode-how-to-reduce-data-usage/
 ---
 # Chrome Data Saver Mode: How to Reduce Data Usage
 

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Related Website Sets Explained
-description: Learn what Chrome Related Website Sets are, how they work, and how to
-  use them to organize your browsing experience more effectively. Learn how to optimize
-  y...
+description: Learn what Chrome Related Website Sets are, how they work, and how to use them to organize your browsing experience more effectively. Read our comprehensive gui
 date: 2026-01-20
 categories:
 - browsers
@@ -15,8 +13,8 @@ tags:
 - website-sets
 - organization
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-related-website-sets-explained
+last_modified_at: '2026-03-11'
 ---
 # Chrome Related Website Sets Explained
 

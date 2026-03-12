@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Service Worker Caching Strategies
-description: Learn how Chrome service worker caching strategies work and how to use
-  them for faster, offline-capable web experiences. Learn how to optimize your browser
-  t...
+description: Learn how Chrome service worker caching strategies work and how to use them for faster, offline-capable web experiences. Read our comprehensive guide to learn m
 date: '2026-03-10'
 last_modified_at: '2026-03-11'
 permalink: chrome-service-worker-caching-strategies

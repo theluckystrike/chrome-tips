@@ -1,20 +1,13 @@
 ---
-layout: post
-title: Best Chrome Extensions for Online Shopping
-description: Discover the best Chrome extensions for online shopping that can save
-  you money, track prices, find coupons, and enhance your shopping experience. Learn
-  how ...
-date: 2026-03-11
-categories:
-- shopping
-- tips
-tags:
-- chrome-extensions
-- online-shopping
-- deals
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-extensions-for-online-shopping
+title: "Best Chrome Extensions for Online Shopping"
+description: "Discover the best Chrome extensions for online shopping that can save you money, track prices, find coupons, and enhance your shopping experience. Check out..."
+date: "2026-03-11"
+last_modified_at: "2026-03-11"
+permalink: "chrome-extensions-for-online-shopping"
+layout: "post"
+categories: "[shopping, tips]"
+tags: "[chrome-extensions, online-shopping, deals]"
+author: "theluckystrike"
 ---
 # Best Chrome Extensions for Online Shopping
 

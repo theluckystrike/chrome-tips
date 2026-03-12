@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions For Teachers 2026
-description: Discover the best chrome extensions for teachers in 2026 to save time,
-  engage students, and organize your digital classroom. Learn how to optimize your
-  brows...
+title: "chrome extensions for teachers 2026"
+description: "Discover the best chrome extensions for teachers in 2026 to save time, engage students, and organize your digital classroom. Read our comprehensive guide to ..."
 date: 2026-01-15
-categories:
-- extensions
-- education
-- productivity
-tags:
-- chrome-extensions
-- teachers
-- education
-- classroom
-- productivity
+last_modified_at: 2026-03-09
+permalink: chrome-extensions-for-teachers-2026
+categories: [extensions, education, productivity]
+tags: [chrome-extensions, teachers, education, classroom, productivity]
 author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-teachers-2026

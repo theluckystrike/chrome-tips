@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Chrome For Color Picker Extensions
-description: Find the best chrome for color picker extensions. Learn how to pick colors
-  from any webpage easily with these helpful tools. Learn how to optimize your brows...
+title: chrome for color picker extensions
+description: Find the best chrome for color picker extensions. Learn how to pick colors from any webpage easily with these helpful tools. Find out more tips on how to opt...
 date: 2026-01-15
 categories:
 - extensions
@@ -14,7 +13,7 @@ tags:
 - design
 - web-development
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-color-picker-extensions
 ---
 # Chrome for Color Picker Extensions

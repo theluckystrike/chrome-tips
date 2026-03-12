@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Chrome Tab Groups Advanced Tips
-description: Master chrome tab groups with advanced tips for better organization,
-  productivity, and workflow management in your browser. Learn how to optimize your
-  browse...
+title: chrome tab groups advanced tips
+description: Master chrome tab groups with advanced tips for better organization, productivity, and workflow management in your browser. Read our comprehensive guide to lear
 date: 2026-03-11
 categories:
 - productivity
@@ -16,8 +14,8 @@ tags:
 - browser-tips
 - organization
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-tab-groups-advanced-tips
+last_modified_at: '2026-03-11'
 ---
 # Chrome Tab Groups Advanced Tips: Organize Your Browser Like a Pro
 

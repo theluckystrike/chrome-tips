@@ -1,18 +1,12 @@
 ---
 layout: post
-title: Chrome Fingerprint Protection 2026
-description: Learn what browser fingerprinting is, why it tracks you, and how to protect
-  yourself in Chrome with simple steps. Learn how to optimize your browser today fo...
+title: "chrome fingerprint protection 2026"
+description: "Learn what browser fingerprinting is, why it tracks you, and how to protect yourself in Chrome with simple steps. Read our comprehensive guide to learn more ..."
 date: 2026-01-20
-categories:
-- privacy
-- security
-tags:
-- chrome-fingerprint
-- browser-fingerprint
-- privacy-protection
-- anti-fingerprinting
-- online-privacy
+last_modified_at: 2026-03-09
+permalink: chrome-fingerprint-protection-2026
+categories: [privacy, security]
+tags: [chrome-fingerprint, browser-fingerprint, privacy-protection, anti-fingerprinting, online-privacy]
 author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-fingerprint-protection-2026

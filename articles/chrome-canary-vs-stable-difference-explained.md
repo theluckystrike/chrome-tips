@@ -1,20 +1,13 @@
 ---
-layout: post
-title: Chrome Canary vs Stable Difference Explained
-description: Chrome offers multiple release channels. Learn the key differences between
-  Chrome Canary and Stable, and which one fits your needs. Learn how to optimize you...
-date: 2026-03-09
-categories:
-- features
-- browser-setup
-tags:
-- chrome-canary
-- chrome-stable
-- chrome-channels
-- browser-comparison
-author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-canary-vs-stable-difference-explained
+layout: "post"
+title: "Chrome Canary vs Stable Difference Explained"
+description: "Chrome offers multiple release channels. Learn the key differences between Chrome Canary and Stable, and which one fits your needs. Check out our expert guide f"
+date: "2026-03-09"
+last_modified_at: "2026-03-09"
+permalink: "chrome-canary-vs-stable-difference-explained"
+categories: [features, browser-setup]
+tags: [chrome-canary, chrome-stable, chrome-channels, browser-comparison]
+author: "theluckystrike"
 ---
 # Chrome Canary vs Stable Difference Explained
 

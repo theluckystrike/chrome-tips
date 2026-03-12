@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome Extensions for Site Permissions Manager
-description: Learn how Chrome extensions for site permissions manager help you control
-  what websites can access on your browser. Learn how to optimize your browser today
-  ...
-date: 2026-03-09
-categories:
-- privacy
-- tips
-tags:
-- chrome-extensions
-- permissions
-- privacy
-- security
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-extensions-for-site-permissions-manager
+title: "Chrome Extensions for Site Permissions Manager"
+description: "Learn how Chrome extensions for site permissions manager help you control Check out our expert recommendations and tips to enhance your browsing experience..."
+date: "2026-03-09"
+last_modified_at: "2026-03-11"
+permalink: "chrome-extensions-for-site-permissions-manager"
+layout: "post"
+categories: ""
+tags: ""
+author: "theluckystrike"
 ---
 # Chrome Extensions for Site Permissions Manager
 

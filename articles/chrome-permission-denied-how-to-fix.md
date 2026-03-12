@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Chrome Permission Denied How to Fix
-description: Getting permission denied errors in Chrome? Learn what causes them and
-  how to fix them with simple steps anyone can follow. Learn how to optimize your
-  browse...
-date: '2026-01-15'
+description: Getting permission denied errors in Chrome? Learn what causes them and how to fix them with simple steps anyone can follow. Learn effective tips and tricks t...
+date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-permission-denied-how-to-fix
 ---

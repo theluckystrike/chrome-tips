@@ -1,19 +1,13 @@
 ---
-layout: post
-title: How to Clear Chrome Cache Properly
-description: Learn why Chrome cache causes problems and how to clear it properly.
-  Simple steps to free up space and fix slow browsing. Learn how to optimize your
-  browser ...
-date: 2025-02-19
-categories:
-- performance
-tags:
-- chrome-cache
-- browser-optimization
-- storage
-author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: how-to-clear-chrome-cache-properly
+layout: "post"
+title: "How to Clear Chrome Cache Properly"
+description: "Learn why Chrome cache causes problems and how to clear it properly. Simple steps to free up space and fix slow browsing. Read our comprehensive guide to lea..."
+date: "2025-02-19"
+last_modified_at: "2026-03-09"
+permalink: "how-to-clear-chrome-cache-properly"
+categories: "[performance]"
+tags: "[chrome-cache, browser-optimization, storage]"
+author: "theluckystrike"
 ---
 # How to Clear Chrome Cache Properly
 

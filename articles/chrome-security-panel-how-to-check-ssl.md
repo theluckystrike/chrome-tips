@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Security Panel How to Check SSL
-description: Learn how to use Chrome's Security panel to check SSL certificates and
-  verify website connections are safe. Learn how to optimize your browser today for
-  bett...
+description: Learn how to use Chrome's Security panel to check SSL certificates and verify website connections are safe. Read our comprehensive guide to learn more and impro
 date: 2025-02-19
 categories:
 - browser-tips
@@ -15,8 +13,8 @@ tags:
 - troubleshooting
 - privacy
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-security-panel-how-to-check-ssl
+last_modified_at: '2026-03-10'
 ---
 # Chrome Security Panel How to Check SSL
 

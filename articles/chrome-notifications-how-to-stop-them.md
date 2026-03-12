@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Chrome Notifications How to Stop Them
-description: Annoyed by Chrome notifications? Learn why they appear and how to disable
-  them in a few simple steps. Learn how to optimize your browser today for better
-  per...
-date: '2026-01-15'
+description: Annoyed by Chrome notifications? Learn why they appear and how to disable them in a few simple steps. Learn effective tips and tricks to optimize your Chrome...
+date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-notifications-how-to-stop-them
 ---

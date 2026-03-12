@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Search Engine Changed by Itself Fix
-description: Is your Chrome search engine changing by itself? Learn why this happens
-  and how to fix it with simple steps anyone can follow. Learn how to optimize your
-  bro...
+description: Is your Chrome search engine changing by itself? Learn why this happens and how to fix it with simple steps anyone can follow. Read our comprehensive guide to l
 date: 2026-01-20
 categories:
 - troubleshooting
@@ -13,8 +11,8 @@ tags:
 - browser-settings
 - search-engine-fix
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-search-engine-changed-by-itself-fix
+last_modified_at: '2026-03-10'
 ---
 # Chrome Search Engine Changed by Itself Fix
 

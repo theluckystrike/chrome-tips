@@ -1,23 +1,13 @@
 ---
-layout: post
-title: 'Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers'
-description: Is your Chrome browser stuttering during video playback? Learn practical
-  solutions to fix video stuttering, especially if you have limited RAM or an older
-  co...
-date: 2026-01-15
-categories:
-- performance
-- video
-- chrome-tips
-tags:
-- chrome-video
-- video-playback
-- stuttering-fix
-- browser-performance
-- low-ram
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-video-playback-stuttering-fix
+layout: "post"
+title: "Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers"
+description: "Is your Chrome browser stuttering during video playback? Learn practical solutions to fix video stuttering, especially if you have limited RAM or an older co..."
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-video-playback-stuttering-fix"
+categories: "[performance, video, chrome-tips]"
+tags: "[chrome-video, video-playback, stuttering-fix, browser-performance, low-ram]"
+author: "theluckystrike"
 ---
 # Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers
 

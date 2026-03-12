@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering'
-description: Learn about Chrome paint holding, why pages flicker when switching tabs,
-  and how to fix this browser issue for smoother browsing. Learn how to optimize your
-  ...
-date: 2026-03-09
+description: Learn about Chrome paint holding, why pages flicker when switching tabs, and how to fix this browser issue for smoother browsing. Learn effective tips and tr...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-paint-holding-feature-explained
 categories:
 - performance
 - tips

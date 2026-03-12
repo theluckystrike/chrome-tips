@@ -1,22 +1,13 @@
 ---
-layout: default
-title: Chrome Task Manager Guide
-description: Learn how to use Chrome Task Manager to monitor memory usage, GPU processes,
-  and network activity. Discover how to identify and terminate resource-heavy tabs...
-date: 2026-03-11
-categories:
-- chrome
-- performance
-- productivity
-tags:
-- chrome-task-manager
-- browser-performance
-- memory-usage
-- tab-management
-- chrome-tips
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-task-manager-guide
+layout: "default"
+title: "Chrome Task Manager Guide"
+description: "Learn how to use Chrome Task Manager to monitor memory usage, GPU processes, and network activity. Discover how to identify and terminate resource-heavy tabs..."
+date: "2026-03-11"
+last_modified_at: "2026-03-11"
+permalink: "chrome-task-manager-guide"
+categories: "[chrome, performance, productivity]"
+tags: "[chrome-task-manager, browser-performance, memory-usage, tab-management, chrome-tips]"
+author: "theluckystrike"
 ---
 # Chrome Task Manager Guide: Monitor and Control Browser Resources
 

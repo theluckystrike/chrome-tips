@@ -75,3 +75,8 @@ By mastering these `chrome://` URLs, you transition from a passive user to an ac
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome About Settings All Pages Explained](/articles/chrome-about-settings-all-pages-explained/)
+* [Chrome About Blank Page What It Means](/articles/chrome-about-blank-page-what-it-means/)
+* [Chrome Accessibility Features You Didn't Know About](/articles/chrome-accessibility-features-you-didnt-know-about/)

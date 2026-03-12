@@ -1,23 +1,13 @@
 ---
-layout: post
-title: Chrome Canva Slow Loading Fix
-description: Is Canva running slow in Chrome? Learn practical solutions to fix slow
-  loading times and improve your design workflow. Learn how to optimize your browser
-  tod...
-date: 2026-01-15
-categories:
-- productivity
-- browser
-- troubleshooting
-tags:
-- chrome
-- canva
-- slow-loading
-- performance
-- browser-tips
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-canva-slow-loading-fix
+layout: "post"
+title: "Chrome Canva Slow Loading Fix"
+description: "Is Canva running slow in Chrome? Learn practical solutions to fix slow loading times and improve your design workflow. Check out our expert guide for step-by-st"
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-canva-slow-loading-fix"
+categories: [productivity, browser, troubleshooting]
+tags: [chrome, canva, slow-loading, performance, browser-tips]
+author: "theluckystrike"
 ---
 # Chrome Canva Slow Loading Fix
 

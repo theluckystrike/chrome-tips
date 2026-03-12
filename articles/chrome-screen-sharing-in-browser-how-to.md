@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Screen Sharing in Browser How To
-description: Want to share your screen in Chrome? Learn how to use Chrome screen sharing
-  in browser with built-in tools and simple extensions. Learn how to optimize your
-  ...
+description: Want to share your screen in Chrome? Learn how to use Chrome screen sharing in browser with built-in tools and simple extensions. Read our comprehensive guide t
 date: 2026-01-20
 categories:
 - tutorials
@@ -14,8 +12,8 @@ tags:
 - screen-sharing
 - how-to
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-screen-sharing-in-browser-how-to
+last_modified_at: '2026-03-10'
 ---
 # Chrome Screen Sharing in Browser How To
 

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Sensors Emulation How to Use
-description: Learn how to use Chrome built-in sensors emulation to test location-based
-  features without moving from your desk. Learn how to optimize your browser today
-  fo...
+description: Learn how to use Chrome built-in sensors emulation to test location-based features without moving from your desk. Read our comprehensive guide to learn more and
 date: 2026-01-15
 categories:
 - devtools
@@ -15,8 +13,8 @@ tags:
 - testing
 - emulation
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-sensors-emulation-how-to-use
+last_modified_at: '2026-03-10'
 ---
 # Chrome Sensors Emulation How to Use
 

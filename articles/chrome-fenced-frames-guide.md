@@ -1,19 +1,12 @@
 ---
 layout: default
-title: Chrome Fenced Frames Explained
-description: Learn about Chrome Fenced Frames, a powerful browser feature that creates
-  privacy boundaries for ad rendering and cross-site isolation in modern web developm...
+title: "Chrome Fenced Frames Explained"
+description: "Learn about Chrome Fenced Frames, a powerful browser feature that creates privacy boundaries for ad rendering and cross-site isolation in modern web developm..."
 date: 2026-01-15
-categories:
-- privacy
-- chrome
-- web-development
-tags:
-- fenced-frames
-- privacy
-- ads
-- chrome
-- browser-security
+last_modified_at: 2026-03-10
+permalink: chrome-fenced-frames-guide
+categories: [privacy, chrome, web-development]
+tags: [fenced-frames, privacy, ads, chrome, browser-security]
 author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-fenced-frames-guide

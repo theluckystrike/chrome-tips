@@ -1,22 +1,13 @@
 ---
-layout: post
-title: 'Chrome Client Hints Instead of User Agent: What Changed'
-description: Chrome is replacing the User-Agent string with Client Hints. Learn what
-  this means for web developers, privacy, and how to adapt your websites. Learn how
-  to ...
-date: 2026-01-15
-categories:
-- web-development
-- privacy
-- chrome
-tags:
-- chrome-client-hints
-- user-agent
-- privacy
-- web-development
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-client-hints-instead-of-user-agent
+layout: "post"
+title: "Chrome Client Hints Instead of User Agent: What Changed"
+description: "Chrome is replacing the User-Agent string with Client Hints. Learn what this means for web developers, privacy, and how to adapt your websites. Check out our ex"
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-client-hints-instead-of-user-agent"
+categories: [web-development, privacy, chrome]
+tags: [chrome-client-hints, user-agent, privacy, web-development]
+author: "theluckystrike"
 ---
 # Chrome Client Hints Instead of User Agent: What Changed
 

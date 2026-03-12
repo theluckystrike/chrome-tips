@@ -1,17 +1,12 @@
 ---
+title: "Chrome Continue Where You Left Off Not Working"
+description: "Chrome continue where you left off not working can be frustrating. Learn why it happens and how to fix it with simple steps. Read our full guide to master your "
+date: "2025-03-09"
+last_modified_at: "%Y->-"
+permalink: "chrome-continue-where-you-left-off-not-working"
 layout: post
-title: Chrome Continue Where You Left Off Not Working
-description: Chrome continue where you left off not working can be frustrating. Learn
-  why it happens and how to fix it with simple steps. Learn how to optimize your brows...
-date: 2025-03-09
-categories:
-- troubleshooting
-- tips
-tags:
-- chrome-continue-where-you-left-off
-- session-restore
-- browser-tabs
-- chrome-fix
+categories: ['troubleshooting', 'tips']
+tags: ['chrome-continue-where-you-left-off', 'session-restore', 'browser-tabs', 'chrome-fix']
 author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-continue-where-you-left-off-not-working

@@ -2,10 +2,10 @@
 layout: post
 title: Chrome Default Download Location How to Set
 description: Learn how to set a default download location in Chrome to keep your files
-  organized and accessible. Learn how to optimize your browser today for better perfo...
-date: '2026-01-15'
-last_modified_at: '2026-03-09'
-permalink: chrome-default-download-location-how-to-set
+  organized and accessible. Learn more about how to optimize your Chrome browser ex
+date: '2026-05-24'
+last_modified_at: '%Y->-'
+permalink: /chrome-default-download-location-how-to-set/
 ---
 Chrome default download location how to set is something many people search for when they want more control over where their downloaded files go. Whether you are tired of digging through your Downloads folder or want to automatically save files to a specific project folder, setting a default location in Chrome is the solution you need.
 

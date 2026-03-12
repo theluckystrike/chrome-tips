@@ -1,18 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions for TikTok Downloader
-description: Looking for chrome extensions for tiktok downloader? Find the best tools
-  to save TikTok videos easily and legally. Learn how to optimize your browser today
-  f...
+title: "Chrome Extensions for TikTok Downloader"
+description: "Looking for chrome extensions for tiktok downloader? Find the best tools to save TikTok videos easily and legally. Read our comprehensive guide to learn more..."
 date: 2026-03-09
-categories:
-- social-media
-- tools
-tags:
-- chrome-extensions
-- tiktok
-- video-downloader
-- social-media-tools
+last_modified_at: 2026-03-09
+permalink: chrome-extensions-for-tiktok-downloader
+categories: [social-media, tools]
+tags: [chrome-extensions, tiktok, video-downloader, social-media-tools]
 author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-tiktok-downloader

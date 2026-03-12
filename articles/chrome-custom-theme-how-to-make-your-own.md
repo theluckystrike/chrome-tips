@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chrome Custom Theme How To Make Your Own
+title: chrome custom theme how to make your own
 description: Learn how to create a custom Chrome theme that reflects your personality.
   This step-by-step guide covers everything from using the Chrome Theme Creator to
   in...
@@ -14,8 +14,8 @@ tags:
 - browser-customization
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-custom-theme-how-to-make-your-own
+last_modified_at: '%Y->-'
+permalink: /chrome-custom-theme-how-to-make-your-own/
 ---
 # Chrome Custom Theme How to Make Your Own
 

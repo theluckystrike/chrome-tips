@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for PDF Editing Best Extensions
-description: Find the best Chrome extensions for PDF editing that let you annotate,
-  fill forms, and modify documents directly in your browser. Learn how to optimize
-  your ...
+description: Find the best Chrome extensions for PDF editing that let you annotate, fill forms, and modify documents directly in your browser. Discover more tips and tric
 date: 2026-03-10
 categories:
 - pdf
@@ -14,7 +12,7 @@ tags:
 - pdf-editing
 - document-tools
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-pdf-editing-best-extensions
 ---
 # Chrome for PDF Editing Best Extensions

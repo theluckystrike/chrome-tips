@@ -2,7 +2,8 @@
 layout: post
 title: How to Use Chrome Device Emulation to Test Your Mobile Website
 description: Learn how to use Chrome's built-in device emulation tools to test your
-  mobile website. Step-by-step guide for developers and designers. Learn how to optimize...
+  mobile website. Step-by-step guide for developers and designers. Learn more about
+  ho
 date: 2026-03-11
 categories:
 - chrome
@@ -15,8 +16,8 @@ tags:
 - chrome-devtools
 - responsive-design
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-device-emulation-test-mobile-website
+last_modified_at: '%Y->-'
+permalink: /chrome-device-emulation-test-mobile-website/
 ---
 # How to Use Chrome Device Emulation to Test Your Mobile Website
 

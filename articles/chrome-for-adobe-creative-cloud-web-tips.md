@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for Adobe Creative Cloud Web Tips
-description: Get the most out of Adobe Creative Cloud in Chrome with these practical
-  browser tips for better performance and workflow. Learn how to optimize your browser
-  ...
+description: Get the most out of Adobe Creative Cloud in Chrome with these practical browser tips for better performance and workflow. Find out more tips on how to optimi...
 date: 2026-01-15
 categories:
 - creative
@@ -14,7 +12,7 @@ tags:
 - creative-cloud-web
 - browser-performance
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-adobe-creative-cloud-web-tips
 ---
 # Chrome for Adobe Creative Cloud Web Tips

@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome Fenced Frames Privacy Explained
-description: A simple guide to Chrome Fenced Frames, what they are, how they work,
-  and what they mean for your privacy while browsing. Learn how to optimize your browser
-  ...
+title: "chrome fenced frames privacy explained"
+description: "A simple guide to Chrome Fenced Frames, what they are, how they work, and what they mean for your privacy while browsing. Read our comprehensive guide to lea..."
 date: 2026-01-20
-categories:
-- privacy
-- chrome
-- security
-tags:
-- fenced-frames
-- chrome-privacy
-- privacy-sandbox
-- iframes
-- tracking
+last_modified_at: 2026-03-11
+permalink: chrome-fenced-frames-privacy-explained
+categories: [privacy, chrome, security]
+tags: [fenced-frames, chrome-privacy, privacy-sandbox, iframes, tracking]
 author: theluckystrike
 last_modified_at: '2026-03-11'
 permalink: chrome-fenced-frames-privacy-explained

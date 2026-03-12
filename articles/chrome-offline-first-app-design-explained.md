@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Chrome Offline First App Design Explained
-description: Learn what chrome offline first app design means, how it works, and why
-  it matters for your browsing experience. Learn how to optimize your browser today
-  for...
-date: 2026-01-15
+title: chrome offline first app design explained
+description: Learn what chrome offline first app design means, how it works, and why it matters for your browsing experience. Learn effective tips and tricks to optimize ...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-offline-first-app-design-explained
 categories:
 - browser
 - pwa

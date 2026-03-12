@@ -1,20 +1,12 @@
 ---
+title: "chrome clipboard permission explained"
+description: "Learn why Chrome asks for clipboard permission and how to manage it for safer browsing. Simple steps to control what apps can access. Read our full guide to mas"
+date: "2026-01-15"
+last_modified_at: "%Y->-"
+permalink: "chrome-clipboard-permission-explained"
 layout: post
-title: Chrome Clipboard Permission Explained
-description: Learn why Chrome asks for clipboard permission and how to manage it for
-  safer browsing. Simple steps to control what apps can access. Learn how to optimize
-  y...
-date: 2026-01-15
-categories:
-- privacy
-- extensions
-- security
-tags:
-- clipboard
-- permissions
-- chrome
-- privacy
-- browser
+categories: ['privacy', 'extensions', 'security']
+tags: ['clipboard', 'permissions', 'chrome', 'privacy', 'browser']
 author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-clipboard-permission-explained

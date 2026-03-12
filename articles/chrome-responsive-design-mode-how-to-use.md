@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Chrome Responsive Design Mode: How to Use It Effectively'
-description: Learn how to use Chrome's built-in responsive design mode to test websites
-  across different screen sizes without multiple devices. Perfect for developers and...
+description: Learn how to use Chrome's built-in responsive design mode to test websites across different screen sizes without multiple devices. Perfect for developers and...
 date: 2026-01-15
 categories:
 - developer-tools
@@ -14,8 +13,8 @@ tags:
 - web-testing
 - design-mode
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-responsive-design-mode-how-to-use
+last_modified_at: '2026-03-11'
 ---
 # Chrome Responsive Design Mode: How to Use It Effectively
 

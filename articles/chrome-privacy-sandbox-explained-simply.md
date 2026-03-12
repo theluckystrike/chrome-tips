@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Chrome Privacy Sandbox Explained Simply
-description: A clear explanation of Chrome Privacy Sandbox and what it means for your
-  browsing privacy. Simple guide with practical steps. Learn how to optimize your
-  brow...
-date: 2026-01-20
+title: chrome privacy sandbox explained simply
+description: A clear explanation of Chrome Privacy Sandbox and what it means for your browsing privacy. Simple guide with practical steps. Learn effective tips and tricks...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-privacy-sandbox-explained-simply
 categories:
 - privacy
 - chrome

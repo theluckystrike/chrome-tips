@@ -1,18 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions for Tab Notes
-description: Discover the best chrome extensions for tab notes to keep track of important
-  information across your open tabs. Learn how to optimize your browser today for
-  ...
+title: "Chrome Extensions for Tab Notes"
+description: "Discover the best chrome extensions for tab notes to keep track of important information across your open tabs. Read our comprehensive guide to learn more an..."
 date: 2026-03-09
-categories:
-- productivity
-- organization
-tags:
-- chrome-extensions
-- tab-notes
-- productivity
-- organization
+last_modified_at: 2026-03-09
+permalink: chrome-extensions-for-tab-notes
+categories: [productivity, organization]
+tags: [chrome-extensions, tab-notes, productivity, organization]
 author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-tab-notes

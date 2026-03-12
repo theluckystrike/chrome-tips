@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Chrome Default Browser How To Set On Mac
+title: chrome default browser how to set on mac
 description: Learn how to set Chrome as your default browser on Mac. Simple steps
-  to make Chrome open links automatically in macOS. Learn how to optimize your browser
-  tod...
+  to make Chrome open links automatically in macOS. Learn more about how to optimize
+  you
 date: 2026-03-09
 categories:
 - settings
@@ -14,8 +14,8 @@ tags:
 - chrome-setup
 - browser-configuration
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-default-browser-how-to-set-on-mac
+last_modified_at: '%Y->-'
+permalink: /chrome-default-browser-how-to-set-on-mac/
 ---
 # Chrome Default Browser How to Set on Mac
 

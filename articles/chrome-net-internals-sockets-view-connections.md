@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 'Chrome Net Internals Sockets View: Monitor and Manage Active Connections'
-description: Learn how to use Chrome Net Internals Sockets view to monitor active
-  connections, diagnose network issues, and flush socket pools for better browser
-  performa...
-date: '2026-01-15'
+description: Learn how to use Chrome Net Internals Sockets view to monitor active connections, diagnose network issues, and flush socket pools for better browser performa...
+date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-net-internals-sockets-view-connections
 ---

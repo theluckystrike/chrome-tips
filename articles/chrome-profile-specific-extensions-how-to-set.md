@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Chrome Profile Specific Extensions How to Set
-description: Learn how to install and manage extensions for specific Chrome profiles
-  to keep your work and personal browsing organized. Learn how to optimize your browser...
-date: '2026-01-15'
+description: Learn how to install and manage extensions for specific Chrome profiles to keep your work and personal browsing organized. Learn effective tips and tricks to...
+date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-profile-specific-extensions-how-to-set
 ---

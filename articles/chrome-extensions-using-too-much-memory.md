@@ -1,18 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions Using Too Much Memory
-description: Chrome extensions using too much memory can slow your browser. Learn
-  why this happens and how to fix it with simple steps. Learn how to optimize your
-  browser...
+title: "Chrome Extensions Using Too Much Memory"
+description: "Chrome extensions using too much memory can slow your browser. Learn why this happens and how to fix it with simple steps. Read our comprehensive guide to le..."
 date: 2025-02-20
-categories:
-- performance
-- extensions
-tags:
-- chrome-extensions
-- memory-usage
-- browser-performance
-- chrome-tips
+last_modified_at: 2026-03-09
+permalink: chrome-extensions-using-too-much-memory
+categories: [performance, extensions]
+tags: [chrome-extensions, memory-usage, browser-performance, chrome-tips]
 author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-using-too-much-memory

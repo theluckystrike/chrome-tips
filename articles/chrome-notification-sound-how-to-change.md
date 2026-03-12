@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Chrome Notification Sound How to Change
-description: Want to change the notification sound in Chrome? Learn where to find
-  and customize Chrome is alert sounds easily. Learn how to optimize your browser
-  today fo...
-date: '2026-01-15'
+description: Want to change the notification sound in Chrome? Learn where to find and customize Chrome is alert sounds easily. Learn effective tips and tricks to optimize...
+date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-notification-sound-how-to-change
 ---

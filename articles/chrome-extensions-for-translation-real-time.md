@@ -1,18 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions for Translation Real Time
-description: Discover the best Chrome extensions for real-time translation that let
-  you browse foreign websites and communicate across languages effortlessly. Learn
-  how t...
+title: "Chrome Extensions for Translation Real Time"
+description: "Discover the best Chrome extensions for real-time translation that let you browse foreign websites and communicate across languages effortlessly. Read our co..."
 date: 2026-03-09
-categories:
-- features
-- tips
-tags:
-- chrome-extensions
-- translation
-- real-time-translation
-- language-tools
+last_modified_at: 2026-03-09
+permalink: chrome-extensions-for-translation-real-time
+categories: [features, tips]
+tags: [chrome-extensions, translation, real-time-translation, language-tools]
 author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-translation-real-time

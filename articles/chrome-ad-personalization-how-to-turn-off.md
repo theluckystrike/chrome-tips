@@ -87,4 +87,9 @@ You can also set up automatic reminders to review your activity data and delete 
 
 Taking control of chrome ad personalization how to turn off is an important step toward a more private browsing experience. By adjusting these settings, you can reduce the tracking and data collection that happens while you use Chrome, giving you more peace of mind as you browse the web.
 
+## Related Articles
+* [Chrome Hardware Acceleration Should I Turn It Off](/articles/chrome-hardware-acceleration-should-i-turn-it-off/)
+* [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off/)
+* [How to Turn Off Autocomplete in Chrome](/articles/chrome-how-to-turn-off-autocomplete/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

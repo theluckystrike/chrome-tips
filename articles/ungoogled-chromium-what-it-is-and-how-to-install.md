@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Ungoogled Chromium What It Is and How to Install
-description: Learn what ungoogled chromium is and how to install it for a privacy-focused
-  browsing experience without Google services. Learn how to optimize your browser
-  ...
-date: 2026-01-15
-categories:
-- browsers
-- privacy
-tags:
-- chromium
-- privacy
-- browser
-- ungoogled
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: ungoogled-chromium-what-it-is-and-how-to-install
+layout: "post"
+title: "Ungoogled Chromium What It Is and How to Install"
+description: "Learn what ungoogled chromium is and how to install it for a privacy-focused browsing experience without Google services. Read our comprehensive guide to lea..."
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "ungoogled-chromium-what-it-is-and-how-to-install"
+categories: "[browsers, privacy]"
+tags: "[chromium, privacy, browser, ungoogled]"
+author: "theluckystrike"
 ---
 # Ungoogled Chromium What It Is and How to Install
 

@@ -1,11 +1,10 @@
 ---
-layout: post
-title: 'Chrome Interaction to Next Paint Improve: Complete Guide'
-description: Learn how to improve Chrome interaction to next paint (INP) for faster,
-  more responsive web browsing. Discover tips and techniques for better browser perform...
-date: '2026-01-15'
-last_modified_at: '2026-03-11'
-permalink: chrome-interaction-next-paint-improve
+layout: "post"
+title: "Chrome Interaction to Next Paint Improve: Complete Guide"
+description: "Learn how to improve Chrome interaction to next paint (INP) for faster, more responsive web browsing. Discover tips and techniques for better browser perform..."
+date: "2026-03-11"
+last_modified_at: "2026-03-11"
+permalink: "chrome-interaction-next-paint-improve"
 ---
 Chrome interaction to next paint improve is a topic that matters for anyone who wants a faster, more responsive browsing experience. Interaction to Next Paint, commonly abbreviated as INP, is one of Chrome's Core Web Vitals that measures how quickly your browser responds to your interactions. Understanding what affects INP and how to improve it can make a noticeable difference in how fast Chrome feels when you are clicking, typing, or scrolling through websites.
 

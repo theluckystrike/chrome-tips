@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Reader Mode vs Safari Reader Comparison
-description: A practical comparison of Chrome and Safari's reader modes to help you
-  choose the best distraction-free reading experience. Learn how to optimize your
-  browse...
-date: 2026-03-12
+description: A practical comparison of Chrome and Safari's reader modes to help you choose the best distraction-free reading experience. Learn effective tips and tricks t...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-reader-mode-vs-safari-reader-comparison
 categories:
 - reading
 - browser-comparison

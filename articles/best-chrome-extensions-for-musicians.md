@@ -79,4 +79,9 @@ The best chrome extensions for musicians are the ones that address your specific
 
 Start with one or two extensions that address your biggest pain points. Once you see how they help, you can add more over time. The goal is to make your browser work for you rather than against you, so you can focus on what matters most: making music.
 
+## Related Articles
+* [Chrome Extensions for Musicians and Producers](/articles/chrome-extensions-for-musicians-and-producers/)
+* [Chrome Extensions for Musicians](/articles/chrome-extensions-for-musicians/)
+* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

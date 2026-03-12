@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Chrome Mobile Translate Page Automatically
-description: Learn how to automatically translate web pages in Chrome on your mobile
-  device with these simple methods and tips. Learn how to optimize your browser today
-  f...
-date: '2026-01-15'
+title: chrome mobile translate page automatically
+description: Learn how to automatically translate web pages in Chrome on your mobile device with these simple methods and tips. Learn effective tips and tricks to optimiz...
+date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-mobile-translate-page-automatically
 ---

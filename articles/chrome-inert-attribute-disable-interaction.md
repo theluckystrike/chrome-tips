@@ -1,22 +1,13 @@
 ---
-layout: post
-title: How to Use the Chrome Inert Attribute to Disable Interaction
-description: Learn how to use Chrome inert attribute to disable interaction with HTML
-  elements. Practical examples for improving user experience and accessibility.
-date: 2026-01-16
-categories:
-- development
-- html
-- chrome
-tags:
-- chrome-inert
-- html-attributes
-- web-development
-- accessibility
-- browser
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-inert-attribute-disable-interaction
+layout: "post"
+title: "How to Use the Chrome Inert Attribute to Disable Interaction"
+description: "Learn how to use Chrome inert attribute to disable interaction with HTML elements. Practical examples for improving user experience and accessibility."
+date: "2026-01-16"
+last_modified_at: "2026-03-11"
+permalink: "chrome-inert-attribute-disable-interaction"
+categories: [development, html, chrome]
+tags: [chrome-inert, html-attributes, web-development, accessibility, browser]
+author: "theluckystrike"
 ---
 # How to Use the Chrome Inert Attribute to Disable Interaction
 

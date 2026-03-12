@@ -1,12 +1,9 @@
 ---
-layout: post
-title: Chrome Extensions for Eye Dropper Tool
-description: Looking for Chrome extensions for eye dropper tool? Discover the best
-  color picker extensions for Chrome and how they help designers and developers. Learn
-  ho...
-date: '2026-01-15'
-last_modified_at: '2026-03-09'
-permalink: chrome-extensions-for-eye-dropper-tool
+title: "Chrome Extensions For Eye Dropper Tool"
+description: "Discover how Chrome Extensions For Eye Dropper Tool can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings..."
+date: 2026-03-12
+last_modified_at: 2026-03-09
+permalink: /articles/chrome-extensions-for-eye-dropper-tool/
 ---
 Have you ever been browsing the web and seen a color that you wanted to use in your own project, but had no idea what color it was or how to find it again? This happens to designers and developers all the time. Maybe you see a beautiful gradient on a website, a perfect shade of blue in a logo, or a background color that catches your eye. Without the right tools, capturing those colors can be surprisingly difficult. The good news is that there are Chrome extensions designed specifically to solve this problem, and they make it incredibly easy to pick colors from any website you visit.
 

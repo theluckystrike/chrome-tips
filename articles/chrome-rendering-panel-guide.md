@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Rendering Panel Guide
-description: Master Chrome Rendering Panel for diagnosing visual performance issues.
-  Learn paint flashing, layout shift regions, FPS meter, and scrolling performance
-  opti...
+description: Master Chrome Rendering Panel for diagnosing visual performance issues. Learn paint flashing, layout shift regions, FPS meter, and scrolling performance opti...
 date: 2026-03-10
 categories:
 - performance
@@ -18,8 +16,8 @@ tags:
 - fps-meter
 - scrolling
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-rendering-panel-guide
+last_modified_at: '2026-03-10'
 ---
 # Chrome Rendering Panel Guide
 

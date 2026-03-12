@@ -1,20 +1,13 @@
 ---
-layout: post
-title: Chrome Extensions for Raindrop IO
-description: Discover the best Chrome extensions for Raindrop IO to enhance your bookmark
-  management and improve your browsing experience. Learn how to optimize your brow...
-date: 2026-03-09
-categories:
-- productivity
-- tips
-tags:
-- chrome-extensions
-- raindrop-io
-- bookmark-manager
-- browser-tools
-author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-extensions-for-raindrop-io
+title: "Chrome Extensions for Raindrop IO"
+description: "Discover the best Chrome extensions for Raindrop IO to enhance your bookmark management and improve your browsing experience. Check out our expert... Learn more"
+date: "2026-03-09"
+last_modified_at: "2026-03-09"
+permalink: "chrome-extensions-for-raindrop-io"
+layout: "post"
+categories: "[productivity, tips]"
+tags: "[chrome-extensions, raindrop-io, bookmark-manager, browser-tools]"
+author: "theluckystrike"
 ---
 # Chrome Extensions for Raindrop IO
 

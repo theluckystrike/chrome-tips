@@ -1,20 +1,13 @@
 ---
-layout: post
-title: Chrome for WordPress Best Extensions
-description: Discover the best Chrome extensions for WordPress that can streamline
-  your workflow and boost productivity. Learn how to optimize your browser today for
-  bett...
-date: 2026-03-10
-categories:
-- wordpress
-- tips
-tags:
-- chrome-extensions
-- wordpress
-- productivity
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-for-wordpress-best-extensions
+layout: "post"
+title: "Chrome for WordPress Best Extensions"
+description: "Discover the best Chrome extensions for WordPress that can streamline your workflow and boost productivity. Check out our expert recommendations and tips to en"
+date: "2026-03-10"
+last_modified_at: "2026-03-10"
+permalink: "chrome-for-wordpress-best-extensions"
+categories: [wordpress, tips]
+tags: [chrome-extensions, wordpress, productivity]
+author: "theluckystrike"
 ---
 # Chrome for WordPress Best Extensions
 

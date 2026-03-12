@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 'Chrome Navigation API for Single Page Apps: A Complete Guide'
-description: Learn how Chrome Navigation API enables smooth single page app navigation,
-  improves user experience, and handles URL changes without page reloads. Learn how
-  ...
-date: '2026-01-15'
+description: Learn how Chrome Navigation API enables smooth single page app navigation, improves user experience, and handles URL changes without page reloads. Learn effe...
+date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-navigation-api-single-page-apps
 ---

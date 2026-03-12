@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Mobile Tabs Too Many How to Manage
-description: Struggling with too many tabs in Chrome on your phone? Discover practical
-  ways to organize, reduce, and manage your mobile browsing tabs effectively. Learn
-  h...
-date: 2026-01-15
+description: Struggling with too many tabs in Chrome on your phone? Discover practical ways to organize, reduce, and manage your mobile browsing tabs effectively. Learn e...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-mobile-tabs-too-many-how-to-manage
 categories:
 - mobile
 - tab-management

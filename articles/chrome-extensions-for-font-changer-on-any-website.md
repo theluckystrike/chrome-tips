@@ -1,20 +1,9 @@
 ---
-layout: post
-title: Chrome Extensions For Font Changer On Any Website
-description: Learn how to use Chrome extensions for font changer on any website. Customize
-  fonts easily for better readability and comfortable browsing. Learn how to opti...
+title: "Chrome Extensions For Font Changer On Any Website"
+description: "Discover how Chrome Extensions For Font Changer On Any Website can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions a..."
 date: 2026-03-10
-categories:
-- extensions
-- customization
-tags:
-- fonts
-- chrome-extensions
-- readability
-- text-customization
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-extensions-for-font-changer-on-any-website
+last_modified_at: 2026-03-10
+permalink: /articles/chrome-extensions-for-font-changer-on-any-website/
 ---
 # Chrome Extensions for Font Changer on Any Website
 

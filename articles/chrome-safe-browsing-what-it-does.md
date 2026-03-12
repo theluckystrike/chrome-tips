@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Chrome Safe Browsing: What It Does and How It Protects You'
-description: Learn what Chrome Safe Browsing does, how it protects you from dangerous
-  websites and downloads, and how to enable or customize this security feature.
+description: Learn what Chrome Safe Browsing does, how it protects you from dangerous websites and downloads, and how to enable or customize this security feature.
 date: 2026-01-15
 categories:
 - security
@@ -15,8 +14,8 @@ tags:
 - privacy
 - protection
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-safe-browsing-what-it-does
+last_modified_at: '2026-03-11'
 ---
 # Chrome Safe Browsing: What It Does and How It Protects You
 

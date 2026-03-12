@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Chrome Not Playing Youtube Videos Fix
-description: Is Chrome not playing YouTube videos? This guide covers simple solutions
-  to get your YouTube videos working again in Chrome. Learn how to optimize your brows...
-date: 2026-01-15
+title: chrome not playing youtube videos fix
+description: Is Chrome not playing YouTube videos? This guide covers simple solutions to get your YouTube videos working again in Chrome. Learn effective tips and tricks ...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-not-playing-youtube-videos-fix
 categories:
 - troubleshooting
 - youtube

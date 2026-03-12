@@ -1,21 +1,9 @@
 ---
-layout: post
-title: Best Chrome Extensions For Designers 2026
-description: Discover the best chrome extensions for designers in 2026. Explore ColorZilla,
-  WhatFont, VisBug, Muzli, and CSS Peeper to enhance your design workflow and pr...
+title: "Best Chrome Extensions For Designers 2026"
+description: "Discover how Best Chrome Extensions For Designers 2026 can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and setti..."
 date: 2026-01-15
-categories:
-- extensions
-- design
-tags:
-- chrome-extension
-- design-tools
-- web-design
-- color-picker
-- font-identifier
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-extensions-for-designers-2026
+last_modified_at: 2026-03-11
+permalink: /articles/chrome-extensions-for-designers-2026/
 ---
 # Best Chrome Extensions for Designers 2026
 

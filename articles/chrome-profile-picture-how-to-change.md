@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Chrome Profile Picture How To Change
-description: Learn how to change your Chrome profile picture with this step-by-step
-  guide. Customize your browser profile easily. Learn how to optimize your browser
-  today...
-date: 2026-03-10
+title: chrome profile picture how to change
+description: Learn how to change your Chrome profile picture with this step-by-step guide. Customize your browser profile easily. Learn effective tips and tricks to optim...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-profile-picture-how-to-change
 categories:
 - features
 - customization

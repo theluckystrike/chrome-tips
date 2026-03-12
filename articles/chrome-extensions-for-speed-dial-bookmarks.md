@@ -1,18 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions for Speed Dial Bookmarks
-description: Discover how chrome extensions for speed dial bookmarks can transform
-  your browsing. Learn which tools help you access favorite sites faster. Learn how
-  to op...
+title: "Chrome Extensions for Speed Dial Bookmarks"
+description: "Discover how chrome extensions for speed dial bookmarks can transform your browsing. Learn which tools help you access favorite sites faster. Read our compre..."
 date: 2026-03-10
-categories:
-- productivity
-- tips
-tags:
-- speed-dial
-- chrome-extensions
-- bookmarks
-- productivity
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-speed-dial-bookmarks
+categories: [productivity, tips]
+tags: [speed-dial, chrome-extensions, bookmarks, productivity]
 author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-speed-dial-bookmarks

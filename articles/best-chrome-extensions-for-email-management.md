@@ -90,4 +90,9 @@ If you struggle with timing and follow-ups, Boomerang is a great starting point.
 
 Small improvements in your email workflow add up to significant time savings over the long run. The right combination of extensions can transform email from a time drain into a manageable and even efficient part of your workday.
 
+## Related Articles
+* [Best Extensions for Tab Management Chrome](/articles/best-extensions-for-tab-management-chrome/)
+* [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management/)
+* [Chrome Extensions For Cold Email Outreach](/articles/chrome-extensions-for-cold-email-outreach/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

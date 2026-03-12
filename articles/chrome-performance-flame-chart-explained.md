@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Performance Flame Chart Explained
-description: Understand what a flame chart is in Chrome DevTools and how it helps
-  identify what makes your browser slow. Learn how to optimize your browser today
-  for bett...
-date: 2026-03-09
+description: Understand what a flame chart is in Chrome DevTools and how it helps identify what makes your browser slow. Learn effective tips and tricks to optimize your ...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-performance-flame-chart-explained
 categories:
 - performance
 - troubleshooting

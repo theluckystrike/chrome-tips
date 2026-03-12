@@ -18,8 +18,8 @@ tags:
 - web-design
 - frontend
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-css-grid-debugging
+last_modified_at: '%Y->-'
+permalink: /chrome-css-grid-debugging/
 ---
 # Chrome CSS Grid Debugging Guide
 

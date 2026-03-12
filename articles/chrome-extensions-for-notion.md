@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome Extensions for Notion
-description: Discover the best Chrome extensions for Notion to enhance your workflow
-  and boost productivity with these helpful tools. Learn how to optimize your browser
-  t...
-date: '2026-03-09'
-last_modified_at: '2026-03-11'
-permalink: chrome-extensions-for-notion
-categories:
-- productivity
-- tips
-tags:
-- chrome-extensions
-- notion
-- productivity
-- browser-tools
-author: theluckystrike
+title: "Chrome Extensions for Notion"
+description: "Discover the best Chrome extensions for Notion to enhance your workflow Check out our expert recommendations and tips to enhance your browsing experience..."
+date: "2026-03-09"
+last_modified_at: "2026-03-11"
+permalink: "chrome-extensions-for-notion"
+layout: "post"
+categories: ""
+tags: ""
+author: "theluckystrike"
 ---
 # Chrome Extensions for Notion
 

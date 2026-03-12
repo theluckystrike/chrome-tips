@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Flexbox Inspector How to Use
-description: Learn how to use Chrome flexbox inspector to visualize and fix layout
-  issues in your web designs quickly and easily. Learn how to optimize your browser
-  today...
+description: Learn how to use Chrome flexbox inspector to visualize and fix layout issues in your web designs quickly and easily. Find out more tips on how to optimize yo...
 date: 2025-03-09
 categories:
 - productivity
@@ -14,7 +12,7 @@ tags:
 - flexbox
 - layout
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-flexbox-inspector-how-to-use
 ---
 # Chrome Flexbox Inspector How to Use

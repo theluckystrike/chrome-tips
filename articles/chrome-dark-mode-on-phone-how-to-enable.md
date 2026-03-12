@@ -2,8 +2,7 @@
 layout: post
 title: Chrome Dark Mode on Phone How to Enable
 description: Learn how to enable dark mode on Chrome for phone. Simple steps to reduce
-  eye strain and save battery with dark theme. Learn how to optimize your browser
-  tod...
+  eye strain and save battery with dark theme. Learn more about how to optimize you
 date: 2026-01-15
 categories:
 - mobile
@@ -14,8 +13,8 @@ tags:
 - phone-tips
 - theme
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-dark-mode-on-phone-how-to-enable
+last_modified_at: '%Y->-'
+permalink: /chrome-dark-mode-on-phone-how-to-enable/
 ---
 # Chrome Dark Mode on Phone How to Enable
 

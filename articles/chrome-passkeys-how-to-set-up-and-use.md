@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Chrome Passkeys How to Set Up and Use
-description: Learn how to set up and use passkeys in Chrome for secure, password-free
-  logins. Simple steps for beginners. Learn how to optimize your browser today for
-  bet...
-date: '2026-03-10'
+description: Learn how to set up and use passkeys in Chrome for secure, password-free logins. Simple steps for beginners. Learn effective tips and tricks to optimize your...
+date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-passkeys-how-to-set-up-and-use
 ---

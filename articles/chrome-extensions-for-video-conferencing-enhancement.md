@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions for Video Conferencing Enhancement
-description: Struggling with video calls? Discover Chrome extensions that improve
-  your virtual meeting experience. Learn how to optimize your browser today for better
-  per...
+title: "Chrome Extensions for Video Conferencing Enhancement"
+description: "Struggling with video calls? Discover Chrome extensions that improve your virtual meeting experience. Read our comprehensive guide to learn more and boost yo..."
 date: 2026-01-15
-categories:
-- productivity
-- video-conferencing
-- extensions
-tags:
-- chrome-extensions
-- video-conferencing
-- zoom
-- meetings
-- productivity
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-video-conferencing-enhancement
+categories: [productivity, video-conferencing, extensions]
+tags: [chrome-extensions, video-conferencing, zoom, meetings, productivity]
 author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-video-conferencing-enhancement

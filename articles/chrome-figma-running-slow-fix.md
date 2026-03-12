@@ -1,18 +1,12 @@
 ---
 layout: post
-title: 'Chrome Figma Running Slow Fix: A Practical Guide'
-description: Is Chrome slow with Figma open? Learn step-by-step solutions to fix performance
-  issues and get Figma running smoothly again. Learn how to optimize your brows...
+title: "Chrome Figma Running Slow Fix: A Practical Guide"
+description: "Is Chrome slow with Figma open? Learn step-by-step solutions to fix performance issues and get Figma running smoothly again. Read our comprehensive guide to ..."
 date: 2026-01-20
-categories:
-- chrome
-- performance
-- figma
-tags:
-- chrome-figma
-- browser-performance
-- figma-tips
-- chrome-slow
+last_modified_at: 2026-03-11
+permalink: chrome-figma-running-slow-fix
+categories: [chrome, performance, figma]
+tags: [chrome-figma, browser-performance, figma-tips, chrome-slow]
 author: theluckystrike
 last_modified_at: '2026-03-11'
 permalink: chrome-figma-running-slow-fix

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for Phantom Wallet Extension
-description: Learn how to set up and use Phantom Wallet in Chrome with this simple
-  extension guide for secure crypto management. Learn how to optimize your browser
-  today ...
+description: Learn how to set up and use Phantom Wallet in Chrome with this simple extension guide for secure crypto management. Discover more tips and tricks to optimize
 date: 2026-01-15
 categories:
 - extensions
@@ -16,7 +14,7 @@ tags:
 - blockchain
 - wallet
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-phantom-wallet-extension
 ---
 # Chrome for Phantom Wallet Extension

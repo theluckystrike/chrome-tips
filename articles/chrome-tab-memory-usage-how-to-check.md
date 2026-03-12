@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Chrome Tab Memory Usage How To Check
-description: Learn how to check Chrome tab memory usage to improve browser performance
-  and reduce memory consumption. Learn how to optimize your browser today for better
-  ...
+title: chrome tab memory usage how to check
+description: 'Learn how to check Chrome tab memory usage to improve browser performance and reduce memory consumption. Read our comprehensive guide to learn more and improve '
 date: 2026-03-09
 categories:
 - tabs
@@ -15,8 +13,8 @@ tags:
 - performance
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-tab-memory-usage-how-to-check
+last_modified_at: '2026-03-10'
 ---
 # Chrome Tab Memory Usage How to Check
 

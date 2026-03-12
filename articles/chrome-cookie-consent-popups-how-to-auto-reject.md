@@ -1,19 +1,12 @@
 ---
+title: "Chrome Cookie Consent Popups How to Auto Reject"
+description: "Tired of clicking through cookie popups? Learn how to auto reject them in Chrome with simple methods and extensions. Read our full guide to master your Chrome b"
+date: "2026-03-10"
+last_modified_at: "%Y->-"
+permalink: "chrome-cookie-consent-popups-how-to-auto-reject"
 layout: post
-title: Chrome Cookie Consent Popups How to Auto Reject
-description: Tired of clicking through cookie popups? Learn how to auto reject them
-  in Chrome with simple methods and extensions. Learn how to optimize your browser
-  today...
-date: 2026-03-10
-categories:
-- troubleshooting
-- tips
-tags:
-- chrome-cookies
-- cookie-consent
-- auto-reject
-- privacy-popups
-- browser-settings
+categories: ['troubleshooting', 'tips']
+tags: ['chrome-cookies', 'cookie-consent', 'auto-reject', 'privacy-popups', 'browser-settings']
 author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-cookie-consent-popups-how-to-auto-reject

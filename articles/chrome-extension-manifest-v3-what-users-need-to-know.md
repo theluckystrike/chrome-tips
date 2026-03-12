@@ -1,12 +1,10 @@
 ---
-layout: post
-title: Chrome Extension Manifest V3 What Users Need to Know
-description: Chrome Manifest V3 changes how extensions work. Find out what this means
-  for your browser and how to adapt. Learn how to optimize your browser today for
-  bett...
-date: '2026-01-15'
-last_modified_at: '2026-03-10'
-permalink: chrome-extension-manifest-v3-what-users-need-to-know
+title: "Chrome Extension Manifest V3 What Users Need to Know"
+description: "Chrome Manifest V3 changes how extensions work. Find out what this means for your browser and how to adapt. Discover how these tools can significantly improv..."
+date: "2026-03-09"
+last_modified_at: "2026-03-10"
+permalink: "chrome-extension-manifest-v3-what-users-need-to-know"
+layout: "post"
 ---
 If you have ever searched for "chrome extension manifest v3 what users need to know," you are probably wondering why some of your favorite Chrome extensions stopped working or behave differently than they used to. This change has affected millions of users, and understanding what is happening can help you make the most of your browser.
 

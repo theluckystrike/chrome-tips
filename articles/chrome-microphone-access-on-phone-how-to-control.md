@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Microphone Access on Phone How to Control
-description: Learn how to control microphone access in Chrome on your phone. Easy
-  steps to manage permissions and protect your privacy. Learn how to optimize your
-  browser...
-date: 2025-03-10
+description: Learn how to control microphone access in Chrome on your phone. Easy steps to manage permissions and protect your privacy. Learn effective tips and tricks to...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-microphone-access-on-phone-how-to-control
 categories:
 - troubleshooting
 - tips

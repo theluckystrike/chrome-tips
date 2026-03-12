@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Chrome Site Isolation What It Does
-description: Learn what chrome site isolation does and how it protects your browser
-  from security threats by isolating websites in separate processes. Learn how to
-  optimi...
+title: chrome site isolation what it does
+description: Learn what chrome site isolation does and how it protects your browser from security threats by isolating websites in separate processes. Read our comprehensive
 date: 2026-01-15
 categories:
 - security
@@ -15,8 +13,8 @@ tags:
 - browser-protection
 - security-features
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-site-isolation-what-it-does
+last_modified_at: '2026-03-11'
 ---
 # Chrome Site Isolation What It Does
 

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Chrome Slow on iPad Why: Causes and Solutions'
-description: Is Chrome running slow on your iPad? Discover why Chrome slows down on
-  iPad and learn practical fixes to speed up your browser today. Learn how to optimize
-  y...
+description: Is Chrome running slow on your iPad? Discover why Chrome slows down on iPad and learn practical fixes to speed up your browser today. Read our comprehensive gui
 date: 2026-01-15
 categories:
 - performance
@@ -15,8 +13,8 @@ tags:
 - chrome-performance
 - browser-fix
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-slow-on-ipad-why
+last_modified_at: '2026-03-11'
 ---
 # Chrome Slow on iPad Why: Causes and Solutions
 

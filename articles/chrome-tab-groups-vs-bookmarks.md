@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Tab Groups vs Bookmarks
-description: Struggling to choose between Chrome tab groups and bookmarks? This guide
-  explains when to use each and how to combine them for better browsing. Learn how
-  to ...
+description: Struggling to choose between Chrome tab groups and bookmarks? This guide explains when to use each and how to combine them for better browsing. Read our compreh
 date: 2026-03-09
 categories:
 - productivity
@@ -15,8 +13,8 @@ tags:
 - chrome-tips
 - organization
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-tab-groups-vs-bookmarks
+last_modified_at: '2026-03-10'
 ---
 # Chrome Tab Groups vs Bookmarks
 

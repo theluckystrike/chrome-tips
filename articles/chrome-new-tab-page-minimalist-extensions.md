@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome New Tab Page Minimalist Extensions
-description: Discover minimalist Chrome new tab page extensions that keep things simple
-  and help you focus on what matters most. Learn how to optimize your browser today
-  ...
-date: 2026-03-09
+description: Discover minimalist Chrome new tab page extensions that keep things simple and help you focus on what matters most. Learn effective tips and tricks to optimi...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-new-tab-page-minimalist-extensions
 categories:
 - productivity
 - tips

@@ -1,22 +1,13 @@
 ---
-layout: post
-title: Chrome Vs Firefox Extensions Comparison
-description: Compare Chrome and Firefox extensions. Learn which browser offers better
-  add-ons, performance, and compatibility for your needs. Learn how to optimize your
-  b...
-date: 2026-01-20
-categories:
-- extensions
-- browser
-tags:
-- chrome
-- firefox
-- extensions
-- browser-comparison
-- add-ons
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-vs-firefox-extensions-comparison
+layout: "post"
+title: "chrome vs firefox extensions comparison"
+description: "Compare Chrome and Firefox extensions. Learn which browser offers better add-ons, performance, and compatibility for your needs. Read our comprehensive guide..."
+date: "2026-01-20"
+last_modified_at: "2026-03-10"
+permalink: "chrome-vs-firefox-extensions-comparison"
+categories: "[extensions, browser]"
+tags: "[chrome, firefox, extensions, browser-comparison, add-ons]"
+author: "theluckystrike"
 ---
 # Chrome vs Firefox Extensions Comparison
 

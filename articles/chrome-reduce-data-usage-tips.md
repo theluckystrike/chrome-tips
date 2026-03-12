@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Chrome Reduce Data Usage Tips
-description: Practical chrome reduce data usage tips to cut down your browsing data.
-  Easy settings and tricks to save data while browsing. Learn how to optimize your
-  brow...
+title: chrome reduce data usage tips
+description: Practical chrome reduce data usage tips to cut down your browsing data. Easy settings and tricks to save data while browsing. Read our comprehensive guide to le
 date: 2025-03-16
 categories:
 - tips
@@ -15,8 +13,8 @@ tags:
 - browser-tips
 - reduce-data
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-reduce-data-usage-tips
+last_modified_at: '2026-03-10'
 ---
 # Chrome Reduce Data Usage Tips
 

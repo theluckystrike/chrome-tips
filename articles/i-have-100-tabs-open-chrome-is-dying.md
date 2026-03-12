@@ -1,23 +1,13 @@
 ---
-layout: post
-title: 'I Have 100 Tabs Open and Chrome Is Dying: What to Do'
-description: Chrome running slow with too many tabs? Learn practical solutions to
-  fix a dying Chrome browser when you have dozens of tabs open. Learn how to optimize
-  your...
-date: 2026-01-15
-categories:
-- performance
-- tabs
-- chrome-tips
-tags:
-- chrome-tabs
-- chrome-slow
-- chrome-memory
-- browser-performance
-- chrome-tips
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: i-have-100-tabs-open-chrome-is-dying
+layout: "post"
+title: "I Have 100 Tabs Open and Chrome Is Dying: What to Do"
+description: "Chrome running slow with too many tabs? Learn practical solutions to fix a dying Chrome browser when you have dozens of tabs open. Read our comprehensive gui..."
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "i-have-100-tabs-open-chrome-is-dying"
+categories: "[performance, tabs, chrome-tips]"
+tags: "[chrome-tabs, chrome-slow, chrome-memory, browser-performance, chrome-tips]"
+author: "theluckystrike"
 ---
 # I Have 100 Tabs Open and Chrome Is Dying: What to Do
 

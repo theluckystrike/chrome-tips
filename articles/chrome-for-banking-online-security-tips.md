@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Chrome For Banking Online Security Tips
-description: Stay safe when banking online with these Chrome security tips. Learn
-  how to protect your financial information and avoid common threats. Learn how to
-  optimiz...
+title: chrome for banking online security tips
+description: Stay safe when banking online with these Chrome security tips. Learn how to protect your financial information and avoid common threats. Find out more tips o...
 date: 2026-01-15
 categories:
 - security
@@ -15,7 +13,7 @@ tags:
 - privacy
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-banking-online-security-tips
 ---
 # Chrome for Banking Online Security Tips

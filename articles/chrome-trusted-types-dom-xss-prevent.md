@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome Trusted Types Dom Xss Prevent
-description: Learn how to use Chrome Trusted Types to prevent DOM XSS vulnerabilities
-  in your web applications and keep users safe from cross-site scripting attacks.
-date: 2026-01-15
-categories:
-- security
-- web-development
-tags:
-- trusted-types
-- dom-xss
-- security
-- chrome
-- browser
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-trusted-types-dom-xss-prevent
+layout: "post"
+title: "chrome trusted types dom xss prevent"
+description: "Learn how to use Chrome Trusted Types to prevent DOM XSS vulnerabilities Read our comprehensive guide to learn more and optimize your browser experience with..."
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-trusted-types-dom-xss-prevent"
+categories: ""
+tags: ""
+author: "theluckystrike"
 ---
 # Chrome Trusted Types: Your Defense Against DOM XSS Attacks
 

@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Chrome Remote Desktop Slow Fix
-description: Is Chrome Remote Desktop running slowly? Learn why it happens and what
-  you can do to fix it. Boost productivity and save time with our expert tips and
-  tricks.
+description: Is Chrome Remote Desktop running slowly? Learn why it happens and what you can do to fix it. Read our comprehensive guide to learn more and improve your browsin
 date: 2025-03-09
 categories:
 - remote-work
@@ -13,8 +11,8 @@ tags:
 - slow-connection
 - remote-access
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-remote-desktop-slow-fix
+last_modified_at: '2026-03-10'
 ---
 # Chrome Remote Desktop Slow Fix
 

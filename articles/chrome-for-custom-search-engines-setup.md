@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for Custom Search Engines Setup
-description: Learn how to set up custom search engines in Chrome for faster browsing.
-  Create shortcuts to search any website directly from the address bar. Learn how
-  to o...
+description: Learn how to set up custom search engines in Chrome for faster browsing. Create shortcuts to search any website directly from the address bar. Find out more ...
 date: 2026-03-10
 categories:
 - features
@@ -15,7 +13,7 @@ tags:
 - productivity
 - setup
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-custom-search-engines-setup
 ---
 # Chrome for Custom Search Engines Setup

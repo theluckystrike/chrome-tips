@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Chrome Mouse Cursor Disappears Fix
-description: Is your mouse cursor missing in Chrome? Learn why this happens and how
-  to bring it back with simple fixes. Learn how to optimize your browser today for
-  bette...
-date: '2026-03-10'
+description: Is your mouse cursor missing in Chrome? Learn why this happens and how to bring it back with simple fixes. Learn effective tips and tricks to optimize your C...
+date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-mouse-cursor-disappears-fix
 ---

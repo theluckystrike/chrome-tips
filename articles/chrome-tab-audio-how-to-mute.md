@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Tab Audio How to Mute
-description: Learn how to mute audio playing in Chrome tabs. Simple methods to stop
-  unwanted tab audio without closing the tab. Learn how to optimize your browser today
-  f...
+description: Learn how to mute audio playing in Chrome tabs. Simple methods to stop unwanted tab audio without closing the tab. Read our comprehensive guide to learn more an
 date: 2026-01-15
 categories:
 - browsers
@@ -14,8 +12,8 @@ tags:
 - tab-mute
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-tab-audio-how-to-mute
+last_modified_at: '2026-03-10'
 ---
 # Chrome Tab Audio How to Mute
 

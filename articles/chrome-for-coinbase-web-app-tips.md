@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Chrome For Coinbase Web App Tips
-description: Learn how to get the most out of Coinbase in Chrome with practical tips
-  for better performance, security, and a smoother trading experience. Learn how to
-  opt...
+title: chrome for coinbase web app tips
+description: Learn how to get the most out of Coinbase in Chrome with practical tips for better performance, security, and a smoother trading experience. Find out more ti...
 date: 2026-01-15
 categories:
 - productivity
@@ -16,7 +14,7 @@ tags:
 - cryptocurrency
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-coinbase-web-app-tips
 ---
 # Chrome for Coinbase Web App Tips

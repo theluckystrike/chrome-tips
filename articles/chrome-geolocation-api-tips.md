@@ -1,22 +1,13 @@
 ---
-layout: default
-title: Chrome Geolocation API Tips
-description: Master the Chrome Geolocation API with expert tips on high accuracy positioning,
-  watchPosition optimization, robust error handling, and privacy best practice...
-date: 2026-01-20
-categories:
-- development
-- api
-- chrome
-tags:
-- geolocation
-- chrome-api
-- javascript
-- web-development
-- privacy
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-geolocation-api-tips
+layout: "default"
+title: "Chrome Geolocation API Tips"
+description: "Master the Chrome Geolocation API with expert tips on high accuracy positioning, watchPosition optimization, robust error handling, and privacy best practice..."
+date: "2026-01-20"
+last_modified_at: "2026-03-11"
+permalink: "chrome-geolocation-api-tips"
+categories: [development, api, chrome]
+tags: [geolocation, chrome-api, javascript, web-development, privacy]
+author: "theluckystrike"
 ---
 # Chrome Geolocation API Tips
 

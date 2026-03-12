@@ -1,17 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions for Virtual Background
-description: Find the best chrome extensions for virtual background to look professional
-  on video calls without distracting surroundings. Learn how to optimize your brows...
+title: "Chrome Extensions for Virtual Background"
+description: "Find the best chrome extensions for virtual background to look professional on video calls without distracting surroundings. Read our comprehensive guide to ..."
 date: 2026-03-09
-categories:
-- productivity
-- tips
-tags:
-- chrome-extensions
-- virtual-background
-- video-calls
-- meetings
+last_modified_at: 2026-03-09
+permalink: chrome-extensions-for-virtual-background
+categories: [productivity, tips]
+tags: [chrome-extensions, virtual-background, video-calls, meetings]
 author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-virtual-background

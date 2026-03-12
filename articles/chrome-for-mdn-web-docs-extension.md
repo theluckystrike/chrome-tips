@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for MDN Web Docs Extension
-description: Discover Chrome extensions that enhance your MDN Web Docs experience
-  for learning and reference. Learn how to optimize your browser today for better
-  performa...
+description: Discover Chrome extensions that enhance your MDN Web Docs experience for learning and reference. Discover more tips and tricks to optimize your browser exper
 date: 2026-03-10
 categories:
 - web-development
@@ -13,7 +11,7 @@ tags:
 - mdn-web-docs
 - documentation
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-mdn-web-docs-extension
 ---
 # Chrome for MDN Web Docs Extension

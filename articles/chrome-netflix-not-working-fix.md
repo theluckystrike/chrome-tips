@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Chrome Netflix Not Working Fix
-description: Netflix not loading in Chrome? Learn why this happens and follow simple
-  steps to get Netflix working again in your browser. Learn how to optimize your browse...
-date: 2026-01-15
+description: Netflix not loading in Chrome? Learn why this happens and follow simple steps to get Netflix working again in your browser. Learn effective tips and tricks t...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-netflix-not-working-fix
 categories:
 - troubleshooting
 - streaming

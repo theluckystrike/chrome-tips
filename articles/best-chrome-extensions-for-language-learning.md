@@ -60,5 +60,10 @@ Tab Suspender Pro is one option that can help manage browser performance by auto
 
 Regularly review your extension list and disable or remove any you have not used in the past month. This keeps your browser running smoothly and reduces distractions during study time.
 
+## Related Articles
+* [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning/)
+* [Chrome for Language Learning Extensions](/articles/chrome-for-language-learning-extensions/)
+* [Chrome for Language Translation Extensions Comparison](/articles/chrome-for-language-translation-extensions-comparison/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

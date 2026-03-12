@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Chrome for Hiding Social Media Feeds
-description: Learn how to hide social media feeds in Chrome using extensions and built-in
-  features to reduce distractions and focus on what matters. Learn how to optimize...
+description: Learn how to hide social media feeds in Chrome using extensions and built-in features to reduce distractions and focus on what matters. Discover more tips an
 date: 2026-03-10
 categories:
 - productivity
@@ -13,7 +12,7 @@ tags:
 - focus
 - distraction-blocking
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-hiding-social-media-feeds
 ---
 # Chrome for Hiding Social Media Feeds

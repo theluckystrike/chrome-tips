@@ -1,18 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions for URL Shortener
-description: Looking for chrome extensions for url shortener? Find the best tools
-  to create short, clean links easily. Learn how to optimize your browser today for
-  better...
+title: "Chrome Extensions for URL Shortener"
+description: "Looking for chrome extensions for url shortener? Find the best tools to create short, clean links easily. Read our comprehensive guide to learn more and boos..."
 date: 2026-03-09
-categories:
-- productivity
-- tools
-tags:
-- chrome-extensions
-- url-shortener
-- link-management
-- productivity
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-url-shortener
+categories: [productivity, tools]
+tags: [chrome-extensions, url-shortener, link-management, productivity]
 author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-url-shortener

@@ -1,18 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions for Website Monitoring Changes
-description: Learn how Chrome extensions can automatically track website changes and
-  notify you when updates happen. Learn how to optimize your browser today for better
-  p...
+title: "Chrome Extensions for Website Monitoring Changes"
+description: "Learn how Chrome extensions can automatically track website changes and notify you when updates happen. Read our comprehensive guide to learn more and boost ..."
 date: 2026-01-15
-categories:
-- extensions
-- productivity
-tags:
-- chrome-extensions
-- website-monitoring
-- automation
-- productivity
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-website-monitoring-changes
+categories: [extensions, productivity]
+tags: [chrome-extensions, website-monitoring, automation, productivity]
 author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-website-monitoring-changes

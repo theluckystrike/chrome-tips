@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Password Not Autofilling Fix
-description: Chrome password not autofilling is frustrating. Learn why it happens
-  and simple solutions to get your passwords filling automatically again. Learn how
-  to opt...
-date: 2025-03-09
+description: Chrome password not autofilling is frustrating. Learn why it happens and simple solutions to get your passwords filling automatically again. Learn effective ...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-password-not-autofilling-fix
 categories:
 - troubleshooting
 - tips

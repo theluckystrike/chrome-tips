@@ -2,7 +2,8 @@
 layout: post
 title: Chrome CSS Custom Properties Explained
 description: Learn what chrome css custom properties are and how they can simplify
-  your web styling workflow. Learn how to optimize your browser today for better performa...
+  your web styling workflow. Learn more about how to optimize your Chrome browser
+  exper
 date: 2026-01-15
 categories:
 - web-development
@@ -13,8 +14,8 @@ tags:
 - web-development
 - chrome-css
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-css-custom-properties-explained
+last_modified_at: '%Y->-'
+permalink: /chrome-css-custom-properties-explained/
 ---
 # Chrome CSS Custom Properties Explained
 

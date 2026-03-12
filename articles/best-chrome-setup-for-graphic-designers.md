@@ -58,4 +58,9 @@ Creating the best chrome setup for graphic designers is about finding the right 
 
 Small changes add up. A well-optimized Chrome setup means faster switching between design tools and references, less time waiting for pages to reload, and more mental energy focused on your designs rather than fighting with your browser.
 
+## Related Articles
+* [Best Chrome Extensions for Graphic Designers](/articles/best-chrome-extensions-for-graphic-designers/)
+* [chrome extensions for graphic designers](/articles/chrome-extensions-for-graphic-designers/)
+* [Best Chrome Extensions for UX Designers](/articles/best-chrome-extensions-for-ux-designers/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

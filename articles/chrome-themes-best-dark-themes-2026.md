@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome Themes Best Dark Themes 2026
-description: Discover the best dark themes for Chrome in 2026 to reduce eye strain,
-  save battery, and customize your browsing experience. Learn how to optimize your
-  brows...
-date: 2026-01-15
-categories:
-- customization
-- themes
-tags:
-- chrome-themes
-- dark-theme
-- browser-customization
-- aesthetics
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-themes-best-dark-themes-2026
+layout: "post"
+title: "chrome themes best dark themes 2026"
+description: "Discover the best dark themes for Chrome in 2026 to reduce eye strain, save battery, and customize your browsing experience. Read our comprehensive guide to ..."
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-themes-best-dark-themes-2026"
+categories: "[customization, themes]"
+tags: "[chrome-themes, dark-theme, browser-customization, aesthetics]"
+author: "theluckystrike"
 ---
 # Chrome Themes Best Dark Themes 2026
 

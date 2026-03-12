@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Chrome Set Methods: Union and Intersection Made Simple'
-description: Learn how to use Chrome Set methods for union and intersection operations
-  to efficiently work with collections of unique values in JavaScript. Learn how to
-  o...
+description: Learn how to use Chrome Set methods for union and intersection operations to efficiently work with collections of unique values in JavaScript. Read our comprehe
 date: 2026-03-11
 categories:
 - development
@@ -14,8 +12,8 @@ tags:
 - set-methods
 - programming
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-set-methods-union-intersection
+last_modified_at: '2026-03-11'
 ---
 # Chrome Set Methods: Union and Intersection Made Simple
 

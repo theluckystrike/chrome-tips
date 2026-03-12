@@ -1,21 +1,13 @@
 ---
-layout: post
-title: How To Make Chrome Look Aesthetic
-description: Transform your Chrome browser into a visually appealing space. Learn
-  simple tweaks and extensions to make Chrome look aesthetic. Learn how to optimize
-  your b...
-date: 2026-03-10
-categories:
-- customization
-- appearance
-tags:
-- aesthetic
-- theme
-- customization
-- chrome-settings
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: how-to-make-chrome-look-aesthetic
+layout: "post"
+title: "how to make chrome look aesthetic"
+description: "Transform your Chrome browser into a visually appealing space. Learn simple tweaks and extensions to make Chrome look aesthetic. Read our comprehensive guide..."
+date: "2026-03-10"
+last_modified_at: "2026-03-10"
+permalink: "how-to-make-chrome-look-aesthetic"
+categories: "[customization, appearance]"
+tags: "[aesthetic, theme, customization, chrome-settings]"
+author: "theluckystrike"
 ---
 # How to Make Chrome Look Aesthetic
 

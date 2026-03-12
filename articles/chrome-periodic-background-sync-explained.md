@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Chrome Periodic Background Sync Explained
-description: Learn how Chrome periodic background sync works and how it can help your
-  browser stay updated even when you're not using it. Learn how to optimize your brows...
-date: 2026-01-15
+description: Learn how Chrome periodic background sync works and how it can help your browser stay updated even when you're not using it. Learn effective tips and tricks ...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-periodic-background-sync-explained
 categories:
 - chrome
 - browser

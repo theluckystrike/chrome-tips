@@ -1,23 +1,9 @@
 ---
-layout: post
-title: Chrome Extensions for Comparing Prices Across Stores
-description: Learn how Chrome extensions for comparing prices across stores can help
-  you find the best deals and save money while shopping online. Learn how to optimize
-  y...
+title: "Chrome Extensions For Comparing Prices Across Stores"
+description: "Discover how Chrome Extensions For Comparing Prices Across Stores can transform your browsing. This comprehensive 2026 guide covers the best Chrome extension..."
 date: 2026-01-15
-categories:
-- shopping
-- extensions
-- save-money
-tags:
-- chrome-extensions
-- price-comparison
-- shopping
-- deals
-- save-money
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-extensions-for-comparing-prices-across-stores
+last_modified_at: 2026-03-10
+permalink: /articles/chrome-extensions-for-comparing-prices-across-stores/
 ---
 # Chrome Extensions for Comparing Prices Across Stores
 

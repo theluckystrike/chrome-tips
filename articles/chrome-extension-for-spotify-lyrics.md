@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome Extension for Spotify Lyrics
-description: Learn how to get lyrics on Spotify using Chrome extensions. Find the
-  best solutions for displaying song lyrics in your browser. Learn how to optimize
-  your br...
-date: 2026-03-09
-categories:
-- entertainment
-- tips
-tags:
-- chrome-extensions
-- spotify
-- lyrics
-- music
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-extension-for-spotify-lyrics
+title: "Chrome Extension for Spotify Lyrics"
+description: "Learn how to get lyrics on Spotify using Chrome extensions. Find the best solutions for displaying song lyrics in your browser. Discover how these tools can ..."
+date: "2026-03-09"
+last_modified_at: "2026-03-10"
+permalink: "chrome-extension-for-spotify-lyrics"
+layout: "post"
+categories: "[entertainment, tips]"
+tags: "[chrome-extensions, spotify, lyrics, music]"
+author: "theluckystrike"
 ---
 # Chrome Extension for Spotify Lyrics
 

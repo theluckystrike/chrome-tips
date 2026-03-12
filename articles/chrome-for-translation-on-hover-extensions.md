@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome for Translation On Hover Extensions
-description: Discover Chrome extensions that translate text on hover, making foreign
-  language browsing seamless and effortless. Learn how to optimize your browser today
-  f...
-date: 2026-03-10
-categories:
-- translation
-- tips
-tags:
-- chrome-extensions
-- translation
-- language
-- browser-tools
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-for-translation-on-hover-extensions
+layout: "post"
+title: "Chrome for Translation On Hover Extensions"
+description: "Discover Chrome extensions that translate text on hover, making foreign language browsing seamless and effortless. Check out our expert recommendations and tip"
+date: "2026-03-10"
+last_modified_at: "2026-03-10"
+permalink: "chrome-for-translation-on-hover-extensions"
+categories: [translation, tips]
+tags: [chrome-extensions, translation, language, browser-tools]
+author: "theluckystrike"
 ---
 # Chrome for Translation On Hover Extensions
 

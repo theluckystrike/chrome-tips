@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Chrome Release Schedule: How Often Does It Update'
-description: Chrome updates frequently, typically every 4 weeks. Learn about Chrome's
-  release schedule and how updates work. Learn how to optimize your browser today
-  for ...
+description: Chrome updates frequently, typically every 4 weeks. Learn about Chrome's release schedule and how updates work. Read our comprehensive guide to learn more and i
 date: 2026-01-15
 categories:
 - updates
@@ -13,8 +11,8 @@ tags:
 - chrome-release
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-release-schedule-how-often-does-it-update
+last_modified_at: '2026-03-10'
 ---
 # Chrome Release Schedule and How Often It Updates
 

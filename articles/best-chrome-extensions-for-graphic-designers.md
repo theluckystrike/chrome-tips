@@ -62,4 +62,9 @@ While extensions can significantly improve your workflow, it is important not to
 
 Start with the essentials that address your biggest pain points. If you struggle with too many open tabs, focus on tab management extensions first. If you frequently need to capture screenshots, prioritize those tools. You can always add more extensions later as your needs change. Most of these extensions offer free versions or generous free tiers, so you can try them without spending money. The time you save on repetitive tasks adds up quickly, giving you more freedom to focus on the creative work you actually enjoy.
 
+## Related Articles
+* [chrome extensions for graphic designers](/articles/chrome-extensions-for-graphic-designers/)
+* [Best Chrome Extensions for UX Designers](/articles/best-chrome-extensions-for-ux-designers/)
+* [best chrome setup for graphic designers](/articles/best-chrome-setup-for-graphic-designers/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -1,23 +1,9 @@
 ---
-layout: default
-title: 'Chrome Document Policy: The New Security Feature You Need to Know'
-description: Discover Chrome's Document Policy API—a powerful security feature that
-  gives websites fine-grained control over browser behavior and protects users from
-  vari...
+layout: post
+title: "Chrome Document Policy: The New Security Feature You Need to Know"
+description: "Discover Chrome's Document Policy API—a powerful security feature that gives websites fine-grained control over browser behavior and protects users from vari..."
 date: 2026-01-24
-categories:
-- security
-- chrome
-- web-development
-tags:
-- chrome
-- security
-- document-policy
-- feature-policy
-- headers
-- browser-security
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-11
 permalink: chrome-document-policy-new-security-feature
 ---
 # Chrome Document Policy: The New Security Feature You Need to Know

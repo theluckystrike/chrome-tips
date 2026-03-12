@@ -1,22 +1,13 @@
 ---
-layout: post
-title: Chrome High Memory Usage After Sleep Fix
-description: Is Chrome using too much memory after sleep? Learn why this happens and
-  how to fix high memory usage after your computer wakes up. Learn how to optimize
-  your...
-date: 2026-01-15
-categories:
-- performance
-- troubleshooting
-tags:
-- chrome
-- memory
-- performance
-- sleep
-- browser
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-high-memory-usage-after-sleep-fix
+layout: "post"
+title: "chrome high memory usage after sleep fix"
+description: "Is Chrome using too much memory after sleep? Learn why this happens and how to fix high memory usage after your computer wakes up. Check out our expert recomme"
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-high-memory-usage-after-sleep-fix"
+categories: [performance, troubleshooting]
+tags: [chrome, memory, performance, sleep, browser]
+author: "theluckystrike"
 ---
 # Chrome High Memory Usage After Sleep Fix
 

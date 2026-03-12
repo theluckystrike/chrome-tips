@@ -1,20 +1,9 @@
 ---
-layout: post
-title: Chrome Extensions for Citation Generator
-description: Find the best Chrome extensions for citation generator to save time on
-  academic writing and create perfect references. Learn how to optimize your browser
-  tod...
+title: "Chrome Extensions For Citation Generator"
+description: "Discover how Chrome Extensions For Citation Generator can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settin..."
 date: 2026-03-10
-categories:
-- productivity
-- tips
-tags:
-- chrome-extensions
-- citations
-- academic-writing
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-extensions-for-citation-generator
+last_modified_at: 2026-03-11
+permalink: /articles/chrome-extensions-for-citation-generator/
 ---
 # Chrome Extensions for Citation Generator
 

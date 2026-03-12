@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Chrome Scaling Blurry on External Monitor Fix
-description: Is Chrome blurry when using an external monitor? Learn what causes this
-  scaling issue and how to fix it with simple steps. Learn how to optimize your browser...
+description: Is Chrome blurry when using an external monitor? Learn what causes this scaling issue and how to fix it with simple steps. Read our comprehensive guide to learn
 date: 2026-01-15
 categories:
 - troubleshooting
@@ -13,8 +12,8 @@ tags:
 - blurry-fix
 - display-issues
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-scaling-blurry-on-external-monitor-fix
+last_modified_at: '2026-03-10'
 ---
 # Chrome Scaling Blurry on External Monitor Fix
 

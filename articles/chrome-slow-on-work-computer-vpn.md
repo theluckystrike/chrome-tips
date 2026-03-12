@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM'
-description: Is Chrome running slow on your work computer through VPN? Discover practical
-  fixes for computers with limited RAM and get back to productivity. Learn how to
-  ...
+description: Is Chrome running slow on your work computer through VPN? Discover practical fixes for computers with limited RAM and get back to productivity. Read our compreh
 date: 2026-01-15
 categories:
 - performance
@@ -16,8 +14,8 @@ tags:
 - browser-performance
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-slow-on-work-computer-vpn
+last_modified_at: '2026-03-11'
 ---
 # Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM
 

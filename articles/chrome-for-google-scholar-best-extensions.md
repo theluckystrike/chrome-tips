@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Chrome for Google Scholar Best Extensions
-description: Discover the best Chrome extensions for Google Scholar that can improve
-  your research workflow and help you find academic papers faster. Learn how to optimiz...
+description: Discover the best Chrome extensions for Google Scholar that can improve your research workflow and help you find academic papers faster. Discover more tips a
 date: 2026-03-10
 categories:
 - productivity
@@ -14,7 +13,7 @@ tags:
 - browser-tools
 - academic-research
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-google-scholar-best-extensions
 ---
 # Chrome for Google Scholar Best Extensions

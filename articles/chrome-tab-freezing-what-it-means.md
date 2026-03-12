@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Tab Freezing What It Means
-description: Learn what chrome tab freezing means, why it happens, and simple fixes
-  to get your browser running smoothly again. Learn how to optimize your browser today
-  f...
+description: Learn what chrome tab freezing means, why it happens, and simple fixes to get your browser running smoothly again. Read our comprehensive guide to learn more an
 date: 2026-01-15
 categories:
 - troubleshooting
@@ -14,8 +12,8 @@ tags:
 - chrome-performance
 - tab-management
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-tab-freezing-what-it-means
+last_modified_at: '2026-03-10'
 ---
 # Chrome Tab Freezing What It Means
 

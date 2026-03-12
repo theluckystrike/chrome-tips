@@ -1,22 +1,9 @@
 ---
 layout: post
-title: How to Edit Any Webpage Text Using Inspect Element
-description: Learn how to temporarily modify any website text using Chrome's Inspect
-  Element tool. Perfect for taking screenshots, testing layouts, or just having fun
-  wit...
+title: "How to Edit Any Webpage Text Using Inspect Element"
+description: "Learn how to temporarily modify any website text using Chrome's Inspect Element tool. Perfect for taking screenshots, testing layouts, or just having fun wit..."
 date: 2026-03-11
-categories:
-- chrome
-- browser
-- tips
-- development
-tags:
-- chrome-inspect-element
-- browser-tools
-- web-development
-- browser-tips
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-11
 permalink: chrome-edit-webpage-text-inspect-element
 ---
 # How to Edit Any Webpage Text Using Inspect Element

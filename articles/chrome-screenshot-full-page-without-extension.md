@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Screenshot Full Page Without Extension
-description: Learn how to take full page screenshots in Chrome without installing
-  any extensions. Step-by-step guide using built-in tools. Learn how to optimize your
-  brow...
+description: Learn how to take full page screenshots in Chrome without installing any extensions. Step-by-step guide using built-in tools. Read our comprehensive guide to le
 date: 2025-02-19
 categories:
 - browser-tips
@@ -13,8 +11,8 @@ tags:
 - troubleshooting
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-screenshot-full-page-without-extension
+last_modified_at: '2026-03-11'
 ---
 # Chrome Screenshot Full Page Without Extension
 

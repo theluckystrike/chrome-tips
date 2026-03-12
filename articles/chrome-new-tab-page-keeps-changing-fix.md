@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome New Tab Page Keeps Changing Fix
-description: Is your Chrome new tab page keeps changing without your permission? Learn
-  why this happens and how to fix it with simple steps. Learn how to optimize your
-  br...
-date: 2026-01-15
+description: Is your Chrome new tab page keeps changing without your permission? Learn why this happens and how to fix it with simple steps. Learn effective tips and tric...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-new-tab-page-keeps-changing-fix
 categories:
 - chrome
 - troubleshooting

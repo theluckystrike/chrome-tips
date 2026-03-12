@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Chrome For Google Finance Tips
-description: Learn how to use Chrome for Google Finance more effectively with these
-  practical tips for tracking stocks and managing your portfolio. Learn how to optimize
-  ...
+title: chrome for google finance tips
+description: Learn how to use Chrome for Google Finance more effectively with these practical tips for tracking stocks and managing your portfolio. Discover more tips and
 date: 2026-01-15
 categories:
 - tips
@@ -15,7 +13,7 @@ tags:
 - finance
 - tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-google-finance-tips
 ---
 # Chrome for Google Finance Tips

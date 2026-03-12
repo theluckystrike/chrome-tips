@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Site Isolation How It Protects Your Passwords
-description: Learn how Chrome Site Isolation works to keep your passwords safe and
-  what you can do to enable it. Learn how to optimize your browser today for better
-  perfo...
+description: 'Learn how Chrome Site Isolation works to keep your passwords safe and what you can do to enable it. Read our comprehensive guide to learn more and improve your '
 date: 2026-01-15
 categories:
 - security

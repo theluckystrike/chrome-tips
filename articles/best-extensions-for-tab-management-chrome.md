@@ -67,4 +67,9 @@ The best extension for tab management depends on your specific needs and how you
 
 Most of these extensions offer free versions with basic features, so you can try several to see which one fits your workflow best. Once you find the right tool, you will wonder how you ever managed without it.
 
+## Related Articles
+* [Best Chrome Extensions for Email Management](/articles/best-chrome-extensions-for-email-management/)
+* [Chrome Extensions for Auto Tab Closer](/articles/chrome-extensions-for-auto-tab-closer/)
+* [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

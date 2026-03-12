@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome New Tab Opens Instead of Homepage Fix
-description: Is Chrome opening a new tab instead of your homepage? Learn why this
-  happens and how to fix it with simple steps. Learn how to optimize your browser
-  today fo...
-date: 2026-01-15
+description: Is Chrome opening a new tab instead of your homepage? Learn why this happens and how to fix it with simple steps. Learn effective tips and tricks to optimize...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-new-tab-opens-instead-of-homepage-fix
 categories:
 - troubleshooting
 - settings

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: How to Enable Chrome Site Isolation for Extra Security
-description: Learn what Chrome Site Isolation is, why it matters for your security,
-  and how to enable it step by step. Learn how to optimize your browser today for
-  better...
+description: Learn what Chrome Site Isolation is, why it matters for your security, and how to enable it step by step. Read our comprehensive guide to learn more and improve
 date: 2026-01-15
 categories:
 - security
@@ -16,8 +14,8 @@ tags:
 - browser
 - privacy
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-site-isolation-enable-extra-security
+last_modified_at: '2026-03-11'
 ---
 # How to Enable Chrome Site Isolation for Extra Security
 

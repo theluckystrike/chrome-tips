@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Chrome For Pocket Extension Setup
-description: Learn how to set up the Pocket extension in Chrome. Save articles for
-  offline reading with this simple guide. Learn how to optimize your browser today
-  for be...
+title: chrome for pocket extension setup
+description: 'Learn how to set up the Pocket extension in Chrome. Save articles for offline reading with this simple guide. Discover more tips and tricks to optimize your '
 date: 2026-01-15
 categories:
 - extensions
@@ -14,7 +12,7 @@ tags:
 - reading
 - save-articles
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-pocket-extension-setup
 ---
 # Chrome for Pocket Extension Setup

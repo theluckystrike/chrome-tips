@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Status Code 403 Forbidden Explained
-description: Encountering a 403 Forbidden error in Chrome can be frustrating. Learn
-  what causes it and how to fix it with simple solutions. Learn how to optimize your
-  bro...
+description: Encountering a 403 Forbidden error in Chrome can be frustrating. Learn what causes it and how to fix it with simple solutions. Read our comprehensive guide to l
 date: 2025-02-17
 categories:
 - troubleshooting
@@ -13,8 +11,8 @@ tags:
 - 403-forbidden
 - http-error
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-status-code-403-forbidden-explained
+last_modified_at: '2026-03-10'
 ---
 # Chrome Status Code 403 Forbidden Explained
 

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Send to Device Feature How to Use
-description: Learn how to use Chrome's Send to Device feature to instantly share tabs,
-  links, and content between your devices. Learn how to optimize your browser today
-  f...
+description: Learn how to use Chrome's Send to Device feature to instantly share tabs, links, and content between your devices. Read our comprehensive guide to learn more an
 date: 2026-01-15
 categories:
 - chrome
@@ -15,8 +13,8 @@ tags:
 - browser-sync
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-send-to-device-feature-how-to-use
+last_modified_at: '2026-03-10'
 ---
 # Chrome Send to Device Feature How to Use
 

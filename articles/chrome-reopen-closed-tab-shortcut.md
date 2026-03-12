@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Chrome Reopen Closed Tab Shortcut
-description: Learn the keyboard shortcut to reopen closed tabs in Chrome and discover
-  other methods to recover accidentally closed tabs. Learn how to optimize your browse...
+title: chrome reopen closed tab shortcut
+description: Learn the keyboard shortcut to reopen closed tabs in Chrome and discover other methods to recover accidentally closed tabs. Read our comprehensive guide to lear
 date: 2025-01-15
 categories:
 - browsing
@@ -13,8 +12,8 @@ tags:
 - browser-tips
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-reopen-closed-tab-shortcut
+last_modified_at: '2026-03-10'
 ---
 # Chrome Reopen Closed Tab Shortcut
 

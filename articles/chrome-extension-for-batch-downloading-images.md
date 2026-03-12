@@ -1,23 +1,13 @@
 ---
-layout: post
-title: Chrome Extension for Batch Downloading Images
-description: Learn how to use Chrome extensions for batch downloading images from
-  any website quickly and easily. Learn how to optimize your browser today for better
-  perf...
-date: 2026-03-09
-categories:
-- chrome-extensions
-- image-download
-- productivity
-- tips
-tags:
-- chrome-extensions
-- batch-download
-- image-download
-- browser-tools
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-extension-for-batch-downloading-images
+title: "Chrome Extension for Batch Downloading Images"
+description: "Learn how to use Chrome extensions for batch downloading images from any website quickly and easily. Check out our expert recommendations and step-by-step instr"
+date: "2026-03-09"
+last_modified_at: "2026-03-10"
+permalink: "chrome-extension-for-batch-downloading-images"
+layout: "post"
+categories: "[chrome-extensions, image-download, productivity, tips]"
+tags: "[chrome-extensions, batch-download, image-download, browser-tools]"
+author: "theluckystrike"
 ---
 # Chrome Extension for Batch Downloading Images
 

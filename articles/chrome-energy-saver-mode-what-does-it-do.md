@@ -1,20 +1,13 @@
 ---
-layout: post
-title: Chrome Energy Saver Mode What Does It Do
-description: Chrome Energy Saver reduces battery drain by limiting background tab
-  activity. Learn how it works and when to use it. Learn how to optimize your browser
-  toda...
-date: 2026-01-15
-categories:
-- performance
-- battery
-tags:
-- chrome-energy
-- energy-saver
-- battery-life
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-energy-saver-mode-what-does-it-do
+title: "Chrome Energy Saver Mode What Does It Do"
+description: "Chrome Energy Saver reduces battery drain by limiting background tab Check out our expert recommendations and step-by-step instructions to get the most out of y"
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-energy-saver-mode-what-does-it-do"
+layout: "post"
+categories: ""
+tags: ""
+author: "theluckystrike"
 ---
 # Chrome Energy Saver Mode What Does It Do
 

@@ -1,23 +1,13 @@
 ---
-layout: post
-title: Chrome Webrtc Video Call Quality Improvement
-description: Learn how to improve WebRTC video call quality in Chrome with simple
-  tips and settings that make your video calls clearer. Learn how to optimize your
-  browser...
-date: 2026-01-15
-categories:
-- video-calls
-- performance
-- productivity
-tags:
-- webrtc
-- video-call
-- video-quality
-- chrome-settings
-- chrome-performance
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-webrtc-video-call-quality-improvement
+layout: "post"
+title: "chrome webrtc video call quality improvement"
+description: "Learn how to improve WebRTC video call quality in Chrome with simple tips and settings that make your video calls clearer. Read our comprehensive guide to le..."
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-webrtc-video-call-quality-improvement"
+categories: "[video-calls, performance, productivity]"
+tags: "[webrtc, video-call, video-quality, chrome-settings, chrome-performance]"
+author: "theluckystrike"
 ---
 # Chrome WebRTC Video Call Quality Improvement
 

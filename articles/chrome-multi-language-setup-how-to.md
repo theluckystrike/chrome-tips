@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Chrome Multi Language Setup How To
-description: Learn how to set up multiple languages in Chrome for a personalized browsing
-  experience across different languages. Learn how to optimize your browser today
-  ...
-date: 2026-03-09
+title: chrome multi language setup how to
+description: Learn how to set up multiple languages in Chrome for a personalized browsing experience across different languages. Learn effective tips and tricks to optimi...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-multi-language-setup-how-to
 categories:
 - features
 - customization

@@ -1,19 +1,13 @@
 ---
-layout: post
-title: Free Chrome Extensions Better Than Paid Apps
-description: You do not need to pay for premium tools when free Chrome extensions
-  can do the job just as well. Here is how to save money and get more from your browser.
-date: 2026-03-10
-categories:
-- productivity
-- tips
-tags:
-- chrome-extensions
-- free-extensions
-- paid-apps-alternative
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: free-chrome-extensions-better-than-paid-apps
+layout: "post"
+title: "Free Chrome Extensions Better Than Paid Apps"
+description: "You do not need to pay for premium tools when free Chrome extensions can do the job just as well. Here is how to save money and get more from your browser."
+date: "2026-03-10"
+last_modified_at: "2026-03-10"
+permalink: "free-chrome-extensions-better-than-paid-apps"
+categories: "[productivity, tips]"
+tags: "[chrome-extensions, free-extensions, paid-apps-alternative]"
+author: "theluckystrike"
 ---
 # Free Chrome Extensions Better Than Paid Apps
 

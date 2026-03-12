@@ -1,21 +1,13 @@
 ---
-layout: post
-title: 'Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM'
-description: Is Chrome canvas rendering slow? Learn proven fixes to speed up canvas
-  performance on older computers with limited RAM, including extensions and settings.
-date: 2026-01-15
-categories:
-- performance
-- chrome
-- troubleshooting
-tags:
-- chrome-canvas-rendering-slow-fix
-- chrome-performance
-- browser-optimization
-- slow-computer
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-canvas-rendering-slow-fix
+layout: "post"
+title: "Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM"
+description: "Is Chrome canvas rendering slow? Learn proven fixes to speed up canvas performance on older computers with limited RAM, including extensions and settings."
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-canvas-rendering-slow-fix"
+categories: [performance, chrome, troubleshooting]
+tags: [chrome-canvas-rendering-slow-fix, chrome-performance, browser-optimization, slow-computer]
+author: "theluckystrike"
 ---
 # Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM
 

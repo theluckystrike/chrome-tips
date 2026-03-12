@@ -1,24 +1,13 @@
 ---
-layout: post
-title: How to Fix ChatGPT Slow Response in Chrome (Complete Guide)
-description: Is ChatGPT running slow in Chrome? Learn practical solutions to speed
-  up response times, from clearing cache to managing tabs. Real fixes that actually
-  work.
-date: 2026-01-15
-categories:
-- chrome
-- chatgpt
-- performance
-- productivity
-tags:
-- chatgpt
-- chrome-slow
-- browser-performance
-- ai-tools
-- productivity
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-chatgpt-slow-response-fix
+layout: "post"
+title: "How to Fix ChatGPT Slow Response in Chrome (Complete Guide)"
+description: "Is ChatGPT running slow in Chrome? Learn practical solutions to speed up response times, from clearing cache to managing tabs. Real fixes that actually work."
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-chatgpt-slow-response-fix"
+categories: [chrome, chatgpt, performance, productivity]
+tags: [chatgpt, chrome-slow, browser-performance, ai-tools, productivity]
+author: "theluckystrike"
 ---
 # How to Fix ChatGPT Slow Response in Chrome
 

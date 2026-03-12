@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome For Youtube Music Web Tips
-description: Get the most out of YouTube Music in Chrome with these helpful tips for
-  better performance, easier controls, and a smoother listening experience. Learn
-  how t...
-date: 2026-01-15
-categories:
-- streaming
-- tips
-tags:
-- youtube-music
-- chrome
-- browser
-- streaming
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-for-youtube-music-web-tips
+layout: "post"
+title: "chrome for youtube music web tips"
+description: "Get the most out of YouTube Music in Chrome with these helpful tips for better performance, easier controls, and a smoother listening experience. Check out our"
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-for-youtube-music-web-tips"
+categories: [streaming, tips]
+tags: [youtube-music, chrome, browser, streaming]
+author: "theluckystrike"
 ---
 # Chrome for YouTube Music Web Tips
 

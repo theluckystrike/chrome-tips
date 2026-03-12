@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Chrome Overscroll Behavior CSS
-description: Discover how to control Chrome overscroll behavior with CSS. Learn what
-  causes unwanted scroll effects and how to fix them for a smoother browsing experience.
-date: 2026-01-21
+description: Discover how to control Chrome overscroll behavior with CSS. Learn what causes unwanted scroll effects and how to fix them for a smoother browsing experience.
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-overscroll-behavior-css
 categories:
 - css
 - development

@@ -1,20 +1,13 @@
 ---
-layout: post
-title: Chrome Web Serial Api Explained
-description: Learn what Chrome Web Serial API is and how it lets your browser communicate
-  with serial devices like Arduino and microcontrollers directly. Learn how to opt...
-date: 2026-03-09
-categories:
-- features
-- connectivity
-tags:
-- web-serial
-- serial-api
-- chrome-features
-- hardware
-author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-web-serial-api-explained
+layout: "post"
+title: "chrome web serial api explained"
+description: "Learn what Chrome Web Serial API is and how it lets your browser communicate with serial devices like Arduino and microcontrollers directly. Read our compreh..."
+date: "2026-03-09"
+last_modified_at: "2026-03-09"
+permalink: "chrome-web-serial-api-explained"
+categories: "[features, connectivity]"
+tags: "[web-serial, serial-api, chrome-features, hardware]"
+author: "theluckystrike"
 ---
 # Chrome Web Serial API Explained
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Chrome for Canvas LMS Best Extensions
-description: Find the best Chrome extensions for Canvas LMS to improve focus, manage
-  tabs, and boost your online learning productivity. Learn how to optimize your browser...
+description: Find the best Chrome extensions for Canvas LMS to improve focus, manage tabs, and boost your online learning productivity. Find out more tips on how to optim...
 date: 2026-01-20
 categories:
 - extensions

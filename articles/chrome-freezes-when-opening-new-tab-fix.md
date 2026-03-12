@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome Freezes When Opening New Tab Fix
-description: Is Chrome freezing when you open a new tab? Learn the common causes and
-  easy fixes to get your browser working smoothly again. Learn how to optimize your
-  bro...
-date: 2026-01-15
-categories:
-- troubleshooting
-- performance
-tags:
-- chrome-freezes
-- new-tab-freeze
-- browser-freeze
-- chrome-fix
-author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-freezes-when-opening-new-tab-fix
+layout: "post"
+title: "Chrome Freezes When Opening New Tab Fix"
+description: "Is Chrome freezing when you open a new tab? Learn the common causes and easy fixes to get your browser working smoothly again. Check out our expert recommendat"
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "chrome-freezes-when-opening-new-tab-fix"
+categories: [troubleshooting, performance]
+tags: [chrome-freezes, new-tab-freeze, browser-freeze, chrome-fix]
+author: "theluckystrike"
 ---
 # Chrome Freezes When Opening New Tab Fix
 

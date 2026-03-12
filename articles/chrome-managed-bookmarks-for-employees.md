@@ -1,22 +1,13 @@
 ---
-layout: post
-title: Chrome Managed Bookmarks for Employees
-description: Learn how to set up Chrome managed bookmarks so your team can access
-  important work resources quickly and consistently. Learn how to optimize your browser
-  to...
-date: 2026-01-15
-categories:
-- bookmarks
-- enterprise
-- productivity
-tags:
-- chrome-bookmarks
-- managed-bookmarks
-- enterprise
-- business
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-managed-bookmarks-for-employees
+layout: "post"
+title: "Chrome Managed Bookmarks for Employees"
+description: "Learn how to set up Chrome managed bookmarks so your team can access important work resources quickly and consistently. Check out our expert recommendations an"
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-managed-bookmarks-for-employees"
+categories: [bookmarks, enterprise, productivity]
+tags: [chrome-bookmarks, managed-bookmarks, enterprise, business]
+author: "theluckystrike"
 ---
 # Chrome Managed Bookmarks for Employees
 

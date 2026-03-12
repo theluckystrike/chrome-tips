@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Chrome Security Check How To Run
-description: Learn how to run a security check in Chrome to keep your browser safe.
-  Simple steps to check extensions, settings, and protect your data. Learn how to
-  optimi...
+title: chrome security check how to run
+description: Learn how to run a security check in Chrome to keep your browser safe. Simple steps to check extensions, settings, and protect your data. Read our comprehensive
 date: 2026-01-20
 categories:
 - security
@@ -14,8 +12,8 @@ tags:
 - browser-security
 - chrome-extensions
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-security-check-how-to-run
+last_modified_at: '2026-03-10'
 ---
 # Chrome Security Check How to Run
 

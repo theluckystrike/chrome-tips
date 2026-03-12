@@ -1,20 +1,13 @@
 ---
-layout: post
-title: Chrome GPU Acceleration Causing Problems Fix
-description: Is Chrome GPU acceleration causing problems? Learn how to disable hardware
-  acceleration and fix Chrome performance issues. Learn how to optimize your browser...
-date: 2026-03-10
-categories:
-- troubleshooting
-- tips
-tags:
-- chrome
-- gpu
-- performance
-- browser-fixes
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-gpu-acceleration-causing-problems-fix
+layout: "post"
+title: "Chrome GPU Acceleration Causing Problems Fix"
+description: "Is Chrome GPU acceleration causing problems? Learn how to disable hardware acceleration and fix Chrome performance issues. Check out our expert recommendations"
+date: "2026-03-10"
+last_modified_at: "2026-03-10"
+permalink: "chrome-gpu-acceleration-causing-problems-fix"
+categories: [troubleshooting, tips]
+tags: [chrome, gpu, performance, browser-fixes]
+author: "theluckystrike"
 ---
 # Chrome GPU Acceleration Causing Problems Fix
 

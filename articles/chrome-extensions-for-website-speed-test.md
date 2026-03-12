@@ -1,21 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions for Website Speed Test
-description: Discover the best Chrome extensions to test your website loading speed
-  and improve performance. Learn how to optimize your browser today for better performance.
+title: "Chrome Extensions for Website Speed Test"
+description: "Discover the best Chrome extensions to test your website loading speed Check out these essential tools and tips to streamline your browsing workflow now."
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-11
 permalink: chrome-extensions-for-website-speed-test
-categories:
-- performance
-- extensions
-- tools
-tags:
-- chrome-extensions
-- website-speed
-- performance
-- browser-tools
-- page-speed
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Extensions for Website Speed Test

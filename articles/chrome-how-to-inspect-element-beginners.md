@@ -1,20 +1,13 @@
 ---
-layout: post
-title: Chrome How to Inspect Element Beginners
-description: Learn how to use Chrome Inspect Element to see website code, fix display
-  issues, and understand how web pages work. Learn how to optimize your browser today
-  ...
-date: 2025-02-19
-categories:
-- browser-tips
-- web-development
-tags:
-- inspect-element
-- developer-tools
-- troubleshooting
-author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-how-to-inspect-element-beginners
+layout: "post"
+title: "Chrome How to Inspect Element Beginners"
+description: "Learn how to use Chrome Inspect Element to see website code, fix display issues, and understand how web pages work. Check out our expert recommendations and ti"
+date: "2025-02-19"
+last_modified_at: "2026-03-09"
+permalink: "chrome-how-to-inspect-element-beginners"
+categories: [browser-tips, web-development]
+tags: [inspect-element, developer-tools, troubleshooting]
+author: "theluckystrike"
 ---
 # Chrome How to Inspect Element Beginners
 

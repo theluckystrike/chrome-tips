@@ -1,20 +1,13 @@
 ---
-layout: post
-title: Chrome Kiosk Mode How To Set Up
-description: Learn how to set up chrome kiosk mode to lock your browser to a single
-  website. Perfect for public displays, kiosks, and dedicated workstations. Learn
-  how to...
-date: 2026-01-15
-categories:
-- browsers
-- tips
-tags:
-- chrome
-- kiosk-mode
-- browser-settings
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-kiosk-mode-how-to-set-up
+layout: "post"
+title: "chrome kiosk mode how to set up"
+description: "Learn how to set up chrome kiosk mode to lock your browser to a single website. Perfect for public displays, kiosks, and dedicated workstations. Check out our"
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-kiosk-mode-how-to-set-up"
+categories: [browsers, tips]
+tags: [chrome, kiosk-mode, browser-settings]
+author: "theluckystrike"
 ---
 # Chrome Kiosk Mode How to Set Up
 

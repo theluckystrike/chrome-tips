@@ -1,18 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions For Youtubers 2026
-description: Discover the best chrome extensions for youtubers in 2026 to streamline
-  your workflow, grow your channel, and save time. Learn how to optimize your browser
-  t...
+title: "chrome extensions for youtubers 2026"
+description: "Discover the best chrome extensions for youtubers in 2026 to streamline your workflow, grow your channel, and save time. Read our comprehensive guide to lear..."
 date: 2026-01-15
-categories:
-- extensions
-- youtube
-tags:
-- youtube
-- chrome-extension
-- content-creator
-- productivity
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-youtubers-2026
+categories: [extensions, youtube]
+tags: [youtube, chrome-extension, content-creator, productivity]
 author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-youtubers-2026

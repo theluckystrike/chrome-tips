@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Chrome for Gaming: How to Reduce Input Lag'
-description: Learn how to reduce input lag in Chrome for gaming. Simple settings tweaks
-  and tips for smoother browser gaming performance. Learn how to optimize your brows...
+description: Learn how to reduce input lag in Chrome for gaming. Simple settings tweaks and tips for smoother browser gaming performance. Discover more tips and tricks to
 date: 2025-02-20
 categories:
 - performance
@@ -13,7 +12,7 @@ tags:
 - gaming-performance
 - browser-gaming
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-gaming-reduce-input-lag
 ---
 If you are searching for chrome for gaming reduce input lag, you have likely experienced that frustrating delay between pressing a key or moving your mouse and seeing the action happen on screen. Input lag can turn an exciting game into a disappointing experience, especially in fast-paced browser games where every millisecond counts. The good news is that Chrome has several settings you can adjust to minimize this delay and get your games feeling more responsive.

@@ -1,21 +1,13 @@
 ---
-layout: post
-title: 'Chrome Tabs on Top vs Bottom: How to Change'
-description: Wondering how to move Chrome tabs from top to bottom or vice versa? Learn
-  why Chrome changed this and what options you have now. Learn how to optimize your
-  b...
-date: 2025-03-13
-categories:
-- customization
-- tips
-tags:
-- tabs
-- chrome-settings
-- chrome-customization
-- chrome-tips
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-tabs-on-top-vs-bottom-how-to-change
+layout: "post"
+title: "Chrome Tabs on Top vs Bottom: How to Change"
+description: "Wondering how to move Chrome tabs from top to bottom or vice versa? Learn why Chrome changed this and what options you have now. Read our comprehensive guide..."
+date: "2025-03-13"
+last_modified_at: "2026-03-10"
+permalink: "chrome-tabs-on-top-vs-bottom-how-to-change"
+categories: "[customization, tips]"
+tags: "[tabs, chrome-settings, chrome-customization, chrome-tips]"
+author: "theluckystrike"
 ---
 # Chrome Tabs on Top vs Bottom: How to Change
 

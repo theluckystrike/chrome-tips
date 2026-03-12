@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Screen Flickering Fix
-description: Is your Chrome screen flickering? Learn what causes this annoying problem
-  and how to fix it with simple solutions anyone can try. Learn how to optimize your
-  ...
+description: Is your Chrome screen flickering? Learn what causes this annoying problem and how to fix it with simple solutions anyone can try. Read our comprehensive guide t
 date: 2026-01-15
 categories:
 - troubleshooting
@@ -14,8 +12,8 @@ tags:
 - browser-problem
 - screen-flickering-fix
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-screen-flickering-fix
+last_modified_at: '2026-03-10'
 ---
 # Chrome Screen Flickering Fix
 

@@ -1,20 +1,9 @@
 ---
-layout: post
-title: Chrome Extensions for Email Productivity
-description: Discover Chrome extensions for email productivity that can help you manage
-  your inbox faster and work more efficiently. Learn how to optimize your browser
-  to...
+title: "Chrome Extensions For Email Productivity"
+description: "Discover how Chrome Extensions For Email Productivity can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settin..."
 date: 2026-03-10
-categories:
-- email
-- tips
-tags:
-- chrome-extensions
-- email
-- productivity
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-extensions-for-email-productivity
+last_modified_at: 2026-03-11
+permalink: /articles/chrome-extensions-for-email-productivity/
 ---
 # Chrome Extensions for Email Productivity
 

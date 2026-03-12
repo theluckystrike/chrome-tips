@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome NordVPN Extension vs ExpressVPN Extension
-description: A practical comparison of NordVPN and ExpressVPN Chrome extensions to
-  help you choose the best VPN solution for your browser. Learn how to optimize your
-  brow...
-date: 2026-03-10
+description: A practical comparison of NordVPN and ExpressVPN Chrome extensions to help you choose the best VPN solution for your browser. Learn effective tips and tricks...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-nordvpn-extension-vs-expressvpn-extension
 categories:
 - privacy
 - tips

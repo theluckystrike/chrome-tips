@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Microsoft Teams Web Slow Fix
-description: Is Microsoft Teams running slow in Chrome? Learn practical solutions
-  to fix lag, freezing, and performance issues in the Teams web app. Learn how to
-  optimize...
-date: 2026-01-15
+description: Is Microsoft Teams running slow in Chrome? Learn practical solutions to fix lag, freezing, and performance issues in the Teams web app. Learn effective tips ...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-microsoft-teams-web-slow-fix
 categories:
 - productivity
 - microsoft-teams

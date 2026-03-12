@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Chrome Service Worker Debugging Guide
-description: Master Chrome Service Worker debugging with DevTools Application tab,
-  cache inspection, update lifecycle management, and offline testing techniques. Learn
-  ho...
+description: Master Chrome Service Worker debugging with DevTools Application tab, cache inspection, update lifecycle management, and offline testing techniques. Read our co
 date: 2026-01-15
 categories:
 - development
@@ -17,8 +15,8 @@ tags:
 - pwa
 - offline
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-service-worker-debugging
+last_modified_at: '2026-03-10'
 ---
 # Chrome Service Worker Debugging Guide
 

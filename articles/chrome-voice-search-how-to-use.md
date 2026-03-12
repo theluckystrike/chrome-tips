@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome Voice Search How To Use
-description: Learn how to use voice search in Chrome browser. Simple steps to enable
-  voice search and speak your searches instead of typing. Learn how to optimize your
-  br...
-date: 2026-03-09
-categories:
-- features
-- accessibility
-tags:
-- voice-search
-- chrome-settings
-- accessibility
-- hands-free
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-voice-search-how-to-use
+layout: "post"
+title: "chrome voice search how to use"
+description: "Learn how to use voice search in Chrome browser. Simple steps to enable Read our comprehensive guide to learn more and optimize your browser experience with ..."
+date: "2026-03-09"
+last_modified_at: "2026-03-11"
+permalink: "chrome-voice-search-how-to-use"
+categories: ""
+tags: ""
+author: "theluckystrike"
 ---
 # Chrome Voice Search How to Use
 

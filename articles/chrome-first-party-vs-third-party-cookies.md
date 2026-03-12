@@ -1,19 +1,12 @@
 ---
 layout: post
-title: Chrome First Party Vs Third Party Cookies
-description: Understanding the difference between first party and third party cookies
-  in Chrome. Learn why they matter for privacy and how to manage them. Learn how to
-  op...
+title: "chrome first party vs third party cookies"
+description: "Understanding the difference between first party and third party cookies in Chrome. Learn why they matter for privacy and how to manage them. Read our compre..."
 date: 2026-01-15
-categories:
-- browser
-- privacy
-- settings
-tags:
-- chrome
-- cookies
-- privacy
-- browser-settings
+last_modified_at: 2026-03-09
+permalink: chrome-first-party-vs-third-party-cookies
+categories: [browser, privacy, settings]
+tags: [chrome, cookies, privacy, browser-settings]
 author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-first-party-vs-third-party-cookies

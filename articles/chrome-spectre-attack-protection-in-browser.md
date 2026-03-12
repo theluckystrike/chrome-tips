@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Spectre Attack Protection in Browser
-description: Learn about Spectre attacks, how they affect your browser, and practical
-  steps to protect your browsing sessions. Learn how to optimize your browser today
-  fo...
+description: Learn about Spectre attacks, how they affect your browser, and practical steps to protect your browsing sessions. Read our comprehensive guide to learn more and
 date: 2026-01-15
 categories:
 - security
@@ -14,8 +12,8 @@ tags:
 - security
 - browser-protection
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-spectre-attack-protection-in-browser
+last_modified_at: '2026-03-10'
 ---
 # Chrome Spectre Attack Protection in Browser
 

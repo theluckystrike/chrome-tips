@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Chrome Passwords on Phone How to View
-description: Learn how to view saved passwords in Chrome on your phone with easy steps.
-  Access your stored credentials securely on Android and iOS. Learn how to optimize
-  ...
-date: '2026-01-15'
+description: Learn how to view saved passwords in Chrome on your phone with easy steps. Access your stored credentials securely on Android and iOS. Learn effective tips a...
+date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-passwords-on-phone-how-to-view
 ---

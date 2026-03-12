@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Subgrid CSS Explained
-description: Learn what Chrome subgrid CSS means, why it matters for web design, and
-  how to use it in your projects. Learn how to optimize your browser today for better
-  p...
+description: Learn what Chrome subgrid CSS means, why it matters for web design, and how to use it in your projects. Read our comprehensive guide to learn more and improve y
 date: '2026-03-09'
 last_modified_at: '2026-03-11'
 permalink: chrome-subgrid-css-explained

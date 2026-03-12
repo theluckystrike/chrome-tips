@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Chrome CSS Grid Layout Complete Guide
-description: Learn how to use CSS Grid in Chrome for building complex web layouts.
-  This complete guide covers everything from basics to advanced grid techniques. Learn
-  ho...
+description: 'Learn how to use CSS Grid in Chrome for building complex web layouts.
+  This complete guide covers everything from basics to advanced grid techniques. Learn '
 date: 2025-03-10
 categories:
 - web-design
@@ -15,8 +14,8 @@ tags:
 - layout
 - web-design
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-css-grid-layout-complete-guide
+last_modified_at: '%Y->-'
+permalink: /chrome-css-grid-layout-complete-guide/
 ---
 # Chrome CSS Grid Layout Complete Guide
 

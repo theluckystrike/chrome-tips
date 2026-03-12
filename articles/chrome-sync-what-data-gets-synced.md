@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Sync What Data Gets Synced
-description: Wondering what data Chrome sync saves and shares across your devices?
-  Learn exactly what gets synced and how to control it. Learn how to optimize your
-  browse...
+description: Wondering what data Chrome sync saves and shares across your devices? Learn exactly what gets synced and how to control it. Read our comprehensive guide to lear
 date: 2025-03-09
 categories:
 - troubleshooting
@@ -14,8 +12,8 @@ tags:
 - browser-sync
 - chrome-data
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-sync-what-data-gets-synced
+last_modified_at: '2026-03-10'
 ---
 # Chrome Sync What Data Gets Synced
 

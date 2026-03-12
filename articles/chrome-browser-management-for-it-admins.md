@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome Browser Management for IT Admins
-description: A practical guide to managing Chrome browsers in enterprise environments.
-  Learn about policies, extensions, and deployment strategies. Learn how to optimize
-  ...
-date: 2026-01-15
-categories:
-- management
-- enterprise
-tags:
-- chrome-browser
-- it-admin
-- enterprise
-- management
-author: theluckystrike
-last_modified_at: '2026-03-12'
-permalink: chrome-browser-management-for-it-admins
+layout: "post"
+title: "Chrome Browser Management for IT Admins"
+description: "A practical guide to managing Chrome browsers in enterprise environments. Learn about policies, extensions, and deployment strategies. Check out our expert guid"
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-browser-management-for-it-admins"
+categories: [management, enterprise]
+tags: [chrome-browser, it-admin, enterprise, management]
+author: "theluckystrike"
 ---
 # Chrome Browser Management for IT Admins
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Chrome Profile Name How To Change
-description: Learn how to change your Chrome profile name with simple steps. Customize
-  your browser profile easily. Learn how to optimize your browser today for better
-  pe...
-date: 2026-03-10
+title: chrome profile name how to change
+description: Learn how to change your Chrome profile name with simple steps. Customize your browser profile easily. Learn effective tips and tricks to optimize your Chrom...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-profile-name-how-to-change
 categories:
 - features
 - customization

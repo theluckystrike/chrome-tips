@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Chrome Mutation Observer Api Explained
-description: Learn what the Chrome Mutation Observer API is, how websites use it to
-  detect changes, and what it means for your browsing experience and privacy. Learn
-  how ...
-date: 2026-03-09
+title: chrome mutation observer api explained
+description: Learn what the Chrome Mutation Observer API is, how websites use it to detect changes, and what it means for your browsing experience and privacy. Learn effe...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-mutation-observer-api-explained
 categories:
 - features
 - developer-tools

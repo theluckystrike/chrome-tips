@@ -1,23 +1,13 @@
 ---
-layout: post
-title: 'Chrome WebGL Check If Working: Complete Verification Guide'
-description: Learn how to chrome webgl check if working properly. Discover easy methods
-  to verify WebGL support, troubleshoot issues, and optimize your browser for WebGL
-  ...
-date: 2026-03-11
-categories:
-- troubleshooting
-- graphics
-- chrome
-tags:
-- webgl
-- chrome-webgl
-- graphics
-- browser-troubleshooting
-- chrome-flags
-author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-webgl-check-if-working
+layout: "post"
+title: "Chrome WebGL Check If Working: Complete Verification Guide"
+description: "Learn how to chrome webgl check if working properly. Discover easy methods to verify WebGL support, troubleshoot issues, and optimize your browser for WebGL ..."
+date: "2026-03-11"
+last_modified_at: "2026-03-11"
+permalink: "chrome-webgl-check-if-working"
+categories: "[troubleshooting, graphics, chrome]"
+tags: "[webgl, chrome-webgl, graphics, browser-troubleshooting, chrome-flags]"
+author: "theluckystrike"
 ---
 # Chrome WebGL Check If Working: Complete Verification Guide
 

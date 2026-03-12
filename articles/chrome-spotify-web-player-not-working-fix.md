@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Chrome Spotify Web Player Not Working Fix
-description: Is your Spotify not working in Chrome? Learn simple solutions to fix
-  the Chrome Spotify web player and get back to listening. Learn how to optimize your
-  brow...
-date: '2026-01-15'
-last_modified_at: '2026-03-10'
+description: Is your Spotify not working in Chrome? Learn simple solutions to fix the Chrome Spotify web player and get back to listening. Read our comprehensive guide to le
 permalink: chrome-spotify-web-player-not-working-fix
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
 ---
 Is your Spotify not working in Chrome? This is a frustrating problem that happens to plenty of people who use the web player instead of the desktop app. You sit down to play some music, open Spotify in your browser, and nothing happens. The songs won't load, playback keeps pausing, or you get an error message that does not make much sense. Let me walk you through why this happens and how you can fix it.
 

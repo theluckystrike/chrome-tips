@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Chrome Release Schedule: When Is the Next Update?'
-description: Learn how Chrome releases updates, the regular schedule Google follows,
-  and how to check when your next Chrome update will arrive. Learn how to optimize
-  your...
+description: 'Learn how Chrome releases updates, the regular schedule Google follows, and how to check when your next Chrome update will arrive. Read our comprehensive guide '
 date: 2026-01-15
 categories:
 - chrome
@@ -14,8 +12,8 @@ tags:
 - chrome-update
 - chrome-version
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-release-schedule-when-next-update
+last_modified_at: '2026-03-11'
 ---
 # Chrome Release Schedule: When Is the Next Update?
 

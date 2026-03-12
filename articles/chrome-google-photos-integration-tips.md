@@ -1,22 +1,13 @@
 ---
-layout: post
-title: Chrome Google Photos Integration Tips
-description: Learn how to fix common Chrome and Google Photos integration issues with
-  practical tips for seamless photo management and sync. Learn how to optimize your
-  br...
-date: 2026-03-09
-categories:
-- integration
-- photos
-- troubleshooting
-tags:
-- google-photos
-- chrome-integration
-- photo-sync
-- browser-tips
-author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-google-photos-integration-tips
+layout: "post"
+title: "chrome google photos integration tips"
+description: "Learn how to fix common Chrome and Google Photos integration issues with practical tips for seamless photo management and sync. Check out our expert recommenda"
+date: "2026-03-09"
+last_modified_at: "2026-03-09"
+permalink: "chrome-google-photos-integration-tips"
+categories: [integration, photos, troubleshooting]
+tags: [google-photos, chrome-integration, photo-sync, browser-tips]
+author: "theluckystrike"
 ---
 # Chrome Google Photos Integration Tips
 

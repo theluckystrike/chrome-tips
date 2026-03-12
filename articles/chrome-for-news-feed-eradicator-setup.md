@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for News Feed Eradicator Setup
-description: Learn how to set up Chrome to eliminate news feeds and distractions.
-  Block algorithmic feeds, reduce clutter, and focus on what matters. Learn how to
-  optimiz...
+description: Learn how to set up Chrome to eliminate news feeds and distractions. Block algorithmic feeds, reduce clutter, and focus on what matters. Discover more tips a
 date: 2025-03-10
 categories:
 - productivity
@@ -15,7 +13,7 @@ tags:
 - extensions
 - focus-mode
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-news-feed-eradicator-setup
 ---
 # Chrome for News Feed Eradicator Setup

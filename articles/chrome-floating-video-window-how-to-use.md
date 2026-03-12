@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Chrome Floating Video Window How To Use
-description: Learn how to use chrome floating video window to watch videos while browsing.
-  Simple guide for multitasking with video popouts. Learn how to optimize your br...
+title: chrome floating video window how to use
+description: Learn how to use chrome floating video window to watch videos while browsing. Simple guide for multitasking with video popouts. Find out more tips on how to ...
 date: 2026-01-15
 categories:
 - extensions
@@ -14,7 +13,7 @@ tags:
 - productivity
 - multitasking
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-floating-video-window-how-to-use
 ---
 # Chrome Floating Video Window How to Use

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome Says Not Secure But Site Is Safe
-description: When Chrome says a site is not secure but you know it is safe, it can
-  be confusing. Learn why this happens and what you can do about it. Learn how to
-  optimiz...
+description: 'When Chrome says a site is not secure but you know it is safe, it can be confusing. Learn why this happens and what you can do about it. Read our comprehensive '
 date: 2026-01-15
 categories:
 - troubleshooting
@@ -14,8 +12,8 @@ tags:
 - website-security
 - chrome-warning
 author: theluckystrike
-last_modified_at: '2026-03-10'
 permalink: chrome-says-not-secure-but-site-is-safe
+last_modified_at: '2026-03-10'
 ---
 # Chrome Says Not Secure But Site Is Safe
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Chrome On Raspberry Pi How To Install
-description: Learn how to install Chrome on Raspberry Pi with simple steps. Get a
-  full-featured browser on your Pi for better browsing. Learn how to optimize your
-  browser...
-date: 2026-01-16
+title: chrome on raspberry pi how to install
+description: Learn how to install Chrome on Raspberry Pi with simple steps. Get a full-featured browser on your Pi for better browsing. Learn effective tips and tricks to...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-on-raspberry-pi-how-to-install
 categories:
 - linux
 - hardware

@@ -1,21 +1,13 @@
 ---
-layout: default
-title: Chrome Using More Memory After an Update? Here's What to Do
-description: Chrome's RAM usage jumped after updating? Understand why and learn practical
-  fixes to bring memory consumption back down. Learn how to optimize your browser
-  ...
-date: 2025-02-28
-categories:
-- performance
-- troubleshooting
-tags:
-- chrome-memory
-- ram-usage
-- chrome-update
-- memory-management
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-using-more-memory-after-update
+layout: "default"
+title: "Chrome Using More Memory After an Update? Here's What to Do"
+description: "Chrome's RAM usage jumped after updating? Understand why and learn practical fixes to bring memory consumption back down. Read our comprehensive guide to lea..."
+date: "2025-02-28"
+last_modified_at: "2026-03-10"
+permalink: "chrome-using-more-memory-after-update"
+categories: "[performance, troubleshooting]"
+tags: "[chrome-memory, ram-usage, chrome-update, memory-management]"
+author: "theluckystrike"
 ---
 # Chrome Using More Memory After an Update? Here's What to Do
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Chrome Developer Mode Extensions Warning: How to Dismiss'
 description: Getting bothered by the Chrome developer mode extensions warning? Here's
-  why it appears and how to permanently dismiss it. Learn how to optimize your browser...
+  why it appears and how to permanently dismiss it. Learn more about how to optimize
 date: 2025-03-09
 categories:
 - extensions
@@ -13,8 +13,8 @@ tags:
 - extension-warning
 - browser-troubleshooting
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-developer-mode-extensions-warning-how-to-dismiss
+last_modified_at: '%Y->-'
+permalink: /chrome-developer-mode-extensions-warning-how-to-dismiss/
 ---
 Chrome developer mode extensions warning how to dismiss is something many Chrome users search for after installing extensions outside the official Web Store. You probably encountered a yellow warning bar at the top of your browser telling you that extensions running in developer mode can access everything you do online, and you just want it gone. This warning appears for a good reason, but it can be annoying if you already know what you are doing and just want to browse without that constant reminder.
 

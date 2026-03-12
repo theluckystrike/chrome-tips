@@ -1,18 +1,12 @@
 ---
+title: "Chrome Content Blocker vs Ad Blocker Difference"
+description: "Learn the key differences between content blockers and ad blockers for Chrome, and find the right solution for your browsing needs. Read our full guide to maste"
+date: "2026-01-15"
+last_modified_at: "%Y->-"
+permalink: "chrome-content-blocker-vs-ad-blocker-difference"
 layout: post
-title: Chrome Content Blocker vs Ad Blocker Difference
-description: Learn the key differences between content blockers and ad blockers for
-  Chrome, and find the right solution for your browsing needs. Learn how to optimize
-  you...
-date: 2026-01-15
-categories:
-- privacy
-- extensions
-tags:
-- chrome-extensions
-- ad-blocker
-- privacy
-- content-blocker
+categories: ['privacy', 'extensions']
+tags: ['chrome-extensions', 'ad-blocker', 'privacy', 'content-blocker']
 author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-content-blocker-vs-ad-blocker-difference

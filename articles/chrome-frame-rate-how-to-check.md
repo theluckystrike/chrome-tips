@@ -1,20 +1,13 @@
 ---
-layout: post
-title: Chrome Frame Rate How to Check
-description: Learn how to check the frame rate in Chrome to troubleshoot stuttering
-  videos, laggy animations, and slow page scrolling. Learn how to optimize your browser
-  ...
-date: 2026-01-15
-categories:
-- performance
-- troubleshooting
-tags:
-- chrome-frame-rate
-- browser-tools
-- chrome-tips
-author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-frame-rate-how-to-check
+layout: "post"
+title: "Chrome Frame Rate How to Check"
+description: "Learn how to check the frame rate in Chrome to troubleshoot stuttering videos, laggy animations, and slow page scrolling. Check out our expert recommendations"
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "chrome-frame-rate-how-to-check"
+categories: [performance, troubleshooting]
+tags: [chrome-frame-rate, browser-tools, chrome-tips]
+author: "theluckystrike"
 ---
 # Chrome Frame Rate How to Check
 

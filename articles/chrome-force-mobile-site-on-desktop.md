@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Chrome Force Mobile Site on Desktop
-description: Want to view mobile versions of websites on your desktop? Learn simple
-  ways to force mobile sites in Chrome without developer tools. Learn how to optimize
-  yo...
-date: 2026-01-20
-categories:
-- browsing
-- tips
-tags:
-- chrome
-- mobile-sites
-- browser-tips
-- responsive-design
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-force-mobile-site-on-desktop
+layout: "post"
+title: "Chrome Force Mobile Site on Desktop"
+description: "Want to view mobile versions of websites on your desktop? Learn simple ways to force mobile sites in Chrome without developer tools. Check out our expert recom"
+date: "2026-01-20"
+last_modified_at: "2026-03-10"
+permalink: "chrome-force-mobile-site-on-desktop"
+categories: [browsing, tips]
+tags: [chrome, mobile-sites, browser-tips, responsive-design]
+author: "theluckystrike"
 ---
 # Chrome Force Mobile Site on Desktop
 

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Chrome Reporting API Errors Monitor: Complete Guide'
-description: Learn how to use Chrome Reporting API to monitor errors, track issues,
-  and improve your web application reliability with this comprehensive guide. Learn
-  how ...
+description: Learn how to use Chrome Reporting API to monitor errors, track issues, and improve your web application reliability with this comprehensive guide. Read our comp
 date: 2026-01-15
 categories:
 - chrome-features
@@ -15,8 +13,8 @@ tags:
 - chrome-devtools
 - web-errors
 author: theluckystrike
-last_modified_at: '2026-03-11'
 permalink: chrome-reporting-api-errors-monitor
+last_modified_at: '2026-03-11'
 ---
 # Chrome Reporting API Errors Monitor: Complete Guide
 

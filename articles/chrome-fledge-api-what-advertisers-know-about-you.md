@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Chrome Fledge Api What Advertisers Know About You
-description: Learn how Chrome FLEDGE API works and what advertisers can learn about
-  you. Find steps to control this feature and protect your privacy. Learn how to optimiz...
+title: chrome fledge api what advertisers know about you
+description: Learn how Chrome FLEDGE API works and what advertisers can learn about you. Find steps to control this feature and protect your privacy. Find out more tips o...
 date: 2026-01-20
 categories:
 - privacy
@@ -14,7 +13,7 @@ tags:
 - tracking
 - chrome-privacy
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-fledge-api-what-advertisers-know-about-you
 ---
 If you have ever searched for chrome fledge api what advertisers know about you, you are not alone. Many Chrome users are curious about how the browser handles their data and what information advertisers can access. This guide explains what the Chrome FLEDGE API is, how it works, what advertisers can learn about you, and most importantly, what you can do to protect your privacy.

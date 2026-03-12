@@ -1,20 +1,13 @@
 ---
-layout: post
-title: Chrome View Page Resources How to
-description: Learn how to view all page resources in Chrome including images, scripts,
-  fonts, and stylesheets using built-in developer tools. Learn how to optimize your
-  b...
-date: 2025-02-19
-categories:
-- browser-tips
-- web-development
-tags:
-- page-resources
-- developer-tools
-- troubleshooting
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-view-page-resources-how-to
+layout: "post"
+title: "Chrome View Page Resources How to"
+description: "Learn how to view all page resources in Chrome including images, scripts, fonts, and stylesheets using built-in developer tools. Read our comprehensive guide..."
+date: "2025-02-19"
+last_modified_at: "2026-03-10"
+permalink: "chrome-view-page-resources-how-to"
+categories: "[browser-tips, web-development]"
+tags: "[page-resources, developer-tools, troubleshooting]"
+author: "theluckystrike"
 ---
 # Chrome View Page Resources How to
 

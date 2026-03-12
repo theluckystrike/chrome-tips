@@ -82,4 +82,9 @@ If you struggle with too many tabs slowing down your browser while researching, 
 
 Once you find the right combination of tools, you will notice a significant improvement in your ability to research, communicate, and organize your work. Small improvements in your daily workflow add up to big gains in productivity over time, giving you more freedom to focus on creating outstanding videos.
 
+## Related Articles
+* [Best Chrome Extensions for Amazon Prime Video](/articles/best-chrome-extensions-for-amazon-prime-video/)
+* [Chrome Extensions for Reverse Video Search](/articles/chrome-extensions-for-reverse-video-search/)
+* [Chrome Extensions for Video Conferencing Enhancement](/articles/chrome-extensions-for-video-conferencing-enhancement/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

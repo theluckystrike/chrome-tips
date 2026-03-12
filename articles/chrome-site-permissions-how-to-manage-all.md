@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Chrome Site Permissions How to Manage All
-description: Chrome site permissions how to manage all is a question that comes up when people feel overwhelmed by the number of websites that seem to have access to thei...
+title: How to Manage All Chrome Site Permissions in One Place
+description: Feeling overwhelmed by Chrome site permissions? Learn how to manage all website access to your camera, location, and microphone in one central dashboard today.
 date: '2026-03-10'
 last_modified_at: '2026-03-12'
 permalink: chrome-site-permissions-how-to-manage-all
@@ -69,8 +69,8 @@ Managing **site permissions** is a critical part of maintaining a healthy browse
 This is where **Tab Suspender Pro** becomes an essential tool. It automatically "hibernates" inactive tabs, freeing up **RAM** and **CPU** resources. This ensures that when you need to jump into your **Chrome settings** to manage **location access** or **microphone permissions**, the browser is snappy and responsive. By keeping your system resources lean, you can audit your **security settings** without the frustration of lag or browser crashes.
 
 ## Related Articles
-* [How to Change Default Download Location Chrome](/articles/how-to-change-default-download-location-chrome/)
-* [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time/)
-* [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites/)
+- [Change Default Download Location in Chrome](/chrome-tips/how-to-change-default-download-location-chrome)
+- [Chrome Extension for Page Load Time](/chrome-tips/chrome-extension-for-viewing-page-load-time)
+- [Highlight Text on Websites with This Extension](/chrome-tips/chrome-extension-for-highlighting-text-on-websites)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

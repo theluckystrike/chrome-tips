@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Chrome Speech Recognition API Explained
-description: Chrome Speech Recognition API Explained If you have ever searched for "chrome speech recognition api explained," you might have been curious about how Chro
+title: 'Chrome Speech Recognition API: A Comprehensive Guide for Users'
+description: Learn how the Chrome Speech Recognition API works to power voice search, typing, and accessibility features. Discover how to manage permissions and privacy now.
 date: '2025-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-speech-recognition-api-explained

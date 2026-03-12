@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Chrome Smooth Scrolling How to Enable
-description: If you are wondering how to enable smooth scrolling in Chrome, you have come to the right place. Smooth scrolling is a feature that makes the way you move up...
+title: How to Enable Smooth Scrolling in Chrome for a Better Experience
+description: Learn how to enable smooth scrolling in Chrome using hidden flags. Improve your browsing comfort and reduce eye strain with fluid page navigation in just minutes.
 date: '2026-03-10'
 last_modified_at: '2026-03-12'
 permalink: chrome-smooth-scrolling-how-to-enable

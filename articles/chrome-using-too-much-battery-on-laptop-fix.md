@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Using Too Much Battery on Laptop? Fix It Now"
-description: "Is Chrome draining your laptop battery? Discover practical fixes to extend your battery life, from built-in settings to extension management."
-date: 2026-01-15
-categories: [performance, battery, chrome-tips]
-tags: [chrome-battery-drain, laptop-battery, chrome-performance, browser-optimization]
-author: theluckystrike
+description: "Is Chrome draining your laptop battery? Discover practical fixes to extend your battery life, from built-in settings to extension management. Read our compre..."
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-using-too-much-battery-on-laptop-fix"
+categories: "[performance, battery, chrome-tips]"
+tags: "[chrome-battery-drain, laptop-battery, chrome-performance, browser-optimization]"
+author: "theluckystrike"
 ---
 
 # Chrome Using Too Much Battery on Laptop? Fix It Now

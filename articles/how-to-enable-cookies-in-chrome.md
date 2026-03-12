@@ -1,20 +1,13 @@
 ---
-layout: post
-title: how to enable cookies in chrome
-description: Learn how to enable cookies in Chrome to fix login issues, session problems,
-  and website errors with this simple step-by-step guide.
-date: 2026-01-15
-categories:
-- browser
-- settings
-tags:
-- chrome
-- cookies
-- browser-settings
-- permissions
-author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /how-to-enable-cookies-in-chrome/
+layout: "post"
+title: "how to enable cookies in chrome"
+description: "Learn how to enable cookies in Chrome to fix login issues, session problems, Read our comprehensive guide to learn more and optimize your browser experience ..."
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "how-to-enable-cookies-in-chrome"
+categories: ""
+tags: ""
+author: "theluckystrike"
 ---
 
 # How to Enable Cookies in Chrome

@@ -1,7 +1,10 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Utility Process Explained"
-description: "A comprehensive guide understanding Chrome utility processes, their role in browser architecture, and how they impact your browsing experience."
+description: "A comprehensive guide understanding Chrome utility processes, their role in browser architecture, and how they impact your browsing experience. Read our comp..."
+date: "2026-01-01"
+last_modified_at: "2026-03-11"
+permalink: "chrome-utility-process-explained"
 ---
 
 If you have ever opened Chrome's Task Manager by pressing Shift + Escape, you may have noticed several processes labeled as "Utility Process" running in the background. These mysterious processes often leave users wondering what they do and whether they should be concerned. This guide will walk you through everything you need to know about Chrome utility processes explained in simple terms.

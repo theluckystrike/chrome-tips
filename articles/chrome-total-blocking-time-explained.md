@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Total Blocking Time Explained"
-description: "Learn what Chrome total blocking time is, why it matters for your browser performance, and simple steps to reduce it."
-date: 2026-03-09
-categories: [performance, chrome, browser]
-tags: [chrome, performance, browser, total-blocking-time]
-author: theluckystrike
+description: "Learn what Chrome total blocking time is, why it matters for your browser performance, and simple steps to reduce it. Read our comprehensive guide to learn m..."
+date: "2026-03-09"
+last_modified_at: "2026-03-10"
+permalink: "chrome-total-blocking-time-explained"
+categories: "[performance, chrome, browser]"
+tags: "[chrome, performance, browser, total-blocking-time]"
+author: "theluckystrike"
 ---
 
 # Chrome Total Blocking Time Explained

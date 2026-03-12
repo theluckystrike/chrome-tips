@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide"
-description: "WhatsApp Web won't connect in Chrome? Learn practical step-by-step solutions to fix the connection issue, from clearing cache to checking extensions. Get back to chatting in minutes."
-date: 2026-01-15
-categories: [chrome, whatsapp, troubleshooting]
-tags: [whatsapp-web, chrome-fixes, browser-tips, messaging]
-author: theluckystrike
+description: "WhatsApp Web won't connect in Chrome? Learn practical step-by-step solutions to fix the connection issue, from clearing cache to checking extensions. Get bac..."
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-whatsapp-web-not-connecting-fix"
+categories: "[chrome, whatsapp, troubleshooting]"
+tags: "[whatsapp-web, chrome-fixes, browser-tips, messaging]"
+author: "theluckystrike"
 ---
 
 # Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide

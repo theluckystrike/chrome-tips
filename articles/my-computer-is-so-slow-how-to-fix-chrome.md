@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "My Computer Is So Slow How to Fix Chrome"
-description: "Is your computer slow when using Chrome? Learn practical, step-by-step solutions to fix Chrome performance issues on computers with limited RAM."
-date: 2026-01-15
-categories: [performance, chrome, troubleshooting]
-tags: [chrome-slow, computer-slow, fix-chrome, low-ram, browser-performance]
-author: theluckystrike
+description: "Is your computer slow when using Chrome? Learn practical, step-by-step solutions to fix Chrome performance issues on computers with limited RAM. Read our com..."
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "my-computer-is-so-slow-how-to-fix-chrome"
+categories: "[performance, chrome, troubleshooting]"
+tags: "[chrome-slow, computer-slow, fix-chrome, low-ram, browser-performance]"
+author: "theluckystrike"
 ---
 
 # My Computer Is So Slow How to Fix Chrome

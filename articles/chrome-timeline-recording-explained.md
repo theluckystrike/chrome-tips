@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Timeline Recording Explained"
-description: "Learn how to use Chrome's timeline recording feature to understand what happens when pages load and find performance issues."
-date: 2026-03-09
-categories: [performance, troubleshooting]
-tags: [chrome-devtools, performance, timeline, browser-tools]
-author: theluckystrike
+description: "Learn how to use Chrome's timeline recording feature to understand what happens when pages load and find performance issues. Read our comprehensive guide to ..."
+date: "2026-03-09"
+last_modified_at: "2026-03-10"
+permalink: "chrome-timeline-recording-explained"
+categories: "[performance, troubleshooting]"
+tags: "[chrome-devtools, performance, timeline, browser-tools]"
+author: "theluckystrike"
 ---
 
 # Chrome Timeline Recording Explained

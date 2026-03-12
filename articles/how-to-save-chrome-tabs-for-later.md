@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "How to Save Chrome Tabs for Later"
-description: "Learn how to save Chrome tabs for later using bookmarks, reading lists, and Tab Suspender Pro to avoid losing important pages."
-date: 2025-03-09
-categories: [productivity, tabs]
-tags: [save-tabs, tab-management, chrome-tips, bookmarks]
-author: theluckystrike
+description: "Learn how to save Chrome tabs for later using bookmarks, reading lists, and Tab Suspender Pro to avoid losing important pages. Read our comprehensive guide t..."
+date: "2025-03-09"
+last_modified_at: "2026-03-09"
+permalink: "how-to-save-chrome-tabs-for-later"
+categories: "[productivity, tabs]"
+tags: "[save-tabs, tab-management, chrome-tips, bookmarks]"
+author: "theluckystrike"
 ---
 
 # How to Save Chrome Tabs for Later

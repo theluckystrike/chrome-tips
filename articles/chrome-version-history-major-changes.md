@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Version History: Major Changes You Should Know About"
-description: "A guide to Chrome version history and major changes that affect your browsing. Learn what changed and how to adapt."
-date: 2025-02-17
-categories: [chrome, browser-guides]
-tags: [chrome-version, chrome-update, browser-history]
-author: theluckystrike
+description: "A guide to Chrome version history and major changes that affect your browsing. Learn what changed and how to adapt. Read our comprehensive guide to learn mor..."
+date: "2025-02-17"
+last_modified_at: "2026-03-10"
+permalink: "chrome-version-history-major-changes"
+categories: "[chrome, browser-guides]"
+tags: "[chrome-version, chrome-update, browser-history]"
+author: "theluckystrike"
 ---
 
 # Chrome Version History: Major Changes You Should Know About

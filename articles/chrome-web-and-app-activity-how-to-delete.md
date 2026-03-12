@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Web and App Activity How to Delete"
-description: "Learn how to delete your Chrome web and app activity to protect your privacy and stop tracking."
-date: 2026-01-15
-categories: [privacy, security, chrome]
-tags: [chrome, privacy, activity, delete, google]
-author: theluckystrike
+description: "Learn how to delete your Chrome web and app activity to protect your privacy and stop tracking. Read our comprehensive guide to learn more and optimize your ..."
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-web-and-app-activity-how-to-delete"
+categories: "[privacy, security, chrome]"
+tags: "[chrome, privacy, activity, delete, google]"
+author: "theluckystrike"
 ---
 
 # Chrome Web and App Activity How to Delete

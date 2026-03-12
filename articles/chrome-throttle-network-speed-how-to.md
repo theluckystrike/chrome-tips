@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "How to Throttle Network Speed in Chrome"
-description: "Learn how to throttle network speed in Chrome to test websites, save data, and improve performance."
-date: 2026-01-15
-categories: [performance, network, developer-tools]
-tags: [chrome-network, chrome-throttle, network-speed, chrome-developer-tools]
-author: theluckystrike
+description: "Learn how to throttle network speed in Chrome to test websites, save data, and improve performance. Read our comprehensive guide to learn more and optimize y..."
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-throttle-network-speed-how-to"
+categories: "[performance, network, developer-tools]"
+tags: "[chrome-network, chrome-throttle, network-speed, chrome-developer-tools]"
+author: "theluckystrike"
 ---
 
 # How to Throttle Network Speed in Chrome

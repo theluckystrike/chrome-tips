@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Vibration API: A Complete Guide for Mobile Web Developers"
 description: "Learn how to use the Chrome Vibration API to create haptic feedback experiences in mobile web applications. Complete guide with examples and best practices."
-date: 2026-01-15
-categories: [development, mobile, chrome, web-api]
-tags: [chrome-vibration-api, mobile-web, haptic-feedback, web-development, javascript]
-author: theluckystrike
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-vibration-api-mobile-web"
+categories: "[development, mobile, chrome, web-api]"
+tags: "[chrome-vibration-api, mobile-web, haptic-feedback, web-development, javascript]"
+author: "theluckystrike"
 ---
 
 # Chrome Vibration API: A Complete Guide for Mobile Web Developers

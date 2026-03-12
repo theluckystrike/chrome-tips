@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "how to enable chrome experimental features"
-description: "Learn how to enable Chrome experimental features through flags. Step-by-step guide to access hidden Chrome settings and experimental features safely."
-date: 2026-03-09
-categories: [features, customization]
-tags: [chrome-flags, experimental-features, chrome-settings, advanced]
-author: theluckystrike
+description: "Learn how to enable Chrome experimental features through flags. Step-by-step guide to access hidden Chrome settings and experimental features safely. Read ou..."
+date: "2026-03-09"
+last_modified_at: "2026-03-09"
+permalink: "how-to-enable-chrome-experimental-features"
+categories: "[features, customization]"
+tags: "[chrome-flags, experimental-features, chrome-settings, advanced]"
+author: "theluckystrike"
 ---
 
 # How to Enable Chrome Experimental Features

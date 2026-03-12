@@ -1,7 +1,10 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome YouTube Slow But Other Sites Fine Fix"
-description: "Having chrome youtube slow but other sites fine fix issues. Learn why YouTube runs slow in Chrome and how to fix it with simple solutions."
+description: "Having chrome youtube slow but other sites fine fix issues. Learn why YouTube runs slow in Chrome and how to fix it with simple solutions. Read our comprehen..."
+date: "2026-01-01"
+last_modified_at: "2026-03-09"
+permalink: "chrome-youtube-slow-but-other-sites-fine-fix"
 ---
 
 If you are searching for chrome youtube slow but other sites fine fix, you are probably frustrated because YouTube videos keep buffering or take forever to load while every other website works perfectly fine. This is a surprisingly common issue, and the good news is that it is usually fixable with some simple adjustments.

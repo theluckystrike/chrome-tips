@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Google Chrome vs Chromium Difference Explained"
-description: "Confused about Google Chrome and Chromium? Learn the key differences between these browsers and which one might work for you."
-date: 2026-03-10
-categories: [features, browser-setup]
-tags: [google-chrome, chromium, browser-comparison, open-source]
-author: theluckystrike
+description: "Confused about Google Chrome and Chromium? Learn the key differences between these browsers and which one might work for you. Read our comprehensive guide to..."
+date: "2026-03-10"
+last_modified_at: "2026-03-10"
+permalink: "google-chrome-vs-chromium-difference-explained"
+categories: "[features, browser-setup]"
+tags: "[google-chrome, chromium, browser-comparison, open-source]"
+author: "theluckystrike"
 ---
 
 # Google Chrome vs Chromium Difference Explained

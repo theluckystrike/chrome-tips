@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome vs Samsung Internet for Android"
-description: "A helpful guide comparing Chrome and Samsung Internet for Android to find the best browser for your phone."
-date: 2026-03-01
-categories: [comparison, mobile]
-tags: [chrome-android, samsung-internet, mobile-browsers, android-tips]
-author: theluckystrike
+description: "A helpful guide comparing Chrome and Samsung Internet for Android to find the best browser for your phone. Read our comprehensive guide to learn more and opt..."
+date: "2026-03-01"
+last_modified_at: "2026-03-11"
+permalink: "chrome-vs-samsung-internet-for-android"
+categories: "[comparison, mobile]"
+tags: "[chrome-android, samsung-internet, mobile-browsers, android-tips]"
+author: "theluckystrike"
 ---
 
 # Chrome vs Samsung Internet for Android

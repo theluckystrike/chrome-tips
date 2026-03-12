@@ -1,7 +1,10 @@
 ---
-layout: post
+layout: "post"
 title: "Chromebook Accessibility Features Guide"
-description: "Learn about chromebook accessibility features guide including screen reader, magnifier, high contrast, and voice control options."
+description: "Learn about chromebook accessibility features guide including screen reader, magnifier, high contrast, and voice control options. Read our comprehensive guid..."
+date: "2026-01-01"
+last_modified_at: "2026-03-10"
+permalink: "chromebook-accessibility-features-guide"
 ---
 
 If you are looking for a chromebook accessibility features guide, you have come to the right place. Chromebooks come packed with built-in accessibility tools designed to make computing easier for everyone, regardless of ability. These features are free to use and can transform how you interact with your device. Whether you need help seeing screen content more clearly, navigating without a mouse, or using voice commands, Chromebook has you covered.

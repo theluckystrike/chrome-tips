@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "chrome web share target api explained"
-description: "Understand the Chrome Web Share Target API, what it does, why websites need it, and how to enable or troubleshoot sharing features in Chrome."
-date: 2026-03-09
-categories: [features, api, sharing]
-tags: [web-share-target-api, sharing, browser-features]
-author: theluckystrike
+description: "Understand the Chrome Web Share Target API, what it does, why websites need it, and how to enable or troubleshoot sharing features in Chrome. Read our compre..."
+date: "2026-03-09"
+last_modified_at: "2026-03-09"
+permalink: "chrome-web-share-target-api-explained"
+categories: "[features, api, sharing]"
+tags: "[web-share-target-api, sharing, browser-features]"
+author: "theluckystrike"
 ---
 
 # Chrome Web Share Target API Explained

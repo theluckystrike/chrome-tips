@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Text to Speech Extension Best"
-description: "Discover the best Chrome text to speech extensions that can read web content aloud for you."
-date: 2026-03-09
-categories: [accessibility, tips]
-tags: [chrome-extensions, text-to-speech, accessibility, browser-tools]
-author: theluckystrike
+description: "Discover the best Chrome text to speech extensions that can read web content aloud for you. Read our comprehensive guide to learn more and optimize your brow..."
+date: "2026-03-09"
+last_modified_at: "2026-03-10"
+permalink: "chrome-text-to-speech-extension-best"
+categories: "[accessibility, tips]"
+tags: "[chrome-extensions, text-to-speech, accessibility, browser-tools]"
+author: "theluckystrike"
 ---
 
 # Chrome Text to Speech Extension Best

@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "How to Reduce Chrome Memory Usage"
-description: "Is Chrome using too much memory? This guide shows you practical ways to reduce Chrome memory usage and make your browser run smoother."
-date: 2026-01-15
-categories: [performance, memory]
-tags: [chrome-memory, reduce-ram, browser-performance]
-author: theluckystrike
+description: "Is Chrome using too much memory? This guide shows you practical ways to reduce Chrome memory usage and make your browser run smoother. Read our comprehensive..."
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "how-to-reduce-chrome-memory-usage"
+categories: "[performance, memory]"
+tags: "[chrome-memory, reduce-ram, browser-performance]"
+author: "theluckystrike"
 ---
 
 # How to Reduce Chrome Memory Usage

@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "chrome themes how to change and customize"
-description: "Learn how to change and customize Chrome themes with this simple guide. Find out how to personalize your browser appearance."
-date: 2026-03-09
-categories: [features, customization]
-tags: [themes, chrome-settings, appearance, customization]
-author: theluckystrike
+description: "Learn how to change and customize Chrome themes with this simple guide. Find out how to personalize your browser appearance. Read our comprehensive guide to ..."
+date: "2026-03-09"
+last_modified_at: "2026-03-10"
+permalink: "chrome-themes-how-to-change-and-customize"
+categories: "[features, customization]"
+tags: "[themes, chrome-settings, appearance, customization]"
+author: "theluckystrike"
 ---
 
 # Chrome Themes How to Change and Customize

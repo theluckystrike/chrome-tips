@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome WASM WebAssembly Getting Started: A Complete Beginner's Guide"
-description: "Learn chrome wasm webassembly getting started with this comprehensive guide. Discover how to enable WebAssembly, debug WASM modules, and optimize performance in Chrome."
-date: 2026-03-11
-categories: [development, web-technology, chrome]
-tags: [webassembly, wasm, chrome-wasm, programming, chrome-development, browser]
-author: theluckystrike
+description: "Learn chrome wasm webassembly getting started with this comprehensive guide. Discover how to enable WebAssembly, debug WASM modules, and optimize performance..."
+date: "2026-03-11"
+last_modified_at: "2026-03-11"
+permalink: "chrome-wasm-webassembly-getting-started"
+categories: "[development, web-technology, chrome]"
+tags: "[webassembly, wasm, chrome-wasm, programming, chrome-development, browser]"
+author: "theluckystrike"
 ---
 
 # Chrome WASM WebAssembly Getting Started: A Complete Beginner's Guide

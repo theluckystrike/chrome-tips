@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Chrome Side Panel — How to Use It Effectively
-description: Chrome Side Panel — How to Use It Effectively Chrome's Side Panel is one of those features that can genuinely change how you browse once you understand wha
-date: '2025-03-13'
-last_modified_at: '2026-03-12'
-permalink: chrome-side-panel-how-to-use
-categories: null
-tags: null
+title: "Chrome Side Panel How to Use"
+description: "Master the Chrome Side Panel to access bookmarks, reading lists, and search results quickly while you browse, without ever having to leave your current page now."
+date: "2025-03-13"
+last_modified_at: "2026-03-12"
+permalink: "chrome-side-panel-how-to-use"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Side Panel — How to Use It Effectively

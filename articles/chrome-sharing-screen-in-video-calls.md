@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Chrome Sharing Screen in Video Calls
-description: Chrome Sharing Screen in Video Calls Chrome sharing screen in video calls is something many of us rely on daily, whether for work meetings, online classes,
-date: '2025-03-09'
-last_modified_at: '2026-03-12'
-permalink: chrome-sharing-screen-in-video-calls
-categories: null
-tags: null
+title: "Chrome Sharing Screen in Video Calls"
+description: "Troubleshoot Chrome sharing screen in video calls with this expert guide on fixing common issues like frozen images or share buttons that do not respond well."
+date: "2025-03-09"
+last_modified_at: "2026-03-12"
+permalink: "chrome-sharing-screen-in-video-calls"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Sharing Screen in Video Calls

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Chrome Slow on Chromebook? Here's How to Fix It
-description: Chrome Slow on Chromebook? Here's How to Fix It If your Chromebook feels like it's wading through mud every time you open a new tab, you're not alone. Chro
-date: '2025-02-16'
-last_modified_at: '2026-03-12'
-permalink: chrome-slow-on-chromebook-fix
-categories: null
-tags: null
+title: "Chrome Slow on Chromebook Fix"
+description: "Is Chrome slow on your Chromebook? Speed up your device with these quick and easy fixes to improve loading times and overall performance for a smoother feel."
+date: "2025-02-16"
+last_modified_at: "2026-03-12"
+permalink: "chrome-slow-on-chromebook-fix"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Slow on Chromebook? Here's How to Fix It

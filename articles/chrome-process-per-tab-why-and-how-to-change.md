@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Process Per Tab Why and How to Change"
-description: "Learn why Chrome uses a separate process for each tab and how to change this behavior to improve performance on your computer."
+description: "Learn why Chrome uses a separate process for each tab and how to change this behavior to improve performance on your computer. Check out our complete 2026 gu..."
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-process-per-tab-why-and-how-to-change
 categories: [performance, processes]
 tags: [chrome-processes, chrome-tabs, chrome-memory, browser-performance]
 author: theluckystrike
 ---
-
 # Chrome Process Per Tab Why and How to Change
 
 If you have ever looked at your task manager while using Chrome, you might have noticed something surprising. Each open tab seems to have its own process, and this can add up to a lot of running programs on your computer. If you are wondering about chrome process per tab and how to change this behavior, you are not alone. Many users find this confusing and want to understand why it happens and what they can do about it.

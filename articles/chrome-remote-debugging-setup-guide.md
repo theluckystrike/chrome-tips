@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Remote Debugging Setup Guide"
-description: "A complete step-by-step guide to setting up chrome remote debugging for debugging websites on Android devices, iOS devices, and remote computers."
+description: "A complete step-by-step guide to setting up chrome remote debugging for debugging websites on Android devices, iOS devices, and remote computers. Check out o..."
 date: 2026-01-20
+last_modified_at: 2026-03-11
+permalink: chrome-remote-debugging-setup-guide
 categories: [web-development, debugging, chrome-tips]
 tags: [chrome-remote-debugging, remote-debugging, developer-tools, chrome-devtools, mobile-debugging]
 author: theluckystrike
 ---
-
 # Chrome Remote Debugging Setup Guide
 
 If you need to debug a website on a mobile device or remote computer, learning how to set up chrome remote debugging is essential. This chrome remote debugging setup guide walks you through every step, from enabling developer options on your Android device to establishing a connection with your development computer. By the end, you will be able to inspect elements, view console logs, and troubleshoot issues on any connected device directly from Chrome on your main machine.

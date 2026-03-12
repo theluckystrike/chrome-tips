@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome QR Code Generator Extension"
-description: "Looking for a Chrome QR code generator extension? Learn how to create QR codes directly in your browser and what options work best."
+description: "Looking for a Chrome QR code generator extension? Learn how to create QR codes directly in your browser and what options work best. Check out our complete 20..."
 date: 2026-03-05
+last_modified_at: 2026-03-11
+permalink: chrome-qr-code-generator-extension
 categories: [tools, productivity]
 tags: [qr-code, chrome-extension, browser-tools, qr-generator]
 author: theluckystrike
 ---
-
 # Chrome QR Code Generator Extension
 
 If you have searched for a chrome qr code generator extension, you probably want a quick, seamless way to turn links, text, or contact info into scannable images without leaving your browser. In 2026, QR codes are everywhere—from restaurant menus to business cards and marketing materials. Having the ability to generate them instantly from your Chrome toolbar is a massive productivity boost. 

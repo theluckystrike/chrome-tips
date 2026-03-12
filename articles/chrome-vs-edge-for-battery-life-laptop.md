@@ -2,7 +2,8 @@
 layout: post
 title: Chrome vs Edge for Battery Life Laptop
 description: Does Chrome or Edge use less battery on your laptop? Here is what matters
-  and how to get more browsing time between charges.
+  and how to get more browsing time between charges. This guide on Chrome vs Edge
+  for...
 date: 2026-02-02
 categories:
 - comparison
@@ -14,7 +15,7 @@ tags:
 - battery-life
 - laptop
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-edge-for-battery-life-laptop
 ---
 

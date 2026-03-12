@@ -2,8 +2,7 @@
 layout: default
 title: Chrome Web Serial API Guide
 description: Learn how to use the Chrome Web Serial API to connect to Arduino, microcontrollers,
-  and serial devices directly from your browser. Complete guide covering baudrate
-  settings, port access, and practical applications.
+  and serial devices directly from your browser. Complete guide covering ba...
 date: 2026-01-20
 categories:
 - api
@@ -18,7 +17,7 @@ tags:
 - web-bluetooth
 - hardware
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-web-serial-api-guide
 ---
 

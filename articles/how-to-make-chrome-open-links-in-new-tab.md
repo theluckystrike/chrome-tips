@@ -2,7 +2,8 @@
 layout: post
 title: How to Make Chrome Open Links in a New Tab
 description: Learn easy methods to make Chrome open links in new tabs. Simple keyboard
-  shortcuts and settings explained.
+  shortcuts and settings explained. This guide on How to Make Chrome Open Links in
+  a ...
 date: 2025-02-19
 categories:
 - browsing-tips
@@ -11,7 +12,7 @@ tags:
 - tab-management
 - browser-settings
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-make-chrome-open-links-in-new-tab
 ---
 

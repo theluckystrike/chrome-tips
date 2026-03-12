@@ -2,7 +2,8 @@
 layout: post
 title: How to Set Chrome as Default Browser Windows 11
 description: Learn how to set Chrome as your default browser on Windows 11 with simple
-  step-by-step instructions. Make Chrome open links automatically.
+  step-by-step instructions. Make Chrome open links automatically. This guide on How
+  ...
 date: 2026-01-15
 categories:
 - tutorials
@@ -13,7 +14,7 @@ tags:
 - windows-11
 - setting-up-chrome
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-set-chrome-as-default-browser-windows-11
 ---
 

@@ -2,7 +2,8 @@
 layout: default
 title: Chrome Web Vitals Optimization Guide
 description: Master Core Web Vitals optimization for better SEO, user experience,
-  and conversion rates. Learn how to improve LCP, FID, and CLS scores.
+  and conversion rates. Learn how to improve LCP, FID, and CLS scores. This guide
+  on Chrom...
 date: 2026-03-10
 categories:
 - performance
@@ -17,7 +18,7 @@ tags:
 - performance-metrics
 - page-speed
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-web-vitals-optimization
 ---
 

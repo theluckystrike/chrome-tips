@@ -2,7 +2,8 @@
 layout: post
 title: Chrome vs Samsung Internet for Android
 description: A helpful guide comparing Chrome and Samsung Internet for Android to
-  find the best browser for your phone.
+  find the best browser for your phone. This guide on Chrome vs Samsung Internet for
+  Andro...
 date: 2026-03-01
 categories:
 - comparison
@@ -13,7 +14,7 @@ tags:
 - mobile-browsers
 - android-tips
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-samsung-internet-for-android
 ---
 

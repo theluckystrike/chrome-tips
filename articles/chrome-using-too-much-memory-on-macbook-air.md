@@ -2,7 +2,8 @@
 layout: post
 title: Chrome Using Too Much Memory on MacBook Air
 description: Is Chrome using too much memory on your MacBook Air? Discover why this
-  happens and practical solutions to reduce memory usage.
+  happens and practical solutions to reduce memory usage. This guide on Chrome Using
+  Too...
 date: 2026-01-15
 categories:
 - performance
@@ -14,7 +15,7 @@ tags:
 - memory-usage
 - browser-performance
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-using-too-much-memory-on-macbook-air
 ---
 

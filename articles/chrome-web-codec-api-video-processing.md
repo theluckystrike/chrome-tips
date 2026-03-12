@@ -2,7 +2,8 @@
 layout: default
 title: Chrome Web Codec API Video Processing
 description: Learn how Chrome Web Codec API affects video processing in your browser
-  and how to fix common issues.
+  and how to fix common issues. This guide on Chrome Web Codec API Video Processing
+  pro...
 date: 2026-01-15
 categories:
 - troubleshooting
@@ -13,7 +14,7 @@ tags:
 - browser-media
 - chrome-fix
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-web-codec-api-video-processing
 ---
 

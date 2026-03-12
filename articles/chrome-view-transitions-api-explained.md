@@ -2,9 +2,9 @@
 layout: post
 title: Chrome View Transitions API Explained
 description: Learn what Chrome View Transitions API is, how it works, and how it improves
-  your browsing experience with smooth page transitions.
+  your browsing experience with smooth page transitions. This guide on Chrome View...
 date: '2026-03-09'
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-view-transitions-api-explained
 ---
 

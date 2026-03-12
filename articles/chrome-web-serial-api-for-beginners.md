@@ -2,7 +2,8 @@
 layout: post
 title: chrome web serial api for beginners
 description: A beginner-friendly guide to Chrome Web Serial API, explaining how your
-  browser can connect to hardware devices and what you need to get started.
+  browser can connect to hardware devices and what you need to get started. This guide
+  ...
 date: 2026-03-09
 categories:
 - features
@@ -14,7 +15,7 @@ tags:
 - hardware
 - beginners
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-web-serial-api-for-beginners
 ---
 

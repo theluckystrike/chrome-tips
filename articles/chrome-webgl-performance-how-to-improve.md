@@ -13,7 +13,7 @@ tags:
 - chrome-graphics
 - browser-performance
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-webgl-performance-how-to-improve
 ---
 

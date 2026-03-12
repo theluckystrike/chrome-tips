@@ -2,8 +2,7 @@
 layout: default
 title: Chrome Topics API Guide
 description: Learn how the Chrome Topics API enables interest-based advertising while
-  protecting user privacy. Complete guide for publishers integrating the Privacy Sandbox
-  APIs.
+  protecting user privacy. Complete guide for publishers integrating the Privacy Sandb...
 date: 2026-01-20
 categories:
 - privacy
@@ -14,9 +13,9 @@ tags:
 - privacy-sandbox
 - interest-based-ads
 - publishers
-- "-floc"
+- -floc
 author: theluckystrike
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: chrome-topics-api-guide
 ---
 

@@ -2,9 +2,11 @@
 layout: post
 title: Chrome vs Edge Extensions Compatibility
 description: Not all Chrome extensions work on Microsoft Edge. Learn why and how to
-  make them compatible.
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+  make them compatible. This guide on Chrome vs Edge Extensions Compatibility provides
+  t...
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-edge-extensions-compatibility
+date: '2026-03-12'
 ---
 
 Chrome vs Edge extensions compatibility is a common frustration for users who switch between browsers or want to use their favorite tools on both. If you have tried installing a Chrome extension only to find it does not work on Microsoft Edge, you are not alone. The good news is that there are ways to work around this and get most of your favorite extensions working on Edge.

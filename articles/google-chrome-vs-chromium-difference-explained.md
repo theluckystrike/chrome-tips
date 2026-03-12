@@ -2,7 +2,8 @@
 layout: post
 title: Google Chrome vs Chromium Difference Explained
 description: Confused about Google Chrome and Chromium? Learn the key differences
-  between these browsers and which one might work for you.
+  between these browsers and which one might work for you. This guide on Google Chrome
+  vs ...
 date: 2026-03-10
 categories:
 - features
@@ -13,7 +14,7 @@ tags:
 - browser-comparison
 - open-source
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: google-chrome-vs-chromium-difference-explained
 ---
 

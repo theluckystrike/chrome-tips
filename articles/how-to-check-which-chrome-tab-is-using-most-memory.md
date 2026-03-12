@@ -2,7 +2,8 @@
 layout: post
 title: How to Check Which Chrome Tab Is Using Most Memory
 description: Learn how to find the memory-hungry tab in Chrome using built-in tools.
-  Simple steps to identify and fix high memory usage.
+  Simple steps to identify and fix high memory usage. This guide on How to Check Which
+  ...
 date: 2025-03-09
 categories:
 - performance
@@ -12,7 +13,7 @@ tags:
 - browser-performance
 - tab-management
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-check-which-chrome-tab-is-using-most-memory
 ---
 

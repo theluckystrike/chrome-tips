@@ -2,7 +2,8 @@
 layout: post
 title: What Does Chromebook Powerwash Do
 description: Learn what Powerwash does on your Chromebook, when to use it, and what
-  gets deleted. A complete guide for regular users.
+  gets deleted. A complete guide for regular users. This guide on What Does Chromebook
+  P...
 date: 2025-02-20
 categories:
 - chromebook
@@ -12,7 +13,7 @@ tags:
 - chromebook-reset
 - chrome-os
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chromebook-powerwash-what-it-does
 ---
 

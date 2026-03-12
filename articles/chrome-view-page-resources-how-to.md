@@ -2,7 +2,8 @@
 layout: post
 title: Chrome View Page Resources How to
 description: Learn how to view all page resources in Chrome including images, scripts,
-  fonts, and stylesheets using built-in developer tools.
+  fonts, and stylesheets using built-in developer tools. This guide on Chrome View
+  Pa...
 date: 2025-02-19
 categories:
 - browser-tips
@@ -12,7 +13,7 @@ tags:
 - developer-tools
 - troubleshooting
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-view-page-resources-how-to
 ---
 

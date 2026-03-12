@@ -2,7 +2,7 @@
 layout: post
 title: chrome zoom meeting not working fix
 description: Having trouble with Zoom meetings in Chrome? Learn why Chrome Zoom meetings
-  fail and how to fix them with simple steps.
+  fail and how to fix them with simple steps. This guide on chrome zoom meeting not...
 date: 2026-01-15
 categories:
 - browsers
@@ -14,7 +14,7 @@ tags:
 - troubleshooting
 - video-call
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-zoom-meeting-not-working-fix
 ---
 

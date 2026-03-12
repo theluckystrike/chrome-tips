@@ -2,9 +2,11 @@
 layout: post
 title: Chrome Web MIDI API for Musicians
 description: Having trouble using your MIDI controller in Chrome? Learn why browsers
-  block MIDI devices and how to get your instruments working again.
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+  block MIDI devices and how to get your instruments working again. This guide on
+  Chrom...
+last_modified_at: '2026-03-12'
 permalink: chrome-web-midi-api-for-musicians
+date: '2026-03-12'
 ---
 
 Chrome Web MIDI API for musicians is becoming more important as more music production moves to web-based tools. If you have tried to use your MIDI keyboard, controller, or other musical hardware with a web app and found that it simply will not connect, you are not alone. This is a common frustration that many musicians face when they want to use their existing hardware with browser-based music software.

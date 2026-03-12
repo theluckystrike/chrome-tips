@@ -17,7 +17,7 @@ tags:
 - token-redemption
 - web-security
 author: theluckystrike
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: chrome-trust-tokens-guide
 ---
 

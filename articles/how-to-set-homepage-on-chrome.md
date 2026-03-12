@@ -2,9 +2,11 @@
 layout: post
 title: How to Set Homepage on Chrome
 description: Learn how to set your homepage on Chrome in a few simple steps. Customize
-  your browser to open the sites you want every time you launch Chrome.
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+  your browser to open the sites you want every time you launch Chrome. This guide
+  on...
+last_modified_at: '2026-03-12'
 permalink: how-to-set-homepage-on-chrome
+date: '2026-03-12'
 ---
 
 How to set homepage on Chrome is a question that comes up often, especially when you want your browser to open your favorite sites automatically. Whether you want quick access to your email, news, or a specific website you visit daily, setting a custom homepage takes just a few minutes and can make your browsing experience much more convenient.

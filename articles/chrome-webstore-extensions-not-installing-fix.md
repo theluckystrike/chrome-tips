@@ -2,7 +2,7 @@
 layout: post
 title: Chrome WebStore Extensions Not Installing Fix
 description: Extensions not installing from Chrome WebStore? Try these simple fixes
-  to get your favorite extensions working again.
+  to get your favorite extensions working again. This guide on Chrome WebStore Extension...
 date: 2026-01-15
 categories:
 - troubleshooting
@@ -13,7 +13,7 @@ tags:
 - troubleshooting
 - fix
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-webstore-extensions-not-installing-fix
 ---
 

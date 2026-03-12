@@ -2,7 +2,7 @@
 layout: post
 title: Chrome Web GPU API Explained for Beginners
 description: Learn what the Chrome Web GPU API is, why it matters for your browser,
-  and how it can improve your web experience.
+  and how it can improve your web experience. This guide on Chrome Web GPU API Explained...
 date: 2026-01-15
 categories:
 - browser
@@ -13,7 +13,7 @@ tags:
 - browser-api
 - graphics
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-web-gpu-api-explained-for-beginners
 ---
 

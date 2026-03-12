@@ -2,7 +2,7 @@
 layout: post
 title: How to Block Websites on Chrome
 description: Learn how to block distracting or harmful websites on Chrome using built-in
-  tools and extensions. Simple methods to take control of your browsing.
+  tools and extensions. Simple methods to take control of your browsing. This guide...
 date: 2026-03-09
 categories:
 - productivity
@@ -11,7 +11,7 @@ tags:
 - parental-controls
 - chrome-settings
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-block-websites-on-chrome
 ---
 

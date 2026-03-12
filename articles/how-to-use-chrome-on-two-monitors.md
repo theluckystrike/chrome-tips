@@ -2,7 +2,7 @@
 layout: post
 title: How to Use Chrome on Two Monitors
 description: Learn how to set up and use Chrome across two monitors for enhanced productivity.
-  Tips for window management, extensions, and dual monitor setups.
+  Tips for window management, extensions, and dual monitor setups. This guide...
 date: 2025-03-09
 categories:
 - features
@@ -14,7 +14,7 @@ tags:
 - chrome-features
 - multi-monitor
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-use-chrome-on-two-monitors
 ---
 

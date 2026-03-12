@@ -2,7 +2,8 @@
 layout: post
 title: Chrome Upcoming Features Preview 2026
 description: A friendly look at the new Chrome features arriving in 2026. Discover
-  what's coming to make your browsing better.
+  what's coming to make your browsing better. This guide on Chrome Upcoming Features
+  Prev...
 date: 2026-01-20
 categories:
 - chrome
@@ -13,7 +14,7 @@ tags:
 - browser-features
 - chrome-updates
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-upcoming-features-preview-2026
 ---
 

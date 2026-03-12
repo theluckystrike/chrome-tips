@@ -2,7 +2,8 @@
 layout: post
 title: Chrome Vertical Tabs How to Enable
 description: Enable Chrome vertical tabs to organize your browser better. Learn how
-  to turn on this feature and organize tabs in a sidebar.
+  to turn on this feature and organize tabs in a sidebar. This guide on Chrome Vertical
+  ...
 date: 2025-03-12
 categories:
 - features
@@ -12,7 +13,7 @@ tags:
 - tab-organization
 - chrome-features
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-vertical-tabs-how-to-enable
 ---
 

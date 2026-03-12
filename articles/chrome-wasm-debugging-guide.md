@@ -2,7 +2,8 @@
 layout: default
 title: Chrome WebAssembly Debugging Guide
 description: Master WebAssembly debugging in Chrome with DWARF info, source maps,
-  memory inspector, and Emscripten. Practical tips for developers.
+  memory inspector, and Emscripten. Practical tips for developers. This guide on Chrome
+  We...
 date: 2026-01-20
 categories:
 - development
@@ -16,7 +17,7 @@ tags:
 - emscripten
 - dwarf
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-wasm-debugging-guide
 ---
 

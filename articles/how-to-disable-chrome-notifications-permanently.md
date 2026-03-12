@@ -2,9 +2,10 @@
 layout: post
 title: How to Disable Chrome Notifications Permanently
 description: Tired of Chrome notifications interrupting your browsing? Learn how to
-  disable them permanently with these simple steps.
+  disable them permanently with these simple steps. This guide on How to Disable Chrome
+  ...
 date: '2026-03-09'
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-disable-chrome-notifications-permanently
 ---
 

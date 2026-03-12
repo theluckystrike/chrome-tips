@@ -2,7 +2,8 @@
 layout: post
 title: How to Use Chrome Without Signing In to Google
 description: Learn how to use Chrome without signing in to Google and why you might
-  want to browse without an account.
+  want to browse without an account. This guide on How to Use Chrome Without Signing
+  In ...
 date: 2026-01-20
 categories:
 - privacy
@@ -15,7 +16,7 @@ tags:
 - browser
 - account
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-use-chrome-without-signing-in-to-google
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title: 'Chrome Visual Search on Desktop: A Complete Guide'
 description: Learn how to use visual search in Chrome on your desktop computer. This
-  guide covers built-in features and extensions to search by image.
+  guide covers built-in features and extensions to search by image. This guide on
+  Chrom...
 date: 2026-01-15
 categories:
 - features
@@ -12,7 +13,7 @@ tags:
 - image-search
 - chrome-desktop
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-visual-search-on-desktop
 ---
 

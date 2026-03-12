@@ -2,7 +2,8 @@
 layout: default
 title: Chrome vs Firefox on an Old Laptop — Which Is Better?
 description: Honest comparison of Chrome and Firefox on older laptops. Memory usage,
-  speed, battery life, and which browser works better on limited hardware.
+  speed, battery life, and which browser works better on limited hardware. This guide
+  o...
 date: 2025-02-21
 categories:
 - comparison
@@ -13,7 +14,7 @@ tags:
 - browser-comparison
 - memory-usage
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-firefox-on-old-laptop
 ---
 

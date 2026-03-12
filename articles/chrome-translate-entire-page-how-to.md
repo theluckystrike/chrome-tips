@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Translate Entire Page How To"
-description: "Learn how to translate entire web pages in Chrome with built-in tools and extensions for seamless multilingual browsing."
+title: Chrome Translate Entire Page How To
+description: Learn how to translate entire web pages in Chrome with built-in tools
+  and extensions for seamless multilingual browsing. This guide on Chrome Translate
+  Entir...
 date: 2026-03-09
-categories: [browsers, tips]
-tags: [chrome, translation, browser-tips, language]
+categories:
+- browsers
+- tips
+tags:
+- chrome
+- translation
+- browser-tips
+- language
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-translate-entire-page-how-to
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -2,7 +2,7 @@
 layout: post
 title: How to Move Chrome Tabs Between Windows Easily
 description: Learn simple methods to move Chrome tabs between windows using drag-and-drop,
-  keyboard shortcuts, and helpful extensions.
+  keyboard shortcuts, and helpful extensions. This guide on How to Move Chrome Ta...
 date: 2025-03-09
 categories:
 - productivity
@@ -12,7 +12,7 @@ tags:
 - chrome-tips
 - chrome-windows
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-move-chrome-tabs-between-windows-easily
 ---
 

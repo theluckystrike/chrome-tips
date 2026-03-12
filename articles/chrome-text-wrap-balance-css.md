@@ -2,9 +2,11 @@
 layout: post
 title: Chrome Text Wrap Balance CSS
 description: Learn how to use CSS text-wrap balance to create more even text layout
-  in Chrome and improve your web design.
-last_modified_at: "%Y->-"
+  in Chrome and improve your web design. This guide on Chrome Text Wrap Balance CSS
+  prov...
+last_modified_at: '2026-03-12'
 permalink: chrome-text-wrap-balance-css
+date: '2026-03-12'
 ---
 
 Chrome text wrap balance CSS is a feature that many web designers and developers have been waiting for. If you have ever created a headline or a short block of text and noticed that the lines look uneven, with one line much shorter than the others, then you understand the problem that this CSS property solves. Chrome text wrap balance gives you a simple way to make your text look more polished and professional without extra markup or complex workarounds.

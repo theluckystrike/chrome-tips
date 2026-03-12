@@ -2,7 +2,8 @@
 layout: post
 title: chrome webrtc leak what it is and how to fix
 description: Learn what a Chrome WebRTC leak is, why it happens, and how to fix it
-  to protect your privacy online.
+  to protect your privacy online. This guide on chrome webrtc leak what it is and
+  how to ...
 date: 2026-01-15
 categories:
 - privacy
@@ -14,7 +15,7 @@ tags:
 - ip-address
 - chrome-fix
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-webrtc-leak-what-it-is-and-how-to-fix
 ---
 

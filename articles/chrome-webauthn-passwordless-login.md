@@ -2,9 +2,10 @@
 layout: post
 title: Chrome WebAuthn Passwordless Login
 description: Learn how to set up passwordless login in Chrome using WebAuthn for faster,
-  more secure authentication without memorizing passwords.
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+  more secure authentication without memorizing passwords. This guide on Chrome Web...
+last_modified_at: '2026-03-12'
 permalink: chrome-webauthn-passwordless-login
+date: '2026-03-12'
 ---
 
 Chrome webauthn passwordless login is becoming more popular as people look for ways to sign into their accounts without typing passwords. If you have ever used your fingerprint or a security key to log in, you have already experienced WebAuthn in action. This technology is changing how we think about online security, making it easier to protect your accounts while eliminating the need to remember complex passwords.

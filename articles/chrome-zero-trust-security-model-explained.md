@@ -2,7 +2,7 @@
 layout: post
 title: Chrome Zero Trust Security Model Explained
 description: Learn what Chrome's zero trust security model means for your browsing
-  and how it protects you online.
+  and how it protects you online. This guide on Chrome Zero Trust Security Model Explaine...
 date: 2026-01-15
 categories:
 - security
@@ -14,7 +14,7 @@ tags:
 - zero-trust
 - browser
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-zero-trust-security-model-explained
 ---
 

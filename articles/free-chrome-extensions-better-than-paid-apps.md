@@ -12,7 +12,7 @@ tags:
 - free-extensions
 - paid-apps-alternative
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: free-chrome-extensions-better-than-paid-apps
 ---
 

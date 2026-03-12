@@ -2,9 +2,11 @@
 layout: post
 title: How to Check If Chrome Extension Is Safe
 description: Learn how to verify if a Chrome extension is safe before installing.
-  Simple steps to protect your browser and data.
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+  Simple steps to protect your browser and data. This guide on How to Check If Chrome
+  Exte...
+last_modified_at: '2026-03-12'
 permalink: how-to-check-if-chrome-extension-is-safe
+date: '2026-03-12'
 ---
 
 How to check if Chrome extension is safe is a question that more and more people are asking as we install more browser extensions. With thousands of extensions available in the Chrome Web Store, it can be hard to know which ones you can trust. The good news is that there are practical steps you can take to evaluate any extension before you install it.

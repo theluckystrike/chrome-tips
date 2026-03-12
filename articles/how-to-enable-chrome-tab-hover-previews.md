@@ -2,7 +2,8 @@
 layout: post
 title: How to Enable Chrome Tab Hover Previews
 description: Learn how to enable Chrome tab hover previews to see webpage thumbnails
-  when you mouse over tabs.
+  when you mouse over tabs. This guide on How to Enable Chrome Tab Hover Previews
+  provi...
 date: 2026-01-15
 categories:
 - chrome
@@ -14,7 +15,7 @@ tags:
 - browser-tips
 - hover-preview
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-enable-chrome-tab-hover-previews
 ---
 

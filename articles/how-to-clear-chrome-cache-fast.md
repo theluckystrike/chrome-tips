@@ -2,7 +2,7 @@
 layout: default
 title: How to Clear Chrome Cache Fast
 description: Learn the fastest ways to clear Chrome cache for a specific site or entirely.
-  Includes keyboard shortcuts, settings methods, and DevTools techniques.
+  Includes keyboard shortcuts, settings methods, and DevTools techniques. This gu...
 date: 2026-01-15
 categories:
 - chrome
@@ -15,7 +15,7 @@ tags:
 - chrome-settings
 - chrome-shortcuts
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-clear-chrome-cache-fast
 ---
 

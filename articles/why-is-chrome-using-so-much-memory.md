@@ -2,7 +2,8 @@
 layout: post
 title: Why Is Chrome Using So Much Memory
 description: Chrome eating your RAM? Discover why Chrome uses so much memory and learn
-  simple fixes to reclaim your computer's performance.
+  simple fixes to reclaim your computer's performance. This guide on Why Is Chrome
+  Us...
 date: 2026-01-20
 categories:
 - performance
@@ -13,7 +14,7 @@ tags:
 - browser-memory
 - chrome-slow
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: why-is-chrome-using-so-much-memory
 ---
 

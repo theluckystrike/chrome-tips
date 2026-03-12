@@ -2,7 +2,8 @@
 layout: post
 title: How to Make Chrome Use Less Battery on MacBook
 description: Practical tips to reduce Chrome's battery drain on your MacBook. Simple
-  settings and habits that extend your laptop's battery life.
+  settings and habits that extend your laptop's battery life. This guide on How to
+  Make...
 date: 2025-02-23
 categories:
 - mac
@@ -12,7 +13,7 @@ tags:
 - macbook-battery
 - chrome-performance
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-make-chrome-use-less-battery-macbook
 ---
 

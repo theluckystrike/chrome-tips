@@ -2,7 +2,8 @@
 layout: post
 title: How to Make Chrome Faster on an Old Computer
 description: Learn practical ways to speed up Chrome on older computers. Simple fixes
-  that work without technical expertise.
+  that work without technical expertise. This guide on How to Make Chrome Faster on
+  an...
 date: 2025-02-19
 categories:
 - performance
@@ -11,7 +12,7 @@ tags:
 - old-computer
 - browser-optimization
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-make-chrome-faster-on-old-computer
 ---
 

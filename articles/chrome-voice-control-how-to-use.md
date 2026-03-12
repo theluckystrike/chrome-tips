@@ -2,7 +2,8 @@
 layout: post
 title: Chrome Voice Control How to Use
 description: Learn how to use voice control in Chrome browser with built-in features
-  and extensions for hands-free browsing.
+  and extensions for hands-free browsing. This guide on Chrome Voice Control How to
+  Use...
 date: 2026-01-15
 categories:
 - chrome
@@ -14,7 +15,7 @@ tags:
 - hands-free-browsing
 - accessibility
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-voice-control-how-to-use
 ---
 

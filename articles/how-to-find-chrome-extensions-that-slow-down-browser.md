@@ -2,7 +2,8 @@
 layout: post
 title: How to Find Chrome Extensions That Slow Down Browser
 description: Discover how to find Chrome extensions that slow down your browser and
-  fix the issue with simple steps anyone can follow.
+  fix the issue with simple steps anyone can follow. This guide on How to Find Chrome
+  Ex...
 date: 2025-02-20
 categories:
 - performance
@@ -13,7 +14,7 @@ tags:
 - chrome-slow
 - chrome-tips
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-find-chrome-extensions-that-slow-down-browser
 ---
 

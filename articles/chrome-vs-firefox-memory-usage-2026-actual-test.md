@@ -2,7 +2,8 @@
 layout: post
 title: chrome vs firefox memory usage 2026 actual test
 description: We tested Chrome vs Firefox memory usage in 2026 with real-world scenarios.
-  See which browser uses less RAM and how to reduce memory consumption.
+  See which browser uses less RAM and how to reduce memory consumption. This guide
+  ...
 date: 2026-01-20
 categories:
 - performance
@@ -14,7 +15,7 @@ tags:
 - browser-comparison
 - performance
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-firefox-memory-usage-2026-actual-test
 ---
 

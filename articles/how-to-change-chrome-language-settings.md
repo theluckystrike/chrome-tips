@@ -2,7 +2,8 @@
 layout: post
 title: How to Change Chrome Language Settings
 description: Learn how to change language settings in Chrome for desktop and mobile.
-  Customize your browser to display in your preferred language.
+  Customize your browser to display in your preferred language. This guide on How
+  to Ch...
 date: 2026-01-15
 categories:
 - chrome
@@ -15,7 +16,7 @@ tags:
 - browser
 - customization
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: how-to-change-chrome-language-settings
 ---
 

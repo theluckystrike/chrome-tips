@@ -2,7 +2,8 @@
 layout: post
 title: chrome topics api privacy sandbox explained
 description: Understand Chrome Topics API and Privacy Sandbox. Learn what they mean
-  for your browsing privacy and how to control them.
+  for your browsing privacy and how to control them. This guide on chrome topics api
+  pri...
 date: 2026-01-20
 categories:
 - privacy
@@ -13,7 +14,7 @@ tags:
 - chrome-privacy
 - tracking
 author: theluckystrike
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: chrome-topics-api-privacy-sandbox-explained
 ---
 

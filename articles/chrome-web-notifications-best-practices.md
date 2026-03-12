@@ -2,9 +2,9 @@
 layout: post
 title: Chrome Web Notifications Best Practices
 description: Master Chrome web notifications with these practical tips to reduce interruptions
-  and improve your browsing experience.
+  and improve your browsing experience. This guide on Chrome Web Notification...
 date: '2026-03-09'
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-web-notifications-best-practices
 ---
 

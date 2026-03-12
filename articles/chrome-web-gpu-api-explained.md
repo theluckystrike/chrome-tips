@@ -2,7 +2,7 @@
 layout: post
 title: Chrome Web GPU API Explained
 description: What is Chrome Web GPU API and how to use it for better browser graphics
-  performance. A simple guide for everyone.
+  performance. A simple guide for everyone. This guide on Chrome Web GPU API Explained...
 date: 2026-01-15
 categories:
 - performance
@@ -14,7 +14,7 @@ tags:
 - browser-graphics
 - chrome-performance
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-web-gpu-api-explained
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title: Chromebook vs Windows Laptop for Browsing
 description: Compare Chromebooks and Windows laptops for web browsing. Find which
-  device offers the best experience for your online activities.
+  device offers the best experience for your online activities. This guide on Chromebook
+  v...
 date: 2026-01-20
 categories:
 - comparison
@@ -13,7 +14,7 @@ tags:
 - browsing
 - laptop-comparison
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chromebook-vs-windows-laptop-for-browsing
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title: firefox vs chrome battery
 description: Compare Firefox and Chrome battery usage. Learn which browser is better
-  for battery life and how to extend your laptop runtime.
+  for battery life and how to extend your laptop runtime. This guide on firefox vs
+  chro...
 date: 2026-01-20
 categories:
 - battery
@@ -15,7 +16,7 @@ tags:
 - browser-comparison
 - laptop
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: firefox-vs-chrome-battery
 ---
 

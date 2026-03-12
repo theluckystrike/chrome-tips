@@ -2,7 +2,8 @@
 layout: post
 title: Hidden Chrome Extensions You Should Install
 description: Discover hidden Chrome extensions you should install to enhance your
-  browsing experience and boost productivity.
+  browsing experience and boost productivity. This guide on Hidden Chrome Extensions
+  You S...
 date: 2026-03-09
 categories:
 - productivity
@@ -12,7 +13,7 @@ tags:
 - hidden-gems
 - browser-tools
 author: theluckystrike
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: hidden-chrome-extensions-you-should-install
 ---
 

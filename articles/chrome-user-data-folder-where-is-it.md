@@ -2,9 +2,10 @@
 layout: post
 title: Chrome User Data Folder Where Is It
 description: Find where Chrome stores your profile data including bookmarks, history,
-  and settings. Simple steps for Windows, Mac, and Linux.
+  and settings. Simple steps for Windows, Mac, and Linux. This guide on Chrome User
+  Da...
 date: '2026-03-09'
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
+last_modified_at: '2026-03-12'
 permalink: chrome-user-data-folder-where-is-it
 ---
 

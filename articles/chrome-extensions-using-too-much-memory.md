@@ -57,3 +57,9 @@ For users who need many extensions and want to minimize memory usage, trying a d
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Extension Using Too Much Memory Find](/chrome-extension-using-too-much-memory-find)
+- [Chrome Network Process Using Too Much Memory](/chrome-network-process-using-too-much-memory)
+- [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)

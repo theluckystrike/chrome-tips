@@ -77,3 +77,9 @@ Start with your most important sources. Archive the web pages you reference most
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Extensions For Font Changer On Any Website](/chrome-extensions-for-font-changer-on-any-website)
+- [Chrome Extensions For Website Blocker](/chrome-extensions-for-website-blocker)
+- [Chrome Extensions For Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)

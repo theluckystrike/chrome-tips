@@ -61,3 +61,9 @@ The best approach to following websites in Chrome depends on how you like to con
 Think about how you actually browse and what will fit into your routine. The most sophisticated system will not help if you forget to use it. Choose the method that matches your habits and sticking with it will be much easier.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
+- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)

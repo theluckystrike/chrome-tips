@@ -138,3 +138,9 @@ Whatever approach you choose, you do not have to give up access to your notes ju
 >>>>>>> consumer/a54-chrome-for-apple-notes-in-browser-workaround
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Codecademy In Browser Optimization](/chrome-for-codecademy-in-browser-optimization)
+- [Chrome For Codepen In Browser Tips](/chrome-for-codepen-in-browser-tips)
+- [Chrome For Google Analytics In Browser](/chrome-for-google-analytics-in-browser)

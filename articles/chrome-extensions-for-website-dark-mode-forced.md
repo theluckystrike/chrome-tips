@@ -83,3 +83,9 @@ If you encounter a website where the dark mode does not look quite right, most e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Auto Dark Mode For Web Contents](/chrome-auto-dark-mode-for-web-contents)
+- [Chrome Extensions For Font Changer On Any Website](/chrome-extensions-for-font-changer-on-any-website)
+- [Chrome Extensions For Website Archiving](/chrome-extensions-for-website-archiving)

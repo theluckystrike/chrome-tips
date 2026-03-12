@@ -88,3 +88,9 @@ Consider using a password manager to generate and store unique, strong passwords
 Finally, keep an eye on your accounts in the following weeks. Attackers sometimes wait before using stolen information, so stay vigilant for unusual activity.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Can Chrome Extensions Steal Your Data](/can-chrome-extensions-steal-your-data)
+- [Chrome Developer Mode Extensions Warning How To Dismiss](/chrome-developer-mode-extensions-warning-how-to-dismiss)
+- [Chrome Extensions That Save You Time](/chrome-extensions-that-save-you-time)

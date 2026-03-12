@@ -116,4 +116,11 @@ Your old computer doesn't have to feel slow anymore. A few simple changes can gi
 
 ---
 
+
+
+### Related Articles
+- [Chrome Flags That Actually Help Performance](/chrome-flags-that-actually-help-performance)
+- [Chrome Do Not Track Does It Actually Work](/chrome-do-not-track-does-it-actually-work)
+- [Chrome Incognito Mode What It Actually Does](/chrome-incognito-mode-what-it-actually-does)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -81,3 +81,9 @@ Over time, you will develop a sense of what works and what does not. Do not be a
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Extensions For Weather Forecast New Tab](/chrome-extensions-for-weather-forecast-new-tab)
+- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
+- [Chrome For Productivity Dashboard New Tab](/chrome-for-productivity-dashboard-new-tab)

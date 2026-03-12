@@ -141,4 +141,11 @@ For additional Chrome optimization, consider pairing your font customization wit
 
 ---
 
+
+
+### Related Articles
+- [Chrome Font Palette Css Explained](/chrome-font-palette-css-explained)
+- [Chrome Devtools Font Editor Tool](/chrome-devtools-font-editor-tool)
+- [Chrome Extensions For Color Palette Generator](/chrome-extensions-for-color-palette-generator)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

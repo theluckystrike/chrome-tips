@@ -1,6 +1,9 @@
+[2026-03-12 21:45:26] [m15]   Title too long: 64 chars (max 60)
+[2026-03-12 21:45:32] [m15]   Title shortened: "Auto Tab Discard Alternatives: Better Tab Management" (52 chars)
+[2026-03-12 21:45:32] [m15]   WARNING: Thin keyword usage: 2 occurrences (target 3-7)
 ---
 layout: default
-title: "Auto Tab Discard Alternatives: Better Options for Tab Management"
+title: "Auto Tab Discard Alternatives: Better Tab Management"
 description: "Discover 6 powerful auto tab discard alternatives tested in 2026. Tab Suspender Pro leads with smart AI-powered memory management for heavy Chrome users."
 date: 2026-03-12
 last_modified_at: 2026-03-12

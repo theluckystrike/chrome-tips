@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome source maps debug minified code"
-description: "Learn how to use Chrome source maps to debug minified JavaScript code effectively. Step-by-step guide for developers."
+title: chrome source maps debug minified code
+description: Learn how to use Chrome source maps to debug minified JavaScript code effectively. Step-by-step guide for developers. Read our comprehensive guide to learn more
 date: 2026-01-15
-categories: [development, debugging]
-tags: [source-maps, debugging, chrome-devtools, javascript, development]
+categories:
+- development
+- debugging
+tags:
+- source-maps
+- debugging
+- chrome-devtools
+- javascript
+- development
 author: theluckystrike
+permalink: chrome-source-maps-debug-minified-code
+last_modified_at: '2026-03-11'
 ---
-
 # How to Debug Minified Code Using Chrome Source Maps
 
 If you have ever opened Chrome's Developer Tools and felt lost looking at incomprehensible variable names like "a," "b," and "c," you are not alone. Modern web development often involves minified JavaScript files that are nearly impossible to read. This is where Chrome source maps come to the rescue, bridging the gap between the code you write and the code that actually runs in production.

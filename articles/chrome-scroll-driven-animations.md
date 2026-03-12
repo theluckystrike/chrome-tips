@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Scroll-Driven Animations: Complete Guide for 2026"
-description: "Learn how Chrome scroll-driven animations work, their browser support, and how to implement them for smooth, performant web experiences."
+title: 'Chrome Scroll-Driven Animations: Complete Guide for 2026'
+description: 'Learn how Chrome scroll-driven animations work, their browser support, and how to implement them for smooth, performant web experiences. Read our comprehensive '
 date: 2026-03-11
-categories: [web-development, tips]
-tags: [chrome, animations, scroll-driven, web-development, browser-features]
+categories:
+- web-development
+- tips
+tags:
+- chrome
+- animations
+- scroll-driven
+- web-development
+- browser-features
 author: theluckystrike
+permalink: chrome-scroll-driven-animations
+last_modified_at: '2026-03-11'
 ---
-
 # Chrome Scroll-Driven Animations: Complete Guide for 2026
 
 Scroll-driven animations represent one of the most exciting developments in modern web design. These animations respond to user scroll behavior, creating immersive, engaging experiences that adapt dynamically as users navigate through content. Chrome scroll-driven animations have evolved significantly, offering web developers powerful new ways to create fluid, performant interactions without relying on heavy JavaScript libraries.

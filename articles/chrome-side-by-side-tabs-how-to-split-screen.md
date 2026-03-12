@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Side by Side Tabs How to Split Screen"
-description: "Learn how to put Chrome tabs side by side for split screen viewing. Easy methods using built-in features and extensions."
+title: Chrome Side by Side Tabs How to Split Screen
+description: Learn how to put Chrome tabs side by side for split screen viewing. Easy methods using built-in features and extensions. Read our comprehensive guide to learn m
 date: 2025-03-10
-categories: [features, productivity]
-tags: [split-screen, tabs, chrome, how-to]
+categories:
+- features
+- productivity
+tags:
+- split-screen
+- tabs
+- chrome
+- how-to
 author: theluckystrike
+permalink: chrome-side-by-side-tabs-how-to-split-screen
+last_modified_at: '2026-03-10'
 ---
-
 # Chrome Side by Side Tabs How to Split Screen
 
 Chrome side by side tabs how to split screen is a question that comes up often for anyone who wants to see two web pages at the same time without constantly clicking back and forth between tabs. Whether you are comparing products while shopping, following a recipe while browsing other content, or working on projects that require reference material from multiple websites, having two tabs visible side by side makes everything easier. This guide will walk you through the different ways you can set up split screen in Chrome, from built-in browser features to helpful extensions.

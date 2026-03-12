@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Chrome Scroll to Top of Page Shortcut"
-description: "Learn the fastest ways to scroll to the top of any webpage in Chrome using simple keyboard shortcuts."
+title: Chrome Scroll to Top of Page Shortcut
+description: Learn the fastest ways to scroll to the top of any webpage in Chrome using simple keyboard shortcuts. Read our comprehensive guide to learn more and improve you
+permalink: chrome-scroll-to-top-of-page-shortcut
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
 ---
-
 Chrome scroll to top of page shortcut is something many people search for when they find themselves stuck at the bottom of a long article or webpage. Whether you have been reading through a lengthy blog post, scrolling through search results, or navigating a website with infinite scroll, knowing how to get back to the top quickly can save you time and frustration.
 
 Let me walk you through the different ways to scroll to the top of a page in Chrome, including the keyboard shortcuts that make this task effortless.

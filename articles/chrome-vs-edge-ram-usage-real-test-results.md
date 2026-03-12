@@ -59,3 +59,5 @@ You can also disable extensions you do not use regularly. Each extension consume
 Chrome uses less RAM than Edge in every scenario we tested, by roughly 10 to 15 percent. The gap is not massive, but it can make a noticeable difference on systems with 8 GB of RAM or less. Edge offers a richer feature set and smoother tab switching, which may be worth the memory cost for many users. If RAM is your primary concern, Chrome is the more efficient choice.
 
 Your best option is to test both browsers with your own typical workflow. Open the tabs you normally use, run the applications you need, and check Task Manager to see how much memory each browser consumes. Your real-world experience matters more than any benchmark.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

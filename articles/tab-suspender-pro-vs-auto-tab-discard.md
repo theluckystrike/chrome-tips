@@ -1,6 +1,3 @@
-[2026-03-12 17:29:21] [m15]   Title too long: 63 chars (max 60)
-[2026-03-12 17:29:26] [m15]   Title shortened: "Tab Suspender Pro vs Auto Tab Discard: 2026 Comparison" (54 chars)
-[2026-03-12 17:29:26] [m15]   WARNING: Thin keyword usage: 2 occurrences (target 3-7)
 ---
 layout: default
 title: "Tab Suspender Pro vs Auto Tab Discard: 2026 Comparison"
@@ -93,6 +90,22 @@ Auto Tab Discard is a solid choice if you want minimal permissions and don't min
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
 
----
+competitive_data:
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

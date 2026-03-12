@@ -90,6 +90,22 @@ If you're working with [Chrome tab groups](https://theluckystrike.github.io/chro
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
 
----
+competitive_data:
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

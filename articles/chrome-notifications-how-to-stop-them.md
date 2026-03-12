@@ -76,8 +76,8 @@ Remember that you can always adjust these settings later if your needs change. T
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Preload Scanner How It Works](/articles/chrome-preload-scanner-how-it-works/)
-* [Chrome Text to Speech: Complete Guide for 2026](/articles/chrome-text-to-speech/)
-* [Chrome Background Tabs Slowing Down Computer Fix](/articles/chrome-background-tabs-slowing-down-computer-fix/)
+* [Chrome Privacy Error Your Connection Is Not Private Fix](/articles/chrome-privacy-error-your-connection-is-not-private-fix/)
+* [How to Stop Chrome from Eating Your RAM](/articles/how-to-stop-chrome-from-eating-ram/)
+* [Chrome Web Vitals Explained Simply](/articles/chrome-web-vitals-explained-simply/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

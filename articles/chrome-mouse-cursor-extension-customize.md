@@ -82,8 +82,8 @@ Start by exploring what extensions are available, choose one that fits your need
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Speech Recognition API Explained](/articles/chrome-speech-recognition-api-explained/)
-* [Chrome Notifications on Phone Too Many How to Stop](/articles/chrome-notifications-on-phone-too-many-how-to-stop/)
-* [Chrome Network Settings Reset How To](/articles/chrome-network-settings-reset-how-to/)
+* [Chrome Saved Addresses How to Edit](/articles/chrome-saved-addresses-how-to-edit/)
+* [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android/)
+* [chrome zoom meeting not working fix](/articles/chrome-zoom-meeting-not-working-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

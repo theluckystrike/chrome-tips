@@ -64,8 +64,8 @@ Memory Saver is a powerful tool that handles most of the heavy lifting for you a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extensions for Study Timer](/articles/chrome-extensions-for-study-timer/)
-* [Chrome Web USB API Guide](/articles/chrome-web-usb-api-guide/)
-* [chrome default browser how to set on windows](/articles/chrome-default-browser-how-to-set-on-windows/)
+* [Chrome Workbox Library for Service Workers](/articles/chrome-workbox-library-for-service-workers/)
+* [Why Does Opening Chrome Slow Down Everything](/articles/why-does-opening-chrome-slow-down-everything/)
+* [Chrome Clients Claim Take Control: What It Means for Your Browser](/articles/chrome-clients-claim-take-control/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

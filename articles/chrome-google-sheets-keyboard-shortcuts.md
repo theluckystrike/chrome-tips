@@ -98,8 +98,8 @@ Chrome Google Sheets keyboard shortcuts are some of the most accessible tools fo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Settings You Should Change Right Now](/articles/chrome-settings-you-should-change-right-now/)
-* [Chrome ERR_INSUFFICIENT_RESOURCES Fix – Complete Guide](/articles/chrome-err-insufficient-resources-fix/)
-* [Chrome Keyboard Shortcuts Complete List](/articles/chrome-keyboard-shortcuts-complete-list/)
+* [Chrome WebGL Performance Tips for Smoother Graphics](/articles/chrome-webgl-performance-tips/)
+* [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use/)
+* [Chrome for Productivity Dashboard New Tab](/articles/chrome-for-productivity-dashboard-new-tab/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

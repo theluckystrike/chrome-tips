@@ -64,8 +64,8 @@ If you have any questions about specific policies you are seeing, your best reso
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extension for Email Tracking Notification](/articles/chrome-extension-for-email-tracking-notification/)
-* [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation/)
-* [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does/)
+* [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/articles/chrome-save-webpage-as-mhtml-offline/)
+* [Chrome Bookmark Manager Best Extensions 2026](/articles/chrome-bookmark-manager-best-extensions-2026/)
+* [Chrome Periodic Background Sync API: Complete Guide](/articles/chrome-periodic-background-sync-api/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

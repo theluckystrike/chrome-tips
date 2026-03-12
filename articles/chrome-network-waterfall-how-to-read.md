@@ -64,8 +64,8 @@ A well-performing website should load most of its content within a few seconds. 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools/)
-* [Chrome Private State Tokens Explained: What They Are and How They Work](/articles/chrome-private-state-tokens-explained/)
-* [How to Disable Chrome Auto Update on Windows](/articles/chrome-auto-update-disable-windows-guide/)
+* [Chrome for Microsoft Office Online Tips](/articles/chrome-for-microsoft-office-online-tips/)
+* [Chrome Address Bar Not Showing Fix](/articles/chrome-address-bar-not-showing-fix/)
+* [How to Stop Chrome from Eating Your RAM](/articles/how-to-stop-chrome-from-eating-ram/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

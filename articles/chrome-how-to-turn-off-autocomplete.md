@@ -74,8 +74,8 @@ If you decide later that you want to turn autocomplete back on, the process is e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome google photos integration save images](/articles/chrome-google-photos-integration-save-images/)
-* [Chrome Google Drive Integration Save to Drive](/articles/chrome-google-drive-integration-save-to-drive/)
-* [Chrome Extensions For Brainstorming](/articles/chrome-extensions-for-brainstorming/)
+* [Chrome for PayPal Business Best Settings](/articles/chrome-for-paypal-business-best-settings/)
+* [chrome webrtc leak what it is and how to fix](/articles/chrome-webrtc-leak-what-it-is-and-how-to-fix/)
+* [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

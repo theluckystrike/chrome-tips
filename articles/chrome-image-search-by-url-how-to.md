@@ -82,8 +82,8 @@ Try these methods next time you see an interesting image and want to learn more.
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Devtools Security Panel Explained](/articles/chrome-devtools-security-panel-explained/)
-* [Chrome for Reducing Eye Strain Extensions](/articles/chrome-for-reducing-eye-strain-extensions/)
-* [Chrome Extensions for Tab Grouping Automatically](/articles/chrome-extensions-for-tab-grouping-automatically/)
+* [chrome privacy sandbox what regular users should know](/articles/chrome-privacy-sandbox-what-regular-users-should-know/)
+* [Chrome Dashlane vs 1Password Comparison](/articles/chrome-dashlane-vs-onepassword-comparison/)
+* [How to Measure Input Delay Using Chrome Event Timing API](/articles/chrome-event-timing-api-measure-input-delay/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

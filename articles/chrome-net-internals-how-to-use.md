@@ -54,8 +54,8 @@ Regardless of which approach you choose, knowing that these tools exist gives yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Web Vitals Explained Simply](/articles/chrome-web-vitals-explained-simply/)
-* [Chrome vs Safari Memory Usage Mac](/articles/chrome-vs-safari-memory-usage-mac/)
-* [Chrome for Evernote Web Clipper Tips](/articles/chrome-for-evernote-web-clipper-tips/)
+* [Chrome Memory Saver Explained: How to Reduce Browser RAM Usage](/articles/chrome-memory-saver-explained/)
+* [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management/)
+* [Chrome for Ambient Sound Extensions](/articles/chrome-for-ambient-sound-extensions/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

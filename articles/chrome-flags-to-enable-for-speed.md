@@ -62,8 +62,8 @@ If you have been struggling with a slow Chrome browser, try these suggestions an
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extensions Disappeared After Update Fix](/articles/chrome-extensions-disappeared-after-update-fix/)
-* [Chrome Scroll-Driven Animations: Complete Guide for 2026](/articles/chrome-scroll-driven-animations/)
-* [Chrome Mouse Cursor Disappears Fix](/articles/chrome-mouse-cursor-disappears-fix/)
+* [How to Update Chrome on iPhone](/articles/how-to-update-chrome-on-iphone/)
+* [Chrome Layers Panel Guide](/articles/chrome-layers-panel-guide/)
+* [Chrome Speculative Parsing Explained](/articles/chrome-speculative-parsing-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -64,8 +64,8 @@ Protecting yourself from fingerprinting is an ongoing process. New tracking tech
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome AirPlay Support How to Use](/articles/chrome-airplay-support-how-to-use/)
-* [Chrome Extensions for Networking](/articles/chrome-extensions-for-networking/)
-* [Chrome Hardware Acceleration Causing Problems: Troubleshooting Guide](/articles/chrome-hardware-acceleration-causing-problems/)
+* [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained/)
+* [chrome for pocket extension setup](/articles/chrome-for-pocket-extension-setup/)
+* [Chrome CSS Custom Properties Explained](/articles/chrome-css-custom-properties-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

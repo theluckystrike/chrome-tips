@@ -76,8 +76,8 @@ Managing your tabs effectively goes a long way in preventing network issues. Con
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Redfin Web App Tips](/articles/chrome-for-redfin-web-app-tips/)
-* [Chrome CSS Animations Performance Tips](/articles/chrome-css-animations-performance-tips/)
-* [Chrome Update Made It Slower? Heres How to Fix It](/articles/chrome-update-made-it-slower-fix/)
+* [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/articles/chrome-slow-on-work-computer-vpn/)
+* [chrome privacy settings complete guide 2026](/articles/chrome-privacy-settings-complete-guide-2026/)
+* [Chrome Extensions for Tab Grouping Automatically](/articles/chrome-extensions-for-tab-grouping-automatically/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

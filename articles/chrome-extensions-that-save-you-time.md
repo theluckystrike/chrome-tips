@@ -72,8 +72,8 @@ When you reduce small inefficiencies throughout your day, those savings add up q
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Web OTP API Explained](/articles/chrome-web-otp-api-explained/)
-* [Chrome Site Permissions How to Manage All](/articles/chrome-site-permissions-how-to-manage-all/)
-* [Chrome Streaming Video Buffering Fix](/articles/chrome-streaming-video-buffering-fix/)
+* [Chrome for Descript Web App Optimization](/articles/chrome-for-descript-web-app-optimization/)
+* [Chrome Extensions for Auto Refresh Page](/articles/chrome-extensions-for-auto-refresh-page/)
+* [Chrome for Focus Music Playlists Extensions](/articles/chrome-for-focus-music-playlists-extensions/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

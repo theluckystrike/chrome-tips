@@ -74,8 +74,8 @@ You can open an incognito window quickly by pressing **Ctrl+Shift+N** on Windows
 The omnibox is one of the most powerful features in Chrome, yet most people only use it to type website addresses. These tricks can significantly speed up your browsing and make you more productive. Start with the ones that apply to your daily workflow and add more as you get comfortable. Once you start using these omnibox tricks regularly, you will wonder how you ever browsed without them.
 
 ## Related Articles
-* [How to Fix Chrome Downloads Stuck at 100 Percent](/articles/chrome-downloads-stuck-at-100-percent/)
-* [How to Enable Chrome Tab Preview on Hover](/articles/chrome-tab-preview-hover-how-to-enable/)
-* [How to Capture Network Logs in Chrome Using Net Export](/articles/chrome-net-export-capture-network-log/)
+* [Best Chrome Extensions for Google Drive](/articles/best-chrome-extensions-for-google-drive/)
+* [Chrome Extensions For Eye Strain Protection](/articles/chrome-extensions-for-eye-strain-protection/)
+* [Chrome Address Bar Autocomplete How to Clear](/articles/chrome-address-bar-autocomplete-how-to-clear/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

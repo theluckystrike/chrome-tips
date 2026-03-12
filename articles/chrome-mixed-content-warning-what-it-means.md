@@ -76,8 +76,8 @@ Understanding what the Chrome mixed content warning means helps you make better 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [chrome reopen closed tab shortcut](/articles/chrome-reopen-closed-tab-shortcut/)
-* [Chrome Extensions for Reverse Video Search](/articles/chrome-extensions-for-reverse-video-search/)
-* [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained/)
+* [Chrome Extensions For Coupon Finder Automatic](/articles/chrome-extensions-for-coupon-finder-automatic/)
+* [Chrome Accessibility Shortcuts For Screen Reader](/articles/chrome-accessibility-shortcuts-for-screen-reader/)
+* [chrome image search by url how to](/articles/chrome-image-search-by-url-how-to/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -86,8 +86,8 @@ Give it a try on your next browsing session. Pick one small thing you want to un
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test/)
-* [Chrome VPN Extension Free Unlimited Best](/articles/chrome-vpn-extension-free-unlimited-best/)
-* [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations/)
+* [Chrome Extensions for Productivity Students](/articles/chrome-extensions-for-productivity-students/)
+* [Chrome Password Autofill Stopped Working: Fix It Now](/articles/chrome-password-autofill-stopped-working/)
+* [Best Chrome Extensions for Sales Teams](/articles/best-chrome-extensions-for-sales-teams/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

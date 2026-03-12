@@ -70,8 +70,8 @@ By keeping your browser running smoothly, you can focus on your work without dea
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Best Settings for Streaming Video](/articles/chrome-best-settings-for-streaming-video/)
-* [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer/)
-* [Chrome Custom Properties CSS Variables](/articles/chrome-custom-properties-css-variables/)
+* [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time/)
+* [Chrome How to Inspect Element Beginners](/articles/chrome-how-to-inspect-element-beginners/)
+* [Chrome Extensions for Google Drive](/articles/chrome-extensions-for-google-drive/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

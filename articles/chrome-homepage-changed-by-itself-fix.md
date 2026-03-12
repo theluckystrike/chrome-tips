@@ -56,8 +56,8 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Flags That Actually Help Performance](/articles/chrome-flags-that-actually-help-performance/)
-* [Chrome Network Tab: How to Use and Debug Network Requests](/articles/chrome-network-tab-how-to-use-debug/)
-* [Chrome Unicode Symbols How to Insert](/articles/chrome-unicode-symbols-how-to-insert/)
+* [Chrome New Tab Page Best Extensions](/articles/chrome-new-tab-page-best-extensions/)
+* [Chrome Default Folder Location Where Is It](/articles/chrome-default-folder-location-where-is-it/)
+* [Chrome Local Storage View Edit: How to Inspect and Modify Website Data](/articles/chrome-local-storage-view-edit/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -72,8 +72,8 @@ As a last resort, try uninstalling and reinstalling Chrome completely. This ensu
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Save Page as Shortcut](/articles/chrome-save-page-as-shortcut/)
-* [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/articles/chrome-web-store-extensions-not-installing/)
-* [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup/)
+* [Chrome Sync Slowing Down Browser — Fix It Fast](/articles/chrome-sync-slowing-down-browser/)
+* [Chrome for Google Keep Extension Tips](/articles/chrome-for-google-keep-extension-tips/)
+* [Chrome Update Stuck? Heres How to Fix It on Windows](/articles/chrome-update-stuck-fix-windows/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -106,8 +106,8 @@ For users, remain cautious when encountering mixed content warnings. Don't bypas
 ---
 
 ## Related Articles
-* [Chrome Browser Management for IT Admins](/articles/chrome-browser-management-for-it-admins/)
-* [Chrome Clipboard API: Copy and Paste in Modern Web Apps](/articles/chrome-clipboard-api-copy-paste/)
-* [Chrome Accessibility Shortcuts For Screen Reader](/articles/chrome-accessibility-shortcuts-for-screen-reader/)
+* [Chrome Extensions For Discord](/articles/chrome-extensions-for-discord/)
+* [chrome tab groups advanced tips](/articles/chrome-tab-groups-advanced-tips/)
+* [How Many Chrome Tabs Can I Have Open](/articles/how-many-chrome-tabs-can-i-have-open/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

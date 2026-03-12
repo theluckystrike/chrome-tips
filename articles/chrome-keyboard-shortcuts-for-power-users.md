@@ -78,8 +78,8 @@ Extensions like Tab Suspender Pro can help you manage many open tabs by automati
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome New Tab Extensions Aesthetic 2026](/articles/chrome-new-tab-extensions-aesthetic-2026/)
-* [chrome trusted types dom xss prevent](/articles/chrome-trusted-types-dom-xss-prevent/)
-* [Chrome Tabs Flickering and Glitching Fix](/articles/chrome-tabs-flickering-and-glitching/)
+* [How to Measure Input Delay Using Chrome Event Timing API](/articles/chrome-event-timing-api-measure-input-delay/)
+* [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension/)
+* [Chrome Site Isolation Memory Overhead](/articles/chrome-site-isolation-memory-overhead/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

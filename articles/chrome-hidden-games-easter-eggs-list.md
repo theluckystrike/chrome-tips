@@ -58,8 +58,8 @@ Combining the fun of discovering hidden easter eggs with good browser maintenanc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Tabs Flickering and Glitching Fix](/articles/chrome-tabs-flickering-and-glitching/)
-* [Chrome Screen Magnifier How to Use](/articles/chrome-screen-magnifier-how-to-use/)
-* [chrome force dark mode on all websites](/articles/chrome-force-dark-mode-on-all-websites/)
+* [Chrome for Slack Web App Best Settings](/articles/chrome-for-slack-web-app-best-settings/)
+* [Chrome Web Share API Explained](/articles/chrome-web-share-api-explained/)
+* [Chrome Address Bar Shortcuts You Didnt Know](/articles/chrome-address-bar-shortcuts-you-didnt-know/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -96,8 +96,8 @@ Start by understanding your specific needs, choose an extension that addresses t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome enable parallel downloading](/articles/chrome-enable-parallel-downloading/)
-* [Chrome for Hiding Social Media Feeds](/articles/chrome-for-hiding-social-media-feeds/)
-* [Best Chrome Extensions for Real Estate Agents](/articles/best-chrome-extensions-for-real-estate-agents/)
+* [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet/)
+* [chrome web bluetooth how to use](/articles/chrome-web-bluetooth-how-to-use/)
+* [Chrome for Google Meet Camera Settings](/articles/chrome-for-google-meet-camera-settings/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

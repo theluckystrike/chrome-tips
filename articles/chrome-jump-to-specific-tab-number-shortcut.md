@@ -56,8 +56,8 @@ Chrome is designed to handle many tabs, and these shortcuts are built right in t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained/)
-* [chrome price drop alerts how to enable](/articles/chrome-price-drop-alerts-how-to-enable/)
-* [Chrome Tab Crashed He Dead Fix](/articles/chrome-tab-crashed-he-dead-fix/)
+* [chrome web apps how to install](/articles/chrome-web-apps-how-to-install/)
+* [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut/)
+* [Chrome Extensions for WordPress](/articles/chrome-extensions-for-wordpress/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

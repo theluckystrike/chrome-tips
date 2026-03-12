@@ -88,8 +88,8 @@ For users who want additional control over tab management and resource usage, ex
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard/)
-* [Chrome View Transition API: Smooth Animations Within a Single Page](/articles/chrome-view-transition-same-document/)
-* [Chrome Extensions for Saving Articles Offline](/articles/chrome-extensions-for-saving-articles-offline/)
+* [Chrome Screen Flickering Fix](/articles/chrome-screen-flickering-fix/)
+* [Chrome Omnibox Hidden Features](/articles/chrome-omnibox-hidden-features/)
+* [Chrome Safe Search How to Lock](/articles/chrome-safe-search-how-to-lock/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

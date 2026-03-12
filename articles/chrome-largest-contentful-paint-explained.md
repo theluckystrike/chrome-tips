@@ -58,8 +58,8 @@ Chrome largest contentful paint explained is really about helping you understand
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Limit Chrome Memory Usage Mac](/articles/how-to-limit-chrome-memory-usage-mac/)
-* [How to Update Chrome on Android](/articles/how-to-update-chrome-on-android/)
-* [chrome recently closed tabs how to reopen](/articles/chrome-recently-closed-tabs-how-to-reopen/)
+* [Chrome for Lofi Music Extensions](/articles/chrome-for-lofi-music-extensions/)
+* [Chrome Smooth Scrolling Laggy Disable Fix](/articles/chrome-smooth-scrolling-laggy-disable-fix/)
+* [Chrome Tab Search Shortcut Explained](/articles/chrome-tab-search-shortcut-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

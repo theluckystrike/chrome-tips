@@ -70,8 +70,8 @@ Once you start using these extensions, you will wonder how you ever used WhatsAp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Safe Browsing: What It Does and How It Protects You](/articles/chrome-safe-browsing-what-it-does/)
-* [chrome reduce data usage mobile](/articles/chrome-reduce-data-usage-mobile/)
-* [Chrome for Gaming: How to Reduce Input Lag](/articles/chrome-for-gaming-reduce-input-lag/)
+* [Chrome Starting Style CSS Explained](/articles/chrome-starting-style-css-explained/)
+* [chrome for metamask setup and tips](/articles/chrome-for-metamask-setup-and-tips/)
+* [Chrome Text Wrap Balance CSS](/articles/chrome-text-wrap-balance-css/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

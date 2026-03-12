@@ -80,8 +80,8 @@ Chrome keyboard shortcuts not working fix can be frustrating, but with a little 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide/)
-* [Chrome for Etsy Seller Best Extensions](/articles/chrome-for-etsy-seller-best-extensions/)
-* [Chrome Eyedropper API Explained](/articles/chrome-eyedropper-api-explained/)
+* [chrome for github best extensions](/articles/chrome-for-github-best-extensions/)
+* [Chrome Translate Not Working? Heres How to Fix It](/articles/chrome-translate-not-working-fix/)
+* [Chrome Tab Groups vs Bookmarks](/articles/chrome-tab-groups-vs-bookmarks/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

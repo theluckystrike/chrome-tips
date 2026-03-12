@@ -78,8 +78,8 @@ Make it a habit to clear local storage for websites that are acting up, and your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Zoom Level Per Site How to Set](/articles/chrome-zoom-level-per-site-how-to-set/)
-* [chrome for any.do web app setup](/articles/chrome-for-anydo-web-app-setup/)
-* [Chrome Blurry Text Fix Windows](/articles/chrome-blurry-text-fix-windows/)
+* [Chrome Address Bar Autocomplete How to Clear](/articles/chrome-address-bar-autocomplete-how-to-clear/)
+* [Why Does Opening Chrome Slow Down Everything](/articles/why-does-opening-chrome-slow-down-everything/)
+* [Chrome GPU Acceleration Gaming Settings](/articles/chrome-gpu-acceleration-gaming-settings/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

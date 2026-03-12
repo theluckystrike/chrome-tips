@@ -86,8 +86,8 @@ You do not need to be a technical expert to benefit from this information. A bas
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions/)
-* [Chrome DevTools Memory Panel Explained](/articles/chrome-devtools-memory-panel-explained/)
-* [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-explained/)
+* [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time/)
+* [Chrome Open Last Session on Startup](/articles/chrome-open-last-session-on-startup/)
+* [Chrome Preloading Pages Setting Explained](/articles/chrome-preloading-pages-setting-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

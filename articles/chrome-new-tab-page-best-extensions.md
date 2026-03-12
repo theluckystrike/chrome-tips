@@ -86,8 +86,8 @@ Once you find the right extension for your needs, you will be surprised how such
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Browser Games Performance Tips](/articles/chrome-browser-games-performance-tips/)
-* [Chrome Status Bar Where Did It Go](/articles/chrome-status-bar-where-did-it-go/)
-* [Chrome Flags Best Performance Settings](/articles/chrome-flags-best-performance-settings/)
+* [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners/)
+* [Best Chrome Extensions for Real Estate Agents](/articles/best-chrome-extensions-for-real-estate-agents/)
+* [Chrome First Meaningful Paint Deprecated Why](/articles/chrome-first-meaningful-paint-deprecated-why/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

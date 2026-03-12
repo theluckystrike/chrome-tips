@@ -78,8 +78,8 @@ Everyone's workflow is different, so feel free to adapt these suggestions to fit
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11/)
-* [Chrome Storage Inspector How to Use](/articles/chrome-storage-inspector-how-to-use/)
-* [How to View Saved Passwords in Chrome 2026](/articles/how-to-view-saved-passwords-in-chrome-2026/)
+* [Chrome for NFT Browsing Extensions](/articles/chrome-for-nft-browsing-extensions/)
+* [Chrome Web Store How to Leave Review](/articles/chrome-web-store-how-to-leave-review/)
+* [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/articles/chrome-autofill-wrong-address-keeps-appearing/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

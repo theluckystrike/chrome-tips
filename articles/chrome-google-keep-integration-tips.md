@@ -74,8 +74,8 @@ Remember, the goal is to let your tools support you, not slow you down. With a f
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Amazon Seller Central Tips](/articles/chrome-for-amazon-seller-central-tips/)
-* [Chromebook vs MacBook for College](/articles/chromebook-vs-macbook-for-college/)
-* [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web/)
+* [Chrome Slow on Windows 11 After Update: Practical Fixes](/articles/chrome-slow-on-windows-11-after-update/)
+* [Chrome Startup Boost What It Does](/articles/chrome-startup-boost-what-it-does/)
+* [Chrome Sync Not Working Fix](/articles/chrome-sync-not-working-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

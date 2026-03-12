@@ -102,8 +102,8 @@ These chrome google workspace integration tips help you build a productive setup
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome ERR_CACHE_MISS Fix](/articles/chrome-err-cache-miss-fix/)
-* [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams/)
-* [Chrome User Agent Switcher Explained](/articles/chrome-user-agent-switcher-explained/)
+* [How to Fix Chrome Cache Too Large and Slow Performance](/articles/chrome-cache-too-large-slow-fix/)
+* [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization/)
+* [Chrome Reader Mode vs Safari Reader Comparison](/articles/chrome-reader-mode-vs-safari-reader-comparison/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

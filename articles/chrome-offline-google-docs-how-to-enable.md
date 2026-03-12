@@ -70,8 +70,8 @@ Finally, remember to periodically check that your offline settings remain enable
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Tab Search Feature How to Use](/articles/chrome-tab-search-feature-how-to-use/)
-* [Why Does Opening Chrome Slow Down Everything](/articles/why-does-opening-chrome-slow-down-everything/)
-* [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track/)
+* [Chrome Extensions For Email Productivity](/articles/chrome-extensions-for-email-productivity/)
+* [Chrome Extensions for WebRTC Leak Prevention](/articles/chrome-extensions-for-webrtc-leak-prevention/)
+* [Chrome Site Isolation Explained for Users](/articles/chrome-site-isolation-explained-for-users/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

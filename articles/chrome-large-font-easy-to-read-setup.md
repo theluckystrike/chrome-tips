@@ -84,8 +84,8 @@ Remember that everyone has different needs when it comes to text size and readab
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Continue Where You Left Off Not Working](/articles/chrome-continue-where-you-left-off-not-working/)
-* [How to Use Chrome DevTools Device Orientation Emulator](/articles/chrome-devtools-device-orientation-emulator/)
-* [Best Extensions for Tab Management Chrome](/articles/best-extensions-for-tab-management-chrome/)
+* [Chrome Passkeys Setup Guide 2026](/articles/chrome-passkeys-setup-guide-2026/)
+* [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-explained/)
+* [How to Use the Chrome Eye Dropper API for Color Picking](/articles/chrome-eye-dropper-api-color-picker/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

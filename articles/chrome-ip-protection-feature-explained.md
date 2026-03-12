@@ -72,8 +72,8 @@ If you need stronger protection, consider combining IP protection with other pri
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Memory Inspector How to Use](/articles/chrome-memory-inspector-how-to-use/)
-* [Chrome Family Link Integration Explained](/articles/chrome-family-link-integration-explained/)
-* [Chrome Extensions For Coupon Finder Automatic](/articles/chrome-extensions-for-coupon-finder-automatic/)
+* [Chrome Screen Flickering Fix](/articles/chrome-screen-flickering-fix/)
+* [Chrome Largest Contentful Paint Improve Tips](/articles/chrome-largest-contentful-paint-improve-tips/)
+* [Chrome NFC API: Web NFC Explained](/articles/chrome-nfc-api-web-nfc-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

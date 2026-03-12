@@ -58,8 +58,8 @@ Keeping your browser organized and your extensions minimal also contributes to s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation/)
-* [Chrome Extensions for Highlighting Text on Web](/articles/chrome-extensions-for-highlighting-text-on-web/)
-* [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/articles/chrome-whatsapp-web-not-connecting-fix/)
+* [chrome enable parallel downloading](/articles/chrome-enable-parallel-downloading/)
+* [Chrome Color HD Gamut Display P3 - Complete Guide for 2026](/articles/chrome-color-hd-gamut-display-p3/)
+* [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

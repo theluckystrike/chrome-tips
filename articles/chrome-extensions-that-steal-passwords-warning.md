@@ -90,8 +90,8 @@ Finally, keep an eye on your accounts in the following weeks. Attackers sometime
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Source Maps Explained Simply](/articles/chrome-source-maps-explained-simply/)
-* [chrome web bluetooth connect headphones](/articles/chrome-web-bluetooth-connect-headphones/)
-* [Chrome Extensions for Tab Grouping Automatically](/articles/chrome-extensions-for-tab-grouping-automatically/)
+* [chrome restricted mode youtube how to enable](/articles/chrome-restricted-mode-youtube-how-to-enable/)
+* [Chrome Topics API Guide](/articles/chrome-topics-api-guide/)
+* [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

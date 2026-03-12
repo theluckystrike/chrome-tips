@@ -68,8 +68,8 @@ Remember that a little CPU usage from Chrome is normal and expected. The goal is
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Parental Controls Without Extension](/articles/chrome-parental-controls-without-extension/)
-* [Chrome Using All My RAM 4GB Laptop Fix](/articles/chrome-using-all-my-ram-4gb-laptop-fix/)
-* [Chrome Extensions for Lighthouse Alternative](/articles/chrome-extensions-for-lighthouse-alternative/)
+* [Chrome Extensions for Web Development Tools](/articles/chrome-extensions-for-web-development-tools/)
+* [Chrome vs Edge Which Uses Less Memory](/articles/chrome-vs-edge-which-uses-less-memory/)
+* [Chrome Service Worker Debugging Guide](/articles/chrome-service-worker-debugging/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

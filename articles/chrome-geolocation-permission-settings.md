@@ -78,8 +78,8 @@ Remember that you always have the final say. If a website asks for your location
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [What Happens When Chrome Extension Is Removed From Store](/articles/what-happens-when-chrome-extension-is-removed-from-store/)
-* [Chrome for Instagram Web Tips](/articles/chrome-for-instagram-web-tips/)
-* [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/articles/best-chrome-settings-for-chromebook/)
+* [Chrome Extensions for Background Remover](/articles/chrome-extensions-for-background-remover/)
+* [chrome reading list vs bookmarks](/articles/chrome-reading-list-vs-bookmarks/)
+* [Chrome Keeps Opening New Tabs By Itself Virus](/articles/chrome-keeps-opening-new-tabs-by-itself-virus/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

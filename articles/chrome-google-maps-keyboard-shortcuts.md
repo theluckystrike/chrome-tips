@@ -78,8 +78,8 @@ With a little practice, you will find that using keyboard shortcuts makes your G
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Enable Parallel Downloading in Chrome for Faster Downloads](/articles/chrome-parallel-downloading-enable-speed-up/)
-* [Chrome Built-In PDF Editor Guide](/articles/chrome-pdf-editor-built-in/)
-* [Chrome Shared Workers vs Service Workers](/articles/chrome-shared-workers-vs-service-workers/)
+* [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app/)
+* [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/articles/chrome-coverage-tool-find-unused-css/)
+* [Chrome Making My Whole PC Lag Fix: Restore Your Systems Speed](/articles/chrome-making-my-whole-pc-lag-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

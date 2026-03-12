@@ -62,8 +62,8 @@ Give these suggestions a try and notice the difference in your daily browsing. A
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy/)
-* [Chrome Extensions for Lawyers Legal Research](/articles/chrome-extensions-for-lawyers-legal-research/)
-* [How to Backup Chrome Bookmarks and Passwords](/articles/how-to-backup-chrome-bookmarks-and-passwords/)
+* [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/articles/chrome-ai-powered-history-search/)
+* [Chrome for Tab Sleeping vs Tab Suspending Difference](/articles/chrome-for-tab-sleeping-vs-tab-suspending-difference/)
+* [Chrome WebAuthn Passwordless Login](/articles/chrome-webauthn-passwordless-login/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

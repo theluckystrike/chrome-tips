@@ -56,8 +56,8 @@ Regularly clearing your browser cache, keeping Chrome updated, and managing your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Startup Pages Configuration](/articles/chrome-startup-pages-config/)
-* [chrome vs firefox privacy comparison 2026](/articles/chrome-vs-firefox-privacy-comparison-2026/)
-* [Chrome Search Engine Keeps Changing to Yahoo Fix](/articles/chrome-search-engine-keeps-changing-to-yahoo-fix/)
+* [Chrome Google Drive Integration Save to Drive](/articles/chrome-google-drive-integration-save-to-drive/)
+* [Chrome DevTools Issues Panel Explained](/articles/chrome-devtools-issues-panel-explained/)
+* [chrome extension rejected common reasons fix](/articles/chrome-extension-rejected-common-reasons-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

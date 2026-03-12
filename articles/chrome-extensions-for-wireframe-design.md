@@ -36,8 +36,8 @@ The right combination of Chrome extensions for wireframe design depends on your 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Tab Crashed He Dead Fix](/articles/chrome-tab-crashed-he-dead-fix/)
-* [Chrome for Tab Organization Workflow](/articles/chrome-for-tab-organization-workflow/)
-* [Chrome Extensions for Habit Tracker](/articles/chrome-extensions-for-habit-tracker/)
+* [Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser](/articles/chrome-sanitizer-api-html-safe/)
+* [How to Change Default Download Location Chrome](/articles/how-to-change-default-download-location-chrome/)
+* [CHIPS: Cookies Having Independent Partitioned State in Chrome](/articles/chrome-chips-cookies-having-independent-state/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

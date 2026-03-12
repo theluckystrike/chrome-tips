@@ -70,8 +70,8 @@ Remember that extensions are tools, and like any tools, they work best when used
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Security Checkup How to Run](/articles/chrome-security-checkup-how-to-run/)
-* [Chrome for TickTick in Browser Tips](/articles/chrome-for-ticktick-in-browser-tips/)
-* [Chrome DevTools Workspaces Guide](/articles/chrome-workspaces-guide/)
+* [Chrome Notification Badge on PWA How to Enable](/articles/chrome-notification-badge-on-pwa-how-to-enable/)
+* [Chrome Extensions on Android Is It Possible](/articles/chrome-extensions-on-android-is-it-possible/)
+* [Chrome for Instagram Web Tips](/articles/chrome-for-instagram-web-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

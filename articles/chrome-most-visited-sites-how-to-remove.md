@@ -68,8 +68,8 @@ Remember that you do not have to accept Chrome's default behavior. With a few tw
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome GPU Process High Memory Fix](/articles/chrome-gpu-process-high-memory-fix/)
-* [Chrome Password Manager on Phone vs Dedicated App](/articles/chrome-password-manager-on-phone-vs-dedicated-app/)
-* [Chrome Prerender Pages Faster Browsing: Complete Guide](/articles/chrome-prerender-pages-faster-browsing/)
+* [Chrome WebGL Crashing My Browser](/articles/chrome-webgl-crashing-my-browser/)
+* [how to enable chrome enhanced safe browsing](/articles/how-to-enable-chrome-enhanced-safe-browsing/)
+* [Chrome Pop Ups How to Block All](/articles/chrome-pop-ups-how-to-block-all/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

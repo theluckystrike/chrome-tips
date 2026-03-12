@@ -96,8 +96,8 @@ Take some time to explore all the language settings in Chrome. The browser is mo
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Clipboard API: Copy and Paste in Modern Web Apps](/articles/chrome-clipboard-api-copy-paste/)
-* [chrome performance monitor fps counter](/articles/chrome-performance-monitor-fps-counter/)
-* [Chrome Devtools Font Editor Tool](/articles/chrome-devtools-font-editor-tool/)
+* [Chrome Redirect Virus How to Remove](/articles/chrome-redirect-virus-how-to-remove/)
+* [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api-explained/)
+* [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

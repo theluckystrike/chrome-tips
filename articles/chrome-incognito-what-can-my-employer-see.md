@@ -62,8 +62,8 @@ The best approach is to use work networks for work purposes and save your person
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome performance monitor fps counter](/articles/chrome-performance-monitor-fps-counter/)
-* [Chrome vs Firefox 2026 Comparison](/articles/chrome-vs-firefox-2026/)
-* [Chrome Extensions for Google Slides](/articles/chrome-extensions-for-google-slides/)
+* [Chrome V8 Engine What It Means for Users](/articles/chrome-v8-engine-what-it-means-for-users/)
+* [Chrome Resize Observer API Explained](/articles/chrome-resize-observer-api-explained/)
+* [Best Chrome Settings for a Slow Computer](/articles/best-chrome-settings-for-slow-computer/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

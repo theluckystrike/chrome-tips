@@ -80,8 +80,8 @@ If you are building a website and find yourself constantly fixing flexbox issues
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Keeps Logging Me Out of Websites Fix](/articles/chrome-keeps-logging-me-out-of-websites-fix/)
-* [Best Free Chrome Extensions 2026](/articles/best-free-chrome-extensions-2026/)
-* [Chrome Game Streaming Optimization Tips](/articles/chrome-game-streaming-optimization-tips/)
+* [Chrome Remote Desktop Slow Fix](/articles/chrome-remote-desktop-slow-fix/)
+* [Chrome Video Speed Controller Extension](/articles/chrome-video-speed-controller-extension/)
+* [Chrome Address Bar Not Showing Full URL Fix](/articles/chrome-address-bar-not-showing-full-url-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

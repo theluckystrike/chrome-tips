@@ -126,8 +126,8 @@ If you've tried all the software fixes and your fan is still very loud, consider
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Time to First Byte Explained](/articles/chrome-time-to-first-byte-explained/)
-* [Chrome Task Manager Guide](/articles/chrome-task-manager-guide/)
-* [Chrome for StayFocusd Extension Guide](/articles/chrome-for-stayfocusd-extension-guide/)
+* [Chrome Push Notifications API Explained](/articles/chrome-push-notifications-api-explained/)
+* [chrome google photos integration save images](/articles/chrome-google-photos-integration-save-images/)
+* [Chrome for White Noise While Working](/articles/chrome-for-white-noise-while-working/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

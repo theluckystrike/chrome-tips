@@ -52,8 +52,8 @@ The combination of Workona for organization and a tab suspension extension for p
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extensions For Color Palette Generator](/articles/chrome-extensions-for-color-palette-generator/)
-* [Chrome for Language Learning Extensions](/articles/chrome-for-language-learning-extensions/)
-* [Chrome New Tab Page Best Extensions](/articles/chrome-new-tab-page-best-extensions/)
+* [Chrome Web and App Activity How to Delete](/articles/chrome-web-and-app-activity-how-to-delete/)
+* [Chrome Live Captions Languages: Complete Setup Guide](/articles/chrome-live-captions-languages/)
+* [Chrome Keyboard Lock API: Building Immersive Fullscreen Games](/articles/chrome-keyboard-lock-api-fullscreen-games/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

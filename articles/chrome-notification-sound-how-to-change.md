@@ -54,8 +54,8 @@ Taking a few minutes to clean up your notification permissions can make a big di
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Web Push Notifications Setup Guide](/articles/chrome-web-push-notifications-setup-guide/)
-* [Chrome Lite Mode Replacement for Slow Internet](/articles/chrome-lite-mode-replacement-for-slow-internet/)
-* [Chrome Extensions for Reverse Video Search](/articles/chrome-extensions-for-reverse-video-search/)
+* [chrome install as app pwa how to](/articles/chrome-install-as-app-pwa-how-to/)
+* [Chrome Lighthouse Audit Complete Guide](/articles/chrome-lighthouse-audit-guide/)
+* [Chrome for Spotify Web Player Shortcuts](/articles/chrome-for-spotify-web-player-shortcuts/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

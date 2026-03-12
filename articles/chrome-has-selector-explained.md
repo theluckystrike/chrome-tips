@@ -68,8 +68,8 @@ Understanding features like the has selector helps you appreciate the complexity
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Duolingo Web App Optimization](/articles/chrome-for-duolingo-web-app-optimization/)
-* [Chrome Google Calendar Quick Add from Browser](/articles/chrome-google-calendar-quick-add-from-browser/)
-* [Chrome Extension for Managing Multiple Email Accounts](/articles/chrome-extension-for-managing-multiple-email-accounts/)
+* [How to Disable Chrome Web Security for Testing Only](/articles/chrome-disable-web-security-testing-only/)
+* [Is the Chrome Beta Channel Worth Using](/articles/chrome-beta-channel-worth-using/)
+* [Chrome Tab Search Keyboard Shortcut - Find Open Tabs Instantly](/articles/chrome-tab-search-keyboard-shortcut/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -82,8 +82,8 @@ Try both approaches and see what works best for you. Every computer setup is dif
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Export Bookmarks from Chrome](/articles/how-to-export-bookmarks-from-chrome/)
-* [How to Reduce Number of Open Tabs](/articles/how-to-reduce-number-of-open-tabs/)
-* [How to Turn Off Autocomplete in Chrome](/articles/chrome-how-to-turn-off-autocomplete/)
+* [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs/)
+* [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide/)
+* [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/articles/chrome-freezing-on-chromebook-during-zoom/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

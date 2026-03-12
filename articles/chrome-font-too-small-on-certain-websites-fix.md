@@ -74,8 +74,8 @@ Once you find the combination that works for you, the days of manually zooming i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Reader Mode on Phone: How to Enable](/articles/chrome-reader-mode-on-phone-how-to-enable/)
-* [Chrome for News Reading Best Setup](/articles/chrome-for-news-reading-best-setup/)
-* [Chrome for Web3 Browsing Extensions](/articles/chrome-for-web3-browsing-extensions/)
+* [Chrome DNS Cache Clear How To: Fix Connection Issues Fast](/articles/chrome-dns-cache-clear-how-to/)
+* [Chrome Microsoft Teams Web Slow Fix](/articles/chrome-microsoft-teams-web-slow-fix/)
+* [how to make chrome default browser mac](/articles/how-to-make-chrome-default-browser-mac/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

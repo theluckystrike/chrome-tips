@@ -94,8 +94,8 @@ Using a tool like Tab Suspender Pro can serve as an extra layer of protection. I
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard/)
-* [Chrome Extensions for Therapists and Counselors](/articles/chrome-extensions-for-therapists-and-counselors/)
-* [Chrome vs DuckDuckGo Browser Privacy](/articles/chrome-vs-duckduckgo-browser-privacy/)
+* [chrome mutation observer api explained](/articles/chrome-mutation-observer-api-explained/)
+* [Chrome Web Share API Explained](/articles/chrome-web-share-api-explained/)
+* [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

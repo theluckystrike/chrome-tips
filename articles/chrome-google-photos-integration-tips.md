@@ -82,8 +82,8 @@ If you find that Chrome becomes slow when managing large photo libraries, consid
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Mouse Keys Keyboard Cursor Control](/articles/chrome-mouse-keys-keyboard-cursor-control/)
-* [Chrome Extensions for Session Saver Restore](/articles/chrome-extensions-for-session-saver-restore/)
-* [Chrome Web Vitals Optimization Guide](/articles/chrome-web-vitals-optimization/)
+* [Chrome Network Throttling Guide](/articles/chrome-network-throttling-guide/)
+* [Chrome Extensions For Discord](/articles/chrome-extensions-for-discord/)
+* [Chrome Web Serial API Guide](/articles/chrome-web-serial-api-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -72,8 +72,8 @@ Finally, take a few minutes each day to review and update your task list. Integr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Android Memory Usage Too High Fix](/articles/chrome-android-memory-usage-too-high-fix/)
-* [How to Sync Chrome Bookmarks Between Phone and Computer](/articles/chrome-bookmark-sync-between-phone-and-computer/)
-* [How to Stop Opening Too Many Tabs](/articles/how-to-stop-opening-too-many-tabs/)
+* [Chrome Content Encoding Error Fix](/articles/chrome-content-encoding-error-fix/)
+* [Chrome Default Folder Location Where Is It](/articles/chrome-default-folder-location-where-is-it/)
+* [Chrome Resource Timing API Explained](/articles/chrome-resource-timing-api-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

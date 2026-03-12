@@ -50,8 +50,8 @@ Being aware of the websites you visit and the permissions you grant to extension
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Stop Chrome from Opening on Startup](/articles/how-to-stop-chrome-from-opening-on-startup/)
-* [Chrome Font Palette Customization: Complete Guide for 2026](/articles/chrome-font-palette-customization/)
-* [chrome for odysee web player tips](/articles/chrome-for-odysee-web-player-tips/)
+* [Chrome Google Search Not Working Fix](/articles/chrome-google-search-not-working-fix/)
+* [chrome site search shortcut how to set up](/articles/chrome-site-search-shortcut-how-to-set-up/)
+* [Chrome VPN Extension Free Best 2026](/articles/chrome-vpn-extension-free-best-2026/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

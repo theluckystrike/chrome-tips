@@ -104,8 +104,8 @@ Remember that most video playback problems have simple solutions. Start with the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Skillshare Web App Setup](/articles/chrome-for-skillshare-web-app-setup/)
-* [Chrome for Medium Best Reading Extensions](/articles/chrome-for-medium-best-reading-extensions/)
-* [Chrome Flags That Actually Make It Faster: A Practical Guide for Slow Computers](/articles/chrome-flags-that-actually-make-it-faster/)
+* [Chrome vs Edge Which Uses Less Memory](/articles/chrome-vs-edge-which-uses-less-memory/)
+* [Chrome Extension Conflict: Identifying and Fixing Crashes](/articles/chrome-extension-conflict-causing-crashes/)
+* [chrome for video downloading legal methods](/articles/chrome-for-video-downloading-legal-methods/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

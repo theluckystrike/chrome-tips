@@ -60,8 +60,8 @@ Understanding what fenced frames are and how they work helps you make informed d
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Mouse Cursor Lagging Fix](/articles/chrome-mouse-cursor-lagging/)
-* [How to Organize Chrome Bookmarks Into Folders](/articles/how-to-organize-chrome-bookmarks-into-folders/)
-* [Chrome Extensions For Cold Email Outreach](/articles/chrome-extensions-for-cold-email-outreach/)
+* [Chrome Shared Storage API Explained](/articles/chrome-shared-storage-api-explained/)
+* [Chrome Aw Snap Page Crash Fix](/articles/chrome-aw-snap-page-crash-fix/)
+* [How to Allow Pop Ups on One Site Chrome](/articles/how-to-allow-pop-ups-on-one-site-chrome/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

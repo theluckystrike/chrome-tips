@@ -84,8 +84,8 @@ To reset Chrome, go to Settings, click on "Reset settings" on the left side, and
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome kiosk mode how to set up](/articles/chrome-kiosk-mode-how-to-set-up/)
-* [Chrome Safe Browsing Data What Google Sees](/articles/chrome-safe-browsing-data-what-google-sees/)
-* [Chrome Extensions Update Frequency Explained](/articles/chrome-extensions-update-frequency-explained/)
+* [Chrome Net Internals Sockets View: Monitor and Manage Active Connections](/articles/chrome-net-internals-sockets-view-connections/)
+* [Chrome Extension Using Too Much Memory? Heres How to Find the Culprit](/articles/chrome-extension-using-too-much-memory-find/)
+* [Chrome Task Manager vs Windows Task Manager: Whats the Difference?](/articles/chrome-task-manager-vs-windows-task-manager/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

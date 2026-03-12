@@ -58,8 +58,8 @@ The Chrome Layers panel is one of those tools that seems complex at first but be
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Affiliate Marketing Extensions](/articles/chrome-for-affiliate-marketing-extensions/)
-* [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/articles/chrome-extensions-folder-location-files/)
-* [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time/)
+* [Chrome Extensions for Quick Notes Sidebar](/articles/chrome-extensions-for-quick-notes-sidebar/)
+* [Chrome Secure DNS: What It Is and How to Enable](/articles/chrome-secure-dns-what-it-is-and-how-to-enable/)
+* [Chrome Extensions Slowing Down Browser – What You Need to Know](/articles/chrome-extensions-slowing-down-browser/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

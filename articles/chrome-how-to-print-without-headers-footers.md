@@ -58,8 +58,8 @@ In office environments, headers and footers can also serve as a form of document
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained/)
-* [Largest Contentful Paint Chrome Fix](/articles/largest-contentful-paint-chrome-fix/)
-* [Chrome Extensions Slowing Down Browser – What You Need to Know](/articles/chrome-extensions-slowing-down-browser/)
+* [chrome reopen accidentally closed tab how](/articles/chrome-reopen-accidentally-closed-tab-how/)
+* [Chrome Android Memory Usage Too High Fix](/articles/chrome-android-memory-usage-too-high-fix/)
+* [Chrome Custom Tabs on Android What They Are](/articles/chrome-custom-tabs-on-android-what-they-are/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

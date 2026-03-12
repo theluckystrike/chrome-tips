@@ -78,8 +78,8 @@ Take some time to explore your options and find what feels right. Once you settl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Memory Saver Mode How to Use](/articles/chrome-memory-saver-mode-how-to-use/)
-* [Best Chrome Extensions for Instagram](/articles/best-chrome-extensions-for-instagram/)
-* [Chrome Extensions For Cookie Editor Manager](/articles/chrome-extensions-for-cookie-editor-manager/)
+* [Chrome Too Many Processes Task Manager](/articles/chrome-too-many-processes-task-manager/)
+* [First Input Delay Chrome Optimize](/articles/first-input-delay-chrome-optimize/)
+* [Best Chrome Extensions for Email Management](/articles/best-chrome-extensions-for-email-management/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

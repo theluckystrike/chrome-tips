@@ -78,8 +78,8 @@ Remember that Chrome shows these warnings to protect you. When you encounter a c
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Best Lightweight Chrome Alternatives](/articles/best-lightweight-chrome-alternatives/)
-* [Chrome Resize Observer API Explained](/articles/chrome-resize-observer-api-explained/)
-* [chrome portable version run from usb](/articles/chrome-portable-version-run-from-usb/)
+* [Chrome Web GPU API Explained for Beginners](/articles/chrome-web-gpu-api-explained-for-beginners/)
+* [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/articles/how-to-limit-chrome-ram-usage-mac/)
+* [Chrome Extensions for Page Zoom Per Site](/articles/chrome-extensions-for-page-zoom-per-site/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -62,8 +62,8 @@ As web capabilities continue to expand, staying informed about what permissions 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome high contrast mode enable guide](/articles/chrome-high-contrast-mode-enable-guide/)
-* [How to Stop Opening Too Many Tabs](/articles/how-to-stop-opening-too-many-tabs/)
-* [Chrome Storage Pressure How to Fix](/articles/chrome-storage-pressure-how-to-fix/)
+* [Chrome Bounce Tracking Protection Explained: What It Is and How to Enable](/articles/chrome-bounce-tracking-protection-explained/)
+* [Chrome Storage Partitioning Explained](/articles/chrome-storage-partitioning-explained/)
+* [Chrome Element Internals and Custom Elements: A Complete Guide](/articles/chrome-element-internals-custom-elements/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

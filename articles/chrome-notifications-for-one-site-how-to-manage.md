@@ -70,8 +70,8 @@ Taking a few minutes to review your notification permissions now can save you fr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide/)
-* [Chrome Storage Partitioning Explained](/articles/chrome-storage-partitioning-explained/)
-* [chrome remote desktop how to use 2026](/articles/chrome-remote-desktop-how-to-use-2026/)
+* [Chrome Telemetry What Data Google Collects](/articles/chrome-telemetry-what-data-google-collects/)
+* [Chrome Which Tab Is Using Most CPU How to Find](/articles/chrome-which-tab-is-using-most-cpu-how-to-find/)
+* [Best Chrome Extensions for Nurses](/articles/best-chrome-extensions-for-nurses/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

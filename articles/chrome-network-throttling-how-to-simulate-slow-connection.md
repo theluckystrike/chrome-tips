@@ -66,8 +66,8 @@ Minimize the number of network requests by combining files where possible. Use C
 Finally, prioritize critical rendering path. Ensure that the content above the fold loads first, giving users something to see while the rest of the page loads. This approach improves perceived performance even on slow connections.
 
 ## Related Articles
-* [Chrome Web Animation API Explained](/articles/chrome-web-animation-api-explained/)
-* [Chrome Magnifier Zoom for Visually Impaired](/articles/chrome-magnifier-zoom-for-visually-impaired/)
-* [Chrome Task Manager Shortcut Explained](/articles/chrome-task-manager-shortcut-explained/)
+* [Chrome Reading List How to Use](/articles/chrome-reading-list-how-to-use/)
+* [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/articles/google-docs-slow-in-chrome-fix/)
+* [Chrome Follow Button for Websites How to Use](/articles/chrome-follow-button-for-websites-how-to-use/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

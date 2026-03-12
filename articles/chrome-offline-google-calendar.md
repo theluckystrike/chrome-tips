@@ -66,8 +66,8 @@ If you frequently work in offline or low-connectivity environments, consider thi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Homepage Keeps Changing Fix](/articles/chrome-homepage-keeps-changing-fix/)
-* [The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Browser](/articles/chrome-omnibox-calculator-trick/)
-* [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app/)
+* [Chrome AI Generated Summaries Explained](/articles/chrome-ai-generated-summaries-explained/)
+* [chrome chrome.contextMenus right click](/articles/chrome-chrome.contextMenus-right-click/)
+* [Laptop Freezing When Opening Chrome: Practical Solutions That Actually Work](/articles/laptop-freezing-when-opening-chrome/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

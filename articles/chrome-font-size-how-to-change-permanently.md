@@ -68,8 +68,8 @@ Once you find the combination that works for you, the days of manually zooming i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Make Chrome Use Less Battery on MacBook](/articles/how-to-make-chrome-use-less-battery-macbook/)
-* [Chrome DevTools Shadow DOM Inspector](/articles/chrome-devtools-shadow-dom-inspector/)
-* [Chrome Extension for Password Management](/articles/chrome-extension-for-password-management/)
+* [Chrome Extension for QR Code Generator](/articles/chrome-extension-for-qr-code-generator/)
+* [Chrome Extensions For Email Tracking](/articles/chrome-extensions-for-email-tracking/)
+* [Chrome Extensions for Password Sharing Securely](/articles/chrome-extensions-for-password-sharing-securely/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

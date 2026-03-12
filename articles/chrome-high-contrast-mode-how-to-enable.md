@@ -82,8 +82,8 @@ High contrast mode makes browsing much easier for users with vision challenges o
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained/)
-* [how to turn on chrome dark mode on any website](/articles/how-to-turn-on-chrome-dark-mode-on-any-website/)
-* [Chrome for StayFocusd Extension Guide](/articles/chrome-for-stayfocusd-extension-guide/)
+* [Best Chrome Extensions for Content Creators](/articles/best-chrome-extensions-for-content-creators/)
+* [Chrome Emoji Keyboard Shortcut How to Use](/articles/chrome-emoji-keyboard-shortcut-how-to-use/)
+* [Best Lightweight Browsers for Chromebook](/articles/best-lightweight-browsers-for-chromebook/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

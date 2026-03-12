@@ -70,8 +70,8 @@ Privacy protection is an ongoing process. As tracking techniques become more sop
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome for color picker extensions](/articles/chrome-for-color-picker-extensions/)
-* [How Many Chrome Tabs Can I Have Open](/articles/how-many-chrome-tabs-can-i-have-open/)
-* [Chrome for Microsoft Office Online Tips](/articles/chrome-for-microsoft-office-online-tips/)
+* [Chrome Extensions for Reddit](/articles/chrome-extensions-for-reddit/)
+* [Chrome Sandbox Mode What It Does](/articles/chrome-sandbox-mode-what-it-does/)
+* [Chrome ERR_QUIC_PROTOCOL_ERROR Fix](/articles/chrome-err-quic-protocol-error-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

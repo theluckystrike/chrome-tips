@@ -80,8 +80,8 @@ If you continue to experience issues despite trying these steps, it might be wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome for twitter x best extensions](/articles/chrome-for-twitter-x-best-extensions/)
-* [chrome shared storage api privacy impact](/articles/chrome-shared-storage-api-privacy-impact/)
-* [Chrome Extensions for JSON Viewer Formatter](/articles/chrome-extensions-for-json-viewer-formatter/)
+* [Chrome File System Access API: A Complete Guide](/articles/chrome-file-system-access-api/)
+* [Chrome for Address Bar Shortcuts Tips](/articles/chrome-for-address-bar-shortcuts-tips/)
+* [chrome pwa offline capability how it works](/articles/chrome-pwa-offline-capability-how-it-works/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -56,8 +56,8 @@ Remember that your needs may change over time. Revisit your new tab page setup e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Strict Site Isolation: Should I Enable](/articles/chrome-strict-site-isolation-should-i-enable/)
-* [how to make chrome default browser windows 11](/articles/how-to-make-chrome-default-browser-windows-11/)
-* [Chrome Android Reading List How to Use](/articles/chrome-android-reading-list-how-to-use/)
+* [How to Simulate Slow Connection in Chrome for Testing](/articles/chrome-simulate-slow-connection-for-testing/)
+* [Chrome Extensions for Social Media Managers](/articles/chrome-extensions-for-social-media-managers/)
+* [Chrome About Settings All Pages Explained](/articles/chrome-about-settings-all-pages-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

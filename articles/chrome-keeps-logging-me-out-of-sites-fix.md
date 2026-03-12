@@ -86,8 +86,8 @@ You might also consider whether your Chrome profile itself has become corrupted.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Check If Chrome Extension Is Spying on Me](/articles/how-to-check-if-chrome-extension-is-spying-on-me/)
-* [Chrome Application Tab DevTools Guide](/articles/chrome-application-tab-devtools-guide/)
-* [Chrome Connection Not Private Bypass Safely](/articles/chrome-connection-not-private-bypass-safely/)
+* [Chrome Hardware Acceleration Gaming: Complete Optimization Guide](/articles/chrome-hardware-acceleration-gaming/)
+* [Chrome Full Screen Mode How to Exit Stuck](/articles/chrome-full-screen-mode-how-to-exit-stuck/)
+* [Chrome Breakpoints and Conditional Debugging Guide](/articles/chrome-breakpoints-conditional-debugging-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

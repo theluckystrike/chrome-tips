@@ -70,8 +70,8 @@ Start with the simpler fixes like closing tabs and updating drivers, then move o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Cross-Document View Transitions: A Complete Guide](/articles/chrome-cross-document-view-transitions/)
-* [Chrome Family Link How to Use on Desktop](/articles/chrome-family-link-how-to-use-on-desktop/)
-* [Chrome GDPR Cookie Banners Best Extension to Handle](/articles/chrome-gdpr-cookie-banners-best-extension-to-handle/)
+* [Chrome CSS Grid Debugging Guide](/articles/chrome-css-grid-debugging/)
+* [Chrome Lazy Loading Images Explained](/articles/chrome-lazy-loading-images-explained/)
+* [chrome fingerprinting protection explained](/articles/chrome-fingerprinting-protection-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

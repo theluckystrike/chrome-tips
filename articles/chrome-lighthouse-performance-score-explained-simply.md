@@ -82,8 +82,8 @@ Improving a performance score does not always require expensive tools or expert 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android/)
-* [Chrome Your Connection Is Not Private Fix](/articles/chrome-your-connection-is-not-private-fix/)
-* [First Input Delay Chrome Optimize](/articles/first-input-delay-chrome-optimize/)
+* [chrome circle to search on desktop](/articles/chrome-circle-to-search-on-desktop/)
+* [Chrome Cookies Explained for Beginners](/articles/chrome-cookies-explained-for-beginners/)
+* [Chrome File Handling API PWA Guide](/articles/chrome-file-handling-api-pwa-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

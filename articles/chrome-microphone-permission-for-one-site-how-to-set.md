@@ -74,8 +74,8 @@ If you use many tabs in Chrome and want to keep your browser running smoothly wh
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome for Figma Best Settings](/articles/chrome-for-figma-best-settings/)
-* [Chrome Extensions Update Frequency Explained](/articles/chrome-extensions-update-frequency-explained/)
-* [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)
+* [Chrome WebGL Crashing Fix](/articles/chrome-webgl-crashing-fix/)
+* [Chrome Sync What Data Gets Synced](/articles/chrome-sync-what-data-gets-synced/)
+* [chrome default browser how to set on mac](/articles/chrome-default-browser-how-to-set-on-mac/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

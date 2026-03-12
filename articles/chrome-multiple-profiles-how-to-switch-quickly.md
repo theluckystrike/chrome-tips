@@ -84,8 +84,8 @@ Try creating desktop shortcuts for your most-used profiles, or explore extension
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords/)
-* [How to Share Chrome Tabs in Video Calls](/articles/how-to-share-chrome-tabs-in-video-calls/)
-* [firefox vs chrome battery](/articles/firefox-vs-chrome-battery/)
+* [Chrome DNS Over HTTPS How to Enable](/articles/chrome-dns-over-https-how-to-enable/)
+* [Chrome Utility Process Explained](/articles/chrome-utility-process-explained/)
+* [Chrome Extensions for User Agent Randomizer](/articles/chrome-extensions-for-user-agent-randomizer/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

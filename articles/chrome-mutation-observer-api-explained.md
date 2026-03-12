@@ -64,8 +64,8 @@ The next time you see smooth animations, instant content updates, or responsive 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extensions for Lighthouse Alternative](/articles/chrome-extensions-for-lighthouse-alternative/)
-* [Chrome Supervised Profiles for Kids](/articles/chrome-supervised-user-profile-for-kids/)
-* [Chrome vs Safari Memory Usage Mac](/articles/chrome-vs-safari-memory-usage-mac/)
+* [How to Force Dark Mode on All Websites in Chrome](/articles/chrome-force-dark-mode-all-websites/)
+* [Chrome vs Firefox on an Old Laptop — Which Is Better?](/articles/chrome-vs-firefox-on-old-laptop/)
+* [Chrome Flags Reset How to Undo Changes](/articles/chrome-flags-reset-how-to-undo-changes/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -68,8 +68,8 @@ Try a few different approaches and see which one fits your routine. The goal is 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Update Stuck? Heres How to Fix It on Windows](/articles/chrome-update-stuck-fix-windows/)
-* [How to Use Chrome Device Emulation to Test Your Mobile Website](/articles/chrome-device-emulation-test-mobile-website/)
-* [chrome profile picture how to change](/articles/chrome-profile-picture-how-to-change/)
+* [My Computer Is So Slow How to Fix Chrome](/articles/my-computer-is-so-slow-how-to-fix-chrome/)
+* [Chrome for Wave Accounting in Browser](/articles/chrome-for-wave-accounting-in-browser/)
+* [Chrome for Todoist Web App Best Settings](/articles/chrome-for-todoist-web-app-best-settings/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

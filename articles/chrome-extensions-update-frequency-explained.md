@@ -70,8 +70,8 @@ By keeping your extension list lean, choosing well-maintained extensions, and us
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Flags for Speed Optimization](/articles/chrome-flags-for-speed-optimization/)
-* [Chrome Incognito Mode — What It Actually Does (And What It Doesnt)](/articles/chrome-incognito-mode-what-it-actually-does/)
-* [Chrome Web NFC API Guide](/articles/chrome-web-nfc-api-guide/)
+* [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature/)
+* [chrome device management for education](/articles/chrome-device-management-for-education/)
+* [How to Reduce Chrome Data Usage on Slow Connection](/articles/reduce-chrome-data-usage-on-slow-connection/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

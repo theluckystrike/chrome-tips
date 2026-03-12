@@ -106,8 +106,8 @@ If someone else needs to use your browser for any reason — use **Guest mode**.
 By choosing the right mode for the right situation, you can keep your personal data secure and your browsing experience organized.
 
 ## Related Articles
-* [Chrome Topics API vs FLoC: Understanding the Key Differences](/articles/chrome-topics-api-vs-floc-difference/)
-* [How to Find a Specific Tab in Chrome](/articles/how-to-find-a-specific-tab-in-chrome/)
-* [Chrome Using All My RAM 4GB Laptop Fix](/articles/chrome-using-all-my-ram-4gb-laptop-fix/)
+* [Chrome vs Opera GX RAM Limiter: Which Browser Uses Less Memory?](/articles/chrome-vs-opera-gx-ram-limiter/)
+* [Chrome How to Inspect Element Beginners](/articles/chrome-how-to-inspect-element-beginners/)
+* [Chrome Speculation Rules Prefetch: A Complete Guide](/articles/chrome-speculation-rules-prefetch/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

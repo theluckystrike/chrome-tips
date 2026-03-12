@@ -62,8 +62,8 @@ Watch the number of extensions you install. Each extension adds some overhead to
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome for Rain Sounds Background](/articles/chrome-for-rain-sounds-background/)
-* [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature/)
-* [chrome global privacy control what it does](/articles/chrome-global-privacy-control-what-it-does/)
+* [Chrome for HubSpot CRM in Browser](/articles/chrome-for-hubspot-crm-in-browser/)
+* [Chrome Block Inappropriate Content for Kids](/articles/chrome-block-inappropriate-content-for-kids/)
+* [Chrome Beta Channel How to Join and Leave](/articles/chrome-beta-channel-how-to-join-and-leave/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

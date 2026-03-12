@@ -98,8 +98,8 @@ Tab Suspender Pro is an extension that automatically suspends tabs you have not 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome for coinbase web app tips](/articles/chrome-for-coinbase-web-app-tips/)
-* [Chrome Black Screen When Opening Fix: Complete Practical Guide](/articles/chrome-black-screen-when-opening-fix/)
-* [Chrome Performance Settings Explained 2026](/articles/chrome-performance-settings-explained-2026/)
+* [Chrome Takes Forever to Load Pages](/articles/chrome-takes-forever-to-load-pages/)
+* [How to Fix Chrome Downloads Stuck at 100 Percent](/articles/chrome-downloads-stuck-at-100-percent/)
+* [Chrome Journeys Feature in History Explained](/articles/chrome-journeys-feature-in-history-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

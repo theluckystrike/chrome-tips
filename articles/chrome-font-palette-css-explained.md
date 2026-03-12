@@ -56,8 +56,8 @@ Whether you are building a website or just browsing the internet, knowing about 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome vs Safari 2026 Comparison](/articles/chrome-vs-safari-2026/)
-* [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser/)
-* [Chrome 2026 New Features Overview](/articles/chrome-2026-new-features-overview/)
+* [how to use chrome password checkup feature](/articles/how-to-use-chrome-password-checkup-feature/)
+* [How to See Chrome Tabs From Other Devices](/articles/chrome-tabs-from-other-devices-how-to-see/)
+* [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

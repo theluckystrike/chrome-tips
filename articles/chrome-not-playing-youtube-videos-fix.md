@@ -96,8 +96,8 @@ Remember that most YouTube playback problems have simple solutions. Start with t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Shadow DOM What It Is](/articles/chrome-shadow-dom-what-it-is/)
-* [Best Chrome Extensions For Teachers Online](/articles/best-chrome-extensions-for-teachers-online/)
-* [Chrome for Custom Cursor Extensions](/articles/chrome-for-custom-cursor-extensions/)
+* [Best Chrome Extensions for Cybersecurity Professionals](/articles/best-chrome-extensions-for-cybersecurity-professionals/)
+* [Chrome Redirecting to Wrong Pages Fix](/articles/chrome-redirecting-to-wrong-pages-fix/)
+* [Chrome Extensions for Google Classroom](/articles/chrome-extensions-for-google-classroom/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

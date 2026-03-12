@@ -74,8 +74,8 @@ Keeping your browser configured for your specific needs makes all the built-in f
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Malware Removal Without Antivirus](/articles/chrome-malware-removal-without-antivirus/)
-* [Best Chrome Extensions for Students 2026](/articles/chrome-extensions-for-students/)
-* [Chrome Push Notifications API Explained](/articles/chrome-push-notifications-api-explained/)
+* [Chrome Background Tabs Slowing Down Computer Fix](/articles/chrome-background-tabs-slowing-down-computer-fix/)
+* [Chrome Live Captions How to Enable](/articles/chrome-live-captions-how-to-enable/)
+* [Chrome for Skillshare Web App Setup](/articles/chrome-for-skillshare-web-app-setup/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

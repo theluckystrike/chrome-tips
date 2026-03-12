@@ -78,8 +78,8 @@ Experiment with both methods and pay attention to when your browser feels slow o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Use Chrome Built In Screenshot Tool](/articles/how-to-use-chrome-built-in-screenshot-tool/)
-* [Chrome Contact Picker API Explained](/articles/chrome-contact-picker-api-explained/)
-* [Chrome for Tab Sleeping vs Tab Suspending Difference](/articles/chrome-for-tab-sleeping-vs-tab-suspending-difference/)
+* [Chrome Sandbox Mode What It Does](/articles/chrome-sandbox-mode-what-it-does/)
+* [Chrome Passkeys Explained for Beginners](/articles/chrome-passkeys-explained-for-beginners/)
+* [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

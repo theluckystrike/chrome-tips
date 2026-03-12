@@ -52,8 +52,8 @@ Tab Suspender Pro works quietly in the background to identify tabs you have not 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Using Too Much Memory on MacBook Air](/articles/chrome-using-too-much-memory-on-macbook-air/)
-* [chrome on raspberry pi how to install](/articles/chrome-on-raspberry-pi-how-to-install/)
-* [Chromebook Guest Mode What It Does](/articles/chromebook-guest-mode-what-it-does/)
+* [Chrome DevTools Console Errors Meaning: A Practical Guide](/articles/chrome-devtools-console-errors-meaning-guide/)
+* [Chrome Extensions for SSL Certificate Checker](/articles/chrome-extensions-for-ssl-certificate-checker/)
+* [Chrome Popover API: Modal vs Non-Modal Popovers Explained](/articles/chrome-popover-api-modal-vs-non-modal/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

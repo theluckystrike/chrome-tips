@@ -56,8 +56,8 @@ For users who need many extensions and want to minimize memory usage, trying a d
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions/)
-* [Chrome AI Powered Search Suggestions](/articles/chrome-ai-powered-search-suggestions/)
-* [Chrome Tab Stacking How to Use](/articles/chrome-tab-stacking-how-to-use/)
+* [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable/)
+* [chrome web apps how to install](/articles/chrome-web-apps-how-to-install/)
+* [Chrome vs Edge Extensions Compatibility](/articles/chrome-vs-edge-extensions-compatibility/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

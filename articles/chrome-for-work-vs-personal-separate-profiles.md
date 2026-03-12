@@ -78,8 +78,8 @@ Transitioning to a multi-profile workflow takes about five minutes to set up, bu
 *Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
 
 ## Related Articles
-* [Chrome Password Manager Not Suggesting? Heres the Fix](/articles/chrome-password-manager-not-suggesting-fix/)
-* [Chrome Cleanup Tool: Where Did It Go?](/articles/chrome-cleanup-tool-where-did-it-go/)
-* [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet/)
+* [Chrome Clients Claim Take Control: What It Means for Your Browser](/articles/chrome-clients-claim-take-control/)
+* [Chrome Math Symbols How to Type](/articles/chrome-math-symbols-how-to-type/)
+* [Chrome Extensions for Text Comparison Diff Tool](/articles/chrome-extensions-for-text-comparison-diff-tool/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

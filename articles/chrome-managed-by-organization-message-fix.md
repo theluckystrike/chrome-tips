@@ -92,8 +92,8 @@ Once the message is gone, you can enjoy using Chrome with full control over your
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Close Other Tabs Shortcut](/articles/chrome-close-other-tabs-shortcut/)
-* [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-explained/)
-* [Chrome Group Policy Settings Explained](/articles/chrome-group-policy-settings-explained/)
+* [Chrome Deep Linking and Universal Links Guide](/articles/chrome-deep-linking-universal-links-guide/)
+* [Best Chrome Extensions for Photographers](/articles/best-chrome-extensions-for-photographers/)
+* [Chrome Experiments Page Best Flags to Enable: Complete Guide](/articles/chrome-experiments-page-best-flags-enable/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

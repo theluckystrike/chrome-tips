@@ -68,8 +68,8 @@ The web should work for you, not against you. Autoplay exists because it benefit
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Best Chrome Themes 2026](/articles/best-chrome-themes-2026/)
-* [Chrome Feature Policy vs Permissions Policy Understanding the Difference](/articles/chrome-feature-policy-permissions-policy/)
-* [Chrome Password Checkup Tool Guide](/articles/chrome-password-checkup-tool/)
+* [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions/)
+* [Chrome Telemetry What Data Google Collects](/articles/chrome-telemetry-what-data-google-collects/)
+* [How to Improve Your Chrome Lighthouse Performance Score](/articles/chrome-lighthouse-performance-score-improve/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

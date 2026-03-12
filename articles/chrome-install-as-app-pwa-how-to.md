@@ -56,8 +56,8 @@ For those who want even more control over their browser experience, there are ex
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Version How to Check Which Version](/articles/chrome-version-how-to-check-which-version/)
-* [Chrome Extensions for Resume Building](/articles/chrome-extensions-for-resume-building/)
-* [Chrome TCP Slow Start Impact on Loading](/articles/chrome-tcp-slow-start-impact-on-loading/)
+* [Chrome Element Internals and Custom Elements: A Complete Guide](/articles/chrome-element-internals-custom-elements/)
+* [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users/)
+* [Best Chrome Extensions for Accessibility Needs](/articles/best-chrome-extensions-for-accessibility-needs/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -74,8 +74,8 @@ A good Chrome JetStream score is typically 150 or higher, with scores above 200 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [how to make chrome look aesthetic](/articles/how-to-make-chrome-look-aesthetic/)
-* [Chrome for Etsy Seller Best Extensions](/articles/chrome-for-etsy-seller-best-extensions/)
-* [Chrome Live Captions How to Enable](/articles/chrome-live-captions-how-to-enable/)
+* [Chrome Mouse Cursor Lagging Fix](/articles/chrome-mouse-cursor-lagging/)
+* [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage/)
+* [How to Disable Chrome Auto Update on Windows](/articles/chrome-auto-update-disable-windows-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

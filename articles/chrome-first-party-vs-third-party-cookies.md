@@ -76,8 +76,8 @@ Understanding the difference between chrome first party vs third party cookies e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Use Chrome Net Internals to Clear DNS Cache](/articles/chrome-net-internals-dns-clear-cache/)
-* [Chrome Says Not Secure But Site Is Safe](/articles/chrome-says-not-secure-but-site-is-safe/)
-* [Chrome Extensions for Research Papers](/articles/chrome-extensions-for-research-papers/)
+* [chrome reduce data usage mobile](/articles/chrome-reduce-data-usage-mobile/)
+* [Chrome Zero Trust Security Model Explained](/articles/chrome-zero-trust-security-model-explained/)
+* [Chrome Most Visited Sites How to Remove](/articles/chrome-most-visited-sites-how-to-remove/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

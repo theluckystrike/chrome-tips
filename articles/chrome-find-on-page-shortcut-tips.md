@@ -80,8 +80,8 @@ Give these tips a try next time you need to find something on the web. You will 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Tracking Prevention Explained Simply](/articles/chrome-tracking-prevention-explained-simply/)
-* [Chrome Extensions for Resume Building](/articles/chrome-extensions-for-resume-building/)
-* [Chrome Performance Panel for Regular Users](/articles/chrome-performance-panel-for-regular-users/)
+* [Chrome Window Too Small Cant Resize Fix](/articles/chrome-window-too-small-cant-resize-fix/)
+* [Chrome Extension Manifest V3 What Users Need to Know](/articles/chrome-extension-manifest-v3-what-users-need-to-know/)
+* [Chrome Private Aggregation API Explained](/articles/chrome-private-aggregation-api-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

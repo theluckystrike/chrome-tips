@@ -86,8 +86,8 @@ Regular maintenance like closing unused tabs, keeping your extensions minimal, a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Notifications Wont Stop Popping Up? Heres How to Fix It](/articles/chrome-notifications-wont-stop-popping-up/)
-* [Chrome for Managing Saved Addresses](/articles/chrome-for-managing-saved-addresses/)
-* [chrome shared storage api privacy impact](/articles/chrome-shared-storage-api-privacy-impact/)
+* [Chrome Extensions for Password Sharing Securely](/articles/chrome-extensions-for-password-sharing-securely/)
+* [Chrome Energy Saver Mode Explained](/articles/chrome-energy-saver-mode-explained/)
+* [Chrome Virtual Keyboard API for Mobile - Complete Guide](/articles/chrome-virtual-keyboard-api-mobile/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

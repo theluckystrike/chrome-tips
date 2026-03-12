@@ -68,8 +68,8 @@ If you find that managing tab clutter is taking up too much of your time and you
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Calendar Management Extensions](/articles/chrome-for-calendar-management-extensions/)
-* [Chrome Subgrid Layout Examples: A Complete Guide](/articles/chrome-subgrid-layout-examples/)
-* [Chrome for Instagram Web Tips](/articles/chrome-for-instagram-web-tips/)
+* [Chrome Print Preview Taking Forever: Practical Solutions](/articles/chrome-print-preview-taking-forever/)
+* [Why Does Chrome Get Slower With More Tabs? A Practical Guide](/articles/why-does-chrome-get-slower-with-more-tabs/)
+* [Chrome Extensions for Social Media Managers](/articles/chrome-extensions-for-social-media-managers/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

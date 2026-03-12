@@ -72,8 +72,8 @@ Now you know exactly how to allow location access for one site in Chrome. Whethe
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome for Web3 Browsing Extensions](/articles/chrome-for-web3-browsing-extensions/)
-* [Chrome Address Autofill How to Manage](/articles/chrome-address-autofill-how-to-manage/)
-* [Best Chrome Extensions for Email Management](/articles/best-chrome-extensions-for-email-management/)
+* [Chrome WebAssembly Explained for Beginners: What It Is and How It Works](/articles/chrome-webassembly-explained-for-beginners/)
+* [Chrome for Hiding Social Media Feeds](/articles/chrome-for-hiding-social-media-feeds/)
+* [Chrome Cleanup Tool Removed: What to Use Instead](/articles/chrome-cleanup-tool-removed-what-to-use-instead/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

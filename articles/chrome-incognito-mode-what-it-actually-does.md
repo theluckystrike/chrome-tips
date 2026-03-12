@@ -84,8 +84,8 @@ Use it for what it's good at — local privacy and fresh browser sessions — an
 *Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
 
 ## Related Articles
-* [Chrome Do Not Track: Does It Actually Work](/articles/chrome-do-not-track-does-it-actually-work/)
-* [Chrome Extensions for uBlock Origin Setup Guide](/articles/chrome-extensions-for-ublock-origin-setup-guide/)
-* [chrome zoom default change](/articles/chrome-zoom-default-change/)
+* [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide/)
+* [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11/)
+* [Chrome Local Storage How to Clear for One Site](/articles/chrome-local-storage-how-to-clear-for-one-site/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

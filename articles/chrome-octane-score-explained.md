@@ -70,8 +70,8 @@ Remember that your time is valuable, and a faster browser means less waiting and
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Structured Clone and Deep Copy: A Complete Guide](/articles/chrome-structured-clone-deep-copy/)
-* [Chrome AI Tab Organization Feature](/articles/chrome-ai-tab-organization-feature/)
-* [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained/)
+* [Does Having Many Chrome Extensions Slow Down Browser](/articles/does-having-many-chrome-extensions-slow-down-browser/)
+* [Chrome Supervised Profiles for Kids](/articles/chrome-supervised-profiles-for-kids/)
+* [Chrome for Instapaper Web Clipper](/articles/chrome-for-instapaper-web-clipper/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

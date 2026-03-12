@@ -70,8 +70,8 @@ Some users find that disabling GPU acceleration is all they need to do to get Ch
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Best New Tab Extension 2026](/articles/chrome-best-new-tab-extension-2026/)
-* [Chrome Split Screen Without Extension](/articles/chrome-split-screen-without-extension/)
-* [Chrome Web Vitals What They Mean](/articles/chrome-web-vitals-what-they-mean/)
+* [Chrome QR Code Generator Extension](/articles/chrome-qr-code-generator-extension/)
+* [Chrome Speed Comparison Test How to Run](/articles/chrome-speed-comparison-test-how-to-run/)
+* [Chrome Dashlane vs 1Password Comparison](/articles/chrome-dashlane-vs-onepassword-comparison/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

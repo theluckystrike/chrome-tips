@@ -70,8 +70,8 @@ The good news is that you can experiment with both and see which one feels bette
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Using 2GB RAM: Is That Normal?](/articles/chrome-using-2gb-ram-is-that-normal/)
-* [How to Customize Chrome Toolbar](/articles/how-to-customize-chrome-toolbar/)
-* [Chrome Enterprise Features for Business: A Complete Guide](/articles/chrome-enterprise-features-for-business/)
+* [Chrome Best Note Taking Extension 2026](/articles/chrome-best-note-taking-extension-2026/)
+* [Chrome Element Inspector Tips and Tricks](/articles/chrome-element-inspector-tips-and-tricks/)
+* [Chrome Media Autoplay How to Block](/articles/chrome-media-autoplay-how-to-block/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -60,8 +60,8 @@ Remember that your email setup is a combination of your operating system setting
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Profile Data Where It Is Stored](/articles/chrome-profile-data-where-it-is-stored/)
-* [Chrome Command Line Flags for Low Memory: A Practical Guide](/articles/chrome-command-line-flags-for-low-memory/)
-* [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works/)
+* [chrome high contrast mode enable guide](/articles/chrome-high-contrast-mode-enable-guide/)
+* [Chrome for Habitica In Browser Tips](/articles/chrome-for-habitica-in-browser-tips/)
+* [Chrome Extension for Changing User Agent](/articles/chrome-extension-for-changing-user-agent/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -78,8 +78,8 @@ The more you use the Font Editor, the more comfortable you will become with DevT
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Why Is My Chrome Tab Using 1GB of Memory? Heres Why and How to Fix It](/articles/chrome-tab-using-1gb-memory-why/)
-* [Chromebook for Seniors Setup Guide](/articles/chromebook-for-seniors-setup-guide/)
-* [Chrome Web Store Reviews How to Spot Fake](/articles/chrome-web-store-reviews-how-to-spot-fake/)
+* [Chrome Audio Equalizer Extension](/articles/chrome-audio-equalizer-extension/)
+* [Chrome vs Arc Browser: Should I Switch?](/articles/chrome-vs-arc-browser-should-i-switch/)
+* [Chrome Extension for Website Blocker Parental](/articles/chrome-extension-for-website-blocker-parental/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

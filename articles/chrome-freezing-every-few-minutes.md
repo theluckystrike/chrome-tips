@@ -123,8 +123,8 @@ If you've tried all these steps and Chrome still freezes regularly, consider:
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [chrome shared array buffer usage](/articles/chrome-shared-array-buffer-usage/)
-* [Chrome Same Site Cookies Explained](/articles/chrome-same-site-cookies-explained/)
-* [Should I Switch to Firefox for Less RAM? A Practical Guide](/articles/should-i-switch-to-firefox-for-less-ram/)
+* [Chrome Dock Icon Missing Fix Mac](/articles/chrome-dock-icon-missing-fix-mac/)
+* [chrome for shopping price comparison tools](/articles/chrome-for-shopping-price-comparison-tools/)
+* [Chrome Devtools Responsive Mode How to Use](/articles/chrome-devtools-responsive-mode-how-to-use/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

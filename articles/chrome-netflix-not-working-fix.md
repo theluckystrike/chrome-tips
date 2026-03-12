@@ -106,8 +106,8 @@ Remember that sometimes a simple restart of your computer or router can fix stre
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/articles/should-i-switch-to-edge-for-speed/)
-* [Chrome Cast Tab to TV Not Working Fix](/articles/chrome-cast-tab-to-tv-not-working-fix/)
-* [Chrome Bookmark Bar Disappeared How to Fix](/articles/chrome-bookmark-bar-disappeared-how-to-fix/)
+* [Chrome for Obsidian Web Clipper Setup](/articles/chrome-for-obsidian-web-clipper-setup/)
+* [Chrome Extensions for JSON Viewer Formatter](/articles/chrome-extensions-for-json-viewer-formatter/)
+* [Chrome Private Aggregation API Explained](/articles/chrome-private-aggregation-api-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

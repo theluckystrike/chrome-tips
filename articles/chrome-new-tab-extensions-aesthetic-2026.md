@@ -66,8 +66,8 @@ Finding the right chrome new tab extension aesthetic for 2026 is all about under
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome User Data Folder Where Is It](/articles/chrome-user-data-folder-where-is-it/)
-* [chrome browser process vs tab process explained](/articles/chrome-browser-process-vs-tab-process-explained/)
-* [Chrome Extensions For Email Productivity](/articles/chrome-extensions-for-email-productivity/)
+* [Chrome Freezing When Too Many Tabs Open: Solutions That Work](/articles/chrome-freezing-when-too-many-tabs-open/)
+* [Chrome Local Font Access API Explained](/articles/chrome-local-font-access-api-explained/)
+* [Chrome Lite Mode Replacement 2026](/articles/chrome-lite-mode-replacement-2026/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

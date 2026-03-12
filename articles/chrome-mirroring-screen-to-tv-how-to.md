@@ -74,8 +74,8 @@ If you run into any issues, the troubleshooting tips above should help you get b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome colorblind mode extensions](/articles/chrome-colorblind-mode-extensions/)
-* [Chrome vs Arc Browser Comparison 2026](/articles/chrome-vs-arc-browser-comparison-2026/)
-* [Chrome 2026 New Features Overview](/articles/chrome-2026-new-features-overview/)
+* [Chrome for Microsoft Teams in Browser Tips](/articles/chrome-for-microsoft-teams-in-browser-tips/)
+* [Chrome Extensions for Password Sharing Securely](/articles/chrome-extensions-for-password-sharing-securely/)
+* [Chrome Google Search Not Working Fix](/articles/chrome-google-search-not-working-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

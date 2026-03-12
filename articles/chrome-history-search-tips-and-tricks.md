@@ -64,8 +64,8 @@ Mastering Chrome's history search takes just a few minutes, but it pays off ever
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Use Chrome on Two Monitors](/articles/how-to-use-chrome-on-two-monitors/)
-* [chrome file handling api explained](/articles/chrome-file-handling-api-explained/)
-* [Chrome chrome.alarms API for Scheduled Tasks](/articles/chrome-chrome.alarms-scheduled-tasks/)
+* [Chrome Extensions For Comparing Prices Across Stores](/articles/chrome-extensions-for-comparing-prices-across-stores/)
+* [How to Turn Off Chrome Notifications on Android](/articles/how-to-turn-off-chrome-notifications-android/)
+* [Chrome Using Too Much Disk Space: A Complete Guide](/articles/chrome-using-too-much-disk-space/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -78,8 +78,8 @@ For users who want to maintain smooth browser performance while using AI feature
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Time Management Extensions](/articles/chrome-for-time-management-extensions/)
-* [Chrome Scroll Snap CSS Practical Guide](/articles/chrome-scroll-snap-css-practical-guide/)
-* [Chrome Address Bar Autocomplete How to Clear](/articles/chrome-address-bar-autocomplete-how-to-clear/)
+* [Chrome Accessibility Screen Reader Support](/articles/chrome-accessibility-screen-reader-support/)
+* [Chrome for Todoist Web App Best Settings](/articles/chrome-for-todoist-web-app-best-settings/)
+* [Best Browser for Low RAM Computer 2026](/articles/best-browser-for-low-ram-computer-2026/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -70,8 +70,8 @@ Make it a habit to clear data for websites that are acting up, and your browsing
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use/)
-* [Chrome Update Failed Error 12 Fix](/articles/chrome-update-failed-error-12-fix/)
-* [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide/)
+* [Chrome CSS Grid Layout Complete Guide](/articles/chrome-css-grid-layout-complete-guide/)
+* [Chrome Site Isolation What It Means](/articles/chrome-site-isolation-what-it-means/)
+* [Chrome Tab Stacking How to Use](/articles/chrome-tab-stacking-how-to-use/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

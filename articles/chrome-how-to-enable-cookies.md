@@ -90,8 +90,8 @@ Chrome cookie settings are designed to give you control while still allowing web
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Download All Images from a Web Page in Chrome](/articles/chrome-download-all-images-from-page-how-to/)
-* [chrome security check how to run](/articles/chrome-security-check-how-to-run/)
-* [chrome lighthouse performance score explained simply](/articles/chrome-lighthouse-performance-score-explained-simply/)
+* [Chrome Extensions for Session Saver Restore](/articles/chrome-extensions-for-session-saver-restore/)
+* [Chrome Google Maps Keyboard Shortcuts](/articles/chrome-google-maps-keyboard-shortcuts/)
+* [Chrome Slow on Chromebook? Heres How to Fix It](/articles/chrome-slow-on-chromebook-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

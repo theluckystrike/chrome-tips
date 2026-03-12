@@ -70,8 +70,8 @@ The key is to find the combination of tools and habits that works best for your 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extension for Translating Selected Text](/articles/chrome-extension-for-translating-selected-text/)
-* [Chrome for Clearing Browsing Data Automatically](/articles/chrome-for-clearing-browsing-data-automatically/)
-* [How to Enable Chrome Tab Preview on Hover](/articles/chrome-tab-preview-hover-how-to-enable/)
+* [Chrome Lazy Loading Images How It Works](/articles/chrome-lazy-loading-images-how-it-works/)
+* [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions/)
+* [chrome on raspberry pi how to install](/articles/chrome-on-raspberry-pi-how-to-install/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

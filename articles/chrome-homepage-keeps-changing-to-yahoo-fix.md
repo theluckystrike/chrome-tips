@@ -58,8 +58,8 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [How to Use Chrome Profiles Properly — The Complete Guide](/articles/how-to-use-chrome-profiles-properly/)
-* [Chrome Scaling Blurry on External Monitor Fix](/articles/chrome-scaling-blurry-on-external-monitor-fix/)
-* [Chrome Browser Cloud Management Explained](/articles/chrome-browser-cloud-management-explained/)
+* [chrome extensions for screen recording free](/articles/chrome-extensions-for-screen-recording-free/)
+* [Chrome vs Firefox on an Old Laptop — Which Is Better?](/articles/chrome-vs-firefox-on-old-laptop/)
+* [Chrome Location Tracking How to Disable](/articles/chrome-location-tracking-how-to-disable/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

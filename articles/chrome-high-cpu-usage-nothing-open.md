@@ -74,8 +74,8 @@ Chrome high cpu usage nothing open is annoying but almost always fixable. Start 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Save Open Tabs as Bookmarks All at Once](/articles/chrome-save-open-tabs-as-bookmarks-all-at-once/)
-* [chrome voice search how to use](/articles/chrome-voice-search-how-to-use/)
-* [chrome videos buffering slow fix](/articles/chrome-videos-buffering-slow-fix/)
+* [Chrome Reading Mode vs Reader View Extensions](/articles/chrome-reading-mode-vs-reader-view-extensions/)
+* [Chrome Popover API: Modal vs Non-Modal Popovers Explained](/articles/chrome-popover-api-modal-vs-non-modal/)
+* [Best Chrome Extensions for Twitter X](/articles/best-chrome-extensions-for-twitter-x/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

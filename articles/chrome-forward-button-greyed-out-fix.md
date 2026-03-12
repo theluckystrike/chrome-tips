@@ -96,8 +96,8 @@ Sometimes browser problems can be related to malware or unwanted programs on you
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome extensions for image reverse search](/articles/chrome-extensions-for-image-reverse-search/)
-* [Chrome Extensions for Note Taking in Meetings](/articles/chrome-extensions-for-note-taking-in-meetings/)
-* [Chrome Window Too Small Cant Resize Fix](/articles/chrome-window-too-small-cant-resize-fix/)
+* [how to delete chrome browsing data automatically](/articles/how-to-delete-chrome-browsing-data-automatically/)
+* [Chrome Spectre Vulnerability Protection](/articles/chrome-spectre-vulnerability-protection/)
+* [Chrome Set Methods: Union and Intersection Made Simple](/articles/chrome-set-methods-union-intersection/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

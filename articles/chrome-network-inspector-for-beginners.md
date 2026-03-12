@@ -82,8 +82,8 @@ The Network Inspector is one of those features that seems technical at first but
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Built-In Screenshot Tool](/articles/chrome-built-in-screenshot-tool/)
-* [How to Change Chrome Language Settings](/articles/how-to-change-chrome-language-settings/)
-* [Google Chrome vs Chromium Difference Explained](/articles/google-chrome-vs-chromium-difference-explained/)
+* [chrome for apple music web player tips](/articles/chrome-for-apple-music-web-player-tips/)
+* [Chrome File Handling API PWA Guide](/articles/chrome-file-handling-api-pwa-guide/)
+* [Largest Contentful Paint Chrome Fix](/articles/largest-contentful-paint-chrome-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

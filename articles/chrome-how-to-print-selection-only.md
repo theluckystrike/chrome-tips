@@ -90,8 +90,8 @@ Give these methods a try on your next printing task. You might be surprised how 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extensions for Lo Fi Music](/articles/chrome-extensions-for-lo-fi-music/)
-* [Chrome Layout Instability API Explained](/articles/chrome-layout-instability-api-explained/)
-* [Chrome Dark Mode How To Enable](/articles/chrome-dark-mode-how-to-enable/)
+* [Chrome Extensions for Lighthouse Alternative](/articles/chrome-extensions-for-lighthouse-alternative/)
+* [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly/)
+* [Chrome Smooth Scrolling How to Enable](/articles/chrome-smooth-scrolling-how-to-enable/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -84,8 +84,8 @@ Remember to refresh your pages after changing the override, verify that the webs
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chromebook Guest Mode What It Does](/articles/chromebook-guest-mode-what-it-does/)
-* [Chrome Lite Mode Data Saver Replacement](/articles/chrome-lite-mode-data-saver-replacement/)
-* [Chrome for Disney Plus Not Working Fix](/articles/chrome-for-disney-plus-not-working-fix/)
+* [Chrome Text to Speech Built In Feature](/articles/chrome-text-to-speech-built-in-feature/)
+* [Chrome Casting to TV How to Setup](/articles/chrome-casting-to-tv-how-to-setup/)
+* [Chrome Extensions for Watermark Remover](/articles/chrome-extensions-for-watermark-remover/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

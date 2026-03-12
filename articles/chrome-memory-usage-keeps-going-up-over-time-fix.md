@@ -80,8 +80,8 @@ Monitor memory usage using Chrome Task Manager. Press Shift+Escape to open it an
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Network Tab: How to Use and Debug Network Requests](/articles/chrome-network-tab-how-to-use-debug/)
-* [Chrome for Website Blocking During Work](/articles/chrome-for-website-blocking-during-work/)
-* [chrome for shopping price comparison tools](/articles/chrome-for-shopping-price-comparison-tools/)
+* [Chrome for Keyboard Shortcut Customization](/articles/chrome-for-keyboard-shortcut-customization/)
+* [How to Change Chrome Font Size Permanently](/articles/chrome-font-size-permanently-change/)
+* [Chrome Cookie Consent Popups How to Auto Reject](/articles/chrome-cookie-consent-popups-how-to-auto-reject/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

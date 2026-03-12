@@ -82,8 +82,8 @@ Finally, pay attention to how your browser behaves. If you notice new slowdowns 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Spectre Attack Protection in Browser](/articles/chrome-spectre-attack-protection-in-browser/)
-* [Chrome This Site Cant Provide a Secure Connection Fix](/articles/chrome-this-site-cant-provide-a-secure-connection-fix/)
-* [Chrome Slow on iPad Fix 2026](/articles/chrome-slow-on-ipad-fix-2026/)
+* [Chrome for Stable Diffusion Web UI Tips](/articles/chrome-for-stable-diffusion-web-ui-tips/)
+* [Chrome Startup Too Slow Diagnosis Guide](/articles/chrome-startup-too-slow-diagnosis-guide/)
+* [Chrome Extension Side Panel Tutorial](/articles/chrome-extension-side-panel-tutorial/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

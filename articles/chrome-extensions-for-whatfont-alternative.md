@@ -66,8 +66,8 @@ Take some time to try a few different extensions to find the one that works best
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome DevTools Emulate Vision Deficiencies](/articles/chrome-devtools-emulate-vision-deficiencies/)
-* [Chrome About Memory Page Explained](/articles/chrome-about-memory-page-explained/)
-* [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings/)
+* [Chrome Tab Search Feature How to Use](/articles/chrome-tab-search-feature-how-to-use/)
+* [Chrome Extensions for Web Scraping Without Code](/articles/chrome-extensions-for-web-scraping-without-code/)
+* [Chrome Opens Old Tabs on Startup How to Stop](/articles/chrome-opens-old-tabs-on-startup-how-to-stop/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

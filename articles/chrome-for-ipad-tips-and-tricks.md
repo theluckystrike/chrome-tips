@@ -84,8 +84,8 @@ One common problem iPad users face is Chrome running slowly when too many tabs a
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Web Codec API Video Processing](/articles/chrome-web-codec-api-video-processing/)
-* [Chrome Extensions for Mockup Creator](/articles/chrome-extensions-for-mockup-creator/)
-* [chrome for apple music web player tips](/articles/chrome-for-apple-music-web-player-tips/)
+* [Chrome iOS Tips and Tricks for 2026](/articles/chrome-ios-tips-and-tricks-2026/)
+* [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/articles/chrome-slows-down-after-opening-20-tabs/)
+* [Chrome Passkeys Guide 2026](/articles/chrome-passkeys-guide-2026/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

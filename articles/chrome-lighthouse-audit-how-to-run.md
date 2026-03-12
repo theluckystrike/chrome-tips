@@ -78,8 +78,8 @@ Remember that good performance leads to better user experience, higher search ra
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Check If Chrome Extension Is Safe](/articles/how-to-check-if-chrome-extension-is-safe/)
-* [chrome for video downloading legal methods](/articles/chrome-for-video-downloading-legal-methods/)
-* [Chrome Virtual Keyboard API for Mobile - Complete Guide](/articles/chrome-virtual-keyboard-api-mobile/)
+* [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser/)
+* [Chrome This Site Cant Be Reached Fix](/articles/chrome-this-site-cant-be-reached-fix/)
+* [chrome web share api how it works](/articles/chrome-web-share-api-how-it-works/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

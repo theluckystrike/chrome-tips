@@ -56,8 +56,8 @@ You might also want to print out a cheat sheet of Chrome shortcuts and keep it n
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Status Code 404 Not Found Explained](/articles/chrome-status-code-404-not-found-explained/)
-* [Chrome PDF Not Opening Fix](/articles/chrome-pdf-not-opening-fix/)
-* [Best Chrome Extensions for Working From Home](/articles/best-chrome-extensions-for-working-from-home/)
+* [Chrome Notifications How to Stop Them](/articles/chrome-notifications-how-to-stop-them/)
+* [Chrome Extensions For Diigo](/articles/chrome-extensions-for-diigo/)
+* [Chrome Extensions for WebRTC Leak Prevention](/articles/chrome-extensions-for-webrtc-leak-prevention/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

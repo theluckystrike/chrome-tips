@@ -64,8 +64,8 @@ Memory Saver handles the heavy lifting so you can focus on your work without wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Stable Diffusion Web UI Tips](/articles/chrome-for-stable-diffusion-web-ui-tips/)
-* [Chrome for Mendeley Web Importer Tips](/articles/chrome-for-mendeley-web-importer-tips/)
-* [Chrome Smooth Scroll Stuttering Fix](/articles/chrome-smooth-scroll-stuttering-fix/)
+* [Chrome Bookmarks Disappeared — How to Recover Your Lost Bookmarks](/articles/chrome-bookmarks-disappeared-how-to-recover/)
+* [Chrome Extension for Video Speed Controller](/articles/chrome-extension-for-video-speed-controller/)
+* [Chrome Not Responding? Force Close It This Way](/articles/chrome-not-responding-force-close-how/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

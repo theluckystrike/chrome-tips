@@ -80,8 +80,8 @@ For casual sharing of your computer with family members or guests, Guest mode wo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Best Chrome Flags to Speed Up Browsing 2024](/articles/best-chrome-flags-to-speed-up-browsing-2024/)
-* [Chrome Profile Specific Extensions How to Set](/articles/chrome-profile-specific-extensions-how-to-set/)
-* [chrome reduce data usage mobile](/articles/chrome-reduce-data-usage-mobile/)
+* [Chrome Tab Stacking How to Use](/articles/chrome-tab-stacking-how-to-use/)
+* [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop/)
+* [Best Tab Suspender to Save Memory 2026](/articles/best-tab-suspender-to-save-memory-2026/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

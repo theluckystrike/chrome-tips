@@ -70,8 +70,8 @@ Remember that less is often more when it comes to browser extensions. Having too
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Dinosaur Game Hidden Features](/articles/chrome-dinosaur-game-hidden-features/)
-* [Laptop Fan Loud When Using Chrome Fix](/articles/laptop-fan-loud-when-using-chrome-fix/)
-* [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms/)
+* [Chrome Black Screen Fix](/articles/chrome-black-screen-fix/)
+* [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites/)
+* [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

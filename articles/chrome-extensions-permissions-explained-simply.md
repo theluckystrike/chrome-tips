@@ -100,8 +100,8 @@ The next time you see a permission popup, do not just click through automaticall
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Same Site Cookies Explained](/articles/chrome-same-site-cookies-explained/)
-* [Chrome for Tab Sleeping vs Tab Suspending Difference](/articles/chrome-for-tab-sleeping-vs-tab-suspending-difference/)
-* [4GB RAM Laptop Best Browser Settings](/articles/4gb-ram-laptop-best-browser-settings/)
+* [Chrome for Substack Reading Tips](/articles/chrome-for-substack-reading-tips/)
+* [Chrome Address Bar Shortcuts You Should Know](/articles/chrome-address-bar-shortcuts-you-should-know/)
+* [Chrome Profile Specific Extensions How to Set](/articles/chrome-profile-specific-extensions-how-to-set/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

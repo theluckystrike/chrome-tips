@@ -62,8 +62,8 @@ Using tools like this, along with keeping your browser updated, can help you get
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Spectre Attack Protection in Browser](/articles/chrome-spectre-attack-protection-in-browser/)
-* [Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide/)
-* [Chrome Notifications How to Stop Them](/articles/chrome-notifications-how-to-stop-them/)
+* [Chrome Screenshot Command Line Batch: Complete Automation Guide](/articles/chrome-screenshot-command-line-batch/)
+* [chrome profile name how to change](/articles/chrome-profile-name-how-to-change/)
+* [Chrome Memory Saver Mode How to Use](/articles/chrome-memory-saver-mode-how-to-use/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -54,8 +54,8 @@ Losing tabs after an update is annoying, but with the right habits and tools, yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Eating All My RAM? Reddit Users Share Their Solutions](/articles/chrome-eating-all-my-ram-reddit-solutions/)
-* [Chrome Using Too Much Battery on Laptop? Fix It Now](/articles/chrome-using-too-much-battery-on-laptop-fix/)
-* [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app/)
+* [Chrome Address Autofill How to Manage](/articles/chrome-address-autofill-how-to-manage/)
+* [Chrome Browser vs App Which Uses More Data](/articles/chrome-browser-vs-app-which-uses-more-data/)
+* [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

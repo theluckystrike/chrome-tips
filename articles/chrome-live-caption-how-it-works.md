@@ -70,8 +70,8 @@ The technology behind live caption continues to improve as Google refines its sp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Make Chrome Kid-Friendly](/articles/how-to-make-chrome-kid-friendly/)
-* [Chrome for Productivity Dashboard New Tab](/articles/chrome-for-productivity-dashboard-new-tab/)
-* [Chrome Performance Observer API Guide](/articles/chrome-performance-observer-api-guide/)
+* [Chrome Slow on 10 Year Old Laptop Fix](/articles/chrome-slow-on-10-year-old-laptop-fix/)
+* [The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Browser](/articles/chrome-omnibox-calculator-trick/)
+* [Chrome Making My Whole PC Lag Fix: Restore Your Systems Speed](/articles/chrome-making-my-whole-pc-lag-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

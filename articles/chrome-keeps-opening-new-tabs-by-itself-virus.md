@@ -46,8 +46,8 @@ Remember, while the phrase "chrome keeps opening new tabs by itself virus" sugge
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for News Reading Best Setup](/articles/chrome-for-news-reading-best-setup/)
-* [How to Stop Chrome from Opening on Startup](/articles/how-to-stop-chrome-from-opening-on-startup/)
-* [Chrome Microphone Not Working Fix](/articles/chrome-microphone-not-working-fix/)
+* [Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover](/articles/chrome-anchor-positioning-css/)
+* [Best Chrome Extensions for HR Professionals](/articles/best-chrome-extensions-for-hr-professionals/)
+* [Chrome View Page Resources How to](/articles/chrome-view-page-resources-how-to/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

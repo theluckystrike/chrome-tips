@@ -60,8 +60,8 @@ Flushing socket pools is a simple yet powerful troubleshooting step that should 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extensions for Google Slides](/articles/chrome-extensions-for-google-slides/)
-* [chrome clipboard permission explained](/articles/chrome-clipboard-permission-explained/)
-* [chrome extensions for auto page refresh](/articles/chrome-extensions-for-auto-page-refresh/)
+* [Chrome for Custom Cursor Extensions](/articles/chrome-for-custom-cursor-extensions/)
+* [Chrome Live Captions How to Enable](/articles/chrome-live-captions-how-to-enable/)
+* [Chrome Bookmark Bar Disappeared How to Get Back](/articles/chrome-bookmark-bar-disappeared-how-to-get-back/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

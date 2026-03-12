@@ -78,8 +78,8 @@ Take a moment to review your current defaults and make sure they match what you 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Guest Mode Explained](/articles/chrome-guest-mode-explained/)
-* [chrome for protonmail in chrome setup](/articles/chrome-for-protonmail-in-chrome-setup/)
-* [Chrome Devtools Font Editor Tool](/articles/chrome-devtools-font-editor-tool/)
+* [Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers](/articles/chrome-video-playback-stuttering-fix/)
+* [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips/)
+* [Chrome vs Firefox Memory Usage Test 2026](/articles/chrome-vs-firefox-memory-usage-test-2026/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

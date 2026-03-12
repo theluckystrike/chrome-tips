@@ -62,8 +62,8 @@ In Chrome Task Manager, you can see how much memory and CPU each tab and extensi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Crashing on Low Memory Computer](/articles/chrome-crashing-on-low-memory-computer/)
-* [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension/)
-* [Chrome for Nature Sounds While Studying](/articles/chrome-for-nature-sounds-while-studying/)
+* [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks/)
+* [Chrome Extensions For Coupon Finder Automatic](/articles/chrome-extensions-for-coupon-finder-automatic/)
+* [Chrome Extension for Reading Speed Tracker](/articles/chrome-extension-for-reading-speed-tracker/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -64,8 +64,8 @@ Whatever method you choose, the key is consistency. Check your chosen system reg
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome extensions for whatfont alternative](/articles/chrome-extensions-for-whatfont-alternative/)
-* [Chrome Cookie Consent Popups How to Auto Reject](/articles/chrome-cookie-consent-popups-how-to-auto-reject/)
-* [Chrome CSS Animations Performance Tips](/articles/chrome-css-animations-performance-tips/)
+* [Chrome Default Apps Settings: A Complete Guide](/articles/chrome-default-apps-settings/)
+* [Chrome Network Tab: How to Use and Debug Network Requests](/articles/chrome-network-tab-how-to-use-debug/)
+* [Chrome Guest Mode What Gets Saved](/articles/chrome-guest-mode-what-gets-saved/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

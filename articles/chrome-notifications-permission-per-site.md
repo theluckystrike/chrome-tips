@@ -84,8 +84,8 @@ The most important thing is to regularly check who has permission to notify you.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Best Chrome Extensions for Accessibility Needs](/articles/best-chrome-extensions-for-accessibility-needs/)
-* [How to Share Chrome Tabs in Video Calls](/articles/how-to-share-chrome-tabs-in-video-calls/)
-* [chrome extensions for one click bookmark folders](/articles/chrome-extensions-for-one-click-bookmark-folders/)
+* [Chrome Shared Storage API Explained](/articles/chrome-shared-storage-api-explained/)
+* [How to Speed Up Chrome on Chromebook in 2026](/articles/how-to-speed-up-chrome-on-chromebook-2026/)
+* [Chrome Tabs Flickering and Glitching Fix](/articles/chrome-tabs-flickering-and-glitching/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

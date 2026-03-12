@@ -80,8 +80,8 @@ Start by trying the Chrome Flags method first, since it requires no installation
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Extension Settings Sync Across Devices](/articles/chrome-extension-settings-sync-across-devices/)
-* [Chrome Safe Browsing Protection Levels Explained](/articles/chrome-safe-browsing-protection-levels-explained/)
-* [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling/)
+* [chrome data saver mode how to reduce data usage](/articles/chrome-data-saver-mode-how-to-reduce-data-usage/)
+* [Why Is Chrome Using So Much Memory](/articles/why-is-chrome-using-so-much-memory/)
+* [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

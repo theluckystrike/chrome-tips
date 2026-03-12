@@ -76,8 +76,8 @@ Taking control of JavaScript on a per-site basis gives you a more private, faste
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Midjourney Web Tips](/articles/chrome-for-midjourney-web-tips/)
-* [Chrome Developer Mode Extensions Guide](/articles/chrome-developer-mode-extensions/)
-* [Chrome for Language Translation Extensions Comparison](/articles/chrome-for-language-translation-extensions-comparison/)
+* [Chrome Using Too Much Disk Space: A Complete Guide](/articles/chrome-using-too-much-disk-space/)
+* [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom/)
+* [How to Uninstall Chrome Completely and Reinstall](/articles/how-to-uninstall-chrome-completely-and-reinstall/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

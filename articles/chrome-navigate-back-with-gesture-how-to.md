@@ -62,8 +62,8 @@ Learning how to navigate back with gesture controls can save you time and make y
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome for yahoo mail best extensions](/articles/chrome-for-yahoo-mail-best-extensions/)
-* [chrome profile picture how to change](/articles/chrome-profile-picture-how-to-change/)
-* [Chrome Extensions for Tab Notes](/articles/chrome-extensions-for-tab-notes/)
+* [Chrome Hijacked Homepage Fix](/articles/chrome-hijacked-homepage-fix/)
+* [How to Limit Chrome Memory Usage Mac](/articles/how-to-limit-chrome-memory-usage-mac/)
+* [Chrome Memory Saver Mode How to Use](/articles/chrome-memory-saver-mode-how-to-use/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

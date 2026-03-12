@@ -70,8 +70,8 @@ Using the Gamepad API in Chrome is a great way to enjoy web games with a control
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Extensions for Sales Prospecting](/articles/chrome-extensions-for-sales-prospecting/)
-* [Chrome Event Timing API Explained](/articles/chrome-event-timing-api-explained/)
-* [Chrome Extensions for Video Playback Speed Control](/articles/chrome-extensions-for-video-playback-speed-control/)
+* [Chrome Content Filtering for Families](/articles/chrome-content-filtering-for-families/)
+* [Chrome Restore Previous Session After Crash](/articles/chrome-restore-previous-session-after-crash/)
+* [chrome extensions for privacy badger alternative](/articles/chrome-extensions-for-privacy-badger-alternative/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

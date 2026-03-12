@@ -76,8 +76,8 @@ If you find yourself constantly running into memory limits, consider adding Tab 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chromebook vs Windows Laptop for Browsing](/articles/chromebook-vs-windows-laptop-for-browsing/)
-* [Chrome Profile Backup How to Save](/articles/chrome-profile-backup-how-to-save/)
-* [Chrome Popover API Explained](/articles/chrome-popover-api-explained/)
+* [Chrome IP Protection Feature Explained](/articles/chrome-ip-protection-feature-explained/)
+* [Chrome Extensions for Photographers 2026](/articles/chrome-extensions-for-photographers-2026/)
+* [Chrome for Fitness Tracking Web Apps](/articles/chrome-for-fitness-tracking-web-apps/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

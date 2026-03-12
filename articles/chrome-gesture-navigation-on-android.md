@@ -100,8 +100,8 @@ If you frequently have many tabs open and notice performance issues, consider us
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [chrome circle to search on desktop](/articles/chrome-circle-to-search-on-desktop/)
-* [Chrome Extension for Saving Articles Offline](/articles/chrome-extension-for-saving-articles-offline/)
-* [Chrome Extensions for Tab Previewer Hover](/articles/chrome-extensions-for-tab-previewer-hover/)
+* [How to Find a Tab by Name in Chrome: Complete Guide](/articles/chrome-find-tab-by-name-search/)
+* [chrome upcoming features roadmap 2026](/articles/chrome-upcoming-features-roadmap-2026/)
+* [Chrome Strict Site Isolation: Should I Enable](/articles/chrome-strict-site-isolation-should-i-enable/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

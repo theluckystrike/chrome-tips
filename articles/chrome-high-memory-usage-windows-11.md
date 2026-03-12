@@ -70,8 +70,8 @@ For most users, the steps above will significantly reduce Chrome's memory usage 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome enrollment for schools how it works](/articles/chrome-enrollment-for-schools-how-it-works/)
-* [Chrome Proxy Settings Guide](/articles/chrome-proxy-settings-guide/)
-* [Chrome Copy Paste Not Working Fix](/articles/chrome-copy-paste-not-working-fix/)
+* [Chrome for Discord Web App Optimization](/articles/chrome-for-discord-web-app-optimization/)
+* [How to Sync Everything Between Your Phone and Laptop with Chrome](/articles/chrome-sync-everything-between-phone-and-laptop/)
+* [Chrome Malware Removal Without Antivirus](/articles/chrome-malware-removal-without-antivirus/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

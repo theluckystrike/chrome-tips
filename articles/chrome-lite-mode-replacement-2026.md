@@ -70,8 +70,8 @@ Take some time to experiment with different approaches. You may find that a comb
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Clipboard API: Copy and Paste in Modern Web Apps](/articles/chrome-clipboard-api-copy-paste/)
-* [Chrome: The Most Used Browser in the World — Why?](/articles/chrome-most-used-browser-in-the-world-why/)
-* [Chrome Copy Paste Not Working Fix](/articles/chrome-copy-paste-not-working-fix/)
+* [Chrome NFC API: Web NFC Explained](/articles/chrome-nfc-api-web-nfc-explained/)
+* [Chrome Enhanced Safe Browsing Guide](/articles/chrome-enhanced-safe-browsing/)
+* [Chrome Feature Policy vs Permissions Policy Understanding the Difference](/articles/chrome-feature-policy-permissions-policy/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -94,8 +94,8 @@ Finally, lead by example. Show your children how you use technology responsibly 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Mendeley Web Importer Tips](/articles/chrome-for-mendeley-web-importer-tips/)
-* [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome/)
-* [How to Fix Chrome Downloads Stuck at 100 Percent](/articles/chrome-downloads-stuck-at-100-percent/)
+* [Chrome Print Preview Taking Forever: Practical Solutions](/articles/chrome-print-preview-taking-forever/)
+* [chrome extensions for whatfont alternative](/articles/chrome-extensions-for-whatfont-alternative/)
+* [Chrome GPU Acceleration Causing Problems Fix](/articles/chrome-gpu-acceleration-causing-problems-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

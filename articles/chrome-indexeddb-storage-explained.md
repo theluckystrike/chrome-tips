@@ -58,8 +58,8 @@ Using tools like this along with regular attention to your storage settings can 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Custom Search Engines Setup](/articles/chrome-for-custom-search-engines-setup/)
-* [Chrome Accessibility Features Guide: Everything You Need to Know](/articles/chrome-accessibility-features-guide/)
-* [chrome zoom default change](/articles/chrome-zoom-default-change/)
+* [Chrome Extensions for API Testing Simple](/articles/chrome-extensions-for-api-testing-simple/)
+* [Chrome Energy Saver Mode What Does It Do](/articles/chrome-energy-saver-mode-what-does-it-do/)
+* [Chrome Extensions for Video Conferencing Enhancement](/articles/chrome-extensions-for-video-conferencing-enhancement/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

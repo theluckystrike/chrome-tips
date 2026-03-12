@@ -66,8 +66,8 @@ Understanding how gap works will save you a lot of frustration when working with
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extensions Causing Lag: Which One Is Slowing You Down?](/articles/chrome-extensions-causing-lag-which-one/)
-* [Chrome Payment Request API Explained](/articles/chrome-payment-request-api-explained/)
-* [Best Chrome Extensions for Social Media](/articles/best-chrome-extensions-for-social-media/)
+* [Chrome iPhone vs Safari Which is Better](/articles/chrome-iphone-vs-safari-which-is-better/)
+* [chrome extensions for ruler measurement](/articles/chrome-extensions-for-ruler-measurement/)
+* [Chrome Multiple Windows vs Tabs Which Is Better](/articles/chrome-multiple-windows-vs-tabs-which-is-better/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

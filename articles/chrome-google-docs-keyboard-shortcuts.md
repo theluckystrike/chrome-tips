@@ -84,8 +84,8 @@ With these chrome google docs keyboard shortcuts in your toolkit, you are now eq
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extensions for Organizing Research](/articles/chrome-extensions-for-organizing-research/)
-* [Chrome Wont Install on Windows 11 Fix](/articles/chrome-wont-install-on-windows-11-fix/)
-* [Chrome Mobile Reading List How to Use](/articles/chrome-mobile-reading-list-how-to-use/)
+* [Chrome Was Fast, Now Its Slow - What Happened?](/articles/chrome-was-fast-now-its-slow-what-happened/)
+* [Chrome Extensions Update Frequency Explained](/articles/chrome-extensions-update-frequency-explained/)
+* [chrome taking too long to open fix](/articles/chrome-taking-too-long-to-open-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

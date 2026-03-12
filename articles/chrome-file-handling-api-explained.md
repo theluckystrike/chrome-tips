@@ -80,8 +80,8 @@ As web applications continue to evolve, features like file handling are making t
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Extension for Focus Mode Block Distractions](/articles/chrome-extension-for-focus-mode-block-distractions/)
-* [Chrome Extensions for Lawyers Legal Research](/articles/chrome-extensions-for-lawyers-legal-research/)
-* [Chrome How to Inspect Element Beginners](/articles/chrome-how-to-inspect-element-beginners/)
+* [chromebook touchscreen not working fix](/articles/chromebook-touchscreen-not-working-fix/)
+* [Chrome Resource Timing API Explained](/articles/chrome-resource-timing-api-explained/)
+* [How to Manage and Disable Chrome Push Notifications](/articles/chrome-push-notifications-manage-disable/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -77,8 +77,8 @@ Finally, remember that the "web" of 2026 is much heavier than it was five years 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Web Push Notifications Setup Guide](/articles/chrome-web-push-notifications-setup-guide/)
-* [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained/)
-* [chrome lighthouse audit how to run](/articles/chrome-lighthouse-audit-how-to-run/)
+* [Chrome User Timing API Explained](/articles/chrome-user-timing-api-explained/)
+* [Chrome Omnibox Tricks You Should Know](/articles/chrome-omnibox-tricks-you-should-know/)
+* [Chrome Geolocation Permission Settings](/articles/chrome-geolocation-permission-settings/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

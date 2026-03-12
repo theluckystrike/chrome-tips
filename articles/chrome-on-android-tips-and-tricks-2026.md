@@ -102,8 +102,8 @@ When you visit a page in a foreign language, Chrome automatically offers to tran
 Long-press the Chrome icon on your home screen. A shortcut to **"New Incognito tab"** appears. Tap it to jump directly into private browsing without opening Chrome first. This is the fastest way to start a private session.
 
 ## Related Articles
-* [Chrome Application Panel Guide](/articles/chrome-application-panel-guide/)
-* [Chrome Picture in Picture How to Use](/articles/chrome-picture-in-picture-how-to-use/)
-* [Chrome Extensions For Citation Generator](/articles/chrome-extensions-for-citation-generator/)
+* [Chrome Dashlane vs 1Password Comparison](/articles/chrome-dashlane-vs-onepassword-comparison/)
+* [Chrome Lite Mode Does It Still Exist](/articles/chrome-lite-mode-does-it-still-exist/)
+* [Chrome Extensions for Session Buddy](/articles/chrome-extensions-for-session-buddy/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

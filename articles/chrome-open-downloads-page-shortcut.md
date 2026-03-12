@@ -82,8 +82,8 @@ You can also type **chrome://downloads** in the address bar or click the **Downl
 Once you start using the keyboard shortcut, you will wonder how you ever managed without it. It is one of those small time-savers that makes using Chrome much more convenient.
 
 ## Related Articles
-* [Chrome CDP Protocol Explained Simply](/articles/chrome-cdp-protocol-explained-simply/)
-* [Chrome Default Search Engine Changed How to Fix](/articles/chrome-default-search-engine-changed-how-to-fix/)
-* [Chrome for Binance Web Trading Tips](/articles/chrome-for-binance-web-trading-tips/)
+* [Chrome for Cryptocurrency Tracking Extensions](/articles/chrome-for-cryptocurrency-tracking-extensions/)
+* [Chrome Google Drive Integration Save to Drive](/articles/chrome-google-drive-integration-save-to-drive/)
+* [Chrome Split Screen Two Tabs Side by Side](/articles/chrome-split-screen-two-tabs-side-by-side/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -78,8 +78,8 @@ Chrome popup settings are designed to give you control while still protecting yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Black Screen Fix](/articles/chrome-black-screen-fix/)
-* [Computer Fan Goes Crazy When Chrome Opens - Fix It Fast](/articles/computer-fan-goes-crazy-when-chrome-opens/)
-* [Best Chrome Extensions for Photographers](/articles/best-chrome-extensions-for-photographers/)
+* [Best Chrome Settings for a Slow Computer](/articles/best-chrome-settings-for-slow-computer/)
+* [chrome for apple notes in browser workaround](/articles/chrome-for-apple-notes-in-browser-workaround/)
+* [Best Way to Organize Chrome Tabs](/articles/best-way-to-organize-chrome-tabs/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

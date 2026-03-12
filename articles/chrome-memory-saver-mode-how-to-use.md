@@ -84,8 +84,8 @@ Memory Saver handles the heavy lifting so you can focus on your work without wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips/)
-* [Chrome Tab Audio How to Mute](/articles/chrome-tab-audio-how-to-mute/)
-* [Chrome WebAssembly Explained for Beginners: What It Is and How It Works](/articles/chrome-webassembly-explained-for-beginners/)
+* [chrome classroom integration tips for teachers](/articles/chrome-classroom-integration-tips-for-teachers/)
+* [Chrome Extensions for Keyword Research Free](/articles/chrome-extensions-for-keyword-research-free/)
+* [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

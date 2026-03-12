@@ -74,8 +74,8 @@ Finally, remember that clearing your browser cache and cookies might reset some 
 Managing your trusted sites in Chrome gives you better control over your privacy and browsing experience. By taking a few minutes to review and organize your permissions, you can ensure that only the websites you trust have access to the features they need.
 
 ## Related Articles
-* [Best Chrome Extensions for Online Research](/articles/chrome-extensions-for-online-research/)
-* [How to Reset Chrome Settings Without Losing Bookmarks](/articles/chrome-reset-settings-without-losing-bookmarks/)
-* [Chrome Tabs Taking Forever to Load? Heres What to Do](/articles/chrome-tabs-taking-forever-to-load/)
+* [How to Pin a Website in Chrome Taskbar](/articles/how-to-pin-a-website-in-chrome-taskbar/)
+* [Chrome Tab Search Keyboard Shortcut - Find Open Tabs Instantly](/articles/chrome-tab-search-keyboard-shortcut/)
+* [Chrome Freezes My Whole Computer](/articles/chrome-freezes-my-whole-computer/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -70,8 +70,8 @@ Remember that extensions are helpers, not replacements for good meeting habits. 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [chrome for apartments.com search tips](/articles/chrome-for-apartmentscom-search-tips/)
-* [Chrome Extensions for Lighthouse Alternative](/articles/chrome-extensions-for-lighthouse-alternative/)
-* [Chrome Extensions for Split Tabs](/articles/chrome-extensions-for-split-tabs/)
+* [Chrome Extensions for Google Drive](/articles/chrome-extensions-for-google-drive/)
+* [Chrome Upcoming Features Preview 2026](/articles/chrome-upcoming-features-preview-2026/)
+* [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

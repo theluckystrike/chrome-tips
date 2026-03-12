@@ -60,8 +60,8 @@ If you spend a lot of time switching between different device views or testing m
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Cloud Gaming Best Settings](/articles/chrome-for-cloud-gaming-best-settings/)
-* [chrome colorblind mode extensions](/articles/chrome-colorblind-mode-extensions/)
-* [Chrome Netflix Not Working Fix](/articles/chrome-netflix-not-working-fix/)
+* [Chrome Virtual Keyboard API for Mobile - Complete Guide](/articles/chrome-virtual-keyboard-api-mobile/)
+* [How to See Chrome Memory Usage in Task Manager](/articles/how-to-see-chrome-memory-usage-in-task-manager/)
+* [chrome shared storage api privacy ads](/articles/chrome-shared-storage-api-privacy-ads/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

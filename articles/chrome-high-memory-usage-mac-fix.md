@@ -82,8 +82,8 @@ These small changes can make a big difference in how your Mac performs. Chrome i
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [How to Group Tabs in Chrome 2026](/articles/how-to-group-tabs-in-chrome-2026/)
-* [Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide/)
-* [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldnt)](/articles/how-to-downgrade-chrome-to-older-version/)
+* [Chrome Release Schedule: How Often Does It Update](/articles/chrome-release-schedule-how-often-does-it-update/)
+* [Chrome Extensions For Eye Strain Protection](/articles/chrome-extensions-for-eye-strain-protection/)
+* [Chrome WebGL Check If Working: Complete Verification Guide](/articles/chrome-webgl-check-if-working/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

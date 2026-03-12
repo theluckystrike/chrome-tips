@@ -64,8 +64,8 @@ By following these steps and checking in on your settings regularly, you can enj
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Email Marketing Best Extensions](/articles/chrome-for-email-marketing-best-extensions/)
-* [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations/)
-* [Chrome for Trello Power Ups in Browser](/articles/chrome-for-trello-power-ups-in-browser/)
+* [Chrome Content Encoding Error Fix](/articles/chrome-content-encoding-error-fix/)
+* [Chrome Sandbox Mode Explained Simply](/articles/chrome-sandbox-mode-explained-simply/)
+* [How to Manage and Disable Chrome Push Notifications](/articles/chrome-push-notifications-manage-disable/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

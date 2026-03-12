@@ -78,8 +78,8 @@ The chrome file system access api explained feature is a powerful tool that make
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works/)
-* [Chrome Address Bar Not Showing Fix](/articles/chrome-address-bar-not-showing-fix/)
-* [Chrome for Habitica In Browser Tips](/articles/chrome-for-habitica-in-browser-tips/)
+* [Chrome Extensions for Site Permissions Manager](/articles/chrome-extensions-for-site-permissions-manager/)
+* [Chrome Extensions For Cookie Auto Delete](/articles/chrome-extensions-for-cookie-auto-delete/)
+* [chrome for banking online security tips](/articles/chrome-for-banking-online-security-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

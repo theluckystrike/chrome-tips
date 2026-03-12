@@ -88,8 +88,8 @@ Remember that keeping Chrome updated, using fewer extensions, and not opening to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Fix Chrome Notion Slow and Laggy Issues](/articles/chrome-notion-slow-and-laggy-fix/)
-* [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/articles/chrome-web-store-extensions-not-installing/)
-* [Chrome vs Edge Which Uses Less Memory](/articles/chrome-vs-edge-which-uses-less-memory/)
+* [chrome for stylus and pen input settings](/articles/chrome-for-stylus-and-pen-input-settings/)
+* [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix/)
+* [How to Reduce Chrome Data Usage on Slow Connection](/articles/reduce-chrome-data-usage-on-slow-connection/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

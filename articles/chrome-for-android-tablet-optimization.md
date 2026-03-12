@@ -78,8 +78,8 @@ Tablet optimization is not a one-time fix. Every few weeks, take a moment to clo
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [chrome file system access api explained](/articles/chrome-file-system-access-api-explained/)
-* [chrome reopen closed tab shortcut](/articles/chrome-reopen-closed-tab-shortcut/)
-* [Chrome Encrypted DNS Explained for Beginners](/articles/chrome-encrypted-dns-explained-for-beginners/)
+* [Chrome Google Translate Built in Feature Tips](/articles/chrome-google-translate-built-in-feature-tips/)
+* [How to Capture Network Logs in Chrome Using Net Export](/articles/chrome-net-export-capture-network-log/)
+* [Chrome Task Manager Guide](/articles/chrome-task-manager-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -78,8 +78,8 @@ Remember that some level of GPU memory usage is normal and expected, especially 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Eating All My RAM How to Stop](/articles/chrome-eating-all-my-ram-how-to-stop/)
-* [chrome for google finance tips](/articles/chrome-for-google-finance-tips/)
-* [How to Disable Chrome Background Sync to Save Battery](/articles/chrome-background-sync-disable-save-battery/)
+* [Chrome Badging API Explained](/articles/chrome-badging-api-explained/)
+* [Chrome Update Failed Error 3 Fix](/articles/chrome-update-failed-error-3-fix/)
+* [Chrome Extensions For Color Palette Generator](/articles/chrome-extensions-for-color-palette-generator/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

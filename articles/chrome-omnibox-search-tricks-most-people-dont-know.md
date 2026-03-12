@@ -80,8 +80,8 @@ The Chrome omnibox is one of the most powerful tools in your browser, yet most p
 Once you start using these omnibox search tricks regularly, you will find yourself switching between tasks more quickly and getting things done in less time. The best part is that all of these features work immediately without any setup or installation. Give them a try and see how much easier Chrome can become.
 
 ## Related Articles
-* [How to Capture Network Logs in Chrome Using Net Export](/articles/chrome-net-export-capture-network-log/)
-* [Chrome WebAuthn Passwordless Login](/articles/chrome-webauthn-passwordless-login/)
-* [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained/)
+* [Should I Switch from Chrome to Firefox for Speed?](/articles/should-i-switch-from-chrome-to-firefox-for-speed/)
+* [Chromebook Print From Chrome How To](/articles/chromebook-print-from-chrome-how-to/)
+* [Chrome for TickTick in Browser Tips](/articles/chrome-for-ticktick-in-browser-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

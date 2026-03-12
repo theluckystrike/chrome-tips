@@ -58,8 +58,8 @@ Seeing the Chrome not secure warning does not have to be confusing or frightenin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Dark Mode How To Enable](/articles/chrome-dark-mode-how-to-enable/)
-* [Chrome Downloads Not Starting Fix](/articles/chrome-downloads-not-starting-fix/)
-* [Chrome Copy Paste Not Working Fix](/articles/chrome-copy-paste-not-working-fix/)
+* [How to Set Chrome as Default Browser Windows 11](/articles/how-to-set-chrome-as-default-browser-windows-11/)
+* [Chrome Element Inspector Tips and Tricks](/articles/chrome-element-inspector-tips-and-tricks/)
+* [Chrome Extensions for Keyword Research Free](/articles/chrome-extensions-for-keyword-research-free/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -58,8 +58,8 @@ A hijacked homepage is annoying but usually not dangerous if you address it quic
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Autofill On Phone How To Manage](/articles/chrome-autofill-on-phone-how-to-manage/)
-* [chrome file system access explained](/articles/chrome-file-system-access-explained/)
-* [Chrome Background Fetch for PWAs Explained](/articles/chrome-background-fetch-for-pwas-explained/)
+* [Best Chrome Extensions for Entrepreneurs](/articles/best-chrome-extensions-for-entrepreneurs/)
+* [Chrome Sandbox Mode What It Does](/articles/chrome-sandbox-mode-what-it-does/)
+* [Laptop Fan Loud When Using Chrome Fix](/articles/laptop-fan-loud-when-using-chrome-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

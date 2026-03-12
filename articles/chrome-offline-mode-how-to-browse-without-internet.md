@@ -76,8 +76,8 @@ Finally, keep important files and documents saved locally on your computer rathe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Extensions for Session Buddy](/articles/chrome-extensions-for-session-buddy/)
-* [Chrome Shared Workers vs Service Workers](/articles/chrome-shared-workers-vs-service-workers/)
-* [Chrome for Midjourney Web Tips](/articles/chrome-for-midjourney-web-tips/)
+* [Chrome Tabs Keep Reloading When I Switch Back](/articles/chrome-tabs-keep-reloading-when-i-switch-back/)
+* [Chrome Omnibox Search Engines Customize](/articles/chrome-omnibox-search-engines-customize/)
+* [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

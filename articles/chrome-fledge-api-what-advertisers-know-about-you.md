@@ -66,8 +66,8 @@ Your browsing privacy matters, and taking a few minutes to understand and adjust
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome DevTools Network Throttling Guide](/articles/chrome-devtools-network-throttling-guide/)
-* [chrome location services how to turn off](/articles/chrome-location-services-how-to-turn-off/)
-* [Chrome for DeFi Dashboard Extensions](/articles/chrome-for-defi-dashboard-extensions/)
+* [Chrome Two Factor Authentication Setup](/articles/chrome-two-factor-authentication-setup/)
+* [chrome for any.do web app setup](/articles/chrome-for-anydo-web-app-setup/)
+* [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

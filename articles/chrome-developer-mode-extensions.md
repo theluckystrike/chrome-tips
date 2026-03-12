@@ -1,20 +1,11 @@
 ---
-layout: default
-title: "Chrome Developer Mode Extensions Guide"
-<<<<<<< HEAD
-description: "Learn how to use Chrome developer mode for extensions, including how to load unpacked extensions, inspect views, update extensions, and debug effectively."
-date: 2026-01-15
-categories: [extensions, development, chrome]
-tags: [chrome-developer-mode, load-unpacked, inspect-views, extension-debugging, chrome-extensions]
-=======
-description: "Learn how to load unpacked extensions in Chrome, inspect views, update extensions, and debug Chrome extensions effectively. Master developer mode for extension development."
-date: 2026-01-20
-categories: [development, extensions, chrome]
-tags: [chrome-extensions, developer-mode, debugging, unpacked-extensions]
->>>>>>> consumer/a3-chrome-developer-mode-extensions
-author: theluckystrike
+title: Chrome Developer Mode Extensions
+description: ' Learn how to optimize your browser today for better performance...........................................................................................'
+date: '2026-03-12'
+last_modified_at: '2026-03-11'
+permalink: chrome-developer-mode-extensions
+layout: post
 ---
-
 # Chrome Developer Mode Extensions Guide
 
 <<<<<<< HEAD

@@ -1,20 +1,11 @@
 ---
-layout: default
-title: "Chrome DevTools Snippets for Productivity"
-<<<<<<< HEAD
-description: "Master Chrome DevTools Snippets for productivity automation. Learn how to create saved scripts, code snippets, and automate repetitive browser tasks with these expert tips."
-date: 2026-03-10
-categories: [browser-tips, productivity, web-development]
-tags: [devtools, snippets, automation, browser-automation, productivity-hacks]
-=======
-description: "Master Chrome DevTools Snippets to boost your productivity. Learn how to create saved scripts, automate repetitive tasks, and debug faster with these essential tips."
-date: 2026-03-10
-categories: [productivity, developer-tools, chrome-tips]
-tags: [chrome-devtools, snippets, automation, debugging, productivity]
->>>>>>> consumer/a32-chrome-snippets-productivity
-author: theluckystrike
+title: Chrome Snippets Productivity
+description: ' Learn how to optimize your browser today for better performance...........................................................................................'
+date: '2026-03-12'
+last_modified_at: '2026-03-10'
+permalink: chrome-snippets-productivity
+layout: post
 ---
-
 # Chrome DevTools Snippets for Productivity
 
 <<<<<<< HEAD

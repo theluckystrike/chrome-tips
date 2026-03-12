@@ -1,18 +1,11 @@
 ---
+title: Chrome For Twitter X Best Extensions
+description: ' Learn how to optimize your browser today for better performance...........................................................................................'
+date: '2026-03-12'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-twitter-x-best-extensions
 layout: post
-<<<<<<< HEAD
-title: "chrome for twitter x best extensions"
-description: "Find the best Chrome extensions for Twitter X to boost productivity, improve your feed, and enhance your overall experience on the platform."
-=======
-title: "Chrome for Twitter X Best Extensions"
-description: "Discover the best Chrome extensions for Twitter X to enhance your experience, boost productivity, and get more from the platform."
->>>>>>> consumer/a48-chrome-for-twitter-x-best-extensions
-date: 2026-03-10
-categories: [twitter, social-media, productivity, chrome-extensions]
-tags: [chrome-extensions, twitter, x, productivity, browser-tools]
-author: theluckystrike
 ---
-
 <<<<<<< HEAD
 # chrome for twitter x best extensions
 

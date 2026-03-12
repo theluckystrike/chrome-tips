@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Chrome Aw Snap Page Crash Fix
 description: Encountering the "Aw, Snap" error in Chrome? This guide covers practical solutions to fix page crashes, from clearing cache to adjusting browser settings and using extension helpers.
 date: 2026-03-12

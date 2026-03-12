@@ -83,3 +83,9 @@ Remember that small things add up. That extension you forgot was running in the 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome For Cloud Gaming Best Settings](/chrome-for-cloud-gaming-best-settings)
+- [Chrome Best Settings For Gaming](/chrome-best-settings-for-gaming)
+- [Chrome Flags For Speed Optimization](/chrome-flags-for-speed-optimization)

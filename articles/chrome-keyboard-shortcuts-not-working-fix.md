@@ -79,3 +79,9 @@ You can also check if the problem is specific to Chrome by testing keyboard shor
 Chrome keyboard shortcuts not working fix can be frustrating, but with a little patience and these troubleshooting steps, you can usually get your shortcuts back to working properly. Start with the simple fixes and work your way through the more advanced options until you find what works for you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+- [Chrome Autofill Not Working Fix](/chrome-autofill-not-working-fix)
+- [Chrome Back Button Not Working Fix](/chrome-back-button-not-working-fix)

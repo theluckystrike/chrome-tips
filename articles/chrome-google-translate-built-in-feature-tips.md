@@ -65,3 +65,9 @@ Chrome also caches translated pages, which means subsequent visits load faster. 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Coupon Finder Built In Feature](/chrome-coupon-finder-built-in-feature)
+- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
+- [Chrome Screen Share In Google Meet Tips](/chrome-screen-share-in-google-meet-tips)

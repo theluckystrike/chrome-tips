@@ -58,3 +58,9 @@ If you find yourself with dozens of tabs open and your computer slowing down, co
 The next time your browser feels sluggish, remember that there are powerful technologies working to make your experience better, even when you cannot see them in action.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
+- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)
+- [Chrome Data Saver Mode Is It Still Available](/chrome-data-saver-mode-is-it-still-available)

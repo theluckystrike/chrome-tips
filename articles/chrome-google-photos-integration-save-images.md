@@ -73,3 +73,9 @@ The key is to pick one method and stick with it until it becomes automatic. Do n
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Google Drive Integration Save To Drive](/chrome-google-drive-integration-save-to-drive)
+- [Chrome Google Photos Integration Tips](/chrome-google-photos-integration-tips)
+- [Chrome Google Chat Integration In Browser](/chrome-google-chat-integration-in-browser)

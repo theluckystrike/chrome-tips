@@ -63,3 +63,9 @@ For power users who manage many tabs, chrome gesture navigation combined with ta
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Gesture Navigation Desktop](/chrome-for-gesture-navigation-desktop)
+- [Chrome Gesture Navigation On Android](/chrome-gesture-navigation-on-android)
+- [Chrome Extensions For Mouse Gestures Navigation](/chrome-extensions-for-mouse-gestures-navigation)

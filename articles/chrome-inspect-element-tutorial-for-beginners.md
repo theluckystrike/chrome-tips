@@ -117,4 +117,11 @@ Once you're comfortable with the basics, you'll find Inspect Element is an inval
 
 ---
 
+
+
+### Related Articles
+- [Chrome Inspect Element For Beginners](/chrome-inspect-element-for-beginners)
+- [Chrome Cache Api Tutorial For Beginners](/chrome-cache-api-tutorial-for-beginners)
+- [Chrome How To Inspect Element Beginners](/chrome-how-to-inspect-element-beginners)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -84,4 +84,11 @@ Using extension management tools alongside the techniques described in this arti
 
 The **chrome inert attribute** provides a straightforward way to disable interaction with HTML elements and their children. By understanding how to apply this attribute effectively, you can create more accessible, performant, and user-friendly web interfaces. Whether you are building modal dialogs, conditional forms, or complex UI components, the `inert` attribute offers a clean solution for managing interactive states across your application.
 
+
+
+### Related Articles
+- [Chrome Address Bar Autocomplete Disable](/chrome-address-bar-autocomplete-disable)
+- [Chrome Auto Update Disable Windows Guide](/chrome-auto-update-disable-windows-guide)
+- [Chrome Disable Javascript For Testing](/chrome-disable-javascript-for-testing)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

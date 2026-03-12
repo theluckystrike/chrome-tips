@@ -65,3 +65,9 @@ You can use Zoom's built-in test meeting feature to check your audio and video w
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Extensions For Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Chrome Extensions For Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+- [Chrome Flags For Speed Optimization](/chrome-flags-for-speed-optimization)

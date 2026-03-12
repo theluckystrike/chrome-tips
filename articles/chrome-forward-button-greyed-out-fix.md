@@ -97,3 +97,9 @@ Sometimes browser problems can be related to malware or unwanted programs on you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Back Button Not Working Fix](/chrome-back-button-not-working-fix)
+- [Chrome Err Connection Timed Out Fix](/chrome-err-connection-timed-out-fix)
+- [Chrome Keeps Logging Me Out Of Sites Fix](/chrome-keeps-logging-me-out-of-sites-fix)

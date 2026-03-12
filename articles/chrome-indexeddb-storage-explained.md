@@ -56,3 +56,9 @@ If you find that keeping track of browser storage feels overwhelming, you might 
 Using tools like this along with regular attention to your storage settings can help you maintain a faster, more efficient browsing experience without sacrificing the functionality that makes web apps useful.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Persistent Storage Permission Explained](/chrome-persistent-storage-permission-explained)
+- [Chrome Shared Storage Api Explained](/chrome-shared-storage-api-explained)
+- [Chrome Web Storage Limits Explained](/chrome-web-storage-limits-explained)

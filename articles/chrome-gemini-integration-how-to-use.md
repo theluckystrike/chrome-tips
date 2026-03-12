@@ -81,3 +81,9 @@ Take some time to experiment with different setups, pay attention to what works 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Google Lens Integration How To Use](/chrome-google-lens-integration-how-to-use)
+- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
+- [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)

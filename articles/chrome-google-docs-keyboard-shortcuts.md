@@ -85,3 +85,9 @@ With these chrome google docs keyboard shortcuts in your toolkit, you are now eq
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
+- [Chrome For Google Docs Offline Setup](/chrome-for-google-docs-offline-setup)

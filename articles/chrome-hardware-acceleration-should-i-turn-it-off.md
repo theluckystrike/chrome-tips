@@ -80,3 +80,9 @@ Turn it off if you are experiencing video playback problems, visual glitches, ex
 Try both approaches and see what works best for you. Every computer setup is different, and the right choice is the one that gives you the smoothest, most reliable browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Hardware Acceleration Should I Turn On Or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
+- [Chrome Preloading Pages Should I Enable It](/chrome-preloading-pages-should-i-enable-it)
+- [Chrome Safe Browsing Should I Turn On](/chrome-safe-browsing-should-i-turn-on)

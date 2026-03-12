@@ -84,3 +84,9 @@ Setting up two factor authentication in Chrome is one of the best things you can
 Start with your most important accounts, like your Google account and your primary email. Then gradually enable 2FA on other platforms. Use authentication apps instead of text messages when you can, and keep your backup codes in a safe place.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Two Factor Authentication Setup Guide](/chrome-two-factor-authentication-setup-guide)
+- [Chrome Two Factor Authentication Setup](/chrome-two-factor-authentication-setup)
+- [Best Chrome Setup For Elderly Parents](/best-chrome-setup-for-elderly-parents)

@@ -85,3 +85,9 @@ Use it for what it's good at — local privacy and fresh browser sessions — an
 ---
 
 *Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+
+
+### Related Articles
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
+- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)

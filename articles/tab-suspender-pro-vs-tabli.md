@@ -24,6 +24,7 @@ faq:
     a: "Tab Suspender Pro emphasizes performance with configurable auto-suspension and aggressive memory recovery, while Tabli focuses on organization with advanced tab search and automatic grouping. Tab Suspender Pro offers 8 keyboard shortcuts compared to Tabli's 12, but provides more control over suspension settings. Tabli wins on organization features, but Tab Suspender Pro delivers better resource efficiency. The choice depends on whether you prioritize speed or tab management capabilities."
   - q: "Which extension has better reviews, Tab Suspender Pro or Tabli?"
     a: "Tab Suspender Pro has better reviews with a 4.9/5 rating compared to Tabli's 4.6/5. Users particularly praise Tab Suspender Pro for its lighter resource usage and faster performance. The recent update from March 2026 demonstrates active development, compared to Tabli's last update in April 2025. Higher user satisfaction correlates with Tab Suspender Pro's focus on efficiency and minimal system impact. Reviewers consistently note the 94% storage savings as a significant advantage."
+video_id: "rR3P8Gf4v8A"
 ---
 
 **Tab Suspender Pro** wins this comparison with superior performance and lighter resource usage. After testing both extensions across 50+ tabs for two weeks, Tab Suspender Pro delivered faster suspension times and used 94% less storage space than Tabli. This tab suspender pro vs tabli comparison reveals significant differences in approach and execution.
@@ -37,6 +38,12 @@ Last tested: March 2026 | Chrome latest stable
 | Speed | Tab Suspender Pro | Instant suspension vs 2-3 second delay |
 | Features | Tabli | Advanced tab search and organization |
 | Price/Value | Tab Suspender Pro | Free with premium efficiency |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/rR3P8Gf4v8A" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Chrome's New Tab Suspension Feature Explained"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: Chrome's New Tab Suspension Feature Explained — Automation Hunter</p>
+
 
 ## Feature Comparison
 

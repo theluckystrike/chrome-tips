@@ -21,7 +21,8 @@ internal_links_added: true
 ## Quick Verdict
 
 | Category | Winner | Why |
-|----------|--------|-----|
+|video_id: "rR3P8Gf4v8A"
+----------|--------|-----|
 | **Speed** | Tab Suspender Pro | Suspended tabs resume in under 1 second; xTab closes tabs permanently |
 | **Features** | Tab Suspender Pro | Auto-suspend timers, whitelists, per-tab controls vs. a single tab limit slider |
 | **Price / Value** | Tab Suspender Pro | Both free, but Tab Suspender Pro offers far more granular control |
@@ -38,6 +39,12 @@ internal_links_added: true
 | **Whitelist / Pin Support** | Full whitelist by URL or domain, pinned tabs excluded | Can protect pinned tabs from closure | Comparable pin support | Both free |
 | **Tab Group Compatibility** | Works alongside [Chrome's native tab groups](/chrome-tab-groups-advanced-tips) | Closes tabs regardless of group membership | Tab Suspender Pro if you organize with groups | Both free |
 | **Active Users** | 1M+ | 200K+ | Tab Suspender Pro has broader adoption | Both free |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/rR3P8Gf4v8A" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Chrome's New Tab Suspension Feature Explained"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: Chrome's New Tab Suspension Feature Explained — Automation Hunter</p>
+
 
 ## Key Differences
 

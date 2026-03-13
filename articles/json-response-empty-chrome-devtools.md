@@ -12,6 +12,7 @@ target_keyword: "json response empty chrome devtools"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-response-empty-chrome-devtools/
 ---
 
 You're debugging an API call and Chrome shows nothing where your JSON response should be. When json response empty chrome devtools becomes your daily frustration, the fastest fix is clearing your cache and hard refreshing with Ctrl+Shift+R (Cmd+Shift+R on Mac). The root cause usually involves Chrome's response parsing mechanisms or content-type header issues interfering with JSON display. This guide covers both quick fixes and permanent solutions to get your JSON responses visible again.

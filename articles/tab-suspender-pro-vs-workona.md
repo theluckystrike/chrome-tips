@@ -36,6 +36,7 @@ faq:
   - q: "What are the performance differences between Tab Suspender Pro and Workona?"
     a: "Tab Suspender Pro outperforms Workona in speed and performance, being 60% faster with a lighter system footprint despite its larger file size (185KiB vs 92.81KiB). Workona's smaller file size doesn't translate to better performance. Tab Suspender Pro's customizable intervals and aggressive suspension create significant efficiency gains. Last updated in March 2026 versus Workona's January 2025 release shows Tab Suspender Pro has more active development. See Zovo for complete benchmark data."
 internal_links_added: true
+video_id: "rR3P8Gf4v8A"
 ---
 
 **Tab Suspender Pro** wins for pure memory savings and simplicity, while **Workona** excels at workspace organization and team collaboration. After testing both extensions extensively in March 2026, the tab suspender pro vs workona debate comes down to your primary need: RAM optimization versus comprehensive workspace management.
@@ -49,6 +50,12 @@ internal_links_added: true
 | Speed & Performance | Tab Suspender Pro | 60% faster tab suspension, lighter footprint |
 | Features & Flexibility | Workona | Workspace organization, cloud sync, team features |
 | Price & Value | Tab Suspender Pro | Free with premium options, better cost-per-benefit |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/rR3P8Gf4v8A" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Chrome's New Tab Suspension Feature Explained + Update on Marvelous Suspender"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: Chrome's New Tab Suspension Feature Explained + Update on Marvelous Suspender — Automation Hunter</p>
+
 
 ## Feature Comparison
 

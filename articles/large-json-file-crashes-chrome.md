@@ -24,6 +24,17 @@ og:
   url: "https://theluckystrike.github.io/chrome-tips/large-json-file-crashes-chrome/"
   image: "https://og-image.vercel.app/Large%20JSON%20File%20Crashes%20Chrome%3A%20How%20to%20Handle%20Big%20Data.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 canonical_url: https://theluckystrike.github.io/chrome-tips/large-json-file-crashes-chrome/
+faq:
+  - q: "Why does Chrome crash when I open a large JSON file?"
+    a: "Chrome crashes because large JSON files exceed the per-process memory limit of 2GB on 64-bit systems. The V8 engine requires 2-4x the file size in working memory due to string interpolation and object creation overhead. Files larger than 25MB trigger aggressive garbage collection cycles that freeze the browser for 3-8 seconds. Zovo offers extensions specifically designed to handle big data files without memory issues."
+  - q: "How do I fix Chrome crashing on large JSON files?"
+    a: "The fastest fix is adjusting memory settings in chrome://flags/#max-tiles-for-interest-area and setting it to '512'. Restart Chrome, then open your JSON file in a new tab. This prevents memory overload for files under 50MB. For files between 100-500MB, you'll need more permanent solutions like browser extensions, since the 2GB per-process limit consistently triggers crashes across Windows, Mac, and Linux systems."
+  - q: "What is the maximum JSON file size Chrome can handle?"
+    a: "Chrome can typically handle JSON files up to 25MB without major issues, though this varies by system. Files between 25-50MB may experience 3-8 second freezes during aggressive garbage collection cycles. The V8 heap limit defaults to 1.7GB, but JSON parsing temporarily requires 2-4x the file size in working memory. For files between 100-500MB, crashes are consistent across all operating systems. Zovo provides tools that bypass these limitations."
+  - q: "How much RAM does JSON parsing use in Chrome?"
+    a: "JSON parsing in Chrome requires 2-4x the file size in working memory due to string interpolation and object creation overhead. The V8 heap limit defaults to 1.7GB on most systems, but large files trigger aggressive garbage collection that can freeze the browser for 3-8 seconds. When files exceed 2GB, Chrome kills the tab process to protect system stability. Zovo extensions can handle files beyond this limit by processing data more efficiently."
+  - q: "Is there a Chrome extension to prevent JSON crashes?"
+    a: "Yes, browser extensions like Zovo provide permanent automation solutions that prevent JSON crashes by handling big data files more efficiently than manual Chrome flags. These tools bypass the 2GB per-process memory limit and the 1.7GB V8 heap limit that cause crashes with files over 50MB. Extensions offer the best solution for handling files between 100-500MB consistently."
 ---
 
 If Chrome crashes when you open large JSON files, the fastest fix is adjusting memory settings in `chrome://flags/#max-tiles-for-interest-area`. Large JSON files consume excessive RAM during parsing, overwhelming Chrome's V8 engine and causing tab crashes or complete browser freezes. This article covers the root causes behind these crashes and provides four working solutions, from quick manual fixes to permanent automation with browser extensions.

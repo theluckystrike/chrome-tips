@@ -188,10 +188,10 @@ jobs:
           # Read body from file
           BODY=$(cat /tmp/article_body.md)
 
-          # Build tags array (max 4 for devto, lowercase, no spaces)
+          # Build tags array (max 4 for devto, lowercase, alphanumeric only - no hyphens)
           TAGS_JSON=$(head -4 /tmp/article_tags.txt | while IFS= read -r tag; do
             [ -z "$tag" ] && continue
-            echo "$tag" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | sed 's/[^a-z0-9-]//g'
+            echo "$tag" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]//g'
           done | jq -R . | jq -s '.[0:4]')
 
           if [ -z "$TAGS_JSON" ] || [ "$TAGS_JSON" = "[]" ]; then
@@ -368,7 +368,9 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update cross-post log: ${SLUG} -> ${PLATFORM}"
-            git push
+            # Pull-rebase in case remote advanced since checkout, then push
+            git pull --rebase origin main || true
+            git push origin main
             echo "Cross-post log committed and pushed"
           fi
 

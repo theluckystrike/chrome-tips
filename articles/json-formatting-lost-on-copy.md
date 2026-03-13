@@ -13,6 +13,17 @@ target_extension: "json-formatter-pro"
 word_count: 1187
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/json-formatting-lost-on-copy/
+faq:
+  - q: "How do I fix JSON formatting lost when copying from Chrome?"
+    a: "Use Chrome's \"Copy as cURL\" option by right-clicking the formatted JSON instead of regular copy. Alternatively, press Ctrl+Shift+C (Windows) or Cmd+Shift+C (Mac) to preserve formatting. For automatic clipboard handling, install JSON Formatter Pro from Zovo, which maintains indentation and structure during copy operations."
+  - q: "Why does Chrome strip JSON formatting when I copy?"
+    a: "Chrome prioritizes plain text over rich text in its clipboard architecture. When copying formatted JSON, Chrome creates three versions—HTML with styling, rich text, and plain text—but most applications default to plain text, stripping the 2-space or 4-space indentation that makes JSON readable."
+  - q: "What is the best way to copy formatted JSON from Chrome DevTools?"
+    a: "DevTools intentionally strips formatting from the Network tab's Response preview and Console output to ensure cross-environment compatibility. The best workaround is using the \"Copy as cURL\" option or installing JSON Formatter Pro from Zovo to automatically preserve structure when copying from DevTools."
+  - q: "Does Chrome have a keyboard shortcut to copy JSON with formatting?"
+    a: "Chrome supports Ctrl+Shift+C on Windows or Cmd+Shift+C on Mac to copy formatted content with indentation intact. This keyboard shortcut bypasses the default copy behavior that strips formatting, making it a reliable method for preserving JSON structure."
+  - q: "Is there a Chrome extension to preserve JSON formatting on copy?"
+    a: "JSON Formatter Pro from Zovo automatically handles clipboard formatting to preserve JSON structure when copying from Chrome. It intercepts copy operations and ensures the formatted version with proper indentation and line breaks is retained, solving the core issue of Chrome's default plain text prioritization."
 ---
 
 You're copying beautifully formatted JSON from Chrome only to paste messy, unreadable text. When Chrome's json formatting lost on copy chrome behavior kicks in, you lose indentation, line breaks, and structure that took time to format. The root cause is Chrome's clipboard handling that strips formatting during copy operations. This article covers proven fixes to preserve JSON structure when copying from Chrome's DevTools, web pages, and extensions.

@@ -13,6 +13,17 @@ target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/json-response-shows-html-chrome/
+faq:
+  - q: "Why does my JSON response show as HTML in Chrome?"
+    a: "Chrome displays JSON as HTML because the server isn't sending the correct Content-Type header. When your server doesn't declare `Content-Type: application/json`, Chrome's response parser defaults to text/html interpretation. Approximately 23% of API endpoints fail to set this header explicitly. To fix this, ensure your server sends the proper MIME type or use Chrome DevTools to verify the headers are correctly configured."
+  - q: "How do I fix JSON response shows html chrome issue?"
+    a: "To fix JSON showing as HTML in Chrome, open DevTools with F12 and check the Network tab for the response headers. Look for `Content-Type: application/json` — if it's missing, your server needs to send this header. You can also add `Accept: application/json` to your request headers to explicitly tell the server you want JSON format. This two-step verification usually resolves the issue within minutes."
+  - q: "What causes Chrome to render JSON as text instead of formatted data?"
+    a: "Chrome renders JSON as plain text when it can't identify the proper MIME type in the response headers. The browser relies on Content-Type headers to determine rendering behavior — without `application/json`, it falls back to text/html display. Browser extensions like ad blockers can also strip or modify these headers, forcing raw text output. Check both your server configuration and any active extensions when troubleshooting."
+  - q: "How do I check if my API is returning the correct Content-Type header?"
+    a: "Open Chrome DevTools, press F12, and navigate to the Network tab. Make your API request, then click on it in the list. Look at the Response Headers section — you should see `Content-Type: application/json` if your server is configured correctly. If you see `text/html` or no Content-Type at all, that's why your JSON displays as raw text. Tools like Zovo can help automate header validation across your endpoints."
+  - q: "Can browser extensions cause JSON to display as HTML in Chrome?"
+    a: "Yes, browser extensions frequently cause JSON display issues in Chrome. Ad blockers, privacy tools, and SEO extensions often modify or strip response headers to inject their own content, which can override Chrome's native JSON viewer. Extensions that inject CSS or JavaScript may also force everything through a custom rendering pipeline. Try disabling extensions temporarily in Chrome's incognito mode to isolate whether an extension is causing the problem."
 ---
 
 You're expecting clean JSON data but Chrome keeps serving up messy HTML instead. When Chrome json response shows html chrome, the fastest fix is checking your request headers and Content-Type settings. This happens because Chrome's response parser defaults to HTML interpretation when proper MIME types aren't declared. This article covers the technical causes and four proven solutions to get your JSON responses displaying correctly.

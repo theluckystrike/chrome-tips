@@ -368,7 +368,9 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update cross-post log: ${SLUG} -> ${PLATFORM}"
-            git push
+            # Pull-rebase in case remote advanced since checkout, then push
+            git pull --rebase origin main || true
+            git push origin main
             echo "Cross-post log committed and pushed"
           fi
 

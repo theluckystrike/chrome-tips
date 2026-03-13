@@ -12,6 +12,7 @@ target_keyword: "chrome system unresponsive fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-system-becoming-unresponsive/
 ---
 
 Watching Chrome freeze your entire computer mid-presentation is infuriating. If Chrome is making your system unresponsive, the fastest chrome system unresponsive fix is disabling hardware acceleration and clearing your browser cache. The root cause stems from Chrome's aggressive resource consumption and memory management conflicts with your operating system. This article covers immediate fixes you can implement right now, plus a permanent solution that prevents future crashes.

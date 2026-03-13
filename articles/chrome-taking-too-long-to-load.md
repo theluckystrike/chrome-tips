@@ -23,7 +23,17 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/chrome-taking-too-long-to-load/"
   image: "https://og-image.vercel.app/Chrome%20Taking%20Too%20Long%20to%20Load%20With%20Many%20Tabs.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-taking-too-long-to-load/
+faq:
+  - q: "How do I fix Chrome when it's taking too long to load with many tabs?"
+    a: "The fastest fix is enabling automatic tab discarding in Chrome. Type chrome://flags/#automatic-tab-discarding in your address bar and set it to Enabled, then restart your browser. This feature automatically suspends unused tabs to free memory, solving the problem permanently. Zovo recommends this as the most effective solution for users experiencing slowdowns with multiple tabs."
+  - q: "Why does Chrome slow down with too many tabs open?"
+    a: "Chrome uses a process-per-tab architecture where each tab runs in its own isolated process, consuming 50-200MB of RAM depending on website complexity. With 20 tabs open, your browser can easily consume 3-4GB of RAM. Modern JavaScript-heavy sites like Gmail or Slack use 300-500MB per tab, and background timers continue running even in inactive tabs, creating massive overhead that slows performance."
+  - q: "How much memory does Chrome use per tab?"
+    a: "Each Chrome tab typically uses 50-200MB of RAM, but JavaScript-heavy websites can consume 300-500MB per tab. With 30 tabs open, Chrome allows up to 1,000 active timers per tab by default, meaning potentially 30,000 background processes competing for CPU cycles. Your system starts struggling when available memory drops below 15% of total capacity."
+  - q: "What is automatic tab discarding in Chrome?"
+    a: "Automatic tab discarding is a Chrome feature that automatically suspends inactive tabs to free memory without closing them. When enabled at chrome://flags/#automatic-tab-discarding, Chrome intelligently identifies tabs you haven't used recently and puts them to sleep, reducing memory usage significantly. This lets you keep many tabs open without experiencing the slowdowns associated with Chrome taking too long to load many tabs."
+  - q: "Does Chrome use more memory than other browsers?"
+    a: "Chrome's process-per-tab model does use more memory than browsers that share a single process, but this architecture provides better security and stability. If one tab crashes, your entire browser stays running. However, with 20 tabs consuming 3-4GB of RAM, the trade-off often becomes impractical for power users. Zovo suggests using Chrome's built-in tab management features to balance performance with functionality."
 ---
 
 Watching Chrome freeze while you're trying to switch between tabs is maddening. If Chrome is taking too long to load many tabs, the fastest fix is enabling automatic tab discarding in chrome://flags/#automatic-tab-discarding. The root cause is Chrome's memory-hungry architecture that keeps every tab active in RAM simultaneously. This article covers the technical reasons behind the slowdown and four proven methods to fix it permanently.

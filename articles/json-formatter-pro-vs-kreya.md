@@ -14,6 +14,7 @@ word_count: 1050
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-kreya/
 internal_links_added: true
+---
 
 # JSON Formatter Pro vs Kreya: Which Is Better in 2026?
 

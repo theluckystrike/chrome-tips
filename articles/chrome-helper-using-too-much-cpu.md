@@ -12,6 +12,7 @@ target_keyword: "chrome helper using too much cpu"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-helper-using-too-much-cpu/
 ---
 
 Your laptop fan starts spinning like a jet engine while browsing social media. If chrome helper using too much cpu is killing your performance, the fastest fix is disabling hardware acceleration in Chrome's settings. Chrome's process-per-tab architecture creates multiple helper processes that can consume excessive CPU when mismanaged. This article covers immediate fixes and permanent solutions.

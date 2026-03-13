@@ -12,6 +12,7 @@ target_keyword: "chrome devtools json guide"
 target_extension: "json-formatter-pro"
 word_count: 3580
 reading_time: "14 min"
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-devtools-json-guide/
 ---
 
 Chrome DevTools gives you everything you need to inspect, debug, and manipulate JSON data without leaving your browser. This chrome devtools json guide covers every panel, shortcut, and technique for working with JSON payloads, from basic Network response previews to advanced Console transformations. JSON is the dominant data interchange format for web APIs. Every modern REST endpoint, most GraphQL responses, and nearly all browser storage mechanisms depend on it. That makes JSON inspection one of the most frequent tasks in any web developer's day.

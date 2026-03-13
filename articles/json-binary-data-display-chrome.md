@@ -12,6 +12,7 @@ target_keyword: "json binary data display chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-binary-data-display-chrome/
 ---
 
 Staring at a blank Chrome tab when you expect formatted JSON is frustrating. If Chrome json binary data display chrome isn't working properly, the fastest fix is clearing your browser cache and disabling conflicting extensions. The root cause is usually Chrome's built-in JSON viewer choking on binary content embedded within JSON responses. This article covers four proven manual fixes plus a permanent solution that handles binary data automatically.

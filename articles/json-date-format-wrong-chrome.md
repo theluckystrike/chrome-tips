@@ -12,6 +12,7 @@ target_keyword: "json date format wrong chrome"
 target_extension: "json-formatter-pro"
 word_count: 1289
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-date-format-wrong-chrome/
 ---
 
 Working with JSON data and suddenly seeing dates as confusing strings instead of readable formats is frustrating. When Chrome has json date format wrong chrome problems, the fastest fix is clearing your browser cache and disabling conflicting extensions. The root cause usually involves cached parsing rules or extension interference with Chrome's native JSON handling.

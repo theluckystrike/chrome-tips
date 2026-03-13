@@ -1,6 +1,3 @@
-[2026-03-13 19:39:57] [m15]   Description too short: 144 chars (target 150-160)
-[2026-03-13 19:40:37] [m15]   Description rewritten: 158 chars
-[2026-03-13 19:40:37] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON Response Timeout in Chrome: How to Handle"
@@ -15,6 +12,7 @@ target_keyword: "json response timeout chrome"
 target_extension: "json-formatter-pro"
 word_count: 1263
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-response-timeout-chrome/
 ---
 
 You're debugging an API call when Chrome suddenly freezes on a massive JSON response. If Chrome is experiencing json response timeout chrome issues, the fastest fix is increasing the DevTools timeout limit to 60 seconds in Settings. This happens because Chrome's default request timeout of 30 seconds can't handle large JSON payloads that take longer to parse. This article covers both quick fixes and permanent solutions for developers dealing with browser timeouts.

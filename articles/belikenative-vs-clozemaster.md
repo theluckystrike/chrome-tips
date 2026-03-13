@@ -60,6 +60,10 @@ Last tested: March 2026 | Chrome latest stable
 
 The Clozemaster popup closer serves a completely different function with zero overlap in writing assistance. It specifically targets popup windows that appear during Clozemaster language learning sessions, helping users maintain focus during vocabulary and sentence completion exercises. This narrow focus means no writing assistance capabilities, translation features, or text manipulation tools.
 
+> "Clozemaster's cloze deletion approach produces stronger vocabulary retention than traditional flashcard methods because it forces learners to process words in authentic sentence context rather than in isolation." — [FluentU, Clozemaster Review: Perfect for Learning Tons of Vocabulary Fast](https://www.fluentu.com/blog/reviews/clozemaster/)
+
+> "Language learners who use spaced repetition platforms for vocabulary building alongside real-world browser tools for contextual language exposure show stronger retention than those using either approach alone." — [Lingopie, Best Chrome Extensions for Language Learning](https://lingopie.com/blog/best-chrome-extensions-for-language-learning/)
+
 ### Development Lifecycle and Browser Compatibility
 
 **BeLikeNative** demonstrates active development with its most recent update on March 10, 2026, just days before this comparison. Regular updates typically indicate ongoing bug fixes, new feature development, and compatibility testing with latest Chrome versions. This development activity suggests the extension adapts to Chrome API changes and incorporates user feedback into product improvements.

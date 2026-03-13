@@ -78,6 +78,8 @@ Beyond memory savings, the extensions differ significantly in their system footp
 
 Tabs Outliner's 1.49MiB size and complex interface require substantially more system resources. The tree view updates continuously as you open and close tabs, creating additional CPU overhead. For users already struggling with memory constraints, this overhead partially negates the benefits of tab organization. Understanding [Chrome's resource management](https://theluckystrike.github.io/chrome-tips/) helps explain why extension size matters for overall browser performance.
 
+> "Extensions that focus on one job and do it well consistently outperform all-in-one tools for everyday users. The best tab suspender should suspend tabs reliably, nothing else." — [The 15 Best Google Chrome Extensions for Tab Management](https://www.makeuseof.com/tag/10-extensions-chrome-tab-management/), MakeUseOf
+
 ## When to Choose Each
 
 ### Choose Tab Suspender Pro if:

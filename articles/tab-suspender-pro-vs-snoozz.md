@@ -78,6 +78,8 @@ Snoozz focuses on standalone operation without external integrations. This isola
 
 > "For tab management, the right tool depends entirely on your problem. Overwhelmed by RAM usage? Use a suspender. Overwhelmed by your own tabs demanding attention? Use a snoozer." — [15 Best Tab Manager for Chrome in 2026](https://rambox.app/blog/best-tab-manager-for-chrome/), Rambox
 
+> "Extensions that address intentional tab deferral help users manage the cognitive overhead of maintaining open tabs as informal to-do lists, which is a common browsing behavior pattern." — [Workona, Best Tab Manager Extensions for Chrome 2024](https://workona.com/reviews/best-tab-manager-extensions-for-chrome/)
+
 ## When to Choose Each
 
 Choose **Tab Suspender Pro** if:

@@ -95,6 +95,8 @@ While Firefox only allows copying formatted JSON to your clipboard, **JSON Forma
 
 The Chrome extension also offers direct integration with popular developer productivity tools, allowing you to send formatted JSON to code editors or validation services with a single click. Firefox's viewer operates in isolation, requiring manual copy-paste operations that interrupt development flow.
 
+> "Firefox's built-in JSON viewer remains one of the best arguments for keeping the browser installed for API development work, even when Chrome is your primary browser." — [Top 5 JSON Viewer Chrome Extensions You Need To Check Out](https://ful.io/blog/top-5-json-viewer-chrome-extensions-you-need-to-check-out), Ful.io
+
 ## When to Choose Each Tool
 
 Choose **JSON Formatter Pro** if:

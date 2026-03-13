@@ -91,6 +91,10 @@ The writing assistant functionality in **BeLikeNative** works smoothly with text
 
 Traditional dictionary extensions require users to break their workflow for lookups, creating friction in the learning process that can discourage consistent practice. The integrated approach maintains momentum during writing tasks and provides immediate feedback that reinforces learning.
 
+> "Hover-based dictionary extensions for Japanese and Chinese significantly reduce reading friction for learners by providing immediate character readings without disrupting the reading flow." — [Lingopie, Best Chrome Extensions for Language Learning](https://lingopie.com/blog/best-chrome-extensions-for-language-learning/)
+
+> "Specialized Chrome extensions that target specific language pairs or scripts provide a level of depth that general-purpose translation tools cannot replicate, particularly for logographic writing systems." — [Noiz, 7 Best Chrome Translation Extensions: Comparison](https://noiz.io/blog/the-7-best-translation-extensions-for-chrome/)
+
 ## When To Choose Each
 
 Choose **BeLikeNative** if you want comprehensive language improvement tools that work across multiple languages and diverse writing contexts. The AI writing assistance helps you learn natural expression patterns while the dictionary function handles vocabulary gaps smoothly. Content creators, students, and professionals benefit from the integrated approach to language learning and improvement that supports both comprehension and production skills.

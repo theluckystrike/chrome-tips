@@ -78,6 +78,8 @@ BeLikeNative integrates deeply into your writing workflow. It appears contextual
 
 Yandex operates through a dedicated sidepanel that you activate manually. This approach works well for deliberate translation tasks but requires more conscious effort to access. Power users who translate frequently might prefer the dedicated workspace, while casual users benefit more from BeLikeNative's contextual assistance.
 
+> "Chrome extensions that pair translation with AI writing assistance serve a fundamentally different use case than pure translation tools, particularly for business and content workflows." — [Best Translator Extension for Chrome: Top AI Translation Tools](https://murf.ai/blog/top-translator-extension-for-chrome), murf.ai
+
 ## When to Choose Each
 
 ### Choose BeLikeNative if:

@@ -24,6 +24,17 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/how-to-suspend-tabs-in-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Suspend%20Tabs%20in%20Chrome%20to%20Save%20Memory.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+faq:
+  - q: "How do I suspend tabs in Chrome to save memory?"
+    a: "Chrome offers several ways to suspend tabs. Right-click any inactive tab and select \"Discard tab\" to free memory instantly, or use Shift+Esc to open Chrome Task Manager and identify memory-heavy tabs. For automatic management, enable Memory Saver in chrome://settings/performance, which can reduce memory usage by up to 95%. Zovo recommends enabling this feature for seamless tab management without manual intervention."
+  - q: "What happens to a suspended tab in Chrome?"
+    a: "When Chrome suspends a tab, it removes the page from active memory while preserving the title and URL. The tab appears grayed out with a reload icon, but clicking it instantly restores the page. Your browsing session, form data, and scroll position get preserved in most cases. Chrome intelligently decides which tabs to suspend based on memory pressure, last access time, and whether the tab is playing audio or handling important notifications."
+  - q: "Does Chrome automatically suspend tabs?"
+    a: "Yes, Chrome automatically suspends tabs when you enable Memory Saver in chrome://settings/performance. This built-in feature intelligently decides which tabs to suspend based on memory pressure, last access time, and whether the tab is playing audio or handling important notifications. You can also navigate to chrome://discards/ to view suspended tab status and configure custom site exceptions for tabs you want to keep active at all times."
+  - q: "How do I manually discard a tab in Chrome?"
+    a: "To manually discard a tab in Chrome, right-click any tab and select \"Discard tab\" from the context menu. This immediately suspends the tab and frees its memory allocation. For bulk operations, press Shift+Esc (Windows) or Cmd+Option+Esc (Mac) to open Chrome Task Manager, where you can see real-time memory usage per tab and extension, then discard specific tabs to reclaim resources."
+  - q: "What information is preserved when Chrome suspends a tab?"
+    a: "Chrome preserves your browsing session, form data, and scroll position when suspending a tab. The tab remains visible in your tab bar with its title and URL intact, appearing slightly faded to indicate its suspended state. When you click the tab, the page reloads and restores your previous position. Zovo notes this makes suspended tabs virtually indistinguishable from active tabs once restored."
 ---
 
 You're watching your computer slow to a crawl as Chrome devours 8GB of RAM across 47 open tabs. Learning how to suspend tabs in Chrome can cut your browser's memory usage by up to **95%** while keeping all your important pages accessible.

@@ -23,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/how-to-translate-web-pages-in-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Translate%20Web%20Pages%20in%20Chrome%3A%20Complete%20Guide.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-web-pages-in-chrome/
 ---
 
 You're browsing a fascinating article in Spanish, but your high school language skills aren't cutting it. Learning how to translate web pages in Chrome transforms your browsing experience instantly, giving you access to content in over 100 languages without leaving your browser.

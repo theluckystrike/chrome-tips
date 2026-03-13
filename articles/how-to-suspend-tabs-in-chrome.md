@@ -12,6 +12,7 @@ target_keyword: "how to suspend tabs in chrome"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5 minutes
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-suspend-tabs-in-chrome/
 ---
 
 You're watching your computer slow to a crawl as Chrome devours 8GB of RAM across 47 open tabs. Learning how to suspend tabs in Chrome can cut your browser's memory usage by up to **95%** while keeping all your important pages accessible.

@@ -12,6 +12,7 @@ target_keyword: "json formatter extension not working"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-formatter-extension-not-working/
 ---
 
 Clicking on a JSON file and seeing raw text instead of formatted data is frustrating. If your Chrome json formatter extension not working, the fastest fix is clearing your extension data and reloading the extension. This happens because Chrome's extension security policies sometimes block JSON formatters from accessing file URLs or interfere with content script injection. This guide covers the five most effective solutions that actually work.

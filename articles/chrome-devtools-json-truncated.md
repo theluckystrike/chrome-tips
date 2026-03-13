@@ -12,6 +12,7 @@ target_keyword: "chrome devtools json truncated"
 target_extension: "json-formatter-pro"
 word_count: 1147
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-devtools-json-truncated/
 ---
 
 Clicking into a network response only to see ellipses where your data should be is maddening. When chrome devtools json truncated responses block your debugging, the fastest fix is copying the response URL and opening it in a new tab. Chrome's memory management cuts off large JSON responses at around 1MB to prevent browser crashes. This article shows you four proven methods to view complete JSON responses, plus a permanent solution that eliminates truncation entirely.

@@ -69,7 +69,7 @@ Zhongwen focuses exclusively on Chinese-English translation pairs. Within this s
 
 ## When to Choose Each
 
-**Choose BeLikeNative if:**
+Choose BeLikeNative if:
 
 - You work with multiple languages beyond Chinese
 - AI-powered paraphrasing improves your writing workflow
@@ -77,7 +77,7 @@ Zhongwen focuses exclusively on Chinese-English translation pairs. Within this s
 - File size and performance matter for your setup
 - You want actively maintained software with recent updates
 
-**Choose Zhongwen if:**
+Choose Zhongwen if:
 
 - Chinese language learning is your primary goal
 - You need detailed character information and stroke order
@@ -119,4 +119,4 @@ BeLikeNative translates Chinese text, but Zhongwen dominates for Chinese-specifi
 **Which is better for Chinese learners: Zhongwen or BeLikeNative?**
 Zhongwen is better for dedicated Chinese language learning due to its stroke order animations, character etymology, and offline dictionary. BeLikeNative is better for professionals who need to communicate in Chinese alongside other languages, where AI paraphrasing and writing assistance add more value than character-level detail.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

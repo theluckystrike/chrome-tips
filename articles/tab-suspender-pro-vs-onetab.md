@@ -63,13 +63,13 @@ Tab Suspender Pro auto-suspends tabs after a configurable idle period. Set it to
 
 ## When to Choose Each
 
-**Choose Tab Suspender Pro if:**
+Choose Tab Suspender Pro if:
 - You switch between tabs frequently and need instant access
 - You want automatic memory management without manual clicks
 - You rely on Chrome's [native tab groups for organization](/how-to-use-chrome-tab-groups-effectively) and don't want to lose them
 - You work with web apps that maintain client-side state (Figma, Google Docs, Notion)
 
-**Choose OneTab if:**
+Choose OneTab if:
 - Your machine has 4GB RAM or less and needs maximum memory recovery
 - You prefer a clean tab bar with minimal visual clutter
 - You want to export or share a set of links with coworkers
@@ -103,4 +103,4 @@ Yes. They serve complementary purposes. Use Tab Suspender Pro for automatic back
 **How much memory can you save with OneTab vs tab suspenders?**
 OneTab typically recovers 90-95% of tab memory by removing tabs from Chrome entirely. Tab suspenders like Tab Suspender Pro recover 70-80% while keeping tabs present in the tab bar. The difference matters most on machines with 4GB RAM or less, where OneTab's more aggressive approach provides more headroom.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

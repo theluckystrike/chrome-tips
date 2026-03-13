@@ -112,4 +112,4 @@ Simple Translate is faster for single-word and short-phrase lookups due to its 4
 **Which is better for language learners: BeLikeNative or Simple Translate?**
 For language learners, the choice depends on your learning style. Simple Translate gives you clean one-to-one translations that let you engage with the original text. BeLikeNative offers AI-assisted writing feedback that helps you produce more natural output in your target language. Passive readers tend to prefer Simple Translate; active writers benefit more from BeLikeNative.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

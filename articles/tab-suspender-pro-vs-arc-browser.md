@@ -96,4 +96,4 @@ No. Tab Suspender Pro is a Chrome extension and only works within Chrome or Chro
 **What are Arc Browser's spaces and how do they work?**
 Spaces in Arc Browser are separate browsing environments, similar to browser profiles but within the same window. Each Space has its own set of tabs, bookmarks, and settings. You can switch between Spaces for different contexts (work, personal, research) and close an entire Space to free its memory at once.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

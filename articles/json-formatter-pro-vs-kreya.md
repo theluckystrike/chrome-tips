@@ -64,13 +64,13 @@ JSON Formatter Pro installs in one click and works immediately with zero configu
 
 ## When to Choose Each
 
-**Choose JSON Formatter Pro if:**
+Choose JSON Formatter Pro if:
 - You debug API responses by navigating to endpoints directly in Chrome
 - You want instant, zero-config JSON formatting with no learning curve
 - You prefer minimal permissions and a 100% local privacy model
 - You need to handle large JSON files (up to 12MB) with smooth tree navigation
 
-**Choose Kreya if:**
+Choose Kreya if:
 - You build or test gRPC services and need proto file import with server reflection
 - You need environment variables, authentication management, and request organization
 - You work across REST, gRPC, and WebSocket protocols in the same project
@@ -102,4 +102,4 @@ Kreya shows pretty-printed JSON in its response panel, but it lacks the collapsi
 **Can JSON Formatter Pro be used alongside Kreya?**
 Yes, and this is the recommended setup. Use Kreya to compose and fire API requests, then open the endpoint directly in Chrome to let JSON Formatter Pro render the response with full tree navigation and search. They complement each other without conflict.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

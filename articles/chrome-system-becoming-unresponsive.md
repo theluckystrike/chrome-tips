@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-system-becoming-unresponsive/
+faq:
+  - q: "How do I fix chrome system unresponsive when Chrome freezes my computer?"
+    a: "The fastest chrome system unresponsive fix is disabling hardware acceleration and clearing your browser cache. Type chrome://settings/system in your address bar and turn off 'Use hardware acceleration when available.' Then press Ctrl+Shift+Delete to clear cached images and files. Restart Chrome and your system should respond normally. This addresses the root cause of Chrome's aggressive resource consumption conflicting with your operating system."
+  - q: "Why does Chrome use so much memory with multiple tabs open?"
+    a: "Chrome runs each tab as a separate process, which creates massive memory bloat. With just 20 tabs open, you're looking at 20+ processes consuming 3-4 GB of RAM easily. I've seen Chrome installations using over 8 GB of RAM with only 30 tabs open. Each process reserves memory even when tabs aren't actively used, creating artificial scarcity that affects your entire system. Zovo recommends limiting open tabs to reduce memory pressure."
+  - q: "What is hardware acceleration in Chrome and how do I turn it off?"
+    a: "Hardware acceleration is a Chrome feature that pushes graphics processing to your GPU instead of your CPU. While this sounds beneficial, it creates driver conflicts on many systems. When Chrome tries to accelerate video playback or complex web animations, outdated or incompatible graphics drivers can cause the browser to hang, taking your entire system with it. Disable it by typing chrome://settings/system and toggling off 'Use hardware acceleration when available.'"
+  - q: "How much RAM does Chrome use with many tabs?"
+    a: "Chrome uses significantly more RAM than most users realize. With 20 tabs open, you can expect 3-4 GB of RAM consumption. In extreme cases, Chrome installations use over 8 GB of RAM with just 30 tabs open. When your system hits 85% memory usage, the operating system starts swapping data to your hard drive, which makes everything crawl. This process-per-tab architecture, while good for stability, creates substantial memory overhead."
+  - q: "Does disabling hardware acceleration actually fix Chrome freezing?"
+    a: "Yes, disabling hardware acceleration is one of the fastest ways to stop Chrome from making your system unresponsive. This feature pushes graphics processing to your GPU, but outdated or incompatible graphics drivers often cause conflicts that freeze the entire browser and sometimes your whole computer. Combined with clearing your browser cache, this two-minute fix addresses the most common causes of Chrome-related system slowdowns and crashes."
 ---
 
 Watching Chrome freeze your entire computer mid-presentation is infuriating. If Chrome is making your system unresponsive, the fastest chrome system unresponsive fix is disabling hardware acceleration and clearing your browser cache. The root cause stems from Chrome's aggressive resource consumption and memory management conflicts with your operating system. This article covers immediate fixes you can implement right now, plus a permanent solution that prevents future crashes.

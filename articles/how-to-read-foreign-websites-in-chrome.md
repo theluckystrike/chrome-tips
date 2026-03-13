@@ -15,6 +15,17 @@ target_keyword: "how to read foreign websites in chrome"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
+image: "https://og-image.vercel.app/How%20to%20Read%20Foreign%20Language%20Websites%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "How to Read Foreign Language Websites in Chrome"
+  description: "Learn how to read foreign websites in Chrome using built-in translation tools and advanced extensions for seamless multilingual browsing."
+og:
+  title: "How to Read Foreign Language Websites in Chrome"
+  description: "Learn how to read foreign websites in Chrome using built-in translation tools and advanced extensions for seamless multilingual browsing."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/how-to-read-foreign-websites-in-chrome/"
+  image: "https://og-image.vercel.app/How%20to%20Read%20Foreign%20Language%20Websites%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You're browsing a Japanese tech blog with the perfect solution to your coding problem, but you can't read a word of it. Here's exactly how to read foreign websites in Chrome using the browser's built-in translation features and advanced tools that make multilingual browsing effortless. Over 4.6 billion people worldwide speak languages other than English, making this skill essential for accessing global content and expanding your research capabilities.

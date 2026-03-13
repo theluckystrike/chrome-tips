@@ -12,6 +12,7 @@ target_keyword: "chrome renderer process memory"
 target_extension: "tab-suspender-pro"
 word_count: 1127
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-renderer-process-memory/
 ---
 
 Watching Chrome freeze while you're trying to finish work is maddening. When Chrome renderer process memory usage spikes above 2GB per tab, the quickest fix is closing heavy tabs and restarting Chrome. The root cause is Chrome's process-per-tab architecture overwhelming your system RAM. This article shows you permanent fixes that actually work.

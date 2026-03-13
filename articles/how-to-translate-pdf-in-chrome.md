@@ -12,6 +12,7 @@ target_keyword: "how to translate pdf in chrome"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-pdf-in-chrome/
 ---
 
 You're reading a PDF document online and realize it's in a language you don't understand. Learning how to translate pdf in chrome directly in your browser saves you the hassle of downloading files and using separate translation tools. This method works for **89%** of PDF files opened in Chrome, making it the fastest way to understand foreign documents without cluttering your downloads folder.

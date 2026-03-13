@@ -1,6 +1,9 @@
+[2026-03-13 15:55:32] [m15]   Title too long: 61 chars (max 60)
+[2026-03-13 15:55:42] [m15]   Title shortened: "JSON Formatter Pro vs jq Playground: 2026 Showdown" (50 chars)
+[2026-03-13 15:55:42] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "JSON Formatter Pro vs jq Playground: Which Is Better in 2026?"
+title: "JSON Formatter Pro vs jq Playground: 2026 Showdown"
 description: "Compare JSON Formatter Pro vs jq Playground for developers. In-depth analysis of features, performance, and value to choose the best JSON tool in 2026."
 date: 2026-03-13
 last_modified_at: 2026-03-13

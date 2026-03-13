@@ -12,6 +12,7 @@ target_keyword: "json api response garbled chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-api-response-garbled-chrome/
 ---
 
 Staring at unreadable JSON data in Chrome's Network tab ruins your debugging flow. If your json api response garbled chrome issue is blocking development work, the fastest fix is enabling proper JSON formatting in Chrome DevTools. The root cause is Chrome's default raw response display that doesn't automatically format JSON content. This article covers manual fixes and a permanent solution using browser extensions.

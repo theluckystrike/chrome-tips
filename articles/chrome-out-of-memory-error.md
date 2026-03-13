@@ -1,7 +1,9 @@
+[2026-03-13 18:51:06] [m15]   Description too short: 125 chars (target 150-160)
+[2026-03-13 18:51:24] [m15]   Description rewritten: 141 chars
 ---
 layout: default
 title: "Chrome Out of Memory Error: Complete Troubleshooting Guide"
-description: "Fix Chrome out of memory error instantly with these proven solutions. Stop browser crashes and boost performance permanently."
+description: "Fix the chrome out of memory error with our complete troubleshooting guide. Learn proven solutions to stop crashes and boost performance now."
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /chrome-out-of-memory-error/

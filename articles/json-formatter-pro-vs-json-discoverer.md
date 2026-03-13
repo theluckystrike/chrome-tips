@@ -1,6 +1,11 @@
+[2026-03-13 13:42:51] [m15]   Title too long: 63 chars (max 60)
+[2026-03-13 13:43:01] [m15]   Title shortened: "JSON Formatter Pro vs JSON Discoverer 2026" (42 chars)
+[2026-03-13 13:43:01] [m15]   Description too short: 140 chars (target 150-160)
+[2026-03-13 13:43:13] [m15]   WARNING: Could not generate valid description (got 128 chars).
+[2026-03-13 13:43:13] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "JSON Formatter Pro vs JSON Discoverer: Which Is Better in 2026?"
+title: "JSON Formatter Pro vs JSON Discoverer 2026"
 description: "JSON Formatter Pro vs JSON Discoverer comparison: features, performance, and pricing. Which Chrome extension is best for developers in 2026?"
 date: 2026-03-13
 last_modified_at: 2026-03-13

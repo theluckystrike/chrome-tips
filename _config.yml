@@ -3,6 +3,7 @@ description: "Practical Chrome browser tips for speed, memory, and productivity"
 url: "https://theluckystrike.github.io"
 baseurl: "/chrome-tips"
 theme: minima
+incremental: true
 include:
   - b4e8f2a1c7d94e6fab3209d1e5c8a7f6.txt
 plugins:

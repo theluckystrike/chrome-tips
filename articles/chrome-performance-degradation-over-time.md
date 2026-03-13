@@ -12,6 +12,7 @@ target_keyword: "chrome performance degradation over time"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-performance-degradation-over-time/
 ---
 
 Watching Chrome freeze during an important video call is frustrating. If you're dealing with chrome performance degradation over time, the fastest fix is closing unused tabs and clearing your browser cache. The root cause is Chrome's process-per-tab architecture consuming increasing amounts of RAM and CPU cycles. This article covers why this happens and how to fix it permanently.

@@ -1,6 +1,9 @@
+[2026-03-13 15:15:06] [m15]   Title too long: 61 chars (max 60)
+[2026-03-13 15:15:24] [m15]   Title shortened: "Tab Suspender Pro vs Tiny Suspender - 2026 Comparison" (53 chars)
+[2026-03-13 15:15:24] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "Tab Suspender Pro vs Tiny Suspender: Complete 2026 Comparison"
+title: "Tab Suspender Pro vs Tiny Suspender - 2026 Comparison"
 description: "Tab Suspender Pro vs Tiny Suspender comparison: which Chrome tab management extension works better? Complete feature analysis and performance testing."
 date: 2026-03-13
 last_modified_at: 2026-03-13

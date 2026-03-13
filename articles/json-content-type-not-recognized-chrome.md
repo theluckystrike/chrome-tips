@@ -23,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/json-content-type-not-recognized-chrome/"
   image: "https://og-image.vercel.app/JSON%20Content-Type%20Not%20Recognized%20by%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-content-type-not-recognized-chrome/
 ---
 
 Chrome treating your JSON response as plain text instead of formatted data is frustrating. When Chrome json content type not recognized chrome issues happen, the fastest fix is checking your server's Content-Type header and setting it to `application/json`. The root cause is usually incorrect MIME type configuration on your server or missing response headers. This article covers four manual fixes plus a permanent solution using **JSON Formatter Pro**.

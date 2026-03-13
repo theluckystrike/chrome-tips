@@ -90,6 +90,8 @@ The AI writing capabilities prove especially useful for [productivity-focused de
 
 BeLikeNative's paraphrasing modes include formal, casual, and technical options. This flexibility helps when adapting content tone for different audiences or documentation styles, something Papago cannot handle at all.
 
+> "Translation extensions that leverage AI for contextual understanding rather than pattern matching produce more natural output, particularly for professional writing contexts." — [Best Translator Extension for Chrome: Top AI Translation Tools](https://murf.ai/blog/top-translator-extension-for-chrome), Murf AI
+
 ## When to Choose Each
 
 ### Choose BeLikeNative if:

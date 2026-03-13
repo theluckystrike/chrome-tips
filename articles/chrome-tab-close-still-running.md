@@ -12,6 +12,7 @@ target_keyword: "chrome tabs still running after closing"
 target_extension: "tab-suspender-pro"
 word_count: 1284
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-tab-close-still-running/
 ---
 
 You close a Chrome tab but your computer still runs hot and the fan keeps spinning. If chrome tabs still running after closing is draining your system, the fastest fix is opening Task Manager (Ctrl+Shift+Esc on Windows, Activity Monitor on Mac) and ending lingering Chrome processes manually. This happens because Chrome's process-per-tab architecture keeps background scripts and service workers active even after tab closure. This article covers why tabs persist after closing, four manual fixes ranked by effectiveness, and a permanent solution using automation.

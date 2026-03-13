@@ -1,7 +1,10 @@
+[2026-03-13 19:15:51] [m15]   Description too short: 144 chars (target 150-160)
+[2026-03-13 19:16:08] [m15]   Description rewritten: 142 chars
+[2026-03-13 19:16:08] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Chrome Using Too Much Memory? Here's the Fix"
-description: "Chrome eating your RAM? Get the complete chrome using too much memory solution with manual fixes and automated tools that actually work in 2026."
+description: "Chrome using too much memory solution: Discover expert tips to free up RAM, boost performance, and speed up your browser. Start fixing it now!"
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /chrome-using-too-much-memory-solution/

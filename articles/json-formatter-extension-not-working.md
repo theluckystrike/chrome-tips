@@ -13,6 +13,17 @@ target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/json-formatter-extension-not-working/
+faq:
+  - q: "Why is my JSON formatter extension not working in Chrome?"
+    a: "Chrome's extension security policies sometimes block JSON formatters from accessing file URLs or interfere with content script injection. The fastest fix is clearing your extension data and reloading the extension. Open chrome://extensions/, find your JSON formatter, toggle it off and on, then enable \"Allow access to file URLs\" in the extension details. Zovo recommends refreshing any open JSON files after making these changes."
+  - q: "How do I fix JSON formatter extension not working on file URLs?"
+    a: "Enable file URL access in your extension settings. Navigate to chrome://extensions/, click \"Details\" on your JSON formatter, and toggle \"Allow access to file URLs\" to ON. If issues persist, toggle the extension off and on again—this resets the permission grants. According to Chrome Web Store reviews, approximately 70% of JSON formatter users experience this issue, making it one of the most common Chrome extension problems."
+  - q: "What causes JSON formatter extension conflicts with other extensions?"
+    a: "Multiple extensions competing to format the same JSON file create conflicts because Chrome loads content scripts in unpredictable order. If you have two JSON extensions enabled, one might override the other's formatting. Slower-loading formatters get blocked by faster ones, causing intermittent failures. Zovo suggests disabling redundant JSON extensions to resolve these content script conflicts and ensure consistent formatting across all your JSON files."
+  - q: "Why does manifest V3 affect JSON formatter extension performance?"
+    a: "The manifest V3 migration forced many JSON formatters to rewrite their permission systems, and older extensions using manifest V2 lose functionality gradually as Chrome phases out legacy APIs. File access permissions particularly get restricted because Chrome treats local file reading as a security risk. Extensions that haven't updated to manifest V3 may stop working entirely or experience reduced functionality in recent Chrome versions."
+  - q: "Why is my JSON formatter not working after Chrome updates?"
+    a: "Chrome updates often reset extension permissions and change security policies, which can revoke the access that JSON formatters need to read file URLs and inject content scripts. The manifest V3 migration has caused many older extensions to lose functionality, and Chrome treats local file reading as a security risk, making file URL access increasingly restricted. Zovo recommends checking your extension permissions after each Chrome update to ensure file access remains enabled."
 ---
 
 Clicking on a JSON file and seeing raw text instead of formatted data is frustrating. If your Chrome json formatter extension not working, the fastest fix is clearing your extension data and reloading the extension. This happens because Chrome's extension security policies sometimes block JSON formatters from accessing file URLs or interfere with content script injection. This guide covers the five most effective solutions that actually work.

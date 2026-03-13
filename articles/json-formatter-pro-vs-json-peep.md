@@ -38,6 +38,7 @@ faq:
     a: "JSON Formatter Pro supports files up to 100MB, while JSON Peep is limited to approximately 10MB. During performance testing, JSON Formatter Pro handled a 25MB file without issues, completing formatting in 2.3 seconds. JSON Peep showed significant struggles with files exceeding 5MB, frequently causing browser lag. The difference in capacity is substantial for developers working with large API responses."
   - q: "How fast is JSON Formatter Pro compared to JSON Peep?"
     a: "JSON Formatter Pro is roughly 40% faster than JSON Peep when parsing large JSON files. In benchmark tests with a 25MB file, JSON Formatter Pro formatted the content in just 2.3 seconds while maintaining smooth scrolling performance. JSON Peep's limited parsing speed becomes particularly apparent with files over 5MB, often resulting in unresponsive tabs that frustrate developers."
+video_id: "GMzAYDNsZCE"
 ---
 
 **JSON Formatter Pro** wins this comparison for most developers. After testing both extensions across 15 different JSON files ranging from 2KB to 50MB, JSON Formatter Pro consistently delivered faster parsing, cleaner formatting, and more reliable error handling. The json formatter pro vs json peep debate comes down to performance versus simplicity, but JSON Formatter Pro excels in both areas.
@@ -51,6 +52,12 @@ faq:
 | Speed | JSON Formatter Pro | 40% faster parsing on large files |
 | Features | JSON Formatter Pro | Syntax highlighting, collapsible nodes, search |
 | Price/Value | JSON Formatter Pro | Free with premium features |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/GMzAYDNsZCE" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="The Ultimate Chrome JSON Extension"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: The Ultimate Chrome JSON Extension — dcode</p>
+
 
 ## Feature Comparison
 

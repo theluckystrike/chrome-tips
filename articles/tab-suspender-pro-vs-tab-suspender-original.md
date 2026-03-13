@@ -23,7 +23,8 @@ Tab Suspender Pro is the stronger pick for most Chrome users in 2026. After runn
 ## Quick Verdict
 
 | Category | Tab Suspender Pro | Tab Suspender Original | Winner |
-|----------|------------------|------------------------|--------|
+|video_id: "rR3P8Gf4v8A"
+----------|------------------|------------------------|--------|
 | **Speed** | ~0.3s tab restore (snapshot) | ~1.5s (full reload) | Tab Suspender Pro |
 | **Features** | Whitelists, regex, timers, form guard | Basic timer, simple UI | Tab Suspender Pro |
 | **Price/Value** | Free (Pro tier $1.99/mo) | Free | Tab Suspender Original |
@@ -40,6 +41,12 @@ Tab Suspender Pro is the stronger pick for most Chrome users in 2026. After runn
 | Domain Whitelisting | Unlimited with regex patterns | Up to 10 fixed domains | Developers | Both free |
 | Form Data Protection | Yes — detects unsaved input | No | Data safety | TSP Pro $1.99/mo |
 | Extension Size | ~1.2MB | ~300KB | Low-spec machines | Both free |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/rR3P8Gf4v8A" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Chrome's New Tab Suspension Feature Explained"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: Chrome's New Tab Suspension Feature Explained — Automation Hunter</p>
+
 
 ## Key Differences
 

@@ -12,6 +12,7 @@ target_keyword: "chrome scroll lag too many tabs"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-scroll-lag-too-many-tabs/
 ---
 
 You're scrolling through a webpage and Chrome suddenly stutters like it's running on a potato. If you're experiencing chrome scroll lag too many tabs, the fastest fix is enabling tab discarding in `chrome://flags/#automatic-tab-discarding`. This happens because Chrome's process-per-tab architecture overloads your system memory when you exceed 20-30 active tabs. This article covers immediate fixes and permanent solutions.

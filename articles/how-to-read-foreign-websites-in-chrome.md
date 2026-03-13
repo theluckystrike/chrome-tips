@@ -1,7 +1,10 @@
+[2026-03-14 06:23:33] [m15]   Description too short: 137 chars (target 150-160)
+[2026-03-14 06:24:01] [m15]   Description rewritten: 164 chars
+[2026-03-14 06:24:01] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "How to Read Foreign Language Websites in Chrome"
-description: "Learn how to read foreign websites in Chrome using built-in translation tools and advanced extensions for seamless multilingual browsing."
+description: "Discover how to read foreign websites in chrome with simple translation settings. Enable Chrome's built-in translator and browse any international site. Try it now!"
 date: 2026-03-14
 last_modified_at: 2026-03-14
 permalink: /how-to-read-foreign-websites-in-chrome/

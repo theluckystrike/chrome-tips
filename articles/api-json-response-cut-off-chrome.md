@@ -12,6 +12,7 @@ target_keyword: "api json response cut off chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/api-json-response-cut-off-chrome/
 ---
 
 You're debugging an API call when Chrome suddenly shows incomplete JSON data. When your api json response cut off chrome issue strikes, the fastest fix is clearing your DevTools cache and increasing the console message limit to 1000 entries. This happens because Chrome's memory management truncates large responses to prevent browser crashes. This guide covers five proven fixes and a permanent automation solution.

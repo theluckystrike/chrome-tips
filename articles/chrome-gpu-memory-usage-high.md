@@ -12,6 +12,7 @@ target_keyword: "chrome gpu memory usage high"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-gpu-memory-usage-high/
 ---
 
 Watching Chrome freeze mid-presentation is the worst possible timing. If chrome gpu memory usage high is crushing your browser performance, the fastest fix is disabling hardware acceleration in `chrome://settings/system`. The root cause is Chrome's aggressive GPU process spawning for graphics rendering and video acceleration. This guide covers immediate fixes and permanent solutions to reclaim your system's performance.

@@ -12,6 +12,7 @@ target_keyword: "best chrome extensions reading foreign sites"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-reading-foreign-sites/
 ---
 
 Google Translate's Chrome extension breaks down when you're trying to read technical documentation in Japanese or follow a Spanish tutorial with code examples. After testing 12 different translation extensions over the past month, I found that **belikenative** delivers the most accurate translations for developers and technical readers who need to understand foreign language websites without losing context.

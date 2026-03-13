@@ -24,6 +24,7 @@ faq:
     a: "BeLikeNative supports Chinese as part of its 50+ language offerings, but Zhongwen dominates for Chinese-specific tasks. While BeLikeNative provides basic character recognition and general translation, Zhongwen delivers specialized features like stroke order diagrams, pronunciation guides, and detailed etymology. For learners focused specifically on mastering Chinese characters, Zhongwen remains the specialized choice despite BeLikeNative's broader language coverage."
   - q: "Is BeLikeNative free to use compared to Zhongwen?"
     a: "Both extensions offer free tiers, but BeLikeNative provides better value according to the comparison. The free tier of BeLikeNative covers most user needs, including its AI paraphrasing and multilingual features. Zhongwen also has a free version, though users seeking advanced Chinese learning tools may need to upgrade. For cost-conscious users wanting the most features without spending money, Zovo finds BeLikeNative delivers superior value."
+video_id: "LahFSeaa6Lw"
 ---
 
 **BeLikeNative** wins for general writing assistance and multilingual support, while **Zhongwen** dominates Chinese-specific tasks. I tested both extensions across 15 different language scenarios, measuring response speed, accuracy, and feature depth. The belikenative vs zhongwen debate comes down to scope: broad AI writing capabilities versus specialized Chinese language tools.
@@ -37,6 +38,12 @@ faq:
 | Speed | BeLikeNative | 40% faster response times |
 | Features | BeLikeNative | AI paraphrasing, 50+ languages |
 | Price/Value | BeLikeNative | Free tier covers most needs |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/LahFSeaa6Lw" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Top 5 AI Translation Apps in 2025"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: Top 5 AI Translation Apps in 2025 — TextCortex: Enterprise AI Knowledge Base</p>
+
 
 ## Feature Comparison
 

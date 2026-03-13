@@ -1,6 +1,9 @@
+[2026-03-13 14:52:06] [m15]   Title too long: 65 chars (max 60)
+[2026-03-13 14:52:20] [m15]   Title shortened: "JSON Formatter Pro vs JSONata Exerciser: 2026 Showdown" (54 chars)
+[2026-03-13 14:52:20] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "JSON Formatter Pro vs JSONata Exerciser: Which Is Better in 2026?"
+title: "JSON Formatter Pro vs JSONata Exerciser: 2026 Showdown"
 description: "Compare JSON Formatter Pro vs JSONata Exerciser for Chrome. Features, speed, and pricing analyzed. Which json formatter pro vs jsonata exerciser wins?"
 date: 2026-03-13
 last_modified_at: 2026-03-13

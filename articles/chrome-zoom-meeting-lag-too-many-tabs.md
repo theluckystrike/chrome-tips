@@ -24,6 +24,17 @@ og:
   url: "https://theluckystrike.github.io/chrome-tips/chrome-zoom-meeting-lag-too-many-tabs/"
   image: "https://og-image.vercel.app/Chrome%20Slowing%20Down%20Zoom%20Meetings%3A%20Tab%20Management%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-zoom-meeting-lag-too-many-tabs/
+faq:
+  - q: "Why does Chrome cause lag in Zoom meetings?"
+    a: "Chrome causes lag in Zoom meetings because its architecture treats each tab as a separate process, consuming 50-200MB of RAM per tab even when inactive. With 15 tabs open, Chrome uses 750MB to 3GB before Zoom loads. This memory competition with Zoom's 150-500MB processing requirement creates resource conflicts that cause stuttering and freezing. Zovo recommends closing unnecessary tabs to free up resources for smooth video calls."
+  - q: "How many Chrome tabs cause zoom meeting lag?"
+    a: "As few as 15 tabs can cause significant Zoom meeting lag. These 15 tabs consume 750MB to 3GB of memory even when you're not using them, competing directly with Zoom's resource needs. Each background tab continues running JavaScript and making network requests, creating additional CPU strain. Keeping only Zoom plus 2-3 essential tabs open prevents this resource competition and eliminates lag."
+  - q: "How do I fix Chrome slowing down Zoom?"
+    a: "To fix Chrome slowing down Zoom, close all non-essential tabs immediately. Enable automatic tab discarding by navigating to chrome://flags/#automatic-tab-discarding and restarting Chrome. Additionally, lower your Zoom video quality to 720p in Settings > Video to reduce processing demands. These three steps eliminate the memory conflict between Chrome and Zoom's competing processes."
+  - q: "Why do background Chrome tabs slow down my computer during calls?"
+    a: "Background Chrome tabs continue consuming CPU cycles even when you're not viewing them. They run JavaScript, render animations, and make network requests constantly. Sites like Facebook and Twitter refresh every 30-60 seconds automatically. During video calls, this background activity creates micro-interruptions that manifest as choppy audio and delayed video frames, directly degrading your Zoom experience."
+  - q: "How much memory does Chrome use with many tabs open?"
+    a: "Chrome uses 50-200MB of RAM per tab even when completely inactive, meaning 20 tabs can consume 1-4GB of memory before you open any other application. This memory-intensive architecture directly conflicts with Zoom's 150-500MB requirement for video processing, plus additional memory for screen sharing and background blur. The resulting resource starvation causes freezing and stuttering during meetings."
 ---
 
 Your video freezes mid-presentation while 20 tabs drain your system resources. If Chrome is slowing down zoom meetings, the fastest fix is closing unnecessary tabs and enabling automatic tab discarding in `chrome://flags/#automatic-tab-discarding`. The root cause is Chrome's memory-intensive tab architecture competing with Zoom's real-time video processing. This article covers immediate fixes and a permanent solution to prevent chrome zoom meeting lag tabs from ruining your calls.

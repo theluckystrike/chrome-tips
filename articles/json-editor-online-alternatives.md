@@ -12,6 +12,7 @@ target_keyword: "json editor online alternatives"
 target_extension: "json-formatter-pro"
 word_count: 1127
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-editor-online-alternatives/
 ---
 
 JSON Editor Online crashes when you paste large files, forcing you to restart your browser and lose all your work. After testing 7 json editor online alternatives over the past month, **JSON Formatter Pro** consistently handles files up to 50MB without breaking a sweat.

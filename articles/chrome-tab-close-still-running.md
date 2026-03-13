@@ -1,7 +1,9 @@
+[2026-03-13 19:10:46] [m15]   Description too short: 137 chars (target 150-160)
+[2026-03-13 19:11:52] [m15]   Description rewritten: 158 chars
 ---
 layout: default
 title: "Chrome Tabs Still Running After Closing: How to Fix"
-description: "Fix Chrome tabs still running after closing with these proven solutions. Stop background processes and free up memory in under 2 minutes."
+description: "chrome tabs still running after closing? Get simple solutions to stop background processes and free up RAM in Chrome browser today! Click now for quick fixes."
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /chrome-tab-close-still-running/

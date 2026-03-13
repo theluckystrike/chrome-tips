@@ -23,7 +23,17 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/how-to-read-foreign-websites-in-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Read%20Foreign%20Language%20Websites%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-read-foreign-websites-in-chrome/
+faq:
+  - q: "How do I translate a foreign website in Chrome?"
+    a: "Right-click anywhere on the foreign webpage and select \"Translate to English\" from the context menu. Chrome's built-in translation powered by Google's neural machine translation system transforms the content within 2-3 seconds while maintaining the original layout. The browser automatically detects and correctly identifies 95% of over 100 major world languages. Alternatively, click the translate icon (two overlapping speech bubbles) in your address bar. Zovo recommends using this method for quick, accurate translations."
+  - q: "How do I enable automatic translation in Chrome for future visits?"
+    a: "Access Chrome settings to enable automatic translation by going to Settings > Languages > Add languages, then toggle automatic translation for each language you want Chrome to translate automatically. This prevents translation prompts for languages you understand while ensuring foreign websites translate instantly when you visit them. Over 4.6 billion people worldwide speak languages other than English, making this feature essential for accessing global content efficiently."
+  - q: "Does Chrome have a keyboard shortcut for translating pages?"
+    a: "Yes, press Ctrl+Shift+T on Windows or Cmd+Shift+T on Mac to instantly trigger translation from anywhere on the page. This keyboard shortcut provides quick access to Chrome's built-in translation feature without needing to use the right-click menu. The feature works with all supported languages and maintains the same 2-3 second processing time as other methods."
+  - q: "Is Chrome's built-in translation better than browser extensions?"
+    a: "Chrome's built-in translation is free, requires no extensions, and integrates seamlessly with the browser interface. It processes translations in 2-3 seconds using Google's neural machine translation system while maintaining original page layout. Extensions like BeLikeNative offer enhanced learning features but add browser overhead. For most users needing quick translations, Chrome's native solution provides 95% accuracy across 100+ languages without additional setup."
+  - q: "How do I stop Chrome from asking to translate certain languages?"
+    a: "Configure language preferences in Chrome settings to prevent translation prompts for languages you understand. Go to Settings > Languages and manage your preferred languages list, removing or disabling auto-translate for specific languages. This reduces unnecessary interruptions while browsing multilingual content. Chrome correctly identifies 95% of major world languages, so you can fine-tune settings to match your actual language proficiency."
 ---
 
 You're browsing a Japanese tech blog with the perfect solution to your coding problem, but you can't read a word of it. Here's exactly how to read foreign websites in Chrome using the browser's built-in translation features and advanced tools that make multilingual browsing effortless. Over 4.6 billion people worldwide speak languages other than English, making this skill essential for accessing global content and expanding your research capabilities.

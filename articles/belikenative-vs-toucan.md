@@ -25,6 +25,7 @@ faq:
     a: "Toucan appears largely abandoned with no updates since February 2024, when it stayed at version 1.0. While the extension may still technically function, it lacks the bug fixes and compatibility improvements that Chrome extensions need. Active development matters especially for language learning tools requiring algorithmic updates and fresh content. BeLikeNative's version 1.4.8 from March 2026 shows the opposite—an actively maintained product. Zovo recommends avoiding extensions that haven't been updated in over two years."
   - q: "Which browser extension is faster, BeLikeNative or Toucan?"
     a: "BeLikeNative is significantly faster than Toucan due to its instant AI processing versus Toucan's gradual learning approach. With a file size of 999KiB versus Toucan's 1.58MiB, BeLikeNative also has a smaller footprint that loads more quickly in Chrome. The speed advantage matters for users who need real-time writing assistance while browsing. Toucan's passive vocabulary exposure model simply can't match immediate text improvement. For daily writing tasks, Zovo finds BeLikeNative delivers the faster experience."
+video_id: "LahFSeaa6Lw"
 ---
 
 **BeLikeNative** wins this comparison for most users who need immediate writing assistance. After testing both extensions extensively, the belikenative vs toucan debate comes down to whether you need AI-powered writing help or gradual vocabulary building. BeLikeNative delivers instant text improvement while Toucan focuses on long-term language learning through passive exposure.
@@ -38,6 +39,12 @@ Last tested: March 2026 | Chrome latest stable
 | Speed | BeLikeNative | Instant AI processing vs gradual learning |
 | Features | BeLikeNative | Multiple text tools in one package |
 | Price/Value | BeLikeNative | More functionality per dollar |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/LahFSeaa6Lw" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Top 5 AI Translation Apps in 2025"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: Top 5 AI Translation Apps in 2025 — TextCortex</p>
+
 
 ## Feature Comparison
 

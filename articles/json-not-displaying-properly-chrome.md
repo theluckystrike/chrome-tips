@@ -1,6 +1,3 @@
-[2026-03-13 19:20:00] [m15]   Description too short: 143 chars (target 150-160)
-[2026-03-13 19:20:16] [m15]   Description rewritten: 153 chars
-[2026-03-13 19:20:16] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON Not Displaying Properly in Chrome: How to Fix It"
@@ -26,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/json-not-displaying-properly-chrome/"
   image: "https://og-image.vercel.app/JSON%20Not%20Displaying%20Properly%20in%20Chrome%3A%20How%20to%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-not-displaying-properly-chrome/
 ---
 
 Opening a JSON API response in Chrome only to see a wall of unformatted text is frustrating. If you're dealing with json not displaying properly chrome, the fastest fix is enabling Chrome's built-in JSON viewer through `chrome://flags/#enable-json-viewer`. The root cause is Chrome's default text parser treating JSON as plain text instead of structured data. This article covers immediate fixes, permanent solutions, and why this happens in the first place.

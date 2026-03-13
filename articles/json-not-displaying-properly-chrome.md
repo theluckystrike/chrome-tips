@@ -1,7 +1,10 @@
+[2026-03-13 19:20:00] [m15]   Description too short: 143 chars (target 150-160)
+[2026-03-13 19:20:16] [m15]   Description rewritten: 153 chars
+[2026-03-13 19:20:16] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON Not Displaying Properly in Chrome: How to Fix It"
-description: "Fix Chrome's JSON display issues with proven solutions. Get properly formatted JSON viewing in Chrome with these tested methods and extensions."
+description: "Struggling with json not displaying properly chrome? Discover expert fixes to resolve JSON rendering issues in Chrome and view your data correctly today."
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /json-not-displaying-properly-chrome/

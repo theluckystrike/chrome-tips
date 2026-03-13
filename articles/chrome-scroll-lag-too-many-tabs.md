@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-scroll-lag-too-many-tabs/
+faq:
+  - q: "How do I fix Chrome scroll lag with too many tabs?"
+    a: "Enable automatic tab discarding by navigating to chrome://flags/#automatic-tab-discarding and changing it from Default to Enabled, then restart Chrome. This immediately frees memory by suspending inactive tabs, eliminating scroll stuttering caused by memory saturation when you exceed 20-30 open tabs. Zovo recommends this as the fastest fix for chrome scroll lag too many tabs users experience."
+  - q: "Why does Chrome stutter when I have too many tabs open?"
+    a: "Chrome uses a process-per-tab architecture, creating 120-160 active processes when you have 40+ tabs open. Each tab consumes 100-150MB of memory, and when your available RAM drops below 20% (around 1-2GB free), the CPU struggles with context switching between processes. This competition starves the main UI thread, causing visible scroll lag and stuttering during Chrome scroll lag with too many tabs."
+  - q: "How much memory does Chrome use with many tabs?"
+    a: "Chrome allocates approximately 100-150MB per active tab, meaning 30 tabs can consume 3-4.5GB of memory before counting extensions and background processes. This memory saturation creates scroll delays as Chrome's rendering competes with memory management tasks. When your system hits this threshold, chrome scroll lag too many tabs becomes noticeable and impacts browsing performance significantly."
+  - q: "What is the tab threshold for Chrome performance issues?"
+    a: "Chrome performance typically degrades when you exceed 20-30 active tabs. Beyond this threshold, memory saturation and process overhead combine to cause scroll lag and UI unresponsiveness. With 40+ tabs, you're juggling 120-160 concurrent processes, overwhelming most systems. Users experiencing chrome scroll lag too many tabs should enable automatic tab discarding or reduce their open tab count."
+  - q: "Does enabling tab discarding improve Chrome scrolling?"
+    a: "Yes, automatic tab discarding significantly improves Chrome scrolling by automatically freezing and discarding background tabs to conserve system resources. When enabled at chrome://flags/#automatic-tab-discarding, Chrome suspends inactive tabs without closing them, freeing memory and reducing process overhead. This prevents chrome scroll lag too many tabs by ensuring your system maintains adequate resources for smooth UI rendering."
 ---
 
 You're scrolling through a webpage and Chrome suddenly stutters like it's running on a potato. If you're experiencing chrome scroll lag too many tabs, the fastest fix is enabling tab discarding in `chrome://flags/#automatic-tab-discarding`. This happens because Chrome's process-per-tab architecture overloads your system memory when you exceed 20-30 active tabs. This article covers immediate fixes and permanent solutions.

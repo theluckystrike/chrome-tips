@@ -1,7 +1,10 @@
+[2026-03-13 20:12:32] [m15]   Description too short: 137 chars (target 150-160)
+[2026-03-13 20:12:42] [m15]   Description rewritten: 157 chars
+[2026-03-13 20:12:42] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Chrome Only Translates Part of the Page: Fix"
-description: "Fix Chrome translate only partial page issues with proven solutions. Working methods to get full page translation in Chrome browser 2026."
+description: "Fix Chrome translate only partial page issue with these simple solutions. Learn why Chrome only translates part of the page and get complete translation now!"
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /chrome-translate-only-partial-page/

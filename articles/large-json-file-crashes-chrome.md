@@ -1,6 +1,3 @@
-[2026-03-13 18:47:24] [m15]   Description too short: 134 chars (target 150-160)
-[2026-03-13 18:48:17] [m15]   Description rewritten: 154 chars
-[2026-03-13 18:48:17] [m15]   WARNING: Thin keyword usage: 0 occurrences (target 3-7)
 ---
 layout: default
 title: "Large JSON File Crashes Chrome: How to Handle Big Data"
@@ -26,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/large-json-file-crashes-chrome/"
   image: "https://og-image.vercel.app/Large%20JSON%20File%20Crashes%20Chrome%3A%20How%20to%20Handle%20Big%20Data.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/large-json-file-crashes-chrome/
 ---
 
 If Chrome crashes when you open large JSON files, the fastest fix is adjusting memory settings in `chrome://flags/#max-tiles-for-interest-area`. Large JSON files consume excessive RAM during parsing, overwhelming Chrome's V8 engine and causing tab crashes or complete browser freezes. This article covers the root causes behind these crashes and provides four working solutions, from quick manual fixes to permanent automation with browser extensions.

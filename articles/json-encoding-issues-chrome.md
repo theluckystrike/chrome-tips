@@ -12,6 +12,17 @@ target_keyword: "json encoding issues chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+image: "https://og-image.vercel.app/JSON%20Encoding%20Issues%20in%20Chrome%3A%20UTF-8%20and%20Special%20Characters.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "JSON Encoding Issues in Chrome: UTF-8 and Special Characters"
+  description: "Fix Chrome JSON encoding problems with UTF-8 characters and special symbols. Working solutions for developers dealing with malformed JSON display."
+og:
+  title: "JSON Encoding Issues in Chrome: UTF-8 and Special Characters"
+  description: "Fix Chrome JSON encoding problems with UTF-8 characters and special symbols. Working solutions for developers dealing with malformed JSON display."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/json-encoding-issues-chrome/"
+  image: "https://og-image.vercel.app/JSON%20Encoding%20Issues%20in%20Chrome%3A%20UTF-8%20and%20Special%20Characters.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Your API returns perfect JSON, but Chrome displays garbled characters where your UTF-8 text should be. If Chrome has json encoding issues in chrome, the fastest fix is checking your Content-Type headers and ensuring proper UTF-8 encoding in your server response. The root cause is usually mismatched character encoding between your server and Chrome's parser. This article covers the technical reasons behind encoding problems and four proven fixes to restore readable JSON in your browser.

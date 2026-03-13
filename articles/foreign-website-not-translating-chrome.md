@@ -13,6 +13,17 @@ target_extension: "belikenative"
 word_count: 1187
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/foreign-website-not-translating-chrome/
+image: "https://og-image.vercel.app/Foreign%20Website%20Not%20Translating%20in%20Chrome%3A%20What%20to%20Do.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Foreign Website Not Translating in Chrome: What to Do"
+  description: "Fix Chrome translation not working on foreign websites with proven methods. Get accurate translation working again in under 5 minutes with these steps."
+og:
+  title: "Foreign Website Not Translating in Chrome: What to Do"
+  description: "Fix Chrome translation not working on foreign websites with proven methods. Get accurate translation working again in under 5 minutes with these steps."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/foreign-website-not-translating-chrome/"
+  image: "https://og-image.vercel.app/Foreign%20Website%20Not%20Translating%20in%20Chrome%3A%20What%20to%20Do.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Chrome's built-in translator stops working when you need it most. When foreign website not translating chrome appears, the fastest fix is clearing Chrome's language detection cache through `chrome://settings/languages` and toggling "Offer to translate pages that aren't in a language you read" off and back on. This resets Chrome's translation engine and resolves 80% of translation failures. The root cause is typically Chrome's language detection getting confused by mixed-language content or cached translation preferences blocking automatic detection.

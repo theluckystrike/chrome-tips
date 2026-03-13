@@ -23,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/chrome-taking-too-long-to-load/"
   image: "https://og-image.vercel.app/Chrome%20Taking%20Too%20Long%20to%20Load%20With%20Many%20Tabs.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-taking-too-long-to-load/
 ---
 
 Watching Chrome freeze while you're trying to switch between tabs is maddening. If Chrome is taking too long to load many tabs, the fastest fix is enabling automatic tab discarding in chrome://flags/#automatic-tab-discarding. The root cause is Chrome's memory-hungry architecture that keeps every tab active in RAM simultaneously. This article covers the technical reasons behind the slowdown and four proven methods to fix it permanently.

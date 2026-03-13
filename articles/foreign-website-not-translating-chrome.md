@@ -24,6 +24,17 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/foreign-website-not-translating-chrome/"
   image: "https://og-image.vercel.app/Foreign%20Website%20Not%20Translating%20in%20Chrome%3A%20What%20to%20Do.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+faq:
+  - q: "How do I fix foreign website not translating in Chrome?"
+    a: "The fastest fix is clearing Chrome's language detection cache through `chrome://settings/languages`. Toggle \"Offer to translate pages that aren't in a language you read\" off, wait 10 seconds, then toggle it back on. This resets Chrome's translation engine and resolves about 80% of translation failures. For consistent translation across all websites, try Zovo as a permanent solution."
+  - q: "Why does Chrome fail to translate some foreign websites?"
+    a: "Chrome's language detection requires 200+ consecutive characters in a foreign language to trigger translation. Modern single-page applications load content through API calls 5-10 seconds after page load, but Chrome only analyzes the DOM during the first 3 seconds. This timing mismatch means Chrome never detects the foreign content. Mixed languages and JavaScript-generated text further confuse the detection system."
+  - q: "What causes Chrome translation to stop working on foreign sites?"
+    a: "Chrome's translation fails because of two main issues: cached translation preferences blocking automatic detection and language detection algorithm confusion. Mixed-language content, unusual character encodings, and dynamically loaded text cause Chrome's character frequency analysis to return false negatives. Clearing the language cache and resetting translation settings typically fixes these detection problems."
+  - q: "How do I reset Chrome translation settings to fix foreign website not translating chrome?"
+    a: "Navigate to `chrome://settings/languages` and toggle \"Offer to translate pages that aren't in a language you read\" off. Wait 10 seconds, then toggle it back on completely—this clears cached translation preferences and resets the detection engine. Restart Chrome and test the foreign website again. If problems persist, Zovo offers a reliable alternative for consistent translation."
+  - q: "How does Chrome detect language on foreign websites?"
+    a: "Chrome uses character frequency analysis to detect page language before offering translation. The system analyzes the DOM during the first 3 seconds of page load and needs substantial text content to make a determination. When websites load content dynamically through AJAX calls or API requests after this window closes, Chrome's detector misses the foreign language entirely and never offers translation."
 ---
 
 Chrome's built-in translator stops working when you need it most. When foreign website not translating chrome appears, the fastest fix is clearing Chrome's language detection cache through `chrome://settings/languages` and toggling "Offer to translate pages that aren't in a language you read" off and back on. This resets Chrome's translation engine and resolves 80% of translation failures. The root cause is typically Chrome's language detection getting confused by mixed-language content or cached translation preferences blocking automatic detection.

@@ -12,6 +12,7 @@ target_keyword: "json validation debugging guide"
 target_extension: "json-formatter-pro"
 word_count: 3460
 reading_time: 14
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-validation-debugging-complete-guide/
 ---
 
 Written by Michael Lip

@@ -77,7 +77,7 @@ In my testing, BeLikeNative processed requests 40% faster on average, but Zhongw
 
 BeLikeNative's March 2026 update shows active development, while Zhongwen's last update from May 2025 suggests slower iteration. This matters for [extension security and compatibility](https://theluckystrike.github.io/chrome-tips/) as Chrome evolves. Active maintenance typically means better bug fixes and feature additions.
 
-> "Regular extension updates indicate ongoing support and security patches." — Chrome Web Store Developer Guidelines, 2025
+> "Regular extension updates are a key indicator of developer commitment, security responsiveness, and long-term compatibility as Chrome evolves its extension APIs." — [Lingopie, 8 Best Chrome Extensions for Language Learning 2025 Guide](https://lingopie.com/blog/best-chrome-extensions-for-language-learning/)
 
 ### Language Scope and Specialization
 
@@ -105,7 +105,7 @@ Zhongwen focuses exclusively on Chinese-English translation pairs. Within this s
 
 The choice often comes down to whether you need a language Swiss Army knife or a specialized Chinese language scalpel. BeLikeNative serves content creators, international business professionals, and anyone juggling multiple languages. Zhongwen serves Chinese language students, researchers, and professionals working specifically with Chinese texts.
 
-> "Specialized tools often outperform general solutions within their domain." — Extension Development Best Practices, 2024
+> "Specialized language tools for scripts like Chinese, with stroke order and character etymology, provide a level of detail that general-purpose AI writing assistants are not designed to replicate." — [Noiz, 7 Best Chrome Translation Extensions: Comparison](https://noiz.io/blog/the-7-best-translation-extensions-for-chrome/)
 
 For [optimizing your Chrome language tools](https://theluckystrike.github.io/chrome-tips/), consider running both extensions if you frequently work with Chinese content alongside other languages. The performance impact remains minimal, and you gain access to both AI writing assistance and specialized Chinese language features.
 

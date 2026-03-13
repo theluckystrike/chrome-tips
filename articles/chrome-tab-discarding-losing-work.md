@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1187
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-tab-discarding-losing-work/
+image: "https://og-image.vercel.app/Chrome%20Tab%20Discarding%20Is%20Losing%20Your%20Work%3A%20How%20to%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Chrome Tab Discarding Is Losing Your Work: How to Fix It"
+  description: "Stop Chrome tab discarding from losing your work with these proven fixes. Get back control of your browser tabs and save your progress permanently."
+og:
+  title: "Chrome Tab Discarding Is Losing Your Work: How to Fix It"
+  description: "Stop Chrome tab discarding from losing your work with these proven fixes. Get back control of your browser tabs and save your progress permanently."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-tab-discarding-losing-work/"
+  image: "https://og-image.vercel.app/Chrome%20Tab%20Discarding%20Is%20Losing%20Your%20Work%3A%20How%20to%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You're typing away in a form when suddenly Chrome refreshes the tab and erases everything. If chrome tab discarding is losing your work, the fastest fix is disabling automatic tab discarding in Chrome's memory settings. This happens because Chrome aggressively manages memory by discarding inactive tabs to free up system resources. This article covers why Chrome does this, four manual fixes that work right now, and a permanent solution that prevents future data loss.

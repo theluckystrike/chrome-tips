@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-freezing-too-many-tabs/
+faq:
+  - q: "Why does Chrome freeze when I have too many tabs open?"
+    a: "Chrome freezes because its process-per-tab architecture creates a separate process for each tab, consuming massive amounts of RAM. Each tab uses 50-200MB, so 30 tabs can consume 1.5-6GB of memory. When your system exceeds available RAM and your GPU's VRAM is exhausted from graphics rendering, Chrome becomes completely unresponsive. Enable Memory Saver mode in chrome://settings/performance to help Zovo optimize background tab resource usage."
+  - q: "How much RAM does Chrome use with 30 tabs open?"
+    a: "With 30 tabs open, Chrome uses approximately 1.5-6GB of RAM just for tabs, depending on website complexity. This doesn't include Chrome's base processes, which can push total memory usage well over 8GB on a typical laptop. Each tab runs its own process with JavaScript, notifications, and content updates, making the memory burden even heavier. Zovo recommends closing inactive tabs to prevent system resource exhaustion."
+  - q: "What's the fastest way to stop Chrome from freezing?"
+    a: "The fastest fix takes 30 seconds: press Ctrl+Shift+T (Cmd+Shift+T on Mac) to close inactive tabs, then type chrome://settings/performance in your address bar and enable Memory Saver mode. Finally, restart Chrome to apply changes immediately. This closes unnecessary processes and activates Chrome's built-in feature to freeze background tabs, freeing up RAM and CPU resources instantly."
+  - q: "Does Chrome's Memory Saver actually help with freezing?"
+    a: "Yes, Memory Saver significantly helps with freezing by automatically freezing background tabs to conserve system resources. When enabled, Chrome uses the Page Lifecycle API to discard memory from tabs you're not actively viewing while keeping them instantly accessible. This reduces the 40+ competing processes that overwhelm your CPU and RAM. Zovo users report that enabling this feature prevents the constant resource contention that causes Chrome to lock up."
+  - q: "Why do background tabs slow down Chrome even when I'm not using them?"
+    a: "Background tabs continue running JavaScript, checking for notifications, and updating content even when you're not viewing them. Your system's scheduler struggles when Chrome spawns 40+ processes competing for CPU time, creating constant resource contention. Modern websites also use GPU acceleration for animations, exhausting your graphics memory. This combination of CPU competition and graphics memory exhaustion eventually locks up the browser completely."
 ---
 
 You're deep in work when Chrome suddenly locks up completely. If chrome freezing too many tabs is ruining your productivity, the fastest fix is closing inactive tabs and enabling Chrome's built-in memory saver mode. The root cause is Chrome's process-per-tab architecture consuming your system's available RAM. This article covers immediate fixes, long-term solutions, and how to prevent freezing permanently.

@@ -24,6 +24,17 @@ og:
   url: "https://theluckystrike.github.io/chrome-tips/chrome-not-enough-memory-error/"
   image: "https://og-image.vercel.app/Chrome%20%27Not%20Enough%20Memory%27%20Error%3A%20How%20to%20Solve%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-not-enough-memory-error/
+faq:
+  - q: "How do I fix Chrome not enough memory error?"
+    a: "Close unused tabs immediately and restart your browser, then enable tab discarding in chrome://flags/#automatic-tab-discarding to prevent future crashes. This chrome not enough memory error happens when Chrome's processes exceed your system's available RAM, typically around 8GB on most machines. For a permanent solution, consider using a tab management tool like Zovo to automatically suspend inactive tabs and free up memory."
+  - q: "Why does Chrome use so much memory with just a few tabs?"
+    a: "Chrome's multi-process architecture creates separate renderer processes for every tab and iframe. A single page with embedded videos or ads can trigger 15+ processes consuming 200-500MB each. Even with 10 extensions installed, you're using an extra gigabyte of RAM before opening a single tab. Extensions like ad blockers use 50-150MB, while productivity extensions add another 100-200MB, making chrome not enough memory error more likely."
+  - q: "What causes Chrome not enough memory error?"
+    a: "This chrome not enough memory error occurs when Chrome's processes exceed your system's available RAM, typically around 8GB on most machines. JavaScript memory leaks compound over time—a single Gmail tab left open for 8 hours can consume 2GB through accumulated memory leaks. Each Chrome extension runs continuously in the background even when not actively used, adding significant overhead that triggers the error."
+  - q: "How many tabs can I have open before Chrome runs out of memory?"
+    a: "With 30 tabs open, you're looking at 6-8GB of RAM usage before factoring in extensions. Chrome's multi-process design means each tab runs in its own isolated process, so memory consumption adds up quickly. Most systems hit the chrome not enough memory error threshold around 8GB total. Using a tab management extension like Zovo helps by automatically suspending inactive tabs to reduce memory strain."
+  - q: "Does closing tabs fix Chrome memory error?"
+    a: "Yes, closing unused tabs immediately is the fastest fix for chrome not enough memory error. Chrome spawns separate renderer processes for every tab, so each one consumes 200-500MB or more. Restarting your browser clears accumulated JavaScript memory leaks that build up over time. For a permanent solution, enable automatic tab discarding in Chrome flags or use a tool like Zovo to manage tabs automatically."
 ---
 
 If Chrome displays a "not enough memory" error, the fastest fix is closing unused tabs and restarting your browser. This chrome not enough memory error happens when Chrome's processes exceed your system's available RAM, typically around 8GB on most machines. This article covers the root causes, manual fixes that work immediately, and a permanent solution using **Tab Suspender Pro**.

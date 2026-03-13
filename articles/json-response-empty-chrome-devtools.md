@@ -13,6 +13,17 @@ target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/json-response-empty-chrome-devtools/
+faq:
+  - q: "Why does my JSON response appear empty in Chrome DevTools?"
+    a: "The most common reason is a Content-Type header mismatch. Chrome expects application/json to trigger its JSON formatter and pretty-printing. When servers send JSON data with headers like text/plain or text/html, Chrome treats the response as raw text and displays it as empty. Check your Response Headers tab—if the Content-Type isn't application/json, that's your problem. Zovo recommends fixing this on the server side for permanent results."
+  - q: "How do I fix an empty JSON response in Chrome DevTools Network tab?"
+    a: "Press F12 to open DevTools, go to the Network tab, and clear with Ctrl+Shift+Delete (Cmd+Shift+Delete on Mac). Then hard refresh with Ctrl+Shift+R (Cmd+Shift+R on Mac). Right-click the failed request and select 'Copy as cURL' to verify the response actually contains JSON. Check the Response Headers tab for Content-Type—if it's not application/json, that's your problem."
+  - q: "What is the 10MB limit in Chrome DevTools JSON display?"
+    a: "Chrome imposes a 10MB limit on response display in DevTools. Responses larger than this threshold appear truncated or empty, even when the actual network transfer succeeded. If your JSON response is larger than 10MB, Chrome won't display it properly in the Response tab. Consider using a different tool or logging the response to console for debugging large JSON payloads."
+  - q: "How do I verify my JSON response is actually working?"
+    a: "Right-click the failed request in Chrome DevTools and select 'Copy as cURL', then paste it into your terminal to see the raw response. This confirms whether your server is actually returning JSON data. The cURL command bypasses Chrome's formatting and shows exactly what the API is sending. If cURL returns valid JSON but Chrome shows empty, the issue is definitely a Content-Type or display limitation."
+  - q: "Why does Chrome show JSON as empty but cURL works fine?"
+    a: "This happens because of Content-Type header issues or response size limits. Chrome expects application/json to enable its built-in JSON viewer and pretty-printing. If your server returns JSON with text/plain or text/html headers, Chrome treats it as raw text and may display it as empty. Additionally, responses exceeding 10MB appear empty in DevTools even though the network transfer succeeded. Fix the Content-Type header on your server to resolve this."
 ---
 
 You're debugging an API call and Chrome shows nothing where your JSON response should be. When json response empty chrome devtools becomes your daily frustration, the fastest fix is clearing your cache and hard refreshing with Ctrl+Shift+R (Cmd+Shift+R on Mac). The root cause usually involves Chrome's response parsing mechanisms or content-type header issues interfering with JSON display. This guide covers both quick fixes and permanent solutions to get your JSON responses visible again.

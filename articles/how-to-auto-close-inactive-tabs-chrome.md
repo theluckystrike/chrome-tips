@@ -1,7 +1,10 @@
+[2026-03-12 22:59:31] [m15]   Description too short: 139 chars (target 150-160)
+[2026-03-12 23:00:03] [m15]   Description rewritten: 158 chars
+[2026-03-12 23:00:03] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "How to Auto-Close Inactive Tabs in Chrome"
-description: "Learn how to auto close inactive tabs chrome with built-in settings and extensions. Free up memory and boost browser performance instantly."
+description: "Learn how to auto close inactive tabs chrome with simple extensions and settings. Save memory, organize your browser, and boost productivity today! Read more."
 date: 2026-03-12
 last_modified_at: 2026-03-12
 permalink: /how-to-auto-close-inactive-tabs-chrome/

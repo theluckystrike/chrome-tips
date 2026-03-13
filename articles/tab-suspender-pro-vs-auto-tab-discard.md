@@ -13,6 +13,8 @@ target_extension: "tab-suspender-pro"
 word_count: 1087
 reading_time: 5
 internal_links_added: true
+video_id: "rR3P8Gf4v8A"
+---
 
 # Tab Suspender Pro vs Auto Tab Discard: Complete 2026 Comparison
 
@@ -27,6 +29,12 @@ Tab Suspender Pro is the better choice for most Chrome users. After testing both
 | **Speed** | Tabs wake in ~0.3s | Tabs reload in ~1.2s | Tab Suspender Pro |
 | **Features** | Whitelist, regex, timer, form guard | Discard rules, native API | Tab Suspender Pro |
 | **Price/Value** | Free (Pro tier $1.99/mo) | Free | Tie |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/rR3P8Gf4v8A" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Chrome's New Tab Suspension Feature Explained + Update on Marvelous Suspender"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: Chrome's New Tab Suspension Feature Explained + Update on Marvelous Suspender — Automation Hunter</p>
+
 
 ## Feature Comparison
 

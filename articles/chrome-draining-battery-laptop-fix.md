@@ -12,6 +12,7 @@ target_keyword: "chrome draining battery laptop fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-draining-battery-laptop-fix/
 ---
 
 Your laptop battery drops from 80% to 20% in two hours of light browsing. If Chrome is draining laptop battery, the fastest chrome draining battery laptop fix is enabling tab discarding in `chrome://flags/#automatic-tab-discarding`. The root cause is Chrome's process-per-tab architecture keeping inactive tabs fully active. This guide covers both quick fixes and permanent solutions.

@@ -12,6 +12,7 @@ target_keyword: "chrome translate lost formatting"
 target_extension: "belikenative"
 word_count: 1156
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-lost-formatting/
 ---
 
 You're reading a foreign website and hit Chrome's translate button, only to watch the page turn into a jumbled mess. If Chrome translate lost formatting and your text looks broken, the fastest fix is clearing your browser's translation cache and restarting Chrome. This happens because Chrome's translation engine conflicts with CSS styling rules. This article covers why formatting breaks during translation and five proven methods to restore your page layout.

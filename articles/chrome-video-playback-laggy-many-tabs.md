@@ -24,6 +24,17 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/chrome-video-playback-laggy-many-tabs/"
   image: "https://og-image.vercel.app/Chrome%20Video%20Playback%20Laggy%20With%20Many%20Tabs%20Open.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+faq:
+  - q: "Why does Chrome video playback get laggy when I have many tabs open?"
+    a: "Chrome treats each tab as a separate process, and each tab uses 50-200MB of RAM. Video streaming requires an additional 100-300MB for buffering. With 20 tabs open, your browser can consume 4-6GB of RAM, causing Chrome to swap data to disk which is 100x slower than RAM access, creating the lag. Zovo recommends using Chrome's Memory Saver feature to free up resources from inactive tabs."
+  - q: "How much memory does each Chrome tab use?"
+    a: "Each Chrome tab consumes between 50-200MB of RAM depending on website complexity, with video streaming sites requiring an extra 100-300MB for buffering and decoding. A typical browsing session with 20 tabs can easily consume 4-6GB of RAM before accounting for your video stream, which is why memory becomes competition."
+  - q: "What is the best fix for Chrome video lag with multiple tabs?"
+    a: "The fastest fix is pressing Ctrl+Shift+Delete (Windows) or Cmd+Shift+Delete (Mac) to open Chrome's task manager, then sort by memory usage and close the heaviest non-video tabs. You can also enable Memory Saver in chrome://settings/performance to automatically suspend background tabs and free up RAM for your video stream."
+  - q: "Why does Chrome use so much memory with multiple tabs?"
+    a: "Chrome uses a process-per-tab architecture which provides security benefits but creates resource competition. Background tabs continue consuming memory even when inactive—social media feeds auto-refresh every 30-60 seconds and web apps maintain active connections. This means inactive tabs still eat 50-200MB each, competing with your video stream for limited RAM resources."
+  - q: "Does closing unused tabs improve video streaming performance?"
+    a: "Yes, closing unused tabs immediately improves video streaming performance because each tab consumes 50-200MB of RAM even when you're not watching anything on it. When your system runs low on available memory, Chrome starts swapping data to disk storage, which is 100x slower than RAM access and causes video buffering and freezing."
 ---
 
 Watching your video freeze mid-sentence while Chrome crawls to a halt is maddening. If chrome video playback laggy many tabs open is ruining your streaming experience, the fastest fix is closing inactive tabs or suspending background processes eating your RAM. The root cause is Chrome's process-per-tab architecture consuming system resources faster than your hardware can handle. This article covers immediate fixes, technical explanations, and a permanent solution using **tab-suspender-pro**.

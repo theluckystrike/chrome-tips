@@ -12,6 +12,7 @@ target_keyword: "chrome translate accessibility issues"
 target_extension: "belikenative"
 word_count: 1125
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-accessibility-issues/
 ---
 
 Watching your screen reader stumble through a translated webpage is frustrating. If Chrome translate accessibility issues are breaking your workflow, the fastest fix is disabling auto-translate in `chrome://settings/languages` and using manual translation instead. Chrome's built-in translator modifies DOM structure without updating accessibility trees, causing screen readers to lose focus and miss content updates.

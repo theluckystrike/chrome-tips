@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1156
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-keeps-crashing-mac/
+faq:
+  - q: "Why does Chrome keep crashing on my Mac?"
+    a: "Chrome keeps crashing on your Mac primarily due to memory overload from too many active tabs and corrupted cache files. Chrome's process-per-tab architecture means each tab uses 100-300MB of RAM, and 20 tabs can consume 4-6GB. When your Mac hits around 80% memory usage, Chrome becomes unstable. Zovo recommends regularly clearing browsing data to prevent cache corruption from triggering crashes."
+  - q: "How do I fix Chrome when it keeps crashing on Mac?"
+    a: "Force quit Chrome by pressing Cmd+Option+Esc, then restart it. Next, clear all browsing data by going to Chrome menu > Clear Browsing Data and selecting \"All time\" to remove corrupted files. Finally, disable all extensions temporarily to identify problematic ones. These steps address memory overload and corrupted cache, the two main causes of Chrome crashes on Mac."
+  - q: "How much RAM does each Chrome tab use on Mac?"
+    a: "Each Chrome tab on Mac typically uses 100-300MB of RAM, depending on page complexity. With 20 tabs open, Chrome can consume 4-6GB of memory. Unlike Safari, Chrome doesn't fully suspend background tabs, so inactive tabs continue consuming resources. This aggressive memory usage is why Chrome often crashes when your Mac experiences memory pressure around 80% RAM usage."
+  - q: "Does Chrome use more memory than Safari on Mac?"
+    a: "Chrome uses significantly more memory than Safari on Mac due to different tab management approaches. Safari intelligently suspends background tabs to free resources, while Chrome keeps all tabs active even when not in focus. A single Chrome tab can use 100-300MB, and 20 open tabs easily reach 4-6GB compared to Safari's much more efficient memory handling. This is why Chrome crashes more frequently on memory-constrained Macs."
+  - q: "Where does Chrome store cache files on Mac?"
+    a: "Chrome stores cache and profile data in the Application Support folder at `/Users/[username]/Library/Application Support/Google/Chrome/Default/`. When these files become corrupted from improper shutdowns, power failures, or force quits, Chrome cannot initialize properly and crashes on startup. Zovo suggests clearing this cache periodically to avoid corruption-related crashes and ensure smooth browser performance."
 ---
 
 Chrome freezing during an important video call is infuriating. If chrome keeps crashing mac, the fastest fix is clearing browser data and disabling problematic extensions. The root cause is usually memory overload from too many active tabs or corrupted cache files. This guide covers immediate fixes, root causes, and a permanent solution to prevent future crashes.

@@ -12,6 +12,7 @@ target_keyword: "chrome memory leak fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-memory-leak-fix/
 ---
 
 Watching your computer grind to a halt while Chrome devours 8GB of RAM is infuriating. If you need a chrome memory leak fix immediately, enable Memory Saver in chrome://settings/performance and restart your browser. The root cause is Chrome's aggressive tab retention that keeps every opened page fully loaded in memory, even when you haven't looked at them for hours. This guide covers instant fixes, permanent solutions, and why Chrome behaves this way.

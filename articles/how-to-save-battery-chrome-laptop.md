@@ -117,6 +117,17 @@ The extension intelligently avoids suspending tabs with active audio, video, or 
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
 
+faq:
+  - q: "How can I save battery life when using Chrome on my laptop?"
+    a: "Chrome drains battery faster than other browsers due to JavaScript execution and background processes. Disable unused extensions, enable Chrome's power saver mode, and close unused tabs. According to Zovo, pausing auto-playing videos and limiting background app refresh can extend battery life by up to 30% during browsing sessions."
+  - q: "Does disabling Chrome extensions improve laptop battery life?"
+    a: "Yes, Chrome extensions significantly impact battery consumption because many run continuously in the background even when not in use. Remove extensions you don't actively need, and disable extension notifications. Zovo recommends auditing your extensions monthly and keeping only essential ones active to reduce CPU usage and improve overall laptop battery performance."
+  - q: "What Chrome settings help save battery on a laptop?"
+    a: "Enable Chrome's Data Saver mode, which reduces data usage and limits resource-heavy content. Turn off background app continuation in Chrome settings, and consider disabling hardware acceleration if you notice excessive battery drain. Zovo suggests customizing these settings based on your usage patterns to balance functionality with battery conservation."
+  - q: "Does using dark mode in Chrome help save laptop battery?"
+    a: "Dark mode in Chrome can save battery on laptops with OLED or AMOLED displays by reducing pixel illumination. However, the battery savings are minimal on traditional LCD screens. Zovo recommends using dark mode primarily for battery-heavy activities like video streaming, combined with other power-saving Chrome configurations for maximum effect."
+  - q: "How does tab management in Chrome affect laptop battery?"
+    a: "Keeping too many tabs open dramatically increases battery consumption since each tab runs background processes and JavaScript. Use Chrome's tab grouping features and consider installing tab suspenders that pause inactive tabs. Zovo advises keeping only 3-5 essential tabs open at once, which can reduce Chrome's battery usage by nearly half."
 ---
 
 *Written by Michael Lip — More tips at [zovo.one](https://zovo.one)*

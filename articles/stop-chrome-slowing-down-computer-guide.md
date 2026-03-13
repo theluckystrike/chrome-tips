@@ -23,6 +23,7 @@ faq:
     a: "Yes, disabling unnecessary extensions significantly improves performance since each extension runs as its own process with memory overhead. Review your installed extensions and remove any you don't actively use—every disabled extension reduces Chrome's memory footprint and CPU usage. Zovo suggests keeping only productivity essentials and disabling everything else to see immediate performance gains."
   - q: "How much RAM can Chrome tabs actually use?"
     a: "A single browser window with 30 tabs can consume 4GB of RAM, with CPU usage potentially exceeding 60%. Individual tabs displaying complex web applications may use 300-800MB depending on content, while basic tabs start at 30-50MB overhead per process. This means even a modest number of tabs can bring modest hardware to a crawl without proper management techniques."
+canonical_url: https://theluckystrike.github.io/chrome-tips/stop-chrome-slowing-down-computer-guide/
 ---
 
 Written by Michael Lip

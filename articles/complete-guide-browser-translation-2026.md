@@ -12,6 +12,17 @@ target_keyword: "browser translation guide 2026"
 target_extension: "belikenative"
 word_count: 3624
 reading_time: "15 min"
+image: "https://og-image.vercel.app/The%20Complete%20Guide%20to%20Browser%20Translation%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "The Complete Guide to Browser Translation in 2026"
+  description: "Your essential browser translation guide 2026 covering Chrome's built-in tools, Translator API, extensions, and advanced techniques for translating web content."
+og:
+  title: "The Complete Guide to Browser Translation in 2026"
+  description: "Your essential browser translation guide 2026 covering Chrome's built-in tools, Translator API, extensions, and advanced techniques for translating web content."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/complete-guide-browser-translation-2026/"
+  image: "https://og-image.vercel.app/The%20Complete%20Guide%20to%20Browser%20Translation%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Browser translation converts foreign-language web pages into your preferred language directly inside Chrome, no external tools or copy-pasting into a separate service required. This browser translation guide 2026 covers Chrome's built-in translation engine, the on-device Translator API, advanced configuration through Chrome flags, and third-party extensions that fill the gaps where built-in features fall short. The guide is written for anyone who regularly encounters web content in other languages, from developers reading foreign-language documentation daily to researchers scanning international sources for a single data point. Chrome currently supports translation between more than 130 languages, and the Translator API now runs certain translations entirely on your device using downloaded AI models. That shift toward local processing changes both the speed and the privacy equation in meaningful ways.

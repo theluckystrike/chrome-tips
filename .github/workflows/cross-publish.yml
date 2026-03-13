@@ -1,0 +1,391 @@
+name: Cross-Publish Articles
+
+on:
+  schedule:
+    # Dev.to: weekdays 7 AM UTC
+    - cron: '0 7 * * 1-5'
+    # Hashnode: weekdays 1 PM UTC
+    - cron: '0 13 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      platform:
+        description: 'Platform to publish to'
+        required: true
+        type: choice
+        options:
+          - devto
+          - hashnode
+          - both
+      slug:
+        description: 'Article slug (leave empty for auto-select from unpublished)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  cross-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Determine platform and select article
+        id: setup
+        run: |
+          # Determine platform based on cron schedule or manual input
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "platform=${{ inputs.platform }}" >> $GITHUB_OUTPUT
+          else
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" = "07" ]; then
+              echo "platform=devto" >> $GITHUB_OUTPUT
+            else
+              echo "platform=hashnode" >> $GITHUB_OUTPUT
+            fi
+          fi
+
+          # Initialize cross-post log if it does not exist
+          if [ ! -f .github/cross-post-log.json ]; then
+            echo '[]' > .github/cross-post-log.json
+          fi
+
+          # Select article
+          if [ -n "${{ inputs.slug }}" ]; then
+            echo "slug=${{ inputs.slug }}" >> $GITHUB_OUTPUT
+          else
+            PLATFORM_CHECK="${{ inputs.platform }}"
+            if [ -z "$PLATFORM_CHECK" ]; then
+              HOUR=$(date -u +%H)
+              if [ "$HOUR" = "07" ]; then
+                PLATFORM_CHECK="devto"
+              else
+                PLATFORM_CHECK="hashnode"
+              fi
+            fi
+
+            # Get list of all article slugs
+            ALL_SLUGS=$(ls articles/*.md 2>/dev/null | sed 's|articles/||;s|\.md||' | sort)
+
+            # Get already-published slugs for this platform
+            if [ "$PLATFORM_CHECK" = "both" ]; then
+              PUBLISHED_SLUGS=$(jq -r '.[].slug' .github/cross-post-log.json 2>/dev/null | sort -u)
+            else
+              PUBLISHED_SLUGS=$(jq -r --arg p "$PLATFORM_CHECK" '.[] | select(.platform == $p) | .slug' .github/cross-post-log.json 2>/dev/null | sort -u)
+            fi
+
+            # Find unpublished articles (prefer comparison articles by word count)
+            BEST_SLUG=""
+            BEST_WC=0
+
+            for SLUG_CANDIDATE in $ALL_SLUGS; do
+              # Skip if already published to this platform
+              if echo "$PUBLISHED_SLUGS" | grep -qx "$SLUG_CANDIDATE"; then
+                continue
+              fi
+
+              FILE="articles/${SLUG_CANDIDATE}.md"
+              if [ ! -f "$FILE" ]; then
+                continue
+              fi
+
+              # Extract word count from frontmatter or count words
+              WC=$(sed -n '/^---$/,/^---$/p' "$FILE" | grep -E '^word_count:' | head -1 | sed 's/word_count:[[:space:]]*//' | tr -dc '0-9')
+              if [ -z "$WC" ] || [ "$WC" = "0" ]; then
+                WC=$(awk 'BEGIN{fm=0} /^---$/{fm++; next} fm>=2{print}' "$FILE" | wc -w | tr -d ' ')
+              fi
+
+              # Prefer comparison articles (check categories in frontmatter)
+              IS_COMPARISON=0
+              if sed -n '/^---$/,/^---$/p' "$FILE" | grep -qE 'categories:.*comparison'; then
+                IS_COMPARISON=1
+              fi
+
+              # Score: comparisons get a 100000 bonus, then sorted by word count
+              SCORE=$((IS_COMPARISON * 100000 + WC))
+
+              if [ "$SCORE" -gt "$BEST_WC" ]; then
+                BEST_WC="$SCORE"
+                BEST_SLUG="$SLUG_CANDIDATE"
+              fi
+            done
+
+            if [ -z "$BEST_SLUG" ]; then
+              echo "No unpublished articles found for platform $PLATFORM_CHECK"
+              echo "slug=" >> $GITHUB_OUTPUT
+              echo "skip=true" >> $GITHUB_OUTPUT
+              exit 0
+            fi
+
+            echo "slug=$BEST_SLUG" >> $GITHUB_OUTPUT
+          fi
+
+          echo "skip=false" >> $GITHUB_OUTPUT
+
+      - name: Read and parse article
+        if: steps.setup.outputs.skip != 'true'
+        id: content
+        run: |
+          SLUG="${{ steps.setup.outputs.slug }}"
+          FILE="articles/${SLUG}.md"
+
+          if [ ! -f "$FILE" ]; then
+            echo "Article not found: $FILE"
+            echo "found=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "found=true" >> $GITHUB_OUTPUT
+
+          # Extract title from frontmatter
+          TITLE=$(sed -n '/^---$/,/^---$/p' "$FILE" | grep -E '^title:' | head -1 | sed 's/title:[[:space:]]*//' | sed 's/^"\(.*\)"$/\1/' | sed "s/^'\(.*\)'$/\1/")
+          echo "title=$TITLE" >> $GITHUB_OUTPUT
+
+          # Extract description
+          DESC=$(sed -n '/^---$/,/^---$/p' "$FILE" | grep -E '^description:' | head -1 | sed 's/description:[[:space:]]*//' | sed 's/^"\(.*\)"$/\1/' | sed "s/^'\(.*\)'$/\1/")
+          echo "description=$DESC" >> $GITHUB_OUTPUT
+
+          # Extract canonical URL
+          CANONICAL=$(sed -n '/^---$/,/^---$/p' "$FILE" | grep -E '^canonical_url:' | head -1 | sed 's/canonical_url:[[:space:]]*//' | sed 's/^"\(.*\)"$/\1/' | sed "s/^'\(.*\)'$/\1/")
+          if [ -z "$CANONICAL" ]; then
+            CANONICAL="https://theluckystrike.github.io/chrome-tips/${SLUG}/"
+          fi
+          echo "canonical=$CANONICAL" >> $GITHUB_OUTPUT
+
+          # Extract tags (first 4 for devto, 5 for hashnode)
+          TAGS_RAW=$(sed -n '/^---$/,/^---$/p' "$FILE" | sed -n '/^tags:/,/^[a-z_]*:/{ /^tags:/d; /^[a-z_]*:/d; p; }' | sed 's/^[[:space:]]*-[[:space:]]*//' | sed 's/^"\(.*\)"$/\1/' | sed "s/^'\(.*\)'$/\1/" | head -5)
+          # If tags were inline: tags: [a, b, c]
+          if [ -z "$TAGS_RAW" ]; then
+            TAGS_RAW=$(sed -n '/^---$/,/^---$/p' "$FILE" | grep -E '^tags:' | head -1 | sed 's/tags:[[:space:]]*//' | tr -d '[]' | tr ',' '\n' | sed 's/^[[:space:]]*//' | sed 's/[[:space:]]*$//' | head -5)
+          fi
+
+          # Save tags to a temp file for later use
+          echo "$TAGS_RAW" > /tmp/article_tags.txt
+
+          # Strip frontmatter and get body
+          BODY=$(awk 'BEGIN{fm=0} /^---$/{fm++; next} fm>=2{print}' "$FILE")
+          # Save body to file to avoid shell escaping issues
+          echo "$BODY" > /tmp/article_body.md
+
+          WORD_COUNT=$(echo "$BODY" | wc -w | tr -d ' ')
+          echo "word_count=$WORD_COUNT" >> $GITHUB_OUTPUT
+          echo "Selected: $TITLE ($WORD_COUNT words)"
+
+      - name: Publish to Dev.to
+        if: >
+          steps.setup.outputs.skip != 'true' &&
+          steps.content.outputs.found == 'true' &&
+          (steps.setup.outputs.platform == 'devto' || steps.setup.outputs.platform == 'both')
+        env:
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+        run: |
+          SLUG="${{ steps.setup.outputs.slug }}"
+          TITLE="${{ steps.content.outputs.title }}"
+          CANONICAL="${{ steps.content.outputs.canonical }}"
+
+          # Read body from file
+          BODY=$(cat /tmp/article_body.md)
+
+          # Build tags array (max 4 for devto, lowercase, no spaces)
+          TAGS_JSON=$(head -4 /tmp/article_tags.txt | while IFS= read -r tag; do
+            [ -z "$tag" ] && continue
+            echo "$tag" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | sed 's/[^a-z0-9-]//g'
+          done | jq -R . | jq -s '.[0:4]')
+
+          if [ -z "$TAGS_JSON" ] || [ "$TAGS_JSON" = "[]" ]; then
+            TAGS_JSON='["chrome", "extensions", "productivity", "webdev"]'
+          fi
+
+          echo "Publishing to Dev.to: $TITLE"
+          echo "  Canonical: $CANONICAL"
+          echo "  Tags: $TAGS_JSON"
+
+          # Build and send the API request
+          RESPONSE=$(curl -s -w "\n%{http_code}" \
+            -X POST "https://dev.to/api/articles" \
+            -H "Content-Type: application/json" \
+            -H "api-key: ${DEVTO_API_KEY}" \
+            -d "$(jq -n \
+              --arg title "$TITLE" \
+              --arg body "$BODY" \
+              --arg canonical "$CANONICAL" \
+              --argjson tags "$TAGS_JSON" \
+              '{article: {title: $title, body_markdown: $body, published: true, canonical_url: $canonical, tags: $tags}}')")
+
+          HTTP_CODE=$(echo "$RESPONSE" | tail -1)
+          RESPONSE_BODY=$(echo "$RESPONSE" | sed '$d')
+
+          if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
+            ARTICLE_URL=$(echo "$RESPONSE_BODY" | jq -r '.url // empty')
+            ARTICLE_ID=$(echo "$RESPONSE_BODY" | jq -r '.id // empty')
+            echo "Published to Dev.to: $ARTICLE_URL"
+            echo "devto_url=$ARTICLE_URL" >> $GITHUB_OUTPUT
+            echo "devto_id=$ARTICLE_ID" >> $GITHUB_OUTPUT
+
+            # Save for log update step
+            echo "$ARTICLE_URL" > /tmp/devto_result_url.txt
+            echo "$ARTICLE_ID" > /tmp/devto_result_id.txt
+          else
+            echo "ERROR: Dev.to API returned HTTP $HTTP_CODE"
+            echo "$RESPONSE_BODY" | jq . 2>/dev/null || echo "$RESPONSE_BODY"
+            exit 1
+          fi
+
+      - name: Publish to Hashnode
+        if: >
+          steps.setup.outputs.skip != 'true' &&
+          steps.content.outputs.found == 'true' &&
+          (steps.setup.outputs.platform == 'hashnode' || steps.setup.outputs.platform == 'both')
+        env:
+          HASHNODE_PAT: ${{ secrets.HASHNODE_PAT }}
+          HASHNODE_PUBLICATION_ID: ${{ secrets.HASHNODE_PUBLICATION_ID }}
+        run: |
+          SLUG="${{ steps.setup.outputs.slug }}"
+          TITLE="${{ steps.content.outputs.title }}"
+          CANONICAL="${{ steps.content.outputs.canonical }}"
+
+          # Read body from file
+          BODY=$(cat /tmp/article_body.md)
+
+          # Build tags for Hashnode: [{slug: "...", name: "..."}]
+          TAGS_JSON=$(head -5 /tmp/article_tags.txt | while IFS= read -r tag; do
+            [ -z "$tag" ] && continue
+            slug=$(echo "$tag" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | sed 's/[^a-z0-9-]//g')
+            jq -n --arg slug "$slug" --arg name "$tag" '{slug: $slug, name: $name}'
+          done | jq -s '.')
+
+          if [ -z "$TAGS_JSON" ] || [ "$TAGS_JSON" = "[]" ]; then
+            TAGS_JSON='[{"slug":"chrome","name":"Chrome"},{"slug":"extensions","name":"Extensions"}]'
+          fi
+
+          echo "Publishing to Hashnode: $TITLE"
+          echo "  Canonical: $CANONICAL"
+          echo "  Publication ID: $HASHNODE_PUBLICATION_ID"
+
+          # Step 1: Create draft (more reliable than direct publish)
+          DRAFT_PAYLOAD=$(python3 -c "
+          import json, sys
+          body = open('/tmp/article_body.md').read()
+          tags = json.loads('''$TAGS_JSON''')
+          payload = {
+              'query': 'mutation CreateDraft(\$input: CreateDraftInput!) { createDraft(input: \$input) { draft { id } } }',
+              'variables': {
+                  'input': {
+                      'title': '''$TITLE''',
+                      'contentMarkdown': body,
+                      'publicationId': '$HASHNODE_PUBLICATION_ID',
+                      'tags': tags,
+                      'originalArticleURL': '''$CANONICAL'''
+                  }
+              }
+          }
+          print(json.dumps(payload))
+          ")
+
+          DRAFT_RESPONSE=$(curl -s -X POST "https://gql.hashnode.com/" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer ${HASHNODE_PAT}" \
+            -d "$DRAFT_PAYLOAD")
+
+          DRAFT_ID=$(echo "$DRAFT_RESPONSE" | jq -r '.data.createDraft.draft.id // empty' 2>/dev/null)
+
+          if [ -z "$DRAFT_ID" ]; then
+            echo "ERROR: Failed to create Hashnode draft"
+            echo "$DRAFT_RESPONSE" | jq . 2>/dev/null || echo "$DRAFT_RESPONSE"
+            exit 1
+          fi
+
+          echo "Draft created: $DRAFT_ID"
+
+          # Step 2: Publish the draft
+          PUBLISH_PAYLOAD=$(python3 -c "
+          import json
+          payload = {
+              'query': 'mutation PublishDraft(\$input: PublishDraftInput!) { publishDraft(input: \$input) { post { id url title slug } } }',
+              'variables': {'input': {'draftId': '$DRAFT_ID'}}
+          }
+          print(json.dumps(payload))
+          ")
+
+          PUBLISH_RESPONSE=$(curl -s -X POST "https://gql.hashnode.com/" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer ${HASHNODE_PAT}" \
+            -d "$PUBLISH_PAYLOAD")
+
+          POST_URL=$(echo "$PUBLISH_RESPONSE" | jq -r '.data.publishDraft.post.url // empty' 2>/dev/null)
+
+          if [ -n "$POST_URL" ]; then
+            echo "Published to Hashnode: $POST_URL"
+
+            # Save for log update step
+            echo "$POST_URL" > /tmp/hashnode_result_url.txt
+          else
+            echo "ERROR: Failed to publish Hashnode draft"
+            echo "$PUBLISH_RESPONSE" | jq . 2>/dev/null || echo "$PUBLISH_RESPONSE"
+            exit 1
+          fi
+
+      - name: Update cross-post log
+        if: steps.setup.outputs.skip != 'true' && steps.content.outputs.found == 'true'
+        run: |
+          SLUG="${{ steps.setup.outputs.slug }}"
+          PLATFORM="${{ steps.setup.outputs.platform }}"
+          TIMESTAMP=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
+
+          # Initialize log file if needed
+          if [ ! -f .github/cross-post-log.json ]; then
+            echo '[]' > .github/cross-post-log.json
+          fi
+
+          # Record Dev.to result
+          if [ -f /tmp/devto_result_url.txt ]; then
+            DEVTO_URL=$(cat /tmp/devto_result_url.txt)
+            DEVTO_ID=$(cat /tmp/devto_result_id.txt 2>/dev/null || echo "")
+            TMP=$(mktemp)
+            jq --arg s "$SLUG" --arg p "devto" --arg u "$DEVTO_URL" --arg t "$TIMESTAMP" --arg id "$DEVTO_ID" \
+              '. + [{"slug": $s, "platform": $p, "timestamp": $t, "url": $u, "id": $id}]' \
+              .github/cross-post-log.json > "$TMP" && mv "$TMP" .github/cross-post-log.json
+            echo "Logged Dev.to: $SLUG -> $DEVTO_URL"
+          fi
+
+          # Record Hashnode result
+          if [ -f /tmp/hashnode_result_url.txt ]; then
+            HASHNODE_URL=$(cat /tmp/hashnode_result_url.txt)
+            TMP=$(mktemp)
+            jq --arg s "$SLUG" --arg p "hashnode" --arg u "$HASHNODE_URL" --arg t "$TIMESTAMP" \
+              '. + [{"slug": $s, "platform": $p, "timestamp": $t, "url": $u}]' \
+              .github/cross-post-log.json > "$TMP" && mv "$TMP" .github/cross-post-log.json
+            echo "Logged Hashnode: $SLUG -> $HASHNODE_URL"
+          fi
+
+          # Commit the updated log
+          git config user.name "theluckystrike"
+          git config user.email "theluckystrike@users.noreply.github.com"
+          git add .github/cross-post-log.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update cross-post log: ${SLUG} -> ${PLATFORM}"
+            git push
+            echo "Cross-post log committed and pushed"
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Cross-Publish Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Platform:** ${{ steps.setup.outputs.platform }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Article:** ${{ steps.setup.outputs.slug }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Title:** ${{ steps.content.outputs.title }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Word count:** ${{ steps.content.outputs.word_count }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f /tmp/devto_result_url.txt ]; then
+            echo "- **Dev.to:** $(cat /tmp/devto_result_url.txt)" >> $GITHUB_STEP_SUMMARY
+          fi
+          if [ -f /tmp/hashnode_result_url.txt ]; then
+            echo "- **Hashnode:** $(cat /tmp/hashnode_result_url.txt)" >> $GITHUB_STEP_SUMMARY
+          fi

@@ -12,6 +12,7 @@ target_keyword: "chrome using too much memory solution"
 target_extension: "tab-suspender-pro"
 word_count: 1147
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-using-too-much-memory-solution/
 ---
 
 Watching Chrome grind your computer to a halt while you're trying to work is incredibly frustrating. If Chrome is using too much memory, the fastest **chrome using too much memory solution** is enabling tab discarding in `chrome://flags/#automatic-tab-discarding`. Chrome's multi-process architecture creates separate processes for each tab, which can consume 100-200MB per tab. This article covers manual fixes and automated solutions to permanently solve Chrome's memory problems.

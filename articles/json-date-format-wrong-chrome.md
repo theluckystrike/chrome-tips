@@ -1,7 +1,10 @@
+[2026-03-13 19:34:49] [m15]   Description too short: 136 chars (target 150-160)
+[2026-03-13 19:34:58] [m15]   Description rewritten: 155 chars
+[2026-03-13 19:34:58] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON Date Format Showing Incorrectly in Chrome"
-description: "Fix JSON date format wrong chrome issues with proven solutions. Get dates displaying correctly in Chrome again with these working fixes."
+description: "Having trouble with json date format wrong chrome? Our quick fix guide shows you how to resolve date display issues in Chrome. Get accurate timestamps now!"
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /json-date-format-wrong-chrome/

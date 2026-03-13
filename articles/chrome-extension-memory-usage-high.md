@@ -1,7 +1,10 @@
+[2026-03-13 19:43:57] [m15]   Description too short: 130 chars (target 150-160)
+[2026-03-13 19:44:42] [m15]   Description rewritten: 160 chars
+[2026-03-13 19:44:42] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Chrome Extensions Using Too Much Memory: Fix Guide"
-description: "Chrome extension memory usage high? Fix freezing tabs and sluggish browsing with these proven methods. Working solutions for 2026."
+description: "Is chrome extension memory usage high draining your RAM? Discover expert fixes to reduce memory consumption, boost browser speed, and optimize performance today"
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /chrome-extension-memory-usage-high/

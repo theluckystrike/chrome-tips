@@ -12,6 +12,7 @@ target_keyword: "chrome keeps crashing mac"
 target_extension: "tab-suspender-pro"
 word_count: 1156
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-keeps-crashing-mac/
 ---
 
 Chrome freezing during an important video call is infuriating. If chrome keeps crashing mac, the fastest fix is clearing browser data and disabling problematic extensions. The root cause is usually memory overload from too many active tabs or corrupted cache files. This guide covers immediate fixes, root causes, and a permanent solution to prevent future crashes.

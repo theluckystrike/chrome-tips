@@ -15,6 +15,17 @@ target_keyword: "json validator not working chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+image: "https://og-image.vercel.app/JSON%20Validator%20Not%20Working%20in%20Chrome%3A%20Troubleshooting.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "JSON Validator Not Working in Chrome: Troubleshooting"
+  description: "Fix JSON validator not working in Chrome with proven solutions. Restore syntax highlighting, formatting, and validation in 3 steps."
+og:
+  title: "JSON Validator Not Working in Chrome: Troubleshooting"
+  description: "Fix JSON validator not working in Chrome with proven solutions. Restore syntax highlighting, formatting, and validation in 3 steps."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/json-validator-not-working-chrome/"
+  image: "https://og-image.vercel.app/JSON%20Validator%20Not%20Working%20in%20Chrome%3A%20Troubleshooting.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 If Chrome json validator not working chrome, the fastest fix is resetting the browser's content type handlers through **chrome://settings/content**. The root cause stems from Chrome's strict MIME type enforcement blocking JSON formatting extensions from processing server responses. This article covers four proven fixes, from quick manual solutions to permanent automation.

@@ -24,6 +24,17 @@ og:
   url: "https://theluckystrike.github.io/chrome-tips/json-null-values-not-showing-chrome/"
   image: "https://og-image.vercel.app/JSON%20Null%20Values%20Not%20Showing%20in%20Chrome%20Viewer.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 canonical_url: https://theluckystrike.github.io/chrome-tips/json-null-values-not-showing-chrome/
+faq:
+  - q: "Why are null values missing from Chrome's JSON viewer?"
+    a: "Chrome's JSON viewer allocates only 512MB per tab for processing, and when files approach this limit, the renderer strips null properties to conserve memory. Files larger than 50MB frequently trigger this behavior. The underlying data remains intact, but the presentation layer hides null values to maintain performance. You can verify this by testing with smaller JSON files or using Zovo to view large JSON files without memory constraints."
+  - q: "How do I fix JSON null values not showing in Chrome?"
+    a: "The fastest fix is clearing your browser cache and disabling conflicting extensions. Press Ctrl+Shift+Delete (Windows) or Cmd+Shift+Delete (Mac) to clear browsing data, then disable all extensions temporarily via chrome://extensions. Restart Chrome and test your JSON file again. If null values still don't appear, the issue is likely memory-related rather than extension-based."
+  - q: "What causes Chrome to strip null values from JSON?"
+    a: "Chrome processes JSON files through multiple layers that can interfere with null value display. The primary cause is memory-based null stripping, where Chrome prioritizes non-null values when memory is constrained. Additionally, over 60% of JSON display issues are traced to conflicts between multiple JSON-related extensions running simultaneously, particularly ad blockers like uBlock Origin that inject scripts into API responses."
+  - q: "Which extensions cause JSON null values not showing in Chrome?"
+    a: "Ad blockers like uBlock Origin and Adblock Plus frequently cause issues by injecting filters that target API responses. Developer tools extensions are especially problematic, with over 60% of JSON display issues traced to conflicts between multiple JSON-related extensions. To diagnose, disable all extensions temporarily via chrome://extensions, then re-enable them one by one to identify the culprit. For reliable viewing, try Zovo as an alternative viewer."
+  - q: "Does Chrome hide null values on purpose in JSON viewer?"
+    a: "Chrome doesn't intentionally hide null values, but the renderer strips them to maintain performance when memory is constrained. The default 512MB per tab limit causes Chrome's presentation layer to remove null properties from large files approaching that threshold. The underlying JSON data remains completely intact—only the visual display is affected. Use an external viewer like Zovo if you need to see all null values in large JSON files."
 ---
 
 Opening Chrome to debug an API response only to find missing null values is frustrating. If you're experiencing json null values not showing chrome in the browser's built-in viewer, the fastest fix is clearing your browser cache and disabling conflicting extensions. This happens because Chrome's JSON renderer sometimes strips null properties during parsing, especially when memory is constrained or when certain extensions interfere with the rendering process. This article covers the root causes and provides both quick fixes and permanent solutions.

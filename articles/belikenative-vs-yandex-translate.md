@@ -48,6 +48,8 @@ Yandex Translate handles language conversion well but stops there. Paste English
 
 > "Chrome extensions that pair translation with AI writing assistance serve a fundamentally different use case than pure translation tools, particularly for business and content workflows." — [Best Translator Extension for Chrome: Top AI Translation Tools](https://murf.ai/blog/top-translator-extension-for-chrome), murf.ai
 
+> "For Chrome users comparing translation extensions, the gap between actively maintained tools and those without recent updates matters most when Chrome releases new API changes or security requirements." — [Swifdoo, The Tested 6 Best Chrome Translation Extensions in 2025](https://www.swifdoo.com/blog/chrome-translation-extension)
+
 ### Development and Updates
 
 Version numbers tell the maintenance story clearly. BeLikeNative updated to version 1.4.8 on March 10, 2026, showing active development cycles. Yandex Translate Sidepanel hasn't updated since October 29, 2024, remaining at version 1.2 for over a year.

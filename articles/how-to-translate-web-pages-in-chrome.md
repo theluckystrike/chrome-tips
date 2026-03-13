@@ -24,6 +24,17 @@ og:
   url: "https://theluckystrike.github.io/chrome-tips/how-to-translate-web-pages-in-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Translate%20Web%20Pages%20in%20Chrome%3A%20Complete%20Guide.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-web-pages-in-chrome/
+faq:
+  - q: "How do I translate a web page in Chrome?"
+    a: "Right-click anywhere on the page and select 'Translate to English' from the context menu. Chrome will instantly translate the content using Google's neural machine translation technology. Click the translation bar to adjust languages or turn off translation. The browser supports over 100 languages and downloads language models directly to your device for fast processing without sending data to external servers."
+  - q: "How to translate web pages in Chrome on mobile?"
+    a: "Tap the three-dot menu in Chrome's mobile browser and select 'Translate' when Chrome detects a foreign language. The mobile version uses the same neural machine translation engine as the desktop version, supporting over 100 languages. You can manage translation preferences in Settings > Languages to customize your experience across devices."
+  - q: "How do I change Chrome's default translation language?"
+    a: "Navigate to Settings > Advanced > Languages in Chrome and click the three-dot menu next to your preferred language. Set your default language here to control what Chrome translates to by default. You can also add languages you understand to prevent Chrome from offering translation for those languages, making the tool more efficient for your specific needs."
+  - q: "Why isn't Chrome offering to translate a web page?"
+    a: "Chrome may not offer translation if the page is in your default language or if translation is disabled in your settings. Check Settings > Advanced > Languages and ensure translation features are enabled. You can manually trigger translation by right-clicking anywhere on the page and selecting 'Translate to English' from the context menu."
+  - q: "Does Chrome translate web pages automatically?"
+    a: "Yes, Chrome automatically detects foreign language pages and offers translation when you visit them. The browser uses Google's neural machine translation technology to process content instantly. On first use, Chrome downloads the necessary language models directly to your browser for privacy and speed. You can adjust or disable automatic translation in Settings > Advanced > Languages."
 ---
 
 You're browsing a fascinating article in Spanish, but your high school language skills aren't cutting it. Learning how to translate web pages in Chrome transforms your browsing experience instantly, giving you access to content in over 100 languages without leaving your browser.

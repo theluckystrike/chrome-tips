@@ -13,17 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1187
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-tab-discarding-losing-work/
-image: "https://og-image.vercel.app/Chrome%20Tab%20Discarding%20Is%20Losing%20Your%20Work%3A%20How%20to%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-twitter:
-  card: summary_large_image
-  title: "Chrome Tab Discarding Is Losing Your Work: How to Fix It"
-  description: "Stop Chrome tab discarding from losing your work with these proven fixes. Get back control of your browser tabs and save your progress permanently."
-og:
-  title: "Chrome Tab Discarding Is Losing Your Work: How to Fix It"
-  description: "Stop Chrome tab discarding from losing your work with these proven fixes. Get back control of your browser tabs and save your progress permanently."
-  type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-tab-discarding-losing-work/"
-  image: "https://og-image.vercel.app/Chrome%20Tab%20Discarding%20Is%20Losing%20Your%20Work%3A%20How%20to%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+faq:
+  - q: "Why does my work disappear when I switch tabs in Chrome?"
+    a: "Chrome discards inactive tabs to free up system memory, which erases all unsaved form data, scroll positions, and dynamic content. When free memory drops below 20% (typically under 2GB), Chrome automatically discards background tabs, treating them like fresh page loads when you return. Zovo recommends disabling auto-discarding in chrome://discards/ to prevent this data loss."
+  - q: "How do I prevent Chrome from discarding tabs and losing my work?"
+    a: "Type chrome://discards/ in your address bar and press Enter, then find the "Auto Discardable" column and uncheck the boxes for tabs you want to keep active. Restart Chrome completely to apply the changes. This manual fix prevents Chrome from automatically discarding your tabs and losing your unsaved work."
+  - q: "At what memory level does Chrome start discarding tabs?"
+    a: "Chrome begins discarding tabs when free memory drops below 20% of total system RAM, which on an 8GB machine means discarding starts when you're using more than 6GB across all applications. This threshold typically triggers when less than 2GB of free memory remains available."
+  - q: "Does Chrome Energy Saver mode cause data loss in tabs?"
+    a: "Chrome's Energy Saver mode freezes background tabs to extend battery life on laptops, interrupting JavaScript execution and potentially causing data loss. This differs from full tab discarding but can still destroy your unsaved work. Zovo recommends disabling Energy Saver mode if you're working on important content."
+  - q: "How do I stop Chrome tab discarding permanently?"
+    a: "The permanent solution is disabling automatic tab discarding through Chrome's memory settings. Visit chrome://discards/, uncheck the "Auto Discardable" column for all critical tabs, and restart your browser. This prevents Chrome from aggressively managing memory and ensures your work remains intact across all sessions."
 ---
 
 You're typing away in a form when suddenly Chrome refreshes the tab and erases everything. If chrome tab discarding is losing your work, the fastest fix is disabling automatic tab discarding in Chrome's memory settings. This happens because Chrome aggressively manages memory by discarding inactive tabs to free up system resources. This article covers why Chrome does this, four manual fixes that work right now, and a permanent solution that prevents future data loss.

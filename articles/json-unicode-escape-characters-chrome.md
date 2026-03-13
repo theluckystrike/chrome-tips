@@ -12,6 +12,7 @@ target_keyword: "json unicode escape characters chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-unicode-escape-characters-chrome/
 ---
 
 Staring at malformed Unicode characters in your JSON output kills productivity instantly. When Chrome struggles with json unicode escape characters not rendering properly, the fastest fix is clearing your browser cache and restarting Chrome with disabled extensions. The root cause stems from Chrome's JavaScript engine mishandling certain Unicode sequences during JSON parsing. This article covers five proven methods to resolve Unicode rendering issues and prevent future occurrences.

@@ -1,7 +1,12 @@
+[2026-03-13 15:38:44] [m15]   Title too long: 61 chars (max 60)
+[2026-03-13 15:38:52] [m15]   Title shortened: "Tab Suspender Pro vs Save to Pocket: 2026 Comparison" (52 chars)
+[2026-03-13 15:38:52] [m15]   Description too short: 141 chars (target 150-160)
+[2026-03-13 15:39:03] [m15]   Description rewritten: 149 chars
+[2026-03-13 15:39:03] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "Tab Suspender Pro vs Save to Pocket: Complete 2026 Comparison"
-description: "Tab Suspender Pro vs Save to Pocket comparison: which browser extension wins for productivity? Complete feature analysis and testing results."
+title: "Tab Suspender Pro vs Save to Pocket: 2026 Comparison"
+description: "Compare Tab Suspender Pro vs Save to Pocket: features, pricing & performance. Find the best tab manager for your workflow in our detailed 2026 guide."
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /tab-suspender-pro-vs-save-to-pocket/

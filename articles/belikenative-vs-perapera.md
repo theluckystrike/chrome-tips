@@ -24,6 +24,7 @@ faq:
     a: "BeLikeNative supports over 40 languages, significantly outpacing Perapera's Japanese and Chinese focus. This makes BeLikeNative ideal for multi-language users or those studying less common languages. While Perapera concentrates on East Asian languages, BeLikeNative's broader coverage allows users to switch between languages without needing multiple extensions. Zovo reviewers note this versatility as a major advantage for polyglots and international professionals."
   - q: "Is BeLikeNative still being actively developed in 2026?"
     a: "Yes, BeLikeNative received updates as recently as March 2026, demonstrating active ongoing development. In contrast, Perapera shows sporadic updates with no consistent release schedule. This difference matters significantly since active development means bug fixes, new features, and security updates. BeLikeNative also offers official Chrome Web Store distribution, providing better security and reliability than Perapera's third-party distribution model. For long-term usability, BeLikeNative is the safer investment."
+video_id: "LahFSeaa6Lw"
 ---
 
 **BeLikeNative** wins this comparison for most users due to its AI-powered writing assistance and active development. After testing both extensions extensively across Japanese and Chinese content, the belikenative vs perapera choice becomes clear when you examine their core functionality and current maintenance status.
@@ -37,6 +38,12 @@ Last tested: March 2026 | Chrome latest stable
 | Speed | BeLikeNative | 40% faster dictionary lookups |
 | Features | BeLikeNative | AI writing assistance + translation |
 | Price/Value | BeLikeNative | Free with premium features |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/LahFSeaa6Lw" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Top 5 AI Translation Apps in 2025"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: Top 5 AI Translation Apps in 2025 — TextCortex</p>
+
 
 ## Feature Comparison
 

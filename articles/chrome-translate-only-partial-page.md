@@ -12,6 +12,7 @@ target_keyword: "chrome translate only partial page"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-only-partial-page/
 ---
 
 You're trying to read an important foreign website when Chrome suddenly stops translating halfway through. If Chrome translate only partial page content is ruining your browsing experience, the fastest fix is clearing your translation cache through chrome://settings/languages and restarting the browser. This happens because Chrome's translation engine hits memory limits or encounters conflicting language detection signals. This guide covers the root causes and five proven methods to get complete page translation working again.

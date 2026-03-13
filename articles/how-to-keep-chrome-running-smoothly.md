@@ -12,7 +12,15 @@ target_keyword: "how to keep chrome running smoothly many tabs"
 target_extension: "tab-suspender-pro"
 word_count: 1147
 reading_time: 5
----
+competitive_data:
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: ---
 
 Managing 50+ tabs without turning your computer into a space heater requires specific browser optimizations and memory management techniques. Learning how to keep Chrome running smoothly many tabs will prevent the dreaded browser crashes that lose hours of work.
 

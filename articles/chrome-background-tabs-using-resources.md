@@ -12,6 +12,17 @@ target_keyword: "chrome background tabs using resources"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+image: "https://og-image.vercel.app/Chrome%20Background%20Tabs%20Using%20Resources%3A%20Stop%20the%20Drain.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Chrome Background Tabs Using Resources: Stop the Drain"
+  description: "Fix Chrome background tabs using resources with proven manual methods and Tab Suspender Pro. Stop memory drain and CPU spikes in under 5 minutes."
+og:
+  title: "Chrome Background Tabs Using Resources: Stop the Drain"
+  description: "Fix Chrome background tabs using resources with proven manual methods and Tab Suspender Pro. Stop memory drain and CPU spikes in under 5 minutes."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-background-tabs-using-resources/"
+  image: "https://og-image.vercel.app/Chrome%20Background%20Tabs%20Using%20Resources%3A%20Stop%20the%20Drain.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Your computer suddenly slows to a crawl while working. If chrome background tabs using resources is killing your system performance, the fastest fix is enabling automatic tab discarding in Chrome's settings. This happens because Chrome keeps every background tab active in memory, consuming 50-200MB per tab even when you're not using them. This article covers the root causes behind resource drain and four proven methods to fix it permanently.

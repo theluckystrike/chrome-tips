@@ -90,21 +90,3 @@ Tab Suspender Pro doesn't organize tabs — it manages their resource footprint.
 If you're working with [Chrome tab groups](https://theluckystrike.github.io/chrome-tips/chrome-tab-groups-tips/) or managing multiple projects, Tab Suspender Pro pairs well with Chrome's native organization features. Give it a try and see the difference in your daily workflow.
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
-
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---

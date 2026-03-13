@@ -88,21 +88,3 @@ Tab Suspender Pro can't organize your tabs — it only suspends them. If you're 
 Tab Suspender Pro is the clear recommendation. Two reasons stand out: the 0.3-second snapshot restore keeps your workflow unbroken, and form-state protection means you'll never lose unsaved input to an aggressive suspend timer. Tab Suspender Original is a fine ultra-lightweight option for simple browsing on constrained machines, but for anyone doing real work in Chrome — especially developers juggling [dozens of open tabs](https://theluckystrike.github.io/chrome-tips/chrome-slow-with-many-tabs-open/) — the Pro version earns its name.
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
-
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---

@@ -90,21 +90,3 @@ Tab Suspender Pro is the stronger extension for most Chrome users. The 0.3-secon
 Auto Tab Discard is a solid choice if you want minimal permissions and don't mind full-page reloads. But for daily driving, Tab Suspender Pro's speed and flexibility earn the recommendation.
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
-
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---

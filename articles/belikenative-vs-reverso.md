@@ -96,21 +96,3 @@ BeLikeNative falls short in three specific situations. First, if you need to tra
 BeLikeNative wins for most casual language learners. The passive immersion model means you actually stick with it — there's nothing to remember to do. It's free for core features, runs light, and turns your daily browsing into a learning habit without any friction. If you need deep translations or grammar tools, add Reverso alongside it.
 
 **[Try BeLikeNative Free](https://zovo.one)**
-
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---

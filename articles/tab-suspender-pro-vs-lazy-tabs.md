@@ -88,21 +88,3 @@ Tab Suspender Pro wins this comparison because it solves the bigger problem. Sta
 Among the [best chrome extensions startups](/chrome-tips/best-chrome-extensions-startups) should consider for their browser stack, Tab Suspender Pro stands out for teams that value sustained performance over one-time gains.
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
-
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---

@@ -12,16 +12,6 @@ target_keyword: "how to suspend tabs without losing state"
 target_extension: "tab-suspender-pro"
 word_count: 1150
 reading_time: 6
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---
-
 **How to suspend tabs without losing state**: Enable Chrome's "Memory Saver" mode in Settings > Performance, or use the built-in tab discarding system that preserves form data and scroll positions. This approach can reduce Chrome's memory usage by up to 40% while maintaining your work.
 
 **Last tested: March 2026 | Chrome latest stable**

@@ -94,21 +94,3 @@ Tab Suspender Pro is the better choice for most users in 2026. Two reasons:
 That said, The Marvellous Suspender is a genuinely solid extension. If keyboard shortcuts and regex whitelisting are critical to your workflow, it's worth trying first. Chrome has something for everyone—whether you need to [boost productivity with the best chrome extensions for language teachers](/chrome-tips/best-chrome-extensions-language-teachers) or optimize your browser's memory usage, the right extensions make a measurable difference.
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
-
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---

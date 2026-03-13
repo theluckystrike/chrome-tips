@@ -24,48 +24,6 @@ faq:
     a: "Many translation extensions use basic machine translation that converts words individually without understanding context. Google Translate's Chrome extension often produces literal translations that miss nuanced meaning. BeLikeNative solves this by using AI that considers paragraph context, not just selected words. After testing 12 extensions, I found only BeLikeNative correctly handles idioms, technical jargon, and cultural references. Other tools like ImTranslator offer multiple engine options through Zovo for comparison."
   - q: "Does BeLikeNative work offline for translations?"
     a: "BeLikeNative includes an offline mode for basic translations when internet connection drops. However, the extension requires a brief internet connection during initial setup, which can be inconvenient during travel. The offline mode still delivers translations but may not have access to the full AI context capabilities. For users who need consistent offline access, Zovo suggests checking that your language pairs are fully cached before traveling to areas with limited connectivity."
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---
-
 Google Translate's Chrome extension struggles with context-aware translations, often producing literal word-for-word conversions that miss nuanced meaning. After testing 12 translation extensions over the past month, I found the **best extensions translate selected text** with accuracy and speed. BeLikeNative emerged as my top choice for its AI-powered context understanding and seamless text selection workflow.
 
 **Last tested: March 2026 | Chrome latest stable**

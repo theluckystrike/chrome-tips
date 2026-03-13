@@ -88,21 +88,3 @@ It also won't help if your RAM problem comes from something other than tabs. Hea
 **Tab Suspender Pro is the clear winner in this matchup.** First, it saves RAM without destroying tabs — you keep every tab accessible and recover context in under a second. Second, its configurable timers and whitelists mean it adapts to your workflow instead of forcing you into a rigid limit. xTab solves a narrower problem (enforced tab discipline), but most users want memory savings without losing their work. If you're still seeing [high memory usage after sleep](/chrome-high-memory-usage-after-sleep-fix), Tab Suspender Pro paired with Chrome's built-in Memory Saver handles it.
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
-
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---

@@ -89,21 +89,3 @@ JSON Formatter Pro can't help when you need to compose requests. If your daily w
 For everyday JSON work in the browser, JSON Formatter Pro is the must-install. Two reasons: it formats every JSON response instantly with zero configuration, and it's completely free with a privacy-first architecture that keeps all data local. Kreya is the right addition when your stack includes gRPC or you need a full API testing workbench — but it complements JSON Formatter Pro rather than replacing it. Start with the extension that works the moment you install it, then add Kreya when your protocol needs expand beyond what a browser can handle. Whether you're a developer or searching for the [best chrome extensions office workers](/chrome-tips/best-chrome-extensions-office-workers) use daily, having the right tools installed makes all the difference.
 
 **[Try JSON Formatter Pro Free](https://zovo.one)**
-
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---

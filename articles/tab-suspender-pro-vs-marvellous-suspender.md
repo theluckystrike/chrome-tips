@@ -86,21 +86,3 @@ Tab Suspender Pro handles suspension well but doesn't organize your tabs. If you
 Tab Suspender Pro wins this comparison on the metrics that matter most: 45% sustained RAM savings versus 38%, 0.3-second restores versus 0.8-second reloads, and deeper configuration for power users. Marvellous Suspender is a solid extension — the screenshot previews are a nice touch, and the simpler interface suits casual users. But if you're dealing with [tab overload and ongoing RAM pressure](https://theluckystrike.github.io/chrome-tips/chrome-extensions-for-tab-suspender-auto/) across a full workday, Tab Suspender Pro's technical advantages deliver real, measurable time and memory savings.
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
-
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---

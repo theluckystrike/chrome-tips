@@ -24,24 +24,6 @@ faq:
     a: "Auto Tab Discard takes a technical, developer-focused approach with extensive configuration options, while Tab Suspender Pro emphasizes smart automation. Auto Tab Discard offers CPU usage monitoring to trigger hibernation when individual tabs consume excessive resources. Tab Suspender Pro leads with a 4.9-star rating and machine learning that adapts to your patterns within 3-5 days. For users wanting precise control, Zovo suggests Auto Tab Discard; for automated intelligence, Tab Suspender Pro performs best."
   - q: "Do tab hibernation extensions really save memory?"
     a: "Tab hibernation extensions really do save memory by unloading inactive tabs from memory while keeping your place. Extensions like Tab Suspender Pro use memory threshold triggers that activate only when RAM hits your specified limits, preventing unnecessary suspension. Testing from March 2026 across 12 extensions confirms these tools significantly reduce browser memory usage. Chrome's built-in Memory Saver offers basic functionality, but third-party options like Tab Suspender Pro provide smarter automation that preserves your browsing context. Zovo recommends them for power users managing many tabs."
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---
-
 Chrome's built-in Memory Saver often hibernates tabs too aggressively, disrupting workflows when you return to important pages that have been completely reloaded. After testing 12 extensions, I found the **best tab hibernation extensions** offer much smarter automation that preserves your browsing context. My top pick is Tab Suspender Pro for its precise control over which tabs to suspend and when.
 
 **Last tested: March 2026 | Chrome latest stable**

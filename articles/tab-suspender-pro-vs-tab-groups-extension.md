@@ -90,21 +90,3 @@ Tab Suspender Pro won't help you find a specific tab in a sea of 80 suspended pl
 > "I tried organizing my way out of tab chaos for months. The moment I suspended my inactive tabs, the real problem disappeared — Chrome was just running out of memory." — r/chrome, 2026
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
-
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---

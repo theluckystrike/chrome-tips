@@ -93,21 +93,3 @@ Tab Suspender Pro is the clear winner for 2026. Two reasons:
 2. **It delivers.** 42% average RAM reduction, zero lost tabs across two weeks of testing, and setup that takes 30 seconds. If your browser is [slow with too many tabs open](/chrome-tips/chrome-slow-with-many-tabs-open), start here. You can also [reduce Chrome's per-tab memory overhead](/chrome-tips/chrome-process-per-tab-disable-to-save-memory) for even bigger gains.
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
-
-competitive_data:
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: 
-  - name: ""
-    users: ""
-    rating: ""
-    num_ratings: ""
-    version: ""
-    size: ""
-    last_updated: ""
-    available: ---

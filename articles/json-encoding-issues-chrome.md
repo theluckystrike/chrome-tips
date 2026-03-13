@@ -1,7 +1,10 @@
+[2026-03-13 21:40:53] [m15]   Description too short: 146 chars (target 150-160)
+[2026-03-13 21:41:39] [m15]   Description rewritten: 155 chars
+[2026-03-13 21:41:39] [m15]   WARNING: Thin keyword usage: 0 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON Encoding Issues in Chrome: UTF-8 and Special Characters"
-description: "Fix Chrome JSON encoding problems with UTF-8 characters and special symbols. Working solutions for developers dealing with malformed JSON display."
+description: "json encoding issues Chrome causing errors? Our comprehensive guide covers UTF-8 problems, special character solutions, and browser fixes. Get started now!"
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /json-encoding-issues-chrome/

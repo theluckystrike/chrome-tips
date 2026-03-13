@@ -24,6 +24,7 @@ faq:
     a: "The key differences between Tab Suspender Pro and The Great Suspender No Track come down to active development versus legacy functionality. Tab Suspender Pro receives monthly updates (latest: version 1.0.27 on March 8, 2026) with security audits completed in late 2025. The Great Suspender No Track hasn't been updated since August 2025. Tab Suspender Pro also offers modern visual indicators with clear suspended state icons, advanced whitelist support with domain wildcards, and an instant restore feature compared to the 1-2 second reload delay in The Great Suspender."
   - q: "Does Tab Suspender Pro have better reliability than The Great Suspender?"
     a: "Tab Suspender Pro has better reliability than The Great Suspender No Track due to active ongoing development. Tab Suspender Pro maintains monthly updates with the latest version 1.0.27 released March 8, 2026, and includes security audits from late 2025. The Great Suspender No Track presents data collection concerns and hasn't received updates since version 1.0.1 in August 2025, leaving potential bugs unfixed. With a user rating of 4.9/5 compared to 4.2/5, Tab Suspender Pro offers more trustworthy and dependable tab suspension for Chrome users.
+video_id: "rR3P8Gf4v8A"
 ---
 
 **Tab Suspender Pro** wins this comparison for most users, delivering superior performance and more reliable tab management than The Great Suspender No Track. I tested both extensions across multiple Chrome profiles for two weeks, monitoring memory usage, stability, and feature reliability. The tab suspender pro vs great suspender no track debate comes down to active development versus legacy functionality.
@@ -37,6 +38,12 @@ faq:
 | Performance | Tab Suspender Pro | 47% smaller footprint, faster suspension |
 | Features | Tab Suspender Pro | Auto-suspend, whitelist management, better UI |
 | Reliability | Tab Suspender Pro | Active updates, no data collection concerns |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/rR3P8Gf4v8A" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Chrome's New Tab Suspension Feature Explained"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: Chrome's New Tab Suspension Feature Explained — Automation Hunter</p>
+
 
 ## Feature Comparison
 

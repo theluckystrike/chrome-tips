@@ -1,5 +1,3 @@
-[2026-03-13 19:10:46] [m15]   Description too short: 137 chars (target 150-160)
-[2026-03-13 19:11:52] [m15]   Description rewritten: 158 chars
 ---
 layout: default
 title: "Chrome Tabs Still Running After Closing: How to Fix"
@@ -15,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1284
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-tab-close-still-running/
+faq:
+  - q: "Why are chrome tabs still running after closing?"
+    a: "Chrome uses a process-per-tab architecture that keeps background scripts and service workers active even after you close a tab. Extensions and progressive web apps register service workers that persist for 10-30 minutes after tab closure to handle push notifications, sync data, or maintain websocket connections. A single tab running Slack or Discord can spawn 3-4 background processes consuming 50-150MB of RAM each. For automated management, Zovo offers tools to monitor and terminate these lingering processes."
+  - q: "How do I stop chrome tabs from running in the background?"
+    a: "Open Task Manager (Ctrl+Shift+Esc on Windows) or Activity Monitor (Mac) and look for Google Chrome processes consuming high CPU or memory. Select them and click 'End Task' or 'Force Quit.' Alternatively, close Chrome completely using Ctrl+Shift+Q (Windows) or Cmd+Q (Mac), then reopen to start fresh. This ensures all background processes terminate. Zovo recommends creating a keyboard shortcut automation to streamline this process for frequent use."
+  - q: "How do I fix chrome tabs still running after closing on Mac?"
+    a: "On Mac, open Activity Monitor and locate Google Chrome processes under the CPU or Memory tabs. Select each process consuming significant resources and click 'Force Quit.' For a complete reset, use Cmd+Q to fully quit Chrome rather than just closing windows, then relaunch. Background service workers from apps like Slack or Discord may continue running, so force quitting ensures termination. Zovo provides Mac-specific automation scripts to automate this cleanup."
+  - q: "What causes high CPU usage from closed chrome tabs?"
+    a: "Closed tabs cause high CPU usage because Chrome's background scripts and service workers continue executing after tab closure. These processes handle real-time updates, data syncing, and push notifications for web apps like Google Docs, Notion, and messaging platforms. A single tab can spawn multiple worker processes that persist for 10-30 minutes, each consuming 50-150MB of RAM. Zovo's process monitor can help identify which specific extensions or tabs are causing the heaviest resource drain."
+  - q: "Is there a way to prevent chrome tabs from running in the background?"
+    a: "You can prevent background tabs from running by disabling specific extensions, turning off background sync in Chrome settings, or using automation tools like Zovo to automatically terminate Chrome processes after closing all tabs. The most effective manual method is using Ctrl+Shift+Q (Windows) or Cmd+Q (Mac) to fully quit Chrome rather than just closing individual tabs. For permanent solutions, consider disabling service workers for sites you don't need running in the background through Chrome's site settings."
 ---
 
 You close a Chrome tab but your computer still runs hot and the fan keeps spinning. If chrome tabs still running after closing is draining your system, the fastest fix is opening Task Manager (Ctrl+Shift+Esc on Windows, Activity Monitor on Mac) and ending lingering Chrome processes manually. This happens because Chrome's process-per-tab architecture keeps background scripts and service workers active even after tab closure. This article covers why tabs persist after closing, four manual fixes ranked by effectiveness, and a permanent solution using automation.

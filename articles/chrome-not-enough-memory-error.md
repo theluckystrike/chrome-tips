@@ -23,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/chrome-not-enough-memory-error/"
   image: "https://og-image.vercel.app/Chrome%20%27Not%20Enough%20Memory%27%20Error%3A%20How%20to%20Solve%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-not-enough-memory-error/
 ---
 
 If Chrome displays a "not enough memory" error, the fastest fix is closing unused tabs and restarting your browser. This chrome not enough memory error happens when Chrome's processes exceed your system's available RAM, typically around 8GB on most machines. This article covers the root causes, manual fixes that work immediately, and a permanent solution using **Tab Suspender Pro**.

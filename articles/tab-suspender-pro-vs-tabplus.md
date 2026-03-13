@@ -35,6 +35,7 @@ faq:
     a: "Tab Suspender Pro is definitely worth it for power users needing advanced tab management. It offers domain and URL pattern whitelisting compared to TabPlus's simple domain list only, plus advanced auto-suspend versus basic timer options. With its recent March 2026 update, smaller 185KiB size, and 4.9/5 rating, Tab Suspender Pro delivers better flexibility and performance for demanding users."
   - q: "Why does Tab Suspender Pro have a higher version number than TabPlus?"
     a: "The version numbers tell different stories about each extension's development approach. Tab Suspender Pro sits at version 1.0.27, indicating steady incremental improvements with stability as a priority. TabPlus at version 1.7.3 suggests either feature bloat or major rewrites that may have introduced instability, which aligns with its lower 3.1/5 user satisfaction rating compared to Tab Suspender Pro's 4.9/5."
+video_id: "rR3P8Gf4v8A"
 ---
 
 **Tab Suspender Pro** clearly beats TabPlus in this head-to-head comparison, earning a 4.9/5 rating versus TabPlus's weak 3.1/5 score. I tested both extensions across multiple Chrome profiles during March 2026, measuring memory usage, suspension accuracy, and feature reliability. The tab suspender pro vs tabplus debate ends quickly when you compare their recent update history and user satisfaction ratings.
@@ -48,6 +49,12 @@ Last tested: March 2026 | Chrome latest stable
 | Speed & Reliability | Tab Suspender Pro | Significant (4.9★ vs 3.1★) |
 | Feature Set | Tab Suspender Pro | Moderate (active vs stale) |
 | Price/Value | Tab Suspender Pro | Clear (free with better performance) |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/rR3P8Gf4v8A" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Chrome's New Tab Suspension Feature Explained + Update on Marvelous Suspender"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: Chrome's New Tab Suspension Feature Explained + Update on Marvelous Suspender — Automation Hunter</p>
+
 
 ## Feature Comparison
 

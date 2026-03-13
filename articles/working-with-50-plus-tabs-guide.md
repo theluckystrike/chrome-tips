@@ -12,6 +12,7 @@ target_keyword: "working with many tabs guide"
 target_extension: "tab-suspender-pro"
 word_count: 3420
 reading_time: "15 min"
+canonical_url: https://theluckystrike.github.io/chrome-tips/working-with-50-plus-tabs-guide/
 ---
 
 Written by Michael Lip

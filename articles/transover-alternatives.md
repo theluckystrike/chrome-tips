@@ -12,6 +12,17 @@ target_keyword: "transover alternatives"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 6
+image: "https://og-image.vercel.app/TransOver%20Alternatives%3A%20Hover-to-Translate%20Extensions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "TransOver Alternatives: Hover-to-Translate Extensions"
+  description: "Best TransOver alternatives for hover translation. 6 Chrome extensions tested - belikenative tops our list with AI-powered features and offline support."
+og:
+  title: "TransOver Alternatives: Hover-to-Translate Extensions"
+  description: "Best TransOver alternatives for hover translation. 6 Chrome extensions tested - belikenative tops our list with AI-powered features and offline support."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/transover-alternatives/"
+  image: "https://og-image.vercel.app/TransOver%20Alternatives%3A%20Hover-to-Translate%20Extensions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 TransOver's broken popup positioning drives users crazy when trying to translate text on mobile-responsive sites. After testing 6 **transover alternatives** for hover translation, belikenative emerged as the clear winner with its AI-powered context awareness and reliable positioning system. Here's why it beats the competition and which alternatives work best for specific use cases.

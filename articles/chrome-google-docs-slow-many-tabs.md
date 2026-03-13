@@ -12,6 +12,7 @@ target_keyword: "google docs slow chrome many tabs"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5 minutes
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-google-docs-slow-many-tabs/
 ---
 
 Watching your cursor freeze while you're trying to edit an important document is maddening. If you're dealing with google docs slow chrome many tabs, the fastest fix is closing unused tabs and enabling Chrome's memory-saving features. The root cause is Chrome's process-per-tab architecture consuming too much RAM when you have multiple tabs open. This article covers immediate fixes, the technical reasons behind the slowdown, and a permanent solution using **Tab Suspender Pro**.

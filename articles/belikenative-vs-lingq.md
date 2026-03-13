@@ -102,6 +102,10 @@ Choose **LingQ Importer** if:
 - You prefer lightweight extensions that minimize system resource usage
 - You need basic content importing without additional features
 
+> "Extensive reading platforms like LingQ accelerate vocabulary acquisition because they provide repeated exposure to words in varied authentic contexts, which research shows is more effective than decontextualized memorization." — [Lingopie, 8 Best Chrome Extensions for Language Learning 2025 Guide](https://lingopie.com/blog/best-chrome-extensions-for-language-learning/)
+
+> "The most effective language learners typically combine tools for different purposes: an extensive reading system for input acquisition and a writing assistant for productive language use during work tasks." — [Joinsabi, 15 Best Language Learning Chrome Extensions: Free and Paid](https://www.joinsabi.com/blog/five-chrome-extensions)
+
 ## When BeLikeNative Isn't Enough
 
 **BeLikeNative** falls short in specific scenarios. Heavy LingQ platform users lose the seamless content import workflow that LingQ Importer provides. If your learning method relies on importing articles, podcasts, and videos into LingQ's spaced repetition system, you need the dedicated importer.

@@ -119,6 +119,10 @@ For those exploring how BeLikeNative compares to other language learning tools, 
 
 The decision often comes down to whether you need broad writing assistance across multiple contexts or specialized Anki functionality for focused learning. Many users actually install both extensions since they serve complementary rather than competing purposes in different aspects of their daily workflows. The extensions don't conflict and can coexist peacefully in your browser setup.
 
+> "Spaced repetition systems like Anki produce superior long-term vocabulary retention compared to massed practice because they time reviews at the optimal moment before forgetting occurs." — [Lingopie, 8 Best Chrome Extensions for Language Learning 2025 Guide](https://lingopie.com/blog/best-chrome-extensions-for-language-learning/)
+
+> "Chrome extensions that support passive language acquisition during regular browsing complement, rather than replace, structured review tools like Anki, because the two approaches target different aspects of language learning." — [Joinsabi, 15 Best Language Learning Chrome Extensions: Free and Paid](https://www.joinsabi.com/blog/five-chrome-extensions)
+
 ## When BeLikeNative Isn't Enough
 
 **BeLikeNative** struggles with highly technical writing that requires domain expertise beyond general language understanding. Legal documents, medical terminology, and advanced scientific content often need human review despite AI assistance. The extension's general-purpose AI models lack the specialized training required for these professional contexts.

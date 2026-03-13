@@ -109,6 +109,10 @@ Choose Mondly if:
 - Gamification and achievements motivate your study habits and maintain consistency
 - You're starting from beginner level and need comprehensive vocabulary building
 
+> "Language learning apps with structured curricula and AI conversation practice serve a fundamentally different purpose than writing assistant extensions: one builds capability from the ground up while the other augments existing capability." — [FluentU, Complete Busuu Review 2025: A Practical Tool for Learning](https://www.fluentu.com/blog/reviews/busuu/)
+
+> "AI-powered conversation practice in language apps helps learners build speaking confidence in a low-pressure environment before using target languages in real professional contexts." — [Lingopie, 8 Best Chrome Extensions for Language Learning 2025 Guide](https://lingopie.com/blog/best-chrome-extensions-for-language-learning/)
+
 ## When BeLikeNative Isn't Enough
 
 **BeLikeNative** falls short for systematic language learning from scratch. If you're starting from zero in a new language, you need vocabulary building and grammar fundamentals that the extension doesn't provide. The tool assumes you already have basic competency in your target language and can recognize improved suggestions.

@@ -12,6 +12,7 @@ target_keyword: "8gb ram not enough chrome"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-8gb-ram-not-enough/
 ---
 
 Watching Chrome's spinning wheel while your computer crawls to a halt is maddening. When you're dealing with **8gb ram not enough chrome** situations, the fastest fix is enabling tab discarding in Chrome's experimental features. Chrome's process-per-tab architecture creates memory bloat that overwhelms 8GB systems. This article covers immediate fixes, permanent solutions, and why your RAM disappears so quickly.

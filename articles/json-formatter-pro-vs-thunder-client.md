@@ -25,6 +25,7 @@ faq:
     a: "JSON Formatter Pro offers full offline support as a Chrome extension, working completely offline after installation. Thunder Client has limited offline capability since it relies on VS Code's connectivity for most features. For remote work or offline scenarios, JSON Formatter Pro provides more reliable standalone functionality."
   - q: "Is Thunder Client worth the $4/month over using JSON Formatter Pro free?"
     a: "Thunder Client Pro at $4/month is worth it if you need complete API testing workflows, team collaboration features, and workspace management. However, for pure JSON formatting tasks, JSON Formatter Pro is free and superior—it formats instantly without any API calls. Choose based on your workflow needs: formatting (JSON Formatter Pro) versus full API development (Thunder Client)."
+video_id: "GMzAYDNsZCE"
 ---
 
 **JSON Formatter Pro** wins for pure JSON formatting tasks, while **Thunder Client** excels as a complete API testing solution. When comparing json formatter pro vs thunder client, you're choosing between a specialized Chrome extension that formats JSON instantly versus a comprehensive VS Code API client that handles the entire request-response cycle. I tested both tools over the past month using various JSON payloads from 2KB to 50MB.
@@ -38,6 +39,12 @@ Last tested: March 2026 | Chrome latest stable
 | Speed | JSON Formatter Pro | Instant formatting vs 2-3 second API round trips |
 | Features | Thunder Client | Complete API workflow vs formatting only |
 | Price/Value | JSON Formatter Pro | Free vs $4/month for Thunder Client Pro |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/GMzAYDNsZCE" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="The Ultimate Chrome JSON Extension"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: The Ultimate Chrome JSON Extension — dcode</p>
+
 
 ## Feature Comparison
 

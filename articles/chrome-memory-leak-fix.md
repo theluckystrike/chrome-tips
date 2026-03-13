@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-memory-leak-fix/
+faq:
+  - q: "How do I fix Chrome memory leak?"
+    a: "Enable Memory Saver mode in chrome://settings/performance to fix Chrome memory leak immediately. This setting automatically suspends inactive tabs, freeing RAM while keeping your place saved. For best results, also set automatic tab discarding after 5 minutes of inactivity and restart Chrome to activate memory conservation. Zovo recommends these settings for instant relief from excessive RAM usage."
+  - q: "Why does Chrome use so much RAM?"
+    a: "Chrome uses so much RAM because it runs each tab in its own isolated process for security and crash protection. Each process maintains its own copy of the rendering engine, JavaScript interpreter, and security sandbox. A single Facebook tab consumes 300-500MB while YouTube videos can grab 600MB or more, so 15 tabs quickly reach 4-8GB of memory usage before counting extensions."
+  - q: "What is Memory Saver mode in Chrome?"
+    a: "Memory Saver is a built-in Chrome feature that automatically frees RAM by suspending tabs you haven't looked at recently. When enabled, inactive tabs enter a frozen state that releases their memory while preserving your scroll position and form data. This mode prevents background tabs from continuing to consume resources like polling for updates or buffering videos."
+  - q: "How much RAM does Chrome use per tab?"
+    a: "Chrome uses approximately 300-500MB of RAM per tab for social media sites like Facebook, while YouTube tabs can consume 600MB or more. Even inactive tabs like Gmail hold around 400MB after 20 minutes. With 15 tabs open, total memory usage ranges from 4-8GB before accounting for extensions and background processes."
+  - q: "How do I stop Chrome from using too much memory?"
+    a: "Stop Chrome from using too much memory by enabling Memory Saver in chrome://settings/performance and setting automatic tab discarding after 5 minutes of inactivity. Restart Chrome to apply changes. Additionally, review and remove unnecessary extensions since they run in the background and compound memory issues. These fixes address Chrome's default behavior of keeping every tab fully loaded in memory."
 ---
 
 Watching your computer grind to a halt while Chrome devours 8GB of RAM is infuriating. If you need a chrome memory leak fix immediately, enable Memory Saver in chrome://settings/performance and restart your browser. The root cause is Chrome's aggressive tab retention that keeps every opened page fully loaded in memory, even when you haven't looked at them for hours. This guide covers instant fixes, permanent solutions, and why Chrome behaves this way.

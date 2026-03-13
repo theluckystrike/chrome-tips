@@ -13,6 +13,17 @@ target_extension: "belikenative"
 word_count: 1187
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-images-text-fix/
+faq:
+  - q: "Why can't Chrome translate text in images anymore?"
+    a: "Chrome's image translation fails when translation models become corrupted or image processing permissions get disabled. Chrome downloads 15-50MB translation models on-demand, and if your connection drops during download or Chrome runs out of storage, these models corrupt silently. You'll see the translate icon but clicking it does nothing because Chrome can't access the broken models. Zovo recommends clearing your translation cache to resolve this."
+  - q: "How do I fix chrome translate images text fix?"
+    a: "Go to chrome://settings/content/images and ensure 'Sites can show images' is enabled, then clear browsing data from chrome://settings/clearBrowserData selecting 'Cached images and files,' and restart Chrome. This clears corrupted translation models and resets OCR permissions that cause the feature to fail. The quick fix addresses the two most common root causes: corrupted translation models and disabled image processing permissions."
+  - q: "What permissions does Chrome need to translate images?"
+    a: "Chrome needs specific OCR permissions and at least 128MB of RAM plus CPU access to process images for text extraction. These permissions get disabled when you block image loading on certain sites or when extensions interfere with Chrome's native functionality. Chrome's process isolation can also be too aggressive, preventing the OCR engine from accessing the system resources it needs to extract text from images."
+  - q: "Why does Chrome translate fail silently on images?"
+    a: "Chrome silently fails because corrupted translation models don't generate error messages. When models (15-50MB each) become corrupted during on-demand downloads due to connection drops or storage issues, Chrome simply shows the translate icon but performs no action when clicked. There's no warning that the underlying AI models failed to load properly, making it seem like the feature is working when it's actually broken."
+  - q: "How big are Chrome image translation models?"
+    a: "Chrome translation models for image processing are 15-50MB each and download on-demand when you first use image translation. These relatively large files get stored locally on your device. If your connection drops during the initial download or Chrome runs out of storage space, the models become corrupted and cause translation failures. Zovo notes that ensuring stable internet during first-time downloads helps prevent model corruption issues."
 ---
 
 Staring at foreign text in an image while Chrome's translate feature sits there doing nothing is frustrating. If Chrome can't translate text in images, the fastest chrome translate images text fix is clearing your translation cache and resetting Chrome's OCR permissions. The root cause is usually corrupted translation models or disabled image processing permissions. This guide covers both quick fixes and permanent solutions.

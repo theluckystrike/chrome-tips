@@ -13,6 +13,17 @@ target_extension: "json-formatter-pro"
 word_count: 1147
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/json-syntax-error-in-browser/
+image: "https://og-image.vercel.app/JSON%20Syntax%20Error%20in%20Browser%3A%20How%20to%20Find%20and%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "JSON Syntax Error in Browser: How to Find and Fix It"
+  description: "Learn how to quickly identify and fix json syntax error in browser issues in Chrome with proven solutions that work in 2026."
+og:
+  title: "JSON Syntax Error in Browser: How to Find and Fix It"
+  description: "Learn how to quickly identify and fix json syntax error in browser issues in Chrome with proven solutions that work in 2026."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/json-syntax-error-in-browser/"
+  image: "https://og-image.vercel.app/JSON%20Syntax%20Error%20in%20Browser%3A%20How%20to%20Find%20and%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Nothing's more frustrating than your Chrome browser throwing a json syntax error in browser when you're trying to load or parse JSON data. The fastest fix is checking your JSON formatting for missing quotes, trailing commas, or invalid escape sequences. These errors typically happen because Chrome's strict JSON parser can't process malformed data that might work elsewhere.

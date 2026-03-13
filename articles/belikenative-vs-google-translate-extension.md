@@ -1,6 +1,11 @@
+[2026-03-13 07:53:24] [m15]   Title too long: 66 chars (max 60)
+[2026-03-13 07:53:31] [m15]   Title shortened: "belikenative vs google translate extension: 2026" (48 chars)
+[2026-03-13 07:53:32] [m15]   Description too short: 125 chars (target 150-160)
+[2026-03-13 07:53:43] [m15]   WARNING: Could not generate valid description (got 123 chars).
+[2026-03-13 07:53:43] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "BeLikeNative vs Google Translate Extension: Honest 2026 Comparison"
+title: "belikenative vs google translate extension: 2026"
 description: "BeLikeNative vs Google Translate Extension comparison: features, accuracy, speed. Which Chrome translation tool wins in 2026?"
 date: 2026-03-13
 last_modified_at: 2026-03-13

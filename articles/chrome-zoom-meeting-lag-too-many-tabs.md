@@ -23,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/chrome-zoom-meeting-lag-too-many-tabs/"
   image: "https://og-image.vercel.app/Chrome%20Slowing%20Down%20Zoom%20Meetings%3A%20Tab%20Management%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-zoom-meeting-lag-too-many-tabs/
 ---
 
 Your video freezes mid-presentation while 20 tabs drain your system resources. If Chrome is slowing down zoom meetings, the fastest fix is closing unnecessary tabs and enabling automatic tab discarding in `chrome://flags/#automatic-tab-discarding`. The root cause is Chrome's memory-intensive tab architecture competing with Zoom's real-time video processing. This article covers immediate fixes and a permanent solution to prevent chrome zoom meeting lag tabs from ruining your calls.

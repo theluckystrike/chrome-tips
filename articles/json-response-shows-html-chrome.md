@@ -12,6 +12,7 @@ target_keyword: "json response shows html chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-response-shows-html-chrome/
 ---
 
 You're expecting clean JSON data but Chrome keeps serving up messy HTML instead. When Chrome json response shows html chrome, the fastest fix is checking your request headers and Content-Type settings. This happens because Chrome's response parser defaults to HTML interpretation when proper MIME types aren't declared. This article covers the technical causes and four proven solutions to get your JSON responses displaying correctly.

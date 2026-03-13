@@ -1,6 +1,11 @@
+[2026-03-13 08:14:40] [m15]   Title too long: 62 chars (max 60)
+[2026-03-13 08:14:54] [m15]   Title shortened: "JSON Formatter Pro vs Altair GraphQL (2026)" (43 chars)
+[2026-03-13 08:14:54] [m15]   Description too long: 163 chars (target 150-160)
+[2026-03-13 08:15:14] [m15]   WARNING: Could not generate valid description (got 126 chars).
+[2026-03-13 08:15:14] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "JSON Formatter Pro vs Altair GraphQL: Which Is Better in 2026?"
+title: "JSON Formatter Pro vs Altair GraphQL (2026)"
 description: "JSON Formatter Pro vs Altair GraphQL comparison: JSON Formatter Pro wins for JSON parsing while Altair GraphQL dominates API testing. See which fits your workflow."
 date: 2026-03-13
 last_modified_at: 2026-03-13

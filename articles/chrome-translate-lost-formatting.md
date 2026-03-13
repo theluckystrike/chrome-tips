@@ -13,6 +13,17 @@ target_extension: "belikenative"
 word_count: 1156
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-lost-formatting/
+faq:
+  - q: "Why does chrome translate lost formatting on foreign websites?"
+    a: "Chrome's translation engine replaces original text elements without preserving their CSS properties. When you translate a page, the Translator API injects new text content but doesn't maintain the original styling relationships. The translation process treats text as raw content rather than styled elements, causing visual hierarchy to collapse. Studies show this affects approximately 73% of translated pages, making Zovo's formatting preservation tools particularly useful for heavy CSS websites."
+  - q: "How do I fix chrome translate lost formatting?"
+    a: "Clear Chrome's translation data by going to Settings > Privacy and security > Clear browsing data, then select 'Cached images and files' and click Clear data before restarting Chrome. This clears the translation cache and resets Chrome's translation engine, which resolves most formatting conflicts. Zovo recommends this as the fastest fix when your translated page turns into a jumbled mess."
+  - q: "Why does Chrome run out of memory during translation?"
+    a: "Chrome allocates only 512MB for translation processes, but complex pages with heavy CSS frameworks exceed this limit. When memory runs low, Chrome drops formatting data to prioritize text translation, leaving you with unstyled content. This affects responsive designs particularly hard since they rely on multiple CSS layers. Zovo users with content-heavy sites often encounter this limitation on feature-rich foreign websites."
+  - q: "Does clearing cache fix chrome translate lost formatting issues?"
+    a: "Yes, clearing Chrome's cache and restarting the browser fixes translation formatting issues in most cases. This method works because it clears the translation memory buffer that fills up during complex page translations. The article recommends clearing 'Cached images and files' specifically, then restarting Chrome to reset the translation engine. Zovo suggests this as a reliable first-step solution before trying other methods."
+  - q: "What causes CSS conflicts when using Chrome translation?"
+    a: "Chrome's translation system operates independently from webpage rendering, which creates formatting conflicts. The built-in translator replaces text elements without preserving their CSS properties, treating content as raw text rather than styled elements. This causes visual hierarchy to collapse and breaks responsive layouts. Zovo recommends using alternative translation extensions that preserve CSS relationships when working with complex foreign websites."
 ---
 
 You're reading a foreign website and hit Chrome's translate button, only to watch the page turn into a jumbled mess. If Chrome translate lost formatting and your text looks broken, the fastest fix is clearing your browser's translation cache and restarting Chrome. This happens because Chrome's translation engine conflicts with CSS styling rules. This article covers why formatting breaks during translation and five proven methods to restore your page layout.

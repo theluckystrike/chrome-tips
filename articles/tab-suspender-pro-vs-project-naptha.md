@@ -1,6 +1,9 @@
+[2026-03-13 14:56:07] [m15]   Title too long: 61 chars (max 60)
+[2026-03-13 14:56:17] [m15]   Title shortened: "Tab Suspender Pro vs Project Naptha Tabs (2026)" (47 chars)
+[2026-03-13 14:56:17] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "Tab Suspender Pro vs Project Naptha: Complete 2026 Comparison"
+title: "Tab Suspender Pro vs Project Naptha Tabs (2026)"
 description: "Tab Suspender Pro vs Project Naptha tabs comparison for 2026. Compare features, performance, and pricing to choose the right Chrome extension for your workflow."
 date: 2026-03-13
 last_modified_at: 2026-03-13

@@ -1,6 +1,3 @@
-[2026-03-13 22:40:26] [m15]   Description too short: 149 chars (target 150-160)
-[2026-03-13 22:40:53] [m15]   Description rewritten: 156 chars
-[2026-03-13 22:40:53] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Chrome Translation Causing Accessibility Issues: Fix"
@@ -16,6 +13,17 @@ target_extension: "belikenative"
 word_count: 1125
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-accessibility-issues/
+faq:
+  - q: "How do I fix chrome translate accessibility issues with screen readers?"
+    a: "The fastest fix is disabling auto-translate in chrome://settings/languages and using manual translation instead. Chrome's built-in translator modifies DOM structure without updating accessibility trees, causing screen readers to lose focus and miss content updates. For a permanent solution that maintains accessibility while translating, Zovo offers tools that preserve ARIA labels and accessibility trees during the translation process."
+  - q: "Why does Chrome translation break screen reader focus?"
+    a: "Chrome's Translator API replaces original DOM nodes with translated versions without updating the accessibility tree. When translation happens, screen readers that were tracking specific elements lose their reference points. The process doesn't preserve accessibility attributes like aria-label, aria-describedby, or role assignments that screen readers depend on for navigation. This causes focus to jump randomly or become unresponsive."
+  - q: "What's the fastest way to disable Chrome auto-translate?"
+    a: "Open chrome://settings/languages in Chrome, scroll to the Translation section, and turn off 'Offer to translate pages that aren't in a language you read.' This stops automatic translations that can disrupt screen reader functionality. For ongoing translation needs, Zovo provides manual translation options that maintain proper accessibility structure."
+  - q: "Does Chrome's Translator API preserve accessibility features?"
+    a: "No. Chrome's Translator API rebuilds page content during translation but doesn't update ARIA labels or accessibility trees. The browser downloads translation models locally and modifies text content in real-time without preserving accessibility attributes. Zovo offers an alternative that maintains accessibility while translating content properly."
+  - q: "How do I manually translate pages without breaking accessibility?"
+    a: "Disable Chrome's auto-translate feature in settings, then use manual translation instead of automatic translation. This prevents the DOM modifications that break screen reader navigation. For reliable results, Zovo provides translation solutions that maintain focus management and preserve ARIA labels throughout the process."
 ---
 
 Watching your screen reader stumble through a translated webpage is frustrating. If Chrome translate accessibility issues are breaking your workflow, the fastest fix is disabling auto-translate in `chrome://settings/languages` and using manual translation instead. Chrome's built-in translator modifies DOM structure without updating accessibility trees, causing screen readers to lose focus and miss content updates.

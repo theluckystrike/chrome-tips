@@ -1,7 +1,10 @@
+[2026-03-13 19:48:02] [m15]   Description too short: 148 chars (target 150-160)
+[2026-03-13 19:48:44] [m15]   Description rewritten: 153 chars
+[2026-03-13 19:48:44] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON Schema Validation Errors in Chrome: Debug Guide"
-description: "Fix JSON schema validation errors in Chrome with proven debugging methods. Complete troubleshooting guide with manual fixes and automated solutions."
+description: "Learn how to fix json schema validation errors chrome. This debug guide covers common issues, troubleshooting steps, and best practices. Get started now!"
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /json-schema-validation-errors-chrome/

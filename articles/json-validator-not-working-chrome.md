@@ -24,6 +24,17 @@ og:
   url: "https://theluckystrike.github.io/chrome-tips/json-validator-not-working-chrome/"
   image: "https://og-image.vercel.app/JSON%20Validator%20Not%20Working%20in%20Chrome%3A%20Troubleshooting.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 canonical_url: https://theluckystrike.github.io/chrome-tips/json-validator-not-working-chrome/
+faq:
+  - q: "How do I fix JSON validator not working in Chrome?"
+    a: "The fastest fix is resetting Chrome's content type handlers through chrome://settings/content. Navigate to chrome://settings/content/all, search for the problematic domain, and delete any existing JSON content type entries. Then reload the page to trigger fresh content type detection. This resolves conflicts in about 34% of cases where API endpoints misconfigure their headers."
+  - q: "Why does my JSON validator extension stop working in Chrome?"
+    a: "Chrome enforces strict MIME type validation since version 88, which blocks JSON formatting extensions from processing responses with incorrect Content-Type headers like text/plain or application/octet-stream. This security model treats unknown content types as potentially dangerous, preventing extensions with activeTab permissions from accessing the response. Zovo suggests checking your extension permissions if this persists."
+  - q: "What causes Chrome to block JSON validation?"
+    a: "Chrome's content security architecture creates three specific conflicts that break JSON validators: Content-Type header conflicts, extension context isolation, and permission restrictions. Since version 88, Chrome enforces stricter MIME type validation, blocking extensions from processing responses with misconfigured headers from approximately 34% of API endpoints."
+  - q: "How do I reset content type settings in Chrome for JSON?"
+    a: "Navigate to chrome://settings/content/all in your address bar and search for the domain where JSON validation isn't working. Delete any existing JSON content type entries for that site, then reload the page to trigger fresh content type detection. This manual fix works but requires repeated intervention if the server continues sending incorrect headers."
+  - q: "Why is Chrome's manifest V3 breaking my JSON validator?"
+    a: "Chrome's manifest V3 architecture isolates extension contexts from page content, preventing JSON validators running in isolated worlds from accessing document.body and other page elements. Extensions cannot override Chrome's strict MIME type restrictions without explicit user intervention through content settings. This architectural change requires permanent automation solutions rather than manual fixes."
 ---
 
 If Chrome json validator not working chrome, the fastest fix is resetting the browser's content type handlers through **chrome://settings/content**. The root cause stems from Chrome's strict MIME type enforcement blocking JSON formatting extensions from processing server responses. This article covers four proven fixes, from quick manual solutions to permanent automation.

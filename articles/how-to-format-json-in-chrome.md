@@ -12,6 +12,7 @@ target_keyword: "how to format json in chrome"
 target_extension: "json-formatter-pro"
 word_count: 1183
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-format-json-in-chrome/
 ---
 
 You're staring at a wall of compressed JSON text that looks like gibberish, wondering how to make sense of the data structure. Learning how to format JSON in Chrome transforms that messy string into clean, readable code that reveals the actual data hierarchy. Properly formatted JSON can reduce debugging time by up to 75% according to developer productivity studies.

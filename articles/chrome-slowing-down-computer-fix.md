@@ -12,6 +12,7 @@ target_keyword: "chrome slowing down computer fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-slowing-down-computer-fix/
 ---
 
 If Chrome is slowing down your whole computer, the fastest fix is closing unnecessary tabs and disabling resource-heavy extensions. The root cause is Chrome's multi-process architecture consuming excessive RAM and CPU cycles when managing dozens of active tabs simultaneously. This chrome slowing down computer fix guide covers immediate solutions and permanent automation to prevent future slowdowns.

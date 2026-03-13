@@ -12,6 +12,7 @@ target_keyword: "chrome extension memory usage high"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-extension-memory-usage-high/
 ---
 
 Watching Chrome stutter while you're trying to work is maddening. If chrome extension memory usage high is slowing your browser to a crawl, the fastest fix is disabling resource-heavy extensions through Chrome's Task Manager. The root cause? Extensions run persistent background processes that accumulate memory over time, especially with multiple tabs open. This guide covers immediate fixes and a permanent solution to keep your browser responsive.

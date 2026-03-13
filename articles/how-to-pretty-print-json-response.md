@@ -23,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/how-to-pretty-print-json-response/"
   image: "https://og-image.vercel.app/How%20to%20Pretty%20Print%20JSON%20API%20Responses%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-pretty-print-json-response/
 ---
 
 You're staring at a wall of unformatted JSON text in your Chrome tab, trying to find that one property buried somewhere in the mess. Learning how to pretty print json response data in Chrome transforms this frustrating experience into readable, properly indented code that you can actually navigate. This skill saves developers an average of **23 minutes** per day when working with APIs.

@@ -1,6 +1,11 @@
+[2026-03-13 13:52:45] [m15]   Title too long: 78 chars (max 60)
+[2026-03-13 13:52:52] [m15]   Title shortened: "JSON Formatter Pro vs Callum Locke JSON Formatter 2026" (54 chars)
+[2026-03-13 13:52:52] [m15]   Description too long: 176 chars (target 150-160)
+[2026-03-13 13:53:05] [m15]   WARNING: Could not generate valid description (got 135 chars).
+[2026-03-13 13:53:05] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "JSON Formatter Pro vs JSON Formatter by Callum Locke: Which Is Better in 2026?"
+title: "JSON Formatter Pro vs Callum Locke JSON Formatter 2026"
 description: "Compare JSON Formatter Pro vs JSON Formatter by Callum Locke. Features, speed, and value analysis to help you choose the best json formatter pro vs callum locke json formatter."
 date: 2026-03-13
 last_modified_at: 2026-03-13

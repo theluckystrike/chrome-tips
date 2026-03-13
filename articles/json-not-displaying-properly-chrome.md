@@ -24,6 +24,17 @@ og:
   url: "https://theluckystrike.github.io/chrome-tips/json-not-displaying-properly-chrome/"
   image: "https://og-image.vercel.app/JSON%20Not%20Displaying%20Properly%20in%20Chrome%3A%20How%20to%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 canonical_url: https://theluckystrike.github.io/chrome-tips/json-not-displaying-properly-chrome/
+faq:
+  - q: "How do I fix json not displaying properly chrome with the built-in viewer?"
+    a: "Type chrome://flags/#enable-json-viewer in Chrome's address bar, set the flag to Enabled, and restart the browser. This is the fastest solution for json not displaying properly chrome issues. Once enabled, Chrome automatically formats JSON responses into a collapsible, syntax-highlighted structure. The feature works by detecting the application/json MIME type and triggering Chrome's internal JSON formatter instead of the default text parser."
+  - q: "Why does Chrome show JSON as plain text instead of formatted data?"
+    a: "Chrome displays JSON as plain text when it doesn't recognize the response as structured data. This happens when web servers send incorrect Content-Type headers, such as text/plain instead of application/json. Approximately 35% of API endpoints don't configure headers properly according to web standards. Chrome needs the correct MIME type to automatically trigger its JSON formatter and display data in a readable, hierarchical format."
+  - q: "What causes JSON display issues in Chrome besides Content-Type headers?"
+    a: "Beyond incorrect Content-Type headers, Chrome's JSON display issues can stem from the default text parser treating JSON as plain text. Internal APIs, development servers, and legacy systems often fail to set proper headers. Content delivery networks may also strip or modify headers during caching, causing inconsistent JSON display across requests to the same endpoint. This technical limitation affects roughly one-third of API endpoints."
+  - q: "Is enabling Chrome's JSON flag better than using third-party extensions?"
+    a: "Enabling Chrome's JSON flag through chrome://flags/#enable-json-viewer is the recommended first solution because it's built-in and requires no additional installations. Third-party extensions offer more features but add browser overhead and potential security considerations. Zovo suggests trying the native flag first since it handles most common JSON display scenarios effectively and updates automatically with Chrome releases."
+  - q: "What's the quickest fix for seeing formatted JSON in Chrome right now?"
+    a: "The quickest fix is enabling Chrome's built-in JSON viewer by navigating to chrome://flags/#enable-json-viewer, setting it to Enabled, and restarting the browser. This addresses the root cause where Chrome's default text parser treats JSON as plain text rather than structured data. After restarting, any JSON URL opened will display as formatted, collapsible content instead of a wall of unformatted text."
 ---
 
 Opening a JSON API response in Chrome only to see a wall of unformatted text is frustrating. If you're dealing with json not displaying properly chrome, the fastest fix is enabling Chrome's built-in JSON viewer through `chrome://flags/#enable-json-viewer`. The root cause is Chrome's default text parser treating JSON as plain text instead of structured data. This article covers immediate fixes, permanent solutions, and why this happens in the first place.

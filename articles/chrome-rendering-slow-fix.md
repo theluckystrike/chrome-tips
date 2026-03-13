@@ -12,6 +12,7 @@ target_keyword: "chrome rendering slow fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-rendering-slow-fix/
 ---
 
 Watching Chrome struggle to load a simple webpage is maddening. If Chrome is rendering pages slowly, the fastest chrome rendering slow fix is clearing your browser data and disabling unnecessary extensions. The root cause is usually memory bloat from too many active tabs competing for system resources. This article covers immediate fixes plus a permanent solution.

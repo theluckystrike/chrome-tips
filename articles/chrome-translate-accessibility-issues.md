@@ -1,7 +1,10 @@
+[2026-03-13 22:40:26] [m15]   Description too short: 149 chars (target 150-160)
+[2026-03-13 22:40:53] [m15]   Description rewritten: 156 chars
+[2026-03-13 22:40:53] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Chrome Translation Causing Accessibility Issues: Fix"
-description: "Fix Chrome translate accessibility issues in 3 steps. Screen readers fail, focus breaks, ARIA disappears. Working solutions for developers and users."
+description: "Fix chrome translate accessibility issues now. Stop translation popups from breaking screen readers, keyboard navigation, and accessible overlays instantly."
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /chrome-translate-accessibility-issues/

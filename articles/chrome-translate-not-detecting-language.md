@@ -12,6 +12,7 @@ target_keyword: "chrome translate not detecting language"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-not-detecting-language/
 ---
 
 Clicking Chrome's translate icon and seeing nothing happen is frustrating. If chrome translate not detecting language becomes a regular problem, the fastest fix is clearing your browser's language detection cache and resetting translation settings to defaults. This happens when Chrome's language detection algorithm gets confused by mixed content or outdated cache data. This article covers the root causes behind translation detection failures and provides step-by-step solutions that work.

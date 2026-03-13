@@ -12,6 +12,7 @@ target_keyword: "chrome memory management guide"
 target_extension: "tab-suspender-pro"
 word_count: 3720
 reading_time: 15
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-memory-management-complete-guide/
 ---
 
 Written by Michael Lip

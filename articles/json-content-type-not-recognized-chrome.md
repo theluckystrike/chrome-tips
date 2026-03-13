@@ -1,7 +1,10 @@
+[2026-03-13 19:24:19] [m15]   Description too short: 120 chars (target 150-160)
+[2026-03-13 19:24:29] [m15]   Description rewritten: 147 chars
+[2026-03-13 19:24:29] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON Content-Type Not Recognized by Chrome"
-description: "Chrome not recognizing JSON content-type? Fix it instantly with these proven solutions that work for developers in 2026."
+description: "Having json content type not recognized chrome issues? Our expert guide shows you exactly how to fix this error and get your APIs working properly."
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /json-content-type-not-recognized-chrome/

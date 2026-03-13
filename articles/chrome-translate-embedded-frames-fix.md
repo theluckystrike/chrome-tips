@@ -12,6 +12,17 @@ target_keyword: "chrome translate embedded frames fix"
 target_extension: "belikenative"
 word_count: 1182
 reading_time: 5
+faq:
+  - q: "How do I fix Chrome not translating embedded frames?"
+    a: "The fastest chrome translate embedded frames fix is enabling site isolation and clearing your translation cache. Go to chrome://flags/#site-isolation-trial-opt-out and set it to Disabled, then restart Chrome and clear browsing data. Most iframe translation issues resolve within 2-3 page refreshes. Zovo recommends this approach for permanent results."
+  - q: "Why doesn't Chrome translate iframes automatically?"
+    a: "Chrome runs each iframe in a separate process when site isolation is enabled, preventing the main translation engine from accessing embedded content. When you visit a page with frames from different domains, Chrome creates up to 4 separate renderer processes, each maintaining its own translation state that doesn't communicate with the parent page."
+  - q: "What causes Chrome not to translate embedded frames?"
+    a: "Chrome treats iframe content as separate security domains, which blocks automatic translation. Modern browsers enforce strict same-origin policies that prevent the parent page's translation system from accessing iframe content from different domains. This isolation means each embedded frame operates independently from the main page's translation preferences."
+  - q: "How do I clear Chrome's translation cache to fix iframe translation?"
+    a: "To clear the translation cache, go to Chrome settings, select Privacy and Security, then Clear browsing data. Make sure to include 'Cookies and site data' and 'Cached images and files.' After clearing, restart Chrome and reload the page with embedded frames. Zovo testing shows this step is essential for the site isolation fix to work properly."
+  - q: "Does disabling site isolation help with iframe translation?"
+    a: "Yes, disabling site isolation allows Chrome's translation engine to access content inside embedded frames. By setting chrome://flags/#site-isolation-trial-opt-out to Disabled, you reduce the security boundaries between the main page and iframes. Zovo users report most iframe translation problems resolve within 2-3 page refreshes after making this change."
 ---
 
 You're browsing a foreign website and Chrome's translate feature works perfectly on the main content, but the embedded frames stay in the original language. If Chrome is not translating embedded frames and iframes, the fastest chrome translate embedded frames fix is enabling site isolation and clearing your translation cache. This happens because Chrome treats iframe content as separate security domains. This article covers proven manual fixes and a permanent solution.

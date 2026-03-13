@@ -1,7 +1,10 @@
+[2026-03-13 18:48:20] [m15]   Description too short: 131 chars (target 150-160)
+[2026-03-13 18:48:43] [m15]   Description rewritten: 141 chars
+[2026-03-13 18:48:43] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON Validator Not Working in Chrome: Troubleshooting"
-description: "Fix JSON validator not working in Chrome with proven solutions. Restore syntax highlighting, formatting, and validation in 3 steps."
+description: "JSON validator not working in Chrome? Discover proven fixes for common errors and get your validator running smoothly again in minutes today."
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /json-validator-not-working-chrome/

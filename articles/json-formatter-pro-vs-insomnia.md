@@ -24,6 +24,7 @@ faq:
     a: "JSON Formatter Pro is completely free, while Insomnia costs $5/month. This makes JSON Formatter Pro the better value for developers who only need to view and format JSON in their browser. The 738KiB extension provides instant formatting with syntax highlighting at no cost. Insomnia's $5/month subscription includes full API testing suites, environment support, and team collaboration features that justify the price for professional development workflows."
   - q: "Should I use JSON Formatter Pro or Insomnia for API development?"
     a: "Use Insomnia for API development and JSON Formatter Pro for quick JSON viewing. Insomnia provides a complete API testing suite with request history, environment support, and team collaboration features essential for development workflows. JSON Formatter Pro, tested across 50 endpoints, is ideal for developers who need instant JSON formatting when browsing API responses but don't require testing capabilities. Most developers benefit from having both tools installed for different scenarios."
+video_id: "GMzAYDNsZCE"
 ---
 
 **JSON Formatter Pro** wins for quick browser-based JSON formatting, while **Insomnia** dominates API testing workflows. The json formatter pro vs insomnia debate comes down to scope: you need a lightweight browser extension for viewing JSON responses versus a full desktop application for comprehensive API development. I tested both tools across 50 API endpoints and JSON files to determine which serves different developer needs better.
@@ -37,6 +38,12 @@ faq:
 | Speed | JSON Formatter Pro | Formats JSON instantly in-browser |
 | Features | Insomnia | Complete API testing suite |
 | Value | JSON Formatter Pro | Free vs $5/month |
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+<iframe src="https://www.youtube.com/embed/GMzAYDNsZCE" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="The Ultimate Chrome JSON Extension"></iframe>
+</div>
+<p class="video-caption" style="text-align:center;font-size:0.9em;color:#666;margin-top:0.5em;">Video: The Ultimate Chrome JSON Extension — dcode</p>
+
 
 ## Feature Comparison
 

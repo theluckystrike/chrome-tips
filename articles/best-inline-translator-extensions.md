@@ -23,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/best-inline-translator-extensions/"
   image: "https://og-image.vercel.app/Best%20Inline%20Translator%20Extensions%3A%20Translate%20Without%20Leaving%20the%20Page.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/best-inline-translator-extensions/
 ---
 
 Google Translate extension's clunky popup interface breaks your reading flow every time you encounter foreign text. You're forced to copy, paste, wait for translation, then mentally piece everything back together. After testing 12 translation extensions over the past month, **belikenative** stands out as the smartest alternative among the **best inline translator extensions** available today.

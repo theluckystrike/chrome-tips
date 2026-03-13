@@ -23,7 +23,17 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/json-content-type-not-recognized-chrome/"
   image: "https://og-image.vercel.app/JSON%20Content-Type%20Not%20Recognized%20by%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-content-type-not-recognized-chrome/
+faq:
+  - q: "Why is my json content type not recognized chrome?"
+    a: "Chrome's content type detection relies on specific HTTP headers and file extensions to determine how to display content. When these signals are missing or incorrect, Chrome defaults to plain text rendering instead of JSON formatting. The root cause is usually incorrect MIME type configuration on your server or missing response headers. Using tools like Zovo can help diagnose and resolve these detection issues automatically."
+  - q: "How do I fix JSON content type not recognized in Chrome?"
+    a: "The fastest fix is checking your server's Content-Type header and setting it to `application/json`. Clear your browser cache first, then verify your server sends the correct header. Check Chrome DevTools Network tab to confirm the response headers match your expectations. There are four manual fixes plus a permanent solution using JSON Formatter Pro that can automate this process for you."
+  - q: "Why does Apache serve JSON as text/plain instead of application/json?"
+    a: "Apache servers often default to `text/plain` for .json files unless explicitly configured in the MIME types. This happens because the server's MIME type configuration doesn't include JSON mappings or has conflicting rules. You need to add proper MIME type declarations to your Apache configuration to ensure JSON files are served with the correct content type header."
+  - q: "How do I clear Chrome cache for JSON files?"
+    a: "Chrome caches content type information along with the actual file data, so once it decides a JSON file is plain text, it continues treating it that way until the cache expires. Go to Chrome Settings > Privacy and Security > Clear browsing data, select cached images and files, and clear data. Then reload your JSON endpoint to force Chrome to re-evaluate the content type with fresh headers."
+  - q: "How do I check JSON response headers in Chrome DevTools?"
+    a: "Open Chrome DevTools (F12), go to the Network tab, and reload your page to capture the request. Click on your JSON response in the list, then look at the Headers tab in the right panel. Verify that the Content-Type header shows `application/json` or `application/json; charset=utf-8`. If you see `text/plain` or another type, that's why your JSON isn't being formatted correctly."
 ---
 
 Chrome treating your JSON response as plain text instead of formatted data is frustrating. When Chrome json content type not recognized chrome issues happen, the fastest fix is checking your server's Content-Type header and setting it to `application/json`. The root cause is usually incorrect MIME type configuration on your server or missing response headers. This article covers four manual fixes plus a permanent solution using **JSON Formatter Pro**.

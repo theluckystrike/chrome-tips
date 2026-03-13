@@ -23,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/json-array-too-large-chrome/"
   image: "https://og-image.vercel.app/JSON%20Array%20Too%20Large%20for%20Chrome%20to%20Display%3A%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-array-too-large-chrome/
 ---
 
 If Chrome shows json array too large for chrome to display, the fastest fix is splitting the array into smaller chunks or using Chrome's native JSON viewer limits. This error occurs when Chrome's rendering engine hits memory constraints processing arrays exceeding 16MB in the browser tab. This article covers four proven manual fixes and one permanent extension solution.

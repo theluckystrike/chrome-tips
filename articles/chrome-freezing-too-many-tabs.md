@@ -12,6 +12,7 @@ target_keyword: "chrome freezing too many tabs"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-freezing-too-many-tabs/
 ---
 
 You're deep in work when Chrome suddenly locks up completely. If chrome freezing too many tabs is ruining your productivity, the fastest fix is closing inactive tabs and enabling Chrome's built-in memory saver mode. The root cause is Chrome's process-per-tab architecture consuming your system's available RAM. This article covers immediate fixes, long-term solutions, and how to prevent freezing permanently.

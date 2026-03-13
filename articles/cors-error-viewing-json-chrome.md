@@ -12,6 +12,7 @@ target_keyword: "cors error viewing json chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/cors-error-viewing-json-chrome/
 ---
 
 If you're getting a cors error viewing json chrome when trying to view local JSON files or API responses, the fastest fix is disabling Chrome's CORS policy for local files using the --disable-web-security flag. This article covers the root causes behind CORS errors in Chrome and provides four proven methods to fix them permanently.

@@ -12,6 +12,7 @@ target_keyword: "how to translate selected text in chrome"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-selected-text-in-chrome/
 ---
 
 You're reading a foreign article when you stumble across a paragraph that looks important but you can't understand it. Learning how to translate selected text in chrome saves you from constantly switching between tabs or opening separate translation tools. Chrome's built-in translation features can handle 109 languages instantly without requiring any additional downloads.

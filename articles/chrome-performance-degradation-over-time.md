@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-performance-degradation-over-time/
+faq:
+  - q: "Why does Chrome performance degradation over time happen?"
+    a: "Chrome slows down over time because of its process-per-tab architecture, where each tab, extension, and plugin runs as a separate process. A typical 20-tab session spawns 25-30 processes consuming 3-6GB of RAM, with each process adding 10-15MB baseline memory overhead. Memory leaks from JavaScript in background tabs accumulate unchecked at 50-100MB per hour, compounding the slowdown. Zovo recommends regularly closing unused tabs to prevent this degradation."
+  - q: "How do I fix Chrome when it gets slow?"
+    a: "The fastest fix is closing unused tabs and clearing your browser cache. Open Chrome Task Manager with Shift+Esc to identify memory-heavy tabs and close them. Clear browsing data with Ctrl+Shift+Delete on Windows or Cmd+Shift+Delete on Mac, then restart Chrome. Zovo suggests making this a weekly habit to maintain optimal browser performance and prevent cumulative slowdown."
+  - q: "How much RAM does Chrome use with multiple tabs?"
+    a: "Chrome typically uses 3-6GB of RAM for a session with 20 open tabs, spawning 25-30 separate processes. Each process adds 10-15MB of baseline memory usage before loading any content. Extensions multiply this problem by running their own processes and content scripts across every applicable tab. Zovo recommends limiting active tabs to reduce RAM consumption significantly."
+  - q: "What causes memory leaks in background Chrome tabs?"
+    a: "Background tabs continue executing JavaScript code even when invisible, allowing memory leaks to grow 50-100MB per hour. These leaks form through unclosed event listeners, circular references, and retained DOM nodes common in modern web apps. Social media sites and email clients are particularly prone to this issue. Zovo suggests closing background tabs you're not actively using to prevent memory accumulation."
+  - q: "Do Chrome extensions slow down browser performance?"
+    a: "Yes, extensions significantly slow Chrome by running their own processes and injecting content scripts into every applicable page. Each extension adds its own memory overhead on top of tab processes, with popular ad blockers injecting code into hundreds of pages simultaneously. This multiplies the 10-15MB per-process baseline dramatically. Zovo recommends auditing extensions monthly and removing any you don't actively use."
 ---
 
 Watching Chrome freeze during an important video call is frustrating. If you're dealing with chrome performance degradation over time, the fastest fix is closing unused tabs and clearing your browser cache. The root cause is Chrome's process-per-tab architecture consuming increasing amounts of RAM and CPU cycles. This article covers why this happens and how to fix it permanently.

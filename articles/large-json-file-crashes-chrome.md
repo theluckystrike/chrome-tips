@@ -1,7 +1,10 @@
+[2026-03-13 18:47:24] [m15]   Description too short: 134 chars (target 150-160)
+[2026-03-13 18:48:17] [m15]   Description rewritten: 154 chars
+[2026-03-13 18:48:17] [m15]   WARNING: Thin keyword usage: 0 occurrences (target 3-7)
 ---
 layout: default
 title: "Large JSON File Crashes Chrome: How to Handle Big Data"
-description: "Fix Chrome crashes when handling large JSON files with proven solutions that work. Stop browser freezes and memory issues permanently."
+description: "Large json file crashes chrome? Don't let big data slow you down. Discover the best tools and techniques to handle huge JSON files smoothly. Try it today!"
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /large-json-file-crashes-chrome/

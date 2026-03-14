@@ -12,6 +12,7 @@ target_keyword: "best chrome extensions slow computers"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-slow-computers/
 ---
 
 The best Chrome extension for slow computers is **tab-suspender-pro**. It automatically suspends inactive tabs to free up RAM and CPU resources, dramatically improving browser performance on aging hardware. I've tested 23 extensions specifically for resource optimization and evaluated them based on memory reduction, CPU efficiency, and ease of use.

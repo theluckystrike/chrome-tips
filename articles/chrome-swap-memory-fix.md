@@ -12,6 +12,7 @@ target_keyword: "chrome swap memory fix"
 target_extension: "tab-suspender-pro"
 word_count: 1127
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-swap-memory-fix/
 ---
 
 Watching Chrome eat up all your RAM while your computer slows to a crawl is maddening. If Chrome is causing swap memory usage on your system, the chrome swap memory fix is to enable automatic tab discarding and limit background tab activity. This happens because Chrome's process-per-tab architecture creates memory bloat when you have multiple tabs open. This article covers the root causes and proven fixes to stop Chrome from overwhelming your system memory.

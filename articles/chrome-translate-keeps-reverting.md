@@ -12,6 +12,7 @@ target_keyword: "chrome translate keeps reverting"
 target_extension: "belikenative"
 word_count: 1147
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-keeps-reverting/
 ---
 
 You're reading a translated page when Chrome suddenly switches back to the original language. If chrome translate keeps reverting to the source text, the fastest fix is clearing your browser's translation cache through chrome://settings/languages. This happens because Chrome's translation service stores conflicting language preferences that override your current session. This article covers three manual fixes and one permanent solution.

@@ -35,6 +35,7 @@ faq:
     a: "Chrome DevTools console is faster than extensions once you memorize the syntax, requiring no additional installation. Extensions provide formatting buttons but add browser overhead. The console method is immediately available in any Chrome installation, works across all platforms identically, and the tools remain open when switching tabs, saving setup time during active debugging sessions."
   - q: "Why does my JSON appear as unformatted text in Chrome?"
     a: "API responses return as minified JSON strings by default, appearing as a single line without indentation. This compressed format reduces file size during transmission but makes reading nested data impossible. Chrome's Developer Tools console transforms this raw text into formatted code using JSON.stringify, revealing the hierarchical structure with proper spacing that makes finding buried properties straightforward."
+internal_links_added: true
 ---
 
 You're staring at a wall of unformatted JSON text in your Chrome tab, trying to find that one property buried somewhere in the mess. Learning how to pretty print json response data in Chrome transforms this frustrating experience into readable, properly indented code that you can actually navigate. This skill saves developers an average of **23 minutes** per day when working with APIs.
@@ -128,7 +129,7 @@ JSON.parse() throws exceptions when encountering syntax errors instead of attemp
 
 The console error message typically indicates the exact character position where parsing failed. Look for these frequent issues: missing closing brackets or braces, comma placement errors, and incorrect quote usage.
 
-When debugging with [Chrome's source examination features](https://theluckystrike.github.io/chrome-tips/), you can validate JSON syntax in the Sources tab before attempting console formatting.
+When debugging with [Chrome's source examination features](https://theluckystrike.github.io/chrome-tips/), you can validate JSON syntax in the Sources tab before attempting console formatting. Understanding how [Chrome handles encrypted media extensions](chrome-encrypted-media-extensions-eme-drm) can also be helpful when working with protected content in browser-based applications.
 
 ### Not Handling Large JSON Response Files
 

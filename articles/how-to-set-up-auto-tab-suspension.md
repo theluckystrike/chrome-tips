@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-set-up-auto-tab-suspension/
+image: "https://og-image.vercel.app/How%20to%20Set%20Up%20Automatic%20Tab%20Suspension%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "How to Set Up Automatic Tab Suspension in Chrome"
+  description: "Learn how to set up auto tab suspension in Chrome to reduce memory usage by up to 95% with built-in settings and advanced extensions."
+og:
+  title: "How to Set Up Automatic Tab Suspension in Chrome"
+  description: "Learn how to set up auto tab suspension in Chrome to reduce memory usage by up to 95% with built-in settings and advanced extensions."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/how-to-set-up-auto-tab-suspension/"
+  image: "https://og-image.vercel.app/How%20to%20Set%20Up%20Automatic%20Tab%20Suspension%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You open Chrome and suddenly your laptop fan starts whirring like a jet engine. Learning how to set up auto tab suspension chrome can reduce memory usage by up to 95% and stop those performance slowdowns. This simple tweak keeps your browser running smoothly even with dozens of tabs open.

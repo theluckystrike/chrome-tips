@@ -10,6 +10,8 @@ permalink: how-to-change-chrome-language-settings
 categories: '[chrome, settings, language]'
 tags: '[chrome, language, settings, browser, customization]'
 author: theluckystrike
+reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-change-chrome-language-settings
 ---
 
 # How to Change Chrome Language Settings
@@ -70,4 +72,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change//)
 * [Chrome for Saving Articles to Read Later](/articles/chrome-for-saving-articles-to-read-later/)
 * [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)
-

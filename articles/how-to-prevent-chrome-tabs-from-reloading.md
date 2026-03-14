@@ -12,6 +12,7 @@ target_keyword: "how to prevent chrome tabs from reloading"
 target_extension: "tab-suspender-pro"
 word_count: 1285
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-prevent-chrome-tabs-from-reloading/
 ---
 
 You're typing an important message when suddenly your Chrome tab refreshes and everything disappears. Learning how to prevent chrome tabs from reloading automatically saves you from losing work, preserving form data, and maintaining your browsing flow across **87% of common browsing scenarios**.

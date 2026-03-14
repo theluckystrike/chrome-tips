@@ -13,6 +13,17 @@ target_extension: "json-formatter-pro"
 word_count: 1127
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/json-editor-online-alternatives/
+image: "https://og-image.vercel.app/JSON%20Editor%20Online%20Alternatives%20That%20Work%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "JSON Editor Online Alternatives That Work in Chrome"
+  description: "7 tested JSON editor online alternatives that beat the original. JSON Formatter Pro leads with 4.8-star rating and advanced validation features."
+og:
+  title: "JSON Editor Online Alternatives That Work in Chrome"
+  description: "7 tested JSON editor online alternatives that beat the original. JSON Formatter Pro leads with 4.8-star rating and advanced validation features."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/json-editor-online-alternatives/"
+  image: "https://og-image.vercel.app/JSON%20Editor%20Online%20Alternatives%20That%20Work%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 JSON Editor Online crashes when you paste large files, forcing you to restart your browser and lose all your work. After testing 7 json editor online alternatives over the past month, **JSON Formatter Pro** consistently handles files up to 50MB without breaking a sweat.

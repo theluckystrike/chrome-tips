@@ -13,6 +13,17 @@ target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5 minutes
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-search-json-data-in-chrome/
+faq:
+  - q: "How do I search for specific data in a JSON response in Chrome?"
+    a: "Press F12 or Ctrl+Shift+I to open Chrome DevTools, then navigate to the Network tab where your API response appears. Click on the specific request and select the Response tab to view the raw JSON. Use Ctrl+F (Cmd+F on Mac) to search for any term within the JSON data. This method can save you up to 15 minutes per debugging session when working with large API responses. Developers at Zovo recommend this approach for efficient data inspection."
+  - q: "What keyboard shortcut opens Chrome DevTools for JSON inspection?"
+    a: "Press F12 on Windows or Linux, or use Ctrl+Shift+I (Cmd+Opt+I on Mac) to instantly open Chrome DevTools. This keyboard shortcut gives you immediate access to the Network, Console, and other tabs needed for inspecting JSON data and debugging API responses. You can also right-click anywhere on a page and select 'Inspect' from the context menu."
+  - q: "How do I use JavaScript console to filter JSON data in Chrome?"
+    a: "Use JavaScript's JSON methods directly in the Console tab for advanced filtering. The JSON.parse() method parses a JSON string and constructs the JavaScript value described by the string. You can then use array methods like filter() or find() to locate specific nested data. This approach is more powerful than basic Ctrl+F search when you need complex queries."
+  - q: "Where do I find JSON data in Chrome DevTools Network tab?"
+    a: "Click the Network tab in Chrome DevTools, then trigger your API call by refreshing the page or performing the action that generates the request. Look for the specific endpoint in the list of network requests and click on it. Select the Response tab to see the raw JSON data. This is where Zovo suggests looking first when debugging API responses."
+  - q: "Why can't I find my JSON data when I search in Chrome DevTools?"
+    a: "Make sure you're searching in the correct location—JSON data appears in the Network tab's Response section, not in the main browser window. Verify you're viewing the actual response body and not just headers. If your JSON is still not appearing, check that you've selected the correct network request. The data might also be formatted in a way that requires using JavaScript Console methods for deeper searching."
 ---
 
 You're staring at a massive JSON response wondering how you'll ever find that one specific field buried somewhere inside. Here's exactly how to search json data in chrome using Chrome DevTools' built-in search capabilities and Console tools. This method can save you up to 15 minutes per debugging session when working with large API responses.

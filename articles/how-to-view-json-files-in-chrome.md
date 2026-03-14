@@ -13,6 +13,17 @@ target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-view-json-files-in-chrome/
+image: "https://og-image.vercel.app/How%20to%20View%20JSON%20Files%20in%20Chrome%20With%20Syntax%20Highlighting.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "How to View JSON Files in Chrome With Syntax Highlighting"
+  description: "Learn how to view JSON files in Chrome with proper syntax highlighting using built-in developer tools and extensions for better readability."
+og:
+  title: "How to View JSON Files in Chrome With Syntax Highlighting"
+  description: "Learn how to view JSON files in Chrome with proper syntax highlighting using built-in developer tools and extensions for better readability."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/how-to-view-json-files-in-chrome/"
+  image: "https://og-image.vercel.app/How%20to%20View%20JSON%20Files%20in%20Chrome%20With%20Syntax%20Highlighting.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You click on a JSON file link and Chrome shows you an ugly wall of text without any formatting. Here's exactly how to view JSON files in Chrome with proper syntax highlighting: open Chrome DevTools, navigate to the Sources tab, and paste your JSON data into the console. This transforms unreadable JSON into beautifully formatted, color-coded data that saves developers an average of 12 minutes per debugging session.

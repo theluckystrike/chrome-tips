@@ -12,6 +12,7 @@ target_keyword: "chrome keeps crashing windows"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-keeps-crashing-windows/
 ---
 
 You're in the middle of important work when Chrome suddenly freezes and dies. If chrome keeps crashing windows, the fastest fix is clearing Chrome's process cache and reducing memory pressure through tab management. The root cause is usually memory exhaustion from too many active processes competing for system resources. This guide covers immediate fixes, long-term solutions, and automated prevention methods.

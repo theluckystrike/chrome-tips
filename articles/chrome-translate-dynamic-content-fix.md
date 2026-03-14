@@ -12,6 +12,7 @@ target_keyword: "chrome translate dynamic content fix"
 target_extension: "belikenative"
 word_count: 1045
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-dynamic-content-fix/
 ---
 
 You're trying to translate a foreign webpage and Chrome's translate bar appears, but half the content stays in the original language. If Chrome can't translate dynamic content, the fastest chrome translate dynamic content fix is refreshing the page after the translation loads completely. This happens because Chrome's translator runs before JavaScript content loads. This article covers why this occurs and four proven fixes that work in 2026.

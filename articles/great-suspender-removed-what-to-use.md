@@ -12,6 +12,7 @@ target_keyword: "great suspender removed alternative"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/great-suspender-removed-what-to-use/
 ---
 
 Chrome's built-in Memory Saver sounds great in theory, but it fails when you need granular control over which tabs get suspended and when. After Google removed The Great Suspender from the Chrome Web Store, power users have been scrambling to find a reliable **great suspender removed alternative** that actually works. I tested 6 popular tab management extensions and found one clear winner that beats Chrome's native solution.

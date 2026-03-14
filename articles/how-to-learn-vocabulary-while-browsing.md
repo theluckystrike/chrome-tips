@@ -12,6 +12,7 @@ target_keyword: "how to learn vocabulary while browsing"
 target_extension: "belikenative"
 word_count: 1150
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-learn-vocabulary-while-browsing/
 ---
 
 You're reading an article in French when you hit an unfamiliar word, but instead of opening a new tab to translate it, you just keep scrolling past. Learning how to learn vocabulary while browsing transforms these missed opportunities into vocabulary-building moments without disrupting your flow. Research shows that learning words in context improves retention by **40%** compared to studying flashcards alone.

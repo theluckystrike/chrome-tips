@@ -12,6 +12,17 @@ target_keyword: "how to whitelist tabs from suspension chrome"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+image: "https://og-image.vercel.app/How%20to%20Whitelist%20Tabs%20From%20Being%20Suspended%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "How to Whitelist Tabs From Being Suspended in Chrome"
+  description: "Learn how to whitelist tabs from suspension chrome with manual settings and automated tools. Keep important tabs active without losing work or progress."
+og:
+  title: "How to Whitelist Tabs From Being Suspended in Chrome"
+  description: "Learn how to whitelist tabs from suspension chrome with manual settings and automated tools. Keep important tabs active without losing work or progress."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/how-to-whitelist-tabs-from-suspension/"
+  image: "https://og-image.vercel.app/How%20to%20Whitelist%20Tabs%20From%20Being%20Suspended%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Nothing kills productivity quite like losing progress in a suspended tab. If you want to know how to whitelist tabs from suspension chrome, the solution involves accessing Chrome's built-in tab discarding settings or using specialized extensions that give you granular control. This prevents Chrome from automatically suspending critical tabs, which can cause you to lose unsaved work or interrupt important background processes.

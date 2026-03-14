@@ -12,6 +12,7 @@ target_keyword: "how to set up chrome for language learning"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-set-up-chrome-for-language-learning/
 ---
 
 You're reading a foreign news article and hitting translate every few seconds. Learning how to set up chrome for language learning properly eliminates this constant clicking and creates an immersive environment where you can absorb new vocabulary 73% faster than traditional study methods.

@@ -9,6 +9,8 @@ permalink: how-to-reduce-chrome-memory-usage
 categories: '[performance, memory]'
 tags: '[chrome-memory, reduce-ram, browser-performance]'
 author: theluckystrike
+reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-reduce-chrome-memory-usage
 ---
 
 # How to Reduce Chrome Memory Usage
@@ -75,4 +77,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)
 * [Chrome Devtools Screenshot Full Page](/articles/chrome-devtools-screenshot-full-page/)
 * [Chrome Inspect Element for Beginners](/articles/chrome-inspect-element-for-beginners/)
-

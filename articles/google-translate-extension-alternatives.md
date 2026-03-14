@@ -1,6 +1,11 @@
+[2026-03-14 08:35:24] [m15]   Title too long: 63 chars (max 60)
+[2026-03-14 08:35:38] [m15]   Title shortened: "Google Translate Extension Alternatives 2026" (44 chars)
+[2026-03-14 08:35:38] [m15]   Description too short: 134 chars (target 150-160)
+[2026-03-14 08:35:55] [m15]   WARNING: Could not generate valid description (got 134 chars).
+[2026-03-14 08:35:55] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "Google Translate Extension Alternatives: Better Options in 2026"
+title: "Google Translate Extension Alternatives 2026"
 description: "Discover 6 powerful Google Translate Extension alternatives that offer better accuracy, privacy, and features for translation in 2026."
 date: 2026-03-14
 last_modified_at: 2026-03-14

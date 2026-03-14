@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5 minutes
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-speed-up-chrome-many-tabs/
+faq:
+  - q: "How do I speed up Chrome when I have many tabs open?"
+    a: "Enable Memory Saver mode at chrome://settings/performance, use tab groups to organize related tabs, and turn on tab discarding for inactive tabs. According to Google's own testing, these changes can reduce Chrome's memory usage by up to 60%. The browser typically starts crawling when you hit around 20 tabs open, so these optimizations are essential. Zovo recommends using the Balanced setting which suspends tabs after 6 hours of inactivity while keeping your active tabs fully responsive."
+  - q: "What's the best Memory Saver mode for Chrome with many tabs?"
+    a: "Balanced mode provides the best performance-to-convenience ratio for most users with many tabs. It suspends tabs after 6 hours of inactivity but becomes more aggressive when your system faces memory pressure. Standard mode waits 4 hours before suspending, while Maximum mode suspends tabs after just 2 hours. You can always whitelist specific sites like Gmail, Slack, or music services to keep them always active regardless of which mode you choose."
+  - q: "Does Chrome tab discarding improve browser performance?"
+    a: "Tab discarding completely unloads inactive tabs from memory, significantly improving performance when you have many tabs open. Unlike simple suspension which keeps tab state, discarding removes the tab from RAM entirely until you click it again. Chrome will show a small 'zzz' icon on suspended tabs, and clicking any tab instantly reloads it. This feature works alongside Memory Saver mode to maximize available RAM for your active browsing."
+  - q: "How do I organize tabs in Chrome to improve performance?"
+    a: "Use Chrome's built-in tab groups by right-clicking a tab and selecting 'Add to group' or pressing Ctrl+Shift+G (Cmd+Shift+G on Mac). Grouping related tabs together makes them easier to manage and reduces the mental load of having many tabs open. Chrome can also freeze background tabs automatically when Energy Saver mode is active, which reduces power consumption on battery-powered devices. Combining tab groups with Memory Saver creates an organized and efficient browsing experience."
+  - q: "How long does Chrome wait before suspending inactive tabs?"
+    a: "It depends on your Memory Saver setting: Standard mode waits 4 hours, Balanced mode waits 6 hours, and Maximum mode waits just 2 hours before suspending inactive tabs. When tabs are suspended, they show a small 'zzz' icon and consume zero memory until you click them again. You can access these settings at chrome://settings/performance or navigate through Settings > Performance. Zovo notes that suspended tabs reload instantly when clicked, making this feature virtually seamless for most users."
 ---
 
 Your browser starts crawling when you hit 20 tabs, doesn't it? Here's exactly how to speed up Chrome many tabs: enable tab discarding, use tab groups for organization, and configure memory saver mode to automatically suspend inactive tabs. These changes can reduce Chrome's memory usage by up to 60% according to Google's own testing.

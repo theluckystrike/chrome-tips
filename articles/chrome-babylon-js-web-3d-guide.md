@@ -4,7 +4,7 @@ title: Chrome Babylon.js Web 3D Guide – Create 3D Graphics in Your Browser
 description: Learn how to use Babylon.js with Google Chrome to create stunning 3D web graphics. This comprehensive guide covers setup, basic concepts, and practical examples for building immersive 3D experiences.
 date: 2026-03-12
 last_modified_at: '2026-03-12'
-permalink: chrome-babylon-js-web-3d-guide
+permalink: /chrome-babylon-js-web-3d-guide/
 categories:
 - chrome
 - web-development

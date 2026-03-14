@@ -12,6 +12,7 @@ target_keyword: "how to minify json in browser"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-minify-json-in-browser/
 ---
 
 You're staring at a massive, beautifully formatted JSON file that needs to be compressed for production. Learning how to minify json in browser takes just 3 steps using Chrome's built-in developer tools and saves an average of 67% file size compared to pretty-printed JSON.

@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-free-up-memory-chrome/
+faq:
+  - q: "How do I free up memory in Chrome?"
+    a: "Open Chrome Task Manager (Shift+Esc) to identify memory-heavy tabs. Look for tabs using over 100MB—video sites use 200-300MB while text pages stay under 50MB. Close unused tabs, disable problematic extensions, and enable automatic tab discarding at chrome://discards/. Zovo recommends checking the Task Manager regularly to maintain optimal performance."
+  - q: "How much memory can Chrome tab discarding save?"
+    a: "Tab discarding can reduce Chrome's RAM usage by up to 70% by automatically unloading inactive tabs from memory while keeping them visible in your tab strip. You can enable this feature at chrome://discards/ to control how aggressively Chrome manages inactive tabs. This is particularly useful when you have many open tabs but only actively use a few at a time."
+  - q: "Why does Chrome use so much memory with multiple tabs?"
+    a: "Chrome creates separate processes for each tab and extension, which increases memory overhead compared to single-process browsers. Video streaming tabs can consume 200-300MB each, while even simple text pages use memory for running scripts and cached content. Extensions also add to the memory load, with some problematic ones using 200MB or more."
+  - q: "How do I check which tabs are using the most memory in Chrome?"
+    a: "Press Shift+Esc (or Cmd+Option+Esc on Mac) to open Chrome's built-in Task Manager, which displays real-time memory usage for each tab and extension. Look for tabs consuming over 100MB, with video sites typically using 200-300MB and simple pages under 50MB. Extensions appear at the bottom of the list, where memory-heavy ones over 200MB should be disabled."
+  - q: "What's the fastest way to reduce Chrome memory usage?"
+    a: "Close unused tabs immediately, as each open tab consumes memory even when idle. Enable automatic tab discarding at chrome://discards/ to automatically unload inactive tabs. Clear your browsing data from the last 7 days to remove cached files and free up additional memory. Use tab grouping to organize related content efficiently."
 ---
 
 You just noticed Chrome is hogging 4GB of RAM again. Learning how to free up memory chrome consumes can reduce your browser's RAM usage by up to 70% and prevent those annoying system slowdowns that happen when you have too many tabs open.

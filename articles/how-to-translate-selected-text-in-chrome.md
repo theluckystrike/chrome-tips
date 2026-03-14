@@ -1,7 +1,10 @@
+[2026-03-14 08:23:29] [m15]   Description too short: 143 chars (target 150-160)
+[2026-03-14 08:23:43] [m15]   Description rewritten: 147 chars
+[2026-03-14 08:23:43] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "How to Translate Selected Text in Chrome Instantly"
-description: "Learn how to translate selected text in Chrome instantly using built-in tools and extensions. Quick setup guide with step-by-step instructions."
+description: "Learn how to translate selected text in Chrome instantly with our step-by-step guide. Save time and translate anywhere in your browser. Try it now!"
 date: 2026-03-14
 last_modified_at: 2026-03-14
 permalink: /how-to-translate-selected-text-in-chrome/

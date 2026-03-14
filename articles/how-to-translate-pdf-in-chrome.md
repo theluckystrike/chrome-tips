@@ -1,7 +1,10 @@
+[2026-03-14 08:23:47] [m15]   Description too short: 129 chars (target 150-160)
+[2026-03-14 08:24:59] [m15]   Description rewritten: 154 chars
+[2026-03-14 08:24:59] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "How to Translate a PDF in Chrome Without Downloading"
-description: "Learn how to translate PDF files directly in Chrome browser without downloading them first. Fast, free method that works in 2026."
+description: "Learn how to translate PDF in Chrome without downloading any software. Simple steps to translate any document. Try it now and start translating instantly!"
 date: 2026-03-14
 last_modified_at: 2026-03-14
 permalink: /how-to-translate-pdf-in-chrome/

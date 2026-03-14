@@ -1,7 +1,10 @@
+[2026-03-14 08:23:08] [m15]   Description too short: 149 chars (target 150-160)
+[2026-03-14 08:23:22] [m15]   Description rewritten: 144 chars
+[2026-03-14 08:23:22] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "How to Learn Vocabulary While Browsing the Web"
-description: "Master new words effortlessly while browsing with Chrome's built-in tools and smart extensions. Learn vocabulary in context for 40% better retention."
+description: "Discover how to learn vocabulary while browsing the web with simple browser tools and reading strategies. Start expanding your word power today!"
 date: 2026-03-14
 last_modified_at: 2026-03-14
 permalink: /how-to-learn-vocabulary-while-browsing/

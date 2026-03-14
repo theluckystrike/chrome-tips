@@ -12,6 +12,17 @@ tags: '[chrome, language, settings, browser, customization]'
 author: theluckystrike
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-change-chrome-language-settings
+image: "https://og-image.vercel.app/How%20to%20Change%20Chrome%20Language%20Settings.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "How to Change Chrome Language Settings"
+  description: "Learn how to change language settings in Chrome for desktop and mobile................................................................................"
+og:
+  title: "How to Change Chrome Language Settings"
+  description: "Learn how to change language settings in Chrome for desktop and mobile................................................................................"
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/how-to-change-chrome-language-settings"
+  image: "https://og-image.vercel.app/How%20to%20Change%20Chrome%20Language%20Settings.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 # How to Change Chrome Language Settings

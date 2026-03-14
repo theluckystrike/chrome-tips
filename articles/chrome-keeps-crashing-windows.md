@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-keeps-crashing-windows/
+faq:
+  - q: "Why does Chrome keep crashing on Windows?"
+    a: "Chrome crashes on Windows primarily due to memory exhaustion when too many active tabs compete for system resources. Chrome's process isolation architecture means each tab runs as a separate process, consuming around 25MB even when empty. With 20 tabs open, you're looking at 500MB just for bare processes, and Windows manages this memory less efficiently than macOS or Linux. Zovo recommends installing a tab suspender to prevent future crashes."
+  - q: "How much memory does Chrome use per tab?"
+    a: "Each Chrome tab consumes approximately 25MB of base memory just to run its isolated process, independent of the actual page content. This means 10 open tabs automatically require 250MB of RAM, and 20 tabs consume 500MB before you even begin browsing. This architectural choice prioritizes security and stability over memory efficiency, unlike browsers that share processes between tabs."
+  - q: "How do I fix Chrome keeps crashing on Windows?"
+    a: "To fix Chrome crashes, press Ctrl+Shift+Esc to open Task Manager and end all Chrome processes, then restart Chrome and navigate to chrome://settings/reset to reset browser settings. Install a tab suspender extension to automatically manage background tabs and reduce memory pressure. This immediate intervention clears the memory bottleneck that causes most crashes."
+  - q: "Does Chrome use more memory than other browsers?"
+    a: "Chrome uses significantly more memory than most browsers due to its multi-process architecture, which isolates each tab in its own process for security and stability. While this prevents one crashed tab from taking down the entire browser, it creates substantial memory overhead with each tab requiring around 25MB just for the process itself. Firefox and Edge share processes between tabs to reduce memory usage."
+  - q: "Can outdated graphics drivers cause Chrome to crash?"
+    a: "Graphics driver conflicts are a common cause of Chrome crashes on Windows, particularly with older Intel integrated graphics and certain AMD drivers from 2022-2023. These conflicts occur when hardware acceleration tries to use incompatible driver features, causing sudden freezes or crashes during video playback or graphics-intensive pages. Updating your graphics drivers or disabling hardware acceleration in Chrome settings typically resolves these issues."
 ---
 
 You're in the middle of important work when Chrome suddenly freezes and dies. If chrome keeps crashing windows, the fastest fix is clearing Chrome's process cache and reducing memory pressure through tab management. The root cause is usually memory exhaustion from too many active processes competing for system resources. This guide covers immediate fixes, long-term solutions, and automated prevention methods.

@@ -23,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/how-to-use-immersion-for-language-learning/"
   image: "https://og-image.vercel.app/How%20to%20Use%20Immersion%20Techniques%20for%20Language%20Learning%20Online.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-use-immersion-for-language-learning/
 ---
 
 Switching your Netflix to Spanish felt impossible until you discovered your browser could do the heavy lifting. Learning how to use immersion language learning online transforms your daily browsing into a 24/7 language practice session. Studies show immersion learners achieve fluency **3 times faster** than traditional classroom students.

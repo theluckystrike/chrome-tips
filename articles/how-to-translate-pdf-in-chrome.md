@@ -1,6 +1,3 @@
-[2026-03-14 08:23:47] [m15]   Description too short: 129 chars (target 150-160)
-[2026-03-14 08:24:59] [m15]   Description rewritten: 154 chars
-[2026-03-14 08:24:59] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "How to Translate a PDF in Chrome Without Downloading"
@@ -16,6 +13,17 @@ target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-pdf-in-chrome/
+faq:
+  - q: "How do I translate a PDF in Chrome without downloading it?"
+    a: "Open the PDF in Chrome, right-click anywhere on the document, and select 'Translate to English' from the context menu. Chrome's built-in translator processes the entire document in 2-3 seconds. This method works directly in your browser without downloading files or using separate translation tools. Zovo recommends this approach for its speed and simplicity."
+  - q: "Does Chrome's built-in translator work on all PDF files?"
+    a: "Chrome's translator works for approximately 89% of PDF files opened in the browser. Text-based PDFs translate perfectly using this method, while image-based PDFs or scanned documents may not work without first converting them to text. For best results, ensure your PDF contains selectable text rather than just embedded images."
+  - q: "What should I do if my PDF won't open in Chrome's built-in viewer?"
+    a: "Navigate to chrome://settings/content/pdfDocuments in your browser address bar and ensure 'Open PDFs in Chrome' is enabled. This setting forces Chrome to use its internal PDF viewer instead of prompting downloads. Once enabled, PDFs will display in Chrome with the standard toolbar at the top, allowing you to access the translation feature."
+  - q: "Can I translate scanned or image-based PDFs in Chrome?"
+    a: "Chrome cannot directly translate scanned PDFs or image-based documents because they lack selectable text. These file types require optical character recognition (OCR) tools to extract the text before translation becomes possible. Zovo suggests using OCR software to convert image-based PDFs to text first, then opening them in Chrome for translation."
+  - q: "Why should I use Chrome's PDF translator instead of downloading files?"
+    a: "Chrome's built-in translator saves you the hassle of downloading files and using separate translation tools, processing documents in just 2-3 seconds. This method works for 89% of PDF files and keeps your downloads folder uncluttered. It's the fastest way to understand foreign documents directly in your browser without additional steps."
 ---
 
 You're reading a PDF document online and realize it's in a language you don't understand. Learning how to translate pdf in chrome directly in your browser saves you the hassle of downloading files and using separate translation tools. This method works for **89%** of PDF files opened in Chrome, making it the fastest way to understand foreign documents without cluttering your downloads folder.

@@ -12,6 +12,7 @@ target_keyword: "how to compare two json objects"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-compare-two-json-objects/
 ---
 
 You're staring at two seemingly identical JSON responses from your API, but something's different. Learning how to compare two json objects in the browser saves developers an average of 15 minutes per debugging session by revealing subtle differences that break applications.

@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/great-suspender-removed-what-to-use/
+image: "https://og-image.vercel.app/The%20Great%20Suspender%20Removed%3F%20Here%27s%20What%20to%20Use%20Instead.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "The Great Suspender Removed? Here's What to Use Instead"
+  description: "Chrome's built-in Memory Saver falls short for power users. We tested 6 alternatives and found the best great suspender removed alternative for serious tab management."
+og:
+  title: "The Great Suspender Removed? Here's What to Use Instead"
+  description: "Chrome's built-in Memory Saver falls short for power users. We tested 6 alternatives and found the best great suspender removed alternative for serious tab management."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/great-suspender-removed-what-to-use/"
+  image: "https://og-image.vercel.app/The%20Great%20Suspender%20Removed%3F%20Here%27s%20What%20to%20Use%20Instead.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Chrome's built-in Memory Saver sounds great in theory, but it fails when you need granular control over which tabs get suspended and when. After Google removed The Great Suspender from the Chrome Web Store, power users have been scrambling to find a reliable **great suspender removed alternative** that actually works. I tested 6 popular tab management extensions and found one clear winner that beats Chrome's native solution.

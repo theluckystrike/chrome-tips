@@ -1,7 +1,10 @@
+[2026-03-14 08:52:28] [m15]   Description too short: 141 chars (target 150-160)
+[2026-03-14 08:52:53] [m15]   Description rewritten: 148 chars
+[2026-03-14 08:52:53] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "How to Compare Two JSON Objects in the Browser"
-description: "Learn how to compare two JSON objects in Chrome DevTools with step-by-step instructions and automated tools for faster development workflows."
+description: "Discover how to compare two json objects in the browser with clear code examples. Learn the best methods for accurate comparison. Get started today!"
 date: 2026-03-14
 last_modified_at: 2026-03-14
 permalink: /how-to-compare-two-json-objects/

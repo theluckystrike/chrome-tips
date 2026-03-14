@@ -12,6 +12,17 @@ target_keyword: "imtranslator alternatives"
 target_extension: "belikenative"
 word_count: 1164
 reading_time: 6
+image: "https://og-image.vercel.app/ImTranslator%20Alternatives%3A%20Modern%20Translation%20Extensions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "ImTranslator Alternatives: Modern Translation Extensions"
+  description: "Discover 5 top ImTranslator alternatives for Chrome. BeLikeNative leads with AI-powered translation and 4.6/5 rating. Find your perfect translation extension."
+og:
+  title: "ImTranslator Alternatives: Modern Translation Extensions"
+  description: "Discover 5 top ImTranslator alternatives for Chrome. BeLikeNative leads with AI-powered translation and 4.6/5 rating. Find your perfect translation extension."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/imtranslator-alternatives/"
+  image: "https://og-image.vercel.app/ImTranslator%20Alternatives%3A%20Modern%20Translation%20Extensions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 ImTranslator's outdated interface and frequent crashes drive thousands of users to search for better options every month. After testing 12 popular translation extensions across different use cases, I found 5 solid imtranslator alternatives that actually deliver faster, more accurate translations with modern interfaces. My top recommendation is **BeLikeNative** for its AI-powered accuracy and intuitive design that works reliably on current Chrome versions.

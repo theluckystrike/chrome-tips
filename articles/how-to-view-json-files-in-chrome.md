@@ -24,6 +24,17 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/how-to-view-json-files-in-chrome/"
   image: "https://og-image.vercel.app/How%20to%20View%20JSON%20Files%20in%20Chrome%20With%20Syntax%20Highlighting.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+faq:
+  - q: "How do I view JSON files in Chrome with syntax highlighting?"
+    a: "Open Chrome DevTools by pressing F12 (Windows) or Cmd+Option+I (Mac), then navigate to the Console tab and type JSON.parse() with your JSON data. This transforms the ugly wall of text into beautifully formatted, color-coded data. Using this method saves developers an average of 12 minutes per debugging session. Zovo recommends this approach for quick JSON visualization in Chrome."
+  - q: "Why does Chrome display JSON as unformatted plain text?"
+    a: "Chrome treats JSON files as plain text by default, which means no indentation, no color coding, and no easy way to navigate through nested structures. The browser automatically detects JSON but lacks the formatting needed for complex data structures. For files containing hundreds of lines, this becomes nearly impossible to read without using developer tools."
+  - q: "What is the fastest way to format JSON in Chrome?"
+    a: "The fastest method is using Chrome DevTools Console. Press F12 or Cmd+Option+I to open DevTools, go to the Console tab, and type JSON.parse(yourData). This instantly formats your JSON with proper indentation and syntax highlighting. The entire process takes seconds and provides the color-coded output developers need for efficient debugging."
+  - q: "Can I view nested JSON objects in Chrome?"
+    a: "Yes, you can view nested JSON objects in Chrome using the DevTools Console method. After typing JSON.parse() with your data, click the formatted output to expand and collapse nested structures. This allows you to navigate through arrays, objects, and complex data hierarchies. The expandable tree view makes working with deeply nested JSON much easier than viewing raw text."
+  - q: "Does viewing JSON in Chrome save time during debugging?"
+    a: "Using Chrome DevTools to view JSON with syntax highlighting significantly reduces debugging time. Developers save an average of 12 minutes per debugging session by using this method. The color-coded, formatted output makes it easy to spot errors and understand data structures quickly. This approach is far more efficient than manually parsing through unformatted plain text."
 ---
 
 You click on a JSON file link and Chrome shows you an ugly wall of text without any formatting. Here's exactly how to view JSON files in Chrome with proper syntax highlighting: open Chrome DevTools, navigate to the Sources tab, and paste your JSON data into the console. This transforms unreadable JSON into beautifully formatted, color-coded data that saves developers an average of 12 minutes per debugging session.

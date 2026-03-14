@@ -23,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/how-to-translate-entire-webpage-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Translate%20an%20Entire%20Webpage%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-entire-webpage-chrome/
 ---
 
 You're reading an interesting article in Spanish, but your language skills aren't quite there yet. Chrome's built-in translation feature can instantly convert entire webpages into your preferred language, and knowing how to translate entire webpage chrome properly saves you from copying and pasting text into separate translation tools. Over 4.3 billion people worldwide browse content in languages they don't fully understand.

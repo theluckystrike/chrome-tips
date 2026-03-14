@@ -12,6 +12,7 @@ target_keyword: "chrome translate breaking page layout"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-breaking-page-layout/
 ---
 
 You're browsing a foreign website when Chrome's translation popup appears, and suddenly the entire page layout shifts into chaos. If chrome translate breaking page layout is ruining your browsing experience, the fastest fix is disabling automatic translation for specific sites through Chrome's language settings. The root cause stems from Chrome's translation API injecting DOM elements that conflict with existing CSS layouts and responsive designs.

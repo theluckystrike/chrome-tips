@@ -4,7 +4,7 @@ title: Chrome A-Frame WebXR Getting Started
 description: Learn how to get started with A-Frame and WebXR in Chrome. This guide covers setup, creating your first VR experience, and tips for browser performance.
 date: '2025-03-09'
 last_modified_at: '2026-03-12'
-permalink: chrome-a-frame-webxr-getting-started
+permalink: /chrome-a-frame-webxr-getting-started/
 categories: '[tutorials, vr, web-development]'
 tags: '[chrome-a-frame, webxr, virtual-reality, chrome-vr, getting-started, a-frame]'
 author: theluckystrike

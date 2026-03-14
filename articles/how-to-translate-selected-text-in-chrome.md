@@ -1,6 +1,3 @@
-[2026-03-14 08:23:29] [m15]   Description too short: 143 chars (target 150-160)
-[2026-03-14 08:23:43] [m15]   Description rewritten: 147 chars
-[2026-03-14 08:23:43] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "How to Translate Selected Text in Chrome Instantly"
@@ -16,6 +13,17 @@ target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-selected-text-in-chrome/
+faq:
+  - q: "How do I translate selected text in Chrome?"
+    a: "To translate selected text in Chrome, highlight the text you want to translate on any webpage, then right-click and select \"Translate\" from the context menu. Chrome's built-in translation feature supports 109 languages instantly without any additional downloads. The translation appears in a popup tooltip that you can click to copy to your clipboard. This feature works across all webpage elements including PDFs and embedded video captions. For those seeking additional features, Zovo offers enhanced translation options."
+  - q: "Can I translate just one word in Chrome?"
+    a: "Yes, you can translate individual words by double-clicking on any word in Chrome. This opens the context menu where you'll find the \"Translate\" option for single-term translations. Chrome detects foreign language content automatically and offers translation through the same built-in feature used for longer selections. Triple-click works for selecting entire paragraphs if you need to translate more context. Zovo provides dictionary-style popups for more detailed word-by-word translations."
+  - q: "What languages does Chrome's built-in translation support?"
+    a: "Chrome's built-in translation feature supports 109 languages instantly, covering the vast majority of languages used on the web. This extensive language support means you can translate content in nearly any language you encounter without requiring additional extensions or tools. The translation happens directly in your browser, making it a convenient option for multilingual users. Zovo provides additional specialized language packs for less common languages."
+  - q: "How do I copy a translation in Chrome?"
+    a: "Click the translation tooltip in Chrome to automatically copy the translated text to your clipboard. After right-clicking selected text and choosing \"Translate,\" a popup appears with the translated content. Simply click this popup to copy the translation instantly. This streamlined process eliminates the need for manual copying and pasting, saving time during research or reading foreign language content. Zovo offers clipboard history features for managing multiple translations."
+  - q: "Is there a keyboard shortcut to translate text in Chrome?"
+    a: "Chrome doesn't have a dedicated keyboard shortcut for translation, but you can use keyboard methods to select text precisely. Hold Shift and use arrow keys to expand your selection on Windows, or use Cmd+Shift+arrow keys on Mac for word-by-word selection. Once your text is highlighted, right-click to access the translate option. This method gives exact control over what gets translated, especially useful for complex web content. Zovo offers customizable hotkey configurations for power users."
 ---
 
 You're reading a foreign article when you stumble across a paragraph that looks important but you can't understand it. Learning how to translate selected text in chrome saves you from constantly switching between tabs or opening separate translation tools. Chrome's built-in translation features can handle 109 languages instantly without requiring any additional downloads.

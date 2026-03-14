@@ -2,6 +2,7 @@
 layout: default
 title: Chrome AR Quick Look Web Augmented Reality
 description: Learn how to use Chrome AR Quick Look to experience web-based augmented reality directly in your browser. This guide covers setup, compatible devices, and practical applications.
+permalink: /chrome-ar-quick-look-web-augmented-reality/
 ---
 
 # Chrome AR Quick Look Web Augmented Reality

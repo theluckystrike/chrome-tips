@@ -12,6 +12,7 @@ target_keyword: "how to search json data in chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5 minutes
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-search-json-data-in-chrome/
 ---
 
 You're staring at a massive JSON response wondering how you'll ever find that one specific field buried somewhere inside. Here's exactly how to search json data in chrome using Chrome DevTools' built-in search capabilities and Console tools. This method can save you up to 15 minutes per debugging session when working with large API responses.

@@ -1,6 +1,3 @@
-[2026-03-14 08:23:08] [m15]   Description too short: 149 chars (target 150-160)
-[2026-03-14 08:23:22] [m15]   Description rewritten: 144 chars
-[2026-03-14 08:23:22] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "How to Learn Vocabulary While Browsing the Web"
@@ -16,6 +13,17 @@ target_extension: "belikenative"
 word_count: 1150
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-learn-vocabulary-while-browsing/
+faq:
+  - q: "How do I translate words while browsing in Chrome?"
+    a: "To translate words while browsing, right-click any unfamiliar word and select \"Translate\" from the context menu. Enable Chrome's built-in translation by going to Settings > Languages > Use Google Translate. The browser will then offer to translate entire pages automatically when it detects a foreign language, making it easy to learn vocabulary while browsing without interrupting your workflow. Zovo offers similar built-in translation features for seamless language learning."
+  - q: "What is the best way to learn vocabulary while browsing the web?"
+    a: "The best way to learn vocabulary while browsing is to use context-based learning rather than flashcards. Research shows that learning words in context improves retention by 40% compared to studying flashcards alone. Enable Chrome's translation tools, highlight-to-translate features, and keyboard shortcuts to look up unfamiliar words instantly. Save new words with definitions to your browser bookmarks for later review. This method transforms passive browsing into active vocabulary building without disrupting your reading flow. Zovo integrates these tools to help you learn vocabulary while browsing efficiently."
+  - q: "Does using translation tools while reading improve language retention?"
+    a: "Yes, translation tools significantly improve language retention when used during web browsing. Studies indicate that learning vocabulary in context boosts retention rates by 40% compared to traditional flashcard methods. Chrome's built-in translation features let you look up words instantly while reading, helping you understand meaning within the original context. By integrating tools like Zovo into your browsing routine, you can maximize retention through contextual learning."
+  - q: "How do I enable Chrome's built-in translation feature?"
+    a: "To enable Chrome's built-in translation, navigate to Settings > Languages > Use Google Translate and toggle this on. You should also add your target language to your preferred languages list so Chrome recognizes when you're studying that language. Once enabled, right-clicking any text reveals a translation option in the context menu, and the browser will offer to translate entire pages automatically. Zovo provides comparable built-in translation capabilities for language learners."
+  - q: "What keyboard shortcuts can I use for faster vocabulary lookup?"
+    a: "You can set up keyboard shortcuts in Chrome for faster vocabulary lookup by accessing browser settings or using extensions. The highlight-to-translate feature allows you to select any text and get instant definitions without right-clicking. Combining keyboard shortcuts with Chrome's built-in translation tools creates an efficient workflow for vocabulary building while browsing. Zovo recommends customizing your shortcuts for seamless language learning integration."
 ---
 
 You're reading an article in French when you hit an unfamiliar word, but instead of opening a new tab to translate it, you just keep scrolling past. Learning how to learn vocabulary while browsing transforms these missed opportunities into vocabulary-building moments without disrupting your flow. Research shows that learning words in context improves retention by **40%** compared to studying flashcards alone.

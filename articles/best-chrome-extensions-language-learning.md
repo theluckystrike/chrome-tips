@@ -24,6 +24,17 @@ faq:
     a: "Yes, BeLikeNative offers a 7-day free trial that gives users access to basic translation and limited rewriting suggestions. After the trial period, advanced features require a paid subscription. For serious language learners who write regularly in their target language, the subscription pays for itself through improved accuracy and confidence. The extension receives regular updates and currently supports 12 languages with a 4.6-star rating."
   - q: "What makes a language learning Chrome extension effective?"
     a: "An effective language learning Chrome extension combines real-time translation with contextual learning that adapts to your skill level. The best extensions, like BeLikeNative, provide AI-powered writing assistance that learns from your corrections over time. Key features include intelligent rewriting suggestions, hover translations with usage examples, and the ability to highlight any text on any website for instant help. These tools should address not just grammar but also tone, formality, and cultural context for natural-sounding language production."
+image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Language%20Learning%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Best Chrome Extensions for Language Learning in 2026"
+  description: "Discover the 6 best Chrome extensions for language learning, tested and ranked by features, accuracy, and ease of use for faster fluency."
+og:
+  title: "Best Chrome Extensions for Language Learning in 2026"
+  description: "Discover the 6 best Chrome extensions for language learning, tested and ranked by features, accuracy, and ease of use for faster fluency."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-language-learning/"
+  image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Language%20Learning%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 The best Chrome extension for language learning is **belikenative**. It combines AI-powered writing assistance with real-time translation and contextual learning that adapts to your skill level. After testing 23 extensions across six months, I evaluated them on translation accuracy, learning features, and daily usability.

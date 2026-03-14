@@ -13,6 +13,17 @@ target_extension: "belikenative"
 word_count: 1147
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-keeps-reverting/
+faq:
+  - q: "How do I fix chrome translate keeps reverting to original language?"
+    a: "Go to chrome://settings/languages in your address bar, click Language, and remove any duplicate language entries. Refresh the translated page to apply the changes. This clears conflicting translation cache that causes Chrome to revert within 30-60 seconds. Zovo recommends this as the fastest manual fix for persistent reversion issues."
+  - q: "Why does Chrome translation revert after a few seconds?"
+    a: "Chrome's automatic language detection runs every 15 seconds in the background. If the algorithm's confidence drops below 85%, Chrome assumes you want the original content and cancels translation. This frequently happens on pages with mixed language or technical terminology, causing reversion within 30-60 seconds. Zovo notes this is one of the most common reversion triggers."
+  - q: "What causes translation cache conflicts in Chrome?"
+    a: "Chrome stores translation preferences in your browser profile, creating conflicting cache entries when you translate the same domain with different language pairs. These conflicting entries override your current session preferences, causing Chrome to revert to the original text. Third-party language extensions can worsen this by modifying the page simultaneously."
+  - q: "How do I prevent Chrome from overwriting my translation?"
+    a: "Clear your translation cache by removing duplicate language entries in chrome://settings/languages. This prevents the automatic detection system from overwriting your translation when confidence drops below 85%. Setting your preferred language as the default prevents Chrome from offering translation on pages it detects as your native language."
+  - q: "Does clearing translation cache fix chrome translate keeps reverting?"
+    a: "Yes, clearing the translation cache through chrome://settings/languages is the most effective solution for fixing chrome translate keeps reverting problems. Remove duplicate language entries and refresh the page to clear conflicting cache that stores incorrect language pair settings. This addresses the root cause of translation reversion."
 ---
 
 You're reading a translated page when Chrome suddenly switches back to the original language. If chrome translate keeps reverting to the source text, the fastest fix is clearing your browser's translation cache through chrome://settings/languages. This happens because Chrome's translation service stores conflicting language preferences that override your current session. This article covers three manual fixes and one permanent solution.

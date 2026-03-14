@@ -12,6 +12,7 @@ target_keyword: "how to set up auto tab suspension chrome"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-set-up-auto-tab-suspension/
 ---
 
 You open Chrome and suddenly your laptop fan starts whirring like a jet engine. Learning how to set up auto tab suspension chrome can reduce memory usage by up to 95% and stop those performance slowdowns. This simple tweak keeps your browser running smoothly even with dozens of tabs open.

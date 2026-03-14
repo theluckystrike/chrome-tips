@@ -12,6 +12,7 @@ target_keyword: "how to speed up chrome many tabs"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5 minutes
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-speed-up-chrome-many-tabs/
 ---
 
 Your browser starts crawling when you hit 20 tabs, doesn't it? Here's exactly how to speed up Chrome many tabs: enable tab discarding, use tab groups for organization, and configure memory saver mode to automatically suspend inactive tabs. These changes can reduce Chrome's memory usage by up to 60% according to Google's own testing.

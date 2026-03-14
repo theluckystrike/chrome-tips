@@ -12,6 +12,7 @@ target_keyword: "how to view json files in chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-view-json-files-in-chrome/
 ---
 
 You click on a JSON file link and Chrome shows you an ugly wall of text without any formatting. Here's exactly how to view JSON files in Chrome with proper syntax highlighting: open Chrome DevTools, navigate to the Sources tab, and paste your JSON data into the console. This transforms unreadable JSON into beautifully formatted, color-coded data that saves developers an average of 12 minutes per debugging session.

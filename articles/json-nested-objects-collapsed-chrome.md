@@ -23,6 +23,7 @@ faq:
     a: "Chrome truncates nested arrays containing more than 100 elements in the default viewer. This rendering engine constraint forces developers to manually expand each section to see complete data. The Blink engine's process isolation limits affect both array length and object depth. Using a formatter extension prevents this truncation and displays full arrays consistently."
   - q: "What Chrome DevTools setting keeps JSON expanded?"
     a: "The 'Automatically reveal files in sidebar' setting in Chrome DevTools Sources panel helps maintain expanded JSON views. However, for permanent relief from collapsed objects, a JSON formatter extension provides the most reliable solution. Zovo offers developers a consistent viewing experience that overrides Chrome's default memory protection behavior."
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-nested-objects-collapsed-chrome/
 ---
 
 Debugging API responses becomes frustrating when you can't expand nested data. If Chrome shows json nested objects collapsed chrome by default, the fastest fix is enabling Chrome's DevTools JSON viewer or installing a dedicated JSON formatter extension. The root cause involves Chrome's memory management automatically collapsing complex object structures to prevent browser slowdown.

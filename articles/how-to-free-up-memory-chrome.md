@@ -12,6 +12,7 @@ target_keyword: "how to free up memory chrome"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-free-up-memory-chrome/
 ---
 
 You just noticed Chrome is hogging 4GB of RAM again. Learning how to free up memory chrome consumes can reduce your browser's RAM usage by up to 70% and prevent those annoying system slowdowns that happen when you have too many tabs open.

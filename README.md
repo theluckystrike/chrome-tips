@@ -1,7 +1,17 @@
 # Chrome Tips
 
-Chrome browser tips and tricks.
+2,000+ Chrome performance tips, tab management guides, and browser optimization articles.
 
-## Related Projects
-- [Claude Skills Guide](https://theluckystrike.github.io/claude-skills-guide/) — 700+ Claude Code tutorials
-- [Chrome Extension Guide](https://theluckystrike.github.io/chrome-extension-guide/) — Extension development guides
+**Browse:** [theluckystrike.github.io/chrome-tips](https://theluckystrike.github.io/chrome-tips/)
+
+### Topics
+
+- Tab management and memory optimization
+- Extension performance and compatibility
+- Chrome DevTools tips
+- Browser comparison guides
+- Privacy and security settings
+
+### Built with
+
+Jekyll on GitHub Pages.

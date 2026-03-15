@@ -152,3 +152,4 @@ For users who primarily browse lightweight sites and don't mind occasional data 
 ---
 
 *Written by Michael Lip — More tips at [zovo.one](https://zovo.one)*
+> **See also:** [Tab Suspender Pro vs Workona: Complete 2026 Comparison](https://theluckystrike.github.io/chrome-tips/tab-suspender-pro-vs-workona)

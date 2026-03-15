@@ -116,3 +116,4 @@ Yes, substantially. italki is purpose-built for spoken language practice with li
 italki has a Fixer extension at 4.1MiB, primarily for use on the italki website. BeLikeNative is a full-featured writing assistant extension that works across all websites.
 
 Built by Michael Lip — More tips at zovo.one
+> **See also:** [Tab Suspender Pro vs OneTab: Complete 2026 Comparison](https://theluckystrike.github.io/chrome-tips/tab-suspender-pro-vs-onetab)

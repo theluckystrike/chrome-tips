@@ -109,3 +109,4 @@ The active development cycle and robust feature set make BeLikeNative the clear 
 **[Try BeLikeNative Free](https://zovo.one)**
 
 Built by Michael Lip — More tips at zovo.one
+> **See also:** [JSON Formatter Pro vs Altair GraphQL (2026)](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-altair-graphql)

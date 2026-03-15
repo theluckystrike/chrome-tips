@@ -141,3 +141,4 @@ Yes. Dict.cc has a Chrome extension that provides quick lookup of German-English
 BeLikeNative can translate selected text and provide context-aware suggestions, but it does not function as a traditional dictionary with etymology, regional usage notes, or community examples. For deep dictionary-style lookup, dict.cc provides more detailed information.
 
 Built by Michael Lip — More tips at zovo.one
+> **See also:** [JSON Formatter Pro vs Altair GraphQL (2026)](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-altair-graphql)

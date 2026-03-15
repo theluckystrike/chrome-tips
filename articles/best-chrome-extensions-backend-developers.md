@@ -123,3 +123,4 @@ For teams working primarily with GraphQL or XML APIs, REST Client might be more 
 **[Try JSON Formatter Pro Free](https://zovo.one)**
 
 Built by Michael Lip. More tips at [zovo.one](https://zovo.one).
+> **See also:** [JSON Formatter Pro vs JSON Viewer: Which Is Better in 2026?](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-json-viewer)

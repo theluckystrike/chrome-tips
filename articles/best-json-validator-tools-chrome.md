@@ -136,3 +136,4 @@ If you're looking to expand your Chrome developer toolkit, check out our compreh
 **[Try JSON Formatter Pro Free](https://zovo.one)**
 
 Built by Michael Lip — More tips at zovo.one
+> **See also:** [JSON Formatter Pro vs Insomnia: Which Is Better in 2026?](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-insomnia)

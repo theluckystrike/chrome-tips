@@ -6,6 +6,14 @@ theme: minima
 incremental: true
 include:
   - b4e8f2a1c7d94e6fab3209d1e5c8a7f6.txt
+twitter:
+  username: _alphashark_
+  card: summary_large_image
+
+author:
+  name: Michael Lip
+  url: https://github.com/theluckystrike
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

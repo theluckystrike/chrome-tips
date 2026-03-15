@@ -152,3 +152,4 @@ For budget-conscious users, The Great Suspender provides solid basic functionali
 **[Try Tab Suspender Pro Free](https://zovo.one)**
 
 Built by Michael Lip — More tips at [zovo.one](https://zovo.one)
+> **See also:** [JSON Formatter Pro vs Thunder Client: 2026 Showdown](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-thunder-client)

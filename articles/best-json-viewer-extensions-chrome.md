@@ -129,3 +129,4 @@ Chrome's built-in JSON viewer works for basic tasks but falls short when handlin
 For casual use, JSONView delivers solid formatting without configuration hassle. **[Try JSON Formatter Pro Free](https://zovo.one)** to see how proper JSON tooling transforms your debugging workflow.
 
 Built by Michael Lip. More tips at zovo.one.
+> **See also:** [BeLikeNative vs DeepL: Honest 2026 Comparison](https://theluckystrike.github.io/chrome-tips/belikenative-vs-deepl)

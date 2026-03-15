@@ -140,3 +140,4 @@ The subscription cost initially seems steep compared to free alternatives, but t
 **[Try BeLikeNative Free](https://zovo.one)**
 
 Built by Michael Lip. More tips at zovo.one
+> **See also:** [belikenative vs google translate extension: 2026](https://theluckystrike.github.io/chrome-tips/belikenative-vs-google-translate-extension)

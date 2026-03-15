@@ -153,3 +153,4 @@ Tab Suspender Pro delivers the best balance of memory efficiency and productivit
 ---
 
 Built by Michael Lip — More tips at [zovo.one](https://zovo.one)
+> **See also:** [JSON Formatter Pro vs JSON Viewer: Which Is Better in 2026?](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-json-viewer)

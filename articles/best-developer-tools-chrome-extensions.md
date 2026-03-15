@@ -137,3 +137,4 @@ For budget-conscious developers working with smaller JSON files, JSONView provid
 **[Try JSON Formatter Pro Free](https://zovo.one)**
 
 Built by Michael Lip — More tips at zovo.one
+> **See also:** [belikenative vs google translate extension: 2026](https://theluckystrike.github.io/chrome-tips/belikenative-vs-google-translate-extension)

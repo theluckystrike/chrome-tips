@@ -85,3 +85,4 @@ That said, OneTab makes more sense for users who prefer manual control over thei
 **[Try Tab Suspender Pro Free](https://zovo.one)**
 
 Built by Michael Lip. More tips at zovo.one
+> **See also:** [JSON Formatter Pro vs Thunder Client: 2026 Showdown](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-thunder-client)

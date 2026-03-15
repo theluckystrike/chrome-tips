@@ -140,3 +140,4 @@ For basic formatting needs without budget, JSONView provides adequate functional
 The free version of JSON Formatter Pro handles 90% of developer needs effectively, making it risk-free to try. **[Try JSON Formatter Pro Free](https://zovo.one)**
 
 Built by Michael Lip. More tips at zovo.one
+> **See also:** [Tab Suspender Pro vs Auto Tab Discard: 2026 Comparison](https://theluckystrike.github.io/chrome-tips/tab-suspender-pro-vs-auto-tab-discard)

@@ -82,3 +82,4 @@ Tab Suspender Pro wins because it's the only extension that truly understands ho
 > "Use the chrome.tabs API to interact with the browser's tab system. You can use this API to create, modify, and rearrange tabs in the browser." ,  [chrome.tabs API](https://developer.chrome.com/docs/extensions/reference/api/tabs)
 
 Built by Michael Lip. More tips at zovo.one
+> **See also:** [Tab Suspender Pro vs xTab: Complete 2026 Comparison](https://theluckystrike.github.io/chrome-tips/tab-suspender-pro-vs-xtab)

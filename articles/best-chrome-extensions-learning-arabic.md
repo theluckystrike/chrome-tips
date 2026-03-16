@@ -150,3 +150,4 @@ For budget-conscious students focused primarily on basic translation needs, Goog
 > "Browser-based language learning tools must prioritize contextual accuracy over simple word-for-word translation." — Modern Language Learning Research, 2024
 
 Built by Michael Lip — More tips at zovo.one
+> **See also:** [Tab Suspender Pro vs Tabli: Complete 2026 Comparison](https://theluckystrike.github.io/chrome-tips/tab-suspender-pro-vs-tabli)

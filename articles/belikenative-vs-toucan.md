@@ -115,3 +115,4 @@ Toucan has a free tier with limited language options. Some language packs and ad
 For pure language learning while browsing, Toucan is purpose-built for that use case. If you primarily need writing help with some translation capability, BeLikeNative is the stronger choice. For someone doing both, using BeLikeNative alongside a dedicated learning app covers both needs.
 
 Built by Michael Lip — More tips at zovo.one
+> **See also:** [JSON Formatter Pro vs JSON Viewer: Which Is Better in 2026?](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-json-viewer)

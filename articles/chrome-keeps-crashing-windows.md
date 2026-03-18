@@ -24,6 +24,17 @@ faq:
     a: "Chrome uses significantly more memory than most browsers due to its multi-process architecture, which isolates each tab in its own process for security and stability. While this prevents one crashed tab from taking down the entire browser, it creates substantial memory overhead with each tab requiring around 25MB just for the process itself. Firefox and Edge share processes between tabs to reduce memory usage."
   - q: "Can outdated graphics drivers cause Chrome to crash?"
     a: "Graphics driver conflicts are a common cause of Chrome crashes on Windows, particularly with older Intel integrated graphics and certain AMD drivers from 2022-2023. These conflicts occur when hardware acceleration tries to use incompatible driver features, causing sudden freezes or crashes during video playback or graphics-intensive pages. Updating your graphics drivers or disabling hardware acceleration in Chrome settings typically resolves these issues."
+image: "https://og-image.vercel.app/Chrome%20Keeps%20Crashing%20on%20Windows%3A%20Step-by-Step%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Chrome Keeps Crashing on Windows: Step-by-Step Fix"
+  description: "Chrome crashing on Windows? Fix it fast with memory management, process cleanup, and smart tab suspension solutions that actually work."
+og:
+  title: "Chrome Keeps Crashing on Windows: Step-by-Step Fix"
+  description: "Chrome crashing on Windows? Fix it fast with memory management, process cleanup, and smart tab suspension solutions that actually work."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-keeps-crashing-windows/"
+  image: "https://og-image.vercel.app/Chrome%20Keeps%20Crashing%20on%20Windows%3A%20Step-by-Step%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You're in the middle of important work when Chrome suddenly freezes and dies. If chrome keeps crashing windows, the fastest fix is clearing Chrome's process cache and reducing memory pressure through tab management. The root cause is usually memory exhaustion from too many active processes competing for system resources. This guide covers immediate fixes, long-term solutions, and automated prevention methods.

@@ -12,6 +12,7 @@ target_keyword: "how to view api responses chrome"
 target_extension: "json-formatter-pro"
 word_count: 1147
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-view-api-responses-chrome/
 ---
 
 You're debugging an API call and need to see the actual response data right in your browser. Learning how to view api responses chrome takes just a few clicks through the DevTools Network tab, giving you instant access to headers, payload data, and response timing that can save you 15 minutes per debugging session.

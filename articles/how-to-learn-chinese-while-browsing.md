@@ -12,6 +12,7 @@ target_keyword: "how to learn chinese while browsing"
 target_extension: "belikenative"
 word_count: 1380
 reading_time: 7
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-learn-chinese-while-browsing/
 ---
 
 You're scrolling through your favorite website when you realize you could be learning Chinese instead of just consuming content in English. Learning how to learn chinese while browsing turns every web session into a language lesson, and studies show that immersion-based learning can improve retention rates by up to 75% compared to traditional classroom methods.

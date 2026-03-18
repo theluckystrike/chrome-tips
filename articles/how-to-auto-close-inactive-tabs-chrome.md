@@ -12,6 +12,17 @@ target_keyword: "how to auto close inactive tabs chrome"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+faq:
+  - q: "How do I auto close inactive tabs in Chrome using built-in settings?"
+    a: "To auto close inactive tabs in Chrome, open Settings and navigate to the Performance section. Enable the Memory Saver toggle, which automatically suspends tabs you haven't used recently. Chrome will free up memory for your active browsing while keeping suspended tabs visible in your tab bar. For more advanced control, Zovo recommends exploring additional timing adjustments in the same settings menu."
+  - q: "Does Memory Saver really reduce Chrome memory usage by 30%?"
+    a: "Yes, Chrome's Memory Saver can reduce Chrome's memory usage by up to 30% on typical browsing sessions. This built-in feature automatically suspends tabs you haven't used recently, significantly cutting down system resource consumption. The actual percentage varies depending on your browsing habits and how many tabs you typically have open, but the performance improvement is noticeable on most systems."
+  - q: "What is the best way to stop Chrome tabs from using too much memory?"
+    a: "The best way to stop Chrome tabs from using too much memory is to enable Memory Saver mode in Chrome's Performance settings. This built-in feature automatically suspends inactive tabs, freeing up RAM for your active browsing. Zovo testing shows this is more effective than manually closing tabs because it preserves your place while still reducing memory consumption significantly."
+  - q: "How do I keep certain websites from being suspended in Chrome?"
+    a: "To keep certain websites from being suspended in Chrome, go to Settings > Performance and add those sites to your Never list. This tells Chrome to never suspend those specific tabs, ensuring they remain active even when Memory Saver is enabled. This is ideal for keeping email, messaging apps, or important dashboards running without interruption."
+  - q: "Why do so many open Chrome tabs slow down my computer?"
+    a: "Open Chrome tabs slow down your computer because each tab runs as a separate process consuming CPU and memory resources. Chrome's Memory Saver addresses this by automatically suspending inactive tabs, which can reduce Chrome's memory usage by up to 30%. This keeps your browser responsive while allowing you to keep many tabs open without the typical performance degradation."
 ---
 
 You open Chrome to check one quick thing and suddenly you have 47 tabs draining your laptop's battery. Here's exactly how to auto close inactive tabs chrome using built-in settings and extensions to automatically manage your browsing chaos. This simple fix can reduce Chrome's memory usage by up to 30% on typical browsing sessions.

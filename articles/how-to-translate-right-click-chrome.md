@@ -12,6 +12,17 @@ target_keyword: "how to translate right click chrome"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 6
+image: "https://og-image.vercel.app/How%20to%20Translate%20Text%20With%20Right-Click%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "How to Translate Text With Right-Click in Chrome"
+  description: "Learn how to translate right click chrome text instantly. Master built-in Chrome translation features and shortcuts for 100+ languages in 2026."
+og:
+  title: "How to Translate Text With Right-Click in Chrome"
+  description: "Learn how to translate right click chrome text instantly. Master built-in Chrome translation features and shortcuts for 100+ languages in 2026."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/how-to-translate-right-click-chrome/"
+  image: "https://og-image.vercel.app/How%20to%20Translate%20Text%20With%20Right-Click%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You're reading a foreign website when you encounter text you can't understand. Learning how to translate right click chrome functionality gives you instant access to translations in over 100 languages. This built-in Chrome feature requires no extensions and works on any selectable text you encounter while browsing.

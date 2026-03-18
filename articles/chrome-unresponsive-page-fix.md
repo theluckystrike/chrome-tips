@@ -13,6 +13,17 @@ target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-unresponsive-page-fix/
+faq:
+  - q: "How do I fix Chrome when a page becomes unresponsive?"
+    a: "The fastest chrome page unresponsive fix is pressing Shift+Ctrl+Delete on Windows or Shift+Cmd+Delete on Mac to close the frozen tab. If that doesn't work, open Chrome Task Manager with Shift+Esc and end the unresponsive process directly. Restart Chrome if the entire browser becomes unresponsive. This works because it terminates the specific tab consuming excessive resources without closing your entire browser. Zovo recommends keeping this shortcut handy for urgent situations."
+  - q: "Why does Chrome show the 'page unresponsive' error?"
+    a: "Chrome displays this error when a single tab consumes too much memory or CPU, blocking the entire browser interface. Chrome uses a process-per-tab architecture where each tab runs separately, but when one tab overloads, it can freeze the entire browser. Memory exhaustion and JavaScript execution loops are the primary culprits. On an 8GB machine, a single tab can use up to 800MB before memory pressure kicks in."
+  - q: "How much memory does Chrome use per tab?"
+    a: "Chrome allocates roughly 10% of total system RAM per tab. On an 8GB machine, that's 800MB per tab before memory pressure kicks in. Modern websites with heavy JavaScript frameworks can consume over 500MB per tab, especially those with media content. When your system runs low on available memory, Chrome starts killing background tabs to free resources, but this process itself can hang and cause the unresponsive error."
+  - q: "Can JavaScript cause Chrome to become unresponsive?"
+    a: "Yes, infinite loops or poorly optimized JavaScript can lock up a tab's rendering process completely. Unlike other browsers that sandbox each tab completely, Chrome's shared GPU process means one tab's JavaScript problems can affect the entire browser's responsiveness. The Page Lifecycle API helps browsers freeze and discard background tabs to conserve resources, but it can't prevent poorly coded scripts from freezing the active tab."
+  - q: "How do I prevent Chrome pages from becoming unresponsive?"
+    a: "Prevent chrome page unresponsive errors by closing unnecessary tabs to reduce memory strain. Use Chrome Task Manager (Shift+Esc) to identify which tabs consume the most memory and end those processes first. Keep fewer tabs open simultaneously—Chrome allocates about 10% of your system RAM per tab, so on an 8GB machine, having more than 8 tabs open can trigger memory pressure issues. Regularly restart Chrome to clear cached data."
 ---
 
 Watching Chrome freeze mid-presentation is infuriating. If you're seeing Chrome's 'page unresponsive' error, the fastest chrome page unresponsive fix is closing the problematic tab with Shift+Ctrl+Delete on Windows or Shift+Cmd+Delete on Mac. This happens when a single tab consumes too much memory or CPU, blocking Chrome's entire process. This guide covers immediate fixes, root causes, and a permanent solution.

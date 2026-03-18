@@ -12,6 +12,7 @@ target_keyword: "json circular reference error chrome"
 target_extension: "json-formatter-pro"
 word_count: 1127
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/json-circular-reference-error-chrome/
 ---
 
 Debugging JavaScript objects and hitting a brick wall with circular references is maddening. If Chrome throws a json circular reference error chrome console warning when you're trying to inspect objects, the fastest fix is clearing your console and using `JSON.stringify()` with a replacer function. This happens because JavaScript objects can reference themselves, creating infinite loops that JSON serialization can't handle.

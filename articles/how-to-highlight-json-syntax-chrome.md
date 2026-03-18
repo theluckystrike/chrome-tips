@@ -12,6 +12,7 @@ target_keyword: "how to highlight json syntax chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-highlight-json-syntax-chrome/
 ---
 
 You're staring at a wall of minified JSON text in your Chrome browser that looks like complete gibberish. Learning how to highlight json syntax chrome can transform this messy data into readable, color-coded structure that saves developers 23 minutes per day on average when working with APIs and configuration files.

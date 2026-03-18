@@ -12,6 +12,7 @@ target_keyword: "how to debug api responses chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-debug-api-responses-chrome/
 ---
 
 You're staring at a broken API call and your app isn't working. Learning how to debug API responses in Chrome transforms a frustrating guessing game into a systematic process that saves developers an average of 32 minutes per debugging session.

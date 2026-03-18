@@ -13,6 +13,17 @@ target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-fix-invalid-json/
+faq:
+  - q: "How do I fix invalid JSON in Chrome?"
+    a: "Open Chrome DevTools by pressing F12 (Windows) or Cmd+Option+I (Mac), then paste your JSON into the Console and wrap it with JSON.parse(). Chrome will immediately show you the exact error location, such as 'Unexpected token } in JSON at position 25' for a trailing comma. The MDN documentation confirms JSON.parse() constructs the JavaScript value described by the string, making it essential for validation. Zovo recommends this browser-native method for quick debugging."
+  - q: "What causes invalid JSON errors?"
+    a: "Invalid JSON errors typically stem from missing quotes around keys, trailing commas after the last item in arrays or objects, unescaped special characters within strings, or missing closing brackets and braces. JSON has stricter rules than regular JavaScript objects, which causes confusion for many developers. Since 73% of web APIs rely on JSON for data exchange, understanding these common causes is crucial for anyone working with modern web applications."
+  - q: "Why does my JSON show 'Unexpected token' error?"
+    a: "'Unexpected token' errors indicate a character that doesn't belong in its position within the JSON structure. This commonly happens due to extra commas, missing quotes, or incorrect bracket placement. Chrome DevTools Console displays the exact position where the error occurs, helping you pinpoint the problematic character. Zovo suggests examining the character at that specific position in your JSON string to identify the syntax violation."
+  - q: "How do I fix a trailing comma in JSON?"
+    a: "Remove any commas after the last item in objects or arrays. JSON doesn't allow trailing commas, unlike JavaScript objects where they're sometimes permitted. For example, change {'name': 'John', 'age': 30,}' to {'name': 'John', 'age': 30}. Using JSON.parse() in Chrome DevTools will show you exactly which position contains the problematic comma, making it easy to locate and remove the invalid syntax."
+  - q: "How can I validate JSON before using it in my application?"
+    a: "Use Chrome DevTools Console to validate JSON by wrapping it with JSON.parse() before sending it to your API. This method provides immediate feedback with specific error messages and positions. Paste your JSON, run JSON.parse('your-json-here'), and fix any syntax errors the console identifies. Testing your JSON in the browser first prevents crashes and ensures your API calls work correctly in production."
 ---
 
 You're staring at a red error message saying your JSON is invalid, and your API call just crashed. Learning how to fix invalid json is crucial since 73% of web APIs rely on JSON for data exchange, making proper formatting essential for any developer working with modern applications.

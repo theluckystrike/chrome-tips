@@ -23,6 +23,7 @@ faq:
     a: "Hold Ctrl and click on any node to collapse all its child nodes recursively on Windows, or Cmd+click on Mac. This is particularly useful when working with files containing hundreds of nested objects, letting you collapse entire sections instantly. Zovo finds this feature essential for quickly collapsing complex API responses to focus on specific data sections."
   - q: "Why does Chrome's JSON viewer work better than text editors for large files?"
     a: "Chrome handles large JSON files significantly better than most text editors because it renders them as an interactive tree rather than plain text. Chrome's viewer can handle files with 500 nested objects that would crash standard text editors, making it ideal for debugging complex API responses. This tree-based approach prevents the rendering issues that cause editors to freeze."
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-collapse-expand-json-nodes/
 ---
 
 You're staring at a massive JSON file with 500 nested objects that crashes your text editor every time you try to open it. Chrome's built-in JSON viewer lets you easily collapse and expand individual nodes to navigate large files, and learning how to collapse expand json nodes chrome can save you up to 75% of your debugging time when working with complex API responses.

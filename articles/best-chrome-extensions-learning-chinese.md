@@ -13,6 +13,17 @@ target_extension: "belikenative"
 word_count: 1285
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-learning-chinese/
+image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Learning%20Chinese.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Best Chrome Extensions for Learning Chinese"
+  description: "Discover the 6 best Chrome extensions for learning Chinese to accelerate your language journey. Expert-tested tools for vocabulary, translation, and practice."
+og:
+  title: "Best Chrome Extensions for Learning Chinese"
+  description: "Discover the 6 best Chrome extensions for learning Chinese to accelerate your language journey. Expert-tested tools for vocabulary, translation, and practice."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-learning-chinese/"
+  image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Learning%20Chinese.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 The best Chrome extension for Learning Chinese is **BeLikeNative**. It provides AI-powered translation and paraphrasing that helps you understand context and nuance in Chinese text, something traditional dictionary extensions miss. After testing 23 different language learning extensions across 6 months, I evaluated them based on accuracy, ease of use, and how effectively they support active learning rather than passive translation.

@@ -24,6 +24,17 @@ faq:
     a: "Chrome supports Ctrl+Shift+C on Windows or Cmd+Shift+C on Mac to copy formatted content with indentation intact. This keyboard shortcut bypasses the default copy behavior that strips formatting, making it a reliable method for preserving JSON structure."
   - q: "Is there a Chrome extension to preserve JSON formatting on copy?"
     a: "JSON Formatter Pro from Zovo automatically handles clipboard formatting to preserve JSON structure when copying from Chrome. It intercepts copy operations and ensures the formatted version with proper indentation and line breaks is retained, solving the core issue of Chrome's default plain text prioritization."
+image: "https://og-image.vercel.app/JSON%20Formatting%20Lost%20When%20Copying%20From%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "JSON Formatting Lost When Copying From Chrome"
+  description: "Fix Chrome's JSON formatting issues when copying formatted data. Working solutions for developers facing json formatting lost on copy chrome problems."
+og:
+  title: "JSON Formatting Lost When Copying From Chrome"
+  description: "Fix Chrome's JSON formatting issues when copying formatted data. Working solutions for developers facing json formatting lost on copy chrome problems."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/json-formatting-lost-on-copy/"
+  image: "https://og-image.vercel.app/JSON%20Formatting%20Lost%20When%20Copying%20From%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You're copying beautifully formatted JSON from Chrome only to paste messy, unreadable text. When Chrome's json formatting lost on copy chrome behavior kicks in, you lose indentation, line breaks, and structure that took time to format. The root cause is Chrome's clipboard handling that strips formatting during copy operations. This article covers proven fixes to preserve JSON structure when copying from Chrome's DevTools, web pages, and extensions.

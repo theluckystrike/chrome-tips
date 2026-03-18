@@ -12,6 +12,7 @@ target_keyword: "how to learn spanish while browsing"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-learn-spanish-while-browsing/
 ---
 
 You're scrolling through your favorite website when you realize you've been wasting hours of potential language practice. Learning how to learn spanish while browsing the web transforms your regular internet time into productive vocabulary building, letting you absorb 200+ new Spanish words weekly without changing your browsing habits.

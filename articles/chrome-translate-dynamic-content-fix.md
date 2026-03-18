@@ -24,6 +24,17 @@ faq:
     a: "The timing conflict occurs because Chrome scans page content almost immediately (200-500ms), while JavaScript-driven content takes 2-8 seconds to load. Modern websites use asynchronous loading, so the translator finishes its job before the actual content appears. This creates a race condition where Chrome translates an empty or partially loaded page. Zovo and similar tools solve this by monitoring DOM changes continuously."
   - q: "Does refreshing the page fix incomplete Chrome translations?"
     a: "Yes, refreshing the page fixes most incomplete Chrome translations. After the initial translation completes, wait 3-5 seconds to let dynamic content load, then press Ctrl+R or Cmd+R. Chrome will re-scan the now-complete page and translate the JavaScript-rendered text it missed the first time. This simple two-step process resolves approximately 80-90% of dynamic content translation issues."
+image: "https://og-image.vercel.app/Chrome%20Can%27t%20Translate%20Dynamic%20Content%3A%20How%20to%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Chrome Can't Translate Dynamic Content: How to Fix"
+  description: "Fix Chrome translate dynamic content issues with these tested solutions. Get your browser translating JavaScript-loaded text again in under 5 minutes."
+og:
+  title: "Chrome Can't Translate Dynamic Content: How to Fix"
+  description: "Fix Chrome translate dynamic content issues with these tested solutions. Get your browser translating JavaScript-loaded text again in under 5 minutes."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-dynamic-content-fix/"
+  image: "https://og-image.vercel.app/Chrome%20Can%27t%20Translate%20Dynamic%20Content%3A%20How%20to%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You're trying to translate a foreign webpage and Chrome's translate bar appears, but half the content stays in the original language. If Chrome can't translate dynamic content, the fastest chrome translate dynamic content fix is refreshing the page after the translation loads completely. This happens because Chrome's translator runs before JavaScript content loads. This article covers why this occurs and four proven fixes that work in 2026.

@@ -12,6 +12,7 @@ target_keyword: "how to beautify json in chrome"
 target_extension: "json-formatter-pro"
 word_count: 1147
 reading_time: 5 minutes
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-beautify-json-in-chrome/
 ---
 
 You're staring at a wall of compressed JSON text that looks like hieroglyphics. Learning how to beautify JSON in Chrome transforms unreadable data strings into clean, organized code that actually makes sense. Developers spend 23% of their debugging time just trying to parse messy JSON responses.

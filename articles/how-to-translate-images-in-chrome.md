@@ -12,6 +12,7 @@ target_keyword: "how to translate images in chrome"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-images-in-chrome/
 ---
 
 You're staring at a meme in Japanese, a screenshot of Spanish instructions, or a photo of a menu in Italian, and you need to know what it says immediately. Learning how to translate images in Chrome can save you from copying text character by character or switching between multiple apps. Chrome processes over 3.2 billion image translation requests monthly through its integrated Google Lens technology.

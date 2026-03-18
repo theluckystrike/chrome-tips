@@ -23,7 +23,17 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/how-to-translate-right-click-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Translate%20Text%20With%20Right-Click%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-right-click-chrome/
+faq:
+  - q: "How do I translate text with right-click in Chrome?"
+    a: "Select the text you want to translate by clicking and dragging, then right-click on the selected text to open the context menu. Click 'Translate [language] to [your language]' from the menu, and read the translation in the popup window that appears. Click outside the popup to close it and continue browsing. This built-in feature requires no extensions and works on any selectable text you encounter."
+  - q: "Why doesn't the translate option appear when I right-click in Chrome?"
+    a: "The translate option might be disabled in your Chrome settings. Navigate to Settings > Languages and ensure the 'Offer to translate pages that aren't in a language you read' toggle is turned on. If you still don't see it, your Chrome installation might be missing the Google Translate component. Try updating Chrome through Help > About Google Chrome. Some enterprise or educational Chrome installations have translation features disabled by administrators."
+  - q: "What languages can I translate using Chrome's right-click feature?"
+    a: "Chrome's built-in right-click translation feature supports over 100 languages, making it one of the most comprehensive translation tools available without installing additional extensions. This extensive language support covers most major world languages as well as many lesser-known languages, allowing you to browse foreign websites with confidence. Zovo recommends using this feature for quick translations while researching international content."
+  - q: "How do I enable Chrome's built-in translation feature?"
+    a: "Open Chrome settings by clicking the three dots in the top-right corner and selecting 'Settings', or type chrome://settings/ directly in the address bar. Scroll to the 'Advanced' section and click 'Languages' to expand language options. Find the 'Google Translate' section and make sure the toggle next to 'Offer to translate pages that aren't in a language you read' is enabled. On Mac, use Cmd+, and on Windows, use Ctrl+ as keyboard shortcuts for quick access."
+  - q: "Can I translate any text on a webpage using right-click in Chrome?"
+    a: "You can translate any selectable text on a webpage using Chrome's right-click feature. Simply highlight the specific text you want to translate by clicking and dragging, then right-click to access the translation option. This works on any website where text can be selected, though some embedded content or images with text may not be translatable through this method. The feature is most effective for paragraphs, sentences, and short phrases."
 ---
 
 You're reading a foreign website when you encounter text you can't understand. Learning how to translate right click chrome functionality gives you instant access to translations in over 100 languages. This built-in Chrome feature requires no extensions and works on any selectable text you encounter while browsing.

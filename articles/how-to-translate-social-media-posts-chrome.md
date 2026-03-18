@@ -12,6 +12,7 @@ target_keyword: "how to translate social media posts chrome"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-social-media-posts-chrome/
 ---
 
 You scroll through Instagram and find an amazing recipe in Spanish, but your high school language skills aren't cutting it. Here's exactly how to translate social media posts in Chrome using built-in browser features and smart extensions. This saves you from copying text to Google Translate 47 times per day.

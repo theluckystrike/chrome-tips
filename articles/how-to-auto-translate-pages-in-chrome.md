@@ -12,6 +12,7 @@ target_keyword: "how to auto translate pages in chrome"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-auto-translate-pages-in-chrome/
 ---
 
 You're browsing a fascinating article in French, but your high school language skills aren't cutting it. Chrome's built-in translation can automatically detect and translate foreign pages into your preferred language without any manual clicking. Learning how to auto translate pages in chrome eliminates the tedious process of manually triggering translations on every foreign website you visit, saving you roughly 10-15 seconds per page.

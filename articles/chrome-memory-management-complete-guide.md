@@ -12,6 +12,17 @@ target_keyword: "chrome memory management guide"
 target_extension: "tab-suspender-pro"
 word_count: 3720
 reading_time: 15
+image: "https://og-image.vercel.app/Chrome%20Memory%20Management%3A%20The%20Complete%20Guide.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Chrome Memory Management: The Complete Guide"
+  description: "The complete chrome memory management guide. Step-by-step techniques to reduce RAM usage, optimize tabs, fix crashes, and boost Chrome performance today."
+og:
+  title: "Chrome Memory Management: The Complete Guide"
+  description: "The complete chrome memory management guide. Step-by-step techniques to reduce RAM usage, optimize tabs, fix crashes, and boost Chrome performance today."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-memory-management-complete-guide/"
+  image: "https://og-image.vercel.app/Chrome%20Memory%20Management%3A%20The%20Complete%20Guide.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Written by Michael Lip

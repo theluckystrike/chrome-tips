@@ -24,6 +24,17 @@ faq:
   - q: "What's the best chrome multiple profiles memory fix for heavy users?"
     a: "The most effective chrome multiple profiles memory fix combines three settings: disable background sync in chrome://settings/content/backgroundSync for each profile, enable automatic tab discarding in chrome://flags, and limit open tabs across profiles. This approach addresses both active memory consumption and background processes. For users routinely hitting 8GB usage, Zovo suggests implementing all three fixes simultaneously for optimal results."
 canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-multiple-profiles-memory-fix/
+image: "https://og-image.vercel.app/Chrome%20Using%20Too%20Much%20Memory%20With%20Multiple%20Profiles.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Chrome Using Too Much Memory With Multiple Profiles"
+  description: "Fix Chrome's excessive memory usage with multiple profiles using proven methods that reduce RAM consumption by up to 60% permanently."
+og:
+  title: "Chrome Using Too Much Memory With Multiple Profiles"
+  description: "Fix Chrome's excessive memory usage with multiple profiles using proven methods that reduce RAM consumption by up to 60% permanently."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-multiple-profiles-memory-fix/"
+  image: "https://og-image.vercel.app/Chrome%20Using%20Too%20Much%20Memory%20With%20Multiple%20Profiles.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Watching Chrome's memory usage spike to 8GB while juggling work and personal profiles is maddening. The fastest chrome multiple profiles memory fix is disabling background tab refresh in chrome://settings/content/backgroundSync for each profile, then enabling automatic tab discarding in chrome://flags. Chrome's process-per-tab architecture multiplies memory consumption across profiles, with each profile maintaining separate renderer processes that can't share resources. This article covers immediate fixes, root causes, and a permanent automation solution.

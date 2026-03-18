@@ -24,6 +24,17 @@ faq:
     a: "Yes, automatic tab discarding helps significantly by allowing Chrome to freeze and discard background tabs to conserve resources. The Page Lifecycle API enables browsers to suspend inactive tabs without closing them, freeing up memory for active tabs like Slack. Enable this feature at `chrome://flags/#automatic-tab-discarding` for immediate performance improvements in Chrome."
   - q: "What is the best way to prevent Slack from slowing down in Chrome?"
     a: "The best way is to combine multiple solutions: enable automatic tab discarding, use Chrome's Task Manager (Shift+Esc) to identify memory-heavy tabs, and install a tab suspender extension like Tab Suspender Pro for automatic background tab management. Keep active tabs to 10 or fewer, with Slack being one of them. This multi-layered approach prevents future slowdowns while maintaining productivity."
+image: "https://og-image.vercel.app/Slack%20Slow%20in%20Chrome%20Due%20to%20Too%20Many%20Tabs%20Open.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Slack Slow in Chrome Due to Too Many Tabs Open"
+  description: "Fix Chrome slowdown when Slack crawls due to too many open tabs. Working solutions to restore speed and prevent browser freezing permanently."
+og:
+  title: "Slack Slow in Chrome Due to Too Many Tabs Open"
+  description: "Fix Chrome slowdown when Slack crawls due to too many open tabs. Working solutions to restore speed and prevent browser freezing permanently."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-slack-slow-too-many-tabs/"
+  image: "https://og-image.vercel.app/Slack%20Slow%20in%20Chrome%20Due%20to%20Too%20Many%20Tabs%20Open.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Watching Slack freeze mid-conversation while you're trying to respond to an urgent message is incredibly frustrating. If you're experiencing slack slow chrome too many tabs issues, the fastest fix is closing unnecessary tabs and enabling Chrome's built-in tab discarding feature. The root cause is Chrome's process-per-tab architecture consuming excessive memory when you have 15+ tabs open simultaneously. This article covers immediate fixes, permanent solutions, and why **Tab Suspender Pro** prevents future slowdowns.

@@ -12,6 +12,17 @@ target_keyword: "chrome translate embedded frames fix"
 target_extension: "belikenative"
 word_count: 1182
 reading_time: 5
+image: "https://og-image.vercel.app/Chrome%20Not%20Translating%20Embedded%20Frames%20and%20Iframes%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Chrome Not Translating Embedded Frames and Iframes Fix"
+  description: "Fix Chrome's translation issues with embedded frames and iframes using proven troubleshooting methods and permanent solutions that actually work."
+og:
+  title: "Chrome Not Translating Embedded Frames and Iframes Fix"
+  description: "Fix Chrome's translation issues with embedded frames and iframes using proven troubleshooting methods and permanent solutions that actually work."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-embedded-frames-fix/"
+  image: "https://og-image.vercel.app/Chrome%20Not%20Translating%20Embedded%20Frames%20and%20Iframes%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You're browsing a foreign website and Chrome's translate feature works perfectly on the main content, but the embedded frames stay in the original language. If Chrome is not translating embedded frames and iframes, the fastest chrome translate embedded frames fix is enabling site isolation and clearing your translation cache. This happens because Chrome treats iframe content as separate security domains. This article covers proven manual fixes and a permanent solution.

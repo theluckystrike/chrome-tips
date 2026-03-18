@@ -24,6 +24,17 @@ faq:
     a: "The root cause stems from Chrome's translation API injecting DOM elements that conflict with existing CSS layouts and responsive designs. When Chrome detects foreign language content, it adds translation elements that don't inherit parent container layout rules. These injected elements override z-index stacking contexts, creating unexpected overlaps and shifts. Websites built with CSS Grid and Flexbox experience the most severe layout disruption."
   - q: "How do I fix a broken page layout after Chrome's automatic translation?"
     a: "To fix a chrome translate breaking page layout issue, immediately disable translation for that site by right-clicking the translation bar and choosing 'Never translate this site.' Then navigate to chrome://settings/languages and turn off 'Offer to translate pages' if you want to prevent future conflicts. Finally, refresh the page to restore the original layout. These three steps typically resolve all visual disruptions caused by the translation injection."
+image: "https://og-image.vercel.app/Chrome%20Translation%20Breaking%20Page%20Layout%3A%20How%20to%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Chrome Translation Breaking Page Layout: How to Fix"
+  description: "Chrome translate breaking page layout? Here's the complete fix guide with 4 proven solutions and permanent prevention methods that actually work."
+og:
+  title: "Chrome Translation Breaking Page Layout: How to Fix"
+  description: "Chrome translate breaking page layout? Here's the complete fix guide with 4 proven solutions and permanent prevention methods that actually work."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-breaking-page-layout/"
+  image: "https://og-image.vercel.app/Chrome%20Translation%20Breaking%20Page%20Layout%3A%20How%20to%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You're browsing a foreign website when Chrome's translation popup appears, and suddenly the entire page layout shifts into chaos. If chrome translate breaking page layout is ruining your browsing experience, the fastest fix is disabling automatic translation for specific sites through Chrome's language settings. The root cause stems from Chrome's translation API injecting DOM elements that conflict with existing CSS layouts and responsive designs.

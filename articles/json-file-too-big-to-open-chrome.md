@@ -12,6 +12,17 @@ target_keyword: "json file too big to open chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 6
+image: "https://og-image.vercel.app/JSON%20File%20Too%20Big%20to%20Open%20in%20Chrome%3A%20Solutions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "JSON File Too Big to Open in Chrome: Solutions"
+  description: "Chrome freezing on large JSON files? Learn 4 proven fixes plus the json-formatter-pro extension solution that handles files up to 50MB instantly."
+og:
+  title: "JSON File Too Big to Open in Chrome: Solutions"
+  description: "Chrome freezing on large JSON files? Learn 4 proven fixes plus the json-formatter-pro extension solution that handles files up to 50MB instantly."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/json-file-too-big-to-open-chrome/"
+  image: "https://og-image.vercel.app/JSON%20File%20Too%20Big%20to%20Open%20in%20Chrome%3A%20Solutions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Nothing ruins your workflow like watching Chrome freeze when you're just trying to view a JSON file. If Chrome is json file too big to open in chrome, the fastest fix is splitting the file into smaller chunks or using Chrome's task manager to kill the hanging tab. The root cause is Chrome's memory allocation hitting system limits when parsing large JSON structures. This article covers four manual fixes plus a permanent solution using extensions.

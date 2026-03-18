@@ -24,6 +24,17 @@ faq:
     a: "BeLikeNative costs $4.99 monthly for premium features, though basic translation remains free. The premium version is worth it if you want AI-powered translation with contextual learning that adapts to your reading level. The extension highlights words slightly above your current ability, creating an optimal learning zone that challenges without overwhelming. Its AI writing assistant provides real-time grammar suggestions and cultural context notes. The main limitation is that offline functionality requires a separate download."
   - q: "What features should I look for in Japanese learning extensions?"
     a: "The best chrome extensions learning japanese students should offer vocabulary building, grammar assistance, and real-world application. Look for extensions that provide instant dictionary lookup, grammar parsing that identifies verb conjugations and particle usage, and the ability to create study decks for Anki export. Modern extensions like BeLikeNative use AI to adapt to your comprehension level. Consider whether you need offline functionality, as some extensions like BeLikeNative require a separate download for offline use."
+image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Learning%20Japanese.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Best Chrome Extensions for Learning Japanese"
+  description: "Discover the 7 best Chrome extensions for learning Japanese in 2026. Compare features, pricing, and user ratings to find your perfect study companion."
+og:
+  title: "Best Chrome Extensions for Learning Japanese"
+  description: "Discover the 7 best Chrome extensions for learning Japanese in 2026. Compare features, pricing, and user ratings to find your perfect study companion."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-learning-japanese/"
+  image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Learning%20Japanese.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 The best Chrome extension for Learning Japanese is **belikenative**. It combines AI-powered translation with contextual learning that adapts to your reading level. After testing 23 extensions across vocabulary building, grammar assistance, and real-world application, these 7 tools represent the best chrome extensions learning japanese students can use to accelerate their progress.

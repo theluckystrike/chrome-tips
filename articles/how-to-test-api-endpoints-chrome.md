@@ -12,6 +12,7 @@ target_keyword: "how to test api endpoints chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-test-api-endpoints-chrome/
 ---
 
 You're debugging an API integration when you realize you need to test endpoints quickly without switching to Postman. Learning how to test api endpoints chrome eliminates the need for external tools and saves developers an average of 15 minutes per debugging session.

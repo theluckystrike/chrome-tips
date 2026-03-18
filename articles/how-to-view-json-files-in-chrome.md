@@ -35,6 +35,7 @@ faq:
     a: "Yes, you can view nested JSON objects in Chrome using the DevTools Console method. After typing JSON.parse() with your data, click the formatted output to expand and collapse nested structures. This allows you to navigate through arrays, objects, and complex data hierarchies. The expandable tree view makes working with deeply nested JSON much easier than viewing raw text."
   - q: "Does viewing JSON in Chrome save time during debugging?"
     a: "Using Chrome DevTools to view JSON with syntax highlighting significantly reduces debugging time. Developers save an average of 12 minutes per debugging session by using this method. The color-coded, formatted output makes it easy to spot errors and understand data structures quickly. This approach is far more efficient than manually parsing through unformatted plain text."
+internal_links_added: true
 ---
 
 You click on a JSON file link and Chrome shows you an ugly wall of text without any formatting. Here's exactly how to view JSON files in Chrome with proper syntax highlighting: open Chrome DevTools, navigate to the Sources tab, and paste your JSON data into the console. This transforms unreadable JSON into beautifully formatted, color-coded data that saves developers an average of 12 minutes per debugging session.
@@ -112,9 +113,9 @@ When working with JSON files that contain encoded data or escape characters, Chr
 
 ## Advanced Chrome JSON Viewing Techniques
 
-Chrome offers several advanced methods for working with JSON data beyond basic Console parsing. The Sources tab allows you to create temporary files where you can paste and edit JSON data with full syntax highlighting and error detection.
+Chrome offers several advanced methods for working with JSON data beyond basic Console parsing. The Sources tab allows you to create temporary files where you can paste and edit JSON data with full syntax highlighting and error detection. Developers looking to optimize their Chrome workflow can benefit from learning about [Chrome CSS animations performance tips](/chrome-tips/chrome-css-animations-performance-tips) to ensure smooth browsing while working with complex data.
 
-You can also use Chrome's snippet feature in DevTools to save commonly used JSON parsing commands. Create a snippet in the Sources tab under the Snippets section, then run it whenever you need to format JSON data quickly.
+You can also use Chrome's snippet feature in DevTools to save commonly used JSON parsing commands. Create a snippet in the Sources tab under the Snippets section, then run it whenever you need to format JSON data quickly. For users who want to enhance their Chrome multitasking capabilities, the ability to use a [chrome floating video window](/chrome-tips/chrome-floating-video-window-how-to-use) lets you keep JSON data visible while working in other tabs.
 
 For developers who frequently work with JSON APIs, Chrome's ability to [intercept and modify network requests](https://theluckystrike.github.io/chrome-tips/) becomes incredibly useful. This feature lets you view and edit JSON responses in real-time during development.
 

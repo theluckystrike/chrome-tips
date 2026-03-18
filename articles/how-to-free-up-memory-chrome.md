@@ -13,6 +13,7 @@ target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-free-up-memory-chrome/
+internal_links_added: true
 faq:
   - q: "How do I free up memory in Chrome?"
     a: "Open Chrome Task Manager (Shift+Esc) to identify memory-heavy tabs. Look for tabs using over 100MB—video sites use 200-300MB while text pages stay under 50MB. Close unused tabs, disable problematic extensions, and enable automatic tab discarding at chrome://discards/. Zovo recommends checking the Task Manager regularly to maintain optimal performance."
@@ -46,7 +47,7 @@ Look for tabs consuming more than 100MB of memory. Video streaming sites like Yo
 
 > "The chrome.tabs API can be used to interact with the browser's tab system. You can use this API to create, modify, and rearrange tabs in the browser." ,  [chrome.tabs API](https://developer.chrome.com/docs/extensions/reference/api/tabs)
 
-Extensions appear at the bottom of the Task Manager list. Ad blockers typically use 20-50MB, which is normal. Password managers might use 30-80MB. But if you see an extension consuming 200MB or more, consider disabling it temporarily to see if your memory usage improves.
+Extensions appear at the bottom of the Task Manager list. Ad blockers typically use 20-50MB, which is normal. Password managers might use 30-80MB. But if you see an extension consuming 200MB or more, consider disabling it temporarily to see if your memory usage improves. If you encounter issues where [Chrome can't open JSON files](/chrome-tips/chrome-cant-open-json-files), it may indicate a problematic extension interfering with Chrome's core functionality.
 
 ## Enable Automatic Tab Discarding
 
@@ -78,7 +79,7 @@ Set the time range to "Last 7 days" for regular maintenance, or "All time" if yo
 
 The "Download history" option only clears the list, not the actual downloaded files, so it's safe to check. Browsing history is personal preference. Clearing it won't significantly reduce memory usage but can speed up Chrome's internal operations.
 
-After clearing data, restart Chrome completely. Some cached data stays loaded in memory until you fully quit and reopen the browser. This final step ensures you get the full memory benefit from clearing your data.
+After clearing data, restart Chrome completely. Some cached data stays loaded in memory until you fully quit and reopen the browser. This final step ensures you get the full memory benefit from clearing your data. If you notice that [Chrome can't open JSON files](/chrome-tips/chrome-cant-open-json-files) after clearing browsing data, you'll need to reset Chrome settings to restore file associations.
 
 ## Organize Tabs Into Groups
 
@@ -102,7 +103,7 @@ Many people pause a video "to watch later" and forget about it for days. These z
 
 Each extension runs continuously in the background, even when not actively used. Having 15 different productivity extensions installed typically consumes more memory than the productivity they provide. Focus on 3-5 essential extensions that you actually use daily.
 
-Popular extension categories that create memory bloat include multiple ad blockers (you only need one), several password managers, duplicate note-taking tools, and numerous shopping comparison extensions. Audit your extensions monthly and remove duplicates.
+Popular extension categories that create memory bloat include multiple ad blockers (you only need one), several password managers, duplicate note-taking tools, and numerous shopping comparison extensions. Audit your extensions monthly and remove duplicates. If extensions are causing unexpected behavior where [Chrome can't open JSON files](/chrome-tips/chrome-cant-open-json-files), disable all extensions and re-enable them one by one to identify the culprit.
 
 ### Never Restarting Chrome
 

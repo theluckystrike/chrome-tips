@@ -12,6 +12,7 @@ target_keyword: "how to manage tabs across multiple windows chrome"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-manage-tabs-across-multiple-windows/
 ---
 
 You open Chrome for a quick search and somehow end up with 47 tabs spread across 4 windows. Learning how to manage tabs across multiple windows chrome effectively can reduce your browser memory usage by up to 60% while keeping your workflow organized.

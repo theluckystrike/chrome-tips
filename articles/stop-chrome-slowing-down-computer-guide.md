@@ -1,6 +1,11 @@
+[2026-03-18 13:49:18] [m15]   Title too long: 66 chars (max 60)
+[2026-03-18 13:49:25] [m15]   Title shortened: "How to Stop Chrome Slowing Down Computer Guide" (46 chars)
+[2026-03-18 13:49:25] [m15]   Description too short: 149 chars (target 150-160)
+[2026-03-18 13:49:38] [m15]   WARNING: Could not generate valid description (got 127 chars).
+[2026-03-18 13:49:38] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: guide
-title: "How to Stop Chrome From Slowing Down Your Computer: Complete Guide"
+title: "How to Stop Chrome Slowing Down Computer Guide"
 description: "Your complete stop chrome slowing down computer guide with step-by-step fixes for memory, tab suspension, Chrome flags, and performance optimization."
 date: 2026-03-13
 last_modified_at: 2026-03-13

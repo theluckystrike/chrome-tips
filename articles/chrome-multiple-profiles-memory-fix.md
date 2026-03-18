@@ -1,7 +1,10 @@
+[2026-03-18 13:46:48] [m15]   Description too short: 133 chars (target 150-160)
+[2026-03-18 13:47:00] [m15]   Description rewritten: 167 chars
+[2026-03-18 13:47:01] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Chrome Using Too Much Memory With Multiple Profiles"
-description: "Fix Chrome's excessive memory usage with multiple profiles using proven methods that reduce RAM consumption by up to 60% permanently."
+description: "Struggling with Chrome using too much memory with multiple profiles? Discover proven steps for the chrome multiple profiles memory fix and speed up your browser today!"
 date: 2026-03-14
 last_modified_at: 2026-03-14
 permalink: /chrome-multiple-profiles-memory-fix/

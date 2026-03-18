@@ -12,6 +12,7 @@ target_keyword: "how to translate emails in chrome"
 target_extension: "belikenative"
 word_count: 1127
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-emails-in-chrome/
 ---
 
 You're reading an important email from a client in German when you realize you can't understand half of it. Knowing how to translate emails in Chrome directly saves you from the tedious copy-paste dance between tabs. Chrome's built-in translation handles 134 languages automatically, cutting your translation time from minutes to seconds.

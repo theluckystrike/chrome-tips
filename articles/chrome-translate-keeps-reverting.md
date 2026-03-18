@@ -24,6 +24,17 @@ faq:
     a: "Clear your translation cache by removing duplicate language entries in chrome://settings/languages. This prevents the automatic detection system from overwriting your translation when confidence drops below 85%. Setting your preferred language as the default prevents Chrome from offering translation on pages it detects as your native language."
   - q: "Does clearing translation cache fix chrome translate keeps reverting?"
     a: "Yes, clearing the translation cache through chrome://settings/languages is the most effective solution for fixing chrome translate keeps reverting problems. Remove duplicate language entries and refresh the page to clear conflicting cache that stores incorrect language pair settings. This addresses the root cause of translation reversion."
+image: "https://og-image.vercel.app/Chrome%20Translation%20Keeps%20Reverting%20to%20Original%20Language.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Chrome Translation Keeps Reverting to Original Language"
+  description: "Fix Chrome translate reverting issue with 3 proven methods. Permanent solution included to stop translation resets for good."
+og:
+  title: "Chrome Translation Keeps Reverting to Original Language"
+  description: "Fix Chrome translate reverting issue with 3 proven methods. Permanent solution included to stop translation resets for good."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-keeps-reverting/"
+  image: "https://og-image.vercel.app/Chrome%20Translation%20Keeps%20Reverting%20to%20Original%20Language.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You're reading a translated page when Chrome suddenly switches back to the original language. If chrome translate keeps reverting to the source text, the fastest fix is clearing your browser's translation cache through chrome://settings/languages. This happens because Chrome's translation service stores conflicting language preferences that override your current session. This article covers three manual fixes and one permanent solution.

@@ -24,6 +24,7 @@ faq:
     a: "Minifying JSON with browser DevTools saves approximately 67% file size on average compared to pretty-printed JSON. The exact reduction depends on your JSON's whitespace and formatting, but you can typically expect significant compression. Zovo users report substantial bandwidth savings when using minified JSON in production."
   - q: "Why does minifying JSON in the browser save space?"
     a: "Minifying JSON removes all unnecessary whitespace, newlines, and indentation from your data structure. When you use JSON.stringify(), it converts the pretty-printed object into a single-line string with zero extra characters. This elimination of formatting overhead is what creates the 67% average size reduction mentioned in the latest Chrome tests."
+internal_links_added: true
 ---
 
 You're staring at a massive, beautifully formatted JSON file that needs to be compressed for production. Learning how to minify json in browser takes just 3 steps using Chrome's built-in developer tools and saves an average of 67% file size compared to pretty-printed JSON.
@@ -44,7 +45,7 @@ Press F12 or use the keyboard shortcut Ctrl+Shift+I (Windows/Linux) or Cmd+Optio
 
 Click on the Console tab if it's not already selected. This is where you'll execute the JavaScript commands to minify your JSON. The console provides a live JavaScript environment where you can run code directly in the browser without creating any files or setting up a development environment.
 
-If the console appears cluttered with existing messages, click the clear console button (the circle with a line through it) or press Ctrl+L to start with a clean workspace. This makes it easier to see your commands and results.
+If the console appears cluttered with existing messages, click the clear console button (the circle with a line through it) or press Ctrl+L to start with a clean workspace. This makes it easier to see your commands and results. If you encounter issues with Chrome's built-in features not working as expected, check our guide on [Chrome auto-translate stopped working](/chrome-tips/chrome-auto-translate-stopped-working) for troubleshooting similar browser functionality.
 
 ### Prepare Your JSON Data
 

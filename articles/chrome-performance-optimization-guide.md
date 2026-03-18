@@ -24,6 +24,17 @@ faq:
     a: "Chrome's multi-process design means a typical browsing session with 30 open tabs can consume 4GB of memory or more, with each tab running in its own renderer process. The chrome performance optimization guide explains this happens because Chrome allocates separate processes for tabs, extensions, and utilities, each claiming 50-300MB depending on content. Zovo tools can help you track which tabs consume the most resources, and understanding this architecture helps users make informed decisions about which tabs to keep open."
   - q: "Why does my laptop fan run constantly with Chrome open?"
     a: "The constant laptop fan running while Chrome is open is typically caused by high memory usage and CPU activity from multiple active processes. Chrome allocates a separate process for each tab and extension, with each process consuming 50-300MB of RAM. The chrome performance optimization guide notes that users with many open tabs or extensions—like those maintaining 16 extensions—experience more frequent fan activation. Zovo recommends reducing active tabs and disabling unnecessary extensions to lower resource consumption and extend battery life."
+image: "https://og-image.vercel.app/Chrome%20Performance%20Optimization%3A%20Everything%20You%20Need%20to%20Know.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Chrome Performance Optimization: Everything You Need to Know"
+  description: "A complete chrome performance optimization guide with memory management strategies, advanced flags, and techniques to cut Chrome memory usage by 40-60%."
+og:
+  title: "Chrome Performance Optimization: Everything You Need to Know"
+  description: "A complete chrome performance optimization guide with memory management strategies, advanced flags, and techniques to cut Chrome memory usage by 40-60%."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-performance-optimization-guide/"
+  image: "https://og-image.vercel.app/Chrome%20Performance%20Optimization%3A%20Everything%20You%20Need%20to%20Know.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Reducing Chrome's memory usage and improving its speed comes down to managing how many processes the browser runs and how aggressively it recycles inactive tabs. Chrome allocates a separate process for every tab, extension, and utility, with each process claiming between 50MB and 300MB of RAM depending on the page content. A typical session with 30 open tabs can consume 4GB of memory or more. This chrome performance optimization guide covers every available method to reduce that footprint and speed up your browsing, from built-in settings most people never touch to advanced flags and command-line switches that give you granular control over how Chrome allocates resources. Whether you are a developer with 50 tabs of documentation open or a casual user wondering why your laptop fan runs constantly, you will find actionable steps here that produce measurable results. As someone who maintains 16 Chrome extensions, I have organized these techniques by impact and difficulty so you can start with the easiest wins and work deeper.

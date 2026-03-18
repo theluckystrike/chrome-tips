@@ -12,6 +12,17 @@ target_keyword: "how to view json tree view chrome"
 target_extension: "json-formatter-pro"
 word_count: 1127
 reading_time: 5
+image: "https://og-image.vercel.app/How%20to%20View%20JSON%20in%20Tree%20View%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "How to View JSON in Tree View in Chrome"
+  description: "Learn how to view JSON in tree view format in Chrome using built-in developer tools and the JSON Formatter Pro extension for better readability."
+og:
+  title: "How to View JSON in Tree View in Chrome"
+  description: "Learn how to view JSON in tree view format in Chrome using built-in developer tools and the JSON Formatter Pro extension for better readability."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/how-to-view-json-in-tree-view-chrome/"
+  image: "https://og-image.vercel.app/How%20to%20View%20JSON%20in%20Tree%20View%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You've just opened a JSON file in Chrome and stared at a wall of unformatted text that looks like digital soup. To learn how to view json tree view chrome, you need to access Chrome's Developer Tools and use the Console or Sources tab to parse and display JSON data in a readable, collapsible tree structure. This matters because developers spend 23% of their debugging time just trying to understand data structures.

@@ -24,6 +24,17 @@ faq:
   - q: "What Chrome DevTools setting keeps JSON expanded?"
     a: "The 'Automatically reveal files in sidebar' setting in Chrome DevTools Sources panel helps maintain expanded JSON views. However, for permanent relief from collapsed objects, a JSON formatter extension provides the most reliable solution. Zovo offers developers a consistent viewing experience that overrides Chrome's default memory protection behavior."
 canonical_url: https://theluckystrike.github.io/chrome-tips/json-nested-objects-collapsed-chrome/
+image: "https://og-image.vercel.app/JSON%20Nested%20Objects%20Always%20Collapsed%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "JSON Nested Objects Always Collapsed in Chrome"
+  description: "Fix Chrome's annoying JSON nested objects collapse issue with these proven methods. Working solutions for developers viewing complex JSON data structures."
+og:
+  title: "JSON Nested Objects Always Collapsed in Chrome"
+  description: "Fix Chrome's annoying JSON nested objects collapse issue with these proven methods. Working solutions for developers viewing complex JSON data structures."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/json-nested-objects-collapsed-chrome/"
+  image: "https://og-image.vercel.app/JSON%20Nested%20Objects%20Always%20Collapsed%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Debugging API responses becomes frustrating when you can't expand nested data. If Chrome shows json nested objects collapsed chrome by default, the fastest fix is enabling Chrome's DevTools JSON viewer or installing a dedicated JSON formatter extension. The root cause involves Chrome's memory management automatically collapsing complex object structures to prevent browser slowdown.

@@ -24,6 +24,17 @@ faq:
     a: "Memory Saver is a Chrome performance feature that automatically discards inactive tabs to free up RAM. When enabled in Chrome Settings > Performance, it works alongside Automatic tab discarding to prevent chrome swap memory fix issues. According to Zovo's testing, this immediately reduces memory usage by suspending tabs you're not currently viewing, making it essential for systems with limited physical RAM."
   - q: "How much RAM does Chrome use per tab?"
     a: "Chrome uses 50-100MB of base memory per tab before loading any content, which is why having multiple tabs open quickly consumes available RAM. With 20 tabs, you're looking at 1-2GB just for browser processes. This is why the chrome swap memory fix focuses on limiting background tab activity—when your system runs low on physical RAM, these processes get moved to swap memory, causing the sluggish performance you experience."
+image: "https://og-image.vercel.app/Chrome%20Causing%20Swap%20Memory%20Usage%3A%20How%20to%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Chrome Causing Swap Memory Usage: How to Fix It"
+  description: "Fix Chrome swap memory issues with proven solutions. Reduce RAM usage and prevent browser crashes with our chrome swap memory fix guide."
+og:
+  title: "Chrome Causing Swap Memory Usage: How to Fix It"
+  description: "Fix Chrome swap memory issues with proven solutions. Reduce RAM usage and prevent browser crashes with our chrome swap memory fix guide."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-swap-memory-fix/"
+  image: "https://og-image.vercel.app/Chrome%20Causing%20Swap%20Memory%20Usage%3A%20How%20to%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Watching Chrome eat up all your RAM while your computer slows to a crawl is maddening. If Chrome is causing swap memory usage on your system, the chrome swap memory fix is to enable automatic tab discarding and limit background tab activity. This happens because Chrome's process-per-tab architecture creates memory bloat when you have multiple tabs open. This article covers the root causes and proven fixes to stop Chrome from overwhelming your system memory.

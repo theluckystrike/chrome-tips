@@ -12,6 +12,7 @@ target_keyword: "how to reduce chrome memory old computer"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5 min
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-reduce-chrome-memory-on-old-computer/
 ---
 
 Your computer fans are spinning like jet engines again, and you know exactly why. Learning how to reduce chrome memory old computer performance is essential because Chrome can consume up to 2.5GB of RAM with just 20 tabs open on machines with limited memory.

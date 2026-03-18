@@ -12,6 +12,7 @@ target_keyword: "how to recover tabs after chrome crash"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-recover-tabs-after-chrome-crash/
 ---
 
 You're deep into research with 20 tabs open when Chrome suddenly freezes and crashes. Learning how to recover tabs after chrome crash can save you hours of work, especially since Chrome users lose an average of **47 minutes** per week to unexpected browser crashes and tab recovery issues.

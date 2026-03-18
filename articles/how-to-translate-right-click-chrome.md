@@ -1,7 +1,10 @@
+[2026-03-18 13:31:54] [m15]   Description too short: 143 chars (target 150-160)
+[2026-03-18 13:33:06] [m15]   Description rewritten: 158 chars
+[2026-03-18 13:33:07] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "How to Translate Text With Right-Click in Chrome"
-description: "Learn how to translate right click chrome text instantly. Master built-in Chrome translation features and shortcuts for 100+ languages in 2026."
+description: "Master how to translate right click chrome with this step-by-step guide. Enable Chrome's built-in translation feature using simple right-click settings today!"
 date: 2026-03-18
 last_modified_at: 2026-03-18
 permalink: /how-to-translate-right-click-chrome/

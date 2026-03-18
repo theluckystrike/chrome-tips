@@ -12,6 +12,7 @@ target_keyword: "how to filter json data browser"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-filter-json-data-browser/
 ---
 
 You're staring at a massive JSON response in your browser, trying to find one specific piece of data buried somewhere in thousands of lines. Learning how to filter JSON data browser workflows can save you hours of manual scrolling and searching through complex API responses, configuration files, and debugging sessions.

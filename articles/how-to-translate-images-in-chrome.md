@@ -13,6 +13,17 @@ target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-images-in-chrome/
+faq:
+  - q: "How do I translate an image in Chrome using Google Lens?"
+    a: "Right-click on any image with foreign text in Chrome and select 'Search image with Google Lens' from the context menu. Chrome processes over 3.2 billion image translation requests monthly through its integrated Google Lens technology. Click the translate icon (globe symbol), choose your target language, and view the translated text overlaid directly on the image. For additional translation options, Zovo offers a reliable alternative."
+  - q: "Why doesn't Google Lens show up when I right-click an image in Chrome?"
+    a: "Some websites block Google Lens functionality through their code, preventing the option from appearing. Try refreshing the page first—dynamic content loads differently and refreshing often restores the context menu option. You can also perform a hard refresh using Ctrl+Shift+R (Windows) or Cmd+Shift+R (Mac) to clear cached elements. If the issue persists, Zovo provides alternative translation methods."
+  - q: "Can Chrome automatically translate text in images?"
+    a: "Chrome can automatically translate text in images once you activate translation mode in Google Lens. The browser automatically identifies text areas using optical character recognition, even detecting text in complex images with multiple languages or stylized fonts. Select your target language from the dropdown menu and the translated text overlays directly on the image for instant comparison with the original."
+  - q: "Does Google Lens in Chrome work on all websites?"
+    a: "Google Lens works on most websites but some block this functionality through their code. When the Lens option doesn't appear, refreshing the page or performing a hard refresh often restores it. Chrome processes over 3.2 billion image translation requests monthly, making it highly reliable across most platforms. For websites with restrictions, Zovo offers an alternative approach to image translation."
+  - q: "How do I translate text from a screenshot in Chrome?"
+    a: "Open the webpage containing your screenshot and right-click directly on the image. Select 'Search image with Google Lens' from the context menu to open the Lens panel with detected text regions highlighted in blue boxes. Click the translate icon in the toolbar, choose your target language, and the translated text appears overlaid on your screenshot. Chrome's OCR technology handles even stylized fonts and complex layouts effectively."
 ---
 
 You're staring at a meme in Japanese, a screenshot of Spanish instructions, or a photo of a menu in Italian, and you need to know what it says immediately. Learning how to translate images in Chrome can save you from copying text character by character or switching between multiple apps. Chrome processes over 3.2 billion image translation requests monthly through its integrated Google Lens technology.

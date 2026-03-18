@@ -12,6 +12,7 @@ target_keyword: "how to copy formatted json from browser"
 target_extension: "json-formatter-pro"
 word_count: 1,147
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-copy-formatted-json-from-browser/
 ---
 
 You're staring at a messy JSON response in your browser's Network tab, and copying it gives you an unreadable wall of text. Here's exactly how to copy formatted json from browser developer tools: open Chrome DevTools, navigate to the Network tab, find your API request, click on it, go to the Response tab, right-click the JSON content, and select "Copy". Chrome automatically formats the JSON with proper indentation and line breaks. This saves developers an average of 47 seconds per API debugging session compared to manual formatting.

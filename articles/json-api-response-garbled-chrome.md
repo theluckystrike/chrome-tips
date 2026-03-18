@@ -1,7 +1,10 @@
+[2026-03-18 14:03:12] [m15]   Description too short: 128 chars (target 150-160)
+[2026-03-18 14:03:24] [m15]   Description rewritten: 140 chars
+[2026-03-18 14:03:24] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON API Response Looks Garbled in Chrome Fix"
-description: "Fix garbled JSON API responses in Chrome with manual methods and JSON Formatter Pro extension. Working solutions for developers."
+description: "Fix json api response garbled chrome display issues with simple Chrome DevTools settings. Decode UTF-8 characters easily. Get the guide now!"
 date: 2026-03-13
 last_modified_at: 2026-03-13
 permalink: /json-api-response-garbled-chrome/

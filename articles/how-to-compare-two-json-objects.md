@@ -13,6 +13,7 @@ target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-compare-two-json-objects/
+internal_links_added: true
 faq:
   - q: "How to compare two json objects in Chrome DevTools?"
     a: "Open Chrome DevTools by pressing F12 or Cmd+Option+I, then navigate to the Console tab. Parse both JSON strings using JSON.parse(), then normalize them with JSON.stringify() using sorted keys. Compare the resulting strings directly to identify exact matches. This process helps developers save an average of 15 minutes per debugging session by revealing subtle differences that break applications."
@@ -49,6 +50,8 @@ Clear any existing console output by pressing Ctrl+L (Windows) or Cmd+K (Mac). Y
 Copy your first JSON object from wherever it lives (API response, file, database query result). In the console, type `let obj1 = ` and paste your JSON data. Press Shift+Enter to continue on a new line without executing. Wrap the entire object in JSON.parse() if it's a string, or leave it as-is if it's already a valid JavaScript object.
 
 Repeat this process with your second JSON object, storing it in `obj2`. Your console should now contain both objects ready for comparison. You can verify they loaded correctly by typing `obj1` or `obj2` and pressing Enter to inspect their contents.
+
+Working with API responses in the browser is a core skill for modern developers, and having the right [browser-based API development tools](/chrome-tips/browser-api-development-tools-guide) can significantly streamline your workflow when debugging complex data structures.
 
 > "The JSON.parse() static method parses a JSON string, constructing the JavaScript value or object described by the string." ,  [JSON.parse() - JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
@@ -163,6 +166,8 @@ Handle special cases explicitly in your comparison logic. Convert dates to consi
 ## Pro Tip: Skip the Manual Steps
 
 The manual console method works perfectly for one-off comparisons, but it's tedious for regular development work. You're copying code, running functions, and interpreting results every single time you need to compare JSON data.
+
+When running multiple DevTools sessions and extensions for debugging, be mindful of [chrome extension memory usage](/chrome-tips/chrome-extension-memory-usage-high) as this can impact browser performance during intensive comparison tasks.
 
 **JSON Formatter Pro** automates this entire process with a dedicated comparison interface that handles normalization, difference highlighting, and nested object analysis. At **4.8/5** stars and version 1.0.4, this extension turns JSON comparison into a single-click operation.
 

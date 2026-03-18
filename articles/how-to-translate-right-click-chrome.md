@@ -23,6 +23,7 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/how-to-translate-right-click-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Translate%20Text%20With%20Right-Click%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-right-click-chrome/
 ---
 
 You're reading a foreign website when you encounter text you can't understand. Learning how to translate right click chrome functionality gives you instant access to translations in over 100 languages. This built-in Chrome feature requires no extensions and works on any selectable text you encounter while browsing.

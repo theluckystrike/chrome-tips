@@ -12,6 +12,17 @@ target_keyword: "how to format json from clipboard"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+image: "https://og-image.vercel.app/How%20to%20Format%20JSON%20From%20Your%20Clipboard%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "How to Format JSON From Your Clipboard in Chrome"
+  description: "Learn how to format messy JSON from your clipboard in Chrome using built-in tools and extensions. Step-by-step guide with screenshots."
+og:
+  title: "How to Format JSON From Your Clipboard in Chrome"
+  description: "Learn how to format messy JSON from your clipboard in Chrome using built-in tools and extensions. Step-by-step guide with screenshots."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/how-to-format-json-from-clipboard/"
+  image: "https://og-image.vercel.app/How%20to%20Format%20JSON%20From%20Your%20Clipboard%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You copy what looks like garbled JSON data from an API response, and now you need to actually read it. Here's exactly how to format json from clipboard in Chrome using the browser's built-in developer tools. This saves developers an average of **12 minutes** per debugging session compared to hunting for online JSON formatters.

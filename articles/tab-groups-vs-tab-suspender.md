@@ -1,6 +1,9 @@
+[2026-03-18 14:47:07] [m15]   Title too long: 62 chars (max 60)
+[2026-03-18 14:47:26] [m15]   Title shortened: "Tab Groups vs Tab Suspender: Full Comparison" (44 chars)
+[2026-03-18 14:47:26] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "Chrome Tab Groups vs Tab Suspender Extensions: Full Comparison"
+title: "Tab Groups vs Tab Suspender: Full Comparison"
 description: "Chrome's Memory Saver falls short for power users. Compare 6 top tab management extensions including groups vs suspender approaches for better performance."
 date: 2026-03-18
 last_modified_at: 2026-03-18

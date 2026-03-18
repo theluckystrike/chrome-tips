@@ -12,6 +12,7 @@ target_keyword: "how to learn french while browsing"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-learn-french-while-browsing/
 ---
 
 You're scrolling through your favorite websites when it hits you - why not turn this time into French practice? Learning **how to learn french while browsing** transforms your daily internet habits into language immersion sessions. Studies show that adults need 600-1,200 hours of exposure to reach conversational fluency, making every browsing minute count.

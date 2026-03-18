@@ -12,6 +12,7 @@ target_keyword: "chrome page unresponsive fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
+canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-unresponsive-page-fix/
 ---
 
 Watching Chrome freeze mid-presentation is infuriating. If you're seeing Chrome's 'page unresponsive' error, the fastest chrome page unresponsive fix is closing the problematic tab with Shift+Ctrl+Delete on Windows or Shift+Cmd+Delete on Mac. This happens when a single tab consumes too much memory or CPU, blocking Chrome's entire process. This guide covers immediate fixes, root causes, and a permanent solution.

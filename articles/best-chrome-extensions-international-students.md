@@ -1,7 +1,10 @@
+[2026-03-18 13:10:52] [m15]   Description too short: 141 chars (target 150-160)
+[2026-03-18 13:11:49] [m15]   Description rewritten: 155 chars
+[2026-03-18 13:11:58] [m15]   WARNING: Thin keyword usage: 0 occurrences (target 3-7)
 ---
 layout: default
 title: "Best Chrome Extensions for International Students"
-description: "Discover the 7 best Chrome extensions for international students in 2026. Language tools, productivity boosters, and academic helpers tested."
+description: "Discover the best chrome extensions international students use for studying abroad—boost productivity, save time, and ace exams. Get your free guide today!"
 date: 2026-03-14
 last_modified_at: 2026-03-14
 permalink: /best-chrome-extensions-international-students/

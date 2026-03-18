@@ -24,6 +24,17 @@ faq:
     a: "The quickest way to pretty print JSON is clicking the \"Format\" button in the Response tab of any API request in Chrome DevTools. You can also press Ctrl+Shift+P to open the command palette and search for \"Pretty Print\" to format the raw response. This instantly converts garbled one-line JSON into readable formatted code with proper indentation and line breaks, making debugging significantly easier."
   - q: "How do I stop JSON from appearing as garbled text in Chrome?"
     a: "To stop JSON from appearing garbled, you need to manually format it each time using Chrome DevTools or install a browser extension for automatic formatting. Since Chrome doesn't automatically detect JSON content types and apply formatting, developers must rely on the \"Format\" button or Pretty Print feature. Zovo suggests extensions like JSONView for permanent solutions that format JSON automatically whenever you visit an API endpoint."
+image: "https://og-image.vercel.app/JSON%20API%20Response%20Looks%20Garbled%20in%20Chrome%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "JSON API Response Looks Garbled in Chrome Fix"
+  description: "Fix garbled JSON API responses in Chrome with manual methods and JSON Formatter Pro extension. Working solutions for developers."
+og:
+  title: "JSON API Response Looks Garbled in Chrome Fix"
+  description: "Fix garbled JSON API responses in Chrome with manual methods and JSON Formatter Pro extension. Working solutions for developers."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/json-api-response-garbled-chrome/"
+  image: "https://og-image.vercel.app/JSON%20API%20Response%20Looks%20Garbled%20in%20Chrome%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Staring at unreadable JSON data in Chrome's Network tab ruins your debugging flow. If your json api response garbled chrome issue is blocking development work, the fastest fix is enabling proper JSON formatting in Chrome DevTools. The root cause is Chrome's default raw response display that doesn't automatically format JSON content. This article covers manual fixes and a permanent solution using browser extensions.

@@ -23,6 +23,17 @@ faq:
     a: "To clear Chrome's cache and potentially fix JSON parse errors, press Ctrl+Shift+Delete on Windows or Cmd+Shift+Delete on Mac. This opens the Clear browsing data dialog. Select \"All time\" as the time range, check the box for \"Cached images and files,\" then click Clear data. Restart Chrome after clearing to apply changes. This removes corrupted cached data that may be interfering with JSON parsing."
   - q: "Why are trailing commas causing JSON errors in Chrome?"
     a: "Chrome's JSON parser strictly follows RFC 8259 standards, which explicitly forbid trailing commas in objects and arrays. Unlike some parsers that tolerate trailing commas, Chrome rejects them entirely, causing immediate parse failures. If your JSON contains trailing commas, remove them to fix the error. This is one of the most common reasons developers see JSON parse errors in Chrome but not in other browsers.
+image: "https://og-image.vercel.app/JSON%20Parse%20Error%20in%20Chrome%3A%20Common%20Causes%20and%20Fixes.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "JSON Parse Error in Chrome: Common Causes and Fixes"
+  description: "Fix Chrome JSON parse errors instantly with proven solutions. Step-by-step guide to resolve parsing issues and prevent future errors."
+og:
+  title: "JSON Parse Error in Chrome: Common Causes and Fixes"
+  description: "Fix Chrome JSON parse errors instantly with proven solutions. Step-by-step guide to resolve parsing issues and prevent future errors."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/json-parse-error-chrome-fix/"
+  image: "https://og-image.vercel.app/JSON%20Parse%20Error%20in%20Chrome%3A%20Common%20Causes%20and%20Fixes.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Your API request just failed with a cryptic JSON parsing error. The fastest json parse error chrome fix is clearing your browser cache and checking for malformed JSON syntax in your request payload. Chrome's strict JSON validation often rejects data that other browsers might accept. This article covers the root causes of Chrome JSON parsing failures and provides step-by-step solutions that actually work.

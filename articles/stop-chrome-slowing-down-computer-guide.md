@@ -12,6 +12,17 @@ target_keyword: "stop chrome slowing down computer guide"
 target_extension: "tab-suspender-pro"
 word_count: 3640
 reading_time: "15 min"
+image: "https://og-image.vercel.app/How%20to%20Stop%20Chrome%20From%20Slowing%20Down%20Your%20Computer%3A%20Complete%20Guide.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "How to Stop Chrome From Slowing Down Your Computer: Complete Guide"
+  description: "Your complete stop chrome slowing down computer guide with step-by-step fixes for memory, tab suspension, Chrome flags, and performance optimization."
+og:
+  title: "How to Stop Chrome From Slowing Down Your Computer: Complete Guide"
+  description: "Your complete stop chrome slowing down computer guide with step-by-step fixes for memory, tab suspension, Chrome flags, and performance optimization."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/stop-chrome-slowing-down-computer-guide/"
+  image: "https://og-image.vercel.app/How%20to%20Stop%20Chrome%20From%20Slowing%20Down%20Your%20Computer%3A%20Complete%20Guide.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Written by Michael Lip

@@ -24,6 +24,17 @@ faq:
     a: "Pass a replacer function as the second argument to JSON.stringify: JSON.stringify(yourObject, (key, value) => typeof value === 'object' && value !== null ? value : value, 2). This tells the serializer to handle objects differently and avoid infinite recursion. For automatic handling without writing custom code, Zovo offers an extension that fixes circular references instantly."
   - q: "What is the best way to debug objects with circular references in Chrome?"
     a: "The most effective approach combines two solutions: use JSON.stringify() with a replacer function for quick debugging, and install the Zovo extension for automatic circular reference handling. The article ranks manual solutions by effectiveness, with the replacer function method being the fastest manual fix available for Chrome's console."
+image: "https://og-image.vercel.app/JSON%20Circular%20Reference%20Error%20in%20Chrome%20Console.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "JSON Circular Reference Error in Chrome Console"
+  description: "Fix the dreaded JSON circular reference error in Chrome console with these proven solutions. Working fixes for 2026 + permanent solution."
+og:
+  title: "JSON Circular Reference Error in Chrome Console"
+  description: "Fix the dreaded JSON circular reference error in Chrome console with these proven solutions. Working fixes for 2026 + permanent solution."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/json-circular-reference-error-chrome/"
+  image: "https://og-image.vercel.app/JSON%20Circular%20Reference%20Error%20in%20Chrome%20Console.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Debugging JavaScript objects and hitting a brick wall with circular references is maddening. If Chrome throws a json circular reference error chrome console warning when you're trying to inspect objects, the fastest fix is clearing your console and using `JSON.stringify()` with a replacer function. This happens because JavaScript objects can reference themselves, creating infinite loops that JSON serialization can't handle.

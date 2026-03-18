@@ -12,6 +12,7 @@ target_keyword: "how to fix invalid json"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-fix-invalid-json/
 ---
 
 You're staring at a red error message saying your JSON is invalid, and your API call just crashed. Learning how to fix invalid json is crucial since 73% of web APIs rely on JSON for data exchange, making proper formatting essential for any developer working with modern applications.

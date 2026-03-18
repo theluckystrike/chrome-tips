@@ -35,6 +35,7 @@ faq:
     a: "Manual scrolling through thousands of lines of JSON data is extremely time-consuming and error-prone. Browser-based filtering lets you target exact values instantly using JavaScript expressions, saving hours of work. According to Zovo's testing methodology from March 2026, developers can locate specific data points in seconds rather than minutes. This is especially valuable when debugging API responses or searching through complex configuration files with nested structures."
   - q: "How do I parse a JSON string before filtering in Chrome console?"
     a: "Wrap your JSON string with `JSON.parse()` to convert it into a usable JavaScript object. For example: `let users = JSON.parse('[{\"name\": \"John\"}, {\"name\": \"Jane\"}]')`. Once parsed, the data becomes a standard JavaScript object with full array methods available. If you paste raw JSON object notation directly into the console, you can skip parsing and assign it directly to a variable for immediate filtering operations."
+internal_links_added: true
 ---
 
 You're staring at a massive JSON response in your browser, trying to find one specific piece of data buried somewhere in thousands of lines. Learning how to filter JSON data browser workflows can save you hours of manual scrolling and searching through complex API responses, configuration files, and debugging sessions.
@@ -83,7 +84,7 @@ Combine filter operations with other array methods for powerful data manipulatio
 
 Open the **Network** tab in Chrome Developer Tools before making API requests. When you refresh the page or trigger an API call, you'll see all network requests listed. Click on any request to view its response data in the **Response** tab.
 
-The Network tab includes built-in search functionality. Use Ctrl+F (Cmd+F on Mac) to open the search box and look for specific JSON properties or values within response bodies. Chrome highlights all matching instances across different requests.
+The Network tab includes built-in search functionality. Use Ctrl+F (Cmd+F on Mac) to open the search box and look for specific JSON properties or values within response bodies. Chrome highlights all matching instances across different requests. If you're building offline-capable applications, understanding how [Chrome Background Sync](/chrome-tips/chrome-background-sync-explained) handles deferred network requests can help you design more resilient API workflows that sync data when connectivity returns.
 
 > "JSON is a text-based data format following JavaScript object syntax. Even though it closely resembles JavaScript object literal syntax, it can be used independently from JavaScript." Source: [Working with JSON - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
 

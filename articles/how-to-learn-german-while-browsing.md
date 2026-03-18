@@ -13,6 +13,17 @@ target_extension: "belikenative"
 word_count: 1285
 reading_time: 5
 canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-learn-german-while-browsing/
+image: "https://og-image.vercel.app/How%20to%20Learn%20German%20While%20Browsing%20the%20Web.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "How to Learn German While Browsing the Web"
+  description: "Learn how to learn german while browsing with Chrome's built-in translator and 5 proven browser techniques that turn any website into your German classroom."
+og:
+  title: "How to Learn German While Browsing the Web"
+  description: "Learn how to learn german while browsing with Chrome's built-in translator and 5 proven browser techniques that turn any website into your German classroom."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/how-to-learn-german-while-browsing/"
+  image: "https://og-image.vercel.app/How%20to%20Learn%20German%20While%20Browsing%20the%20Web.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 You're scrolling through a German news site and suddenly realize you understand more than you thought you would. Learning how to learn german while browsing transforms every website visit into a language lesson, turning your daily internet habits into a powerful study method. Studies show that immersive reading increases vocabulary retention by 67% compared to traditional flashcard methods.

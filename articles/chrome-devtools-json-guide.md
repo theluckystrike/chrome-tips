@@ -12,6 +12,17 @@ target_keyword: "chrome devtools json guide"
 target_extension: "json-formatter-pro"
 word_count: 3580
 reading_time: "14 min"
+image: "https://og-image.vercel.app/Chrome%20DevTools%20for%20JSON%3A%20Everything%20You%20Need%20to%20Know.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+twitter:
+  card: summary_large_image
+  title: "Chrome DevTools for JSON: Everything You Need to Know"
+  description: "Your complete chrome devtools json guide to inspecting and debugging JSON data. Covers techniques, performance, common fixes, and the best extensions."
+og:
+  title: "Chrome DevTools for JSON: Everything You Need to Know"
+  description: "Your complete chrome devtools json guide to inspecting and debugging JSON data. Covers techniques, performance, common fixes, and the best extensions."
+  type: article
+  url: "https://theluckystrike.github.io/chrome-tips/chrome-devtools-json-guide/"
+  image: "https://og-image.vercel.app/Chrome%20DevTools%20for%20JSON%3A%20Everything%20You%20Need%20to%20Know.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
 Chrome DevTools gives you everything you need to inspect, debug, and manipulate JSON data without leaving your browser. This chrome devtools json guide covers every panel, shortcut, and technique for working with JSON payloads, from basic Network response previews to advanced Console transformations. JSON is the dominant data interchange format for web APIs. Every modern REST endpoint, most GraphQL responses, and nearly all browser storage mechanisms depend on it. That makes JSON inspection one of the most frequent tasks in any web developer's day.

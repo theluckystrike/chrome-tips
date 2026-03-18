@@ -24,6 +24,17 @@ og:
   type: article
   url: "https://theluckystrike.github.io/chrome-tips/how-to-translate-social-media-posts-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Translate%20Social%20Media%20Posts%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
+faq:
+  - q: "How do I translate social media posts in Chrome?"
+    a: "Chrome offers multiple built-in methods to translate social media posts. You can right-click any highlighted text and select \"Translate to English,\" use the keyboard shortcut Ctrl+Shift+T (Windows) or Cmd+Shift+T (Mac), or enable automatic page translation in Settings > Languages. Chrome detects the source language within 2-3 seconds and displays a translation bar. Extensions like Zovo provide additional persistent translation features for frequent social media users."
+  - q: "How do I enable automatic page translation in Chrome?"
+    a: "Navigate to chrome://settings/languages in your address bar to enable automatic translation. Click \"Add languages\" to specify which languages you want Chrome to automatically detect and translate. When you visit Facebook, Instagram, Twitter, or TikTok posts in foreign languages, Chrome will show a translation bar at the top of your browser window with options to translate now or always translate that language."
+  - q: "What is the keyboard shortcut for translation in Chrome?"
+    a: "The keyboard shortcut for instant translation in Chrome is Ctrl+Shift+T on Windows or Cmd+Shift+T on Mac. This works across any webpage including social media platforms like Facebook, Instagram, Twitter, and TikTok. The shortcut triggers Chrome's built-in translator to convert the page content to your default language without needing to access settings or use context menus."
+  - q: "How do I translate specific text on Instagram using Chrome?"
+    a: "To translate specific text on Instagram, simply highlight the foreign language text by clicking and dragging, then right-click and select \"Translate to English\" from the context menu. Chrome will instantly translate the selected text. This method works across all social media platforms and doesn't require enabling any settings. For users who need persistent translation features, extensions like Zovo offer dedicated tools for seamless social media translation."
+  - q: "Why does Chrome take time to detect language on social media posts?"
+    a: "Chrome analyzes text content and determines the source language within 2-3 seconds using its built-in AI translation API. This detection happens in real-time as the page loads, and Chrome will then display a \"Translate this page?\" prompt with options. The delay allows Chrome to accurately identify the source language before offering translation, ensuring you get the correct translation for posts in Spanish, French, German, or other languages on your social media feeds."
 ---
 
 You scroll through Instagram and find an amazing recipe in Spanish, but your high school language skills aren't cutting it. Here's exactly how to translate social media posts in Chrome using built-in browser features and smart extensions. This saves you from copying text to Google Translate 47 times per day.

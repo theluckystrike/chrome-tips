@@ -79,25 +79,21 @@ This forces Chrome to re-analyze the page language from scratch on the next visi
 
 ### Fix 5: Force Language via Developer Tools
 
-For testing purposes or one-time fixes on pages with incorrect HTML lang attributes, you can manually correct the attribute. Press F12 to open Developer Tools, go to the Elements tab, find the opening html tag, right-click it, and select "Edit attribute."
+For testing purposes or one-time fixes on pages with incorrect HTML lang attributes, you can manually correct the attribute. Press F12 to open Developer Tools, go to the Elements tab, find the opening `<html>` tag, right-click it, and select "Edit attribute."
 
 Change the lang attribute to the correct two-letter language code: es for Spanish, fr for French, de for German, pt for Portuguese, it for Italian, zh for Chinese. Press Enter, then refresh the page. Chrome will re-detect based on the corrected attribute.
 
-This fix resets when you navigate away or perform a hard refresh. Use it to verify correct detection behavior before implementing other permanent solutions.
+This fix resets when you navigate away or refresh hard. Use it to verify correct detection behavior before implementing other permanent solutions.
 
 ## Quick Fix Summary
 
 | Symptom | Cause | Fix |
 |---------|-------|-----|
 | Chrome offers to translate the wrong source language | Incorrect HTML lang attribute | Override source language in the translation bar |
-| Chrome does not offer translation on obvious foreign pages | Incorrect HTML lang attribute declaring page as your language | Force translation via right-click context menu |
+| Chrome does not offer translation at all on foreign pages | Incorrect HTML lang attribute declaring page as your language | Force translation via right-click context menu |
 | Chrome misidentifies language on mixed-language pages | Navigation menus in a different language than body text | Override source language manually; consider disabling auto-detect |
 | Translation bar appears but uses wrong source language | Insufficient unique text for reliable detection | Override source language in the translation bar |
 | Same site always misdetected | Cached wrong language association | Clear site entry from chrome://settings/content/automaticTranslation |
-
-> "For multilingual websites with mixed navigation and content languages, manually specifying the translation source language is more reliable than Chrome's automatic detection, which samples only early page content."
->
-> Source: [How to Fix Google Chrome Translate Not Working - Make Tech Easier](https://www.maketecheasier.com/how-to-fix-google-chrome-translate-not-working/), maketecheasier.com
 
 ## When to Try Alternative Solutions
 
@@ -117,7 +113,7 @@ BeLikeNative also lets you translate selected text on demand, which sidesteps th
 
 **Why does Google Translate detect the wrong language?**
 
-Chrome's detection algorithm relies on character frequency analysis applied to a limited text sample from the beginning of the page. When that sample contains mixed languages, an incorrect HTML lang attribute, or too little text for statistical confidence, the detection is wrong. The fix is always to override the source language manually in the translation bar.
+Chrome's detection algorithm relies on character frequency analysis applied to a limited text sample from the beginning of the page. When that sample contains mixed languages (navigation in English, content in French), an incorrect HTML lang attribute, or too little text for statistical confidence, the detection is wrong. The fix is always to override the source language manually in the translation bar.
 
 **How do I force Chrome to translate a page in a specific language?**
 

@@ -71,7 +71,7 @@ Tab Suspender Pro uses Chrome's sync storage API, which survives browser updates
 
 ### Ecosystem Longevity
 
-The Great Suspender in its original form is defunct. The forks are community-maintained, updated irregularly, and require manual installation from GitHub. Tab Suspender Pro ships updates through the Chrome Web Store, goes through Google's review process, and has an active maintainer pushing fixes in 2026. For a background tool you rely on daily, that difference in support infrastructure matters considerably.
+The Great Suspender in its original form is defunct. The forks are community-maintained, updated irregularly, and require manual installation from GitHub. Tab Suspender Pro ships updates through the Chrome Web Store, goes through Google's review process, and has an active maintainer pushing fixes in 2026. For a background tool you rely on daily, that difference in support infrastructure matters.
 
 ## When to Choose Each
 
@@ -106,7 +106,7 @@ A tab suspender replaces inactive tabs with lightweight placeholder pages, freei
 
 **Is Tab Suspender Pro safe to use?**
 
-Yes. Tab Suspender Pro is available on the Chrome Web Store, is actively maintained in 2026, and requests only the permissions necessary for its function. The Great Suspender was removed by Google after malware was detected following an ownership change.
+Yes. Tab Suspender Pro is available on the Chrome Web Store, is actively maintained in 2026, and requests only the permissions necessary for its function. The Great Suspender, by contrast, was removed by Google after malware was detected following an ownership change.
 
 **How much memory does Tab Suspender Pro save?**
 

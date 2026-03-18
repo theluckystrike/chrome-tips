@@ -67,7 +67,7 @@ If translation works in incognito but not in regular browsing, an extension is c
 
 ### Step 6: Check JavaScript Settings
 
-Chrome's translation feature relies on JavaScript. If JavaScript is disabled for a site or globally, translation will not work. Go to Settings, then Privacy and Security, then Site Settings, then JavaScript. Confirm it is set to "Sites can use JavaScript." Also check the "Not allowed" list to see if the site you are trying to translate has been explicitly blocked.
+Chrome's translation feature relies on JavaScript. If JavaScript is disabled for a site or globally, translation will not work. Go to Settings, then Privacy and Security, then Site Settings, then JavaScript. Confirm it is set to "Sites can use JavaScript." Also check the "Not allowed" list to see if the site you are trying to translate has been explicitly blocked from running JavaScript.
 
 ### Step 7: Clear the Translation Cache
 
@@ -98,17 +98,9 @@ Chrome's built-in translation system routes requests through Google's translate.
 
 Corporate networks are a common culprit. Many enterprise firewall configurations block Google API endpoints to control outbound data flow. If Chrome translate stopped working after you joined a new network or connected to a VPN, network-level blocking is the likely cause.
 
-> "Chrome translate failures often stem from network-level restrictions rather than browser configuration issues, particularly in corporate and enterprise environments where outbound API calls are filtered."
->
-> Source: [Fix Chrome Translate Not Working on PC and Mobile 2025](https://watranslator.com/how-to-fix-chrome-translate-not-working/), watranslator.com
-
 ## When to Try Alternative Solutions
 
 If Chrome's built-in translate consistently fails in your environment, a third-party extension like BeLikeNative provides translation that does not depend on Chrome's internal translation service. BeLikeNative uses its own API connections and language detection, which means it works in environments where Chrome's native translation is blocked.
-
-> "Third-party translation extensions that maintain independent API infrastructure remain functional in environments where Chrome's built-in translate is restricted by network policy or security settings."
->
-> Source: [5 Best Ways to Fix Google Chrome Translate Not Working](https://www.guidingtech.com/fix-google-chrome-translate-not-working/), guidingtech.com
 
 BeLikeNative also adds features Chrome's native translation lacks, including text selection translation for any portion of a page, paraphrasing suggestions, and writing assistance.
 
@@ -118,7 +110,7 @@ BeLikeNative also adds features Chrome's native translation lacks, including tex
 
 **Why doesn't Chrome translate work in incognito mode?**
 
-Chrome's built-in translate works in incognito by default, since it is a native browser feature rather than an extension. Third-party translation extensions are disabled in incognito unless you explicitly enable them for that mode. If Chrome's native translate is failing in incognito, check that the "Offer to translate" setting is enabled in Settings.
+Chrome's built-in translate works in incognito by default, since it is a native browser feature rather than an extension. However, third-party translation extensions are disabled in incognito unless you explicitly enable them for that mode. If Chrome's native translate is also failing in incognito, check that the "Offer to translate" setting is enabled.
 
 **Why does translation work on some sites but not others?**
 

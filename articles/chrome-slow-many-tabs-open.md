@@ -12,7 +12,7 @@ target_keyword: "chrome slow many tabs open"
 target_extension: "tab-suspender-pro"
 word_count: 1200
 reading_time: 5
-canonical_url: "https://zovo.one/chrome-slow-many-tabs-open/"
+canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-slow-many-tabs-open/"
 ---
 
 Chrome slowing down with many tabs open is one of the most common browser complaints, and it has a direct technical cause: Chrome runs each tab in its own process, meaning 30 open tabs can mean 10 to 15 active renderer processes competing for the same CPU and RAM. On a machine with 8GB of RAM, this adds up fast. The fastest fix is enabling Memory Saver in Chrome's performance settings, which immediately reclaims memory from inactive tabs without closing them. This guide covers everything from quick wins to permanent solutions.

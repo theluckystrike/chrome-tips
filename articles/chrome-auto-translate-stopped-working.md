@@ -12,7 +12,7 @@ target_keyword: "chrome auto translate stopped working"
 target_extension: "belikenative"
 word_count: 1280
 reading_time: 6
-canonical_url: "https://zovo.one/chrome-auto-translate-stopped-working/"
+canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-auto-translate-stopped-working/"
 ---
 
 # Chrome Auto-Translate Stopped Working: How to Fix

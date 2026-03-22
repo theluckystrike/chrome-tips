@@ -12,7 +12,7 @@ target_keyword: "chrome can't open json files"
 target_extension: "json-formatter-pro"
 word_count: 1255
 reading_time: 6
-canonical_url: "https://zovo.one/chrome-cant-open-json-files/"
+canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-cant-open-json-files/"
 ---
 
 Chrome blocks local JSON files by default because its same-origin security policy prevents local file URLs (`file://`) from running scripts that would format the content. When you drag a `.json` file into Chrome or open one from Finder or Explorer, Chrome displays the raw text without any formatting, or in some cases shows a security error. The fastest workaround is launching Chrome with the `--allow-file-access-from-files` flag, which lifts the local file restriction for that session. The permanent solution is installing a JSON viewer extension that handles the permission escalation automatically.

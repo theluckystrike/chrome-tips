@@ -12,7 +12,7 @@ target_keyword: "best free json formatters chrome"
 target_extension: "json-formatter-pro"
 word_count: 1280
 reading_time: 6
-canonical_url: "https://zovo.one/best-free-json-formatters-chrome/"
+canonical_url: "https://theluckystrike.github.io/chrome-tips/best-free-json-formatters-chrome/"
 ---
 
 # Best Free JSON Formatters for Chrome: 2026 Guide

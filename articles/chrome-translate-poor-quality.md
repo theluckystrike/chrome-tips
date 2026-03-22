@@ -12,7 +12,7 @@ target_keyword: "chrome translate poor quality"
 target_extension: "belikenative"
 word_count: 1225
 reading_time: 5
-canonical_url: "https://zovo.one/chrome-translate-poor-quality/"
+canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-poor-quality/"
 ---
 
 Chrome's built-in translator produces poor-quality output because it runs a compressed language model stored locally in your browser profile rather than routing through Google's full neural servers. That local model is typically 12 to 18 months behind the current Google Translate algorithms. For casual browsing this is fine, but for anything that requires accurate idiom handling, technical vocabulary, or nuanced tone, the gap is noticeable. The fastest improvement is forcing Chrome to use server-side translation by clearing the translation cache, then switching to the "right-click and translate selection" flow, which routes text through Google's live infrastructure instead of the cached local model.

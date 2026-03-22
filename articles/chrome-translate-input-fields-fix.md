@@ -12,7 +12,7 @@ target_keyword: "chrome translate input fields fix"
 target_extension: "belikenative"
 word_count: 1200
 reading_time: 5
-canonical_url: "https://zovo.one/chrome-translate-input-fields-fix/"
+canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-input-fields-fix/"
 ---
 
 Chrome's translation feature ignores input fields and form elements by design. The built-in translator processes static text content in HTML paragraphs, headings, and spans, but it does not apply the same translation pass to interactive elements like text inputs, textareas, or dropdown labels that load dynamically. If you are trying to fill out a form on a foreign-language site and Chrome is not translating those fields, the chrome translate input fields fix is to enable Enhanced spell check in Chrome settings, which unlocks right-click translation for form elements. This article covers all four effective approaches.

@@ -12,7 +12,7 @@ target_keyword: "belikenative vs rosetta stone extension"
 target_extension: "belikenative"
 word_count: 1270
 reading_time: 6
-canonical_url: "https://zovo.one/belikenative-vs-rosetta-stone/"
+canonical_url: "https://theluckystrike.github.io/chrome-tips/belikenative-vs-rosetta-stone/"
 ---
 
 # BeLikeNative vs Rosetta Stone: Honest 2026 Comparison

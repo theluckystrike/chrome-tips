@@ -12,7 +12,7 @@ target_keyword: "chrome translate not working specific site"
 target_extension: "belikenative"
 word_count: 1235
 reading_time: 5
-canonical_url: "https://zovo.one/chrome-translate-not-working-specific-site/"
+canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-not-working-specific-site/"
 ---
 
 When Chrome translates most websites correctly but refuses to translate one specific site, the cause is almost always a cached "never translate" preference or a site-level block stored in Chrome's profile data. The fix: go to `chrome://settings/languages`, scroll to the "Sites that will never be translated" section, find the domain, and remove it. After removing it, hard-refresh the page with `Ctrl+Shift+R` (Windows) or `Cmd+Shift+R` (Mac) and the translate bar should reappear within three seconds.

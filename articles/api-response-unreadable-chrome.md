@@ -12,7 +12,7 @@ target_keyword: "api response unreadable chrome"
 target_extension: "json-formatter-pro"
 word_count: 1180
 reading_time: 5
-canonical_url: "https://zovo.one/api-response-unreadable-chrome/"
+canonical_url: "https://theluckystrike.github.io/chrome-tips/api-response-unreadable-chrome/"
 ---
 
 When an API response shows up as unreadable in Chrome, the problem is almost always one of three things: missing Content-Type headers, a response size that blows past DevTools' formatting limit, or an extension interfering with Chrome's built-in JSON renderer. The good news is that each of these has a direct fix, and for most developers the issue resolves in under two minutes. This guide covers every cause and every fix, ordered by how often each one actually solves the problem.

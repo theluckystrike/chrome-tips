@@ -1,6 +1,3 @@
-[2026-03-18 13:57:00] [m15]   Description too short: 123 chars (target 150-160)
-[2026-03-18 13:57:16] [m15]   Description rewritten: 149 chars
-[2026-03-18 13:57:16] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Chrome 'Aw, Snap!' Error: Causes and Solutions"

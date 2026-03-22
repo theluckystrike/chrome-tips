@@ -1,6 +1,3 @@
-[2026-03-18 14:47:07] [m15]   Title too long: 62 chars (max 60)
-[2026-03-18 14:47:26] [m15]   Title shortened: "Tab Groups vs Tab Suspender: Full Comparison" (44 chars)
-[2026-03-18 14:47:26] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Tab Groups vs Tab Suspender: Full Comparison"

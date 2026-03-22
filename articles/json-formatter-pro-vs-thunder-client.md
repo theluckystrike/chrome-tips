@@ -1,6 +1,3 @@
-[2026-03-13 11:00:29] [m15]   Title too long: 62 chars (max 60)
-[2026-03-13 11:00:38] [m15]   Title shortened: "JSON Formatter Pro vs Thunder Client: 2026 Showdown" (51 chars)
-[2026-03-13 11:00:38] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON Formatter Pro vs Thunder Client: 2026 Showdown"

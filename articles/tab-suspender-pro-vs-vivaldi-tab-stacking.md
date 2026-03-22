@@ -1,8 +1,3 @@
-[2026-03-18 13:52:00] [m15]   Title too long: 67 chars (max 60)
-[2026-03-18 13:52:08] [m15]   Title shortened: "Tab Suspender Pro vs Vivaldi Tab Stacking: 2026" (47 chars)
-[2026-03-18 13:52:09] [m15]   Description too short: 149 chars (target 150-160)
-[2026-03-18 13:52:30] [m15]   Description rewritten: 142 chars
-[2026-03-18 13:52:31] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Tab Suspender Pro vs Vivaldi Tab Stacking: 2026"

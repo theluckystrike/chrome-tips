@@ -1,6 +1,3 @@
-[2026-03-14 09:23:49] [m15]   Description too short: 141 chars (target 150-160)
-[2026-03-14 09:24:13] [m15]   Description rewritten: 144 chars
-[2026-03-14 09:24:13] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Simple Translate Alternatives for Chrome Users"

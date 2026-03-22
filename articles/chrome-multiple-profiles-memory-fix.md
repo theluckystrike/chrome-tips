@@ -1,6 +1,3 @@
-[2026-03-18 13:46:48] [m15]   Description too short: 133 chars (target 150-160)
-[2026-03-18 13:47:00] [m15]   Description rewritten: 167 chars
-[2026-03-18 13:47:01] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Chrome Using Too Much Memory With Multiple Profiles"

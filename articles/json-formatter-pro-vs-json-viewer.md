@@ -1,6 +1,3 @@
-[2026-03-13 08:01:50] [m15]   Description too short: 146 chars (target 150-160)
-[2026-03-13 08:02:06] [m15]   Description rewritten: 144 chars
-[2026-03-13 08:02:06] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON Formatter Pro vs JSON Viewer: Which Is Better in 2026?"

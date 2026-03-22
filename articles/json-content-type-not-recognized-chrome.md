@@ -1,6 +1,3 @@
-[2026-03-13 19:24:19] [m15]   Description too short: 120 chars (target 150-160)
-[2026-03-13 19:24:29] [m15]   Description rewritten: 147 chars
-[2026-03-13 19:24:29] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON Content-Type Not Recognized by Chrome"

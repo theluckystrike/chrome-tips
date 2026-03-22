@@ -1,6 +1,3 @@
-[2026-03-18 13:56:40] [m15]   Description too short: 148 chars (target 150-160)
-[2026-03-18 13:56:57] [m15]   Description rewritten: 145 chars
-[2026-03-18 13:56:57] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "BeLikeNative vs Language Reactor: Honest 2026 Comparison"

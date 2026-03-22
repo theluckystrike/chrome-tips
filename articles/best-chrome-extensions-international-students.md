@@ -1,6 +1,3 @@
-[2026-03-18 13:10:52] [m15]   Description too short: 141 chars (target 150-160)
-[2026-03-18 13:11:49] [m15]   Description rewritten: 155 chars
-[2026-03-18 13:11:58] [m15]   WARNING: Thin keyword usage: 0 occurrences (target 3-7)
 ---
 layout: default
 title: "Best Chrome Extensions for International Students"

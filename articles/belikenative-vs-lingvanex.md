@@ -1,6 +1,3 @@
-[2026-03-18 13:55:30] [m15]   Description too short: 148 chars (target 150-160)
-[2026-03-18 13:56:32] [m15]   Description rewritten: 155 chars
-[2026-03-18 13:56:34] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "BeLikeNative vs Lingvanex: Honest 2026 Comparison"

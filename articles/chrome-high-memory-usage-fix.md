@@ -1,6 +1,3 @@
-[2026-03-13 18:44:58] [m15]   Description too short: 135 chars (target 150-160)
-[2026-03-13 18:45:19] [m15]   Description rewritten: 155 chars
-[2026-03-13 18:45:19] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Chrome High Memory Usage: 7 Ways to Fix It in 2026"

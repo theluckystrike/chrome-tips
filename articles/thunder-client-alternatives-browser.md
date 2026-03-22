@@ -1,6 +1,3 @@
-[2026-03-14 09:24:17] [m15]   Description too long: 167 chars (target 150-160)
-[2026-03-14 09:24:23] [m15]   Description rewritten: 143 chars
-[2026-03-14 09:24:23] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Thunder Client Alternatives: API Testing in the Browser"

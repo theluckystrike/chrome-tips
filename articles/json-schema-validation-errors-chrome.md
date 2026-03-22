@@ -1,6 +1,3 @@
-[2026-03-13 19:48:02] [m15]   Description too short: 148 chars (target 150-160)
-[2026-03-13 19:48:44] [m15]   Description rewritten: 153 chars
-[2026-03-13 19:48:44] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "JSON Schema Validation Errors in Chrome: Debug Guide"

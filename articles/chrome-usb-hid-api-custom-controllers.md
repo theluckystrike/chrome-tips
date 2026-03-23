@@ -59,7 +59,7 @@ device.addEventListener('inputreport', (event) => {
 });
 ```
 
-Building Robust Controller Support
+Building solid Controller Support
 
 When implementing custom controller support, error handling becomes critical. USB connections can fail unexpectedly due to cable issues, device disconnections, or power management interventions. Your application should gracefully handle these scenarios and provide clear feedback to users.
 

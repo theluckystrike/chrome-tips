@@ -90,7 +90,7 @@ Common causes of scroll jank include JavaScript event handlers that take too lon
 
 One particularly useful technique is to combine scroll performance visualization with Paint Flashing. When you see areas lighting up with green paint highlights during scrolling, those elements are causing Chrome to perform expensive repaint operations on every scroll frame. This is a clear sign that those elements need to be optimized, either by being removed, repositioned, or rendered differently.
 
-For developers, optimizing scroll performance typically involves using passive event listeners for scroll-related events, avoiding layout-triggering CSS properties in scroll handlers, using CSS transforms instead of changing positions, and leveraging hardware acceleration where appropriate. The Rendering Panel provides immediate feedback about whether these optimizations are working.
+For developers, optimizing scroll performance typically involves using passive event listeners for scroll-related events, avoiding layout-triggering CSS properties in scroll handlers, using CSS transforms instead of changing positions, and using hardware acceleration where appropriate. The Rendering Panel provides immediate feedback about whether these optimizations are working.
 
 Practical Applications and Use Cases
 

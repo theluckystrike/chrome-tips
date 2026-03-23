@@ -65,7 +65,7 @@ Image optimization is often the biggest win for website speed. Large, unoptimize
 
 Minify and compress your resources. CSS, JavaScript, and HTML files often contain unnecessary whitespace and redundant code. Minification removes these without affecting functionality. Enable Gzip or Brotli compression on your web server to reduce file sizes during transmission.
 
-Leverage browser caching to reduce load times for returning visitors. Configure your server to set long cache lifetimes for assets that rarely change, like images, CSS, and JavaScript files.
+use browser caching to reduce load times for returning visitors. Configure your server to set long cache lifetimes for assets that rarely change, like images, CSS, and JavaScript files.
 
 Reduce server response time by choosing a fast hosting provider, using a content delivery network (CDN), and optimizing database queries. Your server should respond to requests within 200 milliseconds.
 

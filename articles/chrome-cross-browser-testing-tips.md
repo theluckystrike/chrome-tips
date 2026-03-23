@@ -54,7 +54,7 @@ Open DevTools and go to the Network tab. You will find a dropdown that says "No 
 
 Testing under these conditions reveals performance issues that might not be obvious on a fast desktop connection. Elements that load too slowly or scripts that block rendering become much more apparent when you simulate slower networks.
 
-Leverage the Sensors Tab for Location Testing
+use the Sensors Tab for Location Testing
 
 If your website or application has location-based features, you can test different scenarios without actually traveling. The Sensors tab in Chrome DevTools lets you override geolocation data and test how your site responds.
 

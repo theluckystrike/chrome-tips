@@ -58,7 +58,7 @@ It's also a good practice to periodically review your installed extensions and r
 
 The Security Implications
 
-When Chrome clients claim take control, security should be your primary concern. Extensions with extensive permissions have historically been targeted by attackers who find ways to exploit them. Even extensions from reputable developers can have vulnerabilities that hackers can leverage.
+When Chrome clients claim take control, security should be your primary concern. Extensions with extensive permissions have historically been targeted by attackers who find ways to exploit them. Even extensions from reputable developers can have vulnerabilities that hackers can use.
 
 The Chrome Web Store has implemented various security measures to protect users, including automated scanning for malware and policies against malicious behavior. However, these measures are not foolproof. Some malicious extensions have slipped through Google's defenses and been downloaded by millions of users before being discovered and removed.
 

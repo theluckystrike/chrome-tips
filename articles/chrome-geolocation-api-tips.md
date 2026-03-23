@@ -90,7 +90,7 @@ It's also worth noting that `watchPosition()` can continue running in the backgr
 
 If you're building a web app that tracks location, be mindful that Chrome may suspend or throttle background tabs, which can affect the frequency of location updates. Understanding how Chrome handles background tabs and adjusting your application's behavior accordingly will help maintain a consistent experience.
 
-Robust Error Handling
+solid Error Handling
 
 Error handling is a critical aspect of working with the Geolocation API. Without proper error handling, your application can appear broken or unresponsive when location requests fail. Chrome can fail to provide location data for various reasons, and your code should handle each scenario gracefully.
 

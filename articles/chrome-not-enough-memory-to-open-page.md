@@ -84,7 +84,7 @@ Final Thoughts
 
 The "chrome not enough memory to open page" error doesn't mean you need to abandon your browser or buy a new computer. By understanding what causes the problem and applying the solutions outlined above, you can get back to browsing without interruptions. Start with the quick fixes like closing tabs and restarting Chrome, then move on to enabling Memory Saver and using extensions like Tab Suspender Pro for more consistent memory management.
 
-With these tools and techniques, you can enjoy a smoother browsing experience even on machines with limited RAM. The key is being mindful of how many tabs you keep open and leveraging Chrome's built-in features to help manage memory automatically.
+With these tools and techniques, you can enjoy a smoother browsing experience even on machines with limited RAM. The key is being mindful of how many tabs you keep open and using Chrome's built-in features to help manage memory automatically.
 
 Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

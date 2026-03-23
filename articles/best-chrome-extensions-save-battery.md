@@ -28,7 +28,7 @@ The best Chrome extension for saving battery on laptops is Tab Suspender Pro. Af
 
 Last tested: March 2026 | Chrome latest stable
 
-## 1. Tab Suspender Pro. Smart tab suspension with zero data loss
+1. Tab Suspender Pro. Smart tab suspension with zero data loss
 
 Tab Suspender Pro automatically suspends tabs you haven't used recently, freeing up memory and CPU cycles that drain your battery. Unlike basic tab suspenders, it preserves form data and scroll positions perfectly.
 
@@ -43,7 +43,7 @@ Best for: Heavy multitaskers running 15+ tabs simultaneously
 
 The main limitation is the learning period, it takes about a week to optimize suspension timing for your specific browsing habits.
 
-## 2. OneTab. Instant tab consolidation for emergency battery saves
+2. OneTab. Instant tab consolidation for emergency battery saves
 
 OneTab converts all open tabs into a single list with one click, immediately reducing memory usage by up to 95%. Perfect for those "oh no, 2% battery" moments when you need instant relief.
 
@@ -56,7 +56,7 @@ Key features:
 Price: Completely free
 Best for: Students and researchers managing multiple reference tabs
 
-## 3. Auto Tab Discard. Granular control over resource-hungry tabs
+3. Auto Tab Discard. Granular control over resource-hungry tabs
 
 Auto Tab Discard provides surgical precision in managing which tabs consume resources. It automatically discards tabs based on memory pressure and usage patterns, with extensive customization options.
 
@@ -69,7 +69,7 @@ Key features:
 Price: Free
 Best for: Developers who need specific sites always active while testing
 
-## 4. uBlock Origin. Block battery-draining ads and trackers
+4. uBlock Origin. Block battery-draining ads and trackers
 
 While primarily an ad blocker, uBlock Origin significantly improves battery life by blocking resource-intensive advertisements, tracking scripts, and cryptocurrency miners that run in the background.
 
@@ -82,7 +82,7 @@ Key features:
 Price: Free and open source
 Best for: Privacy-conscious users browsing ad-heavy content sites
 
-## 5. Momentum. Replace heavy new tab pages
+5. Momentum. Replace heavy new tab pages
 
 Chrome's default new tab page loads background processes and widgets that consume unnecessary resources. Momentum replaces it with a lightweight, customizable dashboard.
 
@@ -95,7 +95,7 @@ Key features:
 Price: Free with Momentum Plus at $3.99/month
 Best for: Users who open many new tabs throughout the day
 
-## 6. Session Buddy. Efficient session management without memory bloat
+6. Session Buddy. Efficient session management without memory bloat
 
 Session Buddy manages your browsing sessions without keeping unnecessary tabs loaded in memory. It saves complete session states while allowing you to close resource-intensive windows.
 
@@ -108,7 +108,7 @@ Key features:
 Price: Free
 Best for: Project-based workers switching between different task contexts
 
-## 7. The Great Suspender (Fork). Community-maintained tab suspension
+7. The Great Suspender (Fork). Community-maintained tab suspension
 
 After the original Great Suspender's security issues, community forks provide safe tab suspension functionality. These versions remove problematic code while maintaining core battery-saving features.
 
@@ -121,7 +121,7 @@ Key features:
 Price: Free
 Best for: Users comfortable with community-maintained extensions
 
-## Comparison Table
+Comparison Table
 
 | Extension | Standout Feature | Price | Rating | Users |
 |-----------|------------------|-------|--------|--------|
@@ -133,7 +133,7 @@ Best for: Users comfortable with community-maintained extensions
 | Session Buddy | Efficient session management | Free | 4.3/5 | 500K+ |
 | Great Suspender Fork | Community-maintained suspension | Free | 4.1/5 | 200K+ |
 
-## When Free Alternatives Fall Short
+When Free Alternatives Fall Short
 
 Free tab management extensions often lack intelligent suspension algorithms, treating all tabs equally regardless of importance. They frequently suspend tabs with active media or unsaved form data, causing frustration when you return to find lost work. Most free options also provide limited customization for power users who need specific sites to remain active for development or monitoring purposes.
 
@@ -141,7 +141,7 @@ Free tab management extensions often lack intelligent suspension algorithms, tre
 
 Premium solutions like Tab Suspender Pro solve these limitations with smart detection algorithms that understand context. They preserve form states, maintain media playback positions, and learn from your actual usage patterns rather than applying blanket suspension rules.
 
-## Our Pick: Tab Suspender Pro
+Our Pick: Tab Suspender Pro
 
 Tab Suspender Pro wins because it's the only extension that successfully balances aggressive battery optimization with user experience preservation. In my testing across different laptop models, it consistently delivered the best combination of memory savings and smooth browsing.
 

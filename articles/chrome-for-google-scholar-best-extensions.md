@@ -29,7 +29,7 @@ Working with Google Scholar through Chrome presents several common challenges th
 
 One significant issue researchers face is keeping track of papers across multiple search sessions. You might discover a useful paper today, only to lose track of it among the dozens of other results you will encounter next week. Additionally, accessing papers behind paywalls, finding related research, and managing citations can become increasingly time-consuming as your research projects grow.
 
-The solution lies in leveraging the right Chrome extensions that can enhance Google Scholar without replacing its core functionality. These tools integrate smoothly with your browser and add valuable features that address the problems every researcher experiences.
+The solution lies in using the right Chrome extensions that can enhance Google Scholar without replacing its core functionality. These tools integrate smoothly with your browser and add valuable features that address the problems every researcher experiences.
 
 When selecting extensions, focus on those that address your specific research needs. If you struggle with citation formatting, look for extensions that automate this process. If you frequently lose track of papers, find tools that help you organize your research library. The best chrome for google scholar best extensions will depend on your particular workflow and research habits.
 

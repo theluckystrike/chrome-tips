@@ -178,7 +178,7 @@ Conclusion
 
 CSS Subgrid is a significant improvement for creating complex, aligned layouts in Chrome. By allowing nested grids to inherit their parent's row and column tracks, subgrid makes it possible to create designs that were previously impossible or required JavaScript hacks.
 
-Whether you're building product listings, card layouts, or complex dashboard interfaces, subgrid provides the alignment control you need. Combined with Chrome's excellent DevTools support, you have everything you need to build robust, aligned layouts that work smoothly across modern browsers.
+Whether you're building product listings, card layouts, or complex dashboard interfaces, subgrid provides the alignment control you need. Combined with Chrome's excellent DevTools support, you have everything you need to build solid, aligned layouts that work smoothly across modern browsers.
 
 For Chrome users who want to optimize their browser experience while working on web projects, consider trying Tab Suspender Pro, a Chrome extension that helps manage open tabs and improves browser performance.
 

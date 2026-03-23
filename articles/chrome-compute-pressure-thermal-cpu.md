@@ -76,7 +76,7 @@ The Future of Compute Pressure in Browsers
 
 The compute pressure system in Chrome represents an important step toward more intelligent resource management in browsers. As web applications continue to grow more sophisticated, the ability to adapt to varying system conditions becomes increasingly valuable.
 
-Looking ahead, we can expect to see more websites leveraging compute pressure awareness to deliver better user experiences. Video services might automatically adjust quality based on system capabilities. Productivity tools might defer non-critical calculations until system load decreases. Gaming platforms might reduce visual fidelity to maintain playable frame rates.
+Looking ahead, we can expect to see more websites using compute pressure awareness to deliver better user experiences. Video services might automatically adjust quality based on system capabilities. Productivity tools might defer non-critical calculations until system load decreases. Gaming platforms might reduce visual fidelity to maintain playable frame rates.
 
 For users, this means browsers will become more responsive to real-world conditions. Rather than simply running as fast as possible regardless of consequences, Chrome will work with your computer to deliver the best possible experience given your current resources.
 

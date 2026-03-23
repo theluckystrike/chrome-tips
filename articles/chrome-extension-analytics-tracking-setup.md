@@ -31,7 +31,7 @@ Chrome extensions exist in a unique environment. Unlike traditional websites, th
 
 Without analytics, you're making guesses about what features matter most to your users. You might spend weeks building a feature that nobody uses while neglecting the one thing that users actually want. Analytics eliminates this guesswork by providing concrete data about user behavior.
 
-Popular extensions like Tab Suspender Pro have leveraged analytics to understand which suspend settings users prefer and how often they manually restore tabs. This kind of data is invaluable for prioritizing development efforts and creating a product that genuinely serves your users.
+Popular extensions like Tab Suspender Pro have used analytics to understand which suspend settings users prefer and how often they manually restore tabs. This kind of data is invaluable for prioritizing development efforts and creating a product that genuinely serves your users.
 
 Choosing the Right Analytics Platform
 

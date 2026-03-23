@@ -55,7 +55,7 @@ One helpful approach is to use Tab Suspender Pro, which automatically puts inact
 
 You can also manage Chrome is memory usage by closing tabs you are not actively using. It might seem inconvenient to close tabs you will need later, but the performance boost is worth the small effort of reopening them. Many teachers find that keeping ten to fifteen tabs open is the sweet spot between having what they need and keeping their browser responsive.
 
-Leverage Chrome Shortcuts for Faster Navigation
+use Chrome Shortcuts for Faster Navigation
 
 Learning a few keyboard shortcuts can save you significant time over the course of a school day. Some of the most useful shortcuts for teachers include Control T to open a new tab, Control Shift T to reopen a tab you accidentally closed, and Control L to jump immediately to the address bar.
 

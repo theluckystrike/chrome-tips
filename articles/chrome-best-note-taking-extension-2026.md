@@ -52,7 +52,7 @@ Google Keep Notes
 
 For users deeply embedded in the Google ecosystem, Google Keep offers a simple yet effective chrome extension. You can capture text notes, website URLs, and images with a single click. The extension appears as a small icon in your toolbar, and clicking it opens a quick capture window without leaving your current page.
 
-Google Keep shines for speed and simplicity. Notes sync automatically to your Google account and appear across all your devices. The search functionality is robust, and you can easily convert Keep notes into Google Docs when you need to expand them into longer documents. However, the feature set is relatively basic compared to more specialized note-taking extensions.
+Google Keep shines for speed and simplicity. Notes sync automatically to your Google account and appear across all your devices. The search functionality is solid, and you can easily convert Keep notes into Google Docs when you need to expand them into longer documents. However, the feature set is relatively basic compared to more specialized note-taking extensions.
 
 Raindrop.io
 

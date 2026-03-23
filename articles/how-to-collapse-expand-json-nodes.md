@@ -56,7 +56,7 @@ The real efficiency comes from modifier keys. Hold Ctrl on Windows or Cmd on Mac
 
 For precision control, you can expand just the top level of an object to see its immediate keys, then selectively expand only the branches you need to examine. This approach keeps your focus narrow while maintaining context about the surrounding data structure.
 
-Leverage Keyboard Navigation for Speed
+use Keyboard Navigation for Speed
 
 Chrome's JSON viewer responds to standard keyboard shortcuts that accelerate navigation. Press Tab to jump between interactive elements in the tree, then use Enter or Space to toggle collapsed states without reaching for your mouse. The arrow keys move your focus vertically through the tree structure, following the visual hierarchy.
 

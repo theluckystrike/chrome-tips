@@ -66,7 +66,7 @@ Practical Tips for Working with CSS Grid
 
 When you are getting started with CSS Grid, it helps to think about your layout in terms of a grid map before you start coding. Sketch out how you want your rows and columns to look, decide which items should span multiple tracks, and then translate that visual plan into CSS. This approach saves time and results in cleaner code.
 
-It is also worth noting that CSS Grid works beautifully alongside other layout methods. You can use flexbox for components that need to arrange items in a single row or column, while using CSS Grid for the overall page structure. Many modern websites use both, leveraging each tool for what it does best.
+It is also worth noting that CSS Grid works beautifully alongside other layout methods. You can use flexbox for components that need to arrange items in a single row or column, while using CSS Grid for the overall page structure. Many modern websites use both, using each tool for what it does best.
 
 If you find yourself managing many open browser tabs while working on web projects, tools like Tab Suspender Pro can help keep your browser running smoothly by automatically suspending tabs you are not actively using. This can be especially helpful when you are working with complex layouts and need to test across multiple browser sizes.
 

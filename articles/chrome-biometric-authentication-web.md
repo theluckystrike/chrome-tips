@@ -78,7 +78,7 @@ Chrome biometric authentication web capabilities continue to evolve as browsers 
 
 As web standards mature and more applications adopt WebAuthn, users can expect biometric authentication to become a standard feature across the web. This shift represents a significant step toward a more secure and user-friendly internet, where the hassle of managing passwords becomes a thing of the past.
 
-Whether you are a user looking for a more convenient way to log in or a developer building the next generation of web applications, understanding and leveraging Chrome's biometric authentication capabilities will serve you well in the years ahead.
+Whether you are a user looking for a more convenient way to log in or a developer building the next generation of web applications, understanding and using Chrome's biometric authentication capabilities will serve you well in the years ahead.
 
 Related Articles
 * [Chrome Tab Search Feature How to Use](/articles/chrome-tab-search-feature-how-to-use/)

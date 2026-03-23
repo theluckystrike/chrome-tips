@@ -49,7 +49,7 @@ One approach is to organize your windows intentionally. Keep related tabs in the
 
 Another strategy is to give meaningful names to your windows when you have many open. While Chrome does not have a built-in way to name windows, you can use the first tab in each window as a label. For example, make your first tab in your email window something like "EMAIL - Inbox" so you can quickly identify which window is which when using the Alt-number shortcut.
 
-If you find yourself frequently losing track of windows, consider using fewer windows overall and relying more on tabs. Chrome is tab system is robust, and you might find it easier to switch between tabs within a single window rather than jumping between multiple windows. Chrome even lets you use shortcuts like Control and 1 through 8 to switch directly to a specific tab within your current window.
+If you find yourself frequently losing track of windows, consider using fewer windows overall and relying more on tabs. Chrome is tab system is solid, and you might find it easier to switch between tabs within a single window rather than jumping between multiple windows. Chrome even lets you use shortcuts like Control and 1 through 8 to switch directly to a specific tab within your current window.
 
 A Tool That Can Help
 

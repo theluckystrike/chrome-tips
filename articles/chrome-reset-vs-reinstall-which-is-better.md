@@ -81,7 +81,7 @@ Making the Right Choice
 
 Both resetting and reinstalling Chrome can solve performance problems, but they serve different purposes. Resetting is faster and preserves your data, making it the best first approach for most users. Reinstalling is more thorough and is the better choice when reset fails or when you need a completely fresh start.
 
-For users with slow computers and limited RAM, the most important thing is not just choosing between reset and reinstall, but also adopting better browsing habits afterward. Using fewer extensions, keeping tabs organized, and leveraging tools like Tab Suspender Pro will keep your browser running smoothly for longer than any single reset or reinstall can achieve.
+For users with slow computers and limited RAM, the most important thing is not just choosing between reset and reinstall, but also adopting better browsing habits afterward. Using fewer extensions, keeping tabs organized, and using tools like Tab Suspender Pro will keep your browser running smoothly for longer than any single reset or reinstall can achieve.
 
 Related Articles
 * [Chrome for Pomodoro Timer Extensions](/articles/chrome-for-pomodoro-timer-extensions/)

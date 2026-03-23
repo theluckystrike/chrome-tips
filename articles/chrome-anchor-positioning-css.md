@@ -73,7 +73,7 @@ Performance Benefits of Native CSS Positioning
 
 Beyond the development convenience, chrome anchor positioning css offers significant performance advantages. Because positioning calculations happen in the browser's layout engine rather than JavaScript, elements update more smoothly during scroll, resize, and other dynamic events.
 
-JavaScript-based positioning solutions often struggle with performance, especially when handling complex scenarios with multiple positioned elements or frequent viewport changes. The native CSS approach eliminates these issues by leveraging the browser's optimized layout pipeline.
+JavaScript-based positioning solutions often struggle with performance, especially when handling complex scenarios with multiple positioned elements or frequent viewport changes. The native CSS approach eliminates these issues by using the browser's optimized layout pipeline.
 
 For developers building interactive applications with many dynamic elements, this performance improvement can translate to noticeably smoother user experiences. Applications with tooltips, dropdowns, or floating elements will feel more responsive, particularly on lower-powered devices where JavaScript calculations can cause visible lag.
 

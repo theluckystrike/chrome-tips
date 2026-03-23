@@ -24,7 +24,7 @@ Understanding the Canvas Rendering Pipeline
 
 When you draw on a canvas element, Chrome executes a complex rendering pipeline that involves multiple stages. First, your JavaScript code issues drawing commands through the 2D context. These commands are then parsed and executed by the browser's rendering engine. Finally, the result is composited with the rest of the webpage and displayed on screen.
 
-Each drawing operation has a cost. While individual commands may seem negligible, thousands of operations accumulate quickly. The key to optimization lies in minimizing unnecessary work within this pipeline. Reducing the number of drawing calls, avoiding expensive state changes, and leveraging hardware acceleration are fundamental principles that guide effective canvas optimization.
+Each drawing operation has a cost. While individual commands may seem negligible, thousands of operations accumulate quickly. The key to optimization lies in minimizing unnecessary work within this pipeline. Reducing the number of drawing calls, avoiding expensive state changes, and using hardware acceleration are fundamental principles that guide effective canvas optimization.
 
 Chrome's implementation of the Canvas 2D API has evolved significantly. Modern versions include hardware acceleration for many common operations, but this acceleration only helps when you structure your code to take advantage of it. Understanding these internals allows you to write code that works with the browser rather than against it.
 
@@ -108,7 +108,7 @@ function render() {
 
 This technique proves especially valuable for applications with mostly static content with occasional updates, such as charts or maps.
 
-Leverage Offscreen Canvas
+use Offscreen Canvas
 
 Creating graphics that do not change frequently? Render them once to an offscreen canvas and simply draw that canvas onto your visible canvas when needed. This approach shifts the rendering work from the main animation loop to initialization, dramatically reducing per-frame costs.
 
@@ -157,7 +157,7 @@ Remember that optimization is iterative. Profile your application first to ident
 
 Conclusion
 
-Chrome Canvas 2D performance optimization combines understanding browser internals with practical coding techniques. By minimizing state changes, using requestAnimationFrame correctly, implementing dirty rectangle rendering, leveraging offscreen canvases, and optimizing image handling, you can create smooth, responsive canvas applications that perform well across different devices and usage scenarios. Start with the optimizations that address your specific bottlenecks and refine iteratively for the best results.
+Chrome Canvas 2D performance optimization combines understanding browser internals with practical coding techniques. By minimizing state changes, using requestAnimationFrame correctly, implementing dirty rectangle rendering, using offscreen canvases, and optimizing image handling, you can create smooth, responsive canvas applications that perform well across different devices and usage scenarios. Start with the optimizations that address your specific bottlenecks and refine iteratively for the best results.
 
 Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

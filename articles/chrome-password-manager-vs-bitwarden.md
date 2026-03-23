@@ -60,7 +60,7 @@ Bitwarden supports secure sharing, allowing you to share individual login creden
 
 Another advantage is emergency access. Bitwarden lets you designate trusted contacts who can request access to your vault in case of an emergency. After a waiting period you configure, they can gain access if you do not deny the request. This is particularly valuable for families or individuals who want to ensure their digital assets are recoverable.
 
-Bitwarden also supports secure notes, credit card storage, and identity information, giving you a centralized place for all sensitive data. While Chrome can store some of this information through autofill, Bitwarden's organization and categorization are more robust.
+Bitwarden also supports secure notes, credit card storage, and identity information, giving you a centralized place for all sensitive data. While Chrome can store some of this information through autofill, Bitwarden's organization and categorization are more solid.
 
 In terms of usability, Chrome wins on simplicity. Because it is built into Chrome, there is nothing to set up beyond signing into your Google Account. Bitwarden requires creating an account, installing an extension, and remembering a master password. For non-technical users or those who want the simplest experience possible, Chrome is easier to get started with.
 

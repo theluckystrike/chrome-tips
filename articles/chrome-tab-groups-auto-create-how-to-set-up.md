@@ -40,7 +40,7 @@ However, manually organizing every tab every time you open new ones becomes tedi
 
 Setting Up Automatic Tab Groups
 
-Chrome does not have a built-in feature for automatic tab group creation, but you can achieve this using extensions or by leveraging Chrome flags and settings. Here are some approaches you can try.
+Chrome does not have a built-in feature for automatic tab group creation, but you can achieve this using extensions or by using Chrome flags and settings. Here are some approaches you can try.
 
 One popular method is using tab management extensions from the Chrome Web Store. Extensions like Tab Suspender Pro can automatically organize your tabs into groups based on domain names or other criteria. These extensions monitor your browsing activity and create groups for tabs that share common characteristics, such as tabs from the same website or tabs opened during a specific time period.
 

@@ -228,7 +228,7 @@ For applications that run continuously, such as monitoring dashboards or control
 
 Error Handling and Debugging
 
-Robust error handling is essential when working with hardware communication. Serial connections can fail for various reasons, including the device being disconnected, permission being denied, or communication errors due to mismatched settings.
+solid error handling is essential when working with hardware communication. Serial connections can fail for various reasons, including the device being disconnected, permission being denied, or communication errors due to mismatched settings.
 
 Always wrap your serial operations in try-catch blocks to handle errors gracefully:
 

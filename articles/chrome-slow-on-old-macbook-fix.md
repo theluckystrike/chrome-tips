@@ -96,7 +96,6 @@ Restart Chrome once a day instead of leaving it running for weeks. Close tabs be
 
 Use Tab Suspender Pro for Better Memory Control
 
-<<<<<<< HEAD
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 Related Articles

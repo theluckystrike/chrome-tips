@@ -48,7 +48,7 @@ Fourth, check your internet connection. LCP is heavily influenced by how quickly
 
 Understanding What Website Owners Can Do
 
-If you are curious about why some sites load faster than others, the issue usually comes down to how those sites are built. Website owners can improve LCP by optimizing images to appropriate sizes, using fast web hosting, minimizing heavy scripts, and leveraging browser caching.
+If you are curious about why some sites load faster than others, the issue usually comes down to how those sites are built. Website owners can improve LCP by optimizing images to appropriate sizes, using fast web hosting, minimizing heavy scripts, and using browser caching.
 
 When you encounter a slow website, there is not much you can do on your end beyond waiting or trying a different site. However, understanding that LCP is primarily a website performance metric helps set realistic expectations.
 

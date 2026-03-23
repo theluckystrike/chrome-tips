@@ -163,7 +163,7 @@ Second, implement comprehensive error handling. Payment requests can fail for va
 
 Third, test thoroughly across different devices and browsers. While the Payment Request API is well-supported in Chrome and Edge, behavior may vary slightly between browsers. Testing ensures your implementation works consistently for all users, regardless of their browser choice or device type.
 
-Finally, consider the mobile experience specifically. Many users complete purchases on mobile devices where typing is more cumbersome. The Payment Request API excels on mobile by leveraging saved payment information and reducing the input required, but you should verify that your mobile checkout flow feels natural and responsive.
+Finally, consider the mobile experience specifically. Many users complete purchases on mobile devices where typing is more cumbersome. The Payment Request API excels on mobile by using saved payment information and reducing the input required, but you should verify that your mobile checkout flow feels natural and responsive.
 
 Conclusion
 

@@ -41,7 +41,7 @@ For developers, this API provides a standardized way to interact with browser pa
 
 Automatic login through the chrome credential management api can significantly improve user retention rates. When users can log in with a single click, they are more likely to return to your application. This smooth authentication flow reduces friction and creates a more polished user experience.
 
-Security is another compelling reason to implement this API. Browser password managers are designed with security in mind, using encryption to protect stored credentials. By leveraging the chrome credential management api, you benefit from the security measures built into the browser rather than implementing your own potentially less secure solution.
+Security is another compelling reason to implement this API. Browser password managers are designed with security in mind, using encryption to protect stored credentials. By using the chrome credential management api, you benefit from the security measures built into the browser rather than implementing your own potentially less secure solution.
 
 How to Retrieve Stored Credentials
 

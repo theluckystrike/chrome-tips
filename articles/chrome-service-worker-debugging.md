@@ -83,7 +83,7 @@ If you notice that your cache count is growing without bound, this indicates a c
 
 The Service Worker Update Lifecycle
 
-Understanding the service worker update lifecycle is crucial for debugging deployment issues and ensuring users receive timely updates. The lifecycle is designed to be robust, ensuring that updates do not break running applications unexpectedly, but it can also be a source of confusion when things do not work as expected.
+Understanding the service worker update lifecycle is crucial for debugging deployment issues and ensuring users receive timely updates. The lifecycle is designed to be solid, ensuring that updates do not break running applications unexpectedly, but it can also be a source of confusion when things do not work as expected.
 
 The update process begins when the browser detects a change in the service worker script. This happens on navigation to pages within the service worker scope, and Chrome checks for updates by default whenever a user navigates to your site. If the script has changed, the browser will attempt to download and install the new version.
 

@@ -91,7 +91,7 @@ The deduplication_key parameter is particularly important for preventing duplica
 
 Chrome applies its own matching logic to connect triggers with sources. The browser maintains an internal attribution mapping that tracks which sources are eligible for attribution when a trigger is registered. Sources are matched based on their destination, remaining expiry time, and priority relative to other potential sources.
 
-Event-Level Reports Deep Dive
+Event-Level Reports detailed look
 
 Event-level reports provide the most detailed attribution information available through the Chrome Attribution Reporting API. These reports include specific information about which ad event led to a conversion, enabling advertisers to understand the relationship between individual ad exposures and user actions.
 

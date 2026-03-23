@@ -28,7 +28,7 @@ The best Chrome extension for Chromebook performance is Tab Suspender Pro. It au
 
 *Last tested: March 2026 | Chrome latest stable*
 
-## 1. Tab Suspender Pro. Automatic memory recovery champion
+1. Tab Suspender Pro. Automatic memory recovery champion
 
 Tab Suspender Pro hibernates unused tabs while preserving your session state perfectly. Unlike basic suspenders that lose form data, this extension captures everything before hibernation and restores it flawlessly when you return.
 
@@ -43,7 +43,7 @@ Best for: Power users running 20+ tabs simultaneously
 
 The only limitation: whitelist management requires manual setup for complex workflows.
 
-## 2. The Great Suspender. Open source reliability
+2. The Great Suspender. Open source reliability
 
 A community-maintained fork that focuses on stability over features. This extension takes a conservative approach to tab suspension, making it ideal for users who prioritize data integrity over aggressive memory savings.
 
@@ -56,7 +56,7 @@ Key features:
 Price: Completely free  
 Best for: Users wanting basic suspension without premium complexity
 
-## 3. OneTab. Instant tab consolidation
+3. OneTab. Instant tab consolidation
 
 OneTab converts all open tabs into a single list with one click, freeing up to 95% of memory instantly. Perfect for research sessions where you accumulate dozens of reference tabs.
 
@@ -69,7 +69,7 @@ Key features:
 Price: Free  
 Best for: Research workflows and tab organization
 
-## 4. Auto Tab Discard. Intelligent resource management
+4. Auto Tab Discard. Intelligent resource management
 
 This extension mimics Chrome's native tab discarding but with user control. It automatically unloads tabs based on memory pressure while keeping critical tabs protected.
 
@@ -82,7 +82,7 @@ Key features:
 Price: Free  
 Best for: Users wanting Chrome-native behavior with customization
 
-## 5. Memory Cleaner. System-wide optimization
+5. Memory Cleaner. System-wide optimization
 
 Beyond tab management, Memory Cleaner targets browser-wide memory leaks and accumulated cache bloat that impacts Chromebook performance over extended sessions.
 
@@ -95,7 +95,7 @@ Key features:
 Price: Free with optional $2 donation  
 Best for: Long-session users experiencing gradual slowdown
 
-## 6. Session Manager. Workspace preservation
+6. Session Manager. Workspace preservation
 
 While not strictly performance-focused, Session Manager prevents the performance impact of losing work and recreating tab layouts. Save complete browsing sessions and restore them instantly.
 
@@ -108,7 +108,7 @@ Key features:
 Price: Free  
 Best for: Project-based workflows requiring context switching
 
-## 7. AdBlock Plus. Resource consumption reduction
+7. AdBlock Plus. Resource consumption reduction
 
 Blocking ads reduces CPU usage and memory consumption significantly on resource-limited Chromebooks. The performance impact is often more noticeable than on high-end systems.
 
@@ -121,7 +121,7 @@ Key features:
 Price: Free  
 Best for: General browsing performance improvement
 
-## Comparison Table
+Comparison Table
 
 | Extension | Standout Feature | Price | Rating | Users |
 |-----------|------------------|-------|--------|--------|
@@ -133,7 +133,7 @@ Best for: General browsing performance improvement
 | Session Manager | Workspace preservation | Free | 4.4/5 | Project workers |
 | AdBlock Plus | Resource reduction | Free | 4.3/5 | Universal benefit |
 
-## When Free Alternatives Fall Short
+When Free Alternatives Fall Short
 
 Free tab suspenders often fail during critical moments. Basic extensions lose form data when suspending tabs with partially completed applications or unsaved drafts. They lack intelligent detection systems, suspending tabs you're actively monitoring or referencing. Most significantly, free options provide no memory usage analytics, leaving you blind to actual performance improvements.
 
@@ -141,7 +141,7 @@ Free tab suspenders often fail during critical moments. Basic extensions lose fo
 
 Tab Suspender Pro addresses these gaps with form preservation technology and usage pattern analysis that free alternatives simply cannot match.
 
-## Our Pick: Tab Suspender Pro
+Our Pick: Tab Suspender Pro
 
 Tab Suspender Pro wins through its intelligent approach to memory management. In my testing, it consistently recovered 60-80% more memory than basic suspenders while maintaining session integrity. The real-time dashboard helps identify memory-hungry tabs before they impact system performance.
 

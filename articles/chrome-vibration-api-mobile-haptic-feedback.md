@@ -19,7 +19,7 @@ last_modified_at: '2026-03-12'
 
 # Chrome Vibration API: Mobile Haptic Feedback Guide
 
-Mobile web applications have evolved significantly, offering experiences that rival native apps in many ways. One often overlooked aspect of mobile web development is haptic feedback, the tactile sensations that enhance user interaction through vibration. Chrome's Vibration API provides developers with a powerful tool to create more engaging mobile web experiences by leveraging the device's vibration hardware. Whether you are building a game, a productivity app, or an interactive website, understanding how to implement haptic feedback can significantly improve user engagement and satisfaction.
+Mobile web applications have evolved significantly, offering experiences that rival native apps in many ways. One often overlooked aspect of mobile web development is haptic feedback, the tactile sensations that enhance user interaction through vibration. Chrome's Vibration API provides developers with a powerful tool to create more engaging mobile web experiences by using the device's vibration hardware. Whether you are building a game, a productivity app, or an interactive website, understanding how to implement haptic feedback can significantly improve user engagement and satisfaction.
 
 Understanding the Vibration API
 

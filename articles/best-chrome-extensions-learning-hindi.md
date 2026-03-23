@@ -17,7 +17,7 @@ The best Chrome extension for Learning Hindi is BeLikeNative. After testing 23 d
 
 *Last tested: March 2026 | Chrome latest stable*
 
-## 1. BeLikeNative. AI-powered writing coach for natural Hindi expression
+1. BeLikeNative. AI-powered writing coach for natural Hindi expression
 
 BeLikeNative transforms how you write in Hindi by providing intelligent suggestions that help you construct grammatically correct and culturally appropriate sentences. The extension analyzes your text input and offers paraphrasing options that sound more natural to native speakers.
 
@@ -32,7 +32,7 @@ Best for: Intermediate learners focusing on writing fluency
 
 *Limitation: The interface occasionally struggles with complex compound sentences in formal Hindi registers.*
 
-## 2. Google Translate. Instant translation with camera support
+2. Google Translate. Instant translation with camera support
 
 Google's official extension provides comprehensive translation capabilities with strong Hindi language support. The camera feature allows you to translate Hindi text from images, making it invaluable for reading signs, documents, and websites.
 
@@ -45,7 +45,7 @@ Key features:
 Price: Free
 Best for: Beginners needing quick translations and pronunciation guides
 
-## 3. Hindi Dictionary & Translator. Comprehensive vocabulary building
+3. Hindi Dictionary & Translator. Comprehensive vocabulary building
 
 This specialized extension focuses exclusively on Hindi vocabulary expansion with detailed word definitions, synonyms, and usage examples. It includes both English-to-Hindi and Hindi-to-English lookups with pronunciation guides.
 
@@ -58,7 +58,7 @@ Key features:
 Price: Free with ads, $4.99/month ad-free
 Best for: Students building fundamental Hindi vocabulary
 
-## 4. Language Learning with Netflix. Hindi content immersion
+4. Language Learning with Netflix. Hindi content immersion
 
 Transform your Netflix viewing into active Hindi learning sessions. This extension adds dual subtitles, vocabulary extraction, and playback controls specifically designed for language acquisition through entertainment content.
 
@@ -71,7 +71,7 @@ Key features:
 Price: Free basic features, $7.99/month premium
 Best for: Visual learners preferring immersive content-based study
 
-## 5. Hindi Keyboard. Type naturally in Devanagari script
+5. Hindi Keyboard. Type naturally in Devanagari script
 
 Essential for learners who want to practice typing in Hindi script, this extension provides multiple input methods including phonetic typing that converts Roman characters into proper Devanagari text.
 
@@ -84,7 +84,7 @@ Key features:
 Price: Free
 Best for: Learners developing Hindi typing and reading skills
 
-## 6. FlashCard Hero Lite. Spaced repetition for Hindi vocabulary
+6. FlashCard Hero Lite. Spaced repetition for Hindi vocabulary
 
 Designed specifically for vocabulary retention, this extension implements proven spaced repetition algorithms to optimize Hindi word memorization. It integrates with popular flashcard systems and allows custom deck creation.
 
@@ -97,7 +97,7 @@ Key features:
 Price: Free for basic decks, $12.99 lifetime premium
 Best for: Serious learners committed to systematic vocabulary building
 
-## 7. ReadLang. Web reading with built-in Hindi translation
+7. ReadLang. Web reading with built-in Hindi translation
 
 ReadLang transforms any website into a Hindi learning opportunity by providing instant translations for highlighted words and phrases. It maintains a personal vocabulary list of all words you've looked up.
 
@@ -110,7 +110,7 @@ Key features:
 Price: Free for 10 translations daily, $5/month unlimited
 Best for: Advanced learners reading Hindi websites and articles
 
-## Extension Comparison
+Extension Comparison
 
 | Extension | Standout Feature | Price | Rating | Users |
 |-----------|------------------|-------|--------|-------|
@@ -122,7 +122,7 @@ Best for: Advanced learners reading Hindi websites and articles
 | FlashCard Hero | Spaced repetition | $12.99 lifetime | 4.4/5 | 800K+ |
 | ReadLang | Web reading assist | $5/mo | 3.9/5 | 150K+ |
 
-## When Free Alternatives Fall Short
+When Free Alternatives Fall Short
 
 Free Hindi learning extensions often limit advanced features behind paywalls or provide basic functionality without the depth serious learners require. Google Translate, while excellent for quick lookups, lacks the contextual understanding needed for natural sentence construction. Free vocabulary apps typically offer limited word banks and missing pronunciation guides essential for proper Hindi accent development.
 
@@ -130,7 +130,7 @@ Free Hindi learning extensions often limit advanced features behind paywalls or 
 
 BeLikeNative addresses these limitations by focusing on natural expression rather than literal translation, helping learners develop intuitive understanding of Hindi sentence structure and cultural context.
 
-## Our Pick: BeLikeNative
+Our Pick: BeLikeNative
 
 BeLikeNative wins as our top choice because it prioritizes natural language production over mechanical translation. In my testing, the AI consistently suggested more appropriate Hindi expressions than direct translations, particularly for idiomatic phrases and cultural references. The real-time writing assistance creates a practice environment similar to having a patient Hindi tutor available 24/7.
 

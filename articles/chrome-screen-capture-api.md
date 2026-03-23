@@ -24,7 +24,6 @@ last_modified_at: '2026-03-12'
 
 # Chrome Screen Capture API Guide
 
-<<<<<<< HEAD
 The Chrome Screen Capture API represents one of the most powerful browser-based technologies for capturing screen content in web applications. Originally introduced as part of the WebRTC specification, this API has evolved significantly over the years to provide developers with solid capabilities for capturing entire screens, individual application windows, browser tabs, and even specific browser content like Chrome surfaces. Whether you are building a collaboration tool, a remote desktop application, a screencasting service, or an online education platform, understanding the Screen Capture API is essential for creating modern web experiences that rival native applications.
 
 This comprehensive guide will walk you through everything you need to know about implementing screen capture in Chrome, from basic usage patterns to advanced constraints and optimization techniques. We will cover the core API methods, explore different capture source types, examine the constraints that give you fine-grained control over the capture quality and behavior, and discuss practical considerations for building production-ready applications.
@@ -465,7 +464,7 @@ If you need to support multiple browsers, test thoroughly and be prepared to imp
 
 Conclusion
 
-The Chrome Screen Capture API provides a powerful foundation for building screen capture functionality into your extensions and web applications. By understanding the different capture modes, leveraging media constraints, and following best practices, you can create reliable and user-friendly screen capture experiences.
+The Chrome Screen Capture API provides a powerful foundation for building screen capture functionality into your extensions and web applications. By understanding the different capture modes, using media constraints, and following best practices, you can create reliable and user-friendly screen capture experiences.
 
 Whether you're recording tutorials, enabling remote support, building collaboration tools, or creating content for education, the Screen Capture API offers the flexibility and capabilities you need. The key is to start with the basics, capturing screen, window, or tab content, and then progressively add features that enhance your application's functionality.
 >>>>>>> consumer/a52-chrome-screen-capture-api

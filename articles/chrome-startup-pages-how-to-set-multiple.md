@@ -7,7 +7,7 @@ last_modified_at: '2026-03-12'
 permalink: "chrome-startup-pages-how-to-set-multiple"
 ---Chrome startup pages how to set multiple is something many people want to figure out when they realize Chrome can open more than just one page each time they launch. Whether you always need your email, calendar, and news site ready at once, or you work with multiple tools that you check first thing, Chrome makes it simple to open multiple pages automatically. This guide shows you exactly how to do it.
 
-## Why Set Multiple Startup Pages
+Why Set Multiple Startup Pages
 
 There are plenty of good reasons to want multiple pages opening at startup. Maybe you start every morning by checking your email, looking at your calendar, and reading the latest headlines. Without multiple startup pages, you would have to manually open each of these sites every time you launch Chrome. That adds up to several clicks and a few seconds of waiting each day, over and over again.
 
@@ -15,7 +15,7 @@ Beyond just saving time, having your most-used sites ready to go means you can s
 
 Chrome also remembers your startup pages across sessions, so you set them once and they work every day. This is different from continuing where you left off, which restores whatever tabs you happened to have open last time. With multiple specific startup pages, you always get the same set of sites no matter what.
 
-## How to Add Multiple Startup Pages in Chrome
+How to Add Multiple Startup Pages in Chrome
 
 Setting multiple startup pages is straightforward and takes just a minute or two. Here is the step-by-step process.
 
@@ -31,7 +31,7 @@ Now comes the part for adding multiple pages. Look for a link or button that say
 
 Once you have added all the pages you want, close the Settings tab or go ahead and close Chrome. The next time you open Chrome, all of those pages will load automatically in separate tabs. You can always come back to this same section later to add more pages, remove ones you no longer need, or change the order.
 
-## Tips for Choosing Which Pages to Set
+Tips for Choosing Which Pages to Set
 
 When deciding which pages to include as startup pages, think about the ones you open most often first thing in your browsing session. Ideal candidates are sites you check daily without fail, such as email, calendar, task managers, or news websites. These are the pages that will save you the most time by being ready immediately.
 
@@ -39,7 +39,7 @@ It is also worth considering how many tabs you are comfortable having open at on
 
 If you find that you need different sets of startup pages for different purposes, you might consider using Chrome profiles. Chrome profiles let you maintain separate sets of bookmarks, settings, and startup configurations. For example, you could have one profile for work with your professional sites as startup pages and another profile for personal use with different pages.
 
-## What to Do If Your Startup Pages Are Not Working
+What to Do If Your Startup Pages Are Not Working
 
 Sometimes you set up multiple startup pages but they do not behave as expected. If this happens, there are a few things to check.
 
@@ -49,7 +49,7 @@ Another thing to check is whether your startup pages have been added correctly. 
 
 If Chrome is still not behaving as expected, try closing and reopening the browser completely. Chrome sometimes needs a full restart to apply new settings properly. Also make sure you are not running any extensions that might be interfering with startup behavior.
 
-## Making the Most of Your Startup Setup
+Making the Most of Your Startup Setup
 
 Once you have your multiple startup pages configured, there are a couple of other settings that work well alongside this feature. For instance, you can set your homepage separately if you want a different page to appear when you click the Home button versus when you launch Chrome.
 
@@ -57,7 +57,7 @@ You might also find that having multiple tabs open at startup leads to more tabs
 
 Setting multiple startup pages is one of those simple tweaks that makes your daily browsing routine just a little bit smoother. Once you have your essential sites loading automatically, you will wonder how you ever managed without it.
 
-## Related Articles
+Related Articles
 * [Chrome Freezes My Whole Computer](/articles/chrome-freezes-my-whole-computer/)
 * [Chrome Devtools Screenshot Full Page](/articles/chrome-devtools-screenshot-full-page/)
 * [Chrome Media Autoplay How to Block](/articles/chrome-media-autoplay-how-to-block/)

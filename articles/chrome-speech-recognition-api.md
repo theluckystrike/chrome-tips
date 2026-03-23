@@ -138,7 +138,6 @@ recognition.continuous = true;
 recognition.interimResults = true;
 ```
 
-<<<<<<< HEAD
 To start listening, you call the `start()` method on your recognition instance. However, before calling this method, you should check that the browser supports the API and that the user has granted permission to use their microphone. The API will trigger permission requests automatically the first time you attempt to start recognition, but handling this gracefully in your code provides a better user experience.
 
 The `interimResults` property works alongside continuous recognition to provide real-time feedback. When set to `true`, the API returns results as it is processing the speech, not just the final recognized text. This allows you to show users what is being recognized in real-time, which is particularly useful for applications where users need immediate feedback:
@@ -256,9 +255,6 @@ Related Articles
 * [Best Privacy Chrome Extensions 2026](/articles/best-privacy-chrome-extensions-2026/)
 
 Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
-<<<<<<< HEAD
-=======
->>>>>>> consumer/a54-chrome-speech-recognition-api
 
 Related Articles
 

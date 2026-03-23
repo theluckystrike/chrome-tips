@@ -71,7 +71,7 @@ Another common use case involves data acquisition. You can connect temperature s
 
 Error Handling and Best Practices
 
-Robust hardware communication requires proper error handling. Your code should handle disconnection events gracefully, allowing users to reconnect without refreshing the page. The serial connection can be interrupted if the device is unplugged or loses power, so always check for these conditions.
+solid hardware communication requires proper error handling. Your code should handle disconnection events gracefully, allowing users to reconnect without refreshing the page. The serial connection can be interrupted if the device is unplugged or loses power, so always check for these conditions.
 
 When working with serial ports, also consider the user experience. Always indicate connection status clearly, provide feedback when commands are sent, and handle timeouts appropriately. Some devices may take time to respond, so implementing reasonable timeout values prevents the interface from appearing frozen.
 

@@ -71,7 +71,7 @@ Relying solely on Chrome's built-in tool is risky if your work is mission-critic
 
 3. Use a Professional Session Manager: While Chrome's native tools are improving, they lack a "history of sessions." This is why many professionals use Tab Suspender Pro. 
 
-Beyond its primary function of saving memory by "sleeping" inactive tabs, it maintains a robust, searchable session history. It automatically takes "snapshots" of your open windows and tabs throughout the day. If Chrome crashes or fails to restore, you can open Tab Suspender Pro and view a list of your sessions from an hour ago, yesterday, or even last week. It’s the ultimate insurance policy against the "Chrome session restore not working" bug.
+Beyond its primary function of saving memory by "sleeping" inactive tabs, it maintains a solid, searchable session history. It automatically takes "snapshots" of your open windows and tabs throughout the day. If Chrome crashes or fails to restore, you can open Tab Suspender Pro and view a list of your sessions from an hour ago, yesterday, or even last week. It’s the ultimate insurance policy against the "Chrome session restore not working" bug.
 
 Summary
 

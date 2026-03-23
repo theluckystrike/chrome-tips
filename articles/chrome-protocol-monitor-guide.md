@@ -99,7 +99,7 @@ Advanced Techniques and Tips
 
 As you become more comfortable with the Chrome DevTools Protocol and its Monitor, you can explore advanced techniques that unlock even more capabilities. One powerful feature is the ability to debug remote Chrome instances. You can start Chrome with remote debugging enabled, then connect to it from another machine or from your automation scripts. This is particularly useful for testing across different devices or for debugging issues that only occur in production environments.
 
-Another advanced technique involves using CDP to intercept and modify network traffic in real-time. By subscribing to network events and using request interception, you can simulate different network conditions, test error handling, or modify API responses without changing your backend code. This is invaluable for testing edge cases and ensuring your application is robust.
+Another advanced technique involves using CDP to intercept and modify network traffic in real-time. By subscribing to network events and using request interception, you can simulate different network conditions, test error handling, or modify API responses without changing your backend code. This is invaluable for testing edge cases and ensuring your application is solid.
 
 The Protocol Monitor also supports filtering, which is essential when dealing with the high volume of CDP messages. You can filter by domain, method name, or even by text content in the payload. This makes it much easier to focus on the specific commands or events you are interested in without getting distracted by the noise.
 

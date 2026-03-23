@@ -68,7 +68,7 @@ The Weekly Purge: Set aside 20 minutes once a week, perhaps on a quiet Sunday mo
 
 Sync Your Devices: Ensure that whatever method you choose, whether it's the Chrome Reading List or an extension like Pocket, is also set up on your tablet or phone. We often have more "dead time" for reading while commuting or waiting in line than we do while sitting at our primary computer.
 
-By leveraging Chrome's built-in features and the right set of extensions, you can turn your browser from a source of distraction into a powerful, organized library of knowledge.
+By using Chrome's built-in features and the right set of extensions, you can turn your browser from a source of distraction into a powerful, organized library of knowledge.
 
 ---
 

@@ -57,7 +57,7 @@ Profile visibility: When using Incognito, someone using your computer could easi
 
 Who it's for: Incognito is a tool for *you*. Guest mode is a tool for *everyone else*.
 
-Deep Dive: Cookie Handling and Site Data
+detailed look: Cookie Handling and Site Data
 
 In both modes, cookies are handled temporarily. However, the way they interact with your main profile differs. In Incognito, while you aren't logged into sites by default, the browser still knows who you are in terms of your machine's identity. In Guest mode, the isolation is even more extreme. If you log into a site in Guest mode, that login is strictly contained within that window. Once the Guest session ends, that data is wiped so thoroughly that even another Guest session won't be able to see it.
 

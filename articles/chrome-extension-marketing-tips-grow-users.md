@@ -1,7 +1,7 @@
 ---
 title: Chrome Extension Marketing Tips to Grow Your User Base
 description: "Learn proven strategies to market your Chrome extension and attract more.............................................................................."
-  users. From optimizing your Web Store listing to leveraging content marketing.
+  users. From optimizing your Web Store listing to using content marketing.
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-extension-marketing-tips-grow-users
@@ -43,7 +43,7 @@ Your website should include a clear value proposition, screenshots or demo video
 
 A blog on your website can be incredibly valuable for long-term growth. Write about topics related to your extension's niche, share tips and tutorials, and create content that establishes you as an authority in your space. Over time, this content drives organic traffic and provides opportunities to naturally mention your extension.
 
-Leverage Content Marketing and SEO
+use Content Marketing and SEO
 
 Speaking of content marketing, this is one of the most sustainable ways to grow your user base. Create blog posts, guides, and resources that address questions your target users are asking. If your extension helps with productivity, write about productivity tips. If it's a developer tool, share programming tutorials that naturally incorporate your extension.
 

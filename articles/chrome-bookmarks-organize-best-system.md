@@ -39,7 +39,7 @@ The key principle here is consistency. Establish naming conventions and stick to
 
 When adding new bookmarks, take the extra few seconds to place them in the correct folder immediately. This habit prevents bookmark clutter from accumulating and makes your system sustainable over time.
 
-Leveraging Chrome's Bookmark Manager Features
+using Chrome's Bookmark Manager Features
 
 Chrome's bookmark manager offers several features that can enhance your organizational system significantly. Access it by pressing Ctrl+Shift+O (Windows) or Cmd+Shift+O (Mac), or simply click the three-dot menu and select Bookmarks followed by Bookmark manager.
 

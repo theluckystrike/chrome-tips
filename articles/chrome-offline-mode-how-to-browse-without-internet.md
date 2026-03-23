@@ -20,7 +20,7 @@ It is important to understand right away that Chrome does not have a traditional
 
 Chrome will display an "No internet" or "No connection" dinosaur game screen when you try to browse without internet. This is not a feature you can use to access websites, but rather Chrome letting you know you cannot connect to the internet. The dinosaur game is just a fun distraction while you wait for your connection to return.
 
-However, there are several legitimate ways to browse content offline or continue working even when your internet is not working. These include using offline-ready web apps, saving pages for later reading, using cached versions of websites, and leveraging certain browser features and extensions that can help you stay productive during connectivity issues.
+However, there are several legitimate ways to browse content offline or continue working even when your internet is not working. These include using offline-ready web apps, saving pages for later reading, using cached versions of websites, and using certain browser features and extensions that can help you stay productive during connectivity issues.
 
 Using Google Offline Apps
 

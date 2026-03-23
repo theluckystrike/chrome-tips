@@ -83,7 +83,7 @@ Offline Mode and Service Worker Testing
 
 Chrome's offline mode is an extreme form of network throttling that simulates complete disconnection. While this might seem like an unusual scenario to test, it is increasingly important in the modern web landscape.
 
-Progressive Web Apps are designed to function offline by leveraging service workers to cache application resources and data. To test these capabilities effectively, you need to verify that your service worker caches the appropriate resources, that the application loads from cache when offline, that any offline interactions are properly queued for later synchronization, and that the application detects and responds to network status changes appropriately.
+Progressive Web Apps are designed to function offline by using service workers to cache application resources and data. To test these capabilities effectively, you need to verify that your service worker caches the appropriate resources, that the application loads from cache when offline, that any offline interactions are properly queued for later synchronization, and that the application detects and responds to network status changes appropriately.
 
 To test offline functionality, enable the offline preset in the Network tab and then reload your application. Check that all critical functionality remains accessible and that any offline-specific UI elements appear correctly. You should also test transitioning between online and offline states while the application is running to ensure that status changes are detected and handled properly.
 

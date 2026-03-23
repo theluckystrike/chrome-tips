@@ -57,7 +57,7 @@ The HTML structure would look like this:
   </div>
   <div class="card">
     <h2>Advanced Techniques</h2>
-    <p>Deep dive into complex layouts with nested subgrids.</p>
+    <p>detailed look into complex layouts with nested subgrids.</p>
   </div>
   <div class="card">
     <h2>Best Practices</h2>

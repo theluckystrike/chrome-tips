@@ -20,7 +20,7 @@ The State of Browser Competition in 2026
 
 The browser landscape has evolved significantly in recent years. Chrome continues to dominate global market share, but Safari has emerged as a formidable competitor, particularly among Apple device users. With macOS receiving major updates in 2026 and both browsers introducing new features, the competition has never been more intense.
 
-Safari has leveraged its position as Apple's default browser to deliver tight integration with the operating system. Chrome, meanwhile, has focused on cross-platform consistency and the extensive Chrome Web Store ecosystem. Understanding the strengths and weaknesses of each browser will help you make an informed decision about which one best suits your needs.
+Safari has used its position as Apple's default browser to deliver tight integration with the operating system. Chrome, meanwhile, has focused on cross-platform consistency and the extensive Chrome Web Store ecosystem. Understanding the strengths and weaknesses of each browser will help you make an informed decision about which one best suits your needs.
 
 macOS Performance: Speed and Responsiveness
 
@@ -122,7 +122,7 @@ If you use Google services like Gmail, Google Drive, and Google Docs, Chrome off
 
 Chrome's extension ecosystem is significantly larger than Safari's, giving users access to a wider range of tools and customizations. For power users who depend on specific extensions for their workflow, Chrome's library may be essential. Many web developers and designers also prefer Chrome because the browser is the target for many web-based tools and services.
 
-Chrome's tab sync is robust, allowing you to access your open tabs from any device. The integration with Android devices is particularly strong, making Chrome the better choice for users who balance between Macs and Android phones.
+Chrome's tab sync is solid, allowing you to access your open tabs from any device. The integration with Android devices is particularly strong, making Chrome the better choice for users who balance between Macs and Android phones.
 
 Ecosystem Summary
 

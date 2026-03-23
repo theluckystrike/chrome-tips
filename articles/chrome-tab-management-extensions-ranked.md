@@ -29,7 +29,7 @@ Chrome's built-in Memory Saver often fails when you need granular control over w
 
 Last tested: March 2026 | Chrome latest stable
 
-## 1. Tab Suspender Pro. The Precision Choice
+1. Tab Suspender Pro. The Precision Choice
 
 Tab Suspender Pro transforms how you manage browser memory with surgical precision. Unlike Chrome's broad-stroke Memory Saver, this extension gives you complete control over tab suspension behavior.
 
@@ -45,7 +45,7 @@ Tab Suspender Pro earns the top spot because it solves the core problem with Chr
 
 One limitation: The interface can feel overwhelming for users who prefer simpler solutions.
 
-## 2. Auto Tab Discard. The Open Source Alternative
+2. Auto Tab Discard. The Open Source Alternative
 
 Auto Tab Discard brings enterprise-grade tab management to everyday users. This open-source extension focuses on intelligent automation rather than manual control.
 
@@ -60,7 +60,7 @@ Best for: Users who want set-and-forget automation. The extension learns your br
 Pro: Highly configurable with advanced options for power users.
 Con: Steeper learning curve compared to simpler alternatives.
 
-## 3. OneTab. The Minimalist's Dream
+3. OneTab. The Minimalist's Dream
 
 OneTab takes a different approach by converting all open tabs into a searchable list. When you need memory instantly, one click consolidates everything.
 
@@ -75,7 +75,7 @@ Best for: Users who frequently work with 50+ tabs and need quick cleanup.
 Pro: Dramatically reduces memory usage immediately.
 Con: Breaks the traditional tab workflow that many users prefer.
 
-## 4. Tab Wrangler. The Time-Based Closer
+4. Tab Wrangler. The Time-Based Closer
 
 Tab Wrangler automatically closes tabs that haven't been viewed recently, keeping only your active work visible.
 
@@ -90,7 +90,7 @@ Best for: Users who accumulate tabs throughout the day but want automatic cleanu
 Pro: Simple concept that's easy to understand and configure.
 Con: Closing tabs completely can lose unsaved work in web applications.
 
-## 5. Dormancy. The Gentle Approach
+5. Dormancy. The Gentle Approach
 
 Dormancy suspends tabs gradually, starting with the least recently used while preserving your tab bar layout exactly as you left it.
 
@@ -105,7 +105,7 @@ Best for: Users who want tab suspension without losing visual context.
 Pro: Maintains familiar tab appearance while saving memory.
 Con: Limited advanced configuration options compared to other solutions.
 
-## 6. uTab. The Dashboard Manager
+6. uTab. The Dashboard Manager
 
 uTab replaces your new tab page with a comprehensive tab management dashboard, showing all windows and suspended tabs in a grid view.
 
@@ -120,7 +120,7 @@ Best for: Users managing multiple browser windows with dozens of tabs each.
 Pro: Excellent for visual learners who prefer grid layouts.
 Con: Requires learning a new workflow for tab navigation.
 
-## Comparison Table
+Comparison Table
 
 | Extension | Best For | Key Feature | Price | Rating | Last Updated |
 |-----------|----------|-------------|-------|--------|--------------|
@@ -131,7 +131,7 @@ Con: Requires learning a new workflow for tab navigation.
 | Dormancy | Gentle suspension | Visual dimming | $1.99 one-time | Limited data | Active |
 | uTab | Multi-window workflows | Dashboard interface | $3.99/mo | Limited data | Active |
 
-## Why Users Leave Chrome's built-in Memory Saver
+Why Users Leave Chrome's built-in Memory Saver
 
 Chrome's Memory Saver creates three specific problems that drive users to alternatives. First, it provides no whitelist functionality. important tabs like email, project management tools, and video calls get suspended regardless of their importance to your workflow.
 
@@ -141,7 +141,7 @@ Second, the suspension timing is completely automatic with no user input. You ca
 
 Third, the visual indicators are minimal. You often don't realize a tab has been suspended until you click on it and wait for the reload, disrupting your focus during time-sensitive work.
 
-## Bottom Line
+Bottom Line
 
 After extensive testing, Tab Suspender Pro delivers the control and reliability that Chrome's built-in Memory Saver lacks. Its combination of smart whitelisting, custom timers, and clear visual indicators makes it the top choice for users who need professional-grade tab management. For most workflows, the precision control justifies the small monthly cost.
 

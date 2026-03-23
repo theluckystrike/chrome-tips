@@ -57,7 +57,7 @@ Finding Your Balance
 
 The chrome tab sleeping wake up delay is a trade-off. Chrome prioritizes memory efficiency over instant tab access, which generally serves users well, especially when juggling many open pages. However, the delay can interrupt your workflow when you need quick access to information.
 
-By understanding how tab sleeping works and leveraging tools like Tab Suspender Pro, you can tailor Chrome's behavior to match your needs. Whether you choose to pin your most-used sites, adjust browser flags, or invest in better hardware, there are options available to make your browsing experience smoother.
+By understanding how tab sleeping works and using tools like Tab Suspender Pro, you can tailor Chrome's behavior to match your needs. Whether you choose to pin your most-used sites, adjust browser flags, or invest in better hardware, there are options available to make your browsing experience smoother.
 
 Give these solutions a try and see which ones work best for your setup. With a few adjustments, you can reduce the delay and get back to browsing without the frustration of waiting for your tabs to wake up.
 

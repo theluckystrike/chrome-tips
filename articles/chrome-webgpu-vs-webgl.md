@@ -48,7 +48,7 @@ WebGPU introduces a cleaner separation between different types of resources thro
 
 The shader languages have also evolved significantly. WebGL uses GLSL (OpenGL Shading Language), which has its roots in the early days of programmable graphics. WebGPU uses WGSL (WebGPU Shading Language), a new language specifically designed for the modern GPU execution model. WGSL provides better type safety, more predictable behavior, and features that map more directly to how modern GPUs execute code.
 
-Error handling in WebGPU is also more robust. While WebGL often silently fails or produces undefined results when misused, WebGPU includes comprehensive validation that helps developers catch mistakes early during development. This validation can be disabled in production builds for maximum performance, but having it available during development significantly improves developer productivity.
+Error handling in WebGPU is also more solid. While WebGL often silently fails or produces undefined results when misused, WebGPU includes comprehensive validation that helps developers catch mistakes early during development. This validation can be disabled in production builds for maximum performance, but having it available during development significantly improves developer productivity.
 
 Another notable difference is the handling of textures and samplers. WebGPU separates these concepts more clearly, allowing for more flexible and efficient texture handling. The API also supports texture views, which let you reinterpret texture data in different ways without creating new textures.
 

@@ -68,7 +68,7 @@ Quantify your achievements whenever possible. Instead of saying you "improved sa
 Customization is Key
 Tailor your resume for each job application. The web tools that let you save multiple versions make this easier. You can keep a master resume and create variations that emphasize different skills or experiences depending on the position. This "targeted" approach is much more effective than sending the same generic resume to every employer.
 
-Finally, always export to PDF before submitting. This ensures your formatting stays intact and your resume looks professional on any device. By leveraging the power of Chrome and these specialized web tools, you can build a resume that truly reflects your potential.
+Finally, always export to PDF before submitting. This ensures your formatting stays intact and your resume looks professional on any device. By using the power of Chrome and these specialized web tools, you can build a resume that truly reflects your potential.
 
 ---
 

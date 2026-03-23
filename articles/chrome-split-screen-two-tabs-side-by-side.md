@@ -12,7 +12,7 @@ author: theluckystrike
 
 Chrome split screen two tabs side by side is one of the most useful productivity features that Chrome offers but that many people do not know exists. Whether you are comparing two web pages, copying information between documents, or simply want to see more than one page at a time, splitting your Chrome tabs into a side-by-side view can dramatically improve your browsing experience.
 
-## Why Split Your Screen in Chrome
+Why Split Your Screen in Chrome
 
 The main reason people want to split their Chrome tabs is simple: you need to see two things at once. Maybe you are shopping and comparing prices between two different websites. Perhaps you are researching and need to read one article while taking notes from another. Or maybe you are working and need to reference one document while filling out information in another.
 
@@ -20,7 +20,7 @@ When you try to do these things with normal Chrome tabs, you end up constantly c
 
 Another reason to use split screen is that Chrome tabs can get lost in a sea of open windows. When you have dozens of tabs open, switching between them becomes a chore. But when you arrange two tabs side by side, each one gets half your screen, making it easy to see and work with both without searching for them in your tab bar.
 
-## How to Use Chrome Built-in Split Screen
+How to Use Chrome Built-in Split Screen
 
 Chrome has a built-in way to arrange windows side by side, though it is not immediately obvious. Here is how to do it.
 
@@ -32,7 +32,7 @@ To get true side-by-side split screen, you actually need to arrange your Chrome 
 
 This approach gives you the classic split screen experience where one page is on the left and another is on the right. You can resize the windows by dragging the divider between them.
 
-## Using Chrome Extensions for Split Screen
+Using Chrome Extensions for Split Screen
 
 If you want more flexibility than the built-in methods provide, Chrome extensions are the answer. There are several excellent extensions in the Chrome Web Store that make split screen easy.
 
@@ -42,7 +42,7 @@ Another good extension is called Split Screen. This one does exactly what its na
 
 Tile Tabs is another extension worth mentioning. It lets you split your tabs in various ways, not just two at a time. You can create a grid of four tabs, arrange them in columns or rows, and even save your layouts for later use. This is particularly helpful if you need to compare more than two pages at once.
 
-## Tips for Effective Split Screen Use
+Tips for Effective Split Screen Use
 
 Now that you know how to set up split screen, here are some tips to get the most out of it.
 
@@ -54,7 +54,7 @@ Consider your screen size. Split screen works best on monitors that are at least
 
 Close tabs you are not using. One of the benefits of split screen is that it encourages you to focus on just two things at a time. Resist the temptation to keep other tabs open in the background. This not only keeps Chrome running faster but also helps you concentrate on the task at hand.
 
-## When Split Screen Is Most Helpful
+When Split Screen Is Most Helpful
 
 Split screen is useful in many situations, but there are a few where it really shines.
 
@@ -66,13 +66,13 @@ Email and calendar management works well with split screen. Keep your inbox on o
 
 Learning online becomes more efficient when you can watch a video tutorial on one side of your screen while following along in an interactive exercise on the other side.
 
-## Give It a Try
+Give It a Try
 
 Chrome split screen two tabs side by side is one of those features that once you start using, you wonder how you ever lived without it. Whether you use the built-in window arrangement method or a helpful extension like Tab Suspender Pro, seeing two pages at once will make your browsing more productive and less frustrating.
 
 Try setting up a split screen today. Pick two pages you need to use together, arrange them side by side, and see how much easier your work becomes. You might find that this simple change transforms the way you use Chrome entirely.
 
-## Related Articles
+Related Articles
 * [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained/)
 * [chrome for rosetta stone web tips](/articles/chrome-for-rosetta-stone-web-tips/)
 * [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut/)

@@ -155,7 +155,7 @@ Mobile device testing often reveals issues that desktop testing misses. Screen s
 
 Conclusion
 
-Chrome's WebAuthn debugging capabilities, particularly the Virtual Authenticator, provide a solid environment for developing and testing passkey implementations. By understanding the fundamentals of FIDO2 and WebAuthn, leveraging Chrome's developer tools effectively, and following best practices for implementation, you can create reliable passwordless authentication experiences for your users.
+Chrome's WebAuthn debugging capabilities, particularly the Virtual Authenticator, provide a solid environment for developing and testing passkey implementations. By understanding the fundamentals of FIDO2 and WebAuthn, using Chrome's developer tools effectively, and following best practices for implementation, you can create reliable passwordless authentication experiences for your users.
 
 Remember that debugging WebAuthn requires patience and attention to detail. The security-focused nature of the protocol means that small configuration differences can cause complete failures. Use the Virtual Authenticator for rapid development and testing, but always validate with real hardware and platform authenticators before deployment.
 

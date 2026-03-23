@@ -54,7 +54,7 @@ If you notice excessive paint flashing during animations, it is often a sign tha
 
 Paint flashing is also helpful for identifying unnecessary repaints that occur during scrolling or when hovering over elements. Sometimes you will find that simply hovering over a button or link triggers a repaint of a large area, which can cause noticeable jank. Identifying these issues with paint flashing is the first step toward fixing them.
 
-Leveraging Layer Borders for Visualization
+using Layer Borders for Visualization
 
 Layer borders are another powerful visualization tool in the Layers Panel. When you enable layer borders, Chrome draws colored outlines around each compositing layer, making it easy to see where one layer ends and another begins. This is particularly useful for understanding the structure of your page's layers and identifying layers that might be unexpectedly large or overlapping.
 

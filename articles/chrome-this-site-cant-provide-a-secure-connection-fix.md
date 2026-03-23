@@ -83,11 +83,6 @@ Once you have fixed the error, there are some steps you can take to reduce the c
 
 Also, periodically clear your browser cache and cookies to prevent data buildup that can cause problems. Keeping your computer's date and time set correctly is also important for maintaining secure connections.
 
-<<<<<<< HEAD
-=======
----
-
->>>>>>> qa/loop-5
 Related Articles
 * [Chrome Emulate Print Media How To](/articles/chrome-emulate-print-media-how-to/)
 * [chrome net err cert common name invalid fix](/articles/chrome-net-err-cert-common-name-invalid-fix/)

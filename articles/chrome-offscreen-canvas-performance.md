@@ -68,7 +68,7 @@ A Note on Browser Compatibility
 
 While Chrome has excellent support for Offscreen Canvas, other browsers have varying levels of support. Firefox and Safari have added support in recent versions, but some older browsers may not work with this API. Always implement feature detection and provide a fallback experience for users whose browsers do not support Offscreen Canvas.
 
-Chrome's implementation is particularly robust, with full support for both the 2D and WebGL rendering contexts in workers. This makes Chrome an excellent choice for developing graphics-intensive web applications that rely on Offscreen Canvas.
+Chrome's implementation is particularly solid, with full support for both the 2D and WebGL rendering contexts in workers. This makes Chrome an excellent choice for developing graphics-intensive web applications that rely on Offscreen Canvas.
 
 Real-World Benefits
 

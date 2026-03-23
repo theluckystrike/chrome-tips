@@ -57,7 +57,7 @@ This basic search works well for exact string matches, but it won't help you wit
 
 Access the Console for Advanced JSON Searching
 
-Click the Console tab in DevTools for more powerful search capabilities. Here you can use JavaScript to parse and filter your JSON data in ways that simple text search cannot match. The Console is particularly useful when working with complex nested structures, and our [Chrome DevTools for JSON guide](/chrome-devtools-json-guide) shows advanced techniques for leveraging these capabilities.
+Click the Console tab in DevTools for more powerful search capabilities. Here you can use JavaScript to parse and filter your JSON data in ways that simple text search cannot match. The Console is particularly useful when working with complex nested structures, and our [Chrome DevTools for JSON guide](/chrome-devtools-json-guide) shows advanced techniques for using these capabilities.
 
 If your JSON is in a network response, you'll need to copy it first. Right-click on the response in the Network tab and select "Copy response." Then paste it into a variable in the Console like this:
 

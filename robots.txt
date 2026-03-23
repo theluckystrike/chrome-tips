@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://chrometipsguide.com/sitemap.xml
+Sitemap: https://chrometipsguide.com/feed.xml

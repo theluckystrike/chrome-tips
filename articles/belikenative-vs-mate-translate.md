@@ -102,7 +102,8 @@ competitive_data:
     version: ""
     size: ""
     last_updated: ""
-    available: ""---
+    available: ""
+---
 
 **BeLikeNative** wins for most users who need fast, AI-powered translation with writing assistance. The belikenative vs mate translate comparison shows clear differences in speed, resource usage, and feature focus. For international students and multilingual users exploring translation options, our guide to the [best chrome extensions for international students](/best-chrome-extensions-international-students) provides additional context on popular language tools. BeLikeNative delivers superior performance with 80% smaller file size, while Mate Translate offers broader language support but consumes significantly more system resources.
 

@@ -96,7 +96,8 @@ competitive_data:
     version: ""
     size: ""
     last_updated: ""
-    available: ""---
+    available: ""
+---
 
 **BeLikeNative** wins for comprehensive writing assistance beyond translation, while **TWP Translate Web Pages** excels at pure webpage translation speed. I tested both extensions extensively on multilingual websites, content creation workflows, and real-world translation scenarios to determine which delivers better value for different use cases. The belikenative vs translate web pages twp debate comes down to whether you need AI-powered writing tools or focused translation functionality.
 

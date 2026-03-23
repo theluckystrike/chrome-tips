@@ -93,7 +93,8 @@ competitive_data:
     version: ""
     size: ""
     last_updated: ""
-    available: ""---
+    available: ""
+---
 
 **BeLikeNative** wins this comparison for most users who need comprehensive writing assistance beyond basic translation. After testing both extensions extensively, the belikenative vs simple translate debate comes down to scope: BeLikeNative offers AI-powered paraphrasing and rewriting alongside translation, while Simple Translate focuses purely on quick text conversion between languages.
 

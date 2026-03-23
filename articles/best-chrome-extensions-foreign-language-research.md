@@ -80,7 +80,8 @@ competitive_data:
     version: ""
     size: ""
     last_updated: ""
-    available: ""---
+    available: ""
+---
 
 The best Chrome extension for Foreign Language Research is belikenative. After testing 23 extensions for translation accuracy, contextual understanding, and research workflow integration, belikenative consistently delivered the most reliable AI-powered translations and paraphrasing capabilities that foreign language researchers need. We evaluated each extension based on translation quality, language support, offline functionality, and integration with research tools to find the best chrome extensions foreign language research professionals rely on.
 

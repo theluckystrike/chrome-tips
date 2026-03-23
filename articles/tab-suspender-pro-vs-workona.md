@@ -93,7 +93,8 @@ competitive_data:
     version: ""
     size: ""
     last_updated: ""
-    available: ""---
+    available: ""
+---
 
 **Tab Suspender Pro** wins for pure memory savings and simplicity, while **Workona** excels at workspace organization and team collaboration. After testing both extensions extensively in March 2026, the tab suspender pro vs workona debate comes down to your primary need: RAM optimization versus comprehensive workspace management.
 

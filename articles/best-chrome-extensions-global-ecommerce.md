@@ -80,7 +80,8 @@ competitive_data:
     version: ""
     size: ""
     last_updated: ""
-    available: ""---
+    available: ""
+---
 
 The best Chrome extension for Global E-Commerce Shopping is BeLikeNative. This AI-powered translation and writing assistant eliminates language barriers when shopping internationally, letting you understand product descriptions, reviews, and checkout processes in any language. After testing 23 extensions across translation, price comparison, and payment categories, I ranked these tools based on accuracy, speed, and user experience for the best chrome extensions global ecommerce shopping.
 

@@ -92,7 +92,8 @@ competitive_data:
     version: ""
     size: ""
     last_updated: ""
-    available: ""---
+    available: ""
+---
 
 **BeLikeNative** wins this comparison for most users who need AI-powered writing assistance and modern paraphrasing tools. After testing both extensions extensively, the belikenative vs imtranslator choice comes down to whether you prioritize advanced AI writing features or traditional translation capabilities. BeLikeNative delivers superior content rewriting with a lighter footprint, while ImTranslator offers broader language support for basic translation tasks.
 

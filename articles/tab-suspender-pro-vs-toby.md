@@ -86,7 +86,8 @@ competitive_data:
     version: ""
     size: ""
     last_updated: ""
-    available: ""---
+    available: ""
+---
 
 **Tab Suspender Pro** wins this comparison for most users who need automatic memory management and lightweight tab suspension. After testing both extensions across different workflows and system configurations, Tab Suspender Pro delivers superior performance with its 185KiB footprint compared to Toby's 24.11MiB size. This tab suspender pro vs toby analysis covers everything you need to choose the right extension.
 

@@ -85,7 +85,7 @@ competitive_data:
     version: ""
     size: ""
     last_updated: ""
-    available: ""---
+    available: ""
 video_id: "GMzAYDNsZCE"
 faq:
   - q: "Which is faster, JSON Formatter Pro or Altair GraphQL?"

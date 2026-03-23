@@ -110,7 +110,8 @@ competitive_data:
     version: ""
     size: ""
     last_updated: ""
-    available: ""---
+    available: ""
+---
 
 **JSON Formatter Pro** is a Chrome extension that beautifies and navigates JSON responses in your browser. **Insomnia** is a standalone API client that lets you construct, send, and test HTTP requests. These tools operate at different stages of the development workflow, which is why comparing them directly requires understanding what you actually need to do.
 

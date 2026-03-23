@@ -16,7 +16,7 @@ tags:
 - memory-optimization
 - chrome-settings
 author: theluckystrike
-permalink: 4gb-ram-laptop-best-browser-settings
+permalink: /4gb-ram-laptop-best-browser-settings/
 last_modified_at: '2026-03-12'
 ---
 # 4GB RAM Laptop Best Browser Settings

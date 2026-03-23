@@ -37,10 +37,12 @@ I spend too much time in Chrome. Might as well make it fast. These guides cover 
 
 ## Recently Updated
 
-{% assign article_pages = site.pages | where_exp: "p", "p.path contains 'articles/'" | where_exp: "p", "p.title != nil" | where_exp: "p", "p.date != nil" | sort: "date" | reverse %}
-{% for p in article_pages limit: 6 %}
-- [{{ p.title }}]({{ p.url }})
-{% endfor %}
+- [Best Ad Blocker for Chrome: Setup Guide](/ad-blocker-chrome-setup-guide/)
+- [Chrome Performance Optimization Guide](/chrome-performance-optimization-guide/)
+- [Chrome Memory Management Complete Guide](/chrome-memory-management-complete-guide/)
+- [Working with 50+ Tabs: A Practical Guide](/working-with-50-plus-tabs-guide/)
+- [Chrome Flags Best Settings 2026](/chrome-flags-best-settings/)
+- [Best Chrome Extensions for Developers](/best-chrome-extensions-developers/)
 
 ## Browse by Topic
 

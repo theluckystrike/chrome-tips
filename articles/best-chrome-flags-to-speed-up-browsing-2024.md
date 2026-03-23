@@ -15,7 +15,7 @@ tags:
 - chrome-tips
 - 2024
 author: theluckystrike
-permalink: best-chrome-flags-to-speed-up-browsing-2024
+permalink: /best-chrome-flags-to-speed-up-browsing-2024/
 last_modified_at: '2026-03-12'
 ---
 # Best Chrome Flags to Speed Up Browsing 2024

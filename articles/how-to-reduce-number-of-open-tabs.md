@@ -18,7 +18,7 @@ We've all been there. You open a new tab to check something, then another, then 
 
 Having too many open tabs is one of the most common browser problems. It slows down Chrome, makes it hard to find what you need, and can even affect your computer's performance. The good news is that there are simple ways to bring your tab count down without losing important pages.
 
-## Why So Many Tabs Pile Up
+Why So Many Tabs Pile Up
 
 There are a few reasons why tabs multiply so quickly. First, Chrome makes it incredibly easy to open new tabs. A quick click or keyboard shortcut and boom, another tab appears. There's no friction to stop you from opening more.
 
@@ -30,7 +30,7 @@ Finally, some people use tabs as a kind of to-do list. They keep research pages,
 
 The result is a browser full of tabs you're not actively using. Each open tab uses memory and CPU even when you're not looking at it. Reducing the number of tabs makes Chrome faster and helps you focus on what matters.
 
-## Start by Closing What You Don't Need
+Start by Closing What You Don't Need
 
 The most obvious step is also the hardest for many people. You need to actually close tabs you aren't using. It sounds simple, but it's where most people get stuck.
 
@@ -42,7 +42,7 @@ For tabs you want to keep but don't need open right now, bookmark them instead. 
 
 If you're worried about forgetting to go back to a page, use the reading list feature. Right-click any tab and choose "Add tab to reading list." This saves the page in a clean list without keeping it open in your browser.
 
-## Use Tab Groups to Organize
+Use Tab Groups to Organize
 
 Chrome's tab groups feature helps you manage multiple tabs by grouping them visually. While this doesn't reduce the number of tabs, it makes them easier to handle.
 
@@ -52,7 +52,7 @@ When you have too many tabs, part of the problem is just finding what you need. 
 
 This works best when combined with the habit of closing unused tabs. Use groups for tabs you're actively working with, then close everything else.
 
-## Try Tab Suspender Pro
+Try Tab Suspender Pro
 
 If you want a more automatic solution for how to reduce number of open tabs, consider using Tab Suspender Pro. This extension helps manage your tabs by automatically suspending ones you aren't using.
 
@@ -64,7 +64,7 @@ The extension also saves your tabs automatically. If Chrome crashes or you accid
 
 You can find Tab Suspender Pro in the Chrome Web Store. It works quietly in the background and doesn't require much setup. Once installed, it starts managing your tabs right away.
 
-## Develop Better Tab Habits
+Develop Better Tab Habits
 
 Beyond tools and features, changing how you use tabs makes the biggest difference over time.
 
@@ -76,7 +76,7 @@ Set a personal limit for how many tabs you'll keep open at once. Some people fin
 
 Finally, close Chrome completely at the end of your workday. This forces you to bookmark or save anything important before you stop. When you open Chrome again, you start fresh instead of returning to a cluttered mess of old tabs.
 
-## Make It a Regular Practice
+Make It a Regular Practice
 
 Reducing tabs isn't a one-time fix. It's an ongoing practice that requires attention. Schedule a tab cleanup once a week, maybe every Monday morning or Friday afternoon. Go through your open tabs and close anything you haven't used in the past week.
 
@@ -84,7 +84,7 @@ This regular maintenance keeps your browser manageable over time. Without it, ta
 
 During your cleanup, move useful pages to bookmarks, add articles to your reading list, and close everything else. Your future self will thank you when Chrome opens faster and you can actually find what you need.
 
-## Quick Summary
+Quick Summary
 
 To reduce number of open tabs, start by closing tabs you aren't actively using. Use bookmarks for pages you want to save and the reading list for articles to read later. Tab groups help organize related tabs visually. For automatic tab management, Tab Suspender Pro suspends inactive tabs and saves memory.
 
@@ -94,7 +94,7 @@ Once you get comfortable with fewer open tabs, you'll notice Chrome runs faster 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser/)
 * [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome/)
 * [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions/)

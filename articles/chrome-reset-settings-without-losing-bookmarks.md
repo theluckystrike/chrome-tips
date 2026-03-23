@@ -23,7 +23,7 @@ Chrome can accumulate clutter over time. Extensions pile up, settings get change
 
 If your browser has become sluggish, crashes frequently, or you suspect malware has tampered with your settings, a reset might be exactly what you need. This guide walks you through the process step by step, explaining what gets removed and what stays safe during the reset.
 
-## What Happens When You Reset Chrome
+What Happens When You Reset Chrome
 
 Before proceeding, it is helpful to understand what changes during a reset. When you reset Chrome settings, the following items are restored to their defaults:
 
@@ -43,27 +43,27 @@ The reset does NOT remove:
 
 This means you can safely reset Chrome without worrying about losing your bookmarks or other personal information. However, disabled extensions will need to be re-enabled manually after the reset.
 
-## Step-by-Step Guide to Resetting Chrome
+Step-by-Step Guide to Resetting Chrome
 
-### Method 1: Using Chrome Settings
+Method 1: Using Chrome Settings
 
 The simplest way to reset Chrome is through the browser settings. Open Chrome and click the three dots in the top-right corner of the window. From the dropdown menu, select Settings. On the left sidebar, click the arrow next to Reset and clean up, then choose Restore settings to their original defaults.
 
 A confirmation dialog will appear explaining what the reset will change. Click Reset settings to confirm. Chrome will close and reopen with default settings restored. Your bookmarks and saved data will remain intact, but you may need to sign in again if you were using sync.
 
-### Method 2: Using the Address Bar
+Method 2: Using the Address Bar
 
 If Chrome is not responding properly, you can access the reset function directly through the address bar. Type `chrome://settings/reset` in the address bar and press Enter. Click on Restore settings to their original defaults, then confirm by clicking Reset settings again.
 
 This method is particularly useful when the Settings menu is unresponsive or when Chrome is running slowly enough that navigating through menus becomes difficult.
 
-### Method 3: Using Command Line Flags
+Method 3: Using Command Line Flags
 
 Advanced users can reset Chrome using command line arguments. If you are on Windows, right-click the Chrome shortcut and select Properties. In the Target field, add `--reset-settings` at the end of the path (leave a space before the dashes). On Mac, you can run Chrome from Terminal with the same flag. Launch Chrome using this modified shortcut or command, and the reset will occur on startup.
 
 This method is less commonly needed but serves as a backup when other methods fail.
 
-## What to Do After Resetting Chrome
+What to Do After Resetting Chrome
 
 Once Chrome has been reset, there are a few things you should do to get back to optimal performance.
 
@@ -75,7 +75,7 @@ Third, consider installing Tab Suspender Pro if memory usage was a concern befor
 
 Finally, take a moment to review your Chrome flags. Type `chrome://flags` in the address bar to experiment with experimental features, but be cautious about enabling flags that are marked as unstable.
 
-## When to Consider a Full Reinstall
+When to Consider a Full Reinstall
 
 In rare cases, a simple reset may not solve persistent issues. If Chrome still crashes, displays error messages, or behaves abnormally after resetting, a complete reinstall might be necessary. This involves uninstalling Chrome, deleting the user data folder, and installing a fresh copy.
 
@@ -83,7 +83,7 @@ Before going this route, back up your bookmarks by going to the three-dot menu, 
 
 A full reinstall removes every trace of Chrome from your computer, giving you a completely fresh start. It is a more drastic solution but can resolve issues that survive a standard reset.
 
-## Keeping Chrome Running Smoothly
+Keeping Chrome Running Smoothly
 
 Resetting Chrome solves many problems, but maintaining performance requires ongoing attention. Keep your browser updated to the latest version, manage your extensions carefully, and periodically clear your cache and browsing data if you notice slowdowns.
 
@@ -91,11 +91,11 @@ For users who frequently keep many tabs open, consider using extensions that man
 
 With your settings restored to defaults and your bookmarks safe, Chrome should feel like new again. Enjoy the improved performance and cleaner interface.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
 ---
 
-## Related Articles
+Related Articles
 * [How to Clear Cache for Specific Site Only in Chrome](/articles/chrome-clear-cache-specific-site-only/)
 * [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings/)
 * [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/articles/chrome-autofill-wrong-address-keeps-appearing/)

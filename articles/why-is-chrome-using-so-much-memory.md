@@ -14,7 +14,7 @@ author: theluckystrike
 
 If you have ever asked yourself why is chrome using so much memory, you are not alone. This is one of the most common complaints about Google Chrome, and it affects millions of computer users every day. You open a handful of tabs to check your email, read some news, and maybe watch a quick video, and suddenly Chrome is consuming more memory than everything else running on your computer combined. It feels excessive, and you might wonder what is actually happening behind the scenes.
 
-## Why Chrome Uses So Much Memory
+Why Chrome Uses So Much Memory
 
 The main reason Chrome consumes so much memory comes down to how it handles tabs. Chrome runs each tab as its own separate process. This is actually a deliberate design choice that makes Chrome more stable and secure. When one tab crashes or encounters a problem, it does not bring down your entire browser.
 
@@ -24,13 +24,13 @@ Modern websites are also much more complex than they used to be. A single webpag
 
 Chrome also maintains a cache to help pages load faster. This cached data stays in memory so Chrome does not have to re-download things you have already seen. While this helps with speed, it also adds to the total memory Chrome uses.
 
-## How Extensions Contribute to the Problem
+How Extensions Contribute to the Problem
 
 Browser extensions are another major source of memory usage. Every extension you install runs in the background, consuming resources even when you are not actively using it. Some extensions are lightweight, but others can be surprisingly resource-hungry.
 
 If you have dozens of extensions installed, each one adds to Chrome's memory usage. You might be surprised how much memory an extension you barely use is consuming just by sitting in the background.
 
-## What You Can Do About It
+What You Can Do About It
 
 The good news is there are several straightforward ways to reduce Chrome's memory footprint without giving up the features you need.
 
@@ -44,7 +44,7 @@ Managing your extensions regularly makes a difference too. Go to chrome://extens
 
 One solution worth considering is Tab Suspender Pro. This tool automatically manages your tabs by suspending ones you are not using, freeing up the memory they were consuming while keeping them instantly accessible when you need them. It is particularly helpful if you tend to keep many tabs open for research or work.
 
-## Keeping Memory Usage Under Control
+Keeping Memory Usage Under Control
 
 Once you have reduced Chrome's memory usage, a few ongoing habits help keep it that way. Clearing your cache periodically prevents it from growing too large and consuming excess memory. You do not need to do this every week, but doing it every few weeks keeps things manageable.
 
@@ -58,7 +58,7 @@ Understanding why Chrome uses so much memory is the first step to fixing it. Wit
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/articles/chrome-err-too-many-redirects-cookie-fix/)
 * [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop/)
 * [Chrome Network Throttling Guide](/articles/chrome-network-throttling-guide/)

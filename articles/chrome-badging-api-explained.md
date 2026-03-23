@@ -19,7 +19,7 @@ permalink: chrome-badging-api-explained
 
 Chrome badging API explained is a topic that comes up when users notice small numbers or dots appearing on their browser toolbar icons. If you have ever seen a red badge showing how many unread messages you have, or a small dot indicating something new on a website, you have encountered what the Badging API enables.
 
-## What the Chrome Badging API Actually Is
+What the Chrome Badging API Actually Is
 
 The Chrome Badging API is a feature built into Google Chrome that allows websites and web applications to display small indicators on their icons in the browser toolbar. These indicators can be simple dots, numbers, or other markers that tell you something without needing to open the website.
 
@@ -27,7 +27,7 @@ Think of it like the notification badge on your phone apps. When you have three 
 
 This API is particularly useful for web-based email clients, chat applications, task management tools, social media sites, and any other website where you might have notifications or items that need your attention. Instead of constantly checking these sites to see if something new has happened, the badge tells you at a glance.
 
-## Why This Feature Exists
+Why This Feature Exists
 
 Before the Badging API existed, websites had limited ways to get your attention when you were not actively using them. They could send you browser notifications, which sometimes felt intrusive, or they could rely on you to remember to check them regularly. Neither approach was ideal.
 
@@ -35,7 +35,7 @@ The Badging API solves this problem by providing a subtle but effective way for 
 
 This feature became especially important as more people started using web applications as alternatives to installed software. When you use a web-based email client or a cloud-based productivity tool, you want it to feel like a real application on your computer. Badges are a small but meaningful part of that experience, helping web apps feel more responsive and connected to your daily workflow.
 
-## How It Affects Your Browsing Experience
+How It Affects Your Browsing Experience
 
 When you use Chrome, you may start noticing badges on various websites that support this feature. An email web app might show how many unread messages you have waiting. A chat application might display the number of new conversations. A task management tool might indicate how many items are due today.
 
@@ -43,7 +43,7 @@ These badges update automatically as the information on the website changes. If 
 
 You will see these badges in the area of your browser where extension icons appear, next to the address bar. They work similarly to how extension icons can show badges, but now regular websites can use this feature too. This makes it easier to keep track of multiple web applications without having to keep all their tabs open.
 
-## When Problems Might Occur
+When Problems Might Occur
 
 Sometimes you might notice issues with badges not appearing when you expect them, or badges staying visible when they should have disappeared. Understanding what causes these issues can help you address them.
 
@@ -53,7 +53,7 @@ Another potential issue is related to permissions. Some websites need permission
 
 Browser updates can also affect how badges work. Chrome regularly updates its features, and sometimes these updates can change how badges are displayed or which websites can use them. Keeping your browser updated helps ensure the best experience with this feature.
 
-## Troubleshooting Steps
+Troubleshooting Steps
 
 If badges are not working the way you expect, there are several steps you can try. First, make sure the website is allowed to show notifications. Click the icon next to the address bar to see what permissions the site has, and enable notifications if they are currently blocked.
 
@@ -63,7 +63,7 @@ Check your Chrome extensions as well. Some extensions can interfere with how web
 
 Make sure you are running the latest version of Chrome. Google constantly improves the browser, and newer versions often include better support for features like the Badging API. You can check for updates by clicking the three dots in the upper right corner of your browser, selecting Help, and choosing About Google Chrome.
 
-## A Helpful Tool for Managing Your Browser
+A Helpful Tool for Managing Your Browser
 
 If you find that keeping track of your many open tabs and web applications feels overwhelming, there are tools that can help. Tab Suspender Pro is an extension designed to help you manage your open tabs more effectively. It can automatically suspend tabs you are not actively using, which helps your browser run faster and uses less memory.
 
@@ -73,7 +73,7 @@ Using tools like this, along with understanding how features like the Badging AP
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
 * [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide//)
 * [Chrome Encrypted DNS Explained for Beginners](/articles/chrome-encrypted-dns-explained-for-beginners/)

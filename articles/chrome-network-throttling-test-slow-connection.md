@@ -21,7 +21,7 @@ author: theluckystrike
 
 When building websites and web applications, understanding how your site performs under real-world conditions is crucial. One of the most effective ways to do this is by using Chrome network throttling to test slow connections. This powerful feature in Chrome DevTools allows developers to simulate various network conditions without needing specialized hardware or complex setups.
 
-## Why Test with Slow Connections
+Why Test with Slow Connections
 
 Testing your website on a fast internet connection can give you a false sense of how your site performs for real users. Many people still use slower connections, especially in rural areas, developing countries, or on mobile networks during peak times. By simulating slow connections during development, you can identify performance bottlenecks before your users encounter them.
 
@@ -29,7 +29,7 @@ Slow connection testing helps you understand how your site behaves when bandwidt
 
 Beyond basic performance, testing with throttled connections reveals how your site handles timeouts, error states, and progressive loading. Users on slow connections often abandon sites that take too long to load, so optimizing for these conditions can improve your conversion rates and user retention.
 
-## Accessing Chrome Network Throttling
+Accessing Chrome Network Throttling
 
 Chrome network throttling is built directly into Chrome DevTools, making it easily accessible for any developer. To access this feature, open Chrome and press F12 or right-click anywhere on a page and select Inspect. This opens the DevTools panel.
 
@@ -37,7 +37,7 @@ Once DevTools is open, look for the Network tab in the top navigation. In the Ne
 
 The available presets typically include Fast 3G, Slow 3G, Offline, and sometimes custom options. Fast 3G simulates a typical mobile connection with decent speed but higher latency. Slow 3G represents older networks with significantly reduced speeds and longer response times. Offline completely prevents network requests, useful for testing service workers and offline functionality.
 
-## Configuring Custom Throttling Profiles
+Configuring Custom Throttling Profiles
 
 While the preset options are useful, you may need more specific control over your network simulation. Chrome allows you to create custom throttling profiles with precise control over download speed, upload speed, and latency.
 
@@ -45,7 +45,7 @@ To access these settings, click the dropdown menu in the Network tab and select 
 
 For example, you might want to simulate a 3G connection with 400 milliseconds of latency and 400 Kbps download speed. Or perhaps you need to test how your site performs on a congested WiFi network with high latency but decent bandwidth. Custom profiles let you recreate these exact conditions.
 
-## Best Practices for Slow Connection Testing
+Best Practices for Slow Connection Testing
 
 When using Chrome network throttling to test slow connections, there are several best practices that can help you get more accurate results.
 
@@ -59,7 +59,7 @@ Fourth, test critical user journeys specifically. Focus on the pages and workflo
 
 Fifth, monitor the console for errors. Network issues can cause failures that might not be obvious from visual inspection alone. Keep an eye on the Console tab for any error messages that appear under throttled conditions.
 
-## Common Issues Found Through Throttling
+Common Issues Found Through Throttling
 
 Using Chrome network throttling to test slow connections often reveals issues that would otherwise go unnoticed. Large, unoptimized images are one of the most common problems. On fast connections, large images may load quickly enough not to cause concern, but on slower connections, they become major bottlenecks.
 
@@ -69,7 +69,7 @@ Third-party scripts and widgets can also cause significant problems. Analytics, 
 
 Dependency chains represent another common issue. If your CSS depends on fonts that depend on JavaScript, a slow connection can create a cascade of delays. Understanding these chains helps you restructure your loading priorities.
 
-## Optimizing for Slow Connections
+Optimizing for Slow Connections
 
 Once you have identified problems through throttled testing, you can begin optimizing your site. Start with images by compressing them and using modern formats like WebP. Implement responsive images to serve smaller files to users on slower connections.
 
@@ -79,7 +79,7 @@ Consider implementing a service worker to cache critical resources. This allows 
 
 Font optimization is often overlooked but important for slow connection performance. Subsetting fonts and using display: swap ensures text is visible even while fonts are loading. This prevents the invisible text problem that occurs when fonts take too long to download.
 
-## Tools That Complement Network Throttling
+Tools That Complement Network Throttling
 
 While Chrome network throttling is powerful on its own, combining it with other tools provides deeper insights. Lighthouse, also built into Chrome DevTools, runs comprehensive audits that include performance recommendations specific to your throttled conditions.
 
@@ -87,14 +87,14 @@ If you run multiple tabs while testing, Tab Suspender Pro can help manage resour
 
 The Performance tab in DevTools provides detailed timelines of how your page loads under throttled conditions. This helps you understand exactly where time is being spent and identify specific bottlenecks in your loading sequence.
 
-## Related Articles
+Related Articles
 * [Chrome Default Download Location How to Change](/articles//chrome-default-download-location-how-to-change//)
 * [Chrome Extensions for WordPress](/articles/chrome-extensions-for-wordpress/)
 * [chrome extensions for wireframe design](/articles/chrome-extensions-for-wireframe-design/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome for Social Media Management Extensions](/articles/chrome-for-social-media-management-extensions)
 - [Chrome Developer Tools for Non Developers](/articles//chrome-developer-tools-for-non-developers/)

@@ -24,7 +24,7 @@ If you have ever wondered about chrome push notifications api explained in simpl
 
 The Chrome Push Notifications API is essentially a bridge between websites and your browser that allows websites to send you messages even when you are not actively visiting them. This technology powers the notifications you see pop up from news sites, shopping platforms, and web applications. While useful in certain situations, it can also become intrusive if you do not know how to manage it properly.
 
-## What the Chrome Push Notifications API Actually Does
+What the Chrome Push Notifications API Actually Does
 
 The Chrome Push Notifications API allows websites to send notifications to your desktop or mobile browser. When you visit a website and click "Allow" when asked about notifications, that website gains the ability to push messages to your browser. These notifications can appear even when you have closed the website or switched to a different tab.
 
@@ -32,7 +32,7 @@ This works through a system called web push. Websites register with your browser
 
 The technology behind this is quite sophisticated. It uses something called a service worker, which is a small program that runs in the background of your browser. The service worker listens for incoming messages from websites and handles displaying notifications on your behalf. This separation allows notifications to work even when you have closed all tabs from that particular website.
 
-## Why Websites Want to Use Push Notifications
+Why Websites Want to Use Push Notifications
 
 Websites use push notifications as a way to re-engage visitors and keep them informed about new content. For news sites, this means alerting you to breaking stories the moment they happen. For shopping websites, it might be a notification about a price drop or a flash sale. For web applications, it could be a message about a new email or a task reminder.
 
@@ -40,7 +40,7 @@ The business logic behind push notifications is straightforward. Websites compet
 
 However, not all notifications are equally useful. Some websites send too many notifications, turning what should be a helpful feature into a source of constant interruption. The key is learning which sites deserve notification access and which ones you should block.
 
-## How to Manage Push Notifications in Chrome
+How to Manage Push Notifications in Chrome
 
 Managing push notifications in Chrome is straightforward once you know where to look. The first step is to visit the notifications settings in Chrome. You can type "chrome://settings/notifications" into your address bar to go directly there, or navigate through the settings menu by clicking the three dots in the top right corner, selecting Settings, and then clicking Privacy and security followed by Site settings.
 
@@ -48,7 +48,7 @@ Once you are in the notifications settings, you will see a list of websites that
 
 For each website, you have three options. You can allow notifications, which means the site can send you push notifications. You can block notifications, which prevents the site from sending anything. Or you can choose to have Chrome ask you each time whether you want to allow or block notifications from that site.
 
-## Steps to Take Control of Your Notifications
+Steps to Take Control of Your Notifications
 
 If you are receiving too many notifications, taking control is easier than you might think. Start by going through the list of sites with notification permissions and removing any that you no longer want to hear from. Be honest with yourself about which sites actually provide value through notifications.
 
@@ -56,7 +56,7 @@ For sites you want to keep, consider whether the current notification frequency 
 
 Another useful approach is to only allow notifications from sites you visit frequently and trust. News sites you read daily might be worth allowing, while a shopping site you visit once a month probably does not need notification access. The more selective you are, the less cluttered your notification experience becomes.
 
-## What to Do When Notifications Stop Working
+What to Do When Notifications Stop Working
 
 Sometimes push notifications suddenly stop working, which can be frustrating if you rely on them. This usually happens because of a setting change, a browser update, or a problem with the website itself. The first thing to check is whether notifications are enabled globally in Chrome.
 
@@ -66,7 +66,7 @@ If notifications are enabled globally but still not working for a specific site,
 
 Extensions can sometimes interfere with notifications as well. If you have any extensions related to notifications or privacy, try disabling them temporarily to see if that resolves the issue. Extensions like ad blockers or privacy tools sometimes block notification requests without you realizing it.
 
-## Using Extensions to Help Manage Notifications
+Using Extensions to Help Manage Notifications
 
 If managing notifications feels overwhelming, there are tools available to help. Extensions like Tab Suspender Pro can help you organize your browser and reduce clutter, which makes it easier to focus on the notifications that matter. While Tab Suspender Pro does not directly manage push notifications, keeping your browser running smoothly makes dealing with notifications less frustrating.
 
@@ -74,7 +74,7 @@ Chrome also has built-in features that can help. The Quiet Messaging option in C
 
 Some notification management extensions are available in the Chrome Web Store as well. These can provide additional controls over how and when you receive notifications. Just be careful about which extensions you install, and make sure they come from trusted developers.
 
-## Keeping Your Browser Running Smoothly
+Keeping Your Browser Running Smoothly
 
 Push notifications use some system resources to work properly. Each notification requires your browser to run background processes, and if you have many sites with notification permissions, this can add up. Keeping your browser organized and efficient helps it handle notifications without slowing down.
 
@@ -84,14 +84,14 @@ If you find that Chrome is running slowly and you have many notification permiss
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Multiple Profiles How to Switch Fast](/articles/chrome-multiple-profiles-how-to-switch-fast/)
 * [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
 * [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Extensions For Citation Generator](/articles//articles/chrome-extensions-for-citation-generator/)
 - [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https)

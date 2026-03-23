@@ -16,7 +16,7 @@ author: theluckystrike
 
 If you are searching for chrome using too much memory on MacBook Air, you are probably dealing with a slow, unresponsive browser that makes it hard to get work done. This is a very common issue, especially on MacBook Air models which have less RAM than Pro models. The good news is there are several things you can do to bring Chrome back to life and make your browsing experience much smoother.
 
-## Why Chrome Uses So Much Memory on MacBook Air
+Why Chrome Uses So Much Memory on MacBook Air
 
 Chrome is built to be powerful and flexible, but that power comes with a cost. Each tab you open in Chrome runs as its own separate process. This means if you have twenty tabs open, Chrome is running twenty different programs at the same time. This architecture keeps tabs isolated from each other so one crashing tab does not take down the rest of your browser, but it also means each tab uses its own chunk of memory.
 
@@ -24,7 +24,7 @@ On a MacBook Air, this becomes especially noticeable because these machines typi
 
 Extensions are another major factor. Every extension you install adds code that runs on every single page you visit. Even extensions you are not actively using are consuming memory in the background. If you have ten or fifteen extensions installed, that can easily add up to hundreds of megabytes or even a gigabyte of memory usage.
 
-## Turn On Chrome's Memory Saver
+Turn On Chrome's Memory Saver
 
 Chrome has a built-in feature called Memory Saver that can dramatically reduce memory usage without you having to change your browsing habits. When Memory Saver is turned on, Chrome automatically puts tabs you have not used recently to sleep. This means those tabs still exist in your browser, but they are not using any memory until you click on them again.
 
@@ -32,7 +32,7 @@ To enable Memory Saver, open Chrome and click the three dots in the top right co
 
 When you click on a sleeping tab, it reloads almost instantly. Most users do not even notice the reload happening, but the memory savings are very real. If you typically keep many tabs open for later reading or reference, Memory Saver can cut your Chrome memory usage in half or more.
 
-## Check Your Extensions
+Check Your Extensions
 
 Extensions are wonderful for adding features to Chrome, but they can also be memory monsters. Take a few minutes to review what you have installed. Go to chrome://extensions in your address bar and look through your list.
 
@@ -40,7 +40,7 @@ Remove any extension you have not used in the past month. If you have not touche
 
 A good guideline is to keep no more than five essential extensions. Each one adds some memory overhead, and while a single extension might only use a small amount, having many of them running on every page can really add up.
 
-## Close Tabs You Are Not Using
+Close Tabs You Are Not Using
 
 This sounds simple, but it makes a huge difference. Every open tab uses memory, even if you are not looking at it. If you tend to accumulate tabs over time, try to make a habit of closing ones you are done with.
 
@@ -48,7 +48,7 @@ If you find yourself keeping tabs open because you want to come back to them lat
 
 If manually managing tabs feels like too much work, you might consider using Tab Suspender Pro. This extension automatically suspends tabs you have not used recently, which frees up memory without you having to think about it. Tab Suspender Pro is one option among several available, but many users find it helpful for keeping their browser fast while still being able to keep reference tabs available.
 
-## Adjust Chrome Settings
+Adjust Chrome Settings
 
 Chrome has settings that can help reduce memory usage without sacrificing too much functionality. Go to Settings, then Privacy and Security, then Site Settings. Here you can control what content runs on websites.
 
@@ -56,19 +56,19 @@ Consider turning off auto-play for videos. Many websites auto-play videos in the
 
 You can also control JavaScript on a per-site basis. Some websites need JavaScript for important features, but many use it for things that are not essential. Experimenting with these settings can help you find a good balance between keeping websites functional and reducing memory usage.
 
-## Keep Chrome Updated
+Keep Chrome Updated
 
 Google is constantly improving Chrome, and newer versions often include memory optimizations that can make a big difference. Make sure Chrome is set to update automatically, or check for updates manually by going to Chrome, then About Chrome.
 
 Running the latest version ensures you benefit from the newest performance improvements. Updates often address memory leaks and other issues that can cause Chrome to use more memory over time.
 
-## Restart Your MacBook Air Regularly
+Restart Your MacBook Air Regularly
 
 While this is not specific to Chrome, restarting your MacBook Air regularly helps clear out accumulated memory that applications have allocated over time. If you have not restarted in a while, a simple restart can free up significant memory and make everything feel faster.
 
 Try to restart your MacBook Air at least once a week, or more often if you use it heavily. This simple habit keeps your system running smoothly and prevents the gradual slowdown that happens when applications hold onto memory for extended periods.
 
-## Final Thoughts
+Final Thoughts
 
 Dealing with Chrome using too much memory on your MacBook Air does not have to be frustrating. Start by turning on Memory Saver, then go through your extensions and remove anything you do not need. Make a habit of closing tabs you are not using, and consider tools like Tab Suspender Pro to help manage tabs automatically.
 
@@ -76,14 +76,14 @@ These small changes can make a big difference in how your MacBook Air performs. 
 
 ---
 
-## Related Articles
+Related Articles
 * [chrome default browser how to set on windows](/articles//chrome-default-browser-how-to-set-on-windows//)
 * [Chrome WebStore Extensions Not Installing Fix](/articles/chrome-webstore-extensions-not-installing-fix/)
 * [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/articles/chrome-extensions-folder-location-files)
 - [Chrome Extensions for New Tab Dashboard](/articles/chrome-extensions-for-new-tab-dashboard)

@@ -21,13 +21,13 @@ permalink: chrome-for-figma-best-settings
 
 If you use chrome for figma best settings, you might have noticed occasional lag, slow loading times, or stuttering when working on complex designs. The good news is that Chrome has several built-in settings you can adjust to make your Figma experience much smoother. You do not need any technical expertise to make these changes.
 
-## Why Chrome Settings Matter for Figma
+Why Chrome Settings Matter for Figma
 
 Figma runs entirely in your browser, which means it relies heavily on Chrome's performance capabilities. When Chrome is trying to do too many things at once or using suboptimal settings, your design work suffers. Things like too many open tabs, aggressive background processes, and certain visual features can all create unnecessary strain on your system.
 
 By tweaking a few Chrome settings, you can allocate more of your computer's resources to Figma and enjoy a more responsive design workflow.
 
-## Enable Memory Saver Mode
+Enable Memory Saver Mode
 
 One of the most impactful settings for Figma users is Memory Saver. Open Chrome Settings, go to Performance, and turn on Memory Saver.
 
@@ -35,7 +35,7 @@ This feature works by automatically putting tabs you are not actively using to s
 
 For Figma work, this is particularly helpful because it ensures your design tool gets priority over other tabs you might have open for reference, music, or communication. You can add Figma to an exceptions list if you want it to always stay active, though most users find the default behavior works well.
 
-## Manage Your Open Tabs
+Manage Your Open Tabs
 
 Having many browser tabs open while working in Figma is one of the most common causes of performance issues. Each open tab consumes memory and processing power, even when you are not looking at it.
 
@@ -43,7 +43,7 @@ Get in the habit of closing tabs you are not using. If you need to keep referenc
 
 If you find yourself frequently losing track of open tabs, extensions like Tab Suspender Pro can automatically manage your tabs by suspending ones you have not used recently. This gives you the best of both worlds: keeping tabs available for later without the performance hit.
 
-## Adjust Hardware Acceleration
+Adjust Hardware Acceleration
 
 Hardware acceleration allows Chrome to use your computer's graphics card for certain tasks instead of relying solely on the CPU. For Figma, which involves a lot of visual rendering, this can make a noticeable difference.
 
@@ -51,7 +51,7 @@ Go to Chrome Settings, then System, and look for "Use hardware acceleration when
 
 If you notice display issues like flickering or visual artifacts while using Figma, try turning hardware acceleration off temporarily to see if that resolves the problem. Some users with older graphics cards find better results with it disabled, while most modern systems work best with it enabled.
 
-## Configure Startup Behavior
+Configure Startup Behavior
 
 When you open Chrome, it might be trying to restore many tabs at once, which can leave your system struggling right at the beginning of your design session.
 
@@ -59,7 +59,7 @@ Go to Settings, then On Startup. Choose "Open the New Tab page" instead of "Cont
 
 This way, when you start working, Chrome opens fresh and you can intentionally open only the tabs you need for your current project. You will have more resources available from the moment you begin.
 
-## Check Background App Settings
+Check Background App Settings
 
 Chrome can continue running in the background even after you close the main window. This is useful for receiving notifications but can consume system resources unnecessarily.
 
@@ -67,25 +67,25 @@ In Settings, then System, look for "Continue running background apps when Google
 
 When Chrome is fully closed, your computer can dedicate more power to Figma and any other applications you are using for your design work.
 
-## Optimize Page Preloading
+Optimize Page Preloading
 
 Chrome's default behavior includes preloading web pages it predicts you might visit. This uses additional memory and processing power, which could otherwise support your Figma workflow.
 
 In Settings, go to Privacy and Security, then Preload Pages. Set this to "No preloading" or "Only when battery is charging" if you want to keep some preloading capability while on the go.
 
-## Use a Clean Browser Profile
+Use a Clean Browser Profile
 
 If you use Chrome for both work and personal browsing, consider creating a separate profile for Figma design work. This keeps your design environment isolated from the clutter of shopping sites, social media, and other web browsing that might be running in your main profile.
 
 To create a new profile, click your profile icon in Chrome and select "Add profile." Give it a name related to your design work and customize its settings specifically for Figma.
 
-## Keep Chrome Updated
+Keep Chrome Updated
 
 Chrome regularly releases updates that include performance improvements and bug fixes. Make sure you are running the latest version by going to Settings and checking for updates.
 
 An outdated version of Chrome might lack optimizations that could benefit your Figma workflow. Chrome typically updates automatically, but it is worth checking manually if you have disabled auto-updates.
 
-## Final Thoughts
+Final Thoughts
 
 Making these adjustments to Chrome can significantly improve your experience when working with Figma. The most important changes are enabling Memory Saver, keeping your tab count reasonable, and ensuring hardware acceleration is working properly for your system.
 
@@ -93,7 +93,7 @@ Every computer is different, so you might need to experiment with a few settings
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Aspect Ratio CSS Property](/articles/chrome-aspect-ratio-css-property/)
 * [Chrome Session Storage vs Local Storage: What's the Difference?](/articles/chrome-session-storage-vs-local-storage/)
 * [How to Enable Chrome Site Isolation for Extra Security](/articles/chrome-site-isolation-enable-extra-security/)

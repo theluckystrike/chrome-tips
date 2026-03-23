@@ -14,7 +14,7 @@ When chrome not responding force close and recover becomes your immediate concer
 
 Chrome not responding usually happens because the browser has used up all your available memory. Chrome runs each tab as a separate process, which is great for security and stability, but it also means that having too many tabs open at once can quickly overwhelm your computer's RAM. When memory runs low, Chrome starts to lag, and eventually, it stops responding entirely. Other common reasons for Chrome freezing include problematic extensions that are consuming resources, corrupted cache files, outdated browser versions, or websites with heavy animations and auto-playing videos.
 
-## How to Force Close Chrome
+How to Force Close Chrome
 
 If Chrome has frozen and nothing is responding, you need to force close the browser to regain control of your computer. The method varies slightly depending on whether you are using Windows or Mac.
 
@@ -24,7 +24,7 @@ On a Mac, press Command + Option + Escape to open the Force Quit Applications wi
 
 After you force close Chrome, wait a few seconds before reopening it. Your computer needs a moment to free up the resources that Chrome was using.
 
-## How to Recover Your Tabs After a Crash
+How to Recover Your Tabs After a Crash
 
 One of the most common worries when Chrome freezes is whether you will lose all your open tabs. Fortunately, Chrome has a built-in feature that automatically saves your session and offers to restore it when you reopen the browser.
 
@@ -34,7 +34,7 @@ Chrome also saves your tabs automatically in the background, so even if you do n
 
 For users who want extra protection against losing tabs, Chrome offers a feature called "Continue where you left off." You can enable this by going to Settings, looking for the "On startup" section, and selecting "Continue where you left off." This setting ensures that Chrome always remembers your open tabs and restores them whenever you open the browser.
 
-## Preventing Chrome from Freezing
+Preventing Chrome from Freezing
 
 Once you have recovered your tabs and gotten Chrome running again, it is worth taking some steps to prevent the freezing from happening again in the future.
 
@@ -46,13 +46,13 @@ Keeping Chrome updated is also essential for preventing freezes and crashes. Goo
 
 Clearing your cache and browsing data regularly can also help keep Chrome running smoothly. Over time, cached files and cookies can accumulate and cause performance issues. Go to Settings, find the "Privacy and security" section, and click on "Clear browsing data" to remove old files.
 
-## When to Reset Chrome
+When to Reset Chrome
 
 If Chrome continues to freeze frequently even after trying these steps, you might want to consider resetting Chrome to its default settings. This will clear any corrupted settings or problematic configurations that might be causing the issue.
 
 To reset Chrome, go to Settings, scroll down to the bottom, and click on "Reset settings." This will restore Chrome to its original state while keeping your bookmarks and saved passwords intact. After resetting, make sure to re-enable only the extensions you actually need and avoid reinstalling problematic ones.
 
-## Using Chrome Task Manager
+Using Chrome Task Manager
 
 Chrome has its own built-in Task Manager that can help you identify which specific tabs or extensions are causing problems. To access it, press Shift + Escape while Chrome is open, or go to the Chrome menu, select "More tools," and click on "Task Manager."
 
@@ -62,9 +62,9 @@ In Chrome Task Manager, you can see how much memory and CPU each tab and extensi
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks/)
 * [Chrome Extensions For Coupon Finder Automatic](/articles/chrome-extensions-for-coupon-finder-automatic/)
 * [Chrome Extension for Reading Speed Tracker](/articles/chrome-extension-for-reading-speed-tracker/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

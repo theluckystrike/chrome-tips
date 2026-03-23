@@ -21,13 +21,13 @@ author: theluckystrike
 
 Network throttling is one of the most useful features in Chrome DevTools for developers who want to understand how their websites perform under different connection conditions. Whether you are building a responsive web application or optimizing load times for users on mobile networks, network throttling helps you simulate real-world connection speeds directly in your browser.
 
-## What Is Network Throttling
+What Is Network Throttling
 
 Network throttling artificially slows down your browser's network requests to mimic slower internet connections. When you enable throttling, Chrome restricts download and upload speeds to match specific network profiles, such as 3G, 4G, or even offline mode. This allows you to see exactly how your website behaves when users have limited bandwidth or high latency.
 
 The feature is built directly into Chrome DevTools, so you do not need any external tools or extensions. You can access it through the Network tab in DevTools, and it works for all types of network requests, including HTML, CSS, JavaScript, images, and API calls.
 
-## Why Network Throttling Matters
+Why Network Throttling Matters
 
 Web developers often test their applications on fast connections in their offices or development environments. However, real users access websites from various network conditions. Some users browse on WiFi in coffee shops with spotty connections, others use mobile data in rural areas, and some deal with congested networks during peak hours.
 
@@ -35,7 +35,7 @@ Testing without considering these conditions can lead to poor user experiences. 
 
 Additionally, network throttling helps you identify which resources are blocking page rendering. When you slow down the connection, the impact of each delayed resource becomes more obvious. You might discover that a large JavaScript file is preventing the page from becoming interactive, or that an image is delaying the visual completion of the layout.
 
-## How to Access Network Throttling in Chrome DevTools
+How to Access Network Throttling in Chrome DevTools
 
 Opening DevTools is the first step. You can do this by right-clicking anywhere on a webpage and selecting Inspect, or by using the keyboard shortcut Command+Option+I on Mac or F12 on Windows. Once DevTools opens, click on the Network tab.
 
@@ -43,7 +43,7 @@ In the Network tab, you will see a dropdown that says "No throttling" by default
 
 The dropdown is located in the toolbar at the top of the Network tab, next to the record button and the filter options. It is easy to miss if you are not looking for it, but once you find it, you can switch between different throttling profiles with a single click.
 
-## Understanding the Throttling Presets
+Understanding the Throttling Presets
 
 Chrome provides several preset profiles that represent common real-world network conditions. Fast 3G simulates a typical mobile 4G connection with moderate speed but higher latency than a wired connection. Slow 3G mimics older mobile networks where download speeds are significantly reduced and latency is much higher.
 
@@ -51,7 +51,7 @@ The Offline option is particularly useful for testing progressive web applicatio
 
 If the presets do not match your specific testing needs, Chrome also allows you to add custom throttling profiles. You can define download speed, upload speed, and latency values to create a profile that closely matches the network conditions you want to test.
 
-## Using Network Throttling for Performance Optimization
+Using Network Throttling for Performance Optimization
 
 Once you have enabled throttling, reload your page to see how it performs under the selected conditions. Watch the Waterfall chart in the Network tab to identify which resources take the longest to load. The Waterfall visualization shows the timeline for each request, making it easy to spot bottlenecks.
 
@@ -61,7 +61,7 @@ Image optimization is another area where throttling reveals issues. Large images
 
 JavaScript bundle size also becomes more apparent under throttling. Large bundles delay the point when the page becomes interactive. If you notice that your page feels unresponsive even after the main content appears, check the Network tab to see if JavaScript files are still loading. Consider code splitting or lazy loading to deliver JavaScript only when needed.
 
-## Testing API Calls and Background Requests
+Testing API Calls and Background Requests
 
 Network throttling is not only for initial page loads. You can also use it to test how your application handles API calls during use. If your web app makes frequent requests to a backend API, throttle the connection and observe how delays affect the user experience.
 
@@ -69,7 +69,7 @@ Some applications depend on real-time data updates. Under slow network condition
 
 For applications that use WebSockets or server-sent events, throttling helps you understand how your app recovers after temporary disconnections. The offline mode is especially useful here, as it lets you verify that your application reconnects properly when network access is restored.
 
-## Combining Throttling with Other DevTools Features
+Combining Throttling with Other DevTools Features
 
 Network throttling works well alongside other DevTools features for a complete performance analysis. Use the Performance tab to record interactions while throttling is active. This gives you a detailed view of how your application performs over time, including frame rates and script execution times under slow network conditions.
 
@@ -77,7 +77,7 @@ The Lighthouse tool, accessible through the DevTools menu, also integrates with 
 
 Memory profiling is another useful combination. When testing on slow connections, you might notice different memory patterns as your app handles loading states and retry logic. Keeping an eye on memory usage helps you avoid memory leaks that could compound performance problems on resource-constrained devices.
 
-## Practical Tips for Effective Testing
+Practical Tips for Effective Testing
 
 Start testing with Slow 3G, as it represents a challenging but realistic mobile connection. If your site works well at this level, it will likely perform even better on faster connections. Use Fast 3G for final validation before deploying updates.
 
@@ -87,22 +87,22 @@ Keep your tabs organized during testing. If you work with many open tabs, consid
 
 Remember to disable throttling when you are done testing. Nothing is more confusing than debugging a performance issue only to realize that your network connection was artificially limited.
 
-## Conclusion
+Conclusion
 
 Chrome DevTools network throttling is an essential tool for any web developer who wants to build fast, reliable websites. By simulating slow connections, you can identify and fix performance problems before they affect your users. The feature is built into Chrome, easy to access, and works alongside other DevTools for comprehensive performance analysis.
 
 Use network throttling during your regular development workflow. Test early, test often, and make sure your websites provide a good experience regardless of how fast or slow the user's connection might be.
 
-## Related Articles
+Related Articles
 - [Chrome Network Throttling Guide](/chrome-network-throttling-guide/)
 - [Chrome Performance Observer API Guide](/chrome-performance-observer-api-guide/)
 - [Chrome Core Web Vitals WordPress Guide](/chrome-core-web-vitals-wordpress-guide/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Network Throttling Guide](/articles/chrome-network-throttling-guide/)
 * [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug/)
 * [Chrome Application Tab DevTools Guide](/articles/chrome-application-tab-devtools-guide/)

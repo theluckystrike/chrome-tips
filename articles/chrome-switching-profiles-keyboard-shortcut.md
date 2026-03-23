@@ -27,11 +27,7 @@ Another approach is to use Ctrl+T to open a new tab and then Ctrl+Tab to switch 
 
 ## The Desktop Shortcut Method
 
-A very effective way to switch between Chrome profiles quickly is to create separate desktop shortcuts for each profile. Here is how this works.
-
-First, open Chrome and switch to the profile you want to create a shortcut for. Then, right-click on the Chrome icon in your taskbar or desktop and select the option to create a shortcut or open a new window. In this new window, your desired profile should already be active.
-
-Now, instead of pinning this window to your taskbar like you normally would, you can create a dedicated shortcut for this specific profile. On Windows, you can do this by right-clicking the Chrome icon in your taskbar, right-clicking on the Chrome entry, and selecting Properties. Then, in the Target field, add a space followed by the profile name. The command would look something like this: "C:\Program Files\Google\Chrome\Application\chrome.exe" --profile-directory="Profile 1"
+A very effective way to switch between Chrome profiles quickly is to create separate desktop shortcuts for each profile. "C:\Program Files\Google\Chrome\Application\chrome.exe" --profile-directory="Profile 1"
 
 You can create multiple shortcuts this way, each pointing to a different profile. Place these shortcuts on your desktop or pin them to your taskbar in a specific order. This way, clicking on each shortcut opens Chrome directly in that specific profile, without needing to switch manually.
 

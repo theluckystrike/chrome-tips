@@ -25,7 +25,7 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Close duplicate tabs using Chrome's built-in tab search
 > 5. Group related tabs to reduce memory overhead
 
-## Enable Automatic Tab Discarding
+Enable Automatic Tab Discarding
 
 Navigate to `chrome://flags/#automatic-tab-discarding` in your address bar and set this flag to Enabled. This feature tells Chrome to automatically unload tabs that haven't been used recently, freeing up memory before your browser freezes.
 
@@ -39,7 +39,7 @@ You can verify this feature is working by opening Chrome's Task Manager with Shi
 
 > The Page Lifecycle API introduces lifecycle states on the web, allowing browsers to freeze and discard background tabs to conserve resources. ,  [Page Lifecycle API](https://developer.chrome.com/docs/web-platform/page-lifecycle-api)
 
-## Configure Tab Freeze Settings
+Configure Tab Freeze Settings
 
 Access `chrome://flags/#tab-freeze-timeout` to control how quickly Chrome freezes inactive background tabs. Set this to "5 minutes" rather than the default "10 minutes" for more aggressive memory management.
 
@@ -53,7 +53,7 @@ For power users who frequently switch between many tabs, you can set this to "1 
 
 > Chrome freezes background tabs when Energy Saver mode is active to reduce power consumption on battery-constrained devices. ,  [Freezing on Energy Saver](https://developer.chrome.com/blog/freezing-on-energy-saver)
 
-## Activate Memory Saver Mode
+Activate Memory Saver Mode
 
 Open Chrome Settings by clicking the three dots menu, then navigate to Settings > Performance. Toggle on "Memory Saver" to enable Chrome's built-in memory optimization features.
 
@@ -67,7 +67,7 @@ The Memory Saver settings also let you choose between "Moderate" and "Maximum" m
 
 Chrome displays memory savings statistics in the Performance section, showing you exactly how much RAM you've recovered through these optimizations. On a typical system with 30-50 open tabs, you can expect to save 1-2GB of memory.
 
-## Use Chrome's Tab Search and Organization
+Use Chrome's Tab Search and Organization
 
 Press Ctrl+Shift+A (Windows) or Cmd+Shift+A (Mac) to open Chrome's tab search feature. This tool helps you find and close duplicate tabs that consume unnecessary memory.
 
@@ -79,40 +79,40 @@ Chrome's tab grouping feature also reduces memory overhead by allowing you to co
 
 When you collapse a tab group, Chrome can more efficiently manage the memory usage of those tabs since it knows they're related and temporarily hidden. This organization also makes it easier to close entire groups of tabs when you finish working on a specific project or task.
 
-## Common Tab Management Mistakes
+Common Tab Management Mistakes
 
-### Keeping Video Tabs Active in Background
+Keeping Video Tabs Active in Background
 
 Many users leave YouTube, Netflix, or other video streaming tabs open while working in other tabs. Even when paused, these tabs continue consuming significant memory and CPU resources for video buffering and ad processing.
 
 Close video tabs completely when you're not watching them, rather than just switching to other tabs. If you need to return to a specific video, bookmark it or copy the URL instead of keeping the tab active.
 
-### Ignoring Extension Memory Usage
+Ignoring Extension Memory Usage
 
 Browser extensions can prevent proper tab discarding and freezing, especially those that inject scripts into every webpage. Extensions for password management, ad blocking, or social media often keep tabs active even when Chrome tries to put them in memory-saving mode.
 
 Review your extensions in `chrome://extensions/` and disable any you don't actively use. Pay particular attention to extensions that request "Read and change all your data on all websites" permissions, as these typically prevent efficient tab management.
 
-### Disabling Important Chrome Features
+Disabling Important Chrome Features
 
 Some users disable automatic tab discarding because they worry about losing work or having tabs reload too frequently. This creates the original problem of memory overload and browser freezing.
 
 Instead of disabling these features entirely, customize their settings and add important sites to exception lists. Modern Chrome recovers tab states very reliably, so the risk of losing work is minimal compared to the benefit of preventing browser crashes.
 
-### Not Monitoring Memory Usage
+Not Monitoring Memory Usage
 
 Without checking Chrome's Task Manager, you can't see which specific tabs or extensions consume the most memory. This makes it impossible to identify the root causes of freezing issues.
 
 Access Task Manager with Shift+Esc and sort by "Memory footprint" to see your heaviest tabs. Close or bookmark tabs using more than 200MB of memory unless you're actively using them.
 
-## Skip the Manual Steps
+Skip the Manual Steps
 
 The manual approach works well, but requires constant monitoring and adjustment of your tab habits. You'll need to remember to close unused tabs, check memory usage regularly, and manually organize your browsing session.
 
-**Tab Suspender Pro** automates this entire process with intelligent tab suspension based on your actual usage patterns. The extension monitors tab activity and automatically suspends inactive tabs while preserving important ones you've marked as exceptions.
+Tab Suspender Pro automates this entire process with intelligent tab suspension based on your actual usage patterns. The extension monitors tab activity and automatically suspends inactive tabs while preserving important ones you've marked as exceptions.
 
-With a **4.9/5** rating and regular updates, Tab Suspender Pro handles the memory management complexity automatically, so you can focus on your work instead of managing browser performance.
+With a 4.9/5 rating and regular updates, Tab Suspender Pro handles the memory management complexity automatically, so you can focus on your work instead of managing browser performance.
 
-**[Try Tab Suspender Pro Free](https://zovo.one)**
+[Try Tab Suspender Pro Free](https://zovo.one)
 
 Built by Michael Lip. More tips at zovo.one.

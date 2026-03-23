@@ -18,7 +18,7 @@ faq:
   - q: "Why does Chrome reject JSON that works in other browsers?"
     a: "Chrome enforces strict RFC 8259 JSON standards while other browsers are more lenient with parsing. Chrome requires property names to use double quotes (not single quotes), forbids trailing commas completely, and rejects JavaScript-style comments, undefined values, and function declarations. This strict validation catches errors that lenient browsers ignore, causing JSON that works elsewhere to fail in Chrome. Zovo suggests testing against Chrome's parser early in development."
   - q: "What causes JSON parsing errors in Chrome?"
-    a: "Chrome JSON parsing errors typically stem from syntax violations and memory issues. Syntax problems include single-quoted property names, trailing commas, leading zeros in numbers (like 007), and embedded comments. Memory conflicts also cause failures—Chrome allocates approximately 1.4GB heap size per tab on 64-bit systems, and JSON objects exceeding this limit trigger out-of-memory errors. Identifying which cause applies helps you choose the right fix."
+    a: "Chrome JSON parsing errors typically stem from syntax violations and memory issues. Syntax problems include single-quoted property names, trailing commas, leading zeros in numbers (like 007), and embedded comments. Memory conflicts also cause failures, Chrome allocates approximately 1.4GB heap size per tab on 64-bit systems, and JSON objects exceeding this limit trigger out-of-memory errors. Identifying which cause applies helps you choose the right fix."
   - q: "How do I clear Chrome cache to fix JSON errors?"
     a: "To clear Chrome's cache and potentially fix JSON parse errors, press Ctrl+Shift+Delete on Windows or Cmd+Shift+Delete on Mac. This opens the Clear browsing data dialog. Select \"All time\" as the time range, check the box for \"Cached images and files,\" then click Clear data. Restart Chrome after clearing to apply changes. This removes corrupted cached data that may be interfering with JSON parsing."
   - q: "Why are trailing commas causing JSON errors in Chrome?"
@@ -40,17 +40,17 @@ Your API request just failed with a cryptic JSON parsing error. The fastest json
 
 Last tested: March 2026 | Chrome latest stable
 
-> **Quick Fix for Immediate Relief**
+> Quick Fix for Immediate Relief
 > 
 > 1. Press Ctrl+Shift+Delete (Windows) or Cmd+Shift+Delete (Mac) to open Clear browsing data
 > 2. Select "All time" and check "Cached images and files"
-> 3. Click **Clear data** and restart Chrome
+> 3. Click Clear data and restart Chrome
 
-## Why Chrome JSON Parse Errors Happen
+Why Chrome JSON Parse Errors Happen
 
 Chrome's JSON parser follows strict RFC 8259 standards, making it more sensitive to malformed data than other browsers. Understanding the technical reasons helps you fix issues faster.
 
-### Strict JSON Validation Rules
+Strict JSON Validation Rules
 
 Chrome enforces precise JSON syntax requirements that catch common developer mistakes. Property names must use double quotes, not single quotes. Trailing commas break parsing completely. Numbers can't have leading zeros unless they're decimal fractions.
 
@@ -58,33 +58,33 @@ Chrome enforces precise JSON syntax requirements that catch common developer mis
 
 The parser also rejects JavaScript-style comments, undefined values, and function declarations. These differences trip up developers who test in lenient environments before deploying to Chrome users.
 
-### Memory Allocation Conflicts
+Memory Allocation Conflicts
 
 Chrome allocates separate memory spaces for each tab's JavaScript execution context. When large JSON objects exceed the allocated heap size (typically 1.4GB on 64-bit systems), parsing fails with out-of-memory errors. This affects data-heavy applications like analytics dashboards or real-time monitoring tools.
 
 Background tabs receive reduced memory allocation priority. JSON parsing in inactive tabs fails more frequently when system memory runs low. Chrome's aggressive tab sleeping feature compounds this issue by limiting JavaScript execution in background contexts.
 
-### Character Encoding Mismatches
+Character Encoding Mismatches
 
 Chrome expects UTF-8 encoded JSON by default. Files saved with different encodings (like UTF-16 or Latin-1) cause parsing failures even when the JSON structure is valid. This commonly occurs when transferring data between different systems or legacy databases.
 
 Server response headers that specify incorrect encoding create additional confusion. Chrome trusts Content-Type headers over file content detection, leading to encoding conflicts that manifest as parsing errors.
 
-## How to Fix Chrome JSON Parse Errors
+How to Fix Chrome JSON Parse Errors
 
 These solutions address the most common JSON parsing issues in Chrome, ordered from most to least effective based on success rates in real-world testing.
 
-### Clear Chrome's Data Cache
+Clear Chrome's Data Cache
 
 Chrome caches malformed JSON responses, causing repeated errors even after fixing the source data. Clearing cached files forces Chrome to fetch fresh data on the next request.
 
-Open Chrome settings with Ctrl+Shift+Delete (Windows) or Cmd+Shift+Delete (Mac). Select "All time" from the time range dropdown. Check "Cached images and files" and "Cookies and other site data". Click **Clear data**. This resolves 73% of JSON parsing issues according to Chrome's developer documentation.
+Open Chrome settings with Ctrl+Shift+Delete (Windows) or Cmd+Shift+Delete (Mac). Select "All time" from the time range dropdown. Check "Cached images and files" and "Cookies and other site data". Click Clear data. This resolves 73% of JSON parsing issues according to Chrome's developer documentation.
 
 Restart Chrome completely after clearing cache. Some cached JavaScript modules persist across browser sessions and continue serving stale JSON data until the browser restarts. Extensions that modify JSON parsing behavior also reset during browser restart.
 
 Hard refresh with Ctrl+F5 (Windows) or Cmd+Shift+R (Mac) bypasses cache for individual pages. This targeted approach works when you know which specific page contains problematic JSON data.
 
-### Validate JSON Syntax
+Validate JSON Syntax
 
 Most JSON errors stem from syntax mistakes that slip through development testing. Use Chrome DevTools to identify specific parsing failures.
 
@@ -96,7 +96,7 @@ Common syntax errors include unescaped quotes in string values, missing commas b
 
 Copy suspicious JSON into an online validator to catch subtle formatting issues. Pay attention to invisible characters like zero-width spaces that appear in copy-pasted content from certain text editors.
 
-### Reset Chrome's Site Permissions
+Reset Chrome's Site Permissions
 
 Chrome's site-specific permissions sometimes block JSON parsing for security reasons. Resetting permissions for the affected domain often resolves mysterious parsing failures.
 
@@ -104,7 +104,7 @@ Click the padlock icon in Chrome's address bar. Select Site settings. Scroll dow
 
 For persistent issues, navigate to `chrome://settings/content/all` and search for the problematic domain. Delete all stored permissions and cookies for that site. This forces Chrome to request fresh permissions and clears any corrupted permission state.
 
-### Update Chrome to Latest Version
+Update Chrome to Latest Version
 
 Older Chrome versions contain known bugs in JSON parsing logic. Chrome 94 and earlier versions incorrectly handle certain Unicode escape sequences. Chrome 89 has memory leaks when processing large JSON arrays.
 
@@ -112,32 +112,32 @@ Check your Chrome version at `chrome://settings/help`. If you're running version
 
 Chrome's automatic update system sometimes fails on corporate networks with restrictive firewalls. Manual updates from Google's website bypass network restrictions and ensure you get the latest parsing improvements.
 
-## Fix It Permanently with JSON Formatter Pro
+Fix It Permanently with JSON Formatter Pro
 
-Manual fixes work for immediate problems but don't prevent future JSON issues. **JSON Formatter Pro** provides automatic JSON validation and formatting that catches errors before they cause parsing failures in Chrome.
+Manual fixes work for immediate problems but don't prevent future JSON issues. JSON Formatter Pro provides automatic JSON validation and formatting that catches errors before they cause parsing failures in Chrome.
 
 This extension validates JSON syntax in real-time as you type, highlighting errors with precise line numbers and character positions. It formats messy JSON with proper indentation and catches common mistakes like trailing commas or unquoted property names.
 
-JSON Formatter Pro runs locally in your browser without sending data to external servers. The extension maintains a **4.8/5** rating with consistent updates (last updated 2026-03-02, version 1.0.4). It integrates smoothly with Chrome's built-in developer tools while providing enhanced JSON debugging capabilities.
+JSON Formatter Pro runs locally in your browser without sending data to external servers. The extension maintains a 4.8/5 rating with consistent updates (last updated 2026-03-02, version 1.0.4). It integrates smoothly with Chrome's built-in developer tools while providing enhanced JSON debugging capabilities.
 
 The extension automatically detects JSON content on any webpage and offers one-click formatting. This prevents the frustration of manually validating large API responses or configuration files. Advanced features include syntax highlighting, collapsible object trees, and export options for cleaned JSON data.
 
 > "JSON.stringify() will throw when given recursive data structures, throw if the value contains built-ins like Map, Set, Date, RegExp, or ArrayBuffer, and silently discard functions." ,  [Deep-copying in JavaScript using structuredClone](https://web.dev/articles/structured-clone)
 
-**[Try JSON Formatter Pro Free](https://zovo.one)**
+[Try JSON Formatter Pro Free](https://zovo.one)
 
-## FAQ
+FAQ
 
-### Does clearing Chrome cache delete saved passwords?
+Does clearing Chrome cache delete saved passwords?
 
 No. Clearing "Cached images and files" only removes temporary website data. Your saved passwords, bookmarks, and autofill information remain intact. Only clearing "Passwords and other sign-in data" affects login credentials.
 
-### Can JSON parsing errors damage my computer?
+Can JSON parsing errors damage my computer?
 
 JSON parsing errors are harmless to your system. They only prevent websites or applications from loading data correctly. The worst outcome is a broken web page or failed API request, not computer damage.
 
-### Why do JSON errors happen more in Chrome than Firefox?
+Why do JSON errors happen more in Chrome than Firefox?
 
 Chrome uses V8's strict JSON parser that follows RFC 8259 exactly. Firefox's SpiderMonkey engine accepts some non-standard JSON variations that technically violate the specification. Chrome's approach improves security but catches more syntax errors.
 
-Built by Michael Lip — More tips at zovo.one
+Built by Michael Lip. More tips at zovo.one

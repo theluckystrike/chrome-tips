@@ -45,7 +45,7 @@ With subgrid, you can define a grid for the overall card layout and then use sub
 
 Another example is form layouts. Forms often have labels and input fields that need to be aligned across multiple rows. Subgrid makes it simple to create a consistent form where all labels are in the same column and all input fields are in another column, even when the form contains different types of inputs or varying amounts of text.
 
-Navigation menus are another good use case. If you have a menu with multiple levels of links, subgrid can help you align the submenu items with the main menu items, creating a seamless visual experience.
+Navigation menus are another good use case. If you have a menu with multiple levels of links, subgrid can help you align the submenu items with the main menu items, creating a smooth visual experience.
 
 ## Troubleshooting Common Subgrid Issues
 
@@ -70,5 +70,5 @@ If you are exploring Chrome features like subgrid or working on web design proje
 * [Chrome Local Font Access API Explained](/articles/chrome-local-font-access-api-explained/)
 * [How to Backup Chrome Bookmarks and Passwords](/articles/how-to-backup-chrome-bookmarks-and-passwords/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

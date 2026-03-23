@@ -26,7 +26,7 @@ Chrome resource timing api explained is a topic that matters to anyone who wants
 
 This guide will walk you through what the Resource Timing API does, why it is useful, and how you can put it to work for better website performance.
 
-## How the Resource Timing API Works
+How the Resource Timing API Works
 
 Every time your browser loads a webpage, it needs to fetch many different resources. These include HTML files, CSS stylesheets, JavaScript files, images, fonts, and sometimes data from APIs. Each of these requests goes through several stages, from the moment the browser starts asking for the resource to the moment the data is fully received and ready to use.
 
@@ -34,7 +34,7 @@ The Resource Timing API captures timing information for each of these stages. It
 
 This is incredibly valuable because it tells you where the delays are happening. Is the server taking too long to respond? Is the data transfer itself slow? Is there a delay before the browser even starts requesting the resource? The API breaks down the entire process into measurable chunks so you can see exactly where improvements are needed.
 
-## What Timing Data You Can Access
+What Timing Data You Can Access
 
 The Resource Timing API provides a wealth of information about each resource loaded by your browser. Here are the key metrics it offers.
 
@@ -48,7 +48,7 @@ The responseEnd is when the entire resource finished downloading. This is the to
 
 Beyond these main measurements, the API also provides details about dns lookup time, tcp connection time, and secure connection setup time if applicable. These breakdowns help you understand whether delays are happening at the network level, the server level, or somewhere else.
 
-## Why This Matters for Website Owners
+Why This Matters for Website Owners
 
 If you own or manage a website, understanding how your resources perform is crucial for user experience. Research consistently shows that slower websites lose visitors and rank lower in search results. Users expect pages to load quickly, and even a few seconds of delay can lead to people leaving.
 
@@ -56,7 +56,7 @@ The Resource Timing API helps you move beyond guesswork. Instead of simply notic
 
 This level of insight was traditionally only available through complex developer tools or third-party performance services. Now it is built directly into the browser, making it more accessible for anyone who wants to dig into their site performance.
 
-## Common Performance Problems It Reveals
+Common Performance Problems It Reveals
 
 Using the Resource Timing API, you can spot several common issues that affect how quickly your pages load.
 
@@ -68,7 +68,7 @@ Slow server response is another issue the API can highlight. If the time to firs
 
 Network latency can affect users who are far from your server. The API cannot fix geography, but it can help you understand how severe the impact is for different users.
 
-## How to Use This Information
+How to Use This Information
 
 Once you have timing data from the Resource Timing API, the next step is making improvements. Here are some approaches that commonly help.
 
@@ -80,13 +80,13 @@ Use caching so returning visitors do not need to download resources again. The A
 
 Consider a content delivery network, also known as a CDN, to serve files from servers closer to your users. This can reduce the impact of distance on load times.
 
-## A Practical Approach to Managing Resources
+A Practical Approach to Managing Resources
 
 If all this timing data feels overwhelming or you simply want to do more with less effort, there are tools designed to help. Tab Suspender Pro, for example, can help reduce the overall load on your browser by automatically suspending tabs you are not actively using. This frees up memory and network resources for the tabs you are working with, which can make a noticeable difference in how quickly pages load and how smoothly your browser performs.
 
 Combining thoughtful resource management with targeted optimization efforts gives you the best chance of delivering a fast, smooth experience to your visitors.
 
-## Getting Started
+Getting Started
 
 The Resource Timing API is available in Chrome and other modern browsers. If you are curious about your own browsing patterns or want to analyze your website performance, you can access this data through browser developer tools or by writing simple JavaScript to capture and display the timing information.
 
@@ -98,7 +98,7 @@ Performance matters, and now you have a powerful tool to understand and improve 
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [Chrome Extensions For Calendar Integration](/articles//articles/chrome-extensions-for-calendar-integration//)
 * [Chrome Speech Recognition API Explained](/articles/chrome-speech-recognition-api-explained/)
 * [chrome profile name how to change](/articles/chrome-profile-name-how-to-change/)

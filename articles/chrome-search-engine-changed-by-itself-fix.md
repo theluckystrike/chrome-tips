@@ -21,7 +21,7 @@ last_modified_at: '2026-03-12'
 
 It is really frustrating when your chrome search engine changed by itself. You type something in the address bar expecting to search with Google or your preferred search engine, but instead you get redirected to something completely different. This happens to many people and it can feel like your browser has a mind of its own. The good news is that this problem has clear causes and even clearer solutions.
 
-## What Is Happening and Why
+What Is Happening and Why
 
 When your chrome search engine changed by itself, something has modified the settings that control which search engine Chrome uses by default. Chrome allows you to choose which search engine handles your searches, and this choice should stay the way you set it. However, several things can override your preference without you realizing it.
 
@@ -31,7 +31,7 @@ Unwanted software on your computer can also cause this problem. Sometimes when y
 
 Chrome updates can occasionally reset your search engine settings too. When Chrome updates to a new version, it sometimes restores certain default settings or adds new search engines to your list. If the update process encounters an error, it might also corrupt your settings file, which could cause unexpected behavior including search engine changes.
 
-## Steps to Fix It
+Steps to Fix It
 
 The first thing you should do is manually check and change your search engine settings. Open Chrome and click the three dots in the upper right corner of the window. From the menu that appears, select Settings. Scroll down until you see the section labeled Search engine. Click on the option that says Manage search engines and site-specific search. You will see a list of all search engines that Chrome knows about. Find the one you want to use, such as Google or Bing, and click the three dots next to it. Select Make default from the menu that appears. This immediately restores your preferred search engine as the one Chrome uses for all searches.
 
@@ -41,15 +41,15 @@ After cleaning up your search engine list, you need to address the root cause. G
 
 If removing extensions does not solve the problem, you should reset Chrome to its original default settings. In Settings, look for Reset settings in the left sidebar. Click on it and then select Restore settings to their original defaults. This will reset your search engine, homepage, new tab page, and other browser settings to the state they were in when you first installed Chrome. It is a more drastic step, but it is very effective at removing any hidden changes that have been made to your browser.
 
-## Preventing This From Happening Again
+Preventing This From Happening Again
 
 Once you have fixed the problem, you want to make sure it does not come back. The most important thing you can do is be very careful about the extensions you install. Only add extensions from developers you trust, and always read the permissions carefully before installing. If an extension asks for permission to change your search engine or modify all websites, think about whether it really needs that permission to do its job. If something seems suspicious, look for an alternative extension or skip it altogether.
 
 When you install new software on your computer, pay attention to every screen of the installation wizard. Many programs will try to change your browser settings during installation. Look for checkboxes that mention changing your default search engine, homepage, or new tab page. These are often pre-checked, so you need to uncheck them if you do not want those changes. Take your time during installations and do not just click Next repeatedly without reading what you are agreeing to.
 
-Keeping Chrome updated is another important预防措施. Updates often include security improvements that prevent malicious software from modifying your settings. Go to Settings, then Help, and select About Google Chrome. Chrome will automatically check for updates and let you know if you need to install a new version.
+Keeping Chrome updated is another important. Updates often include security improvements that prevent malicious software from modifying your settings. Go to Settings, then Help, and select About Google Chrome. Chrome will automatically check for updates and let you know if you need to install a new version.
 
-## Extra Protection You Can Use
+Extra Protection You Can Use
 
 If you want additional peace of mind, consider using an extension like Tab Suspender Pro. This tool helps you manage your open tabs and can alert you to unexpected changes in your browser settings. It gives you more visibility into what your extensions are doing, which helps you catch any unwanted changes early before they become a bigger problem.
 
@@ -59,7 +59,7 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension/)
 * [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/articles/chrome-freezing-on-chromebook-during-zoom/)
 * [Chrome Custom Elements Explained](/articles//chrome-custom-elements-explained//)

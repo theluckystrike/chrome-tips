@@ -14,13 +14,13 @@ author: theluckystrike
 
 Have you ever needed to print just a small part of a webpage instead of the entire page? Maybe you only need a recipe from a food blog, a specific section from an article, or a small piece of information from a longer document. You search "chrome how to print selection only" and you have come to the right place. Chrome gives you several ways to print just what you need, and this guide will walk you through each one.
 
-## Why Print Only a Selection
+Why Print Only a Selection
 
 There are many reasons you might want to print only part of a webpage. Perhaps you are trying to save paper and ink by printing only the relevant information. Maybe the page has lots of ads, navigation menus, and other content you do not need. Or you might be extracting information from a long article and only need a specific section for reference.
 
 Printing only what you need is also helpful when you are working with limited printer ink or want to keep your printed documents organized. Instead of printing an entire ten-page article, you can print just the two paragraphs that contain the information you actually need.
 
-## Using the Print Selection Feature
+Using the Print Selection Feature
 
 The easiest way to print only what you need in Chrome is to use the built-in selection printing feature. This method works directly in the browser without needing any extra tools or extensions.
 
@@ -30,7 +30,7 @@ Once you have made your selection, right-click on the highlighted text. In the m
 
 If you do not see the print option in the right-click menu, you can also use a keyboard shortcut. After selecting your text, press Ctrl+P on Windows or Cmd+P on Mac to open the print dialog. Chrome is smart enough to notice your selection and will typically offer to print just that portion.
 
-## The Chrome Print Dialog Options
+The Chrome Print Dialog Options
 
 When you open the print dialog in Chrome, you will see several options that can help you print more efficiently. At the top of the dialog, you will notice a preview of what will print. Below that, there are settings you can adjust.
 
@@ -40,7 +40,7 @@ There is also a "Changes" section where you can enable or disable headers and fo
 
 The "Scale" option is helpful if you need to adjust how the content fits on the page. You can make the text smaller to fit more content, or larger if you need easier readability. This is particularly useful when printing selected portions from pages with lots of formatting.
 
-## Using Print What You Like Extension
+Using Print What You Like Extension
 
 If you find yourself frequently needing to print selections from webpages, you might want to try a Chrome extension designed for this purpose. One popular option is called "Print What You Like." This extension gives you more control over what gets printed from any webpage.
 
@@ -50,7 +50,7 @@ When you visit a page you want to print from, click the extension button. It wil
 
 This method gives you much more control than the basic selection print, and it can really save paper and ink when you are printing from busy websites with lots of clutter.
 
-## The Simple Copy and Paste Method
+The Simple Copy and Paste Method
 
 If you need to print just a small amount of text, another straightforward approach is to copy your selection and paste it into a simple document. This works well when you only need a few paragraphs and want maximum control over the formatting.
 
@@ -60,7 +60,7 @@ Paste your copied text into the blank document by pressing Ctrl+V or Cmd+V. You 
 
 This method gives you complete control over exactly what appears on the printed page. It takes a couple more steps, but it is reliable and works every time.
 
-## Tips for Better Printing
+Tips for Better Printing
 
 Here are some additional tips to make your printing experience better. Before you print, always preview what the page will look like. This helps you catch any issues before wasting ink and paper.
 
@@ -70,7 +70,7 @@ Another tip is to use the "Background graphics" setting. Some pages have backgro
 
 When printing selections from articles or blog posts, try to select just the main content. Avoid selecting navigation menus, footers, or sidebars if you do not need them. The more focused your selection, the less wasted space you will have.
 
-## When Selection Printing Does Not Work
+When Selection Printing Does Not Work
 
 Sometimes the selection print feature might not work exactly as expected. This can happen with certain types of websites, particularly those that use complex coding or have protected content.
 
@@ -80,7 +80,7 @@ On pages where you cannot select text at all, such as some PDF viewers or protec
 
 For pages with frames or embedded content, the selection might not print as it appears on screen. In these cases, the copy and paste method often works better because it gives you more control over the final output.
 
-## Give It a Try
+Give It a Try
 
 Now that you know several ways to print only what you need in Chrome, you can start saving paper and ink while getting exactly the information you want. Whether you use the built-in selection print feature, a helpful extension, or the simple copy and paste method, you have options.
 
@@ -90,9 +90,9 @@ Give these methods a try on your next printing task. You might be surprised how 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Extensions for Lighthouse Alternative](/articles/chrome-extensions-for-lighthouse-alternative/)
 * [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly/)
 * [Chrome Smooth Scrolling How to Enable](/articles/chrome-smooth-scrolling-how-to-enable/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

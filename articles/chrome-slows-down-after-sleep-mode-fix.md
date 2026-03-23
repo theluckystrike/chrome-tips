@@ -11,13 +11,13 @@ Does Chrome slow down after sleep mode? If your browser feels sluggish, takes fo
 
 Let me walk you through why this happens and what you can do to get Chrome running smoothly again.
 
-## Why Chrome Runs Slow After Sleep Mode
+Why Chrome Runs Slow After Sleep Mode
 
 When your computer goes to sleep, it shuts down most of its processes to save power. This includes Chrome and all the tabs you have open. When you wake the computer, Chrome has to reload everything from scratch, and this is where problems can start.
 
 The main reason Chrome feels slow after sleep is that the browser tries to restore all your tabs and extensions at once. If you have dozens of tabs open, this can overwhelm your system temporarily. Chrome also has to reconnect to any websites that were actively loading when you closed the laptop, and some of those connections may time out or need to be reestablished.
 
-## How to Fix Chrome Sluggishness After Sleep
+How to Fix Chrome Sluggishness After Sleep
 
 The first and easiest thing to try is simply reducing the number of tabs you have open. Before you put your computer to sleep, try closing any tabs you don't need or bookmarking them for later. This reduces the workload on Chrome when it tries to wake up.
 
@@ -31,9 +31,9 @@ You could also try creating a new user profile in Chrome. Sometimes a corrupted 
 
 As a last resort, you might want to check if there are any background processes or malware on your computer that could be affecting performance. Sometimes other programs running in the background can compete with Chrome for resources, especially after your computer wakes from sleep.
 
-## Related Articles
+Related Articles
 - [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
 - [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
 - [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

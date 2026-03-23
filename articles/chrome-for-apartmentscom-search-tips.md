@@ -17,7 +17,7 @@ Chrome also lets you pin tabs, which is incredibly useful when you have a few mu
 
 Another feature worth exploring is Chrome's tab grouping capability. If you are searching in multiple neighborhoods or looking at different price ranges, you can right-click on a tab and select "Add to new group" to create color-coded groups. For example, you might have a red group for apartments in downtown, a blue group for pet-friendly options, and a green group for places under a certain price. This visual organization makes it much easier to switch between different search criteria without losing your place.
 
-Extensions can take your apartment search to the next level, and one helpful tool to consider is Tab Suspender Pro. This extension automatically puts inactive tabs to sleep to free up memory and keep Chrome running fast, which is especially useful when you have dozens of apartment listings open at once. When you are ready to come back to a sleeping tab, just click on it and it will reload instantly. It is a small change that can make a big difference in how smoothly your browsing experience feels when you are juggling many open windows.
+Extensions can take your apartment search to the better, and one helpful tool to consider is Tab Suspender Pro. This extension automatically puts inactive tabs to sleep to free up memory and keep Chrome running fast, which is especially useful when you have dozens of apartment listings open at once. When you are ready to come back to a sleeping tab, just click on it and it will reload instantly. It is a small change that can make a big difference in how smoothly your browsing experience feels when you are juggling many open windows.
 
 Beyond built-in features and extensions, there are some practical browsing habits that help too. When you are scrolling through listings on Apartments.com, use the filters wisely. Set your price range, number of bedrooms, and must-have amenities before you start clicking through photos. It is tempting to browse broadly at first, but narrowing your search early on means you spend less time looking at places that will not work for you anyway. You can always adjust the filters if your needs change.
 
@@ -37,7 +37,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome HTTPS Only Mode How to Enable](/articles/chrome-https-only-mode-how-to-enable/)
 * [Chrome Beacon API for Analytics](/articles/chrome-beacon-api-for-analytics/)
 * [Chrome for Private Browsing Tips Beyond Incognito](/articles/chrome-for-private-browsing-tips-beyond-incognito/)

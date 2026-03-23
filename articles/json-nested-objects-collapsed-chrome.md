@@ -43,82 +43,82 @@ Last tested: March 2026 | Chrome latest stable
 
 This guide covers permanent solutions for developers who regularly work with nested JSON data and need reliable object expansion in Chrome.
 
-> **Quick Fix**
+> Quick Fix
 > 1. Open Chrome DevTools (F12)
 > 2. Go to Sources > Settings > enable "Automatically reveal files in sidebar"
-> 3. Install a JSON formatter extension like **JSON Formatter Pro** for consistent results
+> 3. Install a JSON formatter extension like JSON Formatter Pro for consistent results
 
-## Why Chrome json nested objects always collapsed in chrome
+Why Chrome json nested objects always collapsed in chrome
 
 Chrome's default behavior collapses nested JSON objects for three specific technical reasons that affect how complex data structures display in the browser.
 
-### Memory Protection Mechanism
+Memory Protection Mechanism
 
-Chrome automatically collapses nested objects deeper than **3 levels** to prevent excessive memory consumption. When viewing JSON files with more than 50 nested properties, Chrome's V8 engine triggers protection mode. This prevents browser freezes but makes debugging complex API responses nearly impossible.
+Chrome automatically collapses nested objects deeper than 3 levels to prevent excessive memory consumption. When viewing JSON files with more than 50 nested properties, Chrome's V8 engine triggers protection mode. This prevents browser freezes but makes debugging complex API responses nearly impossible.
 
 > "The JSON.parse() static method parses a JSON string, constructing the JavaScript value or object described by the string." ,  [JSON.parse() - JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
-### Process Isolation Limits
+Process Isolation Limits
 
-Chrome's process-per-tab architecture limits how much data each tab can render simultaneously. JSON objects exceeding **2MB** trigger automatic collapse behavior. Nested arrays containing more than 100 elements get truncated in the default viewer, forcing developers to manually expand each section.
+Chrome's process-per-tab architecture limits how much data each tab can render simultaneously. JSON objects exceeding 2MB trigger automatic collapse behavior. Nested arrays containing more than 100 elements get truncated in the default viewer, forcing developers to manually expand each section.
 
-### Rendering Engine Constraints
+Rendering Engine Constraints
 
 The Blink rendering engine prioritizes page load speed over JSON readability. Complex nested structures with mixed data types (strings, numbers, objects, arrays) get collapsed to maintain 60fps scrolling performance. This affects objects with circular references or deeply nested configurations.
 
-## How to Fix Chrome json nested objects always collapsed in chrome
+How to Fix Chrome json nested objects always collapsed in chrome
 
 These manual solutions restore full JSON expansion capability without requiring external tools or extensions.
 
-### Enable Chrome's Native JSON Viewer
+Enable Chrome's Native JSON Viewer
 
 Navigate to `chrome://settings/content/all` and search for "JSON". Enable "Allow sites to save and read JSON data" for automatic formatting. This fixes basic collapse issues for JSON files under 1MB with simple nesting patterns.
 
 Open any JSON file in a new tab. Chrome displays formatted, expandable JSON instead of raw text. Press Ctrl+F (Cmd+F on Mac) to search within expanded objects. Right-click any property to copy its value or path.
 
-### Configure DevTools JSON Display
+Configure DevTools JSON Display
 
 Access DevTools Settings through F12 > Settings > Preferences. Enable "Group similar messages in console" and "Show timestamps". Under Elements, check "Word wrap" and "Show HTML comments".
 
 In the Console tab, paste your JSON data and Chrome automatically formats nested objects. Use `JSON.stringify(yourObject, null, 2)` for manual formatting with 2-space indentation. The DevTools viewer handles objects up to 10MB without collapse restrictions.
 
-### Browser Flag Modifications
+Browser Flag Modifications
 
 Type `chrome://flags/#enable-experimental-web-platform-features` in your address bar. Enable this flag and restart Chrome. This unlocks advanced JSON parsing capabilities for developer tools and improves nested object rendering speed.
 
 Additionally, enable `chrome://flags/#enable-quic` for faster JSON file loading from remote APIs. These flags work together to prevent automatic collapse behavior on large JSON structures.
 
-### Clear Browser Cache and Data
+Clear Browser Cache and Data
 
 Corrupted cache files often cause JSON display problems. Go to Chrome Settings > Privacy and security > Clear browsing data. Select "All time" and check "Cached images and files" plus "Site data".
 
 After clearing cache, reload your JSON files. Chrome rebuilds its parsing cache with current settings, eliminating collapse bugs caused by outdated browser data. This solution works for 80% of persistent JSON viewing issues.
 
-## Fix It Permanently with JSON Formatter Pro
+Fix It Permanently with JSON Formatter Pro
 
 Manual fixes work reliably but require repeated setup across different Chrome profiles and devices. Browser flags reset during Chrome updates, forcing developers to reconfigure settings monthly.
 
-**JSON Formatter Pro** provides consistent JSON formatting regardless of browser updates or cache clearing. The extension handles nested objects beyond Chrome's 3-level limit, supporting unlimited depth expansion for complex API responses and configuration files.
+JSON Formatter Pro provides consistent JSON formatting regardless of browser updates or cache clearing. The extension handles nested objects beyond Chrome's 3-level limit, supporting unlimited depth expansion for complex API responses and configuration files.
 
 > "JSON is a text-based data format following JavaScript object syntax. Even though it closely resembles JavaScript object literal syntax, it can be used independently from JavaScript." ,  [Working with JSON - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
 
-The extension maintains a **4.8/5 rating** across 738KiB of optimized code. Version 1.0.4 includes syntax highlighting, collapsible tree views, and search functionality within nested structures. Updated March 2026 with improved memory handling for large JSON files.
+The extension maintains a 4.8/5 rating across 738KiB of optimized code. Version 1.0.4 includes syntax highlighting, collapsible tree views, and search functionality within nested structures. Updated March 2026 with improved memory handling for large JSON files.
 
 Unlike browser-dependent solutions, JSON Formatter Pro works consistently across Chrome updates and different operating systems. The extension preserves your formatting preferences and handles edge cases like circular references that break Chrome's default viewer.
 
-**[Try JSON Formatter Pro Free](https://zovo.one)**
+[Try JSON Formatter Pro Free](https://zovo.one)
 
-## FAQ
+FAQ
 
-### Does Chrome limit JSON object expansion depth?
+Does Chrome limit JSON object expansion depth?
 
 Yes, Chrome automatically collapses objects deeper than 3 nested levels by default. This prevents memory issues but limits debugging capability for complex API responses.
 
-### Can I permanently disable JSON collapse behavior?
+Can I permanently disable JSON collapse behavior?
 
 Chrome's native settings don't include a permanent disable option. Browser flags provide temporary solutions but reset during updates, requiring extensions for consistent behavior.
 
-### Why do some JSON files display correctly while others collapse?
+Why do some JSON files display correctly while others collapse?
 
 Chrome applies different rendering rules based on file size and complexity. Simple JSON under 1MB displays fully expanded, while files exceeding 2MB or containing 100+ array elements trigger automatic collapse.
 

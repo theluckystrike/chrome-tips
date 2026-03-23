@@ -10,7 +10,7 @@ tags:
 author: theluckystrike
 ---# Chrome Supervised Profiles for Kids
 
-If you are looking for chrome supervised profiles for kids, you probably want to give your children a safe browsing experience while using Google Chrome. Setting up a supervised profile is one of the most effective ways to protect your kids from inappropriate content and monitor their online activity. In this guide, I will explain what supervised profiles are, why they matter, and how to set them up step by step.
+If you are looking for chrome supervised profiles for kids, you probably want to give your children a safe browsing experience while using Google Chrome. Setting up a supervised profile is one of the most effective ways to protect your kids from inappropriate content and monitor their online activity. I will explain what supervised profiles are, why they matter, and how to set them up step by step.
 
 ## What Are Chrome Supervised Profiles
 
@@ -119,5 +119,5 @@ For teenagers, the conversation becomes more important than the technical contro
 * [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
 * [Chrome Notifications for One Site How to Manage](/articles/chrome-notifications-for-one-site-how-to-manage/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

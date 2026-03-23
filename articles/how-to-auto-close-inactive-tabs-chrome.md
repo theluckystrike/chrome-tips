@@ -33,7 +33,7 @@ Last tested: March 2026 | Chrome latest stable
 > 
 > Source: [chrome.tabs API](https://developer.chrome.com/docs/extensions/reference/api/tabs)
 
-## Quick Steps
+Quick Steps
 
 > 1. Open Chrome Settings and navigate to Performance section
 > 2. Enable "Memory Saver" mode to automatically suspend inactive tabs
@@ -41,9 +41,9 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Optionally add sites to the "Never" list for important tabs
 > 5. Install extensions for more advanced auto-closing features
 
-## Detailed Walkthrough
+Detailed Walkthrough
 
-### Enable Chrome's Built-in Memory Saver
+Enable Chrome's Built-in Memory Saver
 
 Chrome includes a native feature called Memory Saver that automatically suspends tabs you haven't used recently. To activate this feature, click the three-dot menu in Chrome's top right corner, then select Settings. You can also type `chrome://settings/` directly into your address bar.
 
@@ -51,7 +51,7 @@ Once you're in Settings, look for the "Performance" section in the left sidebar.
 
 The Memory Saver toggle should be the first option you see. Turn this on by clicking the toggle switch. When enabled, Chrome will automatically put inactive tabs to sleep, freeing up memory for your active browsing. The suspended tabs remain visible in your tab bar but use significantly less system resources.
 
-### Configure Suspension Timing
+Configure Suspension Timing
 
 After enabling Memory Saver, you'll see additional options appear below the main toggle. Chrome offers several timing presets for when tabs get suspended: Moderate, Balanced, and Maximum. The Moderate setting waits longer before suspending tabs, while Maximum acts more aggressively.
 
@@ -59,7 +59,7 @@ For most users, the Balanced setting provides the sweet spot between performance
 
 You can change these settings anytime without restarting Chrome. The changes take effect immediately for newly inactive tabs. The timing begins counting from the moment you last interacted with each specific tab, not when you enabled the feature.
 
-### Add Sites to Your Never Suspend List
+Add Sites to Your Never Suspend List
 
 Some websites work better when they stay active constantly. Email clients, project management tools, and streaming services often need to maintain their connections. Chrome lets you prevent specific sites from being suspended automatically.
 
@@ -69,7 +69,7 @@ Consider adding your most important work tools to this list. Calendar apps, comm
 
 Popular sites to consider for your Never list include Google Drive, Microsoft Office online, Zoom web client, GitHub when coding, and any internal company tools that timeout frequently. Banking sites also work better when kept active since they often have aggressive session timeouts.
 
-### Test Your Settings
+Test Your Settings
 
 Open several tabs to different websites and let them sit inactive for the time period you configured. You'll know Memory Saver is working when you see a small "Reloads when clicked" indicator appear on suspended tab titles. These tabs appear slightly grayed out compared to active ones.
 
@@ -81,7 +81,7 @@ Pay attention to which sites handle suspension well and which ones lose your pro
 > 
 > Source: [Freezing on Energy Saver](https://developer.chrome.com/blog/freezing-on-energy-saver)
 
-### Monitor Memory Usage
+Monitor Memory Usage
 
 Chrome's built-in Task Manager helps you see exactly how much memory your tab management saves. Press Shift+Esc (or Cmd+Shift+Esc on Mac) to open it, or go to the Chrome menu and select More Tools > Task Manager.
 
@@ -89,9 +89,9 @@ Each tab shows its current memory usage in the Task Manager. Suspended tabs typi
 
 Check the Task Manager after using Memory Saver for a few hours to see the real impact. Heavy sites like social media platforms and news websites show the most dramatic memory reductions when suspended.
 
-## Common Mistakes
+Common Mistakes
 
-### Suspending Critical Work Tabs
+Suspending Critical Work Tabs
 
 Many users enable aggressive Memory Saver settings without considering which tabs they actually need to stay active. This leads to frustration when important tabs reload unexpectedly, causing you to lose unsaved work or interrupt ongoing processes.
 
@@ -99,7 +99,7 @@ The solution is strategic use of the Never list. Add any site where you're activ
 
 Document editing tools, development environments, and project management platforms should almost always go on your Never list if you use them regularly throughout the day.
 
-### Forgetting About Extensions
+Forgetting About Extensions
 
 Browser extensions can interfere with Chrome's native tab suspension. Ad blockers, password managers, and productivity tools sometimes prevent tabs from sleeping properly, even with Memory Saver enabled.
 
@@ -107,7 +107,7 @@ Check your extensions if tab suspension isn't working as expected. Disable exten
 
 Extension conflicts are more common with productivity extensions that monitor tab activity or modify page content continuously.
 
-### Setting Unrealistic Expectations
+Setting Unrealistic Expectations
 
 Memory Saver helps with memory usage but won't magically solve all performance problems. If you regularly use 200+ tabs, even aggressive suspension won't completely eliminate slowdowns.
 
@@ -115,7 +115,7 @@ Consider combining Memory Saver with better browsing habits. Use bookmarks for r
 
 The goal should be reducing your baseline tab count to 20-30 active tabs, then using Memory Saver to manage the ones you keep open for reference.
 
-### Ignoring Battery Impact
+Ignoring Battery Impact
 
 Laptop users sometimes disable Memory Saver thinking it doesn't affect them significantly. However, suspended tabs use less CPU power, which directly extends battery life during mobile work sessions.
 
@@ -123,13 +123,13 @@ Test both modes during typical work sessions to see the battery difference. Many
 
 The battery savings become more noticeable during intensive tasks like video calls or running multiple applications simultaneously.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
-Chrome's built-in Memory Saver works well for basic needs, but it lacks advanced scheduling and customization options. If you want more control over tab management, **Tab Suspender Pro** offers automated solutions that go beyond Chrome's native features.
+Chrome's built-in Memory Saver works well for basic needs, but it lacks advanced scheduling and customization options. If you want more control over tab management, Tab Suspender Pro offers automated solutions that go beyond Chrome's native features.
 
-This extension provides granular timing controls, whitelist management, and automatic tab grouping based on usage patterns. With a **4.9/5 rating** and regular updates, it handles complex tab workflows that Chrome's basic settings can't match.
+This extension provides granular timing controls, whitelist management, and automatic tab grouping based on usage patterns. With a 4.9/5 rating and regular updates, it handles complex tab workflows that Chrome's basic settings can't match.
 
-**[Try Tab Suspender Pro Free](https://zovo.one)**
+[Try Tab Suspender Pro Free](https://zovo.one)
 
 The extension integrates smoothly with Chrome's existing memory management while adding power-user features like custom suspension rules and detailed usage analytics.
 

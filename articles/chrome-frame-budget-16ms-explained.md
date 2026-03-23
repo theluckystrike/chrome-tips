@@ -14,13 +14,13 @@ author: "theluckystrike"
 
 When you browse the web, you expect smooth visual experiences. That expectation depends on a fundamental concept that Chrome engineers have optimized for years: the frame budget. Understanding what the 16ms frame budget means will help you appreciate why some websites feel buttery smooth while others stutter and lag.
 
-## What Is the Chrome Frame Budget?
+What Is the Chrome Frame Budget?
 
 The Chrome frame budget represents the maximum amount of time your browser has to complete all work required for a single frame of animation on your screen. Chrome aims to render content at 60 frames per second, which means the browser must produce a new frame every 16.67 milliseconds approximately. This window of 16 milliseconds is what developers refer to when they discuss the frame budget.
 
 Every time you scroll a webpage, watch an animation, or interact with dynamic content, Chrome must complete a series of rendering tasks within this tight timeframe. These tasks include processing JavaScript, calculating layout changes, painting visual elements, and compositing everything together. When the browser completes all these steps within 16ms, you perceive smooth motion. When it exceeds this budget, you experience dropped frames and visual stuttering.
 
-## Why 16ms Matters for Your Browsing Experience
+Why 16ms Matters for Your Browsing Experience
 
 The 16ms frame budget directly impacts how responsive Chrome feels during everyday use. Your eyes detect motion discontinuities at around 100ms, but you can perceive judder and stuttering much more subtly. When frame delivery consistently falls below the 16ms target, animations appear choppy, scrolling feels uneven, and interactive elements respond sluggishly.
 
@@ -28,7 +28,7 @@ Chrome prioritizes the main thread for executing JavaScript and handling user in
 
 The frame budget becomes especially critical on lower-powered devices. Older laptops, budget Chromebooks, and mobile devices have less processing power available for the browser's rendering pipeline. On these machines, meeting the 16ms target requires careful optimization of both websites and browser settings.
 
-## How Chrome Manages the Frame Budget
+How Chrome Manages the Frame Budget
 
 Chrome employs several strategies to maintain smooth frame delivery within its budget constraints. The browser breaks down rendering into distinct phases: JavaScript execution, style calculations, layout determination, painting, and compositing. Each phase must complete quickly to stay within the 16ms window.
 
@@ -36,7 +36,7 @@ When Chrome detects that a particular tab requires heavy processing, it may redu
 
 Background tabs receive reduced priority in Chrome's frame budget allocation. The browser recognizes that you cannot see content in inactive tabs, so it allocates fewer processing resources to them. This approach preserves performance for the active tab while reducing overall resource consumption. Tab Suspender Pro builds on this concept by extending Chrome's background throttling to automatically pause tabs you haven't used recently, further freeing up the frame budget for the tabs that matter most.
 
-## What Happens When the Frame Budget Is Exceeded
+What Happens When the Frame Budget Is Exceeded
 
 When Chrome cannot complete all rendering work within 16ms, several outcomes are possible depending on the severity of the overrun. For minor overruns, Chrome might drop a single frame. You likely won't consciously notice this happening once, but repeated small overruns create a cumulative effect that makes animations feel less smooth.
 
@@ -44,7 +44,7 @@ Major overruns cause more noticeable problems. If JavaScript execution runs long
 
 Web developers who understand the frame budget can optimize their websites to stay within its constraints. Techniques like using CSS transforms instead of animating layout properties, debouncing scroll handlers, and lazy-loading content all help websites perform better within Chrome's rendering budget.
 
-## Optimizing Chrome's Frame Budget Performance
+Optimizing Chrome's Frame Budget Performance
 
 You can influence how well Chrome manages its frame budget through both browser settings and system configurations. Ensuring hardware acceleration is enabled allows Chrome to offload graphical processing to your GPU, which is significantly faster for visual operations than the CPU alone.
 
@@ -54,7 +54,7 @@ Keeping Chrome updated ensures you benefit from the latest rendering optimizatio
 
 Your system also plays a role in frame budget performance. Adequate RAM prevents the system from swapping memory to disk, which would dramatically slow all browser operations. Closing other resource-intensive applications while browsing gives Chrome more headroom to maintain smooth frame delivery.
 
-## Understanding Frame Budget Beyond 16ms
+Understanding Frame Budget Beyond 16ms
 
 Modern displays can support refresh rates beyond the standard 60Hz. High refresh rate monitors at 120Hz or 144Hz require even tighter frame budgets to maintain smooth visuals. At 120Hz, you have only about 8.3ms per frame. Chrome adapts its frame budget targets based on your display's capabilities, but the underlying principle remains the same: completing all rendering work within the available time.
 
@@ -64,9 +64,9 @@ The frame budget concept extends beyond just animation smoothness. It affects ho
 
 Smooth browser performance depends on Chrome consistently meeting its frame budget targets. By understanding what the 16ms frame budget means and how it affects your experience, you can better optimize your browsing environment for the smooth, responsive performance you expect.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome A-Frame WebXR Getting Started Guide](chrome-a-frame-webxr-getting-started)
 - [chrome extensions for wireframe design](chrome-extensions-for-wireframe-design)

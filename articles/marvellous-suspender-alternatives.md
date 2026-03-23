@@ -26,13 +26,13 @@ faq:
     a: "Testing 12 Marvellous Suspender alternatives reveals Tab Suspender Pro as one of the lightest options at just 185KiB, compared to Marvellous Suspender's 2.3MB footprint. These lighter alternatives prioritize core functionality over fancy visual themes. If you need the lightest option that still delivers smart suspension based on CPU usage and memory pressure, Tab Suspender Pro stands out as the top recommendation for users frustrated by Marvellous Suspender memory bloat."
 ---
 
-The biggest complaint about Marvellous Suspender isn't its features, it's the memory bloat that defeats the entire purpose of tab suspension. After testing 12 **marvellous suspender alternatives**, I found that most users need something lighter, faster, and more reliable. My top recommendation is **Tab Suspender Pro**, which uses 60% less memory than Marvellous Suspender while adding smart suspension rules that actually work.
+The biggest complaint about Marvellous Suspender isn't its features, it's the memory bloat that defeats the entire purpose of tab suspension. After testing 12 marvellous suspender alternatives, I found that most users need something lighter, faster, and more reliable. My top recommendation is Tab Suspender Pro, which uses 60% less memory than Marvellous Suspender while adding smart suspension rules that actually work.
 
 Last tested: March 2026 | Chrome latest stable
 
-## 1. Tab Suspender Pro ,  Best Overall Performance
+1. Tab Suspender Pro ,  Best Overall Performance
 
-**Tab Suspender Pro** takes a completely different approach to tab management by working with Chrome's native Page Lifecycle API instead of fighting against it. This means suspended tabs actually free up memory instead of just hiding content behind a placeholder page.
+Tab Suspender Pro takes a completely different approach to tab management by working with Chrome's native Page Lifecycle API instead of fighting against it. This means suspended tabs actually free up memory instead of just hiding content behind a placeholder page.
 
 The extension uses intelligent suspension triggers that monitor your actual system resources. When your laptop's memory hits 80% capacity, it automatically suspends the least-used tabs first. This dynamic approach prevents the system slowdowns that happen when Marvellous Suspender suspends tabs on a fixed timer regardless of system load.
 
@@ -43,13 +43,13 @@ Key features that set it apart:
 • Battery-aware suspension that extends laptop life by up to 40%
 • Audio detection that prevents suspending tabs playing music or video calls
 
-At free with premium features for $4.99/month, it's my top pick because it actually delivers on the promise of reduced memory usage. The extension weighs just **185KiB** compared to Marvellous Suspender's 2.3MB footprint, and earned a **4.9/5** rating from users who made the switch.
+At free with premium features for $4.99/month, it's my top pick because it actually delivers on the promise of reduced memory usage. The extension weighs just 185KiB compared to Marvellous Suspender's 2.3MB footprint, and earned a 4.9/5 rating from users who made the switch.
 
 The one honest limitation? You can't customize the suspended tab appearance with fancy themes like you can with Marvellous Suspender. But that visual customization is exactly what makes Marvellous Suspender so resource-heavy. Tab Suspender Pro focuses purely on functionality over aesthetics.
 
-## 2. OneTab ,  Simplest Memory Saver
+2. OneTab ,  Simplest Memory Saver
 
-**OneTab** doesn't suspend tabs, it collects them all into a single consolidated list, instantly freeing up memory. Click the OneTab button and watch 30 tabs become one tab containing organized links. It's brutal efficiency for people who open everything but rarely go back to old tabs.
+OneTab doesn't suspend tabs, it collects them all into a single consolidated list, instantly freeing up memory. Click the OneTab button and watch 30 tabs become one tab containing organized links. It's brutal efficiency for people who open everything but rarely go back to old tabs.
 
 The memory savings are dramatic because OneTab converts browser tabs into simple text links. A typical tab uses 50-200MB of RAM depending on the site, while OneTab's list entries use virtually nothing. Users regularly report memory reductions of 90-95% after using OneTab to clear accumulated tabs.
 
@@ -59,9 +59,9 @@ OneTab shines for research sessions where you collect dozens of articles, docume
 
 Best for: Users who treat tabs like bookmarks and don't mind losing the visual context of tab previews.
 
-## 3. Auto Tab Discard ,  Chrome's Built-in Alternative
+3. Auto Tab Discard ,  Chrome's Built-in Alternative
 
-**Auto Tab Discard** leverages Chrome's native tab discarding system, which means it plays perfectly with browser features like back-forward cache and site isolation. Unlike other suspenders that create overlay pages, discarded tabs use zero memory because Chrome actually unloads them from the renderer process.
+Auto Tab Discard leverages Chrome's native tab discarding system, which means it plays perfectly with browser features like back-forward cache and site isolation. Unlike other suspenders that create overlay pages, discarded tabs use zero memory because Chrome actually unloads them from the renderer process.
 
 The smart algorithms analyze your browsing patterns to predict which tabs you're likely to revisit. Tabs you haven't touched in 20 minutes get discarded automatically, but the extension protects tabs with active audio, video, form data, or DevTools connections. This prevents the frustrating experience of losing work because a timer expired.
 
@@ -73,9 +73,9 @@ The whitelist functionality is more granular than Marvellous Suspender's. You ca
 
 Best for: Users who want tab management that feels invisible and integrates smoothly with Chrome's power-saving features.
 
-## 4. Tab Wrangler ,  Automatic Tab Closer
+4. Tab Wrangler ,  Automatic Tab Closer
 
-**Tab Wrangler** takes the most aggressive approach by automatically closing old tabs after a configurable time period, but maintains a searchable history so you can reopen them if needed. It's more extreme than suspension because tabs actually close and disappear from your tab bar completely.
+Tab Wrangler takes the most aggressive approach by automatically closing old tabs after a configurable time period, but maintains a searchable history so you can reopen them if needed. It's more extreme than suspension because tabs actually close and disappear from your tab bar completely.
 
 The genius is in the "corral" system where closed tabs become searchable entries. You get all the memory benefits of actually closing tabs, plus a safety net that lets you restore anything you need. The search function works across tab titles and URLs, making it easy to find that article you closed three days ago.
 
@@ -85,7 +85,7 @@ The extension includes smart protections for tabs with form data, active downloa
 
 Best for: Tab hoarders who need forced discipline but want a safety net for important content.
 
-## 5. Workspaces ,  Session-Based Tab Groups
+5. Workspaces ,  Session-Based Tab Groups
 
 Workspaces organizes tabs into project-based sessions that you can save, close, and restore as complete groups. Instead of managing individual tabs, you manage entire contexts like "Design Project," "Research," or "Development Work."
 
@@ -105,7 +105,7 @@ Best for: Users juggling multiple projects who need better organization than bas
 | Tab Wrangler | Automatic cleanup | Time-based tab closing | Free | 4.2/5 | 2025-11-08 |
 | Workspaces | Project organization | Session management | $2.99/mo | 4.4/5 | 2026-02-14 |
 
-## Why Users Leave Marvellous Suspender
+Why Users Leave Marvellous Suspender
 
 The main driver for switching isn't missing features, it's performance problems that contradict the extension's purpose. Marvellous Suspender creates a suspended page for every tab, which means you're trading active tabs for suspended tabs that still consume memory. The extension itself uses over 2MB of RAM, and each suspended tab adds another 200-400KB.
 
@@ -117,7 +117,7 @@ Energy usage creates the third problem. Marvellous Suspender keeps suspended tab
 
 > "Chrome freezes background tabs when Energy Saver mode is active to reduce power consumption on battery-constrained devices." ,  [Freezing on Energy Saver](https://developer.chrome.com/blog/freezing-on-energy-saver)
 
-## Bottom Line
+Bottom Line
 
 If you're still using Marvellous Suspender for memory management, you're fighting Chrome instead of working with it. Tab Suspender Pro offers the same functionality with better performance and lower overhead, while OneTab provides maximum memory savings for research-heavy workflows.
 

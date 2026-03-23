@@ -22,13 +22,13 @@ permalink: chrome-devtools-css-overview-panel
 
 If you have ever searched for "chrome devtools css overview panel" to find a better way to analyze and fix CSS problems on your websites, you have landed in the right place. The CSS Overview panel is one of Chrome DevTools most useful yet often overlooked features, and it can completely change how you debug and optimize your website's styling.
 
-## What is the CSS Overview Panel
+What is the CSS Overview Panel
 
 The CSS Overview panel in Chrome DevTools provides a comprehensive view of all the CSS used on a webpage. It breaks down your stylesheets into organized categories, making it easy to spot issues like inconsistent colors, too many font sizes, or unused CSS rules. Instead of manually hunting through hundreds of lines of code, the panel presents everything in a clean, scannable interface that helps you understand the big picture of your site's styling.
 
 This panel is particularly valuable when you inherit a website from someone else or when you need to audit a large codebase. Rather than feeling overwhelmed by a massive stylesheet, you can use the CSS Overview panel to quickly identify areas that need attention. It serves as a starting point for any CSS optimization or cleanup task, giving you actionable insights in just a few clicks.
 
-## Why CSS Issues Happen
+Why CSS Issues Happen
 
 CSS problems typically arise from several common sources that the CSS Overview panel helps you identify and fix. First, as websites grow and evolve, stylesheets often become cluttered with rules that are no longer used. These unused styles take up space and can cause confusion during development. The CSS Overview panel shows you exactly which rules are not being applied anywhere on the page, so you can safely remove them.
 
@@ -36,13 +36,13 @@ Second, inconsistency in colors and fonts is a frequent issue on older websites 
 
 Third, contrast issues can slip through during development, especially when you are focused on functionality rather than accessibility. The CSS Overview panel highlights potential contrast problems, helping you ensure that your website is readable for everyone, including users with visual impairments.
 
-## How to Access the CSS Overview Panel
+How to Access the CSS Overview Panel
 
 Opening the CSS Overview panel is straightforward, though it requires a small extra step since it is not visible by default. First, open Chrome DevTools by pressing F12 or right-clicking anywhere on a webpage and selecting Inspect. Then, click the three-dot menu in the top-right corner of DevTools and select "CSS Overview" from the dropdown. If you do not see it listed, you may need to click "More tools" and then select "CSS Overview" from the expanded menu.
 
 Once the panel opens, you will see several sections that organize your CSS information. The panel will immediately start analyzing the current page, which only takes a moment for most websites. You can then explore the different categories at your own pace, clicking on any item to see exactly where that style is defined in your code.
 
-## Understanding the Panel Sections
+Understanding the Panel Sections
 
 The CSS Overview panel organizes information into several useful categories that each serve a specific purpose. The Colors section displays every color used on the page, grouped by usage. You can see which colors appear most frequently and identify opportunities to reduce your palette to a more manageable number.
 
@@ -52,7 +52,7 @@ The Contrast Issues section is particularly important for accessibility. It flag
 
 The Unused Declarations section reveals CSS rules that are defined but not currently being applied to any element on the page. These might be leftover styles from previous designs or rules that were commented out but never removed. Cleaning these up makes your stylesheets smaller and easier to maintain.
 
-## Practical Steps to Fix CSS Issues
+Practical Steps to Fix CSS Issues
 
 Now that you understand what the CSS Overview panel shows, here are practical steps you can take to address common problems. Start by reviewing the Colors section and creating a small, consistent color palette for your website. Choose your primary colors, accent colors, and neutral tones, then search through your stylesheets for any other colors that can be replaced with these standard choices.
 
@@ -62,7 +62,7 @@ Then, address any Contrast Issues that the panel identifies. Use the information
 
 Finally, remove unused declarations to clean up your stylesheets. The panel shows you exactly which rules are not being used, so you can delete them with confidence. After removing unused styles, test your website thoroughly to make sure nothing broke.
 
-## Making the Most of CSS Overview
+Making the Most of CSS Overview
 
 The CSS Overview panel becomes even more powerful when you use it as part of your regular workflow. Consider running an overview analysis whenever you start working on a new project or before major updates. This gives you a baseline understanding of the current state of the CSS and helps you plan your work.
 
@@ -76,7 +76,7 @@ The CSS Overview panel in Chrome DevTools is an invaluable tool for anyone who w
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking//)
 * [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging/)
 * [How to Search Open Chrome Tabs](/articles/how-to-search-open-chrome-tabs/)

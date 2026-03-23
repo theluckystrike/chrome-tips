@@ -20,13 +20,13 @@ author: theluckystrike
 
 If you have tested your Chrome browser using the Octane benchmark, you probably found yourself asking "what is a good Chrome Octane score?" The answer depends on several factors, including your computer hardware, Chrome version, and what you typically do online. This guide will help you understand what scores mean in practical terms.
 
-## Understanding Octane Score Ranges
+Understanding Octane Score Ranges
 
 The Chrome Octane score ranges from zero to well over 50,000 on modern hardware. When the benchmark was active, Google considered scores above 30,000 as excellent, while scores below 10,000 indicated poor performance. However, these numbers have shifted over time as hardware has improved and Google has retired the original benchmark.
 
 On a typical modern laptop or desktop computer from the past few years, you can expect an Octane score between 20,000 and 50,000. Computers with newer processors and more RAM tend to score higher because they can process JavaScript more efficiently. Older machines or budget devices often fall in the 10,000 to 25,000 range, which is still usable for everyday browsing but may struggle with complex web applications.
 
-## What Scores Mean for Different Users
+What Scores Mean for Different Users
 
 For casual browsing, checking emails, and reading news sites, a score above 10,000 generally provides a smooth experience. These activities do not require heavy JavaScript processing, so even lower-end devices can handle them without significant delays.
 
@@ -34,7 +34,7 @@ If you use web-based productivity tools like Google Docs, spreadsheets, or proje
 
 For developers or users who run complex web applications, online code editors, or browser-based development environments, aim for a score above 30,000. These activities push your browser's JavaScript engine to its limits, and a higher score translates to less waiting and more productive work.
 
-## How Your Hardware Affects the Score
+How Your Hardware Affects the Score
 
 Your processor plays the biggest role in determining your Octane score. Modern CPUs with multiple cores and higher clock speeds will naturally score higher because they can execute more instructions simultaneously. If you have a computer from the past three to four years, you likely have a processor capable of decent scores.
 
@@ -42,7 +42,7 @@ RAM also matters significantly. Chrome uses memory to store data while processin
 
 The version of Chrome you use affects your score as well. Google continuously optimizes the V8 JavaScript engine that powers Chrome. Each update typically brings small improvements that can boost your score by a few hundred to a few thousand points. Keeping Chrome updated ensures you are getting the best possible performance.
 
-## Typical Score Examples
+Typical Score Examples
 
 To give you a better idea of what to expect, here are some general benchmarks for different hardware configurations:
 
@@ -54,7 +54,7 @@ High-end desktops and gaming laptops with Intel Core i7, i9, or AMD Ryzen 7, 9 p
 
 Apple computers with M1, M2, or M3 chips consistently score above 40,000 and often reach 50,000 or higher. The optimized architecture of Apple Silicon provides excellent JavaScript performance.
 
-## Improving Your Score
+Improving Your Score
 
 If your score is lower than you would like, there are several steps you can take to improve Chrome's performance.
 
@@ -66,7 +66,7 @@ Third, clear your browser cache regularly. Over time, cached files can accumulat
 
 Fourth, ensure Chrome is updated. Check for updates by clicking the three dots in the top right corner, selecting Help, and choosing About Google Chrome. Installing the latest version gives you performance improvements and security fixes.
 
-## Should You Worry About Your Score
+Should You Worry About Your Score
 
 While the Octane score provides a useful reference point, it is not the only measure of browser quality. Google retired the original Octane benchmark in 2017, replacing it with newer tools that better reflect modern web usage. This means the score is somewhat dated, though it still offers insight into JavaScript performance.
 
@@ -74,7 +74,7 @@ For most users, what matters more than the raw score is how Chrome feels in dail
 
 A higher score does not always guarantee a better experience either. Other factors like network speed, website optimization, and browser settings also play significant roles. A computer with a moderate score but good network connectivity will often feel faster than a high-scoring machine on a slow connection.
 
-## Making the Most of Your Browser
+Making the Most of Your Browser
 
 Regardless of where your score falls, following good browser hygiene practices will improve your experience. Keep Chrome updated, manage your tabs effectively, and periodically clear cached data. These simple habits take only a few minutes but can make Chrome feel significantly more responsive.
 
@@ -82,9 +82,9 @@ If you find yourself frequently with too many open tabs, try using Tab Suspender
 
 Understanding your Chrome Octane score gives you a baseline for browser performance, but real-world experience matters more than any benchmark number. Focus on maintaining a well-optimized browser rather than chasing the highest possible score.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome About Blank Page What It Means](chrome-about-blank-page-what-it-means)
 - [Chrome Activity Controls What They Track](chrome-activity-controls-what-they-track)

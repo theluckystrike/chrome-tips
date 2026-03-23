@@ -25,7 +25,7 @@ Chrome send to device feature how to use is something many people wonder about w
 
 Let me explain how it works, why it is useful, and how you can start using it today.
 
-## What the Send to Device Feature Does
+What the Send to Device Feature Does
 
 The Send to Device feature in Chrome allows you to take whatever you are viewing in your browser and instantly send it to another device where you are signed into the same Google account. It works across computers, phones, and tablets that have Chrome installed and are connected to your Google account.
 
@@ -33,7 +33,7 @@ This feature is part of Chrome is built-in sync capabilities. When you sign into
 
 The feature is particularly useful for several everyday situations. You might find an interesting article on your work computer that you want to read later on your phone during your commute. You might be planning a trip and find a hotel or restaurant on your phone that you want to look up in more detail on your larger computer screen. Or you might be working on a research project and find pieces of information on different devices that you want to gather in one place.
 
-## How to Send a Tab or Link from Your Computer to Your Phone
+How to Send a Tab or Link from Your Computer to Your Phone
 
 Using the Send to Device feature from your computer to your phone is straightforward. Here are the steps to follow.
 
@@ -49,7 +49,7 @@ Select the device you want to send the page to. You might see names like "Mike i
 
 On the receiving device, you will get a notification letting you know that a tab has been sent to you. If Chrome is open on that device, the tab will appear in your recently closed tabs or you may see a notification at the bottom of the screen.
 
-## How to Send a Tab or Link from Your Phone to Your Computer
+How to Send a Tab or Link from Your Phone to Your Computer
 
 Sending something from your phone to your computer follows a similar process. Open Chrome on your phone and navigate to the page you want to send.
 
@@ -59,7 +59,7 @@ When you tap the share button, you will see a list of options. Look for "Send to
 
 Tap on the device you want to send the page to, and it will be sent immediately. On your computer, you will see a notification that a tab has been sent to you, and you can open it right away.
 
-## Troubleshooting Common Issues
+Troubleshooting Common Issues
 
 Sometimes the Send to Device feature does not work as expected. Here are some common problems and what you can do about them.
 
@@ -71,7 +71,7 @@ If you have sent a tab but cannot find it, check your recently closed tabs. In C
 
 Sometimes the feature might be slower than expected, especially if you are sending a page with a lot of images or complex content. In most cases, the transfer happens within seconds, but heavy pages might take a bit longer.
 
-## Making the Most of Chrome is Sync Features
+Making the Most of Chrome is Sync Features
 
 The Send to Device feature works best when combined with other Chrome sync features. When you enable sync in Chrome, your browsing history, bookmarks, passwords, and open tabs are automatically shared across all your devices. This means that even without using Send to Device manually, you can start something on one device and pick it up exactly where you left off on another.
 
@@ -83,7 +83,7 @@ If you find yourself frequently sending tabs between devices, you might also ben
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [Chrome PDF Not Opening in Browser Fix](/articles/chrome-pdf-not-opening-in-browser-fix/)
 * [Chrome Extensions for Note Taking in Meetings](/articles/chrome-extensions-for-note-taking-in-meetings/)
 * [Chrome for Reducing Eye Strain Extensions](/articles/chrome-for-reducing-eye-strain-extensions/)

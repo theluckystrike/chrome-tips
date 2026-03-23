@@ -11,7 +11,7 @@ last_modified_at: '2026-03-12'
 
 Chrome screen wake lock API explained is something many people search for when they find their browser unexpectedly keeping their screen awake. If you have noticed your laptop screen staying on when it should have gone to sleep, or your phone screen not dimming while you are reading an article, the wake lock API in Chrome might be the reason.
 
-## What the Screen Wake Lock API Actually Is
+What the Screen Wake Lock API Actually Is
 
 The screen wake lock API is a feature built into Chrome that allows websites to request your screen to stay awake. In simple terms, it is a way for web pages to tell your browser "please keep the display on" so you do not have to keep touching your screen or moving your mouse to prevent it from going dark.
 
@@ -19,7 +19,7 @@ Think about when you are following a recipe while cooking, reading a long articl
 
 This API is particularly useful for things like recipe websites, music players, presentation viewers, fitness apps that show timers, and any situation where you need the screen on but might not be actively clicking or scrolling.
 
-## Why This Feature Exists
+Why This Feature Exists
 
 Before this API existed, users had to manually adjust their screen timeout settings in their operating system, use third-party apps, or constantly interact with their device to keep it awake. This was frustrating, especially when you needed your hands free for other tasks like cooking, exercising, or working on something alongside your screen.
 
@@ -27,7 +27,7 @@ Web developers wanted to create better experiences for users who needed their sc
 
 The feature works intelligently. When you visit a website that uses wake lock, the site can ask Chrome to prevent the screen from turning off. Chrome will honor this request as long as the tab remains visible and you are on the page. If you switch to another tab, minimize the window, or close the browser, the wake lock automatically releases to save battery.
 
-## How It Affects Your Browser Experience
+How It Affects Your Browser Experience
 
 When you browse the web in Chrome, you may encounter wake lock in several ways. Recipe websites often use it so your screen stays on while you follow cooking steps. Music streaming services might use it to keep playing without interruption. Some news sites use it for their reader modes. Fitness apps with workout timers rely on it to show your remaining time.
 
@@ -35,27 +35,27 @@ You might notice your screen staying on longer than usual when visiting these si
 
 If you find your screen staying on more often than you would like, you have a few options. Closing the tab that requested the wake lock will immediately release it. You can also check which sites are using this feature by looking at your browser settings or using extensions that show website activity. Managing which sites can keep your screen awake is a matter of being aware of which tabs you have open.
 
-## How to Identify Which Site Is Using Wake Lock
+How to Identify Which Site Is Using Wake Lock
 
 If you find your screen staying on and you aren't sure why, there are a few ways to track down the culprit. The most direct way is to look at your open tabs and think about which ones might need to keep your screen active. Websites that show long-form video, workout routines, or interactive maps are the most likely candidates.
 
-You can also use **Chrome DevTools** to see if a site is actively requesting a wake lock. Press **F12** or right-click and select "Inspect." Go to the "Application" tab and look for "Wake Lock" in the left sidebar. This will show you if the current page has an active lock on your display. If you see an active entry there, you've found the reason your screen won't dim.
+You can also use Chrome DevTools to see if a site is actively requesting a wake lock. Press F12 or right-click and select "Inspect." Go to the "Application" tab and look for "Wake Lock" in the left sidebar. This will show you if the current page has an active lock on your display. If you see an active entry there, you've found the reason your screen won't dim.
 
-## How to Manually Disable a Wake Lock
+How to Manually Disable a Wake Lock
 
-While Chrome doesn't have a single toggle to disable the **Wake Lock API** for all sites, you can manage it on a site-by-site basis. The most effective method is simply to close the tab or switch to a different window. The API is designed to only function when the tab is the active, visible window on your screen. 
+While Chrome doesn't have a single toggle to disable the Wake Lock API for all sites, you can manage it on a site-by-site basis. The most effective method is simply to close the tab or switch to a different window. The API is designed to only function when the tab is the active, visible window on your screen. 
 
-If you want to keep the site open but want your screen to follow its normal sleep schedule, you can try minimizing the window. Once the window is minimized, Chrome should automatically release the wake lock. If that doesn't work, you can check your browser's **Permissions** settings for that specific site. Some sites allow you to toggle "Keep screen on" in their own internal settings menus, so look for a gear icon or a display setting within the website itself.
+If you want to keep the site open but want your screen to follow its normal sleep schedule, you can try minimizing the window. Once the window is minimized, Chrome should automatically release the wake lock. If that doesn't work, you can check your browser's Permissions settings for that specific site. Some sites allow you to toggle "Keep screen on" in their own internal settings menus, so look for a gear icon or a display setting within the website itself.
 
-## Managing Wake Lock on Your Device
+Managing Wake Lock on Your Device
 
-If you want more control over which sites can keep your screen awake, you have several options. The simplest solution is to close tabs that are causing your screen to stay on when you no longer need them. This automatically releases the **wake lock** and lets your device return to its normal **sleep settings**.
+If you want more control over which sites can keep your screen awake, you have several options. The simplest solution is to close tabs that are causing your screen to stay on when you no longer need them. This automatically releases the wake lock and lets your device return to its normal sleep settings.
 
-For users who want more comprehensive control, **Tab Suspender Pro** is an excellent companion. While it primarily manages **RAM usage**, it can also "hibernate" background tabs that are holding active **Screen Wake Locks**. This ensures that a random tab you forgot about doesn't keep your laptop screen on all night, draining your **battery**. It’s a great way to balance the convenience of the **Wake Lock API** with the need for **power efficiency**.
+For users who want more comprehensive control, Tab Suspender Pro is an excellent companion. While it primarily manages RAM usage, it can also "hibernate" background tabs that are holding active Screen Wake Locks. This ensures that a random tab you forgot about doesn't keep your laptop screen on all night, draining your battery. It’s a great way to balance the convenience of the Wake Lock API with the need for power efficiency.
 
-## Related Articles
+Related Articles
 * [How to Limit Chrome Extension Permissions](/articles/how-to-limit-chrome-extension-permissions/)
 * [Chrome Extension for Changing User Agent](/articles/chrome-extension-for-changing-user-agent/)
 * [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

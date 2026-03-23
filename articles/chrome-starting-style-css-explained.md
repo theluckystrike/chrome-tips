@@ -60,5 +60,5 @@ If you find that Chrome is running slowly or using too much memory due to many o
 * [Top 10 Chrome Extensions Everyone Should Have](/articles/top-10-chrome-extensions-everyone-should-have/)
 * [chrome zoom default change](/articles/chrome-zoom-default-change/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

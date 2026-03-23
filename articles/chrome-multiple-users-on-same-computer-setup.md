@@ -13,13 +13,13 @@ How do you set up chrome multiple users on same computer? If you share a compute
 
 Setting up Chrome for multiple users is easier than you might think, and it can make a big difference in your daily browsing experience. Let me walk you through how to do it step by step.
 
-## Why Set Up Separate Users
+Why Set Up Separate Users
 
 When multiple people share the same Chrome profile, things can get messy quickly. Your carefully organized bookmarks get mixed with someone else's. Your saved passwords become accessible to others. Your browsing history shows websites you never visited. And worst of all, you might accidentally post to the wrong social media account or send an email from the wrong inbox.
 
 Creating separate user profiles in Chrome solves all of these problems. Each person gets their own space with their own bookmarks, history, extensions, saved passwords, and settings. Think of it like having separate accounts on a shared computer, but specifically tailored for your browser.
 
-## Getting Started with Chrome Profiles
+Getting Started with Chrome Profiles
 
 Chrome uses something called "profiles" to separate users. Each profile is essentially a separate identity within Chrome, with its own set of data. Setting up a new profile is straightforward.
 
@@ -31,7 +31,7 @@ You will be asked to give the profile a name and optionally choose a picture. Th
 
 Once you create the profile, Chrome opens a new window using that profile. From this point on, everything you do in this window stays separate from other profiles. Bookmarks you save here will not appear in other profiles. Extensions you install will not carry over. Your history stays private.
 
-## Managing Multiple Profiles
+Managing Multiple Profiles
 
 After you have set up profiles for each user, you might wonder how to switch between them or manage them going forward. The good news is that Chrome makes this relatively painless.
 
@@ -41,7 +41,7 @@ If you want to rename a profile or change its picture later, click on the profil
 
 One thing to note is that each profile operates independently. This means you can have multiple Chrome windows open at the same time, each using a different profile. This can be handy if you need to switch back and forth frequently throughout the day.
 
-## Syncing Your Data Across Devices
+Syncing Your Data Across Devices
 
 If you want your Chrome data to follow you across different computers or phones, you can sign into each profile with a Google account. This enables Chrome Sync, which keeps your bookmarks, history, extensions, and settings synchronized across all your devices.
 
@@ -49,7 +49,7 @@ To enable sync, click on your profile icon and look for the option to turn on sy
 
 This is particularly useful for families where different people might use different computers. With sync enabled, your bookmarks and settings are available whether you are on your home desktop or your laptop on the go.
 
-## Adding Extensions to Your Profile
+Adding Extensions to Your Profile
 
 Extensions work on a per-profile basis, which means each user can have their own set of extensions without affecting others. This is great because different people often have different needs.
 
@@ -57,7 +57,7 @@ To add extensions, open Chrome and click on the puzzle piece icon in the top rig
 
 Some extensions can help with managing multiple users indirectly. For example, Tab Suspender Pro is an extension that helps keep your browser running smoothly by automatically suspending tabs you are not using. While it is not specifically designed for multi-user setups, it can be helpful for anyone who tends to keep many tabs open, regardless of which profile they are using. Each family member can install their own set of extensions tailored to their needs.
 
-## Tips for Families and Shared Computers
+Tips for Families and Shared Computers
 
 If you are setting up Chrome for a family with children, there are a few extra things to consider. You might want to look into Chrome's supervised profiles, which allow parents to monitor and control what their children can access online. These profiles let you block certain websites, set time limits, and see what your kids have been browsing.
 
@@ -65,7 +65,7 @@ For adult shared households, the basic profile setup usually works well. Just ma
 
 It also helps to establish some simple habits. For example, make a point of closing Chrome when you are done using it, or at least switching back to your own profile before walking away. This reduces the chance of someone else accidentally accessing your information.
 
-## Wrapping Up
+Wrapping Up
 
 Setting up chrome multiple users on same computer is one of the best ways to keep your browsing experience organized and private when sharing a machine. With Chrome profiles, each person can have their own bookmarks, history, extensions, and settings without interfering with others.
 
@@ -75,7 +75,7 @@ Give it a try if you have not already. Once everyone has their own profile, you 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for Time Management Extensions](/articles/chrome-for-time-management-extensions/)
 * [Chrome Safe Search How to Lock](/articles/chrome-safe-search-how-to-lock/)
 * [Chrome for Weather Dashboard Extensions](/articles/chrome-for-weather-dashboard-extensions/)

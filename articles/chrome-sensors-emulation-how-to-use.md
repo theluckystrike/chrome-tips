@@ -27,13 +27,13 @@ Chrome sensors emulation is a feature inside Chrome Developer Tools that lets yo
 
 The reason this matters is that testing location-based features the old way is slow and impractical. You could walk around with your phone to test GPS features, but that gets tedious fast. You could ask someone in another city to test your site, but that adds delay and coordination hassle. Or you could build complicated automated tests, which take time to set up. Chrome sensors emulation gives you immediate control right from your browser, so you can see exactly how your site responds to different sensor data without leaving your desk.
 
-## How to Open the Sensors Panel
+How to Open the Sensors Panel
 
 The sensors emulation tool lives inside Chrome Developer Tools, which you can open by right-clicking anywhere on a page and choosing Inspect, or by pressing the keyboard shortcut Control Shift I on Windows or Command Option I on Mac. Once Developer Tools is open, look for a button with three dots in the top right corner. Click that and then choose More Tools, then Sensors. You can also find it by pressing Control Shift P inside Developer Tools to open the command menu and typing Sensors.
 
 When the Sensors panel opens, you will see options at the top for Location, Orientation, and Touch emulation. The panel usually appears at the bottom of Developer Tools, taking up part of the screen so you can still see the website you are testing.
 
-## Changing Your Location
+Changing Your Location
 
 The most commonly used feature is the location override. By default, Chrome shows websites your actual location if they ask for it and if you have granted permission. But in the Sensors panel, you can choose from a list of preset cities or enter your own coordinates.
 
@@ -45,7 +45,7 @@ Some websites check not just your location but also whether the location data ca
 
 There is also a checkbox for Emulate position unavailable. Checking this tells the website that the browser could not determine location at all, which might happen if someone has location services turned off or if the GPS is not working. Testing this state is important because your site should handle it gracefully rather than breaking or showing confusing errors.
 
-## Changing Device Orientation
+Changing Device Orientation
 
 If you are building something that responds to how the user is holding their device, the Orientation section of the Sensors panel is what you need. This is particularly relevant for mobile games, fitness tracking apps that count steps or track movement, or any site that changes its layout based on whether the phone is portrait or horizontal.
 
@@ -55,13 +55,13 @@ For more detailed testing, you can enter specific alpha, beta, and gamma values.
 
 There is also an option to lock the orientation so that rotating your actual screen does not change what the website sees. This is useful when you want to test a specific orientation without your real screen getting in the way.
 
-## Simulating Motion and Touch
+Simulating Motion and Touch
 
 Chrome can also emulate touch events and motion, though these are less commonly needed for most testing scenarios. The Touch emulation dropdown lets you choose between Mouse events and Touch events. This matters because some websites detect whether you are on a touch device and show different interfaces or enable different features. By switching between these modes, you can see how your site handles both kinds of input.
 
 The Motion emulation section lets you simulate acceleration and rotation rate. This is the kind of data that fitness apps or games would use to track physical movement. You can set specific values for x, y, and z acceleration and rotation speed to see how your site responds. This is more of a developer-level feature, but if you are building something that uses the DeviceMotion or DeviceOrientation APIs, it can save you a lot of manual testing.
 
-## Practical Testing Scenarios
+Practical Testing Scenarios
 
 Now that you know how to use the tools, here are some real situations where sensors emulation makes testing much easier.
 
@@ -73,15 +73,15 @@ If your app shows different content based on whether location is available, you 
 
 If you are building a game that uses device orientation to steer or control action, you can try all the preset orientations and make sure the controls feel right in each position.
 
-## One More Tip for Performance
+One More Tip for Performance
 
-If you find yourself needing to manage many open tabs while testing **location-based features**, you might notice **Chrome DevTools** becoming sluggish. Running **sensors emulation** and simulating **geolocation** data requires extra processing power.
+If you find yourself needing to manage many open tabs while testing location-based features, you might notice Chrome DevTools becoming sluggish. Running sensors emulation and simulating geolocation data requires extra processing power.
 
-Using **Tab Suspender Pro** is an excellent way to keep your environment snappy. It automatically "hibernates" background tabs, freeing up **RAM** so that your **emulation** and **debugging** tools remain perfectly responsive. This ensures that when you're switching between **NYC** and **Tokyo** coordinates, the browser doesn't hang or crash. A lean browser is essential for accurate technical testing.
+Using Tab Suspender Pro is an excellent way to keep your environment snappy. It automatically "hibernates" background tabs, freeing up RAM so that your emulation and debugging tools remain perfectly responsive. This ensures that when you're switching between NYC and Tokyo coordinates, the browser doesn't hang or crash. A lean browser is essential for accurate technical testing.
 
-## Related Articles
+Related Articles
 * [Chrome Extensions for Musicians and Producers](/articles/chrome-extensions-for-musicians-and-producers/)
 * [How to Use Chrome for Multiple Work Accounts](/articles/how-to-use-chrome-for-multiple-work-accounts/)
 * [chrome source maps debug minified code](/articles/chrome-source-maps-debug-minified-code/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

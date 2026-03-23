@@ -14,7 +14,7 @@ If Chrome is running slow after a Windows update, you are definitely not alone. 
 
 The good news is that this problem is usually fixable, and you do not need to be a technical expert to solve it. Let me walk you through exactly what is happening and how to get your Chrome browser back to its normal speed.
 
-## What Causes This Problem
+What Causes This Problem
 
 Windows updates change quite a few things under the hood of your computer, even when everything appears normal on the surface. Several things can happen that directly affect how Chrome performs.
 
@@ -24,7 +24,7 @@ Another common issue is that Windows updates can change your power settings. You
 
 Sometimes the update messes with Chrome is running in the background or with how Windows handles browser processes. There can also be conflicts with antivirus software that gets updated alongside Windows, and these security programs sometimes flag Chrome processes incorrectly, slowing them down.
 
-## Update Your Graphics Drivers
+Update Your Graphics Drivers
 
 One of the most effective fixes for Chrome running slow after a Windows update is to make sure your graphics drivers are up to date. Your graphics card is what makes web pages render quickly and animations run smoothly, so when the driver is outdated or corrupted, Chrome has to work much harder.
 
@@ -34,7 +34,7 @@ If you are not sure what graphics card you have, you can find out through Window
 
 After you install the new driver, restart your computer and try Chrome again. This single step fixes the problem for a lot of people.
 
-## Check Your Power Settings
+Check Your Power Settings
 
 Windows updates have a habit of changing your power plan, and this can have a big impact on browser performance. When your computer is set to save power, it intentionally runs your processor more slowly, which affects everything including Chrome.
 
@@ -42,7 +42,7 @@ To check your power settings, click on the battery icon in the bottom right corn
 
 This change alone can make a noticeable difference in how fast Chrome feels, especially if you have a laptop. You might also want to make sure your laptop is plugged in when you are using Chrome for the best performance.
 
-## Clear Chrome Cache and Data
+Clear Chrome Cache and Data
 
 Sometimes the Windows update leaves behind corrupted data in Chrome that causes slow performance. Clearing your cache and browser data is a quick fix that works for many people.
 
@@ -50,7 +50,7 @@ In Chrome, click on the three dots in the top right corner, then go to Settings.
 
 This will sign you out of websites and remove saved preferences, but it often fixes performance issues. After clearing the data, restart Chrome and see if it feels faster.
 
-## Disable Hardware Acceleration
+Disable Hardware Acceleration
 
 Chrome has a built-in feature called hardware acceleration that uses your graphics card to help with rendering. Sometimes this feature conflicts with updated graphics drivers or Windows settings, causing Chrome to run slow instead of fast.
 
@@ -58,7 +58,7 @@ To disable hardware acceleration, go to Chrome settings and search for Hardware.
 
 If disabling hardware acceleration fixes the slowness, you can leave it off permanently. If it does not help, you can always turn it back on.
 
-## Check for Conflicting Extensions
+Check for Conflicting Extensions
 
 Extensions are wonderful tools that add functionality to Chrome, but they can also be the source of performance problems, especially after a system update. Some extensions might not be compatible with the changes Windows made and can cause Chrome to slow down.
 
@@ -66,13 +66,13 @@ Try opening Chrome in incognito mode, which disables all extensions by default. 
 
 To find which extension is causing the problem, go back to regular Chrome, click on the three dots, then More tools, then Extensions. Turn off all extensions one at a time, testing Chrome after each one, until you find which extension is causing the slowdown. You can then remove that extension or leave it disabled.
 
-A helpful tip here is to consider using **Tab Suspender Pro**, which automatically "hibernates" tabs you are not using. When a **Windows Update** causes system-wide lag, reducing Chrome's **RAM** footprint becomes even more critical. 
+A helpful tip here is to consider using Tab Suspender Pro, which automatically "hibernates" tabs you are not using. When a Windows Update causes system-wide lag, reducing Chrome's RAM footprint becomes even more critical. 
 
-By using **Tab Suspender Pro**, you ensure that background tabs aren't competing for **CPU** cycles with the operating system's background update processes. It’s an essential tool for keeping Chrome snappy on **Windows 10** and **Windows 11**, especially immediately following a major system patch.
+By using Tab Suspender Pro, you ensure that background tabs aren't competing for CPU cycles with the operating system's background update processes. It’s an essential tool for keeping Chrome snappy on Windows 10 and Windows 11, especially immediately following a major system patch.
 
-## Related Articles
+Related Articles
 - [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
 - [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
 - [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

@@ -22,7 +22,7 @@ author: theluckystrike
 
 Dealing with Chrome opening in a small window is one of those annoying issues that can really slow down your day. You click the Chrome icon hoping to get straight to work, but instead you are stuck with a tiny browser window that you have to resize every single time. If this sounds familiar, you are not alone. Many Chrome users experience this problem, and the good news is that it is usually easy to fix.
 
-## Why Does Chrome Keep Opening in a Small Window
+Why Does Chrome Keep Opening in a Small Window
 
 There are several reasons why Chrome might open in a small window instead of filling your screen like it should. Understanding what causes the problem is the first step toward fixing it.
 
@@ -34,7 +34,7 @@ Your computer might also be the issue. If your display settings changed, or if y
 
 Sometimes the problem is with Chrome itself. Corrupted browser data or settings that got messed up can cause all kinds of unexpected behavior, including opening in a small window. This is less common, but it does happen.
 
-## Simple Fixes to Try First
+Simple Fixes to Try First
 
 Before you try anything complicated, start with these simple solutions. They often fix the problem without requiring any deeper troubleshooting.
 
@@ -44,7 +44,7 @@ If dragging the window does not work, try closing all Chrome windows completely 
 
 Another quick fix is to try pressing F11 on your keyboard while Chrome is open. This toggles fullscreen mode. Sometimes Chrome gets stuck in a weird state that affects how it opens later, and pressing F11 can reset everything back to normal.
 
-## Reset Chrome Window Settings
+Reset Chrome Window Settings
 
 If the simple fixes did not work, you can try resetting Chrome's window settings. This will not delete your bookmarks or saved passwords, but it will reset the window size and position to the default.
 
@@ -52,7 +52,7 @@ To do this, open Chrome and click the three dots in the top right corner of the 
 
 After resetting, close Chrome and reopen it. The window should now open in a normal size. If it does, you have solved the problem.
 
-## Check Your Extensions
+Check Your Extensions
 
 If resetting Chrome did not help, the issue might be an extension. Extensions can modify how Chrome behaves, including how windows open and what size they are.
 
@@ -62,7 +62,7 @@ To find which extension is causing the problem, go back to normal Chrome and cli
 
 Some tab management extensions are particularly known for controlling window size. If you use an extension like Tab Suspender Pro, which helps manage open tabs to save memory, check its settings to see if it has any options related to window size. These extensions are genuinely useful for browser performance, so you might not want to remove them entirely. Instead, look for any settings that might be affecting how Chrome opens and adjust them accordingly.
 
-## Check Your Computer Display Settings
+Check Your Computer Display Settings
 
 Sometimes the problem is not with Chrome at all, but with your computer's display settings. If you recently changed your screen resolution, connected to a different monitor, or adjusted your display settings, Chrome might be responding to those changes.
 
@@ -72,7 +72,7 @@ On Mac, go to System Preferences and click on Displays. Check the resolution set
 
 If you use multiple monitors, try disconnecting the extra monitors and see if Chrome opens normally. Sometimes Chrome remembers settings from a specific monitor setup that no longer exists, and removing that setup can fix the problem.
 
-## Reinstall Chrome as a Last Resort
+Reinstall Chrome as a Last Resort
 
 If nothing else has worked, you can try reinstalling Chrome. This might sound drastic, but it can fix problems that are otherwise hard to solve.
 
@@ -80,21 +80,21 @@ To reinstall Chrome, first make sure you know your Google account password becau
 
 After uninstalling, download Chrome fresh from the official website and install it again. Your bookmarks and passwords should sync back to your account when you sign in, so you will not lose anything important.
 
-## Keeping Chrome Running Smoothly
+Keeping Chrome Running Smoothly
 
 Once you have fixed the small window problem, there are a few things you can do to keep Chrome running smoothly. Keep your Chrome updated to the latest version, as updates often include bug fixes and performance improvements. Be careful about which extensions you install, and only keep ones you really use. Too many extensions can slow down Chrome and cause unexpected behavior.
 
-Using a tool like **Tab Suspender Pro** can actually help Chrome run better by automatically suspending tabs you have not used in a while. This saves memory and can prevent all kinds of issues. Just make sure any extension you use is configured the way you want it to be.
+Using a tool like Tab Suspender Pro can actually help Chrome run better by automatically suspending tabs you have not used in a while. This saves memory and can prevent all kinds of issues. Just make sure any extension you use is configured the way you want it to be.
 
-## Related Articles
+Related Articles
 * [Chrome for Stock Market Tracking Extensions](/articles/chrome-for-stock-market-tracking-extensions/)
 * [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords/)
 * [Chrome for Stock Screener Web Tools](/articles/chrome-for-stock-screener-web-tools/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
-- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files)
+- [Chrome Workspaces: Link DevTools to Files for Smooth Development](/articles/chrome-workspaces-link-devtools-to-files)
 - [chrome extensions for pdf editing free](/articles/chrome-extensions-for-pdf-editing-free)
 - [How to Change Default Download Location Chrome](/articles/how-to-change-default-download-location-chrome)

@@ -14,7 +14,7 @@ author: theluckystrike
 
 If you have ever typed chrome network inspector for beginners into a search box, you probably wanted to understand how to see what is happening when a webpage loads. Maybe a website felt slow, or you noticed something weird like images not showing up, videos not playing, or pages taking forever to finish loading. The Chrome Network Inspector is exactly the tool you need for these situations, and this guide will show you how to use it without any technical background.
 
-## Why You Need the Network Inspector
+Why You Need the Network Inspector
 
 Every time you visit a website, your browser has to do a lot of work behind the scenes. It needs to request each image, each script, each stylesheet, and each piece of data from the website server. These requests travel across the internet, and each one takes time. When something goes wrong with these requests, the webpage either loads slowly, shows errors, or behaves in unexpected ways.
 
@@ -22,7 +22,7 @@ The problem most regular users face is that they cannot see these requests. They
 
 Think of it like looking under the hood of a car. You do not need to be a mechanic to notice that something sounds wrong or that the car is moving slower than expected. Similarly, you do not need to be a developer to use the Network Inspector and spot problems.
 
-## How to Open the Network Inspector
+How to Open the Network Inspector
 
 Opening the Network Inspector is simple. First, make sure you are using Google Chrome on your computer. Then, press the F12 key on your keyboard, or right-click anywhere on a webpage and select Inspect from the menu that appears.
 
@@ -30,7 +30,7 @@ A new panel will open at the bottom or side of your browser window. This is the 
 
 Once you click Network, you will see a mostly empty table. That is because Chrome only records network activity while the Network tab is open and recording. To start recording, simply reload the webpage you want to inspect. You can do this by pressing the circular arrow button in the Chrome address bar, or by pressing Ctrl+R (or Cmd+R on a Mac). As the page reloads, you will see rows of data appearing in the table.
 
-## Understanding What You Are Looking At
+Understanding What You Are Looking At
 
 The table in the Network Inspector might look overwhelming at first, but each column tells you something useful. Here are the most important ones to pay attention to.
 
@@ -48,7 +48,7 @@ The Time column is particularly useful. It shows how many milliseconds each requ
 
 The Waterfall column gives you a visual representation of when each request started and ended, relative to the others. This is helpful for seeing which requests happened in sequence versus in parallel.
 
-## Finding and Fixing Common Problems
+Finding and Fixing Common Problems
 
 Now that you know how to open the Network Inspector and read the table, let us talk about how to use it to solve real problems.
 
@@ -60,7 +60,7 @@ Sometimes websites make requests to tracking services or advertisements that slo
 
 One practical solution for managing the impact of background requests is using Tab Suspender Pro. This extension automatically pauses tabs that you have not used recently, which stops them from making network requests in the background. This can significantly speed up your browser, especially if you tend to keep many tabs open at once. It is one option among many, and it works well for users who want a simpler browsing experience without needing to dive deep into developer tools.
 
-## Tips for Getting the Most Out of the Network Inspector
+Tips for Getting the Most Out of the Network Inspector
 
 Here are a few additional tips that make the Network Inspector easier to use.
 
@@ -72,7 +72,7 @@ The Preserve log checkbox is useful when you want to navigate to a different pag
 
 You can also right-click on any column header to show or hide additional columns. Some columns, like Response Headers or Cookies, contain more detailed information that might be helpful for advanced troubleshooting.
 
-## When to Use the Network Inspector
+When to Use the Network Inspector
 
 The chrome network inspector for beginners is useful in many everyday situations. If a website keeps spinning and never finishes loading, check the Network tab to see which request is stuck. If you see a weird error message, the Network tab can tell you exactly what failed. If a page loads but looks broken or missing pieces, you can find out which files did not load successfully.
 
@@ -82,9 +82,9 @@ The Network Inspector is one of those features that seems technical at first but
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome for apple music web player tips](/articles/chrome-for-apple-music-web-player-tips/)
 * [Chrome File Handling API PWA Guide](/articles/chrome-file-handling-api-pwa-guide/)
 * [Largest Contentful Paint Chrome Fix](/articles/largest-contentful-paint-chrome-fix/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

@@ -11,7 +11,7 @@ Chrome site settings permissions explained is something many people search for w
 
 Let me walk you through what these permissions are, why websites ask for them, and most importantly, how you can manage them to stay safe and in control.
 
-## What Are Site Settings and Permissions
+What Are Site Settings and Permissions
 
 When you visit a website, Chrome allows that site to use certain features of your browser and computer. These are called permissions, and they include things like access to your location, camera, microphone, notifications, cookies, and more. Each permission serves a legitimate purpose for the website to function properly.
 
@@ -19,7 +19,7 @@ For example, a video calling website needs access to your camera and microphone 
 
 However, not all requests are necessary. Some websites ask for more permissions than they need, and others may use those permissions in ways you are not comfortable with. This is why understanding and managing these permissions is important.
 
-## Why These Permissions Matter
+Why These Permissions Matter
 
 Every permission you grant gives a website a certain level of access to your browser or computer. While most websites use these permissions honestly, there are reasons to be thoughtful about what you allow.
 
@@ -27,7 +27,7 @@ Some websites may ask for permission to send you notifications so they can push 
 
 The more permissions you grant, the more data you share. While this is not always a problem, it is worth being intentional about who you trust with access to your browser.
 
-## How to View and Manage Site Permissions
+How to View and Manage Site Permissions
 
 Managing your site permissions in Chrome is straightforward. Here is how to do it.
 
@@ -37,7 +37,7 @@ You will see a list of permission categories, including Camera, Microphone, Loca
 
 For each category, you have several options. You can allow or block permissions for specific websites. You can also set default behaviors, such as blocking all websites from accessing your camera unless you specifically allow it for a particular site.
 
-## Managing Permissions for Specific Websites
+Managing Permissions for Specific Websites
 
 If you want to control what a specific website can do, there is an easy way to do that too. Visit the website in question, then click the lock icon or the three dots in the address bar next to the website URL. This shows you a quick summary of what permissions that website currently has. Click on Permissions to see and adjust what that site can access.
 
@@ -45,7 +45,7 @@ From this menu, you can see whether the site has access to your location, camera
 
 This is useful for sites you visit regularly. Take a moment to review what permissions you have granted to your most frequently visited websites and remove any that are not necessary.
 
-## What Each Permission Means
+What Each Permission Means
 
 Let me break down the most common permissions you will encounter.
 
@@ -59,7 +59,7 @@ Cookies are small files that websites store on your computer to remember you. Mo
 
 JavaScript is what makes many websites interactive, but it can also be used to run complex code on your browser. You can block JavaScript for specific sites if you want to limit what they can do.
 
-## How to Fix Common Permission Issues
+How to Fix Common Permission Issues
 
 Sometimes you might notice that a website is not working as expected. This could be because a permission is blocked that the site needs. For example, if a video calling site is not showing your video, check if camera access is allowed.
 
@@ -67,7 +67,7 @@ If a website is not working properly, try checking its permissions. Click the lo
 
 Another common issue is receiving too many notifications. If a site keeps sending you notifications you do not want, go to Site Settings, find Notifications, and either block notifications for that specific site or adjust your global setting to ask before allowing notifications.
 
-## Tips for Staying in Control
+Tips for Staying in Control
 
 A good habit is to periodically review your site permissions. Go through the Site Settings page every few months and remove permissions for sites you no longer visit.
 
@@ -75,11 +75,11 @@ When a website asks for a permission, think about whether it really needs that a
 
 Use the global default settings to your advantage. For permissions like camera, microphone, and location, consider setting Chrome to ask you each time rather than automatically allowing sites to access these features. This gives you control over every request.
 
-Extensions can also help you manage your browsing experience. For instance, **Tab Suspender Pro** is an extension that helps reduce browser **RAM usage** by automatically "hibernating" tabs you have not used in a while. While it does not directly manage **site permissions**, it ensures that **background processes** from your open tabs aren't competing for **system resources**. This keeps your browser snappy, so when you need to jump into your **Privacy and security** menu to audit your **camera** or **location** settings, the browser is responsive and doesn't lag.
+Extensions can also help you manage your browsing experience. For instance, Tab Suspender Pro is an extension that helps reduce browser RAM usage by automatically "hibernating" tabs you have not used in a while. While it does not directly manage site permissions, it ensures that background processes from your open tabs aren't competing for system resources. This keeps your browser snappy, so when you need to jump into your Privacy and security menu to audit your camera or location settings, the browser is responsive and doesn't lag.
 
-## Related Articles
+Related Articles
 - [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
 - [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
 - [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

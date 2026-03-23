@@ -12,13 +12,13 @@ Chrome for keyboard shortcut customization is a powerful feature that lets you t
 
 Let me walk you through the different methods you can use to customize keyboard shortcuts in Chrome, from built-in options to helpful extensions.
 
-## Understanding Chrome Default Shortcuts
+Understanding Chrome Default Shortcuts
 
 Before diving into customization, it helps to know what shortcuts Chrome already provides. Chrome includes shortcuts for nearly every common action, from opening new tabs and windows to navigating history and managing bookmarks. These defaults work well for many users, but they are not one-size-fits-all solutions.
 
 Some shortcuts might conflict with shortcuts in other software you use. Others might feel awkward depending on your keyboard layout or personal preference. Some users prefer using the function keys for browser actions, while others find that awkward and want alternatives. This is where customization becomes valuable.
 
-## Using Chrome Extensions for Advanced Shortcut Management
+Using Chrome Extensions for Advanced Shortcut Management
 
 The most flexible way to customize keyboard shortcuts in Chrome is through extensions. While Chrome itself does not have a built-in settings page for remapping all shortcuts, several extensions fill this gap nicely.
 
@@ -26,7 +26,7 @@ One popular approach involves using extension management tools that let you assi
 
 When choosing an extension for shortcut customization, look for ones that let you define global shortcuts that work even when Chrome is not in focus. This is particularly useful if you frequently switch between applications and want your browser shortcuts to remain accessible.
 
-## Creating Custom Shortcuts with Bookmarklets
+Creating Custom Shortcuts with Bookmarklets
 
 Bookmarklets offer another way to add custom functionality to Chrome, and you can assign keyboard shortcuts to trigger them. A bookmarklet is a small JavaScript program stored as a browser bookmark. When you click the bookmark, it runs the script on the current page.
 
@@ -34,7 +34,7 @@ To use bookmarklets with keyboard shortcuts, you would typically combine them wi
 
 For example, you might create a bookmarklet that clears all form fields on a page, and then assign a keyboard shortcut to trigger it. This saves you from manually clearing each field when you need to test a form repeatedly.
 
-## Adjusting Chrome Settings for Better Shortcut Experience
+Adjusting Chrome Settings for Better Shortcut Experience
 
 Chrome itself offers some settings that affect how shortcuts work, even if they are not labeled as shortcut customization features. Understanding these settings helps you get more out of whatever custom shortcuts you create.
 
@@ -42,7 +42,7 @@ The chrome://settings page includes options related to keyboard navigation and f
 
 In Chrome flags, you might find experimental features related to keyboard navigation and shortcut handling. These change frequently as Chrome updates, so it is worth checking occasionally if you are interested in the latest keyboard-related features.
 
-## Practical Customization Ideas
+Practical Customization Ideas
 
 Now that you know the methods available, let me share some practical ideas for customizing your shortcuts that many users find helpful.
 
@@ -52,7 +52,7 @@ Another popular customization involves creating shortcuts for tab grouping. Chro
 
 Some users create shortcuts for frequently visited websites by assigning keyboard combinations to open specific bookmarks. This turns Chrome into a quick-launch tool similar to application launchers, but with all your browser-based resources easily accessible.
 
-## Managing Extension-Defined Shortcuts
+Managing Extension-Defined Shortcuts
 
 Many Chrome extensions come with their own keyboard shortcuts, and managing these can sometimes feel overwhelming. Extensions often define shortcuts that might conflict with each other or with Chrome's built-in shortcuts.
 
@@ -60,7 +60,7 @@ To view and manage extension shortcuts, go to chrome://extensions/shortcuts. Thi
 
 If you find that multiple extensions are fighting for the same keyboard combination, you can change one of them to something different. This is especially important for commonly used combinations like Ctrl+Shift+Letter shortcuts, which are popular among extension developers.
 
-## A Helpful Extension to Consider
+A Helpful Extension to Consider
 
 As you start exploring keyboard shortcut customization in Chrome, you might also want to consider how to keep your browser running smoothly when using many extensions or having many tabs open. Custom shortcuts can encourage more efficient browsing, but they can also lead to opening more tabs and using more extensions, which may impact performance.
 
@@ -68,7 +68,7 @@ Tab Suspender Pro is an extension that automatically suspends tabs you have not 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for Spotify Web Player Shortcuts](/articles/chrome-for-spotify-web-player-shortcuts/)
 * [Chrome Rendering Panel Guide](/articles/chrome-rendering-panel-guide/)
 * [chrome next dns setup for ad blocking](/articles/chrome-next-dns-setup-for-ad-blocking/)

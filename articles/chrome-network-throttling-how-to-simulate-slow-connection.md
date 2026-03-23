@@ -14,7 +14,7 @@ author: theluckystrike
 
 If you need to test how your website performs on slow network conditions, Chrome offers built-in tools that make simulation easy. Whether you are a web developer ensuring your site works for everyone, or you want to understand how your website behaves on slower connections, Chrome has you covered.
 
-## Why Simulate Slow Connections
+Why Simulate Slow Connections
 
 Testing your website on slow connections is essential for several reasons. First, not everyone has access to high-speed internet. Many users browse on mobile networks, and even in developed areas, cellular connections can be unreliable. If your site only works well on fast WiFi, you are excluding a significant portion of potential users.
 
@@ -22,7 +22,7 @@ For web developers, simulating slow connections helps identify performance bottl
 
 Additionally, understanding how your site performs under adverse conditions helps with search engine optimization. Google and other search engines prioritize sites that load quickly, especially on mobile devices. Sites that fail on slow connections may rank lower in search results.
 
-## Using Chrome Developer Tools
+Using Chrome Developer Tools
 
 The primary method for simulating slow connections in Chrome is through Developer Tools. This built-in feature provides network throttling without needing any extensions or external tools.
 
@@ -32,19 +32,19 @@ In the Network tab, look for the dropdown menu that says "No throttling" by defa
 
 Chrome provides several preset options that simulate different network conditions. These presets represent common real-world scenarios that your users might experience. Once you select a preset, all network requests on that page will be subject to the simulated delay.
 
-## Available Network Throttling Presets
+Available Network Throttling Presets
 
 Chrome offers four main presets for network throttling, each simulating a different type of connection.
 
-**Fast 4G** simulates a good quality 4G mobile connection, similar to what you might experience in a city with strong cell service. This connection is fast enough for most web browsing but noticeably slower than typical home WiFi.
+Fast 4G simulates a good quality 4G mobile connection, similar to what you might experience in a city with strong cell service. This connection is fast enough for most web browsing but noticeably slower than typical home WiFi.
 
-**Slow 4G** represents the average mobile 4G connection that most users experience. This is the most common network condition for mobile users, and testing with this preset ensures your site works well for the majority of mobile visitors.
+Slow 4G represents the average mobile 4G connection that most users experience. This is the most common network condition for mobile users, and testing with this preset ensures your site works well for the majority of mobile visitors.
 
-**Fast 3G** simulates a 3G connection with decent speed. At this level, users will notice longer load times, especially for image-heavy websites. This preset is useful for testing how your site performs on older mobile networks.
+Fast 3G simulates a 3G connection with decent speed. At this level, users will notice longer load times, especially for image-heavy websites. This preset is useful for testing how your site performs on older mobile networks.
 
-**Slow 3G** represents a very basic connection where only essential content loads quickly. Images may take several seconds to appear, and complex pages might become difficult to use. This is the most challenging condition to design for, but ensuring your site works at this level makes it accessible to everyone.
+Slow 3G represents a very basic connection where only essential content loads quickly. Images may take several seconds to appear, and complex pages might become difficult to use. This is the most challenging condition to design for, but ensuring your site works at this level makes it accessible to everyone.
 
-## Adding Custom Throttling Profiles
+Adding Custom Throttling Profiles
 
 If the built-in presets do not meet your needs, Chrome allows you to create custom throttling profiles with specific download and upload speeds and latency values.
 
@@ -52,13 +52,13 @@ To add a custom profile, click on the "Add" option in the throttling dropdown me
 
 Custom profiles are useful when you need to test specific conditions, such as a particular network you want to emulate or extreme slow connection scenarios. You can save multiple custom profiles for different testing scenarios.
 
-## Testing Across All Pages
+Testing Across All Pages
 
 When you enable throttling in Developer Tools, it only affects the current tab. This means you can test specific pages without affecting your entire browsing experience. Remember to keep Developer Tools open while testing, as closing it will disable the throttling.
 
 For comprehensive testing, navigate through your entire website while throttling is enabled. Pay attention to how long it takes for pages to become interactive, how images load, and whether any functionality breaks on slow connections.
 
-## Tips for Optimizing for Slow Connections
+Tips for Optimizing for Slow Connections
 
 When testing reveals performance issues, consider several optimization strategies. Start by implementing lazy loading for images and videos, so they only load when needed. Compress your images to reduce their file size without sacrificing quality.
 
@@ -66,9 +66,9 @@ Minimize the number of network requests by combining files where possible. Use C
 
 Finally, prioritize critical rendering path. Ensure that the content above the fold loads first, giving users something to see while the rest of the page loads. This approach improves perceived performance even on slow connections.
 
-## Related Articles
+Related Articles
 * [Chrome Reading List How to Use](/articles/chrome-reading-list-how-to-use/)
 * [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/articles/google-docs-slow-in-chrome-fix/)
 * [Chrome Follow Button for Websites How to Use](/articles/chrome-follow-button-for-websites-how-to-use/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

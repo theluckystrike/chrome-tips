@@ -24,13 +24,13 @@ When you're developing web applications or testing websites locally, you may enc
 
 This guide walks you through the process of disabling web security in Chrome specifically for testing, explaining when it's appropriate, how to do it safely, and what alternatives exist for different testing needs.
 
-## Why Disable Web Security in Chrome?
+Why Disable Web Security in Chrome?
 
 Chrome enforces the same-origin policy, which prevents scripts from accessing content on different domains. This is a fundamental security measure that protects users from cross-site scripting (XSS) attacks and data theft. However, when you're testing locally or developing applications that make cross-origin requests, these protections can get in the way.
 
 Common scenarios where you might need to disable web security include testing APIs on localhost, working with iframe content from different origins, debugging third-party integrations, and testing CORS configurations. In these cases, temporarily disabling web security allows you to work more efficiently without setting up complex proxy configurations or dealing with cross-origin restrictions.
 
-## Using Chrome Flags to Disable Web Security
+Using Chrome Flags to Disable Web Security
 
 Chrome provides built-in flags that allow you to modify browser behavior for testing purposes. To access these flags, type `chrome://flags` in your address bar and press Enter. You'll see a search field where you can look for specific options.
 
@@ -40,7 +40,7 @@ To enable the flag, click the dropdown next to it and select "Enabled." You'll s
 
 After relaunching, Chrome will operate with reduced security protections. You can verify that the flag is active by checking if your cross-origin requests now work as expected.
 
-## Using Command Line Flags
+Using Command Line Flags
 
 Alternatively, you can launch Chrome with command line arguments that disable web security. This method is useful when you want to run a separate instance of Chrome with different settings than your regular browsing profile.
 
@@ -58,7 +58,7 @@ On Windows, open Command Prompt and type:
 
 The `--disable-web-security` flag disables the same-origin policy, allowing cross-origin requests. The `--user-data-dir` flag creates a temporary profile so your regular browsing data remains unaffected. This is important because running with disabled security on your main profile could expose your regular browsing to risks.
 
-## Important Safety Considerations
+Important Safety Considerations
 
 Disabling web security should only be done in controlled testing environments. Never browse the internet with web security disabled, as this makes your browser vulnerable to malicious websites. The protections that Chrome provides are there for your safety, and disabling them exposes you to potential attacks.
 
@@ -66,7 +66,7 @@ Always use a separate profile or instance when testing with disabled security. T
 
 Remember to re-enable security features after completing your testing. You can do this by returning to `chrome://flags` and setting the flags back to "Disabled," or by simply closing the testing instance and opening a new one with normal settings.
 
-## Alternatives to Disabling Web Security
+Alternatives to Disabling Web Security
 
 For many testing scenarios, you don't need to disable all web security. There are alternatives that provide more granular control and keep most protections intact.
 
@@ -76,28 +76,28 @@ Another option is to configure your local development server to send the appropr
 
 For iframe testing, Chrome's developer tools include options to bypass iframe restrictions. You can access these through the Settings panel in DevTools, under the "Console" section.
 
-## Managing Tabs While Testing
+Managing Tabs While Testing
 
-When running Chrome with disabled security for extended testing sessions, your system resources may be taxed by multiple open tabs. If you're working with numerous test pages, consider using tab management extensions to keep things organized. **Tab Suspender Pro** is a popular choice among developers who need to manage many tabs efficiently. It automatically suspends inactive tabs to free up memory while keeping your workflow organized.
+When running Chrome with disabled security for extended testing sessions, your system resources may be taxed by multiple open tabs. If you're working with numerous test pages, consider using tab management extensions to keep things organized. Tab Suspender Pro is a popular choice among developers who need to manage many tabs efficiently. It automatically suspends inactive tabs to free up memory while keeping your workflow organized.
 
 This becomes particularly useful when testing multiple applications or running several browser instances simultaneously. Tab suspension helps maintain performance without sacrificing your ability to keep all necessary test pages accessible.
 
-## Summary
+Summary
 
 Disabling Chrome's web security is a straightforward process when you need to test local applications or debug cross-origin issues. Whether you use Chrome flags or command line arguments, the key is to do so in a separate testing environment and re-enable security when finished. Always prioritize safety by using dedicated test profiles and considering alternative approaches when possible.
 
 For most development workflows, the temporary disabling of web security provides the flexibility needed to test effectively while maintaining security for your regular browsing activities.
 
-## Related Articles
+Related Articles
 - [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to/)
 - [chrome web otp autofill sms](/chrome-web-otp-autofill-sms/)
 - [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Extensions for API Testing Simple](/articles/chrome-extensions-for-api-testing-simple/)
 * [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web/)
 * [Chrome Extension Side Panel Tutorial](/articles/chrome-extension-side-panel-tutorial/)

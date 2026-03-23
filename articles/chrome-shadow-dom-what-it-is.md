@@ -9,11 +9,11 @@ date: '2026-03-10'
 last_modified_at: '2026-03-12'
 ---
 
-Have you ever wondered how Chrome keeps certain parts of a webpage hidden and protected from the rest of the page? Maybe you tried to change the color of a button using a userstyle or extension, and nothing happened. The reason behind this is something called Shadow DOM, and understanding it can help you make sense of how modern web pages work.
+ how Chrome keeps certain parts of a webpage hidden and protected from the rest of the page? Maybe you tried to change the color of a button using a userstyle or extension, and nothing happened. The reason behind this is something called Shadow DOM, and understanding it can help you make sense of how modern web pages work.
 
 Shadow DOM is a technology that allows web developers to create encapsulated sections of a webpage. Think of it like having hidden rooms inside a house. The main structure of the house is visible to everyone, but some rooms are sealed off and their internal decorations do not affect the rest of the house. In web terms, Shadow DOM lets developers create components that keep their styles and scripts private, so they do not accidentally mess up the rest of the page.
 
-To understand this better, imagine you are building with LEGO bricks. When you create a small组装 of bricks that forms a particular shape, you want that shape to stay together and not break apart when you add more pieces around it. Shadow DOM works in a similar way for web development. It creates a boundary that keeps a piece of the page self-contained.
+To understand this better, imagine you are building with LEGO bricks. When you create a small of bricks that forms a particular shape, you want that shape to stay together and not break apart when you add more pieces around it. Shadow DOM works in a similar way for web development. It creates a boundary that keeps a piece of the page self-contained.
 
 When Chrome renders a webpage that uses Shadow DOM, it creates something called a shadow tree inside certain elements. This shadow tree contains all the HTML and CSS that belongs to that specific component. The rest of the page cannot see inside this shadow tree, and the styles inside the shadow tree cannot leak out to affect other parts of the page.
 
@@ -37,7 +37,7 @@ In conclusion, Shadow DOM is a powerful web technology that creates protected bo
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for Amazon Fresh Web Ordering](/articles/chrome-for-amazon-fresh-web-ordering/)
 * [Chrome Extension for Email Tracking Notification](/articles/chrome-extension-for-email-tracking-notification/)
 * [Chrome CDP Protocol Explained Simply](/articles/chrome-cdp-protocol-explained-simply/)

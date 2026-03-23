@@ -22,7 +22,7 @@ permalink: chrome-for-news-reading-best-setup
 
 If you spend time reading news online every day, setting up Chrome the right way makes a huge difference. A good chrome for news reading setup keeps your browser fast, cuts out distractions, and lets you focus on what matters. Here is how to get Chrome working perfectly for your daily news habit.
 
-## Start with Clean Browser Settings
+Start with Clean Browser Settings
 
 Before adding any extensions, take a few minutes to adjust Chrome is basic settings. Open Chrome and click the three dots in the top right corner, then select Settings.
 
@@ -32,7 +32,7 @@ Next, find the Privacy and Security section and make sure Safe Browsing is turne
 
 Under the Performance section, enable Memory Saver if it is available on your version of Chrome. This feature automatically pauses tabs you have not used recently, which keeps your browser running smoothly even when you have many articles open.
 
-## Use Reading List to Save Articles
+Use Reading List to Save Articles
 
 Chrome has a built-in Reading List feature that does not get enough attention. When you find an article you want to read later, right-click the tab and select Add to Reading List, or use the keyboard shortcut Ctrl + Shift + D on Windows or Cmd + Shift + D on Mac.
 
@@ -40,7 +40,7 @@ Your Reading List syncs across all your devices through your Google account, so 
 
 To access your Reading List, click the Bookmarks icon in the Chrome toolbar and switch to the Reading List tab. You can even set it as your homepage if you want to start each browsing session by catching up on saved articles.
 
-## Block Annoying Elements on News Sites
+Block Annoying Elements on News Sites
 
 News websites are often cluttered with pop-ups, newsletter signup boxes, notification requests, and annoying ads that interrupt your reading. You do not need to put up with these distractions.
 
@@ -48,7 +48,7 @@ Install an ad blocker like uBlock Origin to remove most advertisements from news
 
 For cookie consent popups that seem to appear on every news site, look for an extension that automatically handles these dialogs. These extensions click the reject button for you so you can read without interruption.
 
-## Manage Your Tabs Effectively
+Manage Your Tabs Effectively
 
 One of the biggest challenges with reading news online is ending up with too many open tabs. Chrome is powerful enough to handle many tabs, but it becomes harder to find what you need.
 
@@ -58,7 +58,7 @@ Pin your most important news sources as pinned tabs. Pinned tabs stay at the lef
 
 Consider using an extension like Tab Suspender Pro to automatically put tabs to sleep after you have not looked at them for a while. This frees up memory for the articles you are actively reading and keeps Chrome responsive throughout your browsing session. Tab Suspender Pro is one solution that handles this automatically, keeping your browser fast even when you accumulate many open news articles.
 
-## Use Reader View for Distraction-Free Reading
+Use Reader View for Distraction-Free Reading
 
 Many news sites load slowly because of heavy graphics, videos, and tracking scripts. Chrome can strip all of that away with Reader View.
 
@@ -66,7 +66,7 @@ To use Reader View, look for the icon that looks like a document in Chrome's add
 
 Reader View shows you just the article text in a clean, customizable format. You can adjust the font size, choose between light and dark backgrounds, and read without anything else competing for your attention.
 
-## Set Up Separate Profiles for Different News Sources
+Set Up Separate Profiles for Different News Sources
 
 If you follow news from very different sources, consider creating separate Chrome profiles. For example, you might have one profile for work-related news and another for personal interests.
 
@@ -74,7 +74,7 @@ Click the profile icon in the top right of Chrome and select Add Profile. Give e
 
 This also helps if you need to log into different accounts for different news subscriptions. Each profile maintains its own login state, so you do not have to keep logging in and out.
 
-## Enable Dark Mode for Evening Reading
+Enable Dark Mode for Evening Reading
 
 Reading news at night in a dark room with a bright white screen strains your eyes. Most news sites now offer dark mode, but enabling Chrome is built-in dark theme ensures a consistent experience across all sites.
 
@@ -82,7 +82,7 @@ Go to Settings, then Appearance, and select Dark in the Theme section. Chrome is
 
 You can also use extensions that force dark mode on websites that do not offer it natively. This creates a more comfortable reading experience when catching up on news in the evening.
 
-## Customize Your New Tab Page
+Customize Your New Tab Page
 
 When you open a new tab, you see Chrome is default page with search bar and shortcuts. You can customize this to show your most visited news sites instead.
 
@@ -90,7 +90,7 @@ Click the Edit button on the new tab page to change your shortcuts. Remove the d
 
 Some people prefer setting a specific news site as their homepage instead. In Settings, find the section labeled On Startup and choose Open a specific page or set of pages. Enter the URL of your preferred news homepage.
 
-## Keep Your Browser Updated
+Keep Your Browser Updated
 
 Chrome updates automatically, but it helps to check that you are running the latest version. Click the three dots, go to Help, and select About Google Chrome. If an update is available, it downloads and installs automatically.
 
@@ -100,7 +100,7 @@ Newer versions of Chrome include performance improvements and security fixes tha
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome GPU Acceleration Gaming Settings](/articles/chrome-gpu-acceleration-gaming-settings/)
 * [Chrome Mobile Tips Save Data Usage](/articles/chrome-mobile-tips-save-data-usage/)
 * [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web/)

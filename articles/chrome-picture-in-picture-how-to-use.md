@@ -23,13 +23,13 @@ author: theluckystrike
 
 If you have ever wanted to watch a video while working on something else in Chrome, Picture in Picture (PiP) is exactly what you need. This feature lets you pull any video out of its webpage and into a small floating window that stays on top of everything else on your screen. You can then browse, type, or work in other tabs while the video continues playing in the corner of your display.
 
-## What Is Picture in Picture
+What Is Picture in Picture
 
 Picture in Picture is a Chrome feature that creates a floating video window. The video plays on top of your other windows and tabs, so you are not stuck watching it in one place. The small window can be moved anywhere on your screen and resized as needed. It stays visible even when you switch to a different application entirely, like checking email or writing a document.
 
 This is especially useful when you need to watch something while doing other work. Instead of keeping a tab open and constantly switching back to it, you can keep the video in a tiny window and focus on what you are doing.
 
-## How to Activate Picture in Picture
+How to Activate Picture in Picture
 
 The easiest way to use Picture in Picture is through the video itself. Here is how it works.
 
@@ -41,7 +41,7 @@ If you do not see the button in the video player, there is another way. Right-cl
 
 Once activated, the video will pop out of the webpage and appear as a small floating window on your screen. You can drag this window to any corner or position you like.
 
-## How to Get Back to the Regular View
+How to Get Back to the Regular View
 
 When you are done with Picture in Picture and want to return the video to its original webpage, you have a few options.
 
@@ -49,7 +49,7 @@ Click the Picture in Picture button again inside the floating window. This will 
 
 Alternatively, you can simply close the floating window by clicking the X button in its corner. The video will stop playing and return to its place on the webpage.
 
-## Common Uses for Picture in Picture
+Common Uses for Picture in Picture
 
 Picture in Picture is popular for several different scenarios.
 
@@ -61,7 +61,7 @@ Listening to music videos or concert footage while browsing is also common. The 
 
 Following along with exercise or workout videos works well too. Position the video near your workout space and follow along without needing to constantly look back at your computer.
 
-## Troubleshooting Picture in Picture
+Troubleshooting Picture in Picture
 
 Sometimes Picture in Picture does not work as expected. Here are some common issues and what you can do about them.
 
@@ -71,13 +71,13 @@ The video keeps pausing when you switch tabs. This can happen on some websites t
 
 The floating window disappears. If you accidentally close the floating window, the easiest fix is to go back to the original video and activate Picture in Picture again.
 
-## Managing Multiple Picture in Picture Windows
+Managing Multiple Picture in Picture Windows
 
 You can actually have multiple Picture in Picture windows open at the same time, though this can get cluttered quickly. Each video you pull out creates its own floating window, and they can all play simultaneously.
 
 If you find yourself frequently using Picture in Picture with multiple videos, consider using an extension designed to help manage this. Tab Suspender Pro is one option that can help keep your tabs organized and prevent memory issues when you have many videos open. It works alongside Picture in Picture by managing your open tabs more efficiently, so your browser stays responsive even with multiple videos playing.
 
-## Tips for Using Picture in Picture Effectively
+Tips for Using Picture in Picture Effectively
 
 Adjust the window size by dragging the corners of the floating window. Make it larger when you need to see details, or smaller when you just want to keep it as a background presence.
 
@@ -87,7 +87,7 @@ Remember that the audio will continue playing even if you cover the window with 
 
 If you are using multiple monitors, the Picture in Picture window stays visible on the monitor where you positioned it, regardless of which monitor you are working on.
 
-## When Picture in Picture Is Not Available
+When Picture in Picture Is Not Available
 
 There are some situations where Picture in Picture will not work.
 
@@ -99,20 +99,20 @@ Live streams from certain platforms may not support Picture in Picture due to te
 
 In these cases, there is not much you can do besides watching the video in a regular tab or using a different approach to keep it visible.
 
-## Give It a Try
+Give It a Try
 
 Picture in Picture is one of those Chrome features that becomes indispensable once you start using it. The next time you need to watch something while working, try pulling it out into its own window. It takes just a second to activate and can make a big difference in how smoothly your workflow goes.
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Extensions for Organizing Research](/articles/chrome-extensions-for-organizing-research/)
 * [How to Close All Chrome Tabs at Once](/articles/how-to-close-all-chrome-tabs-at-once/)
 * [Chrome Extensions for Weather Forecast New Tab](/articles/chrome-extensions-for-weather-forecast-new-tab/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking/)
 - [Chrome Taskbar Icon Missing Fix Windows](/articles/chrome-taskbar-icon-missing-fix-windows)

@@ -12,7 +12,7 @@ author: theluckystrike
 
 Chrome font size how to change permanently is something many people search for when they get tired of constantly adjusting text size every time they open a new tab. If you have ever found yourself squinting at tiny text or manually zooming in on websites every single day, you are not alone. The good news is that there are several ways to make Chrome remember your font size preferences so you only have to set it once. Let me walk you through the best options.
 
-## Why Chrome Font Size Keeps Resetting
+Why Chrome Font Size Keeps Resetting
 
 Before we get into the solutions, it helps to understand why this happens in the first place. Chrome gives you control over zoom levels, but it does not automatically apply the same font size settings to every website you visit. Each website has its own design, and many websites control their own text size through code called CSS. This means a page might display perfectly readable text in one tab and uncomfortably small text in another.
 
@@ -20,7 +20,7 @@ Chrome does remember your zoom preference for each individual website over time.
 
 Another factor is that Chrome respects website settings by default. This is intentional because web designers spend time choosing font sizes that fit their designs. While this makes sense from a design perspective, it can be frustrating when your personal preferences keep getting overridden.
 
-## Using Chrome Settings to Set a Default Font Size
+Using Chrome Settings to Set a Default Font Size
 
 Chrome has built-in settings that can help you change font size, though some options work better than others for permanent changes.
 
@@ -30,7 +30,7 @@ To access more detailed font settings, go to Settings, then Appearance, and look
 
 For a more targeted approach, you can set zoom levels for specific websites manually. Visit a site, zoom to your preferred level, and Chrome will remember this preference for that site alone. Over time, Chrome builds a list of site-specific zoom levels. You can view and manage these by clicking the lock or site information icon in the address bar and selecting Site settings, or by going to Settings and looking for the zoom section that shows all your saved per-site preferences.
 
-## Using Extensions for Permanent Font Control
+Using Extensions for Permanent Font Control
 
 If the built-in settings are not giving you the results you want, browser extensions offer more powerful solutions for changing font size permanently across the web.
 
@@ -40,7 +40,7 @@ Another approach is to use an extension that applies custom CSS to websites. Thi
 
 Extensions like Tab Suspender Pro can also help with overall browsing efficiency and may include features that affect how content is displayed. While the primary purpose of Tab Suspender Pro is to manage open tabs and reduce memory usage, many users find that the consistent browsing experience it provides, along with other extensions in the Zovo extension suite, creates a more comfortable environment for reading and working online.
 
-## Adjusting System-Level Settings for Bigger Text
+Adjusting System-Level Settings for Bigger Text
 
 If you want text to appear larger not just in Chrome but across your entire computer, you can adjust your system display settings. This is especially helpful if you find text small in multiple applications, not just your browser.
 
@@ -50,7 +50,7 @@ On Mac, open System Settings and go to Display. You can adjust the resolution or
 
 These system-level changes affect Chrome as well as all your other applications, so you get consistent text size across your entire computing experience. This can be especially useful if you switch between many different programs throughout the day.
 
-## Making Websites More Readable Without Changing Font Size
+Making Websites More Readable Without Changing Font Size
 
 Sometimes increasing font size is not the only answer to uncomfortable reading. There are other ways to make web content easier to read that work alongside or instead of changing font size.
 
@@ -60,7 +60,7 @@ Another option is to use Chrome's reader mode on supported pages. When available
 
 Dark mode extensions are another popular choice. Many users find that reducing screen brightness through dark themes is easier on the eyes, particularly when reading for extended periods. Some extensions let you customize colors, contrast, and font styles beyond just size.
 
-## Finding Your Permanent Solution
+Finding Your Permanent Solution
 
 The best approach usually combines a few of these methods. Start with Chrome's default zoom setting to establish a baseline you are comfortable with. Let Chrome build its list of per-site zoom preferences over time. If you need more control, try a font size extension from the Chrome Web Store. And if text is small in other applications too, adjust your system display settings.
 
@@ -68,9 +68,9 @@ Once you find the combination that works for you, the days of manually zooming i
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Extension for QR Code Generator](/articles/chrome-extension-for-qr-code-generator/)
 * [Chrome Extensions For Email Tracking](/articles/chrome-extensions-for-email-tracking/)
 * [Chrome Extensions for Password Sharing Securely](/articles/chrome-extensions-for-password-sharing-securely/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

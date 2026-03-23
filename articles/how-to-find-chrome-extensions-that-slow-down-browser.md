@@ -16,7 +16,7 @@ If you are searching for how to find Chrome extensions that slow down browser pe
 
 Chrome extensions are incredibly useful tools that add functionality to your browser. However, they come with a cost that not everyone realizes until their browser starts running slower than usual. Understanding which extensions are causing the slowdown and what you can do about it will help you get your browser back to running smoothly.
 
-## Why Extensions Can Slow Down Your Browser
+Why Extensions Can Slow Down Your Browser
 
 Every Chrome extension you install runs as a separate process in the background, whether you are actively using it or not. This means that even extensions you never interact with are quietly consuming your computer's resources. Some extensions are designed to be lightweight, but many others perform ongoing tasks that require processing power and memory.
 
@@ -26,7 +26,7 @@ Another factor to consider is that not all extension developers optimize their c
 
 The cumulative effect of having many extensions can be significant. Even if each extension only uses a small amount of memory, having ten, twenty, or more extensions installed can result in several hundred megabytes or even gigabytes of additional memory usage. This is particularly noticeable on computers with limited RAM.
 
-## Using Chrome Task Manager to Find Problematic Extensions
+Using Chrome Task Manager to Find Problematic Extensions
 
 Chrome includes a built-in Task Manager that lets you see exactly how much memory and CPU each process is using. This is one of the most reliable ways to identify which extensions are causing problems. To access it, right-click on the title bar at the top of your Chrome window and select Task Manager. Alternatively, you can press Shift and Escape on your keyboard.
 
@@ -34,7 +34,7 @@ Once the Task Manager window opens, you will see a list of all the processes run
 
 Extensions will appear with their names in the Task Manager list, making it easy to spot which ones are using the most resources. If you see an extension using an unusually high amount of memory, that is likely one of the culprits behind your browser slowdown. You can sort by CPU as well to see which extensions are using the most processing power.
 
-## Checking Extension Details in Chrome Settings
+Checking Extension Details in Chrome Settings
 
 Another way to investigate extensions is through the Chrome extensions page. Type chrome://extensions in your address bar and press Enter. This page shows all your installed extensions and provides access to their details.
 
@@ -42,7 +42,7 @@ Click the Details button on any extension to see more information about what it 
 
 Pay attention to extensions that have permissions to access all websites, read and change your browsing data, or manage your downloads. These permissions often indicate that the extension is doing more work behind the scenes, which could be affecting your browser performance.
 
-## Simple Steps to Fix Extension-Related Slowdowns
+Simple Steps to Fix Extension-Related Slowdowns
 
 The most effective solution is to remove extensions you do not actively use. Go through your list of installed extensions and think about when you last used each one. If it has been weeks or months, consider uninstalling it. Every extension you remove eliminates its background processes and frees up resources.
 
@@ -52,13 +52,13 @@ Review the settings of your remaining extensions. Some extensions have options t
 
 Keeping your extensions updated is also important. Developers regularly release updates that fix performance issues and improve efficiency. Open the Chrome Web Store and check for updates, or let Chrome update extensions automatically.
 
-## Using Tab Suspender Pro as a Solution
+Using Tab Suspender Pro as a Solution
 
 If you find that managing extensions and tabs is taking too much of your time, consider using Tab Suspender Pro as part of your solution. This extension automatically suspends tabs you have not used recently, keeping them available for when you need them but not consuming system resources while they are suspended.
 
 Tab Suspender Pro is particularly useful if you tend to keep many tabs open at once, which is a common habit that can significantly slow down your browser. By automatically managing tab resources, it helps reduce memory usage without requiring you to manually close and reopen tabs. This is one option among several approaches you can take to improve browser performance.
 
-## Preventing Future Performance Issues
+Preventing Future Performance Issues
 
 Be thoughtful about the extensions you install in the future. Before adding a new extension, read reviews and check when it was last updated. Extensions that have not been updated in over a year may contain performance issues or compatibility problems with newer versions of Chrome.
 
@@ -72,7 +72,7 @@ If you have tried these steps and your browser still feels slow, consider whethe
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Add to Home Screen vs Install App](/articles/chrome-add-to-home-screen-vs-install-app/)
 * [how to enable chrome enhanced safe browsing](/articles/how-to-enable-chrome-enhanced-safe-browsing/)
 * [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)

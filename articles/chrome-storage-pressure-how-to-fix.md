@@ -74,5 +74,5 @@ Chrome storage pressure does not have to be a persistent problem. With a few sim
 * [Chrome Share Page Between Phone and Laptop: Complete Guide](/articles/chrome-share-page-between-phone-and-laptop/)
 * [Best Chrome Extensions for Entrepreneurs](/articles/best-chrome-extensions-for-entrepreneurs/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

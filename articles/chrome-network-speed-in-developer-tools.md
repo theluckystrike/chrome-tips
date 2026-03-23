@@ -12,7 +12,7 @@ author: theluckystrike
 
 Chrome network speed in developer tools is something many people do not know exists, but it can be incredibly helpful when your browser feels slower than it should. Whether you are waiting for pages to load, dealing with videos that buffer, or just curious about what is happening behind the scenes, Chrome built-in developer tools give you a window into how your browser is handling network requests. Let me walk you through what network speed means in this context, why it matters, and how you can use this information to make your browsing experience better.
 
-## Why Network Speed Matters for Your Browser
+Why Network Speed Matters for Your Browser
 
 When you visit a website, your browser has to download all sorts of things to display the page. This includes HTML files, images, videos, scripts, fonts, and more. Each of these items is a separate network request, and the speed at which these requests complete determines how fast the page loads for you.
 
@@ -20,7 +20,7 @@ Sometimes websites feel slow not because of your internet connection itself, but
 
 Understanding this can help you diagnose whether the problem is your internet, the website itself, or something else entirely. It can also help you make informed decisions about which extensions to use or how to configure your browser for better performance.
 
-## How to Open the Network Tab in Chrome Developer Tools
+How to Open the Network Tab in Chrome Developer Tools
 
 To access the network speed information, you need to open Chrome developer tools and navigate to the Network tab. Here is how to do it.
 
@@ -32,7 +32,7 @@ Alternatively, you can use keyboard shortcuts. On Windows and Linux, pressing F1
 
 When you first open the Network tab, it might be empty or show very little data. This is because recording starts automatically when you open the tab, but you may need to refresh the page or perform an action to see the network activity. Try refreshing the page while the Network tab is open, and you will see a list of requests appear.
 
-## Understanding What You See in the Network Tab
+Understanding What You See in the Network Tab
 
 The Network tab displays a list of every network request your browser makes when loading a page. Each row represents one request, and you will see several columns with information about each one.
 
@@ -44,7 +44,7 @@ Two of the most important columns for understanding speed are Waterfall and the 
 
 If you click on a specific request, a details panel will open on the right side with more information. Here you can see a breakdown of the timing, including how long it took to connect to the server, how long it waited for the first byte of response, and how long it took to download the complete resource.
 
-## Common Causes of Slow Network Performance
+Common Causes of Slow Network Performance
 
 Once you start using the Network tab, you might notice some patterns that explain why pages load slowly. Here are some of the most common issues you might encounter.
 
@@ -56,7 +56,7 @@ Blocked requests can also slow things down. If a page is trying to load resource
 
 Cache issues can sometimes cause unexpected slowdowns too. If a website is not properly using cached versions of resources, the browser has to download everything fresh every time, which is slower than loading from cache.
 
-## Steps You Can Take to Improve Network Performance
+Steps You Can Take to Improve Network Performance
 
 Now that you understand what might be causing slow network performance, here are some practical steps you can take to improve it.
 
@@ -70,7 +70,7 @@ Consider using a content delivery network or CDN for resources you control. If y
 
 If you find that managing browser performance is challenging, there are tools designed to help. Tab Suspender Pro, for example, can automatically suspend tabs you are not actively using, which reduces the number of network requests your browser is handling at any given time. This can significantly improve overall browser performance, especially when you have many tabs open.
 
-## When to Use This Information
+When to Use This Information
 
 Knowing how to check network speed in developer tools is useful in several situations. If you are a website owner or developer, it helps you understand how your site performs and identify bottlenecks. If you are just a regular user, it can help you figure out whether a slow website is your fault or theirs.
 
@@ -78,7 +78,7 @@ For example, if a particular site always loads slowly for you but seems fine for
 
 If you notice that multiple sites are slow, the problem is likely on your end, and you can try the steps mentioned above to improve your situation. If only one site is slow, the issue is probably with that site, and there is not much you can do except wait for them to fix it or avoid using it.
 
-## Wrapping Up
+Wrapping Up
 
 Chrome network speed in developer tools is a powerful feature that anyone can use to better understand what is happening when they browse the web. By learning to read the Network tab, you can diagnose performance issues, identify problematic websites, and take steps to improve your own browsing experience.
 
@@ -86,9 +86,9 @@ You do not need to be a technical expert to benefit from this information. A bas
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time/)
 * [Chrome Open Last Session on Startup](/articles/chrome-open-last-session-on-startup/)
 * [Chrome Preloading Pages Setting Explained](/articles/chrome-preloading-pages-setting-explained/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

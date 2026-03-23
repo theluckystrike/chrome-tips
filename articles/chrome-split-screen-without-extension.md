@@ -22,7 +22,7 @@ last_modified_at: '2026-03-12'
 
 Chrome split screen without extension is something many people search for when they want to view two websites side by side but do not want to add extra tools to their browser. Whether you are comparing prices across different shopping sites, taking notes while reading an article, or following a tutorial while working on something else, being able to see two pages at once saves time and reduces the frustration of constantly switching between tabs. The good news is that Chrome offers several ways to achieve split screen without installing any extensions, using features built right into the browser and your computer's operating system.
 
-## Using Your Computer's Window Snapping
+Using Your Computer's Window Snapping
 
 The simplest way to get Chrome split screen without extension is to use the window management features already built into your computer. This approach works with any application, not just Chrome, and requires no special browser settings.
 
@@ -32,7 +32,7 @@ On Mac, you can achieve the same result using a feature called window tiling. Op
 
 If you are using Linux, most desktop environments include similar window snapping features. Check your system settings or simply drag windows to the edges of your screen to discover what options are available.
 
-## Using Chrome's Vertical Tabs Feature
+Using Chrome's Vertical Tabs Feature
 
 Chrome includes a built-in feature called vertical tabs that can help you organize your browser windows in ways that make split screen easier to manage. While this is not exactly a split screen feature, it complements the methods described here and helps you see more of your tab bar without taking up valuable screen space.
 
@@ -40,7 +40,7 @@ To enable vertical tabs, right-click on any tab in your Chrome window and select
 
 Vertical tabs are particularly helpful when you are working with multiple projects at once. You can create different tab groups for different tasks and collapse groups you are not currently using. When you need to view two websites side by side, you already have more screen real estate available because your tabs are not taking up space at the top of the window.
 
-## Splitting Tabs Within One Chrome Window
+Splitting Tabs Within One Chrome Window
 
 Chrome also allows you to split tabs within a single browser window, though this works differently than traditional split screen. You can create a new window from any tab by right-clicking on the tab and selecting "Move to new window." This essentially ungroups the tab from your current window and places it in its own separate window, which you can then arrange side by side with your original window using the window snapping methods described earlier.
 
@@ -48,13 +48,13 @@ This approach gives you more flexibility because each window operates independen
 
 Another built-in approach involves using Chrome's tab groups alongside your split screen setup. Right-click on any tab to create a new group, give it a name and color, and then add related tabs to that group. When you are using split screen to view two websites, tab groups help you keep track of which tabs belong to which project, even when they are not visible on screen.
 
-## When an Extension Might Help
+When an Extension Might Help
 
 While Chrome split screen without extension is definitely possible, you might find that an extension makes certain tasks easier if you frequently compare multiple pages or need more flexible arrangements. One option worth considering is Tab Suspender Pro, which helps manage your tabs by suspending ones you are not actively using. This keeps Chrome running smoothly when you have many tabs open, which is particularly useful if you tend to keep many pages available for reference while working with split screen windows.
 
 Extensions like Tab Suspender Pro are not required for split screen, but they can enhance your workflow if you find yourself frequently working with multiple pages open. The key is to see them as supplements to the built-in features rather than replacements.
 
-## Making the Most of Your Screen Space
+Making the Most of Your Screen Space
 
 When using split screen without extension in Chrome, the size of your monitor plays a role in how comfortable the experience will be. Larger monitors make split screen more practical because each side has enough room to display content clearly without feeling cramped. If you have a smaller screen, you might find that split screen makes both websites too small to read comfortably, and you may prefer to simply switch between tabs using keyboard shortcuts like Control Tab on Windows or Command Tab on Mac.
 
@@ -62,7 +62,7 @@ Another tip is to adjust the zoom level in each Chrome window. You do not need b
 
 You can also use Chrome's picture-in-picture feature alongside split screen if you need to watch a video while working on something else. Click the picture-in-picture button that appears on some videos to float them above your browser window, then position them in the empty space around your split screen windows.
 
-## Putting It All Together
+Putting It All Together
 
 Chrome split screen without extension is entirely possible using the methods described in this guide. Your computer's window management tools handle most of the heavy lifting, and Chrome's built-in features like vertical tabs and tab groups help you stay organized. The combination of these approaches gives you a flexible split screen experience without adding extensions that may slow down your browser or require additional permissions.
 
@@ -70,7 +70,7 @@ Try different arrangements to find what works best for your workflow. Some users
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs/)
 * [Chrome Cycle Through Tabs Shortcut](/articles//chrome-cycle-through-tabs-shortcut//)
 * [Chrome Clear Data for One Site Without Clearing All](/articles/chrome-clear-data-for-one-site-without-clearing-all/)

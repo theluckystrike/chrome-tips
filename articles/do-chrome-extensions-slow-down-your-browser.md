@@ -11,7 +11,7 @@ permalink: do-chrome-extensions-slow-down-your-browser
 
 Do Chrome extensions slow down your browser? If you have been asking yourself this question, you are not alone. Many Chrome users notice their browser getting sluggish over time and wonder if their extensions are to blame. The truth is that extensions can definitely affect your browser's performance, and understanding why this happens is the first step to fixing it.
 
-## Why Extensions Can Slow Down Chrome
+Why Extensions Can Slow Down Chrome
 
 Chrome extensions are small programs that add features to your browser. They can block ads, save passwords, manage tabs, or help you shop smarter. While these tools are useful, they come with a cost that not everyone realizes.
 
@@ -19,7 +19,7 @@ When you install an extension, it does not just sit quietly waiting for you to u
 
 Every extension adds a small amount of overhead to Chrome. With one or two extensions, this overhead is barely noticeable. But as you add more and more extensions, the combined effect can become significant. Chrome already uses a fair amount of memory on its own, especially when you keep many tabs open. Adding extensions on top of that creates extra work for your computer.
 
-## How Extensions Consume Resources
+How Extensions Consume Resources
 
 There are several ways that extensions can slow down your browser.
 
@@ -31,7 +31,7 @@ Network usage matters too. Some extensions make requests to their own servers in
 
 Page injection is another consideration. Many extensions add features to websites by injecting their own code into every page you load. The more extensions do this, the more code Chrome has to process for each page, which adds time to the loading process.
 
-## Signs Your Extensions Are Causing Problems
+Signs Your Extensions Are Causing Problems
 
 How can you tell if your extensions are the reason your browser feels slow? There are several warning signs to watch for.
 
@@ -45,7 +45,7 @@ Chrome crashes or freezes more often than usual. While crashes can have many cau
 
 You see many processes in Chrome Task Manager. Open Chrome Task Manager by pressing Shift + Escape while in Chrome. If you see a long list of extension processes using significant memory or CPU, your extensions are likely causing problems.
 
-## Steps You Can Take to Fix It
+Steps You Can Take to Fix It
 
 The good news is that you do not have to give up all your extensions to get your browser speed back. Here are practical steps you can take.
 
@@ -61,7 +61,7 @@ Set extensions to only run on specific websites. Some extensions only need to wo
 
 Try using a tab management extension to help. Tab Suspender Pro is one tool that automatically suspends tabs you are not using, which reduces memory usage significantly. When you have dozens of tabs open, this can make a big difference in how fast your browser feels. It is not the only solution available, but many users find it helpful for keeping their browser running smoothly.
 
-## A Simple Experiment to Try
+A Simple Experiment to Try
 
 Here is a practical experiment you can try. Disable all of your extensions and use Chrome normally for a day. Pay attention to how it feels. Is it faster? Does it start up more quickly? Do pages load more smoothly?
 
@@ -69,7 +69,7 @@ Then, enable your extensions one by one, adding only the ones you truly need. Af
 
 Most users find they need only five to ten extensions at most. Anything beyond that is probably adding unnecessary weight to their browser.
 
-## Moving Forward
+Moving Forward
 
 The key is to be intentional about what you install. Before adding a new extension, ask yourself if you really need it and if you will use it regularly. Think about what you are giving up in exchange for the features it provides.
 
@@ -79,7 +79,7 @@ Remember that fewer, well-chosen extensions will serve you better than dozens of
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use/)
 * [Chrome Extensions for SSL Certificate Checker](/articles/chrome-extensions-for-ssl-certificate-checker/)
 * [Chrome Passkeys How to Set Up and Use](/articles/chrome-passkeys-how-to-set-up-and-use/)

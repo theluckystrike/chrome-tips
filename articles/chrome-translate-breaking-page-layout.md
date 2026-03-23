@@ -41,19 +41,19 @@ You're browsing a foreign website when Chrome's translation popup appears, and s
 
 This article covers four proven manual fixes, the technical reasons behind layout breaks, and a permanent solution using smart translation tools.
 
-**Last tested: March 2026 | Chrome latest stable**
+Last tested: March 2026 | Chrome latest stable
 
-> **Quick Fix for Immediate Relief**
+> Quick Fix for Immediate Relief
 >
 > 1. Right-click the translation bar and select "Never translate this site"
 > 2. Go to `chrome://settings/languages` and disable "Offer to translate pages"
 > 3. Refresh the page to restore original layout
 
-## Why Chrome Translation Breaking Page Layout
+Why Chrome Translation Breaking Page Layout
 
 Chrome's built-in translation feature causes layout issues through three main technical conflicts that disrupt how web pages render and display content.
 
-### Translation DOM Injection Conflicts
+Translation DOM Injection Conflicts
 
 When Chrome detects foreign language content, it injects translation elements directly into the page's Document Object Model. These injected elements don't respect the original CSS grid layouts, flexbox containers, or positioned elements that developers designed.
 
@@ -62,13 +62,13 @@ When Chrome detects foreign language content, it injects translation elements di
 
 The translation overlay creates new DOM nodes that sit above existing content, often breaking z-index stacking contexts and causing elements to overlap or shift unexpectedly. Modern websites using CSS Grid or Flexbox are particularly vulnerable because translation elements don't inherit the parent container's layout rules.
 
-### Memory and Resource Competition
+Memory and Resource Competition
 
 Chrome's translation process consumes additional RAM while simultaneously downloading language models in the background. This resource competition affects page rendering performance, especially on sites with complex JavaScript frameworks like React or Vue.
 
-The browser allocates roughly **15-25MB** per active translation session, which compounds when multiple tabs require translation. Sites with heavy CSS animations or video content experience the most noticeable layout degradation during translation processing.
+The browser allocates roughly 15-25MB per active translation session, which compounds when multiple tabs require translation. Sites with heavy CSS animations or video content experience the most noticeable layout degradation during translation processing.
 
-### CSS Specificity and Inheritance Issues
+CSS Specificity and Inheritance Issues
 
 Translation elements inject their own CSS rules that can override existing stylesheets through higher specificity scores. This creates cascading layout problems where translated text appears in different fonts, sizes, or positions than the original design intended.
 
@@ -77,11 +77,11 @@ Translation elements inject their own CSS rules that can override existing style
 
 Responsive breakpoints become particularly problematic because translation text often requires 20-30% more space than the original language, causing mobile layouts to break when content exceeds container boundaries.
 
-## How to Fix Chrome Translation Breaking Page Layout
+How to Fix Chrome Translation Breaking Page Layout
 
 These four solutions target different aspects of the translation layout problem, ordered from most to least effective for immediate results.
 
-### Disable Site-Specific Translation
+Disable Site-Specific Translation
 
 The most reliable fix involves preventing Chrome from offering translation on problematic sites while preserving the feature elsewhere.
 
@@ -93,7 +93,7 @@ Expected result: The page reloads with original formatting restored, and Chrome 
 
 Trade-off: You lose automatic translation for those sites but can still access manual translation through the context menu if needed.
 
-### Modify Global Translation Settings
+Modify Global Translation Settings
 
 Access Chrome's language preferences through `chrome://settings/languages` to control translation behavior across your entire browsing experience.
 
@@ -107,7 +107,7 @@ Expected result: Chrome stops automatically detecting and offering translation, 
 
 Trade-off: You must manually request translation when genuinely needed, but page layouts remain stable by default.
 
-### Clear Translation Cache and Reset
+Clear Translation Cache and Reset
 
 Chrome stores translation models and cached content that can become corrupted and cause persistent layout issues even after disabling translation features.
 
@@ -121,7 +121,7 @@ Expected result: Translation features reset to default behavior, eliminating con
 
 Trade-off: You'll need to reconfigure language preferences and lose saved translation exceptions, but persistent layout problems typically resolve.
 
-### Install Translation Override Extensions
+Install Translation Override Extensions
 
 Browser extensions can intercept and modify Chrome's translation behavior before it affects page layouts, providing more sophisticated control than built-in settings.
 
@@ -133,11 +133,11 @@ Expected result: Enhanced translation control with layout preservation, plus add
 
 Trade-off: Additional extension overhead and potential privacy considerations with third-party translation services.
 
-## Fix It Permanently with BeLikeNative
+Fix It Permanently with BeLikeNative
 
 Manual fixes work reliably but require ongoing maintenance as Chrome updates its translation systems and websites change their layouts. Smart translation tools eliminate these recurring problems by handling text translation without interfering with page structure.
 
-**BeLikeNative** provides AI-powered translation that works independently of Chrome's built-in system, avoiding DOM injection conflicts entirely. The extension maintains a **4.6/5** rating and receives regular updates, with version 1.4.8 released in March 2026.
+BeLikeNative provides AI-powered translation that works independently of Chrome's built-in system, avoiding DOM injection conflicts entirely. The extension maintains a 4.6/5 rating and receives regular updates, with version 1.4.8 released in March 2026.
 
 > "Use the chrome.i18n infrastructure to implement internationalization across your whole extension, providing locale-specific strings via messages.json files."
 > Source: [Chrome Extensions Documentation](https://developer.chrome.com/docs/extensions/reference/api/i18n)
@@ -146,23 +146,23 @@ Rather than injecting translation elements into web pages, BeLikeNative uses ove
 
 The tool integrates with your existing workflow without requiring configuration changes or site-specific exceptions. You get reliable translation functionality without the layout disruption that creates the problem in the first place.
 
-**[Try BeLikeNative Free](https://zovo.one)**
+[Try BeLikeNative Free](https://zovo.one)
 
-## FAQ
+FAQ
 
-### Does disabling Chrome translation affect other Google services?
+Does disabling Chrome translation affect other Google services?
 
 No. Chrome's translation settings only control the browser's built-in translation prompts and don't affect Google Translate website, Android translation features, or Google Lens text translation.
 
 Chrome maintains separate systems for different translation contexts, so browser changes won't impact your use of translate.google.com or mobile translation apps.
 
-### Can I restore automatic translation after fixing layout issues?
+Can I restore automatic translation after fixing layout issues?
 
 Yes. Return to `chrome://settings/languages` and re-enable "Offer to translate pages that aren't in a language you read" to restore automatic translation prompts.
 
 Your site-specific exceptions remain active, so previously problematic sites won't trigger automatic translation even after re-enabling the global setting.
 
-### Why do some websites break more than others during translation?
+Why do some websites break more than others during translation?
 
 Modern websites using CSS Grid, Flexbox, or JavaScript frameworks like React experience more severe layout disruption because Chrome's translation injection doesn't respect these advanced layout systems.
 

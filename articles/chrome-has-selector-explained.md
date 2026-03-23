@@ -12,7 +12,7 @@ author: theluckystrike
 
 Chrome has selector explained is something that comes up when users want to understand how modern web pages work. If you have been using Chrome and noticed that some websites behave differently than before, or if you are curious about what makes certain web features possible, understanding the has selector can help you make sense of it all.
 
-## What the Has Selector Actually Is
+What the Has Selector Actually Is
 
 The has selector, written as :has() in web code, is a powerful feature in CSS that lets web developers style elements based on what is inside them. Think of it like a detective that can look inside a container and apply different styles depending on what it finds there. Before this feature existed, developers had to use JavaScript to achieve similar effects, which made websites slower and more complicated.
 
@@ -20,7 +20,7 @@ Chrome was one of the first browsers to support this feature, adding it in versi
 
 The way it works is surprisingly straightforward. For example, a developer can write code that says "if this card contains an image, add a border around it" or "if this list has a highlighted item, change the background color." This makes web pages smarter and more adaptable to different types of content.
 
-## Why This Matters for Your Browsing Experience
+Why This Matters for Your Browsing Experience
 
 The has selector has made a big difference in how websites look and function. Before browsers supported this feature, developers had to rely on workarounds that often made pages load slower or behave inconsistently across different browsers. Now, with the has selector working in Chrome, websites can be more elegant and responsive without needing extra scripts.
 
@@ -28,7 +28,7 @@ One of the biggest benefits is faster page loading. Because the styling can be d
 
 The has selector also enables better responsive design. Websites can automatically adjust their appearance based on the content they contain. A shopping site, for instance, can show products in a grid when there are many items but switch to a list view when there are fewer. This kind of intelligent layout was much harder to create before the has selector became available.
 
-## Common Ways Websites Use This Feature
+Common Ways Websites Use This Feature
 
 You have probably encountered the has selector in action even if you did not realize it. Many modern websites use this feature to create better user experiences.
 
@@ -38,7 +38,7 @@ Form validation is another common use case. Websites can now show error messages
 
 Card-based layouts, which you see on news sites, blogs, and shopping pages, frequently use the has selector to handle different types of content. A news site can automatically adjust how it displays articles depending on whether they have a featured image, a video, or just text. This ensures that every article looks good regardless of its content.
 
-## How This Affects Extension Developers
+How This Affects Extension Developers
 
 For people who build Chrome extensions, understanding the has selector is important because it affects how they can interact with web pages. Extensions that modify the appearance of websites or add new features need to work around or use the has selector depending on their goals.
 
@@ -46,7 +46,7 @@ Some extensions use the has selector to inject their own styling into websites. 
 
 However, extensions that try to detect or modify how websites use the has selector need to be careful about browser compatibility. Not all websites use this feature, and those that do might use it in different ways. Good extension developers test their creations thoroughly across different websites to make sure everything works as expected.
 
-## When Things Do Not Work Right
+When Things Do Not Work Right
 
 Like any web technology, the has selector can sometimes cause issues. Most of these problems are rare and usually fixed quickly by website developers, but it helps to know what to look for.
 
@@ -56,7 +56,7 @@ In very rare cases, conflicts between different CSS rules using the has selector
 
 Extensions that try to block or modify the has selector can sometimes cause more problems than they solve. If you notice strange behavior on websites after installing a new extension, try disabling it to see if that fixes the issue.
 
-## Making the Most of Modern Chrome Features
+Making the Most of Modern Chrome Features
 
 Keeping your Chrome browser updated ensures you get the best experience from features like the has selector. Google releases updates regularly that not only add new capabilities but also fix bugs and improve performance. Most updates happen automatically, but it is worth checking occasionally to make sure you are running the latest version.
 
@@ -68,9 +68,9 @@ Understanding features like the has selector helps you appreciate the complexity
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [How to Disable Chrome Web Security for Testing Only](/articles/chrome-disable-web-security-testing-only/)
 * [Is the Chrome Beta Channel Worth Using](/articles/chrome-beta-channel-worth-using/)
 * [Chrome Tab Search Keyboard Shortcut - Find Open Tabs Instantly](/articles/chrome-tab-search-keyboard-shortcut/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

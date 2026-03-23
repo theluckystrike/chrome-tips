@@ -11,21 +11,21 @@ last_modified_at: '2026-03-12'
 
 # Mastering CSS Subgrid: Align Rows and Columns in Chrome
 
-CSS Subgrid is one of the most powerful features introduced in CSS Grid Level 2, and Chrome has full support for it. If you've ever struggled with aligning nested grid items with their parent grid, subgrid is the solution you've been waiting for. In this article, we'll explore how to use subgrid to share rows and columns across nested grids, creating perfectly aligned layouts that were previously impossible to achieve without JavaScript.
+CSS Subgrid is one of the most powerful features introduced in CSS Grid Level 2, and Chrome has full support for it. If you've ever struggled with aligning nested grid items with their parent grid, subgrid is the solution you've been waiting for. we'll explore how to use subgrid to share rows and columns across nested grids, creating perfectly aligned layouts that were previously impossible to achieve without JavaScript.
 
-## What is CSS Subgrid?
+What is CSS Subgrid?
 
-CSS Subgrid allows nested grids to inherit their parent grid's row and column tracks. When you create a grid inside another grid, the child grid can optionally align its rows and columns with the parent grid, creating a seamless design where elements across different nesting levels line up perfectly.
+CSS Subgrid allows nested grids to inherit their parent grid's row and column tracks. When you create a grid inside another grid, the child grid can optionally align its rows and columns with the parent grid, creating a smooth design where elements across different nesting levels line up perfectly.
 
 Before subgrid, nested grids created their own independent track systems. This meant that even if you wanted to align items in a nested grid with items in the parent grid, you had to manually specify sizes that matched. This was fragile and often broke when content changed.
 
-## Browser Support for Subgrid
+Browser Support for Subgrid
 
 Chrome has supported CSS Subgrid since version 90, released in April 2021. Firefox has had support since version 71, and Safari added it in version 16. This means you can safely use subgrid in production, especially for Chrome-focused projects.
 
 To use subgrid, simply specify `display: grid` on your container, and then on the nested grid, use `grid-template-rows: subgrid` or `grid-template-columns: subgrid` (or both) to inherit the parent grid's tracks.
 
-## Creating a Basic Subgrid Layout
+Creating a Basic Subgrid Layout
 
 Let's start with a practical example. Imagine you have a card component with a header, body, and footer, and inside the body, you have a grid of items that should align with the overall card layout.
 
@@ -46,7 +46,7 @@ Let's start with a practical example. Imagine you have a card component with a h
 
 In this example, the `nested-grid` inherits the three columns from its parent `parent-grid`. The items inside `nested-grid` will automatically align with the parent's column tracks, regardless of how many items you add or how they're sized.
 
-## Aligning Rows with Subgrid
+Aligning Rows with Subgrid
 
 The real power of subgrid becomes apparent when you need to align rows across multiple nested grids. Consider a typical web page layout with multiple card components, each containing different nested content that needs to align vertically.
 
@@ -72,7 +72,7 @@ The real power of subgrid becomes apparent when you need to align rows across mu
 
 By using `grid-template-rows: subgrid`, all cards in the same row will have their content aligned, even if the content varies in length. This is incredibly useful for creating consistent card layouts where text, images, and other elements always line up perfectly.
 
-## Practical Example: Product Cards
+Practical Example: Product Cards
 
 Let's build a practical example that demonstrates subgrid in action. We'll create a product listing where each product card has a title, description, and price, with multiple cards in a row that need to align.
 
@@ -111,7 +111,7 @@ Let's build a practical example that demonstrates subgrid in action. We'll creat
 
 With this setup, all product cards will share the same row structure, ensuring that titles, descriptions, and prices always align across the entire row, regardless of content length.
 
-## Using Subgrid with Chrome DevTools
+Using Subgrid with Chrome DevTools
 
 Chrome DevTools makes it easy to visualize and debug subgrid layouts. When you inspect an element using subgrid, you'll see a badge labeled "subgrid" next to the element in the Elements panel. The Grid inspector also shows how the nested grid inherits tracks from its parent.
 
@@ -123,9 +123,9 @@ To visualize subgrid tracks:
 
 This visual feedback is invaluable for understanding how your subgrid layouts work and debugging alignment issues.
 
-## Advanced Tips for Subgrid
+Advanced Tips for Subgrid
 
-### Combining Subgrid with Named Lines
+Combining Subgrid with Named Lines
 
 You can use named grid lines with subgrid for even more control:
 
@@ -142,9 +142,9 @@ You can use named grid lines with subgrid for even more control:
 }
 ```
 
-### Responsive Subgrid Layouts
+Responsive Subgrid Layouts
 
-Subgrid works seamlessly with responsive design. You can change the parent grid structure at different breakpoints, and nested subgrids will automatically adapt:
+Subgrid works smoothly with responsive design. You can change the parent grid structure at different breakpoints, and nested subgrids will automatically adapt:
 
 ```css
 @media (min-width: 768px) {
@@ -160,34 +160,34 @@ Subgrid works seamlessly with responsive design. You can change the parent grid 
 }
 ```
 
-### Performance Considerations
+Performance Considerations
 
 CSS Grid and subgrid are highly performant because they use the GPU for layout calculations. Unlike JavaScript-based solutions, subgrid doesn't require any runtime calculations, making your pages faster and more responsive.
 
-## Common Pitfalls to Avoid
+Common Pitfalls to Avoid
 
 When working with subgrid, keep these tips in mind:
 
-1. **Remember to specify both directions**: Use both `grid-template-columns: subgrid` and `grid-template-rows: subgrid` when you need alignment in both directions.
+1. Remember to specify both directions: Use both `grid-template-columns: subgrid` and `grid-template-rows: subgrid` when you need alignment in both directions.
 
-2. **Subgrid only inherits exposed tracks**: A nested grid can only inherit tracks that span its area. Make sure the parent grid has the tracks you need.
+2. Subgrid only inherits exposed tracks: A nested grid can only inherit tracks that span its area. Make sure the parent grid has the tracks you need.
 
-3. **Browser fallbacks**: While Chrome supports subgrid, older browsers don't. Use feature queries (`@supports (grid-template-rows: subgrid)`) for graceful degradation.
+3. Browser fallbacks: While Chrome supports subgrid, older browsers don't. Use feature queries (`@supports (grid-template-rows: subgrid)`) for graceful degradation.
 
-## Conclusion
+Conclusion
 
-CSS Subgrid is a game-changer for creating complex, aligned layouts in Chrome. By allowing nested grids to inherit their parent's row and column tracks, subgrid makes it possible to create designs that were previously impossible or required JavaScript hacks.
+CSS Subgrid is a significant improvement for creating complex, aligned layouts in Chrome. By allowing nested grids to inherit their parent's row and column tracks, subgrid makes it possible to create designs that were previously impossible or required JavaScript hacks.
 
-Whether you're building product listings, card layouts, or complex dashboard interfaces, subgrid provides the alignment control you need. Combined with Chrome's excellent DevTools support, you have everything you need to build robust, aligned layouts that work seamlessly across modern browsers.
+Whether you're building product listings, card layouts, or complex dashboard interfaces, subgrid provides the alignment control you need. Combined with Chrome's excellent DevTools support, you have everything you need to build robust, aligned layouts that work smoothly across modern browsers.
 
-For Chrome users who want to optimize their browser experience while working on web projects, consider trying Tab Suspender Pro—a Chrome extension that helps manage open tabs and improves browser performance.
+For Chrome users who want to optimize their browser experience while working on web projects, consider trying Tab Suspender Pro, a Chrome extension that helps manage open tabs and improves browser performance.
 
 ---
 
 
-## Related Articles
+Related Articles
 * [Chrome Web GPU API Explained](/articles/chrome-web-gpu-api-explained/)
 * [How to Enable Chrome Tab Hover Previews](/articles/how-to-enable-chrome-tab-hover-previews/)
 * [Chrome chrome.alarms API for Scheduled Tasks](/articles//articles/chrome-chrome.alarms-scheduled-tasks//)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

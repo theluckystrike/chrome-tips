@@ -24,13 +24,13 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Configure pop-up translations for hover-over learning
 > 5. Create Korean bookmarks and browse Korean websites regularly
 
-## Set Up Your Translation Extension
+Set Up Your Translation Extension
 
-Chrome's extension library offers several translation tools, but you need one that handles Korean text smoothly. **Google Translate** remains the most reliable for Korean-English translations, while newer AI-powered extensions provide more contextual understanding.
+Chrome's extension library offers several translation tools, but you need one that handles Korean text smoothly. Google Translate remains the most reliable for Korean-English translations, while newer AI-powered extensions provide more contextual understanding.
 
-Navigate to chrome://extensions and click the puzzle piece icon in your toolbar. Select **Manage extensions**, then **Open Chrome Web Store**. Search for your chosen translation tool and click **Add to Chrome**. The extension icon appears in your toolbar within seconds.
+Navigate to chrome://extensions and click the puzzle piece icon in your toolbar. Select Manage extensions, then Open Chrome Web Store. Search for your chosen translation tool and click Add to Chrome. The extension icon appears in your toolbar within seconds.
 
-Once installed, right-click the extension icon and select **Options**. Enable automatic language detection and set Korean as one of your primary translation languages. This prevents you from manually selecting Korean each time you encounter it on websites.
+Once installed, right-click the extension icon and select Options. Enable automatic language detection and set Korean as one of your primary translation languages. This prevents you from manually selecting Korean each time you encounter it on websites.
 
 > "The Translator API allows you to translate text with AI models provided in the browser. The model is downloaded the first time a website uses this API." ,  [Translation with built-in AI - Chrome Translator API](https://developer.chrome.com/docs/ai/translator-api)
 
@@ -38,21 +38,21 @@ Test your setup by visiting a Korean news site like Chosun.com. Select any Korea
 
 For [advanced browser customization](https://chrometipsguide.com/), you can also pin your translation extension to the toolbar by clicking the puzzle piece icon and selecting the pin next to your chosen tool.
 
-## Enable Chrome's Built-In Korean Support
+Enable Chrome's Built-In Korean Support
 
 Chrome includes native translation capabilities that work without extensions. These built-in features often provide faster translations and better integration with your browsing experience.
 
-Navigate to chrome://settings/languages and click **Add languages**. Find Korean (한국어) in the alphabetical list and select it. Chrome downloads the necessary language files automatically.
+Navigate to chrome://settings/languages and click Add languages. Find Korean () in the alphabetical list and select it. Chrome downloads the necessary language files automatically.
 
-After adding Korean, check the box for **Offer to translate pages that aren't in a language you read**. This triggers automatic translation prompts when you visit Korean websites, eliminating guesswork about content language.
+After adding Korean, check the box for Offer to translate pages that aren't in a language you read. This triggers automatic translation prompts when you visit Korean websites, eliminating guesswork about content language.
 
-The browser now recognizes Korean text automatically. When you visit a Korean page, Chrome displays a translation bar at the top asking if you want to translate the page. Click **Translate** to see the English version, or Always translate Korean to make this behavior automatic for all Korean sites.
+The browser now recognizes Korean text automatically. When you visit a Korean page, Chrome displays a translation bar at the top asking if you want to translate the page. Click Translate to see the English version, or Always translate Korean to make this behavior automatic for all Korean sites.
 
 You can also access translation through the three-dot menu. On any Korean webpage, click the menu icon, select Translate, and choose your target language. The page refreshes with translated content while preserving the original layout and images.
 
 For users interested in [productivity extensions](https://chrometipsguide.com/), Chrome's built-in translation pairs well with other language learning tools and reading enhancement extensions.
 
-## Configure Korean Input Methods
+Configure Korean Input Methods
 
 Learning requires output practice, not just passive reading. Adding Korean keyboard support lets you type comments, searches, and messages in Korean while browsing, creating two-way language interaction.
 
@@ -66,7 +66,7 @@ Practice typing Korean search queries in Google or Naver. This reinforces vocabu
 
 > "Use the chrome.i18n infrastructure to implement internationalization across your whole extension, providing locale-specific strings via messages.json files." ,  [chrome.i18n API - Chrome Extensions](https://developer.chrome.com/docs/extensions/reference/api/i18n)
 
-## Set Up Hover Translation for Instant Learning
+Set Up Hover Translation for Instant Learning
 
 Pop-up translations let you check unfamiliar words without leaving the page or breaking your reading flow. This feature transforms passive browsing into active vocabulary building.
 
@@ -78,7 +78,7 @@ Visit Korean Wikipedia articles about topics you already know in English. Hover 
 
 For technical topics, Korean programming blogs and [developer resources](https://chrometipsguide.com/) provide specialized vocabulary that's immediately applicable to professional contexts.
 
-## Create a Korean Browsing Routine
+Create a Korean Browsing Routine
 
 Consistency matters more than intensity for language learning. Replace 2-3 of your regular English websites with Korean alternatives to create natural immersion opportunities throughout your day.
 
@@ -94,9 +94,9 @@ Create themed browsing days. Monday for Korean tech news, Tuesday for Korean ent
 
 For [tab management](https://chrometipsguide.com/) with multiple Korean sites, consider using tab grouping features to organize your Korean content separately from English browsing.
 
-## Common Mistakes That Slow Your Progress
+Common Mistakes That Slow Your Progress
 
-### Translating Every Single Word
+Translating Every Single Word
 
 New learners often translate each unknown word immediately, disrupting reading flow and preventing pattern recognition. Your brain needs exposure to Korean sentence structures, not word-by-word English conversion.
 
@@ -104,7 +104,7 @@ This habit creates translation dependency rather than language comprehension. St
 
 Instead, read entire sentences first. Guess meaning from context before checking translations. This builds comprehension skills that transfer to real-world Korean communication. Tolerance for ambiguity is a crucial language learning skill.
 
-### Avoiding Websites That Look Too Difficult
+Avoiding Websites That Look Too Difficult
 
 Beginners skip Korean sites that appear overwhelming, limiting themselves to children's content or simplified learning materials. This creates an artificial learning ceiling that prevents vocabulary growth and real-world readiness.
 
@@ -112,7 +112,7 @@ Complex content provides practical vocabulary you'll encounter in actual Korean 
 
 Challenge yourself with slightly difficult content. Korean technology blogs, movie reviews, or sports news provide practical vocabulary while maintaining your interest level. Use translation tools as backup support, not primary reading assistance.
 
-### Relying Only on Machine Translation
+Relying Only on Machine Translation
 
 Automated translation helps with comprehension but doesn't teach Korean grammar patterns or natural expression methods. Students who depend entirely on translation tools often struggle with Korean sentence construction when they attempt to speak or write.
 
@@ -120,7 +120,7 @@ Machine translation can also provide incorrect context or miss cultural nuances 
 
 Balance translation with pattern observation. Notice how Korean sentences structure information differently than English. Pay attention to particle usage and verb endings that machine translation might not explain clearly. Try to understand the logic behind Korean grammar rather than just getting English equivalents.
 
-### Skipping Audio When Available
+Skipping Audio When Available
 
 Many Korean websites include audio content like podcasts, news broadcasts, or pronunciation guides. Text-only learners miss crucial listening practice that builds real-world communication skills.
 
@@ -128,7 +128,7 @@ Reading without listening creates a disconnect between written and spoken Korean
 
 Enable auto-play audio in your browser settings for Korean language content. Listen to Korean news while reading the text version simultaneously. This synchronized input improves both listening comprehension and reading skills while providing pronunciation models for new vocabulary.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
 The manual setup method works but requires constant switching between translation tools and language settings. You'll spend more time configuring features than actually learning Korean, and the cognitive overhead reduces your focus on language acquisition.
 

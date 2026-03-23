@@ -24,7 +24,7 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Set up automatic tab suspension for background tabs
 > 5. Monitor tab memory usage through Chrome's Task Manager
 
-## Close Unused Tabs Systematically
+Close Unused Tabs Systematically
 
 The most immediate way to reduce CPU usage is eliminating tabs you're not actively using. Right-click on any tab and select "Close other tabs" to quickly remove everything except your current tab. You can also use Ctrl+W (Windows) or Cmd+W (Mac) to close individual tabs methodically.
 
@@ -34,7 +34,7 @@ When you discover a resource-heavy tab you don't need immediately, bookmark it i
 
 Consider implementing a "tab audit" routine every hour. Set a timer and quickly scan your open tabs, closing anything you haven't touched recently. Most people keep tabs open thinking they'll return to them later, but research shows 60% of background tabs are never revisited in the same session.
 
-## Enable Chrome's Built-in Tab Freezing
+Enable Chrome's Built-in Tab Freezing
 
 Chrome includes experimental features that automatically freeze background tabs to conserve system resources. Navigate to `chrome://flags/#calculate-native-win-occlusion` and set this flag to "Enabled." You'll need to restart Chrome for the changes to take effect.
 
@@ -46,7 +46,7 @@ You should also enable Energy Saver mode through Chrome's settings. Go to Settin
 
 Additionally, navigate to `chrome://flags/#intensive-wake-up-throttling` and enable this flag. It prevents background tabs from waking up unnecessarily, which is particularly effective against cryptocurrency mining scripts and aggressive advertising trackers that try to maintain activity even in hidden tabs.
 
-## Group Related Tabs Together
+Group Related Tabs Together
 
 Tab grouping helps organize multiple tabs while reducing the visual clutter that encourages keeping unnecessary tabs open. Right-click on any tab and select "Add tab to new group" or use the keyboard shortcut Ctrl+Shift+K (Windows) or Cmd+Shift+K (Mac).
 
@@ -58,7 +58,7 @@ This psychological organization reduces the temptation to keep tabs open simply 
 
 Consider creating temporary groups for specific projects or research sessions. When the project concludes, you can easily close the entire group at once by right-clicking the group name and selecting "Close group." This batching approach is more efficient than closing tabs individually.
 
-## Set Up Automatic Tab Suspension
+Set Up Automatic Tab Suspension
 
 For truly hands-off tab management, you need automated suspension that works consistently across all browsing sessions. Chrome's native tab discarding system kicks in only when memory becomes critically low, which may be too late for optimal performance.
 
@@ -68,7 +68,7 @@ The page also reveals Chrome's scoring algorithm for tab importance. Tabs with a
 
 However, relying on manual discarding becomes tedious during intensive browsing sessions. Check out [advanced Chrome optimization techniques](https://chrometipsguide.com/) for more comprehensive approaches to browser performance management.
 
-## Monitor Performance with Chrome Task Manager
+Monitor Performance with Chrome Task Manager
 
 Keep Chrome's Task Manager accessible while browsing to track your optimization progress in real-time. Press Shift+Esc or navigate to Chrome menu > More tools > Task Manager. Sort entries by CPU usage to identify patterns in resource consumption across different types of websites and applications.
 
@@ -78,34 +78,34 @@ The task manager also displays network activity, which directly correlates with 
 
 Use the "End process" button sparingly and only for truly unresponsive tabs or problematic extensions. Ending processes abruptly can cause data loss in web applications that haven't saved recent changes automatically.
 
-## Common Mistakes That Increase CPU Usage
+Common Mistakes That Increase CPU Usage
 
-### Keeping Video Tabs Open in Background
+Keeping Video Tabs Open in Background
 
 Many users leave YouTube, Netflix, or news video tabs open assuming they're truly paused. These tabs frequently continue processing audio streams, updating video thumbnails, preloading advertisements, or maintaining connections to content delivery networks. Even legitimately paused videos typically consume 8-12% CPU on average because of background playlist processing and recommendation algorithms.
 
 Always close video tabs completely when you're finished watching. If you need to return to the same content later, use bookmarks or your browser history rather than keeping the tab active in memory.
 
-### Ignoring Extension CPU Usage
+Ignoring Extension CPU Usage
 
 Browser extensions run continuously in the background regardless of which tabs are currently open or active. Some popular extensions consume more CPU than actual website content. Regularly audit your extension CPU usage through Chrome's Task Manager and consider whether each extension provides enough value to justify its resource consumption.
 
 [Chrome extension management strategies](https://chrometipsguide.com/) can help you identify which extensions are essential and which ones you can disable or replace with lighter alternatives.
 
-### Using Too Many Tab Management Extensions
+Using Too Many Tab Management Extensions
 
 Installing multiple tab management solutions creates overhead rather than reducing system load. Each extension adds its own background processes, memory footprint, and potential conflicts with other extensions. Choose one well-designed tab management extension and disable redundant alternatives.
 
-### Never Restarting Chrome
+Never Restarting Chrome
 
 Chrome accumulates memory leaks, orphaned processes, and background overhead during extended usage periods. If you haven't completely restarted Chrome in several days, it's probably using 20-30% more resources than necessary. Develop a habit of restarting Chrome at least once daily to clear accumulated processes and reset resource allocation algorithms.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
 The manual approach works effectively but requires constant attention and discipline throughout your browsing sessions. Most users begin with strong manual tab management habits, then gradually revert to previous patterns within a week or two.
 
-**Tab Suspender Pro** automates this entire optimization process through intelligent tab suspension based on your individual usage patterns. The extension monitors which tabs you actually interact with and automatically suspends inactive ones after your customized time intervals. With its 4.9/5 rating and version 1.0.27 released March 2026, it handles the resource management complexity so you can focus on productive work instead of constant tab housekeeping.
+Tab Suspender Pro automates this entire optimization process through intelligent tab suspension based on your individual usage patterns. The extension monitors which tabs you actually interact with and automatically suspends inactive ones after your customized time intervals. With its 4.9/5 rating and version 1.0.27 released March 2026, it handles the resource management complexity so you can focus on productive work instead of constant tab housekeeping.
 
-**[Try Tab Suspender Pro Free](https://zovo.one)**
+[Try Tab Suspender Pro Free](https://zovo.one)
 
 Built by Michael Lip. More tips at zovo.one

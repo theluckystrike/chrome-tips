@@ -46,9 +46,9 @@ Remember, while the phrase "chrome keeps opening new tabs by itself virus" sugge
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover](/articles/chrome-anchor-positioning-css/)
 * [Best Chrome Extensions for HR Professionals](/articles/best-chrome-extensions-for-hr-professionals/)
 * [Chrome View Page Resources How to](/articles/chrome-view-page-resources-how-to/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

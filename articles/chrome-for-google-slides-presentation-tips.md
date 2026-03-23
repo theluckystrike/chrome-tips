@@ -11,7 +11,7 @@ permalink: chrome-for-google-slides-presentation-tips
 
 If you use Chrome for Google Slides presentations, you might have noticed that things can get a little sluggish when you have many tabs open or multiple presentation files going at once. Let me share some practical tips that can help you work faster and avoid common frustrations.
 
-## Why Chrome Can Feel Slow with Google Slides
+Why Chrome Can Feel Slow with Google Slides
 
 When you are building a presentation in Google Slides, you probably keep several tabs open at the same time. You might have your main presentation in one tab, reference materials in another, maybe a YouTube video you are embedding, and your email open so you can send the deck when it is ready. Chrome is great at handling lots of tabs, but it was not designed to keep every single one running at full speed all the time.
 
@@ -19,7 +19,7 @@ Each open tab uses memory from your computer. Even when you are not looking at a
 
 The good news is that there are several things you can do to keep Chrome running smoothly while you work on your Google Slides presentations.
 
-## Quick Chrome Adjustments for Better Performance
+Quick Chrome Adjustments for Better Performance
 
 One of the simplest things you can do is enable Chrome is memory-saving features. Chrome has a built-in Memory Saver mode that automatically pauses tabs you have not used recently. This frees up memory for the tabs you are actively working on, like your Google Slides presentation. When you go back to a paused tab, it reloads instantly.
 
@@ -27,7 +27,7 @@ To turn on Memory Saver, open Chrome settings, look for Performance, and enable 
 
 Another helpful step is to close tabs you are not using. It sounds obvious, but most people keep dozens of tabs open without thinking about it. Before you start working on a presentation, take a moment to close tabs you do not need right now. You can always reopen them later if necessary.
 
-## Organizing Your Presentation Workflow
+Organizing Your Presentation Workflow
 
 When you work on Google Slides, having a organized approach to your tabs can make a big difference. Consider using Chrome tab groups to keep your presentation-related tabs together. You can color-code them and give them labels, making it easy to find exactly what you need without scrolling through a long list of tabs.
 
@@ -35,7 +35,7 @@ Chrome also lets you pin important tabs. Pinned tabs appear at the far left of y
 
 If you find yourself frequently switching between the same set of tabs for different presentations, you can use Chrome sessions to save and restore your tab groups. This way, you can quickly jump back into working on a specific presentation without having to find and open each tab again.
 
-## Extensions That Make Google Slides Easier
+Extensions That Make Google Slides Easier
 
 There are several Chrome extensions that can improve your experience with Google Slides presentations.
 
@@ -47,7 +47,7 @@ Slides Toolbox offers helpful features for formatting your presentations quickly
 
 Unsplash provides access to free high-quality photos directly within Google Slides. You can search and insert professional images without leaving your presentation. This helps you create polished-looking slides without needing to hunt for images elsewhere.
 
-## Presentation Mode Tips
+Presentation Mode Tips
 
 When it is time to present, Chrome has some useful features you might not know about. Pressing F11 on Windows or Cmd+Ctrl+F on Mac puts Chrome into full-screen mode, which removes all the browser interface and gives you a clean view of your presentation.
 
@@ -55,13 +55,13 @@ If you need to present while also having access to your notes or speaker view, c
 
 Chrome also supports picture-in-picture mode, which lets you keep a video or other content visible in a small floating window while you work in your main presentation. This can be helpful if you are embedding video content and need to check how it looks while editing other slides.
 
-## Keeping Your Browser Ready for Presentations
+Keeping Your Browser Ready for Presentations
 
 Before an important presentation, it helps to do a little browser maintenance. Close unnecessary tabs and windows. Clear your browser cache if it has been a while, which can help Chrome run more smoothly. Make sure your Chrome browser is updated to the latest version, as updates often include performance improvements.
 
 If you use Chrome profiles, consider creating a separate profile for presentation work. This keeps your presentation-related bookmarks, extensions, and settings organized separately from your everyday browsing, reducing clutter and potential conflicts.
 
-## Making the Most of Your Setup
+Making the Most of Your Setup
 
 The combination of good browser habits, the right extensions, and a few smart settings can make a noticeable difference in how smoothly your Google Slides presentations come together. You do not need to change everything at once. Try one or two of these tips first, see what works best for your workflow, and gradually add more as you find what fits your style.
 
@@ -69,7 +69,7 @@ Whether you are putting together a quick update for your team or preparing a maj
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Cookie Settings for Best Privacy](/articles/chrome-cookie-settings-best-privacy/)
 * [How to Inspect and Debug WebSocket Connections in Chrome](/articles/chrome-websocket-inspect-debug/)
 * [chrome safe browsing enhanced vs standard](/articles/chrome-safe-browsing-enhanced-vs-standard/)

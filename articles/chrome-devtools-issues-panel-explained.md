@@ -13,7 +13,7 @@ permalink: chrome-devtools-issues-panel-explained
 
 If you are searching for chrome devtools issues panel explained, you probably want to understand what those warnings and errors mean when they appear in your browser. The Issues panel in Chrome DevTools is a helpful tool that identifies problems on websites you visit, from security concerns to performance issues, and understanding it can help you troubleshoot why certain websites are not working properly.
 
-## What is the Issues Panel
+What is the Issues Panel
 
 The Issues panel is part of Chrome DevTools, the built-in toolkit that comes with Google Chrome. While most people are familiar with the Console for seeing error messages, the Issues panel provides a more organized view of problems that Chrome detects on any webpage.
 
@@ -21,7 +21,7 @@ When you visit a website, Chrome quietly checks for various issues behind the sc
 
 You will find the Issues panel useful whether you are a regular user trying to figure out why a site is not working or someone who builds websites and needs to catch problems before users encounter them.
 
-## Why the Issues Panel Matters
+Why the Issues Panel Matters
 
 Websites are complex, and things can go wrong in many ways. Sometimes a website might look fine but have hidden problems that affect your privacy, security, or user experience. The Issues panel helps surface these hidden problems.
 
@@ -31,7 +31,7 @@ Another frequent issue involves mixed content. When you visit a secure website (
 
 The Issues panel also helps with permission problems. If a website is trying to access your camera, microphone, or location but something is blocking it, the panel will explain what is happening. This is particularly helpful when you have granted permissions but a feature still will not work.
 
-## How to Open the Issues Panel
+How to Open the Issues Panel
 
 Opening the Issues panel is simple. First, open Chrome and navigate to the website you want to check. Right-click anywhere on the page and select Inspect from the menu that appears. This opens Chrome DevTools.
 
@@ -39,19 +39,19 @@ Once DevTools is open, look at the tabs along the top. You will see options like
 
 Alternatively, you can press F12 or Ctrl+Shift+I (Command+Option+I on Mac) to open DevTools quickly, then navigate to the Issues tab.
 
-## Common Issues You Might See
+Common Issues You Might See
 
 The Issues panel categorizes problems into several groups, making it easier to understand what needs attention.
 
-**Cookie issues** are among the most common. You might see warnings about cookies being blocked, which can happen if you have third-party cookies disabled or if a website's cookie settings are misconfigured. Sometimes you will see messages about cookies being too large or too many cookies being set, which can slow down a website.
+Cookie issues are among the most common. You might see warnings about cookies being blocked, which can happen if you have third-party cookies disabled or if a website's cookie settings are misconfigured. Sometimes you will see messages about cookies being too large or too many cookies being set, which can slow down a website.
 
-**Mixed content issues** appear when a secure page loads insecure resources. Chrome will often block these resources automatically for your protection, but this can break parts of a website. The Issues panel shows exactly which resources are being blocked so you know what might not be working.
+Mixed content issues appear when a secure page loads insecure resources. Chrome will often block these resources automatically for your protection, but this can break parts of a website. The Issues panel shows exactly which resources are being blocked so you know what might not be working.
 
-**CORS errors** relate to how websites share data with each other. When one website tries to fetch information from another in a way that is not allowed, you will see a CORS issue in the panel. This is usually a website configuration problem rather than something you caused.
+CORS errors relate to how websites share data with each other. When one website tries to fetch information from another in a way that is not allowed, you will see a CORS issue in the panel. This is usually a website configuration problem rather than something you caused.
 
-**Deprecation warnings** tell you when a website is using features that Chrome plans to remove in future versions. While these do not cause immediate problems, they mean the website might stop working in a future Chrome update unless the developers make changes.
+Deprecation warnings tell you when a website is using features that Chrome plans to remove in future versions. While these do not cause immediate problems, they mean the website might stop working in a future Chrome update unless the developers make changes.
 
-## What You Can Do About Issues
+What You Can Do About Issues
 
 For regular users, seeing issues in the panel does not always mean you need to take action. Many issues are between the website and Chrome, not something you caused. However, there are situations where understanding these issues helps.
 
@@ -61,7 +61,7 @@ For mixed content issues, these are typically problems with the website itself t
 
 If you manage multiple tabs and find that issues accumulate quickly, consider using an extension like Tab Suspender Pro to manage your open tabs more efficiently. This can reduce the number of issues you encounter from old or neglected tabs while keeping your browser running smoothly.
 
-## When to Dig Deeper
+When to Dig Deeper
 
 While the Issues panel is helpful for surface-level problems, some issues require more investigation. If you see repeated CORS errors on a specific website, the site might be having server problems or configuration issues that only the website developers can fix.
 
@@ -73,7 +73,7 @@ For persistent issues on a site you use frequently, consider reaching out to the
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup/)
 * [Chrome Extensions for Hotel Deal Finder](/articles/chrome-extensions-for-hotel-deal-finder/)
 * [chrome color picker extension best](/articles/chrome-color-picker-extension-best/)

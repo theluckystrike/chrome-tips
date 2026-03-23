@@ -25,9 +25,9 @@ author: theluckystrike
 
 # Chrome Keyboard Lock API: Building Immersive Fullscreen Games
 
-When building web-based games that require fullscreen immersion, one of the most frustrating issues developers face is unexpected browser keyboard shortcuts interrupting gameplay. Pressing Alt+Tab to switch windows, Ctrl+W to close tabs, or Escape to exit fullscreen can instantly break the gaming experience. This is where the Chrome Keyboard Lock API comes in—a powerful feature that allows web applications to capture keyboard input exclusively for immersive fullscreen experiences.
+When building web-based games that require fullscreen immersion, one of the most frustrating issues developers face is unexpected browser keyboard shortcuts interrupting gameplay. Pressing Alt+Tab to switch windows, Ctrl+W to close tabs, or Escape to exit fullscreen can instantly break the gaming experience. This is where the Chrome Keyboard Lock API comes in, a powerful feature that allows web applications to capture keyboard input exclusively for immersive fullscreen experiences.
 
-## What Is the Keyboard Lock API?
+What Is the Keyboard Lock API?
 
 The Keyboard Lock API, part of the Keyboard API specification, enables a web page to request capture of keyboard keys that are normally handled by the browser or operating system. When activated, keys like Escape, Alt+Tab, Ctrl+W, and other system shortcuts are redirected to the web application instead of triggering their default browser behaviors.
 
@@ -38,11 +38,11 @@ This API is particularly valuable for:
 - Interactive presentations and demos
 - Fullscreen web applications that need uninterrupted keyboard focus
 
-## Browser Compatibility
+Browser Compatibility
 
 Before diving into implementation, it's important to note that the Keyboard Lock API has limited browser support. It works in Chrome, Edge, and other Chromium-based browsers, but Firefox and Safari have not yet implemented this feature. For a truly accessible game, you'll need to provide fallback messaging or alternative controls for users on unsupported browsers.
 
-## How to Request Keyboard Lock
+How to Request Keyboard Lock
 
 The API is straightforward to use. The core method is `navigator.keyboard.lock()`, which requests that all keyboard events be dispatched to the locked element (typically the document). Here's the basic implementation:
 
@@ -67,7 +67,7 @@ await navigator.keyboard.lock();
 await navigator.keyboard.lock(['Escape']);
 ```
 
-## Fullscreen Integration
+Fullscreen Integration
 
 The Keyboard Lock API works most reliably when combined with the Fullscreen API. Most browsers require a user gesture (like a click) before activating either fullscreen or keyboard lock. Here's how to implement both together:
 
@@ -90,7 +90,7 @@ async function startGame() {
 document.getElementById('startButton').addEventListener('click', startGame);
 ```
 
-## Handling the Escape Key
+Handling the Escape Key
 
 One of the most common use cases for keyboard lock is capturing the Escape key in games. Normally, pressing Escape in fullscreen mode exits fullscreen immediately. With keyboard lock, you can intercept this key for game purposes:
 
@@ -111,7 +111,7 @@ document.addEventListener('keyup', (event) => {
 });
 ```
 
-## Practical Example: Building a Fullscreen Game Controller
+Practical Example: Building a Fullscreen Game Controller
 
 Let's put together a practical example that demonstrates a fullscreen game with keyboard control:
 
@@ -183,7 +183,7 @@ class GameController {
 }
 ```
 
-## Unlocking the Keyboard
+Unlocking the Keyboard
 
 When your game ends or the user needs to exit, always properly unlock the keyboard:
 
@@ -199,21 +199,21 @@ if (document.fullscreenElement) {
 
 It's good practice to unlock the keyboard when the user presses Escape multiple times quickly, or when they explicitly want to exit your game interface.
 
-## Best Practices for Implementation
+Best Practices for Implementation
 
 When implementing keyboard lock in your games, consider these best practices:
 
-1. **Always require user interaction**: The keyboard lock request must be triggered by a user action like a click or button press. Silent or automatic locking will fail.
+1. Always require user interaction: The keyboard lock request must be triggered by a user action like a click or button press. Silent or automatic locking will fail.
 
-2. **Provide clear exit instructions**: Make sure users know how to exit your game. Consider adding an on-screen hint showing how to return control to the browser.
+2. Provide clear exit instructions: Make sure users know how to exit your game. Consider adding an on-screen hint showing how to return control to the browser.
 
-3. **Handle browser restrictions gracefully**: Some browsers may deny keyboard lock requests, especially if not in fullscreen mode. Always wrap your calls in try-catch blocks.
+3. Handle browser restrictions gracefully: Some browsers may deny keyboard lock requests, especially if not in fullscreen mode. Always wrap your calls in try-catch blocks.
 
-4. **Unlock on page unload**: Add an event listener for `beforeunload` to ensure the keyboard is unlocked if the user refreshes or closes the tab.
+4. Unlock on page unload: Add an event listener for `beforeunload` to ensure the keyboard is unlocked if the user refreshes or closes the tab.
 
-5. **Test across devices**: Keyboard lock behavior can vary between operating systems and Chrome versions. Test thoroughly on your target platforms.
+5. Test across devices: Keyboard lock behavior can vary between operating systems and Chrome versions. Test thoroughly on your target platforms.
 
-## Performance Considerations
+Performance Considerations
 
 The Keyboard Lock API itself has minimal performance impact since it simply redirects events. However, when handling rapid keyboard input in games, consider these optimization tips:
 
@@ -221,7 +221,7 @@ The Keyboard Lock API itself has minimal performance impact since it simply redi
 - Debounce rapid key events if your game doesn't need per-key-frame updates
 - Consider using `event.code` instead of `event.key` for consistent physical key identification
 
-## Conclusion
+Conclusion
 
 The Chrome Keyboard Lock API opens up exciting possibilities for building immersive fullscreen web games and applications. By capturing keyboard input that would otherwise be intercepted by the browser, you can create gaming experiences that feel as responsive as native applications.
 
@@ -229,14 +229,14 @@ While browser support remains limited to Chromium-based browsers, this API is a 
 
 For developers building browser-based games, pairing keyboard lock with extensions like Tab Suspender Pro can help maintain optimal performance by managing background tabs while players enjoy uninterrupted gameplay.
 
-## Related Articles
+Related Articles
 * [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
 * [Chrome Extensions for Gantt Chart](/articles/chrome-extensions-for-gantt-chart/)
 * [Hidden Chrome Extensions You Should Install](/articles/hidden-chrome-extensions-you-should-install/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Extensions for Social Media Managers](/articles/chrome-extensions-for-social-media-managers)
 - [Chrome Wappalyzer Alternative Built In](/articles/chrome-wappalyzer-alternative-built-in)

@@ -22,13 +22,13 @@ author: theluckystrike
 
 If you have ever wondered how smoothly Chrome is rendering the web pages you visit, you will be glad to know that Google Chrome includes powerful built-in tools for tracking performance metrics. The Chrome performance monitor and FPS counter features allow you to see exactly how your browser is performing in real time, helping you identify issues that might be causing lag, stuttering, or excessive resource usage.
 
-## Understanding Browser Performance in Chrome
+Understanding Browser Performance in Chrome
 
 Browser performance encompasses several different metrics, but one of the most visible is frames per second or FPS. When you scroll through a webpage, watch a video, or interact with animations, Chrome renders each frame to create the visual experience. Ideally, this should happen at 60 frames per second, which provides smooth, buttery-smooth motion. Anything lower, and you will start to notice jankiness or stuttering.
 
 Chrome performance monitoring tools give you insight into how well the browser is maintaining this frame rate and what might be causing performance degradation. Whether you are a regular user experiencing slowdowns or a web developer optimizing your websites, these tools are invaluable.
 
-## Accessing Chrome Performance Monitor
+Accessing Chrome Performance Monitor
 
 Chrome performance monitor is a built-in tool that provides real-time metrics about browser performance. To access it, you will need to open Chrome DevTools, which is Chrome is built-in developer toolkit.
 
@@ -36,7 +36,7 @@ First, open the web page you want to monitor. Then, right-click anywhere on the 
 
 The performance monitor will appear as an overlay on your web page, showing various metrics that update in real time. These include CPU usage, JS heap size, DOM nodes, layout counts, and most importantly for our discussion, the frame rate or FPS counter.
 
-## Reading the FPS Counter in Chrome Performance Monitor
+Reading the FPS Counter in Chrome Performance Monitor
 
 The FPS counter in Chrome performance monitor displays the current frame rate at which Chrome is rendering the page. You will typically see this represented as a number that fluctuates as you interact with the page.
 
@@ -44,7 +44,7 @@ A healthy, well-optimized web page should maintain around 60 FPS during normal i
 
 Pay attention to when the FPS drops. Does it happen during page load, when scrolling, or when you interact with specific elements? This information can help you identify the root cause of performance issues.
 
-## Using Chrome DevTools Performance Panel
+Using Chrome DevTools Performance Panel
 
 Beyond the performance monitor overlay, Chrome DevTools also includes a more comprehensive Performance panel that provides detailed profiling information. To access this, open DevTools and click on the Performance tab, or press Ctrl+Shift+P and search for "performance panel."
 
@@ -52,13 +52,13 @@ The Performance panel allows you to record a performance profile while you inter
 
 This level of detail is particularly useful for web developers who need to optimize their websites, but regular users can also benefit from seeing which elements are causing slowdowns.
 
-## Monitoring Tab Performance with Extensions
+Monitoring Tab Performance with Extensions
 
 While Chrome built-in tools are powerful, you might also consider using extensions for ongoing monitoring. There are several Chrome extensions available that can display FPS counters and other performance metrics directly in your browser toolbar, making it easy to keep an eye on performance without opening DevTools.
 
 One helpful extension category includes tab management tools that can automatically suspend inactive tabs to free up resources. This is particularly useful if you tend to keep many tabs open, as each tab consumes CPU and memory even when not in use. Tab Suspender Pro is one such extension that automatically pauses tabs you are not actively viewing, which can significantly improve overall browser performance and help maintain higher FPS for your active tabs.
 
-## Tips for Improving Chrome Performance
+Tips for Improving Chrome Performance
 
 If your FPS counter reveals performance issues, there are several steps you can take to improve things. First, consider closing unnecessary tabs to reduce the overall resource burden on Chrome. Each open tab requires memory and processing power, and having too many tabs can significantly impact performance.
 
@@ -68,7 +68,7 @@ Third, ensure hardware acceleration is enabled in Chrome settings. Go to chrome:
 
 Fourth, keep Chrome updated to the latest version. Google regularly releases performance improvements and bug fixes that can help your browser run smoother.
 
-## When to Use Performance Monitoring
+When to Use Performance Monitoring
 
 Understanding Chrome performance monitor and FPS counter is useful in many situations. If you notice Chrome running slowly, the performance monitor can help you identify whether the issue is related to frame rate, CPU usage, or memory consumption. If you are a web developer, these tools are essential for creating fast, responsive websites.
 
@@ -76,14 +76,14 @@ You might also want to monitor performance when visiting media-heavy sites like 
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving/)
 * [Chrome Fullscreen Mode Shortcut](/articles/chrome-fullscreen-mode-shortcut/)
 * [Chrome Dyslexia Friendly Extensions](/articles/chrome-dyslexia-friendly-extensions/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide)
 - [Best Chrome Extensions for Product Managers](/articles/best-chrome-extensions-for-product-managers)

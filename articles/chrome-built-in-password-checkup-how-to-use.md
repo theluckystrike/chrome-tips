@@ -10,13 +10,13 @@ permalink: chrome-built-in-password-checkup-how-to-use
 
 Chrome built in password checkup how to use? If you have ever wondered whether any of your saved passwords have been leaked in data breaches, Chrome has a free tool that can help you find out. This feature checks your saved passwords against known data breaches and alerts you if any of them have been compromised. Let me explain how it works and how you can use it to keep your accounts safer.
 
-## Why Checking Your Passwords Matters
+Why Checking Your Passwords Matters
 
 Every year, millions of passwords are stolen in data breaches from websites and services you probably use. When a company gets hacked, the login information of its users often ends up in large databases that criminals can buy and sell. Even if you use strong, unique passwords for every account, you cannot control whether the services you use get hacked.
 
 The problem is that many people use the same password across multiple sites, or they continue using passwords that have been compromised without knowing it. This creates a chain reaction where one breach can give attackers access to many of your accounts. Regularly checking your passwords against known breach databases is one of the most effective steps you can take to protect yourself online.
 
-## What Chrome's Password Checkup Does
+What Chrome's Password Checkup Does
 
 Chrome's built-in password checkup is a security feature that automatically monitors your saved passwords and compares them against databases of stolen credentials. When you enable this feature, Chrome periodically checks whether any of your saved passwords have appeared in known data breaches.
 
@@ -24,7 +24,7 @@ If Chrome finds a compromised password, it will alert you and provide guidance o
 
 This feature is particularly useful because it works quietly in the background and does not require you to do anything special. As long as you have saved passwords in Chrome, the checkup can monitor them for you.
 
-## How to Enable Password Checkup in Chrome
+How to Enable Password Checkup in Chrome
 
 Using Chrome's password checkup is straightforward, and you can set it up in just a few steps. Here is how to do it.
 
@@ -36,7 +36,7 @@ Once you are in the password manager, look for a section called "Password Checku
 
 After enabling password checkup, Chrome will scan your saved passwords and show you the results. If any passwords are found to be compromised, they will be listed with clear warnings about which accounts are at risk.
 
-## Understanding Your Results
+Understanding Your Results
 
 When Chrome finishes checking your passwords, you will see a summary of what it found. The results are typically divided into categories based on how serious the issue is.
 
@@ -46,7 +46,7 @@ Another category might show weak passwords that are easy to guess. While these h
 
 Chrome may also flag reused passwords. Using the same password on multiple sites is risky because if one site gets breached, all your other accounts using that password become vulnerable. Creating unique passwords for each account is a much safer approach.
 
-## Steps to Take After Finding Compromised Passwords
+Steps to Take After Finding Compromised Passwords
 
 Once you know which passwords are at risk, the next step is to change them. Here is a practical approach to handling compromised passwords.
 
@@ -56,7 +56,7 @@ When creating new passwords, try to make them long and complex. A good password 
 
 After changing a compromised password, make sure to update it in Chrome's password manager so that you do not lose track of it. Chrome will then continue to monitor the new password for any future breaches.
 
-## Keeping Your Passwords Safe Going Forward
+Keeping Your Passwords Safe Going Forward
 
 Enabling password checkup is a great first step, but good password security requires ongoing attention. Here are some habits that will help you stay safer.
 
@@ -66,13 +66,13 @@ Continue using unique passwords for each account. This way, even if one service 
 
 Also, consider enabling two-factor authentication on your most important accounts whenever possible. This adds an extra layer of security by requiring a second form of verification, such as a code sent to your phone, in addition to your password.
 
-## A Helpful Browser Tip
+A Helpful Browser Tip
 
 While you are improving your password security, you might also want to consider ways to make your browser experience more organized and efficient. A cluttered browser with too many open tabs can slow down your computer and make it harder to focus on important tasks like security maintenance.
 
 Extensions like Tab Suspender Pro can help by automatically pausing tabs you are not currently using, which frees up memory and can make Chrome run faster. This can be especially helpful when you are working through a list of passwords that need updating and have multiple websites open at once. It is one option among many for keeping your browser running smoothly while you focus on staying secure online.
 
-## Final Thoughts
+Final Thoughts
 
 Chrome's built-in password checkup is a valuable free tool that everyone should use. It takes just a few minutes to set up and can alert you to serious security risks before they become problems. By regularly checking your passwords and acting quickly when issues are found, you can significantly reduce the risk of your accounts being compromised.
 
@@ -80,7 +80,7 @@ The process does not have to be overwhelming. Start by enabling the checkup, rev
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Web Store How to Leave Review](/articles/chrome-web-store-how-to-leave-review/)
 * [Chrome Slower After macOS Update Fix](/articles/chrome-slower-after-macos-update-fix/)
 * [Chrome for News Reading Best Setup](/articles/chrome-for-news-reading-best-setup/)

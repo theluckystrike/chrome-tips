@@ -80,11 +80,11 @@ Always verify the website URL before bypassing any SSL warning. If a site asks f
 * [Chrome Wasm Debugging Guide](/articles/chrome-wasm-debugging-guide/)
 * [Chrome Invalid Certificate How To Fix Permanently](/articles/chrome-invalid-certificate-how-to-fix-permanently/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Same Site Cookies Explained](/articles/chrome-same-site-cookies-explained/)
 * [Chrome Site Isolation Memory Overhead](/articles/chrome-site-isolation-memory-overhead/)
 * [Chrome Subresource Integrity Explained](/articles/chrome-subresource-integrity-explained/)

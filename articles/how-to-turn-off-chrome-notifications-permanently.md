@@ -17,7 +17,7 @@ How to turn off chrome notifications permanently is something many Chrome users 
 
 Chrome notifications can come from websites you visit, extensions you have installed, or web apps running in your browser. Each of these sources has its own settings location, which is why turning off notifications everywhere requires a few quick steps. This guide walks you through each method so you can enjoy a notification-free browsing experience.
 
-## Turn Off Notifications in Chrome Settings
+Turn Off Notifications in Chrome Settings
 
 The easiest place to start is the main Chrome settings page. Here is how to get there.
 
@@ -29,7 +29,7 @@ Below that toggle, you will also see a list of websites that you have already al
 
 If you want to take things a step further, you can also manage notifications for specific behaviors. Under the Notifications section, look for options to control notifications for other features like incidental messages, messaging, and background sync. Turning these off ensures that nothing sneaks through.
 
-## Block Notifications from Specific Websites
+Block Notifications from Specific Websites
 
 Sometimes you may want to keep notifications on for a few trusted sites while blocking them everywhere else. Chrome lets you do this by managing permissions on a site-by-site basis.
 
@@ -39,7 +39,7 @@ For any site you visit, you can change its notification permission by clicking t
 
 Another way to block notifications for a specific site is to right-click anywhere on the page and select Site settings. This opens the same settings window where you can adjust permissions for the current site you are viewing.
 
-## Manage Extension Notifications
+Manage Extension Notifications
 
 Chrome extensions can also send notifications, and these are handled separately from website notifications. If you have many extensions installed, one of them might be the source of unwanted alerts.
 
@@ -49,13 +49,13 @@ Some extensions have their own notification settings inside their own options pa
 
 If you find that an extension is particularly aggressive with notifications and you do not use it often, consider removing it entirely. Less clutter means fewer potential interruptions.
 
-## Use a Extension to Help Manage Notifications
+Use a Extension to Help Manage Notifications
 
 If managing notifications manually feels like too much work, there are tools designed to help. Tab Suspender Pro is a Chrome extension that helps you manage your open tabs more efficiently, and it includes features that can reduce notification-related distractions. It automatically suspends inactive tabs, which can help limit the number of sites that have the chance to send you alerts in the first place.
 
 Using an extension like Tab Suspender Pro is one solution that many users find helpful. It does not claim to be the only way to handle notifications, but it does offer a convenient extra layer of control. You can find it in the Chrome Web Store if you are interested in trying it out.
 
-## Turn Off Notifications on Mobile Devices
+Turn Off Notifications on Mobile Devices
 
 If you use Chrome on your phone or tablet, you will want to adjust those settings too. The steps are slightly different depending on whether you have an Android or iOS device.
 
@@ -63,7 +63,7 @@ On Android, open the Chrome app and tap the three dots in the upper right corner
 
 On iOS, open the Chrome app and tap the three dots at the bottom of the screen. Go to Settings, then Notifications, and turn off Notifications. As with Android, you can also manage individual site permissions through the Site permissions menu.
 
-## Why It Is Worth Taking Control
+Why It Is Worth Taking Control
 
 Browser notifications were originally designed to be helpful. They can alert you to new messages, remind you of events, or let you know when something important happens on a site you use regularly. However, when too many sites abuse this feature, it quickly becomes distracting rather than useful.
 
@@ -75,7 +75,7 @@ Once you have adjusted these settings to your liking, you can always change them
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Performance Settings Best Configuration](/articles/chrome-performance-settings-best-configuration/)
 * [chrome reduce data usage mobile](/articles/chrome-reduce-data-usage-mobile/)
 * [Chrome Best Settings for Streaming Video](/articles/chrome-best-settings-for-streaming-video/)

@@ -16,7 +16,7 @@ author: theluckystrike
 
 If you are wondering how to tell which Chrome tab is draining battery, you have probably noticed your laptop battery running out faster than usual or your computer fans spinning loudly while you browse. This is a common frustration, especially when you have multiple tabs open and cannot figure out which one is causing the problem. The good news is that Chrome has built-in tools that help you identify which tabs are using the most power, and this guide will show you exactly how to find and fix them.
 
-## Why Some Chrome Tabs Use More Battery Than Others
+Why Some Chrome Tabs Use More Battery Than Others
 
 Before we get into how to identify which tab is draining your battery, it helps to understand why this happens. Chrome runs each tab as its own separate process, which means each tab needs its own share of your computer's resources. Some tabs naturally require more power than others.
 
@@ -26,7 +26,7 @@ Websites with complex interactive features like games, messaging apps, and produ
 
 Background tabs that you are not currently viewing can still consume significant power. Many websites run scripts, trackers, and analytics even when minimized, slowly draining your battery without you realizing it. This is why closing unused tabs can make a noticeable difference in your battery life.
 
-## Using Chrome Task Manager to Find Battery-Draining Tabs
+Using Chrome Task Manager to Find Battery-Draining Tabs
 
 Chrome includes a built-in Task Manager that shows you exactly how much CPU and memory each tab is using. While it does not directly show battery usage, high CPU usage is a good indicator of which tabs are draining your power the fastest.
 
@@ -36,7 +36,7 @@ Look at the CPU column to see which tabs are using the most processing power. Cl
 
 The Task Manager also shows memory usage, which relates to battery consumption as well. Tabs using high amounts of memory are typically doing more work and thus using more power. Pay attention to both metrics to get a complete picture.
 
-## Identifying Specific Types of Battery-Draining Content
+Identifying Specific Types of Battery-Draining Content
 
 Once you have the Task Manager open, you can look for telltale signs of power-hungry tabs. Video tabs will often show high CPU usage even when paused, as many players continue processing in the background. Music streaming services similarly keep running and consuming power.
 
@@ -46,7 +46,7 @@ Online games and web applications are obvious battery culprits. If you leave a g
 
 Check your extension list in Task Manager as well. Some extensions run background scripts that constantly use CPU, even when you are not interacting with them. If you see an extension using significant resources, consider disabling it when not in use.
 
-## Steps to Fix Battery-Draining Tabs
+Steps to Fix Battery-Draining Tabs
 
 After you identify which tabs are using the most power, you have several options to reduce your battery drain. The simplest solution is to close the tabs you are not actively using. If you have dozens of tabs open, go through them and close anything you do not need right now.
 
@@ -56,7 +56,7 @@ Consider using an extension designed to manage tab power usage. Tab Suspender Pr
 
 Adjust Chrome settings to reduce background activity. Go to Chrome Settings and look for Performance or Background settings. You can often find options to limit what tabs can do when running in the background. Some users find that disabling hardware acceleration in Chrome settings can also reduce power usage, though it may affect some visual features.
 
-## Preventing Battery Drain in the Future
+Preventing Battery Drain in the Future
 
 Once you have addressed the immediate battery drain issue, consider adopting habits that prevent it from happening again. Make it a routine to close tabs when you finish with them rather than leaving them open indefinitely. If you find yourself keeping many tabs open for later, consider using bookmarking or a read-later service instead.
 
@@ -70,7 +70,7 @@ Review your extensions regularly to remove any you no longer need. Each extensio
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Offscreen Canvas Performance: A Complete Guide](/articles/chrome-offscreen-canvas-performance/)
 * [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs/)
 * [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to/)

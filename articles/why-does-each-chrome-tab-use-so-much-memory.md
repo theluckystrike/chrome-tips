@@ -16,7 +16,7 @@ author: theluckystrike
 
 If you have ever wondered why does each Chrome tab use so much memory, you are not alone. This is one of the most common complaints from Chrome users, and the answer lies in how Chrome was designed to keep your browsing experience stable and secure.
 
-## The Isolation Model
+The Isolation Model
 
 Chrome runs each tab as its own separate process. When you open a new tab, Chrome creates a fresh environment for that tab to run in. This isolation means that if one tab crashes or freezes, your other tabs keep working without interruption. It also provides security benefits, preventing malicious websites from accessing data from other tabs or your computer.
 
@@ -24,7 +24,7 @@ The downside is that each tab needs its own set of resources to function. Every 
 
 This architecture is called multi-process architecture, and it is the main reason you see high memory usage from Chrome even when you are not doing anything particularly demanding.
 
-## What Is Using All That Memory
+What Is Using All That Memory
 
 Several things contribute to the memory footprint of each tab. The websites themselves are getting more complex over time. Modern web pages include interactive elements, videos, animations, and data-driven content that require significant resources to run. A tab with a complex web application or streaming service will use far more memory than a simple text-based webpage.
 
@@ -32,13 +32,13 @@ Background activity is another major factor. Many websites continue running scri
 
 Extensions and browser add-ons also add to the memory burden. Each extension runs its own code and may inject additional content into your tabs. If you have many extensions installed, they can collectively use as much memory as several tabs themselves.
 
-## The Impact on Your Computer
+The Impact on Your Computer
 
 When you keep many tabs open, Chrome ends up competing with your other applications for the available memory in your system. This can lead to your computer running slower overall, applications taking longer to respond, and in some cases, Chrome itself becoming sluggish or unresponsive.
 
 If you are working with a limited amount of RAM, this problem becomes even more noticeable. Chrome is designed to be feature-rich and secure, but those design choices come with a memory cost that can strain systems with less available resources.
 
-## What You Can Do About It
+What You Can Do About It
 
 The most effective solution is to close tabs you are not currently using. This immediately frees up the memory those tabs were consuming. If you find yourself keeping many tabs open for reference, consider using a tab management extension to organize them better and make it easier to close the ones you no longer need.
 
@@ -48,7 +48,7 @@ Another option is to use an extension like Tab Suspender Pro, which gives you mo
 
 You can also manage your extensions by removing ones you no longer use. Each extension adds to the memory overhead, so keeping your extension list lean helps your browser run more efficiently.
 
-## Finding the Right Balance
+Finding the Right Balance
 
 Understanding why Chrome uses so much memory helps you make informed decisions about your browsing habits. The multi-process design keeps your browser stable and secure, but it also means each tab carries its own resource cost. By using tools like Memory Saver or Tab Suspender Pro, you can enjoy the benefits of having many tabs available without suffering the performance penalties.
 
@@ -58,7 +58,7 @@ Small adjustments to how you use Chrome can make a big difference in how your co
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Extension Manifest V3 What Users Need to Know](/articles/chrome-extension-manifest-v3-what-users-need-to-know/)
 * [Best Chrome Extensions for Podcasters](/articles/best-chrome-extensions-for-podcasters/)
 * [Why Does Opening Chrome Slow Down Everything](/articles/why-does-opening-chrome-slow-down-everything/)

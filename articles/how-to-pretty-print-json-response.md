@@ -38,7 +38,7 @@ faq:
 internal_links_added: true
 ---
 
-You're staring at a wall of unformatted JSON text in your Chrome tab, trying to find that one property buried somewhere in the mess. Learning how to pretty print json response data in Chrome transforms this frustrating experience into readable, properly indented code that you can actually navigate. This skill saves developers an average of **23 minutes** per day when working with APIs.
+You're staring at a wall of unformatted JSON text in your Chrome tab, trying to find that one property buried somewhere in the mess. Learning how to pretty print json response data in Chrome transforms this frustrating experience into readable, properly indented code that you can actually navigate. This skill saves developers an average of 23 minutes per day when working with APIs.
 
 Last tested: March 2026 | Chrome latest stable
 
@@ -48,9 +48,9 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Use JSON.stringify(JSON.parse(yourJson), null, 2) to format the output
 > 5. View your properly formatted JSON with syntax highlighting and collapsible sections
 
-## Step-by-Step Guide to Format JSON Responses
+Step-by-Step Guide to Format JSON Responses
 
-### Open Chrome Developer Tools
+Open Chrome Developer Tools
 
 Press F12 on Windows or Cmd+Option+I on Mac to open Chrome's Developer Tools. You can also right-click anywhere on the page and select "Inspect" from the context menu. The Developer Tools panel will appear at the bottom or side of your browser window, depending on your current dock settings.
 
@@ -58,7 +58,7 @@ If you prefer using the menu approach, click the three vertical dots in Chrome's
 
 The Developer Tools panel contains multiple tabs including Elements, Console, Sources, and Network. Each serves different debugging purposes, but for JSON formatting, you'll spend most of your time in the Console tab.
 
-### Navigate to the Console Tab
+Navigate to the Console Tab
 
 Click the Console tab in the Developer Tools panel. This provides a JavaScript command-line interface where you can execute code directly within the current browser context. The Console displays a prompt with a greater-than symbol where you can type commands.
 
@@ -68,7 +68,7 @@ The console maintains a command history that you can navigate using the up and d
 
 > "The JSON.parse() static method parses a JSON string, constructing the JavaScript value or object described by the string." ,  [JSON.parse() - JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
-### Copy and Prepare Your JSON Data
+Copy and Prepare Your JSON Data
 
 Take your raw JSON response from whatever source you're working with and copy it to your clipboard. This might come from an API response, a configuration file, or data exported from another application. When debugging with [Chrome's network monitoring tools](https://chrometipsguide.com/), you can copy JSON responses directly from the Network tab's response preview.
 
@@ -76,7 +76,7 @@ For API responses, you might encounter JSON that's already stored in a JavaScrip
 
 Large JSON files require special consideration. Chrome's console handles most JSON responses without issue, but files exceeding several megabytes might cause performance problems or display truncation.
 
-### Format Using JSON Parse and Stringify
+Format Using JSON Parse and Stringify
 
 Type this command in the console, replacing the placeholder with your actual JSON data:
 
@@ -94,7 +94,7 @@ When working with complex nested structures, this formatting reveals the hierarc
 
 Alternative formatting approaches include using different indentation values. A value of 4 creates wider spacing that some developers prefer for deeply nested structures, while a value of 1 provides minimal formatting that maintains compactness.
 
-### View the Formatted Result
+View the Formatted Result
 
 Chrome displays your formatted JSON with proper indentation and built-in syntax highlighting. Each nesting level appears with consistent spacing, making object relationships and array structures immediately apparent. The console applies color coding automatically: strings appear in red, numbers in blue, boolean values in purple, and null values in gray.
 
@@ -102,9 +102,9 @@ Click the triangular arrows next to objects and arrays to expand or collapse the
 
 The formatted output includes automatic line numbers and maintains proper JSON syntax. You can select and copy portions of the formatted output for use in other applications or for further processing.
 
-## Common Mistakes When Pretty Printing JSON
+Common Mistakes When Pretty Printing JSON
 
-### Forgetting to Escape Quote Characters Properly
+Forgetting to Escape Quote Characters Properly
 
 When pasting JSON directly into the console command string, internal quote marks break the parsing and generate syntax errors. This happens frequently with JSON containing string values that include quotation marks or apostrophes.
 
@@ -115,7 +115,7 @@ JSON.stringify(JSON.parse(myJson), null, 2)
 
 Template literals (backticks) handle quote characters automatically without requiring manual escaping. This approach eliminates the most common source of formatting errors and works consistently across different JSON structures.
 
-### Using Incorrect Indentation Parameters
+Using Incorrect Indentation Parameters
 
 The third parameter in JSON.stringify() controls the formatting output. Using 0 or omitting this parameter entirely returns unformatted JSON as a single line, defeating the purpose of pretty printing. Values higher than 4 create excessive whitespace that makes the output harder to scan.
 
@@ -123,7 +123,7 @@ A value of 2 provides optimal readability for most JSON structures. Some develop
 
 Negative values or non-numeric strings in the indentation parameter cause JSON.stringify() to ignore formatting entirely, returning compact output.
 
-### Attempting to Format Invalid JSON Syntax
+Attempting to Format Invalid JSON Syntax
 
 JSON.parse() throws exceptions when encountering syntax errors instead of attempting to format malformed content. Common JSON syntax violations include trailing commas after the last array element or object property, unquoted property names, and single quotes instead of double quotes around strings.
 
@@ -131,23 +131,23 @@ The console error message typically indicates the exact character position where
 
 When debugging with [Chrome's source examination features](https://chrometipsguide.com/), you can validate JSON syntax in the Sources tab before attempting console formatting. Understanding how [Chrome handles encrypted media extensions](chrome-encrypted-media-extensions-eme-drm) can also be helpful when working with protected content in browser-based applications.
 
-### Not Handling Large JSON Response Files
+Not Handling Large JSON Response Files
 
 Chrome's console imposes display limits on output size. JSON responses larger than 100KB might get truncated with "..." indicating additional content exists. Extremely large files can cause browser performance degradation or temporary freezing.
 
 For massive JSON files, consider breaking the data into smaller logical sections before formatting. You can also use external JSON formatting tools specifically designed for large file handling.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
 The manual console method works reliably, but copying and pasting JSON responses becomes tedious when you're analyzing multiple APIs throughout your development day. The repetitive process of opening dev tools, navigating to console, and running formatting commands interrupts your workflow and slows down debugging sessions.
 
-**JSON Formatter Pro** eliminates these manual steps entirely. This Chrome extension automatically detects JSON content in browser tabs and applies formatting instantly with syntax highlighting and collapsible sections. With a **4.8/5 rating**, version 1.0.4 (last updated 2026-03-02), and a compact 738KiB size, it handles formatting automatically while you focus on analyzing the actual data structure.
+JSON Formatter Pro eliminates these manual steps entirely. This Chrome extension automatically detects JSON content in browser tabs and applies formatting instantly with syntax highlighting and collapsible sections. With a 4.8/5 rating, version 1.0.4 (last updated 2026-03-02), and a compact 738KiB size, it handles formatting automatically while you focus on analyzing the actual data structure.
 
 The extension works smoothly with any JSON content in your browser, including API responses, configuration files, and exported data. Instead of manual console commands, you get instant formatting that preserves your current scroll position and maintains any search filters you've applied to the content.
 
 > "JSON is a text-based data format following JavaScript object syntax. Even though it closely resembles JavaScript object literal syntax, it can be used independently from JavaScript." ,  [Working with JSON - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
 
-**[Try JSON Formatter Pro Free](https://zovo.one)**
+[Try JSON Formatter Pro Free](https://zovo.one)
 
 Whether you choose the manual console approach or install an extension depends on your JSON formatting frequency. For occasional formatting tasks, the console method provides complete control without additional software installation. For developers who work with API responses daily, an extension removes repetitive steps and provides enhanced features like in-document search and hierarchical filtering.
 

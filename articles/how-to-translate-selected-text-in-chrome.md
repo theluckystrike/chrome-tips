@@ -36,9 +36,9 @@ Last tested: March 2026 | Chrome latest stable
 > 4. View the instant translation in a popup tooltip
 > 5. Click the translation to copy it to your clipboard
 
-## Step-by-Step Translation Process
+Step-by-Step Translation Process
 
-### Selecting Your Text Accurately
+Selecting Your Text Accurately
 
 The foundation of quick translation starts with proper text selection. Position your cursor at the beginning of the text you want to translate, then click and drag to highlight the entire passage. You can also double-click individual words for single-term translations or triple-click to select entire paragraphs.
 
@@ -46,7 +46,7 @@ For keyboard users, hold Shift and use arrow keys to expand your selection preci
 
 Chrome's selection tool works across all webpage elements including text inside images (when OCR is available), PDF documents, and even some embedded video captions. The selection highlight should appear in blue, indicating Chrome recognizes the text as translatable content.
 
-### Accessing Chrome's Context Menu
+Accessing Chrome's Context Menu
 
 Right-click your highlighted text to reveal Chrome's context menu. The translate option appears automatically when Chrome detects foreign language content. You'll see "Translate" near the top of the menu, usually positioned between "Copy" and "Search Google for."
 
@@ -54,7 +54,7 @@ If the translate option doesn't appear immediately, Chrome might be analyzing th
 
 The context menu varies slightly depending on your Chrome settings and installed extensions. Users with [productivity extensions](https://chrometipsguide.com/) might see additional translation options from third-party tools alongside Chrome's native feature.
 
-### Understanding Translation Results
+Understanding Translation Results
 
 Chrome displays translations in a small popup tooltip that appears directly above your selected text. The translation shows the detected source language and your browser's default target language. Most translations complete within 1-2 seconds, even for lengthy paragraphs.
 
@@ -64,7 +64,7 @@ The popup includes useful additional features. Click the speaker icon to hear pr
 
 Chrome's translation quality varies by language pair. Popular language combinations like Spanish-English or French-English typically provide excellent accuracy. Less common language pairs might require additional context or produce more literal translations that need interpretation.
 
-### Customizing Translation Languages
+Customizing Translation Languages
 
 Chrome automatically detects source languages but sometimes needs manual correction. Click the language dropdown in the translation popup to change the source language if Chrome misidentified it. This commonly happens with similar languages like Spanish and Portuguese or Norwegian and Danish.
 
@@ -72,9 +72,9 @@ Your default target language comes from your Chrome language settings. To change
 
 For frequent translators, consider adding multiple languages to your Chrome preferences. This creates faster access to different translation pairs without manually selecting languages each time. The language detection system also improves as Chrome learns your usage patterns.
 
-## Common Translation Mistakes
+Common Translation Mistakes
 
-### Selecting Incomplete Text Fragments
+Selecting Incomplete Text Fragments
 
 Many users highlight partial sentences or miss crucial context words when selecting text for translation. This leads to awkward or incorrect translations because Chrome lacks the full grammatical context needed for accurate interpretation.
 
@@ -82,7 +82,7 @@ Translation algorithms rely heavily on sentence structure and surrounding words 
 
 The solution involves expanding your selection to include connecting words, articles, and related phrases. If you're translating a technical term, include the surrounding sentence for context. This approach produces more natural translations that preserve the original meaning.
 
-### Ignoring Language Detection Errors
+Ignoring Language Detection Errors
 
 Chrome occasionally misidentifies source languages, especially with short text snippets or similar language families. Users often accept incorrect translations without checking if Chrome detected the right source language first.
 
@@ -90,7 +90,7 @@ Language misidentification particularly affects Romance languages (Spanish, Ital
 
 Before accepting any translation, verify the detected source language shown in the translation popup. If it looks wrong, manually select the correct source language from the dropdown menu. This small step dramatically improves translation accuracy.
 
-### Translating Idiomatic Expressions Literally
+Translating Idiomatic Expressions Literally
 
 Direct translation of idioms, cultural references, and colloquial expressions often produces confusing results. Chrome translates words individually rather than recognizing idiomatic meanings, leading to nonsensical literal interpretations.
 
@@ -98,7 +98,7 @@ For example, translating the Spanish phrase "estar en las nubes" literally produ
 
 When you encounter strange-sounding translations, research the phrase independently. [Language learning resources](https://chrometipsguide.com/) often explain common idioms and cultural expressions that don't translate directly between languages.
 
-### Relying on Single Translation Sources
+Relying on Single Translation Sources
 
 Chrome's built-in translator uses Google Translate's engine, which works well for general content but may struggle with specialized terminology, academic language, or technical jargon. Accepting the first translation without verification can lead to misunderstandings in important contexts.
 
@@ -108,13 +108,13 @@ Different translation engines excel in different domains. Medical, legal, and sc
 
 Cross-reference important translations with alternative tools or native speakers when accuracy matters. Consider the context and stakes involved before relying solely on automated translation for critical communications.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
 The manual right-click method works perfectly for occasional translations, but frequent users find the repetitive clicking tedious. Opening context menus, waiting for popups, and copying results manually slows down reading flow when you're processing multiple foreign language sources.
 
-**BeLikeNative** automates this entire process with intelligent text selection and instant translation overlays. The extension maintains a 4.6/5 rating and offers seamless translation without interrupting your browsing experience. Instead of right-clicking every phrase, simply hover over foreign text for immediate translations that appear as subtle overlays.
+BeLikeNative automates this entire process with intelligent text selection and instant translation overlays. The extension maintains a 4.6/5 rating and offers smooth translation without interrupting your browsing experience. Instead of right-clicking every phrase, simply hover over foreign text for immediate translations that appear as subtle overlays.
 
-The automation becomes particularly valuable when reading research papers, international news, or technical documentation where you need dozens of quick translations. Rather than breaking concentration with manual steps, you maintain reading flow while accessing translations instantly. **[Try BeLikeNative Free](https://zovo.one)**
+The automation becomes particularly valuable when reading research papers, international news, or technical documentation where you need dozens of quick translations. Rather than breaking concentration with manual steps, you maintain reading flow while accessing translations instantly. [Try BeLikeNative Free](https://zovo.one)
 
 Chrome's native translation works excellently for basic needs, but power users benefit from [advanced translation workflows](https://chrometipsguide.com/) that eliminate repetitive manual actions. The combination of Chrome's built-in capabilities with smart automation extensions creates the most efficient translation setup for heavy users.
 

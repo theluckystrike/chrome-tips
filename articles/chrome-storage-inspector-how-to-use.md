@@ -75,5 +75,5 @@ The Storage Inspector is a powerful but underused tool that every Chrome user sh
 * [Chrome Magnifier Zoom for Visually Impaired](/articles/chrome-magnifier-zoom-for-visually-impaired/)
 * [Chrome Extensions for Website Monitoring Changes](/articles/chrome-extensions-for-website-monitoring-changes/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

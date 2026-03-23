@@ -22,7 +22,7 @@ Chrome allow popups for one site how to? If you have ever tried to open a new wi
 
 Let me walk you through exactly how to allow popups for one specific site in Chrome.
 
-## Why Chrome Blocks Popups by Default
+Why Chrome Blocks Popups by Default
 
 Chrome has a built-in popup blocker that automatically stops most popups from appearing. This is designed to protect you from intrusive advertisements, malicious websites that try to trick you, and other annoying behaviors that can disrupt your browsing experience. The blocker works by detecting when a website tries to open a new window or tab without you explicitly asking for it, and then silently preventing that from happening.
 
@@ -30,7 +30,7 @@ While this default behavior is helpful for most situations, it can be frustratin
 
 The solution is not to turn off your popup blocker entirely, which would leave you exposed to unwanted popups from all websites. Instead, you can whitelist specific sites that you trust, allowing them to open popups while keeping your protection intact for everything else.
 
-## How to Allow Popups for a Specific Site
+How to Allow Popups for a Specific Site
 
 The process of allowing popups for one site in Chrome is straightforward and only takes a moment. Here is what you need to do.
 
@@ -46,7 +46,7 @@ A text box will appear asking you to enter the website address. Type in the full
 
 Once you have entered the address, click Add to save your changes. The website will now appear in your allowed list, and Chrome will permit it to open popups and new windows.
 
-## An Alternative Way to Manage Popups
+An Alternative Way to Manage Popups
 
 Another way to allow popups for a specific site is directly from Chrome's address bar. When you visit a website that is trying to open a popup, Chrome usually shows an icon in the address bar indicating that popups have been blocked. This icon looks like a small window with an X through it or a warning triangle.
 
@@ -54,30 +54,30 @@ If you click on this icon, a small popup will appear showing you how many popups
 
 This method is convenient because it allows you to make the decision right when you encounter a blocked popup, rather than going through the Settings menu. Just keep in mind that you should only allow popups from websites you trust.
 
-## What If You Need More Control
+What If You Need More Control
 
 If you find that you frequently need to manage popup permissions for multiple sites, or if you want more advanced control over what websites can do, there are browser extensions available that can help. One option worth considering is Tab Suspender Pro, which provides additional tools for managing how websites behave in your browser. While its main feature is suspending inactive tabs to save memory, it also includes options for controlling various site permissions and giving you a clearer overview of what each website is allowed to do.
 
 Having this kind of control can be especially useful if you work with many web applications or if you often need to allow popups for different sites as part of your daily workflow. Extensions like this can make it easier to manage permissions without constantly digging through Chrome's settings.
 
-## How to Revoke Popup Permissions
+How to Revoke Popup Permissions
 
 Just as you can allow popups for a site, you can also remove that permission when you no longer need it. Simply go back to the Popups and redirects section in your Chrome settings, find the site in the allowed list, and click the three dots next to it. From the menu that appears, select Remove to take away the site's permission to open popups.
 
 It is a good idea to periodically review which sites you have allowed to open popups and remove any that you no longer use or trust. This keeps your browser configuration clean and ensures you are not allowing popups from sites you have forgotten about.
 
-## Final Thoughts
+Final Thoughts
 
 Learning how to allow popups for one site in Chrome is a useful skill that gives you fine-grained control over your browsing experience. Instead of turning off your popup blocker entirely and exposing yourself to unwanted windows, you can whitelist the specific sites that need this capability while keeping everything else protected. Whether you use the Settings menu or the quick option in the address bar, managing popup permissions takes just a few seconds and can save you a lot of frustration when you need a trusted website to open a new window.
 
-## Related Articles
+Related Articles
 * [Chrome Password Checkup Tool Guide](/articles/chrome-password-checkup-tool/)
 * [Chrome Address Autofill How to Manage](/articles/chrome-address-autofill-how-to-manage/)
 * [Chrome Extensions for Price Tracking Amazon](/articles/chrome-extensions-for-price-tracking-amazon/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [How to Speed Up Chrome in 5 Minutes](/articles/how-to-speed-up-chrome-in-5-minutes)
 - [How to Simulate Slow Connection in Chrome](/articles/chrome-network-throttling-how-to-simulate-slow-connection)

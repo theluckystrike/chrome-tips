@@ -12,7 +12,7 @@ If you are wondering how to connect an external monitor to your Chromebook, you 
 
 Let me walk you through everything you need to know about connecting an external monitor to your Chromebook, from picking the right cable to adjusting your display settings.
 
-## What You Need to Check First
+What You Need to Check First
 
 Before you start shopping for cables or adapters, you need to figure out what ports your Chromebook has. Most modern Chromebooks come with USB-C ports, which are versatile and can handle video output along with charging and data transfer. Some older models might have HDMI ports directly, while a few might only have USB-C.
 
@@ -20,7 +20,7 @@ To check your ports, look at the sides of your Chromebook. USB-C ports are small
 
 You also need to check what your external monitor supports. Most monitors have HDMI inputs, and many also include DisplayPort or USB-C connections. Knowing both sets of ports helps you choose the right cable combination.
 
-## Choosing the Right Cable or Adapter
+Choosing the Right Cable or Adapter
 
 Once you know what ports you are working with, picking the right cable becomes much easier.
 
@@ -32,7 +32,7 @@ For monitors with USB-C ports, you might be able to use a single USB-C cable tha
 
 If you have an older monitor with only VGA or DVI connections, you will need a USB-C to VGA adapter or similar. Just keep in mind that VGA is an older technology and does not support the same resolution and image quality as HDMI or DisplayPort.
 
-## Connecting the Monitor
+Connecting the Monitor
 
 Now that you have the right cable or adapter, it is time to connect everything together.
 
@@ -42,7 +42,7 @@ Connect one end of your cable to your Chromebook and the other end to your monit
 
 Turn on your monitor first, then turn on your Chromebook. Your Chromebook should automatically detect the external display and extend your desktop onto it. If nothing appears on the monitor, do not worry. There are a few things we can check to get it working.
 
-## Adjusting Display Settings
+Adjusting Display Settings
 
 If your external monitor is not showing anything or if you want to change how it displays, you need to access your Chromebook display settings.
 
@@ -52,9 +52,9 @@ You can choose between a few display modes. Extended display treats your externa
 
 In the display settings, you can also adjust the resolution, which determines how sharp and detailed the image appears. Your Chromebook will usually default to the best resolution your monitor supports, but you can manually change this if needed.
 
-You can also arrange how your monitors are positioned relative to each other. This matters if you want to move your mouse seamlessly between screens. Drag the pictures of the monitors in the settings to match how they are physically arranged on your desk.
+You can also arrange how your monitors are positioned relative to each other. This matters if you want to move your mouse smoothly between screens. Drag the pictures of the monitors in the settings to match how they are physically arranged on your desk.
 
-## Troubleshooting Common Issues
+Troubleshooting Common Issues
 
 Sometimes things do not work perfectly the first time, and that is okay. Here are some common problems and how to fix them.
 
@@ -66,7 +66,7 @@ If you want to adjust the screen arrangement but cannot find the display setting
 
 For dual monitor setups, the same basic principles apply. Just connect each monitor to your Chromebook using the appropriate cables and adapters, and your Chromebook should detect both. You can then arrange them in the display settings to match their physical positions.
 
-## Making the Most of Your External Display
+Making the Most of Your External Display
 
 Now that you have your external monitor working, here are a few tips to improve your experience.
 
@@ -80,7 +80,7 @@ Keep your cables organized and consider getting a monitor stand if desk space is
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [Chrome Scaling Blurry on External Monitor Fix](/articles/chrome-scaling-blurry-on-external-monitor-fix/)
 * [Chrome for Calendar Management Extensions](/articles/chrome-for-calendar-management-extensions/)
 * [Chrome NET ERR CERT DATE INVALID Fix](/articles/chrome-net-err-cert-date-invalid-fix/)

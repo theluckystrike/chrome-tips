@@ -14,7 +14,7 @@ The challenge many designers face is context switching. You might be researching
 
 One of the biggest frustrations for graphic designers is keeping track of colors you discover across the web. Whether you are building a brand palette or matching a client is existing materials, having a reliable color management tool saves hours. Extensions like ColorZilla let you sample any color from a webpage with a single click. You can copy the hex code instantly and save your favorite colors to a personal library for future projects. This means no more squinting at screens or trying to remember that perfect shade of blue you saw three days ago.
 
-Managing downloaded files is another pain point. Designers often download dozens of assets, mockups, and reference images throughout the day. These files get scattered across your downloads folder, making it hard to find what you need when you need it. The Download Shuttle extension helps by organizing your downloads into categorized folders based on file type. You can set up rules to automatically sort images into a graphics folder, vectors into an illustrations folder, and PDFs into a documents folder. This keeps everything tidy without requiring you to lift a finger.
+Managing downloaded files is another problem. Designers often download dozens of assets, mockups, and reference images throughout the day. These files get scattered across your downloads folder, making it hard to find what you need when you need it. The Download Shuttle extension helps by organizing your downloads into categorized folders based on file type. You can set up rules to automatically sort images into a graphics folder, vectors into an illustrations folder, and PDFs into a documents folder. This keeps everything tidy without requiring you to lift a finger.
 
 Font management is crucial for designers, yet it is often overlooked. Trying to remember which font you used on a previous project or finding something similar to match a clients brand can be time consuming. WhatFont is a simple extension that reveals the name of any font you see on a webpage. Just hover over text and the extension displays the font family, size, and color. This makes it easy to build a library of fonts you want to explore further or use in your own work.
 
@@ -32,11 +32,11 @@ Taking screenshots is something designers do constantly, whether for sharing pro
 
 Finally, staying organized requires good note-taking tools. Google Keep integration in Chrome lets you capture ideas, color codes, and quick notes without leaving your browser. You can clip images, add tags, and access your notes from any device. This creates a central repository for design ideas that you can reference later.
 
-The right combination of Chrome extensions for graphic designers depends on your specific workflow, but these tools address the most common pain points. Start with the ones that match your biggest daily challenges and expand from there. Most of these extensions are free or offer generous free tiers, so you can try them without any investment. The time you save on repetitive tasks adds up quickly, giving you more freedom to focus on what you actually love about design.
+The right combination of Chrome extensions for graphic designers depends on your specific workflow, but these tools address the most common problems. Start with the ones that match your biggest daily challenges and expand from there. Most of these extensions are free or offer generous free tiers, so you can try them without any investment. The time you save on repetitive tasks adds up quickly, giving you more freedom to focus on what you actually love about design.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Connection Not Private Bypass Safely](/articles/chrome-connection-not-private-bypass-safely/)
 * [Chrome Reader Mode vs Safari Reader Comparison](/articles/chrome-reader-mode-vs-safari-reader-comparison/)
 * [Chrome Extensions for Markdown Editor Preview](/articles/chrome-extensions-for-markdown-editor-preview/)

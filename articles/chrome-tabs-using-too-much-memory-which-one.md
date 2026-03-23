@@ -13,7 +13,7 @@ author: theluckystrike
 
 If you find yourself asking chrome tabs using too much memory which one is causing the problem, you are dealing with one of the most frustrating issues Chrome users face. Having multiple tabs open is practical for multitasking, but it can quickly turn your smooth browsing experience into a sluggish mess. The good news is that you can identify the culprits and take steps to reclaim your computer's performance.
 
-## Why Chrome Tabs Consume So Much Memory
+Why Chrome Tabs Consume So Much Memory
 
 Chrome is designed to give each tab its own process for stability and security. This means every tab you open gets a separate slice of your computer's RAM, whether you are actively using it or not. When you have ten tabs open, Chrome is essentially running ten mini-browsers at the same time.
 
@@ -23,7 +23,7 @@ Another factor is that tabs continue running even when you are not looking at th
 
 Memory usage also accumulates over time. Chrome can develop memory leaks where certain tabs slowly consume more and more RAM without releasing it. This is why your browser might feel fine after a restart but gradually slow down after hours of use.
 
-## How to Identify Which Tabs Are Using the Most Memory
+How to Identify Which Tabs Are Using the Most Memory
 
 Finding out which chrome tabs using too much memory which one is causing trouble is easier than you might think. Chrome has a built-in Task Manager that shows exactly how much memory each tab is using.
 
@@ -33,7 +33,7 @@ Sort the list by memory by clicking on the Memory column header. The tabs using 
 
 Another way to check memory usage is to look at the number next to each tab in the tab strip when you hover over it. Some versions of Chrome show memory estimates directly in the tab tooltip.
 
-## Practical Steps to Reduce Tab Memory Usage
+Practical Steps to Reduce Tab Memory Usage
 
 The most effective step is to close tabs you are not actively using. It sounds obvious, but many people keep dozens of tabs open for "later" and forget about them. Go through your open tabs and ask yourself when you last looked at each one. If it has been more than a day, consider closing it or saving it as a bookmark.
 
@@ -47,7 +47,7 @@ Reload tabs periodically. Sometimes a tab's memory usage grows over time due to 
 
 Consider using Tab Suspender Pro, a browser extension designed specifically to manage tabs and reduce memory usage. It automatically suspends tabs you have not used recently, keeping them available but not consuming system resources until you click on them. This is a practical solution if you tend to keep many tabs open at once. Tab Suspender Pro and similar tools can make a noticeable difference without requiring you to change your browsing habits significantly.
 
-## Preventing Memory Issues from Building Up
+Preventing Memory Issues from Building Up
 
 Restart Chrome regularly. Closing Chrome completely and reopening it clears all memory usage and gives you a fresh start. If you use Chrome heavily throughout the day, consider closing it at the end of each workday or setting a reminder to restart it once a week.
 
@@ -57,14 +57,14 @@ Update Chrome regularly. Newer versions often include performance improvements a
 
 Avoid keeping tabs with auto-refreshing content open in the background. News sites, stock tickers, and social media feeds constantly refresh, which keeps them active and consuming memory. If you need to check something periodically, close the tab and reopen it when needed.
 
-## Related Articles
+Related Articles
 * [How to Use Chrome DevTools for Beginners](/articles/how-to-use-chrome-devtools-for-beginners/)
 * [Best Chrome Extensions for Productivity](/articles/best-chrome-extensions-for-productivity/)
 * [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage)
 - [Chrome Keyboard Lock API: Building Immersive Fullscreen Games](/articles/chrome-keyboard-lock-api-fullscreen-games)

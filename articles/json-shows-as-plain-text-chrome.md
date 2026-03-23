@@ -22,30 +22,30 @@ Last tested: March 2026, Chrome 123 stable.
 > "Does Chrome have a built-in JSON viewer? Yes, but it only activates when the server sends the correct application/json Content-Type header. Legacy and development servers frequently send text/plain instead."
 > [Top 5 JSON Viewer Chrome Extensions You Need To Check Out, ful.io](https://ful.io/blog/top-5-json-viewer-chrome-extensions-you-need-to-check-out)
 
-## Why JSON Shows as Plain Text in Chrome
+Why JSON Shows as Plain Text in Chrome
 
-### The Server Is Sending the Wrong Content-Type Header
+The Server Is Sending the Wrong Content-Type Header
 
 This is the most common cause. Chrome inspects the `Content-Type` header of every HTTP response to decide how to render it. A response carrying `Content-Type: text/plain` gets rendered as plain text, even if the content is perfectly valid JSON. Many legacy APIs, development servers (Flask in debug mode, Python's SimpleHTTPServer), and misconfigured Nginx or Apache setups send `text/plain` for `.json` endpoints. Chrome does not do content sniffing for JSON by default, so it trusts the header entirely.
 
 > "Valid JSON must use double-quoted strings and forbids trailing commas per RFC 8259. Chrome's built-in formatter validates against this standard before rendering structured output."
 > [JSON - JavaScript Reference - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
 
-### Content Security Policy Blocks the Formatting Script
+Content Security Policy Blocks the Formatting Script
 
 Websites that set strict Content-Security-Policy headers can block Chrome from injecting the JavaScript that drives formatted JSON display. When a CSP rule includes `script-src 'self'` without `'unsafe-inline'`, Chrome's JSON formatter, which relies on inline script injection, cannot run. The response displays as plain text without any error message, leaving developers confused about why formatting stopped working on a specific host.
 
-### The File Exceeds Chrome's Formatting Size Limit
+The File Exceeds Chrome's Formatting Size Limit
 
 Chrome disables its JSON formatter for responses larger than 5 MB. This limit exists to prevent the browser from consuming excessive memory rendering large tree structures. Database exports, bulk API responses, and log files frequently exceed this size, resulting in raw text output regardless of the Content-Type header. The DevTools Preview tab has a higher threshold and handles files up to around 10 MB before switching to a simplified view.
 
-### No JSON Extension Is Installed, or the Extension Lacks Permissions
+No JSON Extension Is Installed, or the Extension Lacks Permissions
 
 Chrome's built-in JSON formatter is minimal. Without a dedicated extension, all formatting is contingent on correct server headers and file size limits. If you have a JSON extension installed but it only works on `http://` and `https://` URLs, JSON files opened from the local filesystem via `file://` protocol will still display as plain text.
 
-## Step-by-Step Fixes
+Step-by-Step Fixes
 
-### Fix 1: Use DevTools Preview Tab for Immediate Formatted Viewing
+Fix 1: Use DevTools Preview Tab for Immediate Formatted Viewing
 
 1. Open the page or API URL in Chrome.
 2. Press `F12` or `Ctrl+Shift+I` (Windows) / `Cmd+Option+I` (Mac) to open DevTools.
@@ -56,7 +56,7 @@ Chrome's built-in JSON formatter is minimal. Without a dedicated extension, all 
 
 Chrome formats JSON in the Preview tab regardless of Content-Type headers or CSP rules. The tree view is fully interactive: click any node to collapse or expand it. This works for files up to approximately 10 MB and requires no installation or configuration.
 
-### Fix 2: Install a JSON Formatter Extension
+Fix 2: Install a JSON Formatter Extension
 
 For a permanent automatic fix on every JSON URL you visit:
 
@@ -68,7 +68,7 @@ For a permanent automatic fix on every JSON URL you visit:
 
 JSON Formatter Pro intercepts responses before Chrome renders them, inspects the content body, and applies formatting regardless of the Content-Type header. It catches the server misconfiguration scenario and the CSP scenario by formatting at the extension layer rather than the page layer.
 
-### Fix 3: Use a Bookmarklet to Force JSON Formatting
+Fix 3: Use a Bookmarklet to Force JSON Formatting
 
 For situations where extensions are unavailable (locked-down corporate Chrome, Chromebook managed environments):
 
@@ -79,7 +79,7 @@ For situations where extensions are unavailable (locked-down corporate Chrome, C
 
 The bookmarklet parses the raw text as JSON and re-renders it as formatted output in the same tab. It works on valid JSON only: malformed JSON triggers the alert message with the specific parse error, which is useful for debugging.
 
-### Fix 4: Fix the Server's Content-Type Header
+Fix 4: Fix the Server's Content-Type Header
 
 If you control the API server producing incorrect headers, this is the correct long-term fix:
 
@@ -97,7 +97,7 @@ For Node.js/Express:
 
 Correcting the header means Chrome's built-in viewer activates automatically without requiring any extension or workaround on the client side.
 
-### Fix 5: Override Headers Using a Header Modification Extension
+Fix 5: Override Headers Using a Header Modification Extension
 
 If you cannot change the server but need consistent formatting on a specific API:
 
@@ -109,7 +109,7 @@ If you cannot change the server but need consistent formatting on a specific API
 
 Chrome now receives the response with the correct header and activates its built-in JSON formatter automatically. This approach is useful for development workflows where you need to frequently inspect a third-party API that returns incorrect headers.
 
-## Quick Fix Summary
+Quick Fix Summary
 
 | Root Cause | Fix | Works Without Extensions |
 |---|---|---|
@@ -119,7 +119,7 @@ Chrome now receives the response with the correct header and activates its built
 | Local file via file:// | Enable file access in extension settings | No |
 | Need permanent auto-formatting | JSON Formatter Pro | No |
 
-## When to Try Alternative Solutions
+When to Try Alternative Solutions
 
 The DevTools approach works for development sessions but requires manual steps every time. For teams where multiple developers work with the same APIs, distributing a consistent JSON formatter extension is more reliable than documenting a DevTools workaround. JSON Formatter Pro specifically handles the CSP-blocked scenario that the DevTools Preview tab resolves, plus adds features like JSON validation, schema checking, and one-click path copying for navigating nested objects.
 
@@ -128,26 +128,26 @@ The DevTools approach works for development sessions but requires manual steps e
 
 JSON Formatter Pro weighs 738 KiB, carries a 4.8/5 rating, and was last updated March 2, 2026. Its interception layer processes formatting before Chrome renders the response, making it effective regardless of server configuration. The extension handles files up to 10 MB with collapsible tree navigation, error highlighting for malformed JSON, and a raw/formatted toggle that lets you switch between the original and formatted views without reloading.
 
-**[Try JSON Formatter Pro Free at zovo.one](https://zovo.one)**
+[Try JSON Formatter Pro Free at zovo.one](https://zovo.one)
 
-## FAQ
+FAQ
 
-### Why does Chrome show raw JSON instead of formatted output?
+Why does Chrome show raw JSON instead of formatted output?
 
 Chrome only formats JSON automatically when the server sends the `application/json` Content-Type header. If the server sends `text/plain` or no header, Chrome renders it as plain text. Installing a JSON formatter extension removes the dependency on correct server headers by intercepting and formatting the content directly.
 
-### How do I get Chrome to display JSON in a readable format permanently?
+How do I get Chrome to display JSON in a readable format permanently?
 
 Install a JSON formatter extension and enable it for both web URLs and (if needed) local files by granting file access permission in `chrome://extensions/`. The extension then automatically formats every JSON response without any manual action on your part.
 
-### Does Chrome have a built-in JSON viewer?
+Does Chrome have a built-in JSON viewer?
 
 Yes. Chrome activates a built-in JSON tree viewer for responses with `Content-Type: application/json`. It supports collapsible nodes and basic syntax coloring. It does not handle `text/plain` responses, files over 5 MB, or local `file://` URLs. Extensions extend this capability significantly.
 
-### Why does some JSON display correctly but not others in Chrome?
+Why does some JSON display correctly but not others in Chrome?
 
 The difference is almost always the Content-Type header. APIs and JSON files served by correctly configured servers activate Chrome's built-in viewer. Poorly configured servers, development servers, and local files do not send the header Chrome expects. The DevTools Preview tab or a formatter extension bridges this inconsistency.
 
 ---
 
-Built by Michael Lip — More tips at [zovo.one](https://zovo.one)
+Built by Michael Lip. More tips at [zovo.one](https://zovo.one)

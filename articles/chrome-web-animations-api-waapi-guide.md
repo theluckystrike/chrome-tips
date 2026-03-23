@@ -9,7 +9,7 @@ permalink: chrome-web-animations-api-waapi-guide
 
 If you have ever searched for "chrome web animations api waapi guide," you are looking for a way to add smooth, professional animations to your web projects without relying on heavy external libraries. The Web Animation API, commonly abbreviated as WAAPI, is a native browser feature that lets you create high-performance animations directly with JavaScript, giving you precise control over timing, easing, and playback.
 
-## Understanding the Web Animation API
+Understanding the Web Animation API
 
 The Web Animation API is a JavaScript interface that allows developers to create and control animations directly in the browser. Unlike CSS animations, which offer limited control once an animation starts, WAAPI provides a programmatic way to play, pause, reverse, and modify animations in real time. This makes it ideal for interactive experiences where animations need to respond to user actions.
 
@@ -17,7 +17,7 @@ The API works by creating animation objects that define keyframes and timing pro
 
 One of the key advantages of WAAPI is that it runs on a separate thread from the main JavaScript execution. This means your animations continue smoothly even when the browser is busy with other tasks, providing a more consistent user experience.
 
-## Creating Your First Animation
+Creating Your First Animation
 
 To get started with WAAPI, you use the `element.animate()` method. This method takes two arguments: an array of keyframes defining the animation states, and an options object specifying duration, easing, and other timing properties.
 
@@ -36,7 +36,7 @@ const animation = box.animate([
 
 This example creates a simple left-to-right animation that loops infinitely. The keyframes define the starting state, middle state, and end state, while the options specify a 2-second duration with an ease-in-out timing function.
 
-## Controlling Animation Playback
+Controlling Animation Playback
 
 One of the most powerful features of WAAPI is the ability to control animations programmatically. The animation object returned by `element.animate()` provides several methods and properties for this purpose.
 
@@ -61,7 +61,7 @@ animation.reverse();
 
 This level of control makes WAAPI perfect for building interactive interfaces where animations respond to user input, such as draggable elements, interactive diagrams, or game mechanics.
 
-## Timing and Easing
+Timing and Easing
 
 The timing controls in WAAPI give you fine-grained control over how animations behave. Beyond the basic duration and iteration settings, you can specify delays, fill modes, and complex easing functions.
 
@@ -79,7 +79,7 @@ const animation = element.animate(keyframes, {
 
 The `fill` property is particularly useful because it determines what happens before the animation starts and after it ends. Setting `fill: 'forwards'` keeps the element in its final state after the animation completes, which is commonly needed for UI transitions.
 
-## Combining Multiple Animations
+Combining Multiple Animations
 
 For complex animations involving multiple elements, WAAPI offers the `AnimationGroup` interface. This lets you coordinate multiple animations to play together, creating synchronized effects that would be difficult to achieve with CSS alone.
 
@@ -95,7 +95,7 @@ group.play();
 
 This approach is valuable for page transitions, loading sequences, or any scenario where several elements need to animate in coordination.
 
-## Performance Benefits
+Performance Benefits
 
 WAAPI animations are typically more performant than JavaScript-based animation libraries because the browser can optimize them using the compositor thread. This means animations run on a separate thread from your main JavaScript code, preventing jank and stuttering even when the page is under heavy load.
 
@@ -103,15 +103,15 @@ The API also handles fallback gracefully. If a property cannot be animated using
 
 For users with many open tabs, Chrome's tab management works alongside WAAPI to pause animations in background tabs automatically. This keeps the browser responsive and saves battery life. If you want even more control over background tab behavior, extensions like Tab Suspender Pro can automatically suspend inactive tabs to free up resources.
 
-## Practical Tips
+Practical Tips
 
 When working with WAAPI, keep a few practical considerations in mind. Always check browser support, though WAAPI is now supported in all modern browsers. Use the `finished` promise to run code after an animation completes, and remember that you can update animation timing properties on the fly without recreating the entire animation.
 
 For accessibility, respect the user's motion preferences by checking `prefers-reduced-motion` and providing alternative, less animated experiences when appropriate.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Best Chrome Extensions for Web Developers 2026](best-chrome-extensions-for-web-developers-2026)
 - [Chrome A-Frame WebXR Getting Started Guide](chrome-a-frame-webxr-getting-started)

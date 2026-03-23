@@ -22,7 +22,7 @@ author: theluckystrike
 
 If you have ever noticed your browser running slower when you have many tabs open, the chrome compute pressure api explained in this guide will help you understand why this happens. Google Chrome includes a feature called the Compute Pressure API that allows websites to detect how hard your computer is working. This article will walk you through what this API does, why it exists, how websites use it, and what you can do about it.
 
-## What Is the Compute Pressure API
+What Is the Compute Pressure API
 
 The Compute Pressure API is a tool built into Google Chrome that lets websites and web applications understand how much computational load your computer is handling. Think of it like a thermometer that measures your computer is temperature, but instead of heat, it measures how busy your processor and memory are.
 
@@ -30,7 +30,7 @@ When your computer is handling many tasks at once, such as running multiple appl
 
 Chrome introduced this API to help web developers create more adaptive and efficient applications. For example, a video calling app might switch to lower quality video when your computer is under heavy load. A complex webpage might delay loading certain elements until your computer has more available resources. This makes the web experience smoother for everyone, regardless of their computer is capabilities.
 
-## Why Websites Use Compute Pressure Detection
+Why Websites Use Compute Pressure Detection
 
 Websites have several practical reasons for wanting to know how hard your computer is working. Understanding these uses can help you see why this feature exists in the first place.
 
@@ -42,7 +42,7 @@ Resource allocation is another reason. Some websites are heavy consumers of your
 
 Quality of service is also a factor. Video streaming services might adjust their stream quality based on your system is capabilities. When your computer is under pressure, they might reduce resolution or buffer more frequently to prevent playback from stuttering completely.
 
-## How the Compute Pressure API Works
+How the Compute Pressure API Works
 
 The Compute Pressure API works by monitoring several indicators of your computer is workload. It looks at how busy your processor is, how much memory is in use, and how much work Chrome itself is doing to keep everything running smoothly.
 
@@ -52,7 +52,7 @@ When a website uses the Compute Pressure API, Chrome provides regular updates ab
 
 The API is designed to be privacy-conscious. It does not expose specific details about what other applications are running or what processes are consuming resources. Instead, it provides a simplified view of overall system pressure that websites can use to make decisions without knowing exactly what else is happening on your computer.
 
-## What This Means for Your Browsing Experience
+What This Means for Your Browsing Experience
 
 For regular users, the Compute Pressure API generally works behind the scenes to improve your browsing experience. You might notice its effects without ever knowing it is operating.
 
@@ -62,7 +62,7 @@ Some websites might display messages indicating that they are operating in a red
 
 In some cases, you might notice that certain features become temporarily unavailable when your system is under heavy pressure. For example, a video calling site might disable screen sharing or reduce the number of participants shown in a grid to preserve resources.
 
-## Managing Compute Pressure on Your Computer
+Managing Compute Pressure on Your Computer
 
 If you find that compute pressure is affecting your browsing experience, there are several steps you can take to reduce the load on your system.
 
@@ -76,7 +76,7 @@ Fourth, explore browser extensions that help manage tab behavior. Tab Suspender 
 
 Fifth, make sure Chrome is updated. Google regularly releases updates that improve performance and efficiency. Running the latest version of Chrome can help reduce unnecessary resource consumption.
 
-## Checking Which Sites Use Compute Pressure
+Checking Which Sites Use Compute Pressure
 
 If you are curious whether websites you visit are using the Compute Pressure API, Chrome provides some tools to help you find out.
 
@@ -84,7 +84,7 @@ You can view which websites have requested certain permissions by going to Chrom
 
 Some websites might mention using compute pressure or adaptive performance in their settings or help documentation. If a site has complex interactive features, it might be using this API to optimize performance.
 
-## The Bigger Picture
+The Bigger Picture
 
 The Compute Pressure API represents Chrome is attempt to make web applications more intelligent about resource usage. It enables websites to be better citizens on your computer, adapting their behavior to match what your system can handle at any given moment.
 
@@ -96,7 +96,7 @@ As web applications become more sophisticated, features like the Compute Pressur
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for White Noise While Working](/articles/chrome-for-white-noise-while-working/)
 * [Chrome Follow Button for Websites How to Use](/articles/chrome-follow-button-for-websites-how-to-use/)
 * [Chrome Downloads Tips Organize and Manage](/articles/chrome-downloads-tips-organize-and-manage/)

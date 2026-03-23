@@ -23,13 +23,13 @@ author: theluckystrike
 
 If you need to convert web pages to PDF files automatically, Chrome offers powerful command-line options that can handle this without opening the browser window. The chrome print to PDF command line feature lets you script web-to-PDF conversions, making it useful for developers, content managers, and anyone who regularly needs to save web pages as formatted documents.
 
-## Why Use Command Line for PDF Generation
+Why Use Command Line for PDF Generation
 
 Manual PDF creation through Chrome's print dialog works fine for occasional use, but becomes time-consuming when you need to convert multiple pages or run the process on a schedule. Command-line options let you automate this completely. You can set up scripts that run overnight, process batches of URLs, or integrate PDF generation into larger workflows.
 
 Many professionals find this approach valuable. Marketers might need to archive landing pages for compliance. Researchers may want to save online articles for offline reading. Developers often need to generate PDFs of web-based reports automatically. The command-line approach handles all of these scenarios efficiently.
 
-## Basic Chrome Print to PDF Command
+Basic Chrome Print to PDF Command
 
 The foundation of chrome print to PDF from command line is the `--print-to-pdf` flag. This option runs Chrome in headless mode, meaning it operates without a visible window, and outputs a PDF directly.
 
@@ -57,7 +57,7 @@ Windows users can run:
 "C:\Program Files\Google\Chrome\Application\chrome.exe" --headless --print-to-pdf=output.pdf https://example.com
 ```
 
-## Customizing Output Settings
+Customizing Output Settings
 
 The basic command works, but you can add several options to control the PDF output. The `--print-to-pdf` flag accepts additional parameters that modify the result.
 
@@ -83,7 +83,7 @@ You can also set a specific paper size:
 
 These measurements are in inches by default.
 
-## Handling Multiple Pages
+Handling Multiple Pages
 
 When a web page spans multiple printed pages, Chrome automatically handles the pagination. However, you might want more control over how content breaks across pages. The `--prefer-css-page-size` option tells Chrome to use the CSS page settings defined in the webpage itself rather than applying defaults:
 
@@ -93,7 +93,7 @@ When a web page spans multiple printed pages, Chrome automatically handles the p
 
 This works well for pages designed with print stylesheets.
 
-## Batch Processing Multiple URLs
+Batch Processing Multiple URLs
 
 For converting multiple web pages at once, you can create a simple shell script. On macOS or Linux:
 
@@ -113,7 +113,7 @@ Save this as `batch-pdf.sh` and run:
 
 Each URL will be converted to a separate PDF file.
 
-## Practical Automation Examples
+Practical Automation Examples
 
 One common use case involves generating daily reports. If you have a web-based dashboard that updates each day, you can create a cron job that runs each morning and saves the current state as a PDF. This provides an automatic backup and makes it easy to review past data.
 
@@ -121,7 +121,7 @@ Another practical application involves archiving content. Some websites change f
 
 For developers, integrating Chrome PDF generation into build processes helps maintain updated documentation. Many projects host their docs as web pages but need PDF versions for offline distribution. A simple script can regenerate these PDFs whenever the documentation updates.
 
-## Troubleshooting Common Issues
+Troubleshooting Common Issues
 
 Sometimes the PDF output does not match expectations. Several common problems have straightforward solutions.
 
@@ -137,23 +137,23 @@ When fonts look wrong in the output, the page may be using web fonts that do not
 
 For pages that require login, command-line Chrome cannot handle authentication directly. You would need to first obtain a cookie or session data and pass it to Chrome, which adds complexity beyond basic PDF generation.
 
-## Browser Extensions and Additional Tools
+Browser Extensions and Additional Tools
 
 While the command-line approach works well for technical users, browser extensions offer simpler alternatives for casual use. Tab Suspender Pro, for example, helps manage open tabs efficiently, though it focuses on memory management rather than PDF generation. Extensions that specifically handle PDF creation often provide more visual control over the output.
 
 For organizations needing enterprise-level PDF generation at scale, consider combining Chrome's command-line capabilities with scheduling tools, monitoring systems, or content management integrations. The flexibility of command-line access makes it possible to build sophisticated automation pipelines.
 
-## Getting Started
+Getting Started
 
 To begin using chrome print to PDF from command line, start with the basic command and a single URL. Verify that the output matches your expectations, then gradually add options like header removal or landscape orientation. Once comfortable with single-page generation, move on to batch scripts that handle multiple URLs.
 
 The learning curve is gentle, and the payoff comes quickly. Even a simple script that saves three or four important pages automatically each week can save significant time over months of manual work.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Screenshot Command Line Batch: Complete Automation Guide](/articles/chrome-screenshot-command-line-batch/)
 * [Chrome PDF Settings Print to PDF How to](/articles/chrome-pdf-settings-print-to-pdf-how-to/)
 * [Chrome Print to PDF How to Save Webpage](/articles/chrome-print-to-pdf-how-to-save-webpage/)

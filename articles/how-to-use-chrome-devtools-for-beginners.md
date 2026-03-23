@@ -15,13 +15,13 @@ author: theluckystrike
 
 If you are searching for how to use Chrome DevTools for beginners, you might have heard that Chrome has some hidden superpowers but feel unsure where to start. Chrome Developer Tools, often called DevTools, is a powerful set of tools built directly into your browser that can help you understand how websites work, fix display problems, and troubleshoot issues without any coding knowledge.
 
-## What Is Chrome DevTools
+What Is Chrome DevTools
 
 Chrome DevTools is a collection of tools that come pre-installed with Google Chrome. Think of it as a behind-the-scenes look at any website you visit. When you open DevTools, you gain access to information about how web pages are built, how they load, and what might be causing any issues you encounter.
 
 These tools were originally created for web developers to build and debug websites, but many features are incredibly useful for regular users like you. Whether you want to see why a website looks strange, check how fast a page loads, or simply satisfy your curiosity about how the web works, DevTools has you covered.
 
-## Opening DevTools
+Opening DevTools
 
 There are several ways to open DevTools, and you can choose whichever method feels most comfortable. The simplest way is to right-click anywhere on any webpage and select Inspect from the menu that appears. This instantly opens the DevTools panel at the bottom of your browser window.
 
@@ -29,7 +29,7 @@ If you prefer keyboard shortcuts, you can press F12 on Windows or Linux computer
 
 You can also access DevTools through the Chrome menu. Click the three dots in the upper right corner of your browser, then select More Tools, and choose Developer Tools from the list. This menu-based approach works well if you prefer not to memorize keyboard shortcuts.
 
-## Exploring the Elements Panel
+Exploring the Elements Panel
 
 The Elements panel is one of the most useful parts of DevTools for regular users. It shows you the structure of any webpage, letting you see all the different pieces that make up what you see on screen. Think of it like looking under the hood of a car to see how the engine works.
 
@@ -39,7 +39,7 @@ One of the best features here is the ability to inspect any element on the page.
 
 You can also try making temporary changes to see how they look. Click on any element in the panel, then double-click on the text or style properties to edit them. These changes only last until you refresh the page, so you can experiment freely without worrying about breaking anything permanently.
 
-## Using the Console Panel
+Using the Console Panel
 
 The Console panel is another beginner-friendly feature of DevTools. It displays messages from the browser, including any errors that might be affecting how a website works. If something goes wrong on a page you are visiting, the Console often provides helpful clues about what went wrong.
 
@@ -47,7 +47,7 @@ To open the Console, click on the Console tab in the DevTools panel. You might s
 
 You can also use the Console to run simple experiments. Type a command like document.title and press Enter to see the title of the current webpage. This kind of interaction can help you understand how websites are structured without requiring any programming knowledge.
 
-## Checking Network Activity
+Checking Network Activity
 
 The Network panel shows you all the files that load when you visit a website, including images, scripts, and other resources. This is incredibly useful if you want to understand why a page loads slowly or which elements might be causing delays.
 
@@ -55,7 +55,7 @@ Open the Network panel and refresh the page to see everything that loads. You ca
 
 For beginners, the simplest way to use this panel is to watch it while the page loads. Seeing all those files appear can give you a new appreciation for how much work goes into loading a single webpage. You might be surprised by how many different pieces come together to create what looks like a simple page.
 
-## Testing Different Screen Sizes
+Testing Different Screen Sizes
 
 DevTools includes a device toolbar that lets you see how websites look on different screen sizes. This is useful if you want to check whether a site works well on mobile devices or if you are curious about responsive design.
 
@@ -63,7 +63,7 @@ To access this feature, click the device toggle icon in the DevTools toolbar (it
 
 This feature is not just for developers. If you ever wondered how a website would look on your phone without actually pulling out your device, this gives you a quick way to check. It can also help you understand why some sites look different on mobile versus desktop.
 
-## Understanding Page Performance
+Understanding Page Performance
 
 The Performance panel provides insights into how quickly a webpage loads and runs. While it contains detailed technical information, even beginners can benefit from simple observations about what makes pages fast or slow.
 
@@ -73,13 +73,13 @@ Performance issues can sometimes be related to having too many tabs open in your
 
 Tab Suspender Pro works quietly in the background and wakes up tabs when you click on them, making it easy to maintain a long list of open tabs without experiencing the slowdown that typically comes with having many pages loaded at once.
 
-## Finding Hidden Information
+Finding Hidden Information
 
 DevTools can help you discover information that is not immediately visible on a webpage. For example, you can see meta tags that describe the page, alt text for images, and other hidden details that websites use to provide information to browsers.
 
 This can be useful if you want to learn more about how a website describes itself or if you are curious about the technical details behind your favorite sites. Right-click on any element and choose Inspect to explore its properties in the Elements panel. You might be surprised by what you find hidden in the code.
 
-## Wrapping Up
+Wrapping Up
 
 Chrome DevTools might seem intimidating at first, but you do not need to be a programmer to use many of its features. Start with the basics like inspecting elements and checking the Console for errors. As you become more comfortable, you can explore other panels and discover even more capabilities.
 
@@ -89,7 +89,7 @@ DevTools opens up a world of understanding about how the web works. Even basic f
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [chrome for google flights tips and tricks](/articles/chrome-for-google-flights-tips-and-tricks/)
 * [Chrome Extensions for Grammarly Alternative Free](/articles/chrome-extensions-for-grammarly-alternative-free/)
 * [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings/)

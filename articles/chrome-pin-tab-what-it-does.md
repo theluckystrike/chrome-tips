@@ -23,7 +23,7 @@ Chrome pin tab what it does is a question that comes up often for browser users 
 
 Pinning a tab in Chrome is a built-in feature that keeps certain tabs always visible and protected from accidental closure. When you pin a tab, it shrinks to show only the small icon, or favicon, of the website instead of the full title. This takes up much less space in your tab bar and ensures your most important sites are always accessible at a glance. Pinned tabs stay on the far left side of your browser, separate from your regular tabs, making them easy to find no matter how many other tabs you have open.
 
-## How to Pin a Tab in Chrome
+How to Pin a Tab in Chrome
 
 Pinning a tab is simple and only takes a moment. First, open the website you want to pin in Chrome. Then right-click on the tab at the top of your browser window. A menu will appear with several options, and you will see "Pin tab" near the middle of the list. Click on that option, and the tab will immediately shrink and move to the left side of your tab strip.
 
@@ -31,7 +31,7 @@ You can also pin a tab by clicking and holding on the tab, then dragging it to t
 
 To unpin a tab, simply right-click on the pinned tab again and select "Unpin tab" from the menu. The tab will return to its normal size and move to the right, joining your other regular tabs.
 
-## What Happens When You Pin a Tab
+What Happens When You Pin a Tab
 
 When you pin a tab in Chrome, several things change about how that tab behaves. The most noticeable change is the size. Instead of showing the full website title and favicon, a pinned tab shows only the tiny favicon icon. This can save significant space in your browser, especially if you pin multiple tabs.
 
@@ -41,7 +41,7 @@ Another important behavior is that pinned tabs always stay on the left side of y
 
 Pinned tabs also persist when you close and reopen Chrome. When you restart your browser, your pinned tabs will be there waiting for you, loaded and ready to go. This means you do not have to reopen your most frequently used websites every time you start browsing.
 
-## Why Pinned Tabs Are Useful
+Why Pinned Tabs Are Useful
 
 There are many situations where pinned tabs can improve your browsing experience. The most common use case is keeping communication tools within reach. Email, Slack, Discord, and messaging apps are perfect candidates for pinning because you check them many times throughout the day. Having them pinned means one quick click and you are there, no scrolling through tabs or searching for the right window.
 
@@ -51,7 +51,7 @@ For people who work with multiple websites at once, pinned tabs can serve as an 
 
 Students can benefit from pinned tabs by keeping their course materials, email, and calendar always accessible. Professionals who need to switch between specific websites throughout the day will find pinned tabs save time and reduce frustration.
 
-## What Pinned Tabs Do Not Do
+What Pinned Tabs Do Not Do
 
 It is important to understand what pinned tabs do not do. Pinning a tab does not prevent the website from using memory or resources. If you pin a tab that plays video or runs animations in the background, it will continue using your computer's resources just like any other open tab. Pinned tabs do not automatically suspend or pause their content.
 
@@ -59,7 +59,7 @@ Pinned tabs also do not sync between different devices through your Google accou
 
 Additionally, pinning a tab does not protect it from Chrome's memory management. If your computer runs low on memory, Chrome may still discard pinned tabs to free up resources, just as it does with regular tabs. However, pinned tabs are typically among the last tabs to be discarded because Chrome recognizes their importance.
 
-## Tips for Using Pinned Tabs Effectively
+Tips for Using Pinned Tabs Effectively
 
 To get the most out of pinned tabs, consider which websites you truly need always accessible. Limit yourself to five or fewer pinned tabs to maintain the benefit of reduced visual clutter. If you find yourself pinning more than that, consider whether you need to reorganize or close some of those sites instead.
 
@@ -69,7 +69,7 @@ Keep your pinned tabs in a consistent order that makes sense to you. Some people
 
 If you need more control over which tabs stay active and which can be suspended to save memory, consider using an extension like Tab Suspender Pro. This tool lets you set specific tabs to automatically pause after a period of inactivity, which can help your browser run faster without losing access to important sites when you need them.
 
-## Managing Too Many Open Tabs
+Managing Too Many Open Tabs
 
 If you struggle with having too many tabs open, pinned tabs can be part of a larger organization strategy. Start by identifying the three to five websites you use most frequently and pin those. Then make a habit of closing tabs you no longer need rather than leaving them open.
 
@@ -79,14 +79,14 @@ Another approach is to regularly review your open tabs and save anything importa
 
 Pinned tabs are one of Chrome's simplest but most useful features. They help you keep important websites accessible, reduce visual clutter, and prevent accidental closures. Whether you use them for work, school, or personal browsing, pinned tabs can make your time in Chrome more organized and efficient.
 
-## Related Articles
+Related Articles
 * [How to Clear Chrome Cache Fast](/articles/how-to-clear-chrome-cache-fast/)
 * [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate/)
 * [Chrome Custom Tabs on Android What They Are](/articles//chrome-custom-tabs-on-android-what-they-are//)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [How to Fix Chrome High CPU Usage When Gaming](/articles/how-to-fix-chrome-high-cpu-usage-gaming)
 - [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers)

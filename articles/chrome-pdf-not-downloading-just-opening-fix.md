@@ -13,7 +13,7 @@ Chrome PDF not downloading just opening fix is something many Chrome users have 
 
 Let me explain why Chrome does this, what settings control this behavior, and how you can change them to get Chrome to download PDFs like it should.
 
-## Why Chrome Opens PDFs Instead of Downloading Them
+Why Chrome Opens PDFs Instead of Downloading Them
 
 Chrome has a built-in PDF viewer that is designed to make viewing PDF files convenient. When you click on a PDF link, Chrome's default behavior is to open the file in the browser using this viewer. This is helpful for quickly glancing at a document, but it becomes a problem when you actually need to download and save the file.
 
@@ -21,7 +21,7 @@ The reason this happens is that Chrome treats PDF files similarly to how it hand
 
 There are a few situations where you might notice this behavior more than others. If you are using a work or school computer, an administrator might have set Chrome to open PDFs in the browser. Some websites also configure their PDF links in a way that triggers the built-in viewer instead of a download. Regardless of the cause, the solution is usually the same.
 
-## How to Change Chrome Settings to Download PDFs
+How to Change Chrome Settings to Download PDFs
 
 The most direct way to fix this issue is to change Chrome's PDF handling settings. Here is what you need to do.
 
@@ -35,7 +35,7 @@ Turn this setting off. When it is disabled, Chrome will download PDF files inste
 
 After you turn off this setting, try clicking on a PDF link again. Chrome should now download the file instead of opening it in a new tab.
 
-## Using a Different Approach Through Chrome Flags
+Using a Different Approach Through Chrome Flags
 
 If you cannot find the setting in regular Chrome settings, or if it is being controlled by your system administrator, there is another way to change this behavior. Chrome has experimental features that can be accessed through the flags page.
 
@@ -47,7 +47,7 @@ Be careful when changing flags, as these are experimental features. However, the
 
 After making this change, you may need to restart Chrome for the new setting to take effect. Close all Chrome windows and open the browser again to apply the change.
 
-## Another Way to Download Without Changing Settings
+Another Way to Download Without Changing Settings
 
 If you would rather not change Chrome settings, there is a simple workaround that works in any situation. Instead of clicking directly on the PDF link, you can right-click on the link and choose Save link as. This opens a dialog that lets you choose where to save the file on your computer, completely bypassing Chrome's default PDF handling.
 
@@ -55,7 +55,7 @@ This method is useful when you are on a computer where you cannot change setting
 
 To do this, move your mouse cursor over the PDF link in the page. Right-click and look for an option that says Save link as or Save target as. Click on that option, choose where you want to save the file on your computer, and click Save. The file will download to your chosen location.
 
-## Browser Extensions That Can Help
+Browser Extensions That Can Help
 
 If you find yourself needing to download PDFs frequently and want more control over how Chrome handles them, there are browser extensions available that can manage download behavior. One option worth considering is Tab Suspender Pro, which is designed to help manage browser resources and can also be configured to handle file downloads in specific ways. While it is primarily known for its tab management features, it includes options that give you more control over how Chrome handles different file types.
 
@@ -63,7 +63,7 @@ There are also other extensions specifically designed to force downloads instead
 
 When installing any extension, make sure to check the permissions it requests and only download from trusted developers. Most legitimate download helpers are safe, but it is always smart to be cautious.
 
-## What to Do If Nothing Works
+What to Do If Nothing Works
 
 Sometimes the issue is not with Chrome settings but with the website itself. Some websites are designed to open PDFs in a new window using their own viewer, and this behavior cannot be changed from your end. In these cases, the right-click Save link as method is usually your best option.
 
@@ -71,20 +71,20 @@ If you are using Chrome at work or school, your IT department might have policie
 
 Another thing to check is whether you have a PDF reader application installed on your computer. Sometimes having a default PDF viewer set in your operating system can affect how Chrome handles these files. You can check this in your computer's settings under Default Apps or Default Programs.
 
-## Keeping Chrome Updated
+Keeping Chrome Updated
 
 Finally, make sure you are running the latest version of Chrome. Google regularly updates the browser, and newer versions sometimes change how files are handled. An update might have changed your PDF settings without you noticing, or an older version might have a bug that causes this behavior.
 
-To check for updates, open Chrome and look for the three dots menu in the top right corner. Click on it, then go to **Help**, and select **About Google Chrome**. Chrome will check for updates and install them if any are available. Restart the browser after updating to make sure the changes take effect.
+To check for updates, open Chrome and look for the three dots menu in the top right corner. Click on it, then go to Help, and select About Google Chrome. Chrome will check for updates and install them if any are available. Restart the browser after updating to make sure the changes take effect.
 
-## Related Articles
+Related Articles
 * [Chrome Background Fetch for PWAs Explained](/articles/chrome-background-fetch-for-pwas-explained/)
 * [Chrome Navigation API for Single Page Apps: A Complete Guide](/articles/chrome-navigation-api-single-page-apps/)
 * [chrome coupons in address bar feature](/articles/chrome-coupons-in-address-bar-feature/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location)
 - [Chrome View Page Source: What It Tells You](/articles/chrome-view-page-source-what-it-tells-you)

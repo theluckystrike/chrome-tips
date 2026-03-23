@@ -12,7 +12,7 @@ author: theluckystrike
 
 Chrome extensions that steal passwords warning is something every browser user should take seriously. If you use Chrome and have installed extensions to help with productivity, shopping, or just to customize your browsing experience, you might be at risk without even knowing it. The good news is that you can protect yourself by understanding how these threats work and what steps to take.
 
-## Why Password-Stealing Extensions Are a Real Threat
+Why Password-Stealing Extensions Are a Real Threat
 
 Chrome extensions are incredibly useful tools that add features to your browser. They can block ads, save you money, help you organize tabs, and much more. However, extensions also have access to sensitive information in your browser, including the passwords you type into websites.
 
@@ -20,7 +20,7 @@ When you install an extension, it can request permission to access all websites 
 
 The Chrome Web Store does try to catch dangerous extensions before they reach users, but the system is not perfect. Some extensions slip through the review process, and others start out legitimate before being sold to bad actors who add password-stealing code later. This is why you cannot simply trust every extension in the store, even if it looks professional and has good reviews.
 
-## How These Extensions Steal Your Passwords
+How These Extensions Steal Your Passwords
 
 Understanding the methods these malicious extensions use can help you recognize warning signs and protect yourself.
 
@@ -32,7 +32,7 @@ Some extensions wait for you to log into a website and then capture the session 
 
 There are also extensions that create fake login forms or redirect you to lookalike websites. When you enter your credentials on these fake pages, the extension captures them and sends them to attackers. You might think you are on your bank website or social media page, but you are actually giving your password directly to criminals.
 
-## Warning Signs to Look For
+Warning Signs to Look For
 
 Being aware of warning signs can help you catch a malicious extension before it steals your passwords.
 
@@ -44,7 +44,7 @@ Watch for changes in your browser behavior after installing a new extension. If 
 
 Also pay attention to your browser performance. Some password-stealing extensions run constantly in the background, which can slow down your computer and cause your browser to use more memory than usual.
 
-## How to Check Your Extensions
+How to Check Your Extensions
 
 Regularly reviewing the extensions you have installed is one of the best ways to protect yourself.
 
@@ -54,7 +54,7 @@ For each extension you keep, check what permissions it has. Click on the extensi
 
 You should also check when each extension was last updated. Extensions that have not been updated in a long time may have security vulnerabilities that developers have not fixed. Look for alternatives that are actively maintained.
 
-## Steps to Protect Yourself
+Steps to Protect Yourself
 
 There are practical things you can do right now to reduce your risk of password theft through extensions.
 
@@ -72,7 +72,7 @@ Sixth, use two-factor authentication whenever possible. Even if an extension man
 
 Seventh, consider using an extension management tool to add extra protection. Tab Suspender Pro is one option that helps you control which extensions can run on which websites. It lets you pause or disable extensions easily and can help you identify extensions that are using more resources than expected. While it is not the only solution available, it gives you more control over what your extensions can access.
 
-## What to Do If You Think Your Password Was Stolen
+What to Do If You Think Your Password Was Stolen
 
 If you suspect an extension has stolen one of your passwords, act quickly.
 
@@ -90,9 +90,9 @@ Finally, keep an eye on your accounts in the following weeks. Attackers sometime
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome restricted mode youtube how to enable](/articles/chrome-restricted-mode-youtube-how-to-enable/)
 * [Chrome Topics API Guide](/articles/chrome-topics-api-guide/)
 * [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

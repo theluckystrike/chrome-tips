@@ -19,7 +19,7 @@ faq:
   - q: "What is the best JSON formatter extension for Chrome?"
     a: "The best JSON formatter extensions have high ratings and recent updates, since outdated formatters often break when Chrome updates its rendering engine. Look for extensions with over 100,000 users for more stable performance. Some work only on direct JSON URLs, while others handle JSON embedded in HTML pages or displayed in developer tools. Zovo offers reliable formatting with customizable colors and works across different JSON display contexts."
   - q: "Does Chrome have built-in JSON syntax highlighting?"
-    a: "No, Chrome doesn't include built-in JSON syntax highlighting—you'll need to install an extension from the Chrome Web Store. Chrome handles JSON files without crashing, but displays them as unformatted, uncolored text. Installing a JSON formatter transforms this into readable, color-coded structure with proper indentation, making it much easier to work with APIs and configuration files."
+    a: "No, Chrome doesn't include built-in JSON syntax highlighting, you'll need to install an extension from the Chrome Web Store. Chrome handles JSON files without crashing, but displays them as unformatted, uncolored text. Installing a JSON formatter transforms this into readable, color-coded structure with proper indentation, making it much easier to work with APIs and configuration files."
   - q: "How do I customize highlighting colors in a JSON Chrome extension?"
     a: "After installing your JSON formatter, click the puzzle piece icon in your toolbar, pin the extension, then right-click and select options to customize. Most extensions let you adjust highlighting colors and formatting preferences in their settings panel. You can typically change themes, indentation sizes, and color schemes to match your preferences. Extensions like Zovo provide intuitive customization interfaces for tailoring the visual presentation of your JSON data."
   - q: "Why does my JSON look like gibberish in Chrome?"
@@ -36,27 +36,27 @@ Last tested: March 2026 | Chrome latest stable
 > View your color-coded, properly indented JSON structure
 > Customize highlighting colors and formatting options in extension settings
 
-## Step-by-Step JSON Highlighting Setup
+Step-by-Step JSON Highlighting Setup
 
-### Install a JSON Formatting Extension
+Install a JSON Formatting Extension
 
-Chrome doesn't include built-in JSON syntax highlighting, so you'll need an extension. Open the Chrome Web Store by typing `chrome://extensions` in your address bar, then click **Open Chrome Web Store** in the bottom left corner. Search for "JSON formatter" and you'll see dozens of options with varying features and reliability.
+Chrome doesn't include built-in JSON syntax highlighting, so you'll need an extension. Open the Chrome Web Store by typing `chrome://extensions` in your address bar, then click Open Chrome Web Store in the bottom left corner. Search for "JSON formatter" and you'll see dozens of options with varying features and reliability.
 
 The most reliable extensions offer automatic detection when you visit JSON URLs. Look for extensions with high ratings and recent updates, since outdated formatters often break when Chrome updates its rendering engine. Extensions with over 100,000 users typically provide more stable performance than newer alternatives.
 
 Popular choices include formatters that handle both raw JSON files and API responses. Some extensions work only on direct JSON URLs, while others can format JSON content embedded within HTML pages or displayed in developer tools.
 
-### Configure Auto-Detection Settings  
+Configure Auto-Detection Settings  
 
 After installing your chosen extension, click the puzzle piece icon in your toolbar and pin the JSON formatter for easy access. Most extensions work automatically, but you might need to enable auto-formatting for JSON content types in the extension settings.
 
-Right-click on the extension icon and select **Options** or Settings. Enable automatic JSON detection if it isn't already active. Some extensions let you whitelist specific domains or file extensions for automatic formatting, which prevents conflicts with websites that have their own JSON rendering.
+Right-click on the extension icon and select Options or Settings. Enable automatic JSON detection if it isn't already active. Some extensions let you whitelist specific domains or file extensions for automatic formatting, which prevents conflicts with websites that have their own JSON rendering.
 
 Advanced settings often include options for handling large JSON files, setting maximum file sizes for automatic formatting, and configuring keyboard shortcuts for manual formatting triggers.
 
-### Test JSON Highlighting
+Test JSON Highlighting
 
-Visit any API endpoint that returns JSON data, or create a test file with `.json` extension. Open developer tools with **F12** (Windows) or Cmd+Option+I (Mac) and navigate to the Network tab. Trigger an API call and click on any response to see if syntax highlighting appears automatically.
+Visit any API endpoint that returns JSON data, or create a test file with `.json` extension. Open developer tools with F12 (Windows) or Cmd+Option+I (Mac) and navigate to the Network tab. Trigger an API call and click on any response to see if syntax highlighting appears automatically.
 
 You should see properly indented JSON with different colors for strings, numbers, booleans, and structural elements like brackets and braces. String values typically appear in green or blue, while property names show in a different color for easy distinction. Numbers and boolean values get their own color coding.
 
@@ -64,29 +64,29 @@ If the highlighting doesn't appear, refresh the page or check your extension set
 
 > "The JSON.parse() static method parses a JSON string, constructing the JavaScript value or object described by the string." ,  [JSON.parse() - JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
-### Customize Color Schemes
+Customize Color Schemes
 
-Most JSON formatters let you adjust syntax highlighting colors to match your preferences or development environment. Access extension settings through the toolbar icon or by visiting `chrome://extensions` and clicking **Details** on your JSON formatter.
+Most JSON formatters let you adjust syntax highlighting colors to match your preferences or development environment. Access extension settings through the toolbar icon or by visiting `chrome://extensions` and clicking Details on your JSON formatter.
 
 Common customization options include dark mode themes, high contrast colors for accessibility, and custom color palettes for different JSON elements. Some extensions sync these preferences across devices if you're signed into Chrome with the same account.
 
 Professional developers often configure colors to match their code editor themes, creating visual consistency between browser-based API testing and local development work.
 
-## Common Mistakes That Break JSON Highlighting
+Common Mistakes That Break JSON Highlighting
 
-### Installing Multiple JSON Extensions
+Installing Multiple JSON Extensions
 
 You download three different JSON formatters thinking more options equals better functionality. Multiple extensions often conflict with each other, causing none of them to work properly or creating duplicate formatting that makes JSON harder to read instead of clearer.
 
 Chrome can only process one extension's content script per page load for JSON formatting. When multiple formatters compete for the same content, they create rendering conflicts that break syntax highlighting entirely. Disable all but your preferred formatter to avoid these conflicts.
 
-### Ignoring Content-Type Headers
+Ignoring Content-Type Headers
 
 Your extension works perfectly on some websites but completely ignores JSON content on others. The issue isn't your extension settings but rather how different servers send JSON data to browsers with inconsistent HTTP headers.
 
 Extensions rely on proper `Content-Type: application/json` headers to trigger automatic formatting. If a server sends JSON with `text/plain` or `text/html` headers, most formatters won't activate automatically. Look for extensions that offer manual formatting buttons for these situations, or configure your extension to format content regardless of headers.
 
-### Expecting Formatting on Invalid JSON
+Expecting Formatting on Invalid JSON
 
 You visit a page with JSON-like content and wonder why your syntax highlighter shows everything in plain black text. Broken JSON syntax prevents proper parsing and highlighting, since formatters can't process malformed data structures.
 
@@ -94,19 +94,19 @@ You visit a page with JSON-like content and wonder why your syntax highlighter s
 
 Extensions can only highlight syntactically correct JSON. Check for common errors like single quotes around property names, trailing commas after the last object property, or unescaped characters that break the JSON specification.
 
-### Disabling Extensions in Incognito Mode
+Disabling Extensions in Incognito Mode
 
 Your JSON highlighting works perfectly in regular browsing but disappears completely when you switch to incognito mode for testing APIs with different authentication tokens or privacy requirements.
 
-Chrome disables all extensions by default in incognito mode for privacy reasons. Right-click your JSON formatter extension and select **Manage Extension**, then toggle **Allow in incognito** if you need formatting in private browsing sessions for development work.
+Chrome disables all extensions by default in incognito mode for privacy reasons. Right-click your JSON formatter extension and select Manage Extension, then toggle Allow in incognito if you need formatting in private browsing sessions for development work.
 
-## Skip the Manual Steps
+Skip the Manual Steps
 
 The manual installation method works reliably but requires you to research extensions, compare features, and configure settings across multiple tools. Each new Chrome installation means repeating this entire setup process from scratch.
 
-**JSON Formatter Pro** automates this workflow with version 1.0.4, earning a 4.8/5 rating for its automatic detection and zero-configuration approach. The 738KiB extension handles content-type detection, provides instant formatting, and syncs your preferences across devices without manual intervention.
+JSON Formatter Pro automates this workflow with version 1.0.4, earning a 4.8/5 rating for its automatic detection and zero-configuration approach. The 738KiB extension handles content-type detection, provides instant formatting, and syncs your preferences across devices without manual intervention.
 
-**[Try JSON Formatter Pro Free](https://zovo.one)**
+[Try JSON Formatter Pro Free](https://zovo.one)
 
 > "JSON is a text-based data format following JavaScript object syntax. Even though it closely resembles JavaScript object literal syntax, it can be used independently from JavaScript." ,  [Working with JSON - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
 

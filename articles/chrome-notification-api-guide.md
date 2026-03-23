@@ -25,7 +25,7 @@ The Chrome Notification API is a powerful tool that enables developers to engage
 
 This comprehensive guide will walk you through everything you need to know about the Chrome Notification API, from requesting permissions to implementing advanced features like notification actions and badges. By the end of this article, you will have the knowledge and practical examples needed to integrate notifications into your projects effectively.
 
-## Understanding the Chrome Notification API
+Understanding the Chrome Notification API
 
 The Chrome Notification API, part of the broader Web Notifications standard, provides a way for web pages and extensions to display system notifications to users. These notifications appear in the operating system's notification center, making them visible even when the browser is minimized or running in the background.
 
@@ -33,13 +33,13 @@ Chrome supports two distinct notification systems. The first is the Web Notifica
 
 For web developers, the Web Notifications API follows the W3C standard, making it compatible across different browsers. However, Chrome has extended this API with several useful features that give developers more control over notification behavior and appearance.
 
-For extension developers, the chrome.notifications API provides a more robust set of features, including support for notification actions, icons, and persistent notifications that can remain visible until the user dismisses them. This API does not require the same permission workflow as web notifications since users must explicitly grant permission to install an extension.
+For extension developers, the chrome.notifications API provides a more solid set of features, including support for notification actions, icons, and persistent notifications that can remain visible until the user dismisses them. This API does not require the same permission workflow as web notifications since users must explicitly grant permission to install an extension.
 
-## Requesting Notification Permissions
+Requesting Notification Permissions
 
 Before you can display any notifications to users, you must first request and obtain their permission. This is a critical step that respects user privacy and gives users control over which sites and extensions can send them notifications.
 
-### Requesting Permission on Web Pages
+Requesting Permission on Web Pages
 
 For web pages using the Web Notifications API, you request permission using the Notification.requestPermission() method. This method returns a Promise that resolves with the user's choice, which can be "granted", "denied", or "default".
 
@@ -70,7 +70,7 @@ document.getElementById('enable-notifications').addEventListener('click', reques
 
 It is important to note that browsers typically block notification permission requests that are not triggered by a user action, such as a click or tap. This prevents websites from spamming users with permission prompts when they first load a page. Always ensure your permission request is tied to a clear user action, like clicking a button to subscribe to notifications.
 
-### Checking Current Permission Status
+Checking Current Permission Status
 
 Before requesting permission, it is good practice to check the current permission status. This allows you to avoid showing redundant prompts to users who have already denied or granted permission:
 
@@ -97,7 +97,7 @@ if (currentPermission === 'granted') {
 }
 ```
 
-### Extension Permission Requirements
+Extension Permission Requirements
 
 For Chrome extensions, you need to declare the "notifications" permission in your manifest file. This permission is required regardless of whether you use the chrome.notifications API or the standard Web Notifications API within your extension:
 
@@ -114,11 +114,11 @@ For Chrome extensions, you need to declare the "notifications" permission in you
 
 Unlike web pages, extensions do not need to request runtime permission from users because installing the extension itself serves as consent. However, users can still disable notifications for specific extensions through Chrome's settings if they choose to do so.
 
-## Creating Basic Notifications
+Creating Basic Notifications
 
 Once you have obtained the necessary permissions, you can start creating notifications. The implementation differs slightly between web pages and extensions.
 
-### Creating Notifications on Web Pages
+Creating Notifications on Web Pages
 
 For web pages, you create notifications using the Notification constructor:
 
@@ -157,7 +157,7 @@ showNotification('New Message', {
 
 The Notification constructor accepts a title string and an options object that can include properties like body for the main text, icon for a small image displayed with the notification, badge for a small image shown when notifications accumulate, tag for grouping similar notifications, and requireInteraction to keep the notification visible until the user interacts with it.
 
-### Creating Notifications in Extensions
+Creating Notifications in Extensions
 
 For Chrome extensions using the chrome.notifications API, the creation process is slightly different:
 
@@ -186,11 +186,11 @@ function showExtensionNotification() {
 
 The chrome.notifications API supports several notification types including basic for simple text and icon notifications, image for notifications with a larger image, list for notifications with multiple items, and progress for notifications showing a progress bar.
 
-## Implementing Notification Actions
+Implementing Notification Actions
 
 Notification actions allow users to interact with notifications without opening your website or extension. This feature significantly enhances user engagement by enabling quick responses directly from the notification itself.
 
-### Actions in Web Notifications
+Actions in Web Notifications
 
 The Web Notifications API supports basic actions through the actions property in the notification options:
 
@@ -229,7 +229,7 @@ notificationWithActions.addEventListener('close', function() {
 
 Note that Chrome limits the number of actions you can display to three. If you specify more than three actions, Chrome will only show the first three. Additionally, the appearance of actions may vary across different operating systems.
 
-### Actions in Extension Notifications
+Actions in Extension Notifications
 
 Chrome extensions have more flexibility with notification actions through the chrome.notifications API:
 
@@ -293,11 +293,11 @@ chrome.notifications.onButtonClicked.addListener(function(notificationId, button
 });
 ```
 
-## Using Badges for Visual Indicators
+Using Badges for Visual Indicators
 
 Badges provide a lightweight way to show users that there is something new or important without interrupting them with a full notification. Chrome supports badges in several contexts, including extension icons and tab indicators.
 
-### Extension Icon Badges
+Extension Icon Badges
 
 Chrome extensions can display a badge on their toolbar icon to indicate status or attract attention:
 
@@ -327,7 +327,7 @@ Here is a more advanced example showing different badge states:
 function setBadgeState(state, count) {
   const states = {
     'unread': { color: '#E74C3C', text: count > 99 ? '99+' : count.toString() },
-    'success': { color: '#27AE60', text: '✓' },
+    'success': { color: '#27AE60', text: '' },
     'warning': { color: '#F39C12', text: '!' },
     'info': { color: '#3498DB', text: 'i' },
     'clear': { color: '#000000', text: '' }
@@ -345,7 +345,7 @@ setBadgeState('warning', 0);    // Orange exclamation
 setBadgeState('clear', 0);      // Clear the badge
 ```
 
-### Tab Badges Indicators
+Tab Badges Indicators
 
 You can also use badges to indicate information about specific tabs:
 
@@ -353,7 +353,7 @@ You can also use badges to indicate information about specific tabs:
 // Set badge for a specific tab
 function setTabBadge(tabId, hasUnread) {
   if (hasUnread) {
-    chrome.action.setBadgeText({ text: '●', tabId: tabId });
+    chrome.action.setBadgeText({ text: '', tabId: tabId });
     chrome.action.setBadgeBackgroundColor({ color: '#E74C3C', tabId: tabId });
   } else {
     chrome.action.setBadgeText({ text: '', tabId: tabId });
@@ -368,11 +368,11 @@ chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
 });
 ```
 
-## Push Notifications for Real-Time Updates
+Push Notifications for Real-Time Updates
 
 Push notifications enable you to send messages to users even when your website is not open. This is particularly valuable for maintaining user engagement and delivering timely information.
 
-### How Push Notifications Work
+How Push Notifications Work
 
 Push notifications in Chrome rely on the Push API, which is built on top of the Service Worker API. When a user grants permission for push notifications, your website can subscribe to push events. The subscription includes an endpoint that your server can use to send push messages to the user.
 
@@ -446,7 +446,7 @@ self.addEventListener('notificationclick', function(event) {
 });
 ```
 
-### Considerations for Push Notifications
+Considerations for Push Notifications
 
 When implementing push notifications, there are several important considerations to keep in mind.
 
@@ -458,7 +458,7 @@ Third, userVisibleOnly must be set to true in the subscription options. This ens
 
 Fourth, push notifications do not work when the browser is completely closed on some platforms. They work when the browser is running in the background, which is typically sufficient for most use cases.
 
-## Best Practices for Notification Design
+Best Practices for Notification Design
 
 Creating effective notifications requires more than just technical implementation. Following best practices ensures that your notifications are useful rather than annoying.
 
@@ -470,7 +470,7 @@ Respect user preferences. If users choose to disable notifications, respect that
 
 Test across platforms. Notifications may appear differently on Windows, macOS, and Linux. Test your notifications on all target platforms to ensure they look and function correctly.
 
-## Practical Example: Building a Notification System
+Practical Example: Building a Notification System
 
 Let me walk you through a complete example of building a notification system for a web application:
 
@@ -561,15 +561,15 @@ async function setupNotifications() {
 
 This NotificationManager class provides a clean interface for managing notifications in your application, handling permission requests, and tracking active notifications.
 
-## Managing Tab Resources with Notifications
+Managing Tab Resources with Notifications
 
 If you build extensions that deal with multiple tabs or need to manage browser resources efficiently, combining notifications with other Chrome APIs can create powerful user experiences.
 
-For example, **Tab Suspender Pro** demonstrates excellent use of Chrome's notification and badge APIs. This extension automatically suspends inactive tabs to save memory and can notify users when tabs are suspended or when there are issues that require attention. It uses badges to show resource savings and notifications to keep users informed about background activities.
+For example, Tab Suspender Pro demonstrates excellent use of Chrome's notification and badge APIs. This extension automatically suspends inactive tabs to save memory and can notify users when tabs are suspended or when there are issues that require attention. It uses badges to show resource savings and notifications to keep users informed about background activities.
 
-When implementing notifications in your own extensions, consider how they can work alongside other Chrome APIs to provide a seamless user experience. Notifications are most effective when they provide genuine value rather than simply alerting users to events.
+When implementing notifications in your own extensions, consider how they can work alongside other Chrome APIs to provide a smooth user experience. Notifications are most effective when they provide genuine value rather than simply alerting users to events.
 
-## Summary
+Summary
 
 The Chrome Notification API provides a versatile set of tools for engaging users through system notifications. Whether you are building a web application or a Chrome extension, understanding how to request permissions, create notifications, implement actions, and use badges effectively is essential for creating engaging user experiences.
 
@@ -577,14 +577,14 @@ Remember to always respect user privacy by only requesting permissions when need
 
 With this knowledge, you are now equipped to implement powerful notification systems that keep users informed and engaged without being intrusive. Start small, iterate based on user feedback, and continuously improve your notification strategy.
 
-## Related Articles
+Related Articles
 * [Chrome ERR_INTERNET_DISCONNECTED But Internet Works Fix](/articles/chrome-err-internet-disconnected-but-internet-works-fix/)
 * [Chrome Two Factor Authentication Setup Guide](/articles/chrome-two-factor-authentication-setup-guide/)
 * [Chrome Extension for Blocking Social Media During Work](/articles/chrome-extension-for-blocking-social-media-during-work/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords)
 - [Chrome Memory Leak Fix for 2026](/articles/chrome-memory-leak-fix-2026)

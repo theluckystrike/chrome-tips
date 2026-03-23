@@ -22,13 +22,13 @@ author: theluckystrike
 
 When users interact with your website, they expect instant feedback. Click a button, and it should respond immediately. Type in a search box, and characters should appear without lag. Unfortunately, many websites fail to deliver this smooth experience, leaving users frustrated. The Chrome Event Timing API provides a powerful way to measure exactly how much delay exists between user actions and browser responses.
 
-## Understanding Input Delay
+Understanding Input Delay
 
 Input delay refers to the time gap between a user performing an action and seeing the result on screen. This delay happens because the browser needs to process the event, run any associated JavaScript, and then paint the updated interface. When this process takes too long, users perceive the website as slow or unresponsive.
 
 Google's research shows that delays as short as 100 milliseconds can make users feel that a website is sluggish. At 300 milliseconds, users actively notice the lag. This is why measuring and minimizing input delay is critical for creating websites that feel fast and polished.
 
-## Getting Started with the Event Timing API
+Getting Started with the Event Timing API
 
 The Event Timing API is built into Chrome and other Chromium-based browsers. It allows you to measure the performance of various user interaction events directly from your JavaScript code. The API provides access to detailed timing information for events like clicks, key presses, and scroll operations.
 
@@ -51,7 +51,7 @@ observer.observe({ type: 'event', buffered: true });
 
 This code creates a performance observer that watches for event timing entries. When an event occurs, it logs the event name and calculates the input delay by comparing when the event was dispatched to when processing began.
 
-## Measuring Different Types of Input Delay
+Measuring Different Types of Input Delay
 
 The Event Timing API can measure several distinct types of delay. Understanding these differences helps you identify specific performance problems in your website.
 
@@ -78,7 +78,7 @@ const observer = new PerformanceObserver((list) => {
 observer.observe({ type: 'event', buffered: true });
 ```
 
-## Real-World Implementation Tips
+Real-World Implementation Tips
 
 When implementing the Event Timing API in production, there are several practical considerations to keep in mind. First, you should filter for events that actually matter to your users. Measuring every single event can generate overwhelming amounts of data, so focus on key interactions like button clicks, form submissions, and navigation triggers.
 
@@ -95,7 +95,7 @@ if ('PerformanceObserver' in window) {
 }
 ```
 
-## Improving Responsiveness Based on Measurements
+Improving Responsiveness Based on Measurements
 
 Once you start measuring input delay, you will likely discover areas where your website can improve. Common causes of excessive delay include heavy JavaScript execution on the main thread, layout thrashing from reading and writing DOM properties repeatedly, and expensive style calculations on complex pages.
 
@@ -105,7 +105,7 @@ Another approach is to use CSS transforms and animations instead of JavaScript-b
 
 You should also audit your event handlers to ensure they are not doing more work than necessary. Sometimes simple optimizations, like debouncing input handlers or using event delegation, can dramatically reduce input delay.
 
-## Using Performance Data Effectively
+Using Performance Data Effectively
 
 Collecting performance data is only valuable when you use it to make improvements. Consider setting up a dashboard that tracks input delay metrics over time. This helps you catch regressions early and measure the impact of optimizations.
 
@@ -113,7 +113,7 @@ You can also correlate input delay data with other metrics like page load time, 
 
 For teams working on performance, consider making input delay part of your performance budget. Setting targets like "95% of click events should have less than 50ms input delay" gives everyone a clear goal to work toward.
 
-## Managing Browser Resources
+Managing Browser Resources
 
 While optimizing your website's responsiveness, remember that users often have many tabs open simultaneously. Each tab consumes memory and processing power, which can increase input delay across all pages. Encouraging users to keep only necessary tabs open helps, but you cannot control their behavior directly.
 
@@ -123,16 +123,16 @@ By understanding how to measure input delay and taking steps to minimize it, you
 
 ---
 
-## Related Articles
+Related Articles
 - [Chrome Event Timing API Explained](/chrome-event-timing-api-explained/)
 - [Chrome Navigation Timing API Explained](/chrome-navigation-timing-api-explained/)
 - [Chrome User Timing API Explained](/chrome-user-timing-api-explained/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained/)
 * [Chrome Performance Observer API Guide](/articles/chrome-performance-observer-api-guide/)
 * [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api-explained/)

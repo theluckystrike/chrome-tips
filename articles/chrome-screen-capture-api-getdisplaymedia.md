@@ -23,7 +23,7 @@ author: theluckystrike
 
 Chrome's Screen Capture API, powered by the `getDisplayMedia()` method, has transformed how web developers build recording and sharing features directly in the browser. This powerful API enables users to capture their screen, application windows, or individual browser tabs without installing additional software. Understanding how to implement this API opens up possibilities for creating screenshots, video recordings, screen sharing in video calls, and collaborative tools.
 
-## How getDisplayMedia Works
+How getDisplayMedia Works
 
 The `getDisplayMedia()` method is part of the Media Capture and Streams API (MediaStream API). When you call this method in Chrome, the browser displays a native picker dialog where users can choose what they want to share. Users can select their entire screen, a specific application window, or a browser tab. This user-controlled selection ensures privacy and prevents unintended screen capture.
 
@@ -47,7 +47,7 @@ async function startScreenCapture() {
 }
 ```
 
-## Key Configuration Options
+Key Configuration Options
 
 Chrome provides several configuration options to control what users can share and how the capture behaves. The `video` property lets you specify preferences for the captured video. You can set `displaySurface` to `"monitor"` for full screen, `"window"` for application windows, or `"browser"` for browser tabs specifically.
 
@@ -55,7 +55,7 @@ The `selfBrowserSurface` option, when set to `"include"`, allows users to captur
 
 For audio capture, you can include `audio: true` in your constraints to capture system audio (on Windows) or tab audio (on Chrome OS and macOS). However, not all systems support audio capture, so you should always handle cases where audio tracks might be missing from the returned stream.
 
-## Handling Permissions and User Experience
+Handling Permissions and User Experience
 
 When your code calls `getDisplayMedia()`, Chrome prompts users with a permission dialog explaining what your application wants to capture. Users must explicitly grant permission, and they can choose to share only specific content rather than their entire screen. This built-in privacy protection means your application cannot capture anything without user consent.
 
@@ -63,7 +63,7 @@ You should provide clear instructions to users before initiating capture. Explai
 
 If a user denies permission, the Promise returned by `getDisplayMedia()` rejects with a `NotAllowedError`. Your code should handle this gracefully by showing a helpful message rather than failing silently.
 
-## Recording Captured Content
+Recording Captured Content
 
 Once you have a MediaStream from `getDisplayMedia()`, you can use the MediaRecorder API to create video recordings. The MediaRecorder takes your stream and encodes it into a video file format that you can download or upload to a server.
 
@@ -102,27 +102,27 @@ function recordStream(stream) {
 
 The MediaRecorder supports different MIME types depending on the browser. Chrome supports `video/webm` with various codecs including VP8, VP9, and AV1. For broader compatibility, you can check available MIME types using `MediaRecorder.isTypeSupported()`.
 
-## Practical Applications
+Practical Applications
 
 Screen capture functionality powered by getDisplayMedia serves many practical purposes. Developers can build screenshot tools that let users capture and annotate their screens. Online education platforms can enable teachers to record their demonstrations. Support teams can use screen sharing for remote assistance. Content creators can record tutorials and walkthroughs directly in the browser.
 
-One thing to consider is that running screen capture alongside other browser activities can increase memory usage. If you work with many open tabs, a tool like **Tab Suspender Pro** can help manage resource consumption by temporarily suspending inactive tabs while you focus on your capture session.
+One thing to consider is that running screen capture alongside other browser activities can increase memory usage. If you work with many open tabs, a tool like Tab Suspender Pro can help manage resource consumption by temporarily suspending inactive tabs while you focus on your capture session.
 
-## Browser Compatibility
+Browser Compatibility
 
 While Chrome was one of the first browsers to implement `getDisplayMedia()`, the API is now supported in Firefox, Edge, Safari, and other Chromium-based browsers. However, there are differences in available options and behavior across browsers. Firefox supports the core functionality but may have different default behaviors. Safari added support more recently and continues to expand its implementation.
 
 When building cross-browser applications, test your implementation thoroughly in each target browser and provide fallback experiences for users on unsupported platforms.
 
-## Best Practices
+Best Practices
 
 Always listen for the `track` event on your stream to detect when the user stops sharing through the browser's built-in controls. When this happens, the video tracks in your stream will end, and you should clean up any recording or processing you were performing.
 
 Remember that screen capture can be resource-intensive. Avoid capturing at unnecessarily high resolutions, and stop capture streams when you no longer need them to free up system resources.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Best Screenshot Chrome Extension](best-screenshot-chrome-extension)
 - [Chrome Accessibility Screen Reader Support](chrome-accessibility-screen-reader-support)

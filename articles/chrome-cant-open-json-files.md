@@ -19,32 +19,32 @@ Chrome blocks local JSON files by default because its same-origin security polic
 
 Last tested: March 2026, Chrome 123 stable.
 
-> **Quick fix:** On Windows, open Command Prompt and run `chrome.exe --allow-file-access-from-files`. On Mac, run `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --allow-file-access-from-files` in Terminal. Drag your JSON file into the browser window that opens.
+> Quick fix: On Windows, open Command Prompt and run `chrome.exe --allow-file-access-from-files`. On Mac, run `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --allow-file-access-from-files` in Terminal. Drag your JSON file into the browser window that opens.
 
-## Why Chrome Can't Open JSON Files
+Why Chrome Can't Open JSON Files
 
-### The Same-Origin Policy Blocks Local File Scripts
+The Same-Origin Policy Blocks Local File Scripts
 
 Chrome treats every file opened via a `file://` URL as its own origin. The same-origin policy prohibits `file://` pages from loading external resources or running extension scripts without explicit permission. This is intentional: a malicious JSON file opened locally should not be able to access your other local files or contact external servers. Unfortunately this same restriction prevents the formatting scripts that JSON viewer extensions inject from running on local files.
 
 > "JSON.parse() constructs the JavaScript value or object described by a JSON string. Local file access restrictions affect how extensions can interact with JSON files opened via file:// protocol."
 > [JSON.parse() - JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
-### Chrome Does Not Recognize .json Files as Structured Data
+Chrome Does Not Recognize .json Files as Structured Data
 
 Chrome's MIME type recognition for local files depends on the operating system's file association database. Most systems register `.json` files as `text/plain`, which tells Chrome to render them as unformatted text. Chrome's built-in JSON viewer activates only when the Content-Type header explicitly signals `application/json` or `text/json`, which HTTP servers send but local file access does not.
 
-### Extension Permissions Are Not Granted for Local Files by Default
+Extension Permissions Are Not Granted for Local Files by Default
 
 JSON formatter extensions request permission to run on `http://` and `https://` URLs during installation. Permission to access `file://` URLs requires a separate explicit grant that users must enable manually in the extension settings. Even after installing a JSON extension, it will not apply to local files until this permission is toggled on, which Chrome does not prompt for during installation.
 
-### Large Files Exceed Chrome's Rendering Threshold
+Large Files Exceed Chrome's Rendering Threshold
 
 Chrome automatically switches to plain-text rendering for files exceeding 5 MB to prevent tab crashes. Very large JSON files from database exports or complex API response captures hit this ceiling and display as unformatted text regardless of any installed extensions.
 
-## Step-by-Step Fixes
+Step-by-Step Fixes
 
-### Fix 1: Grant Your JSON Extension Permission to Access Local Files
+Fix 1: Grant Your JSON Extension Permission to Access Local Files
 
 If you already have a JSON formatter extension installed:
 
@@ -56,7 +56,7 @@ If you already have a JSON formatter extension installed:
 
 This is the single most commonly missed step. Most developers install a JSON extension and assume it works on local files automatically, but Chrome requires this separate grant.
 
-### Fix 2: Launch Chrome With Local File Access Enabled
+Fix 2: Launch Chrome With Local File Access Enabled
 
 For a temporary session where you need to open multiple local JSON files:
 
@@ -71,9 +71,9 @@ On Linux, run:
 
 This flag enables the full extension scripting pipeline for `file://` URLs in that Chrome session. Your JSON formatter extension will apply its formatting automatically when you drag or open a local file.
 
-Note: Chrome does not retain this flag between sessions. You must relaunch with the flag each time you need this capability.
+Chrome does not retain this flag between sessions. You must relaunch with the flag each time you need this capability.
 
-### Fix 3: Use Chrome's data: URL as a Quick Viewer
+Fix 3: Use Chrome's data: URL as a Quick Viewer
 
 For small JSON files where you just need to verify the structure:
 
@@ -88,7 +88,7 @@ Chrome renders `data:application/json` URLs with its built-in viewer, providing 
 > "Working with JSON in web development requires understanding MIME types. The correct type for JSON content is application/json, which triggers Chrome's structured display."
 > [Working with JSON - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
 
-### Fix 4: Install and Configure a Dedicated JSON Extension
+Fix 4: Install and Configure a Dedicated JSON Extension
 
 The most practical long-term solution for developers:
 
@@ -99,7 +99,7 @@ The most practical long-term solution for developers:
 
 The extension auto-detects JSON content by inspecting the response body before Chrome renders it, applying formatting regardless of Content-Type headers. This covers both local files (with the permission enabled) and API responses served with incorrect MIME types.
 
-### Fix 5: Open JSON Files in Chrome DevTools Instead
+Fix 5: Open JSON Files in Chrome DevTools Instead
 
 For JSON responses from API calls (not local files):
 
@@ -111,7 +111,7 @@ For JSON responses from API calls (not local files):
 
 The Preview tab formats JSON with collapsible sections regardless of Content-Type headers. This works for files up to 10 MB and requires no extensions or flags. It does not work for locally opened files.
 
-## Quick Fix Summary
+Quick Fix Summary
 
 | Scenario | Best Fix | Persistent After Restart |
 |---|---|---|
@@ -121,32 +121,32 @@ The Preview tab formats JSON with collapsible sections regardless of Content-Typ
 | Daily development JSON viewing | JSON Formatter Pro with file access enabled | Yes |
 | API response formatting | DevTools Network > Preview tab | No setup needed |
 
-## When to Try Alternative Solutions
+When to Try Alternative Solutions
 
 The flag-based approach is inconvenient for daily development workflows. If you open JSON files regularly, the investment in setting up JSON Formatter Pro correctly (including the file-access permission) saves significant time. The extension also handles cases the flag does not: API responses with wrong Content-Type headers, very large files that the DevTools Preview handles better than raw Chrome, and malformed JSON where visual error highlighting speeds up debugging.
 
 JSON Formatter Pro weighs 738 KiB, earns a 4.8/5 rating, and received its most recent update on March 2, 2026. It handles files up to 10 MB with tree-view navigation, syntax highlighting, error markers for invalid JSON, and one-click minify/prettify toggling. The extension's local processing means no JSON data leaves your machine, which matters when working with internal API payloads.
 
-**[Try JSON Formatter Pro Free at zovo.one](https://zovo.one)**
+[Try JSON Formatter Pro Free at zovo.one](https://zovo.one)
 
-## FAQ
+FAQ
 
-### Does Chrome support JSON natively?
+Does Chrome support JSON natively?
 
 Chrome has a basic built-in JSON viewer that activates when it receives content with an `application/json` Content-Type header. It provides collapsible nodes and syntax coloring for small files. Local `.json` files do not trigger this viewer because the file protocol does not send MIME headers. Extensions provide the consistent experience that Chrome's native viewer cannot.
 
-### Why do some local JSON files display fine but others do not?
+Why do some local JSON files display fine but others do not?
 
 Files under roughly 5 MB with simple nesting usually display as readable raw text, which Chrome renders without errors even if it is unformatted. Files above 5 MB or with deep nesting cause Chrome to switch to a truncated plain-text view or crash the tab. Also, if you previously opened the file before granting your extension file access, closing and reopening after granting the permission fixes the display.
 
-### Is it safe to run Chrome with the --allow-file-access-from-files flag?
+Is it safe to run Chrome with the --allow-file-access-from-files flag?
 
 For development purposes on your own machine, yes. The flag expands local file access only for the current Chrome session and only for the scripts Chrome loads in that session. Avoid using it as your default Chrome launch setting since it would allow any locally opened HTML file to read your other local files, which is a potential security risk.
 
-### Can I view JSON files in Chrome without any extensions at all?
+Can I view JSON files in Chrome without any extensions at all?
 
 Yes, for files accessible via HTTP URLs (API endpoints, file servers). Chrome's built-in viewer handles those. For local files from your filesystem, the only extension-free option is the `data:application/json,` URL trick for small files or DevTools for network requests.
 
 ---
 
-Built by Michael Lip — More tips at [zovo.one](https://zovo.one)
+Built by Michael Lip. More tips at [zovo.one](https://zovo.one)

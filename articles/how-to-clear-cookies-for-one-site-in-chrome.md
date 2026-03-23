@@ -16,7 +16,7 @@ author: theluckystrike
 
 If you are searching for how to clear cookies for one site in Chrome, you probably have a specific website that is not behaving properly. Maybe you cannot log in, the page looks broken, or the site keeps showing old information. You do not need to clear all your browser data just to fix one website. Chrome lets you target individual sites and remove only their cookies, which is exactly what you need when one page is causing problems but everything else works fine.
 
-## Why Cookies Sometimes Cause Problems
+Why Cookies Sometimes Cause Problems
 
 Cookies are small pieces of data that websites store on your browser. They serve useful purposes, like keeping you logged in, remembering what you added to your shopping cart, or saving your preferences for future visits. Without cookies, you would have to sign in to every website every single time you click a link.
 
@@ -26,7 +26,7 @@ Sometimes a website simply accumulates too many cookies over time, which can tak
 
 The good news is that you do not have to delete all your cookies to fix these issues. Chrome provides a way to remove cookies for just one site at a time, leaving your other saved logins and preferences intact.
 
-## Using Chrome Settings to Clear Cookies for One Site
+Using Chrome Settings to Clear Cookies for One Site
 
 The most reliable way to clear cookies for a specific website is through Chrome settings. Here is what to do.
 
@@ -40,7 +40,7 @@ Once you see the website in the list, click on it. A new window will open showin
 
 After you click the trash can, the window will close and you will return to the list. You can now close the settings and revisit the website. It will load as if you are visiting for the first time, which means you might need to sign in again, but the problems you were experiencing should be resolved.
 
-## A Faster Method Using the Address Bar
+A Faster Method Using the Address Bar
 
 If you already have the problematic website open, there is a quicker way to clear its cookies. Look at the left side of the address bar at the top of Chrome. You will see a lock icon, a warning icon, or an information icon, depending on the website.
 
@@ -48,7 +48,7 @@ Click on that icon. A small popup will appear showing information about the site
 
 Click on that option, and you will be taken directly to a page showing only that website's cookies. From there, you can delete them with a single click. This method is faster because you do not have to navigate through the full Settings menu.
 
-## What Happens After You Clear the Cookies
+What Happens After You Clear the Cookies
 
 Once you delete cookies for a specific website, that site will behave as though you have never visited it before. You will need to sign in again if you had an account. Any preferences you had set, such as language choices, display settings, or saved items, will be reset to the defaults.
 
@@ -56,7 +56,7 @@ This might seem inconvenient, but it often solves the problems you were experien
 
 If you find that the same website causes problems again after a few weeks or months, you can repeat this process whenever needed. It is a quick fix that takes less than a minute once you know where to look.
 
-## Managing Your Browser for Better Performance
+Managing Your Browser for Better Performance
 
 Clearing cookies for one site is useful when specific pages act up, but another common cause of browser issues is having too many tabs open. Each open tab uses memory and processing power, even when you are not looking at it. Over time, this can slow down Chrome and make your computer feel sluggish.
 
@@ -64,7 +64,7 @@ If you often keep many tabs open for later reading or reference, consider using 
 
 Tab Suspender Pro is particularly helpful if you like to keep dozens of tabs bookmarked for research or inspiration. It lets you focus on the tabs you are using right now while keeping your other tabs available in the background without using up your computer's resources.
 
-## Keeping Your Browser Running Smoothly
+Keeping Your Browser Running Smoothly
 
 Learning how to clear cookies for one site in Chrome is a valuable skill that can save you time and frustration. Instead of clearing your entire browsing history and losing all your saved logins, you can target just the website that is causing problems.
 
@@ -72,7 +72,7 @@ Next time a specific site will not load properly or keeps asking you to sign in,
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [How to Fix Chrome High CPU Usage When Gaming](/articles/how-to-fix-chrome-high-cpu-usage-gaming/)
 * [Chrome Extensions for YouTube Thumbnail Preview](/articles/chrome-extensions-for-youtube-thumbnail-preview/)
 * [Chrome Extensions for Translation Real Time](/articles/chrome-extensions-for-translation-real-time/)

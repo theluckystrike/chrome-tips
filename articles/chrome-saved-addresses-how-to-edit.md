@@ -22,7 +22,7 @@ last_modified_at: '2026-03-12'
 
 Knowing how to edit saved addresses in Chrome is something many people need to figure out when they move, get a new address, or notice a typo in their saved information. Chrome's address autofill feature stores your shipping and billing addresses so you don't have to type them every time you buy something online or fill out a form. This is incredibly convenient, but it can become confusing when you need to change an old address or update incorrect information. The good news is that Chrome makes it relatively easy to find and edit your saved addresses, though the process isn't always obvious at first glance.
 
-## Why You Might Need to Edit Saved Addresses
+Why You Might Need to Edit Saved Addresses
 
 There are several situations where you will need to edit your saved addresses in Chrome. Perhaps you have moved to a new home and need to update your shipping address. Maybe you accidentally saved a wrong address when filling out a form in a hurry. You might have a work address saved that has changed, or you could have saved an older address that you no longer use but never got around to removing or updating.
 
@@ -30,7 +30,7 @@ Chrome stores these addresses to make your online life easier, but without knowi
 
 Another reason to edit your addresses is to clean up duplicates. If Chrome has saved the same address multiple times with slight variations, you might see multiple suggestions when you start typing in an address field. Editing these to have consistent labels and information can make your autofill experience much smoother.
 
-## Where to Find Your Saved Addresses
+Where to Find Your Saved Addresses
 
 To edit your saved addresses, you need to know where Chrome stores them. Start by opening Chrome on your computer and looking at the top right corner of the browser window. You will see three dots arranged vertically. Click on these dots to open the Chrome menu.
 
@@ -40,7 +40,7 @@ You should see several options including Passwords, Payment methods, and Address
 
 If you are signed into your Google Account, your addresses may also be synced with your Google Account, meaning they appear on other devices where you use the same account. This is helpful for keeping your information consistent across your computer, phone, and tablet.
 
-## How to Edit an Existing Address
+How to Edit an Existing Address
 
 Once you are on the addresses page in Chrome settings, you can see all your saved addresses listed. Find the address you want to edit and click on it. The address details will expand to show all the information Chrome has stored, including your name, street address, apartment number, city, state, postal code, and phone number.
 
@@ -50,7 +50,7 @@ After making your changes, look for a button to save or confirm your edits. This
 
 If you have multiple addresses saved and want to change which one appears first in the autofill suggestions, you can look for an option to set a default or primary address. Chrome typically uses the most recently used address by default, but you can change this preference in your settings.
 
-## Adding a New Address
+Adding a New Address
 
 Sometimes instead of editing an existing address, you need to add a completely new address. On the addresses page in Chrome settings, look for a button that says Add address or Add new address. Click on this button to open a form where you can enter your new address information.
 
@@ -60,7 +60,7 @@ Adding a label is particularly useful if you have multiple addresses saved. It m
 
 The new address will now be available for autofill on any website with address fields. If you use Chrome on multiple devices and are signed into the same Google Account, the new address will sync to your other devices automatically.
 
-## Deleting Addresses You No longer Need
+Deleting Addresses You No longer Need
 
 Sometimes you do not need to edit an address so much as remove it entirely. Perhaps you have an old address for a place you no longer live, or maybe you saved someone else's address by mistake. On the addresses page in Chrome settings, find the address you want to delete.
 
@@ -68,7 +68,7 @@ Hover over the address or click on it to reveal the available options. You shoul
 
 Once you confirm the deletion, the address will be removed from your saved list. Keep in mind that if you need this address again in the future, you will have to enter it manually or add it again through the autofill process. If you think you might need the address later, consider editing it instead of deleting it completely.
 
-## Troubleshooting When Editing Does Not Work
+Troubleshooting When Editing Does Not Work
 
 Sometimes you might encounter issues when trying to edit your saved addresses. Perhaps the edit button does not respond, or your changes do not seem to save properly. These issues can usually be resolved with some basic troubleshooting.
 
@@ -78,15 +78,15 @@ If you are using extensions that manage forms or passwords, they might be interf
 
 Another issue could be related to your Google Account sync. If you are signed into Chrome with a Google Account, make sure sync is turned on and working properly. Sometimes sync issues can cause changes not to save properly across your devices. Check your sync status in Chrome settings under You and Google.
 
-## Keeping Your Browser Running Smoothly
+Keeping Your Browser Running Smoothly
 
-Managing your **autofill settings** is just one part of maintaining a healthy browser. If you find that Chrome lags when opening the **Settings** menu or taking you to the **Addresses and more** page, it's likely due to high **memory usage**.
+Managing your autofill settings is just one part of maintaining a healthy browser. If you find that Chrome lags when opening the Settings menu or taking you to the Addresses and more page, it's likely due to high memory usage.
 
-Using **Tab Suspender Pro** helps by automatically "hibernating" background tabs that are eating up your **RAM**. This ensures that Chrome has the resources it needs to handle **syncing** and **autofill database** updates without stuttering. A lean browser makes it much easier to jump into your settings, fix a typo in your **saved address**, and get back to your shopping or research.
+Using Tab Suspender Pro helps by automatically "hibernating" background tabs that are eating up your RAM. This ensures that Chrome has the resources it needs to handle syncing and autofill database updates without stuttering. A lean browser makes it much easier to jump into your settings, fix a typo in your saved address, and get back to your shopping or research.
 
-## Related Articles
+Related Articles
 * [Chrome for Managing Saved Addresses](/articles/chrome-for-managing-saved-addresses/)
 * [How to Block Ads on Chrome Without Extension](/articles/how-to-block-ads-on-chrome-without-extension/)
 * [Chrome Wappalyzer Alternative Built In](/articles/chrome-wappalyzer-alternative-built-in/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

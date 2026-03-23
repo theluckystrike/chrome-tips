@@ -16,7 +16,7 @@ author: theluckystrike
 
 If you are searching for how to make chrome default browser mac, you probably installed Chrome on your Mac but noticed that links still open in Safari. This is a common issue that frustrates many Mac users who prefer Chrome over Safari. The good news is that setting Chrome as your default browser on Mac takes just a few moments once you know where to find the setting.
 
-## Why Links Keep Opening in Safari
+Why Links Keep Opening in Safari
 
 When you install Chrome on a Mac, it does not automatically become your default browser. Apple configures Safari as the default browser on all Macs out of the box, and this setting persists even after you install other browsers. Every time you click a link in Mail, Messages, Notes, or any other application, macOS checks which browser you have marked as default and opens the link there.
 
@@ -24,7 +24,7 @@ The reason this happens is that macOS stores a single default browser setting th
 
 This can create a fragmented experience where some links open in Chrome and others in Safari. You might find yourself switching between browsers constantly, losing track of where you started a task. For users who have synced their Chrome data across devices, having a different browser open links can interrupt their workflow and cause confusion about which browser contains their open tabs and bookmarks.
 
-## Making Chrome Your Default Browser Through System Settings
+Making Chrome Your Default Browser Through System Settings
 
 The most reliable way to make Chrome your default browser is through macOS System Settings. This method works regardless of which version of macOS you are running, though the exact path to the setting may vary slightly.
 
@@ -34,7 +34,7 @@ Once you select Chrome, macOS will immediately update your default browser setti
 
 If you are using an older version of macOS, the path might be slightly different. In older versions, you would click System Preferences instead of System Settings, and then look for the General tab. The setting is usually labeled Default web browser in both cases, and the process of selecting Chrome remains the same.
 
-## Making Chrome Your Default Browser From Within Chrome
+Making Chrome Your Default Browser From Within Chrome
 
 You can also set Chrome as your default browser directly from within Chrome itself. This is convenient if you are already using Chrome and want to change the setting without opening System Settings.
 
@@ -44,7 +44,7 @@ Under Default browser, you will see a button that says Make Chrome your default 
 
 This method is useful because it often takes you directly to the right setting in System Settings if Chrome cannot change the default automatically. It serves as a quick way to access the right place to make the change.
 
-## What to Do If the Setting Does Not Work
+What to Do If the Setting Does Not Work
 
 In some cases, you might find that the default browser setting does not seem to work or that Chrome is not appearing in the list of available browsers. This can happen if Chrome was not installed properly or if there is a permissions issue on your Mac.
 
@@ -54,7 +54,7 @@ If the problem persists, try reinstalling Chrome. Download the latest version fr
 
 Another possibility is that your Mac has restrictions enabled that prevent changing the default browser. This is more common on work computers or school devices where administrators limit what settings users can change. If you are using a managed Mac, you may need to contact your IT administrator to change the default browser setting.
 
-## Troubleshooting Common Issues
+Troubleshooting Common Issues
 
 After setting Chrome as your default browser, you might notice that some applications still open links in Safari. Some applications have their own browser selection and ignore the system default. For example, Microsoft Outlook on Mac sometimes opens links in its own browser regardless of your system settings. In these cases, you would need to look for browser settings within those specific applications.
 
@@ -62,7 +62,7 @@ Another issue you might encounter is that Chrome keeps asking you to set it as d
 
 Finally, if you use multiple user accounts on your Mac, you will need to set the default browser separately for each account. The default browser setting is per-user, so changing it in one account does not affect other accounts on the same computer.
 
-## Tips for a Better Browsing Experience
+Tips for a Better Browsing Experience
 
 Once you have Chrome set as your default browser, you can enhance your browsing experience further. Chrome offers various features like tab groups, extensions, and sync capabilities that can improve your productivity. If you use Chrome across multiple devices, make sure you are signed in to your Google account to sync your bookmarks, history, and settings.
 
@@ -74,7 +74,7 @@ Setting Chrome as your default browser is a small change that can significantly 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Site Settings Permissions Explained](/articles/chrome-site-settings-permissions-explained/)
 * [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure/)
 * [Chrome Extension for Spotify Lyrics](/articles/chrome-extension-for-spotify-lyrics/)

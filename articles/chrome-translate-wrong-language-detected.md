@@ -23,9 +23,9 @@ This guide covers why Chrome misdetects languages and how to fix it for each und
 
 Last tested: March 2026, Chrome latest stable.
 
-## Why Chrome Detects the Wrong Language
+Why Chrome Detects the Wrong Language
 
-### HTML Lang Attribute Override
+HTML Lang Attribute Override
 
 Chrome prioritizes the HTML lang attribute over the actual page content when determining language. If a page's HTML header declares the language as English but the actual content is in Spanish, Chrome will treat the page as English and either not offer translation at all, or attempt to translate from the wrong source language.
 
@@ -33,13 +33,13 @@ This problem is widespread on international websites built from English-language
 
 The HTML attribute takes precedence because it represents the developer's declared intent, which is usually accurate. When it is not, you need to override it manually.
 
-### Mixed Content Confusion
+Mixed Content Confusion
 
 Chrome samples only the first 300 to 500 characters of a page for its initial language detection pass. Pages where the opening content is navigation menus in English followed by body content in another language will frequently be misidentified. Chrome assigns language probabilities based on character frequency analysis, and a navigation bar with English words shifts those probabilities toward English even if the article text is entirely in French.
 
 International business websites are the most common culprits. A French company's website with an English navigation bar and French product descriptions will often confuse Chrome into treating the whole page as English.
 
-### Insufficient Text for Detection
+Insufficient Text for Detection
 
 Chrome requires at least 150 to 200 characters of continuous text to make a reliable language determination. Image-heavy pages, product catalog layouts, and pages with text spread across many small elements rather than continuous paragraphs often fall below this threshold.
 
@@ -49,9 +49,9 @@ When Chrome cannot gather enough text for analysis, it falls back to browser loc
 >
 > Source: [Fix Chrome Translate Not Working on PC and Mobile 2025](https://watranslator.com/how-to-fix-chrome-translate-not-working/), watranslator.com
 
-## How to Fix Chrome Detecting the Wrong Language
+How to Fix Chrome Detecting the Wrong Language
 
-### Fix 1: Override Through the Translate Popup
+Fix 1: Override Through the Translate Popup
 
 Right-click any text on the page and select "Translate to [your language]." When the blue translation bar appears at the top of the page, click the source language shown in the bar. Select "Choose another language" from the dropdown, then pick the correct source language from the list.
 
@@ -59,11 +59,11 @@ Click the Translate button to process the page with the correct language setting
 
 This is the fastest fix for any single-instance misdetection and works regardless of the underlying cause.
 
-### Fix 2: Use the Right-Click Context Menu
+Fix 2: Use the Right-Click Context Menu
 
 If the automatic translation bar does not appear at all, right-click the page and look for "Translate to [your language]" in the context menu. This forces a translation attempt and bypasses Chrome's automatic language detection threshold. The same source language override is available in the translation bar that appears.
 
-### Fix 3: Disable Automatic Translation for More Control
+Fix 3: Disable Automatic Translation for More Control
 
 Go to chrome://settings/languages. Find your primary language and click the options next to it. Turn off "Offer to translate pages that aren't in a language you read." This stops Chrome from making automatic detection attempts and eliminates incorrect auto-offers.
 
@@ -71,13 +71,13 @@ With automatic translation disabled, you initiate translation manually through t
 
 This approach trades automatic convenience for accuracy. For users who frequently visit multilingual sites with detection problems, it is often the cleaner long-term setup.
 
-### Fix 4: Clear Translation History for Specific Sites
+Fix 4: Clear Translation History for Specific Sites
 
 Chrome's translation memory can lock in a wrong language association for a domain, causing repeated misdetection on future visits. Go to chrome://settings/content/automaticTranslation. Find entries for the problematic sites and remove them by clicking the three-dot menu next to each entry.
 
 This forces Chrome to re-analyze the page language from scratch on the next visit without any historical bias from previous incorrect detections.
 
-### Fix 5: Force Language via Developer Tools
+Fix 5: Force Language via Developer Tools
 
 For testing purposes or one-time fixes on pages with incorrect HTML lang attributes, you can manually correct the attribute. Press F12 to open Developer Tools, go to the Elements tab, find the opening `<html>` tag, right-click it, and select "Edit attribute."
 
@@ -85,7 +85,7 @@ Change the lang attribute to the correct two-letter language code: es for Spanis
 
 This fix resets when you navigate away or refresh hard. Use it to verify correct detection behavior before implementing other permanent solutions.
 
-## Quick Fix Summary
+Quick Fix Summary
 
 | Symptom | Cause | Fix |
 |---------|-------|-----|
@@ -95,7 +95,7 @@ This fix resets when you navigate away or refresh hard. Use it to verify correct
 | Translation bar appears but uses wrong source language | Insufficient unique text for reliable detection | Override source language in the translation bar |
 | Same site always misdetected | Cached wrong language association | Clear site entry from chrome://settings/content/automaticTranslation |
 
-## When to Try Alternative Solutions
+When to Try Alternative Solutions
 
 Chrome's language detection is statistical rather than structural. It works well for simple, single-language pages with sufficient text but breaks consistently on multilingual templates, content management systems that apply English lang attributes universally, and pages with text split across many small elements.
 
@@ -107,26 +107,26 @@ For sites you visit regularly that consistently trigger wrong language detection
 
 BeLikeNative also lets you translate selected text on demand, which sidesteps the whole-page detection problem entirely. Select the text you want translated, request translation, and the extension processes only that selection, eliminating the influence of surrounding mixed-language content.
 
-**[Try BeLikeNative Free at zovo.one](https://zovo.one)**
+[Try BeLikeNative Free at zovo.one](https://zovo.one)
 
-## FAQ
+FAQ
 
-**Why does Google Translate detect the wrong language?**
+Why does Google Translate detect the wrong language?
 
 Chrome's detection algorithm relies on character frequency analysis applied to a limited text sample from the beginning of the page. When that sample contains mixed languages (navigation in English, content in French), an incorrect HTML lang attribute, or too little text for statistical confidence, the detection is wrong. The fix is always to override the source language manually in the translation bar.
 
-**How do I force Chrome to translate a page in a specific language?**
+How do I force Chrome to translate a page in a specific language?
 
 Right-click the page, select "Translate to [your language]," and when the translation bar appears, click the detected source language dropdown. Choose "Choose another language," select the correct source language, then click Translate.
 
-**Does Chrome translate work on pages with mixed languages?**
+Does Chrome translate work on pages with mixed languages?
 
 Chrome struggles with mixed-language pages. Its detection algorithm samples early page content, which is often navigation elements in English even on pages with foreign-language body content. For mixed-language pages, manually specifying the source language in the translation bar is more reliable than automatic detection.
 
-**Which Chrome translation extension has better language detection?**
+Which Chrome translation extension has better language detection?
 
 BeLikeNative provides superior language detection on complex pages by analyzing full page content and document structure. It separates navigation language from body content language and maintains per-site detection history. For sites that consistently trigger Chrome's wrong language detection, BeLikeNative resolves the problem automatically.
 
 ---
 
-Built by Michael Lip — More tips at zovo.one
+Built by Michael Lip. More tips at zovo.one

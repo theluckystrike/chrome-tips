@@ -14,7 +14,7 @@ author: theluckystrike
 
 If you are searching for chrome how to clear dns cache, you have probably run into a frustrating situation where a website will not load even though your internet connection seems fine. Maybe you know a site recently changed its address, or you switched to a new internet provider, and now certain websites act weird. The good news is that clearing the DNS cache in Chrome can fix these problems, and it only takes a few seconds once you know where to look.
 
-## Why DNS Cache Causes Problems
+Why DNS Cache Causes Problems
 
 To understand why clearing the DNS cache helps, it helps to know what DNS actually does. DNS stands for Domain Name System, and it works like a phone book for the internet. When you type a website address like example.com into your browser, your computer needs to find the actual numerical address where that website lives. DNS servers handle this translation, converting friendly website names into IP addresses that computers can understand.
 
@@ -24,11 +24,9 @@ However, this cached information can become outdated. When a website moves to a 
 
 You might also encounter this problem after changing your internet service provider, moving to a new home, or when a website you frequently visit makes backend changes. Even though your internet connection works fine for most websites, specific sites fail to load because Chrome is holding onto outdated DNS information.
 
-## How to Clear the DNS Cache in Chrome
+How to Clear the DNS Cache in Chrome
 
-Clearing the DNS cache in Chrome is straightforward and does not require any technical knowledge. Here is what you need to do.
-
-First, make sure Chrome is open on your computer. In the address bar at the top of the browser, type exactly this text: chrome://net-internals/#dns and then press Enter. This takes you to Chrome's internal DNS settings page.
+Clearing the DNS cache in Chrome is straightforward and does not require any technical knowledge. chrome://net-internals/#dns and then press Enter. This takes you to Chrome's internal DNS settings page.
 
 You will see information about your current DNS cache, including how many entries are stored and when they were last updated. Look for a button that says "Clear host cache" and click it. This immediately clears Chrome's DNS cache, removing all the stored website address translations.
 
@@ -36,7 +34,7 @@ After clearing the cache, it is a good idea to close Chrome completely and reope
 
 If you still have trouble after clearing the DNS cache, there is one more step you can try on the same page. Click on the "Socket" tab next to the "DNS" tab at the top of the page. You will see a button that says "Flush socket pools". Clicking this clears any existing network connections that Chrome might be holding open, which can sometimes cause issues even after clearing the DNS cache.
 
-## What to Do If Clearing DNS Does Not Fix the Problem
+What to Do If Clearing DNS Does Not Fix the Problem
 
 Sometimes clearing the DNS cache alone does not solve the issue. If you still cannot load a specific website after clearing the cache, there are a few other things to try.
 
@@ -46,7 +44,7 @@ If the website still will not load, try restarting your computer and your router
 
 You can also try using a different DNS server. By default, your computer uses DNS servers provided by your internet service provider, but you can change this to faster or more reliable options like Google DNS or Cloudflare DNS. To change this, you would need to go to your computer's network settings, but this is a more advanced step that you might not need to try unless other solutions have failed.
 
-## Keeping Your Browser Running Smoothly
+Keeping Your Browser Running Smoothly
 
 Clearing the DNS cache is one of those simple maintenance tasks that can keep your browsing experience smooth. While Chrome does a good job of managing its cache automatically, there are times when manual intervention helps, especially when websites change or you notice connection issues.
 
@@ -56,9 +54,9 @@ Regularly clearing your browser cache, keeping Chrome updated, and managing your
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Google Drive Integration Save to Drive](/articles/chrome-google-drive-integration-save-to-drive/)
 * [Chrome DevTools Issues Panel Explained](/articles/chrome-devtools-issues-panel-explained/)
 * [chrome extension rejected common reasons fix](/articles/chrome-extension-rejected-common-reasons-fix/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

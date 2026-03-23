@@ -11,7 +11,7 @@ If Chrome has ever felt sluggish or your computer's fans have started whirring l
 
 One of the most valuable pages for everyday users is `chrome://discards`, which provides a real-time view of how Chrome is managing memory across all your open tabs. Understanding this page can transform how you browse, especially if you frequently keep dozens of tabs open for research, work, or entertainment.
 
-## Understanding Chrome's Memory Management System
+Understanding Chrome's Memory Management System
 
 Chrome uses a sophisticated system to balance performance with resource conservation. Each tab you open runs in its own process, which provides stability and security but also means each tab consumes separate memory. To prevent your computer from grinding to a halt, Chrome automatically "discards" or "freezes" tabs that haven't been used recently.
 
@@ -19,15 +19,15 @@ When a tab is discarded, Chrome removes it from memory entirely but keeps a plac
 
 The `chrome://discards` page shows every open tab and its current state. You'll see columns for the tab's URL, its title, and most importantly, its lifecycle state. States include "Active" for tabs you're currently viewing, "Frozen" for tabs that haven't been used for a while but are still in memory, and "Discarded" for tabs that have been completely unloaded.
 
-## How to Interpret the Memory Information
+How to Interpret the Memory Information
 
 At the top of the `chrome://discards` page, Chrome provides summary statistics that give you a quick overview. You'll see the total number of tabs, how many are active, frozen, or discarded, and the approximate memory savings from the discarded tabs. This at-a-glance view helps you understand your overall tab situation without scrolling through every single entry.
 
 Each tab entry shows specific details you can use to make decisions. The URL column shows exactly which website the tab is on, so you can identify memory-hungry sites. Some websites, especially those with interactive content like web applications, news sites with autoplay videos, or complex webmail interfaces, consume significantly more memory than simple text-based pages.
 
-If you notice certain websites consistently appearing as memory hogs, consider using extensions or browser settings to manage them differently. For users who keep many tabs open, tools like **Tab Suspender Pro** can automate the process of discarding inactive tabs, giving you the benefits of Chrome's memory management without having to monitor the `chrome://discards` page manually.
+If you notice certain websites consistently appearing as memory hogs, consider using extensions or browser settings to manage them differently. For users who keep many tabs open, tools like Tab Suspender Pro can automate the process of discarding inactive tabs, giving you the benefits of Chrome's memory management without having to monitor the `chrome://discards` page manually.
 
-## Using Memory Saver Mode
+Using Memory Saver Mode
 
 Beyond the internal pages, Chrome includes built-in features that work alongside these memory tools. Memory Saver mode, found in Chrome Settings under Performance, automatically discards tabs you haven't used recently. You can customize how aggressive Chrome should be with this feature, choosing between moderate discarding or a more thorough approach that maximizes available memory.
 
@@ -35,7 +35,7 @@ Energy Saver mode complements Memory Saver by reducing background activity when 
 
 These features work hand-in-hand with the information you find on the `chrome://discards` page. If you find Chrome is discarding tabs too aggressively for your workflow, you can adjust the settings. Conversely, if you're running out of memory despite these features, the internal pages help you identify exactly which tabs are causing the problem.
 
-## Practical Steps to Free Up Memory
+Practical Steps to Free Up Memory
 
 When you visit `chrome://discards` and notice many active tabs consuming memory, you have several options. The quickest solution is to manually discard tabs you don't immediately need by clicking the "Discard" button next to each entry. This frees up memory instantly without closing the tab entirely.
 
@@ -43,7 +43,7 @@ Another approach is to use Chrome's tab grouping features to organize your work 
 
 For users who frequently work with many tabs, establishing a routine of closing unnecessary tabs at the end of each day can prevent memory buildup over time. Combined with the automatic features built into Chrome, this manual intervention ensures your browser remains responsive and your computer runs smoothly.
 
-## When to Check Memory Usage
+When to Check Memory Usage
 
 There are specific situations where visiting `chrome://discards` becomes particularly useful. If your computer feels slow after opening several new tabs, checking this page reveals which tabs are consuming the most resources. If a specific website is always at the top of the memory usage list, you might consider using that site less frequently or finding an alternative that consumes less memory.
 
@@ -51,7 +51,7 @@ Another common scenario is when Chrome crashes or displays "out of memory" error
 
 Users who run multiple applications alongside Chrome should also periodically check their browser's memory situation. Even with plenty of RAM available, Chrome's memory management can sometimes cause issues when system resources are shared with other demanding applications like video editors or games.
 
-## Making Memory Management Automatic
+Making Memory Management Automatic
 
 While the `chrome://discards` page gives you manual control, many users prefer automated solutions. Browser extensions can handle tab memory management automatically, suspending tabs after a configurable period of inactivity. This approach combines the best of both worlds: you can keep tabs open for easy access while the extension handles the memory optimization in the background.
 
@@ -61,11 +61,11 @@ By understanding how Chrome manages memory through these internal pages and feat
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained/)
 * [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained/)
 * [Chrome Not Enough Memory to Open Page Fix](/articles/chrome-not-enough-memory-to-open-page/)

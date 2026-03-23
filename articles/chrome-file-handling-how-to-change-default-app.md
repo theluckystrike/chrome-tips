@@ -14,7 +14,7 @@ Chrome file handling how to change default app is a question that comes up often
 
 Let me walk you through why this happens and how you can take control of which applications open your files.
 
-## Why Chrome Uses Default App Settings
+Why Chrome Uses Default App Settings
 
 When you click on a file link in Chrome, the browser needs to decide what to do with that file. It checks your computer's default settings to determine which application should handle the file type. This is the same system your operating system uses when you double-click a file in your folder explorer.
 
@@ -22,7 +22,7 @@ Chrome does not control these defaults directly. Instead, it relies on what your
 
 The reason these defaults exist is to make your life easier most of the time. Your computer remembers that PDF files should open in Adobe Reader, that images should open in your photo viewer, and so on. However, there are moments when these defaults do not match what you prefer, and that is when you need to change them.
 
-## How to Change Default Apps on Windows
+How to Change Default Apps on Windows
 
 If you use Windows, changing which app opens your files is built right into the operating system. Here is how to do it.
 
@@ -34,7 +34,7 @@ You can also scroll down and click "Choose default apps by file type" to see a c
 
 Another useful option is "Choose default apps by protocol," which controls what happens when you click links that start with specific protocols like "mailto:" or "tel:."
 
-## How to Change Default Apps on Mac
+How to Change Default Apps on Mac
 
 Mac users have a similar experience, though the interface looks different. Here is the process.
 
@@ -44,7 +44,7 @@ In System Settings, look for "Apps" in the sidebar and click on it. You will see
 
 Mac organizes defaults slightly differently than Windows. You can set defaults for browsers, email clients, and other common categories. For more detailed control, you can also right-click any file in Finder, select "Get Info," and change the "Open with" setting for that specific file type. If you want all files of that type to open in your chosen app going forward, click the "Change All" button that appears below the app selector.
 
-## Changing Browser-Specific Settings
+Changing Browser-Specific Settings
 
 While the operating system controls which app ultimately opens a file, Chrome itself has some settings that can influence the experience.
 
@@ -52,7 +52,7 @@ Open Chrome and click the three dots in the top right corner to access the menu.
 
 You can also manage extensions that might be handling certain file types. Click the puzzle piece icon in Chrome toolbar and select "Manage extensions" to see if any extensions are configured to handle specific file types.
 
-## What to Do When Files Still Open in the Wrong App
+What to Do When Files Still Open in the Wrong App
 
 Sometimes after changing your defaults, Chrome might still open files in the unexpected application. This can happen for several reasons.
 
@@ -62,7 +62,7 @@ Another possibility is that the application you want to use has not been set as 
 
 If nothing seems to work, try restarting your computer. Some changes to default settings do not take full effect until you log out and back in or restart the system.
 
-## A Note on Browser Extensions
+A Note on Browser Extensions
 
 Browser extensions can sometimes interfere with how Chrome handles files. Some extensions are designed to open certain file types directly within the browser or redirect them to specific web services. If you have installed extensions that deal with files, they might be overriding your system defaults.
 
@@ -70,7 +70,7 @@ Check your extensions periodically and remove any that you no longer use. Keepin
 
 Extensions like Tab Suspender Pro can help you manage your browser more effectively by automatically suspending tabs you are not using. This reduces memory usage and can make your browser feel faster, which is helpful when you are working with multiple files and applications at once.
 
-## Wrapping Up
+Wrapping Up
 
 Changing how Chrome handles files is really about understanding your operating system's default app settings. Once you know where to find those settings, you can direct any file type to open in whichever application you prefer. Whether you use Windows or Mac, the process is designed to be user-friendly, even if the exact steps differ slightly.
 
@@ -78,9 +78,9 @@ Take a moment to review your current defaults and make sure they match what you 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers](/articles/chrome-video-playback-stuttering-fix/)
 * [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips/)
 * [Chrome vs Firefox Memory Usage Test 2026](/articles/chrome-vs-firefox-memory-usage-test-2026/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

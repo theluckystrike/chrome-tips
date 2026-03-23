@@ -24,7 +24,7 @@ If you have ever looked at your task manager while using Chrome, you might have 
 
 Chrome uses a multi-process architecture where each tab typically runs in its own process. This design choice was made by Google to improve stability, security, and performance in ways that single-process browsers cannot match. However, this approach also means Chrome can use more system resources than you might expect, especially when you have many tabs open at once.
 
-## Why Chrome Uses Separate Processes for Tabs
+Why Chrome Uses Separate Processes for Tabs
 
 Chrome was built from the ground up with a multi-process design. When Google created Chrome, they made a deliberate choice to run each tab in its own process rather than keeping everything together in one program. This is actually one of the reasons Chrome became so popular when it first launched.
 
@@ -34,7 +34,7 @@ Security is another major reason for this design. Each tab runs in its own sandb
 
 Performance is also a factor, though it works in both directions. On one hand, Chrome can use multiple processor cores simultaneously because different processes can run on different cores. On the other hand, each process requires some memory overhead, so having many tabs open means Chrome uses more memory than a single-process browser would.
 
-## How This Affects Your Computer
+How This Affects Your Computer
 
 When you open just a few tabs, you probably will not notice any issues. Chrome handles a small number of tabs efficiently, and the benefits of separate processes outweigh the costs. However, as you open more and more tabs, you might start to see some problems.
 
@@ -44,7 +44,7 @@ You can see this for yourself by opening Chrome's built-in task manager. Press S
 
 Another issue is that Chrome processes can use a lot of your computer's CPU, especially when tabs are doing things like playing videos, running animations, or updating content in the background. This can drain your laptop battery faster and make your computer fan work harder than necessary.
 
-## Ways to Change How Chrome Handles Processes
+Ways to Change How Chrome Handles Processes
 
 While you cannot completely disable Chrome's process-per-tab architecture without using a different browser entirely, there are several things you can do to reduce the impact of multiple processes on your computer.
 
@@ -56,7 +56,7 @@ Extensions can also add to the number of processes Chrome runs. Some extensions 
 
 Another option is to use Chrome's Memory Saver mode. This feature, found in Chrome settings under Performance, automatically limits how much memory inactive tabs can use. When you enable Memory Saver, Chrome will try to save memory by reducing activity in tabs you are not currently viewing.
 
-## Using Extensions to Help Manage Tabs
+Using Extensions to Help Manage Tabs
 
 If you need to keep many tabs open for your workflow, there are extensions that can help manage the resource usage. One option worth considering is Tab Suspender Pro, which automatically pauses tabs you are not using. When you need to view a suspended tab, you can click on it to reload the content. This dramatically reduces the resources Chrome uses while keeping your tabs available for when you need them.
 
@@ -64,7 +64,7 @@ Tab Suspender Pro works by detecting which tabs you have not interacted with for
 
 There are other tab management extensions available as well, and you can explore what works best for your needs. The key is finding a system that lets you stay productive without overwhelming your computer's resources.
 
-## Finding the Right Balance
+Finding the Right Balance
 
 Chrome's process-per-tab design is not going away, and that is actually a good thing. The stability and security benefits are real, and most users will not notice any problems as long as they manage their tab count reasonably. The issue only becomes noticeable when you consistently keep too many tabs open.
 
@@ -74,14 +74,14 @@ The chrome process per tab feature exists for good reasons, and you do not need 
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Extensions for Study Timer](/articles/chrome-extensions-for-study-timer/)
 * [chrome for youtube music web tips](/articles/chrome-for-youtube-music-web-tips/)
 * [Chrome Desktop Mode on Phone How to Use](/articles//chrome-desktop-mode-on-phone-how-to-use//)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)
 - [Does Incognito Mode Make Chrome Faster?](/articles/does-incognito-mode-make-chrome-faster)

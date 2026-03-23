@@ -30,70 +30,70 @@ faq:
   - q: "Why does Chrome use so much memory with just a few tabs?"
     a: "Chrome's multi-process architecture creates separate renderer processes for every tab and iframe. A single page with embedded videos or ads can trigger 15+ processes consuming 200-500MB each. Even with 10 extensions installed, you're using an extra gigabyte of RAM before opening a single tab. Extensions like ad blockers use 50-150MB, while productivity extensions add another 100-200MB, making chrome not enough memory error more likely."
   - q: "What causes Chrome not enough memory error?"
-    a: "This chrome not enough memory error occurs when Chrome's processes exceed your system's available RAM, typically around 8GB on most machines. JavaScript memory leaks compound over time—a single Gmail tab left open for 8 hours can consume 2GB through accumulated memory leaks. Each Chrome extension runs continuously in the background even when not actively used, adding significant overhead that triggers the error."
+    a: "This chrome not enough memory error occurs when Chrome's processes exceed your system's available RAM, typically around 8GB on most machines. JavaScript memory leaks compound over time, a single Gmail tab left open for 8 hours can consume 2GB through accumulated memory leaks. Each Chrome extension runs continuously in the background even when not actively used, adding significant overhead that triggers the error."
   - q: "How many tabs can I have open before Chrome runs out of memory?"
     a: "With 30 tabs open, you're looking at 6-8GB of RAM usage before factoring in extensions. Chrome's multi-process design means each tab runs in its own isolated process, so memory consumption adds up quickly. Most systems hit the chrome not enough memory error threshold around 8GB total. Using a tab management extension like Zovo helps by automatically suspending inactive tabs to reduce memory strain."
   - q: "Does closing tabs fix Chrome memory error?"
     a: "Yes, closing unused tabs immediately is the fastest fix for chrome not enough memory error. Chrome spawns separate renderer processes for every tab, so each one consumes 200-500MB or more. Restarting your browser clears accumulated JavaScript memory leaks that build up over time. For a permanent solution, enable automatic tab discarding in Chrome flags or use a tool like Zovo to manage tabs automatically."
 ---
 
-If Chrome displays a "not enough memory" error, the fastest fix is closing unused tabs and restarting your browser. This chrome not enough memory error happens when Chrome's processes exceed your system's available RAM, typically around 8GB on most machines. This article covers the root causes, manual fixes that work immediately, and a permanent solution using **Tab Suspender Pro**.
+If Chrome displays a "not enough memory" error, the fastest fix is closing unused tabs and restarting your browser. This chrome not enough memory error happens when Chrome's processes exceed your system's available RAM, typically around 8GB on most machines. This article covers the root causes, manual fixes that work immediately, and a permanent solution using Tab Suspender Pro.
 
 Last tested: March 2026 | Chrome latest stable
 
 > Close unused tabs immediately, restart Chrome, then enable tab discarding in `chrome://flags/#automatic-tab-discarding` to prevent future crashes.
 
-## Why Chrome Shows 'Not Enough Memory' Error
+Why Chrome Shows 'Not Enough Memory' Error
 
 Chrome's multi-process architecture creates this problem by design. Each tab, extension, and plugin runs in its own isolated process to improve security and stability.
 
-### Process Isolation Creates Memory Bloat
+Process Isolation Creates Memory Bloat
 
 Chrome spawns separate renderer processes for every tab and iframe. A single page with embedded videos or ads can trigger 15+ processes consuming 200-500MB each. With 30 tabs open, you're looking at 6-8GB of RAM usage before factoring in extensions.
 
 > "The Page Lifecycle API introduces lifecycle states on the web, allowing browsers to freeze and discard background tabs to conserve resources." ,  Page Lifecycle API
 
-### JavaScript Memory Leaks Compound Over Time
+JavaScript Memory Leaks Compound Over Time
 
 Web applications often retain objects in memory after they're no longer needed. Social media sites, email clients, and productivity apps are notorious for this. A single Gmail tab left open for 8 hours can consume 2GB of RAM through accumulated memory leaks.
 
-### Extensions Add Memory Overhead
+Extensions Add Memory Overhead
 
 Each Chrome extension runs continuously in the background, even when not actively used. Ad blockers typically use 50-150MB, password managers consume 30-80MB, and productivity extensions add another 100-200MB. With 10 extensions installed, you're using an extra gigabyte before opening a single tab.
 
-## How to Fix Chrome 'Not Enough Memory' Error
+How to Fix Chrome 'Not Enough Memory' Error
 
 These fixes work immediately and are ordered by effectiveness based on typical memory recovery.
 
-### Force Close Memory-Heavy Tabs
+Force Close Memory-Heavy Tabs
 
-Open Chrome's Task Manager with **Shift+Esc** (Windows) or **Cmd+Option+Esc** (Mac). Sort by "Memory footprint" to identify tabs using over 200MB. Right-click the heaviest consumers and select "End process." This immediately frees 1-3GB of RAM on systems with many open tabs.
+Open Chrome's Task Manager with Shift+Esc (Windows) or Cmd+Option+Esc (Mac). Sort by "Memory footprint" to identify tabs using over 200MB. Right-click the heaviest consumers and select "End process." This immediately frees 1-3GB of RAM on systems with many open tabs.
 
 Check which tabs are actually needed. News sites, video platforms, and social media typically show the highest memory usage. Close tabs showing "Aw, Snap!" errors first, as these indicate crashed processes still consuming memory.
 
-### Enable Automatic Tab Discarding
+Enable Automatic Tab Discarding
 
 Navigate to `chrome://flags/#automatic-tab-discarding` and set it to "Enabled." Chrome will automatically unload inactive tabs when memory runs low, keeping the tab visible but removing its content from RAM.
 
 This feature discards tabs that haven't been used for 5+ minutes, reducing memory usage by 60-80% per discarded tab. Clicking a discarded tab reloads it instantly. The trade-off is losing unsaved form data on discarded tabs.
 
-### Restart Chrome Completely
+Restart Chrome Completely
 
 Close all Chrome windows, then open Activity Monitor (Mac) or Task Manager (Windows) and end any remaining chrome.exe processes. Memory fragmentation builds up over time, and a full restart reclaims 500MB-1GB that can't be freed by closing tabs alone.
 
-Use **Cmd+Q** (Mac) or **Ctrl+Shift+Q** (Windows) to quit Chrome completely rather than just closing windows. Some background processes continue running otherwise.
+Use Cmd+Q (Mac) or Ctrl+Shift+Q (Windows) to quit Chrome completely rather than just closing windows. Some background processes continue running otherwise.
 
-### Disable Hardware Acceleration
+Disable Hardware Acceleration
 
-Go to **Settings > Advanced > System** and toggle off "Use hardware acceleration when available." This forces Chrome to use CPU instead of GPU memory, which can resolve the error on systems with limited VRAM.
+Go to Settings > Advanced > System and toggle off "Use hardware acceleration when available." This forces Chrome to use CPU instead of GPU memory, which can resolve the error on systems with limited VRAM.
 
 Hardware acceleration improves video playback and scrolling performance but consumes an additional 200-400MB of memory. Disabling it trades some smoothness for stability on memory-constrained machines.
 
 > "Chrome freezes background tabs when Energy Saver mode is active to reduce power consumption on battery-constrained devices." ,  Freezing on Energy Saver
 
-## Fix It Permanently with Tab Suspender Pro
+Fix It Permanently with Tab Suspender Pro
 
-Manual fixes work temporarily but require constant maintenance. You'll face the same memory constraints within hours of reopening your typical browsing session. **Tab Suspender Pro** automates this process intelligently.
+Manual fixes work temporarily but require constant maintenance. You'll face the same memory constraints within hours of reopening your typical browsing session. Tab Suspender Pro automates this process intelligently.
 
 The extension monitors tab activity and suspends unused tabs after customizable time intervals. Unlike Chrome's built-in discarding, it preserves form data and scroll position while freeing 95% of each tab's memory usage. Suspended tabs reload in under 2 seconds when clicked.
 
@@ -101,20 +101,20 @@ Tab Suspender Pro uses just 185KiB itself while managing unlimited tabs. It main
 
 The extension integrates with Chrome's native tab grouping system, allowing you to exempt entire groups from suspension. Set different suspend timers for work tabs (30 minutes) versus reference materials (5 minutes) to match your workflow patterns.
 
-**[Try Tab Suspender Pro Free](https://zovo.one)**
+[Try Tab Suspender Pro Free](https://zovo.one)
 
-## FAQ
+FAQ
 
-### How much RAM does Chrome actually need?
+How much RAM does Chrome actually need?
 
 Chrome requires 4GB minimum but performs better with 8GB+ available. Each tab consumes 50-500MB depending on content complexity, with social media and productivity apps at the higher end.
 
-### Does closing tabs immediately free memory?
+Does closing tabs immediately free memory?
 
 Not always. Chrome retains some process memory for 30-60 seconds after tab closure for faster reopening. Use the built-in Task Manager to verify memory is actually released.
 
-### Can I prevent the error without extensions?
+Can I prevent the error without extensions?
 
 Yes, by enabling automatic tab discarding in Chrome flags and manually managing tab count. However, this requires discipline and doesn't preserve tab state as effectively as purpose-built extensions.
 
-Built by Michael Lip — More tips at zovo.one
+Built by Michael Lip. More tips at zovo.one

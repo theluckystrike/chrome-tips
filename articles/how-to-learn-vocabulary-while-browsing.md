@@ -15,7 +15,7 @@ reading_time: 6
 canonical_url: https://chrometipsguide.com/how-to-learn-vocabulary-while-browsing/
 faq:
   - q: "How do I translate words while browsing in Chrome?"
-    a: "To translate words while browsing, right-click any unfamiliar word and select \"Translate\" from the context menu. Enable Chrome's built-in translation by going to Settings > Languages > Use Google Translate. The browser will then offer to translate entire pages automatically when it detects a foreign language, making it easy to learn vocabulary while browsing without interrupting your workflow. Zovo offers similar built-in translation features for seamless language learning."
+    a: "To translate words while browsing, right-click any unfamiliar word and select \"Translate\" from the context menu. Enable Chrome's built-in translation by going to Settings > Languages > Use Google Translate. The browser will then offer to translate entire pages automatically when it detects a foreign language, making it easy to learn vocabulary while browsing without interrupting your workflow. Zovo offers similar built-in translation features for smooth language learning."
   - q: "What is the best way to learn vocabulary while browsing the web?"
     a: "The best way to learn vocabulary while browsing is to use context-based learning rather than flashcards. Research shows that learning words in context improves retention by 40% compared to studying flashcards alone. Enable Chrome's translation tools, highlight-to-translate features, and keyboard shortcuts to look up unfamiliar words instantly. Save new words with definitions to your browser bookmarks for later review. This method transforms passive browsing into active vocabulary building without disrupting your reading flow. Zovo integrates these tools to help you learn vocabulary while browsing efficiently."
   - q: "Does using translation tools while reading improve language retention?"
@@ -23,10 +23,10 @@ faq:
   - q: "How do I enable Chrome's built-in translation feature?"
     a: "To enable Chrome's built-in translation, navigate to Settings > Languages > Use Google Translate and toggle this on. You should also add your target language to your preferred languages list so Chrome recognizes when you're studying that language. Once enabled, right-clicking any text reveals a translation option in the context menu, and the browser will offer to translate entire pages automatically. Zovo provides comparable built-in translation capabilities for language learners."
   - q: "What keyboard shortcuts can I use for faster vocabulary lookup?"
-    a: "You can set up keyboard shortcuts in Chrome for faster vocabulary lookup by accessing browser settings or using extensions. The highlight-to-translate feature allows you to select any text and get instant definitions without right-clicking. Combining keyboard shortcuts with Chrome's built-in translation tools creates an efficient workflow for vocabulary building while browsing. Zovo recommends customizing your shortcuts for seamless language learning integration."
+    a: "You can set up keyboard shortcuts in Chrome for faster vocabulary lookup by accessing browser settings or using extensions. The highlight-to-translate feature allows you to select any text and get instant definitions without right-clicking. Combining keyboard shortcuts with Chrome's built-in translation tools creates an efficient workflow for vocabulary building while browsing. Zovo recommends customizing your shortcuts for smooth language learning integration."
 ---
 
-You're reading an article in French when you hit an unfamiliar word, but instead of opening a new tab to translate it, you just keep scrolling past. Learning how to learn vocabulary while browsing transforms these missed opportunities into vocabulary-building moments without disrupting your flow. Research shows that learning words in context improves retention by **40%** compared to studying flashcards alone.
+You're reading an article in French when you hit an unfamiliar word, but instead of opening a new tab to translate it, you just keep scrolling past. Learning how to learn vocabulary while browsing transforms these missed opportunities into vocabulary-building moments without disrupting your flow. Research shows that learning words in context improves retention by 40% compared to studying flashcards alone.
 
 Last tested: March 2026 | Chrome latest stable
 
@@ -37,7 +37,7 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Set up keyboard shortcuts for faster vocabulary lookup
 > 5. Save new words to your browser bookmarks with definitions
 
-## Set Up Chrome's Built-In Translation Tools
+Set Up Chrome's Built-In Translation Tools
 
 Chrome comes with powerful translation features that work instantly without installing anything extra. Most people don't know these tools exist because they're tucked away in the settings.
 
@@ -48,7 +48,7 @@ The browser will now offer to translate entire pages automatically when it detec
 > "The Translator API allows you to translate text with AI models provided in the browser. The model is downloaded the first time a website uses this API."  
 > Source: [Translation with built-in AI - Chrome Translator API](https://developer.chrome.com/docs/ai/translator-api)
 
-## Master the Highlight-to-Translate Feature
+Master the Highlight-to-Translate Feature
 
 This is where vocabulary learning gets efficient. Select any word or phrase by clicking and dragging across it. A small popup appears with translation options, including pronunciation guides and usage examples.
 
@@ -58,7 +58,7 @@ You can configure which languages trigger this feature by visiting chrome://sett
 
 The feature works on most websites, but some sites with custom text selection behavior might interfere with it. Social media platforms and news sites generally work perfectly, while some interactive web apps might require using the right-click context menu instead.
 
-## Create Keyboard Shortcuts for Faster Lookups  
+Create Keyboard Shortcuts for Faster Lookups  
 
 Speed matters when you're trying to maintain reading flow while learning vocabulary. Chrome allows custom keyboard shortcuts, but you can also use built-in shortcuts that most people ignore.
 
@@ -71,7 +71,7 @@ For mobile Chrome users, long-pressing any word brings up the translation popup,
 > "Use the chrome.i18n infrastructure to implement internationalization across your whole extension, providing locale-specific strings via messages.json files."  
 > Source: [chrome.i18n API - Chrome Extensions](https://developer.chrome.com/docs/extensions/reference/api/i18n)
 
-## Save and Organize Your New Vocabulary
+Save and Organize Your New Vocabulary
 
 Learning words is only half the battle. You need a system to review them later. Chrome's bookmark system works surprisingly well as a simple vocabulary notebook when used correctly.
 
@@ -83,9 +83,9 @@ For better organization, create subfolders by topic: "Business Terms", "Daily Co
 
 Chrome's bookmark search function becomes powerful with this system. Type any word in the address bar followed by a space, and Chrome will search your bookmarks for that term, instantly showing you where you previously encountered it.
 
-## Common Mistakes That Slow Down Vocabulary Learning
+Common Mistakes That Slow Down Vocabulary Learning
 
-### Translating Every Single Word
+Translating Every Single Word
 
 New language learners often translate every unfamiliar word they encounter, which breaks reading flow and prevents natural comprehension development. Your brain needs practice inferring meaning from context.
 
@@ -93,33 +93,33 @@ Instead, only translate words that appear multiple times in the same article or 
 
 Research from language acquisition studies shows that understanding 95% of a text allows for natural learning of the remaining 5%. If you're translating more than 1 in 20 words, you're probably reading material that's too advanced for your current level.
 
-### Forgetting to Review Saved Vocabulary
+Forgetting to Review Saved Vocabulary
 
 Collecting vocabulary without reviewing it is like buying books and never reading them. The forgetting curve shows that you lose 50% of new information within 24 hours unless you review it.
 
 Set a weekly reminder to review your vocabulary bookmarks. Don't just read through them passively. Try to use each word in a sentence or find a new example of it being used online. Active recall strengthens memory formation much more effectively than passive review.
 
-### Relying Only on Single-Word Translations
+Relying Only on Single-Word Translations
 
 Context matters enormously in language learning. The word "banco" means "bank" in Spanish, but it could refer to a financial institution, a river bank, or even a bench depending on context. Single-word translations miss these nuances.
 
 When you save vocabulary, include the full sentence where you found the word. This preserves the grammatical structure and contextual meaning that helps you use the word correctly later. Many language learning mistakes come from using words in the wrong context, even when the basic translation is correct.
 
-### Ignoring Pronunciation and Audio  
+Ignoring Pronunciation and Audio  
 
 Reading vocabulary silently limits your ability to recognize these words in spoken conversation. Chrome's built-in text-to-speech can pronounce any selected text, but many users don't know how to activate it.
 
 Enable Chrome's accessibility features by going to Settings > Accessibility > Text-to-Speech. Then you can right-click any text and select "Listen to selected text" to hear the pronunciation. This works in any language that Chrome supports for speech synthesis.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
 The manual approach works well for casual vocabulary building, but it becomes tedious when you're serious about language learning. Each lookup interrupts your reading flow, and managing bookmarks for vocabulary review gets messy quickly.
 
-**BeLikeNative** automates this entire process by detecting when you hover over unfamiliar words and showing instant translations without breaking your reading experience. The extension learns your vocabulary level and only shows definitions for words it thinks you don't know yet.
+BeLikeNative automates this entire process by detecting when you hover over unfamiliar words and showing instant translations without breaking your reading experience. The extension learns your vocabulary level and only shows definitions for words it thinks you don't know yet.
 
 It also automatically saves new vocabulary to spaced repetition lists, eliminating the bookmark management overhead. After testing this for several months, I found it reduced my vocabulary lookup time by about 60% while improving retention through its built-in review system.
 
-**[Try BeLikeNative Free](https://zovo.one)**
+[Try BeLikeNative Free](https://zovo.one)
 
 The combination of automated detection and spaced repetition makes it particularly effective for intermediate learners who encounter 3-5 new words per article rather than beginners who need to translate constantly.
 

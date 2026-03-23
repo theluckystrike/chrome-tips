@@ -20,17 +20,17 @@ permalink: chrome-block-specific-websites-guide
 
 If you are searching for a chrome block specific websites guide, you probably have one or more sites that distract you throughout the day. Maybe it is social media, news sites, or shopping platforms that eat up your productivity. Whatever the reason, blocking specific websites in Chrome is easier than you might think, and this guide will walk you through every method step by step.
 
-## Why Block Specific Websites
+Why Block Specific Websites
 
 Before we dive into the how, let us talk about the why. There are many legitimate reasons you might want to block specific websites. Perhaps you work from home and need to eliminate distractions during focused work hours. You might be a student trying to study for exams without constantly checking Instagram. Some people block shopping sites to resist impulse purchases, while parents may need to restrict access to certain content for their children.
 
 The beauty of blocking specific websites rather than entire categories is that you maintain control over your browsing experience without over-restricting yourself. You can still access useful resources while cutting out the specific sites that cause problems for you.
 
-## Method One: Using Chrome Extensions
+Method One: Using Chrome Extensions
 
 The most popular and user-friendly way to block specific websites is through Chrome extensions. Let us look at your options.
 
-### Block Site Extension
+Block Site Extension
 
 Block Site is one of the most straightforward tools for this purpose. Here is how to set it up:
 
@@ -43,7 +43,7 @@ Block Site is one of the most straightforward tools for this purpose. Here is ho
 
 When someone tries to visit a blocked site, they will see a blocking page instead. You can customize this page with your own message if you want. The extension also allows you to set up redirects, so blocked sites can automatically send users to a productive website instead.
 
-### StayFocusd for Time-Based Blocking
+StayFocusd for Time-Based Blocking
 
 If you want to block specific websites but not permanently, StayFocusd might be the answer. This extension limits how much time you can spend on certain sites each day.
 
@@ -55,11 +55,11 @@ If you want to block specific websites but not permanently, StayFocusd might be 
 
 Once you hit your time limit, the site becomes blocked for the rest of the day. This approach works well for people who want to gradually reduce their time on distracting sites rather than cutting them off completely.
 
-### Focus Matrix for Advanced Users
+Focus Matrix for Advanced Users
 
 For those who want more sophisticated controls, Focus Matrix lets you create blocking schedules and categorize websites by priority. You can set different rules for different times of day, making it perfect for people who want to block social media during work hours but allow it during breaks.
 
-## Method Two: Using Tab Suspender Pro
+Method Two: Using Tab Suspender Pro
 
 While not specifically a blocking tool, Tab Suspender Pro offers a clever alternative approach to managing distracting websites. Instead of completely blocking sites, this extension automatically suspends tabs that you have not used in a while.
 
@@ -74,11 +74,11 @@ To use this approach:
 
 This method feels less harsh than outright blocking and can be more sustainable for long-term habit changes.
 
-## Method Three: Editing the Hosts File
+Method Three: Editing the Hosts File
 
 For users who want a solution that works at the system level without extensions, editing the Hosts file is the way to go. This method blocks websites across your entire computer, not just in Chrome.
 
-### On Windows
+On Windows
 
 1. Right-click on Notepad and select "Run as administrator"
 2. Click File then Open
@@ -96,7 +96,7 @@ For users who want a solution that works at the system level without extensions,
 
 7. Save the file and restart Chrome
 
-### On Mac
+On Mac
 
 1. Open Terminal from Applications > Utilities
 2. Type: sudo nano /etc/hosts
@@ -107,7 +107,7 @@ For users who want a solution that works at the system level without extensions,
 
 The Hosts file method is permanent and works for all browsers on your computer, which makes it powerful but also means you need to edit it again to unblock sites later.
 
-## Method Four: Chrome Parental Controls
+Method Four: Chrome Parental Controls
 
 If you are setting up restrictions for a child or family member, Chrome's built-in parental controls through Google Family Link provide comprehensive options. This is less about blocking specific sites for yourself and more about managing what others can access.
 
@@ -119,7 +119,7 @@ If you are setting up restrictions for a child or family member, Chrome's built-
 
 Family Link works across all devices where the child signs in, making it the most consistent option for families.
 
-## Tips for Success
+Tips for Success
 
 Whatever method you choose, here are some tips to make your blocking efforts more effective:
 
@@ -131,7 +131,7 @@ Communicate with family members or coworkers about why certain sites are blocked
 
 Review your settings periodically. Your needs change over time, and what works now might need adjustment in a few months.
 
-## The Bottom Line
+The Bottom Line
 
 Learning how to block specific websites in Chrome gives you real control over your browsing experience. Whether you prefer the simplicity of extensions like Block Site, the gentle approach of Tab Suspender Pro, the permanence of Hosts file editing, or the family-friendly option of Family Link, there is a solution that fits your situation.
 
@@ -139,14 +139,14 @@ Start with the method that matches your technical comfort level. If you want som
 
 Take a few minutes to set up your preferred method, and enjoy the freedom of a more focused browsing experience.
 
-## Related Articles
+Related Articles
 * [Should I Switch from Chrome to Firefox for Speed?](/articles/should-i-switch-from-chrome-to-firefox-for-speed/)
 * [Is Chrome Still the Best Browser in 2026?](/articles/is-chrome-still-the-best-browser-2026/)
 * [Chrome Extensions For Bulk Image Downloading](/articles//articles/chrome-extensions-for-bulk-image-downloading//)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Guest Browsing for Shared Computers](/articles/chrome-guest-browsing-for-shared-computers)
 - [chrome wallpaper extensions best](/articles/chrome-wallpaper-extensions-best)

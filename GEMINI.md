@@ -15,4 +15,4 @@ You are verifying and fixing chrome-tips articles for SEO and sitemap correctnes
 
 ## Rules
 - ONLY work on files in `articles/` folder
-- Do NOT modify article body content — only frontmatter
+- Do NOT modify article body content. only frontmatter

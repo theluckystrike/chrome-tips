@@ -14,7 +14,7 @@ When Chrome not responding force close how to do it becomes the question on your
 
 Chrome not responding is usually caused by too many open tabs using up all your available memory. Each tab runs as a separate process in Chrome, which is great for security and stability, but it also means each one consumes memory. When your computer runs low on RAM, Chrome starts to slow down and eventually stops responding entirely. Other common causes include problematic extensions, outdated software, corrupted cache files, or heavy websites with lots of animations and videos playing.
 
-## How to Force Close Chrome on Windows
+How to Force Close Chrome on Windows
 
 If Chrome has frozen on your Windows computer, you can force close it using several methods.
 
@@ -24,7 +24,7 @@ Another option is to right-click on the Chrome icon in your taskbar at the botto
 
 After force closing Chrome, give your computer a moment to catch up. Close some tabs before reopening Chrome, and consider restarting your computer if the freezing happens frequently.
 
-## How to Force Close Chrome on Mac
+How to Force Close Chrome on Mac
 
 On a Mac, force closing Chrome is straightforward. Press Command + Option + Escape to bring up the Force Quit Applications window. Select Google Chrome from the list and click "Force Quit."
 
@@ -32,19 +32,19 @@ You can also click on the Apple menu in the top left corner and select "Force Qu
 
 If Chrome is completely unresponsive and you can't use these methods, press and hold the power button on your Mac until the screen turns off, then press it again to restart.
 
-## How to Force Close Chrome on Android
+How to Force Close Chrome on Android
 
 On your Android phone or tablet, open the recent apps screen by swiping up from the bottom of your screen and holding. Find Chrome in the list of open apps, swipe it up and off the screen to close it. If that doesn't work, go to Settings, find Apps, select Chrome, and tap "Force Stop."
 
 After closing Chrome, consider clearing some tabs or closing other apps to free up memory before reopening your browser.
 
-## How to Force Close Chrome on iPhone
+How to Force Close Chrome on iPhone
 
 On iOS, force closing Chrome works the same as other apps. Swipe up from the bottom of your screen and hold to see your recent apps. Find Chrome and swipe it up and off the top of the screen to force it closed.
 
 You can also go to Settings, find Chrome in your app list, and use the force close option there if the regular swipe method doesn't work.
 
-## Preventing Chrome from Not Responding in the Future
+Preventing Chrome from Not Responding in the Future
 
 Once you've gotten Chrome closed and restarted, you'll want to take steps to prevent the freezing from happening again. Here are some practical things you can do.
 
@@ -60,7 +60,7 @@ Fifth, clear your cache and browsing data periodically. Over time, cached files 
 
 Finally, make sure your computer has enough RAM for your browsing habits. If you consistently have many tabs open and your computer struggles, adding more RAM or closing other programs while browsing can make a significant difference.
 
-## What to Do If Freezing Keeps Happening
+What to Do If Freezing Keeps Happening
 
 If Chrome keeps freezing even after you've tried these steps, there may be a deeper issue. Try resetting Chrome to its default settings by going to Settings, clicking "Advanced," and selecting "Reset and clean up." This will disable extensions, clear your cache, and reset settings to default.
 
@@ -72,9 +72,9 @@ As a last resort, try uninstalling and reinstalling Chrome completely. This ensu
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
-* [Chrome Sync Slowing Down Browser — Fix It Fast](/articles/chrome-sync-slowing-down-browser/)
+Related Articles
+* [Chrome Sync Slowing Down Browser. Fix It Fast](/articles/chrome-sync-slowing-down-browser/)
 * [Chrome for Google Keep Extension Tips](/articles/chrome-for-google-keep-extension-tips/)
 * [Chrome Update Stuck? Heres How to Fix It on Windows](/articles/chrome-update-stuck-fix-windows/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

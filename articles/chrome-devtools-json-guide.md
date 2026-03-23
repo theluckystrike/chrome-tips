@@ -31,7 +31,7 @@ The [Network panel](https://chrometipsguide.com/network-panel/) alone intercepts
 
 *Last tested: March 2026 | Chrome latest stable*
 
-## Table of Contents
+Table of Contents
 
 - [How Chrome DevTools Handles JSON](#how-chrome-devtools-handles-json)
 - [Working with JSON in Every DevTools Panel](#working-with-json-in-every-devtools-panel)
@@ -41,7 +41,7 @@ The [Network panel](https://chrometipsguide.com/network-panel/) alone intercepts
 - [Extensions That Make JSON Easier](#extensions-that-make-json-easier)
 - [FAQ](#faq)
 
-## How Chrome DevTools Handles JSON
+How Chrome DevTools Handles JSON
 
 Understanding what happens under the hood when Chrome processes JSON helps you debug faster and avoid common pitfalls. Chrome's V8 engine handles all JSON operations through two core methods: `JSON.parse()` and `JSON.stringify()`. Every time you inspect a response in the Network panel or run a command in the Console, these methods are doing the real work behind the scenes.
 
@@ -59,9 +59,9 @@ Chrome DevTools interacts with JSON across several distinct panels. The Network 
 
 The rendering engine for the parsed JSON tree in the Network panel is part of Chrome's front-end module. When you expand a node, Chrome dynamically generates child elements rather than rendering the entire tree at once. This lazy rendering approach is why large JSON responses, even those exceeding 10MB, remain navigable without crashing the tab. Performance does degrade with extremely deep nesting, but the panel stays usable for most real-world payloads.
 
-## Working with JSON in Every DevTools Panel
+Working with JSON in Every DevTools Panel
 
-### Inspecting API Responses in the Network Panel
+Inspecting API Responses in the Network Panel
 
 Open DevTools with F12 (Windows/Linux) or Cmd+Option+I (Mac). Click the Network tab. Reload your page or trigger an API call, and requests appear in the waterfall view. Click any request to open its detail pane.
 
@@ -69,7 +69,7 @@ For JSON responses, you get two key tabs in the detail pane. The Response tab sh
 
 You can filter requests to show only JSON responses using the [request filtering feature](https://chrometipsguide.com/request-filtering/). Type `mime-type:application/json` in the filter bar, or click the Fetch/XHR filter button to narrow results to API calls. Right-clicking a request gives you options to copy the response body, copy as cURL, or copy as fetch. The "Copy response" option gives you the raw JSON string, ready to paste into any tool or editor.
 
-### Using the Console for JSON Operations
+Using the Console for JSON Operations
 
 The [Console panel](https://chrometipsguide.com/console-guide/) is where JSON debugging becomes hands-on. You can parse raw strings, stringify objects with custom formatting, and run transformations on live data. Open it directly with Cmd+Option+J (Mac) or Ctrl+Shift+J (Windows/Linux).
 
@@ -87,21 +87,21 @@ temp1.data.users.filter(u => u.active === true)
 
 This saves you from repeatedly copying and pasting large payloads. Check out more [Console shortcuts](https://chrometipsguide.com/console-shortcuts/) to speed up this workflow.
 
-### JSON in the Application Panel
+JSON in the Application Panel
 
 The [Application panel](https://chrometipsguide.com/application-panel/) exposes all client-side storage. Under the Storage section in the left sidebar, you'll find localStorage, sessionStorage, IndexedDB, and cookies listed. Any value stored as a JSON string appears as raw text in the value column.
 
 To edit a stored JSON value, double-click the value cell directly in the Application panel. For complex edits, copy the value to the Console, transform it with `JSON.parse()` and `JSON.stringify()`, then write it back using `localStorage.setItem()`. IndexedDB entries that store objects display them as expandable trees, similar to the Network panel's Preview tab. This is especially useful when debugging offline-capable applications that cache API responses in IndexedDB. The [local storage debugging guide](https://chrometipsguide.com/local-storage-guide/) covers more storage-specific workflows.
 
-### Setting Breakpoints on JSON Processing
+Setting Breakpoints on JSON Processing
 
 In the [Sources panel](https://chrometipsguide.com/sources-panel/), set breakpoints on any line that calls `JSON.parse()` or `JSON.stringify()`. This lets you inspect the exact string being parsed before the call executes, catching malformed data at the point of failure rather than after it has already propagated through your application.
 
 Conditional breakpoints make this even more targeted. Right-click the line gutter, select "Add conditional breakpoint," and enter an expression like `inputString.includes("error")`. The debugger pauses only when that condition evaluates to true, saving you from stepping through hundreds of successful parses to find the one that fails.
 
-## Advanced Techniques for JSON Power Users
+Advanced Techniques for JSON Power Users
 
-### Console Utilities for Deep Inspection
+Console Utilities for Deep Inspection
 
 The `copy()` function is a DevTools-only utility that copies any JavaScript value to your clipboard as a formatted JSON string. Run `copy(temp1)` after storing a response as a global variable, and you get perfectly indented JSON in your clipboard. No manual formatting needed. The [hidden features guide](https://chrometipsguide.com/hidden-features/) covers more of these built-in utilities.
 
@@ -117,7 +117,7 @@ try {
 
 The `structuredClone()` function handles these cases better than the common `JSON.parse(JSON.stringify())` pattern for deep-copying. It preserves Date objects, handles circular references gracefully, and supports Map and Set. When you need a true deep copy of an object for debugging purposes, `structuredClone()` is the correct tool to reach for.
 
-### Snippets for Repeated JSON Tasks
+Snippets for Repeated JSON Tasks
 
 The Sources panel includes a Snippets feature in the left sidebar. Snippets are persistent scripts that survive browser restarts, and you can run them anytime from within DevTools. Create a snippet for common JSON operations you repeat often. For example, a snippet that fetches an endpoint, parses the response, and logs a quick summary:
 
@@ -130,13 +130,13 @@ fetch('/api/users')
 
 Save with Cmd+S (Mac) or Ctrl+S (Windows/Linux), then execute with Cmd+Enter or Ctrl+Enter. Over time you can build a library of [reusable debugging scripts](https://chrometipsguide.com/snippets-guide/) tailored to your application's specific API structure.
 
-### Overrides for Testing Modified JSON Responses
+Overrides for Testing Modified JSON Responses
 
 Local Overrides let you intercept network responses and replace them with your own JSON data. In the Sources panel, go to the Overrides tab and select a local folder for storage. Then, in the Network panel, right-click any JSON response and choose "Override content." DevTools creates a local file that replaces the real server response on every subsequent page load.
 
 This is invaluable for testing edge cases: empty arrays, missing required fields, extremely large payloads, or error responses. You can edit the override file in DevTools or in your external code editor, and changes take effect on the next request. No proxy tools or server-side modifications required. The [overrides walkthrough](https://chrometipsguide.com/overrides-guide/) has step-by-step setup instructions.
 
-### Command Menu and the DevTools API
+Command Menu and the DevTools API
 
 The DevTools Command Menu (Cmd+Shift+P on Mac, Ctrl+Shift+P on Windows/Linux) gives you fast access to dozens of panel-specific actions. Type "Show Network conditions" to simulate slow connections and observe how your application handles delayed JSON responses. For low-level network debugging, `chrome://net-internals/#events` shows raw socket-level data that can help diagnose issues where JSON responses arrive corrupted or incomplete.
 
@@ -146,7 +146,7 @@ JSON.parse(rawString)  // parsed object stored in $_
 $_.data               // drill into the data property
 $_.map(x => x.id)     // extract all IDs
 
-## JSON Performance in the Browser
+JSON Performance in the Browser
 
 How fast Chrome parses JSON matters when your application handles large payloads. The V8 engine's `JSON.parse()` implementation is heavily optimized. In my testing with Chrome's [Performance panel](https://chrometipsguide.com/performance-panel/), parsing a 1MB JSON payload containing flat key-value pairs completes in roughly 2 to 5 milliseconds on a modern laptop. Deeply nested structures with 10 or more levels take longer per byte because the parser maintains a deeper internal stack.
 
@@ -158,25 +158,25 @@ console.timeEnd('parse');
 
 The `JSON.stringify()` method typically runs slower than `JSON.parse()` for equivalent data sizes. Stringifying a 1MB object usually takes 5 to 15 milliseconds, roughly 2 to 3 times longer than parsing the same data. The difference comes from type coercion, replacer function execution, and string escaping that stringify must perform.
 
-Payload size also affects DevTools responsiveness directly. JSON responses under 1MB render instantly in the Preview tab's tree view. Between 1MB and **10MB**, you'll notice a slight delay when expanding deep nodes. Above 10MB, the Preview tab can freeze for several seconds on first render. For very large responses, copy the raw text to the Console and work with it programmatically rather than navigating the tree by hand. The [performance optimization tips](https://chrometipsguide.com/performance-tips/) page covers strategies for handling large payloads, including streaming parsers and Web Workers that keep the main thread responsive.
+Payload size also affects DevTools responsiveness directly. JSON responses under 1MB render instantly in the Preview tab's tree view. Between 1MB and 10MB, you'll notice a slight delay when expanding deep nodes. Above 10MB, the Preview tab can freeze for several seconds on first render. For very large responses, copy the raw text to the Console and work with it programmatically rather than navigating the tree by hand. The [performance optimization tips](https://chrometipsguide.com/performance-tips/) page covers strategies for handling large payloads, including streaming parsers and Web Workers that keep the main thread responsive.
 
-## Common JSON Problems and How to Fix Them
+Common JSON Problems and How to Fix Them
 
-### Unexpected Token Errors
+Unexpected Token Errors
 
 The most frequent JSON error is `SyntaxError: Unexpected token`. This typically means the string contains a trailing comma, single-quoted property names, or unescaped special characters. Paste the raw string into the Console and run `JSON.parse()` on it directly. Chrome's error message includes the exact character position where parsing failed. Jump to that position in the string to find the offending character.
 
 If the response looks like valid JSON but still fails to parse, check for a byte order mark (BOM) at the start of the string. Some servers prepend a BOM character (`\uFEFF`) that is invisible in most viewers but causes `JSON.parse()` to choke. Strip it with `rawString.replace(/^\uFEFF/, '')` before parsing.
 
-### Responses Not Rendering as JSON in the Network Panel
+Responses Not Rendering as JSON in the Network Panel
 
 When the server sends JSON but the Network panel displays it as plain text, the issue is almost always the `Content-Type` response header. Chrome requires `application/json` or a recognized variant like `application/vnd.api+json` to trigger the JSON Preview tree. If you control the server, fix the header. If you don't, copy the response body from the Response tab and parse it manually in the Console with `JSON.parse()`.
 
-### Truncated Responses in the Preview Tab
+Truncated Responses in the Preview Tab
 
 Chrome's Network panel truncates response previews for display purposes once they exceed approximately 10MB. The full response is still captured internally and accessible via right-click "Copy response" or the `copy()` Console utility. If you need to inspect very large responses, pipe the raw text into `JSON.parse()` in the Console instead of relying on the tree view. For more on this topic, the [large payload debugging guide](https://chrometipsguide.com/large-payloads/) walks through several approaches.
 
-### Circular Reference Errors
+Circular Reference Errors
 
 When you try to stringify an object and get "TypeError: Converting circular structure to JSON," the object contains a reference cycle. Use a replacer function to handle this gracefully:
 
@@ -191,52 +191,52 @@ JSON.stringify(obj, (key, value) => {
 
 This replaces circular references with the string `[Circular]` rather than throwing.
 
-### Dates, Functions, and Special Types Disappearing
+Dates, Functions, and Special Types Disappearing
 
 `JSON.stringify()` converts Date objects to ISO 8601 strings, silently drops `undefined` values and functions, and converts `NaN` and `Infinity` to `null`. If your stringified output looks wrong or incomplete, it is likely not a bug. It is the JSON specification working as defined. Use a custom [replacer and reviver pair](https://chrometipsguide.com/json-tips/) to preserve types that JSON does not natively support.
 
-## Extensions That Make JSON Easier
+Extensions That Make JSON Easier
 
 When the built-in DevTools features are not enough, browser extensions fill the gaps. A few stand out for JSON-specific work.
 
-**JSON Formatter Pro** is a **738KiB** extension rated **4.8/5** on the Chrome Web Store (version 1.0.4, last updated March 2, 2026). It automatically detects JSON responses in browser tabs and renders them as a collapsible, syntax-highlighted tree. The formatting is clean, search works well across large payloads, and it handles big files without noticeable lag. It pairs well with DevTools because it formats JSON in the browser tab itself, giving you a readable view before you even open the Network panel. You can find more details at [zovo.one](https://zovo.one).
+JSON Formatter Pro is a 738KiB extension rated 4.8/5 on the Chrome Web Store (version 1.0.4, last updated March 2, 2026). It automatically detects JSON responses in browser tabs and renders them as a collapsible, syntax-highlighted tree. The formatting is clean, search works well across large payloads, and it handles big files without noticeable lag. It pairs well with DevTools because it formats JSON in the browser tab itself, giving you a readable view before you even open the Network panel. You can find more details at [zovo.one](https://zovo.one).
 
-**JSON Viewer** is one of the more established options with a long track record on the Web Store. It provides tree-view formatting with color-coded syntax highlighting and handles standard payloads reliably. Some users report slow rendering on extremely large files, but for typical API responses it works well.
+JSON Viewer is one of the more established options with a long track record on the Web Store. It provides tree-view formatting with color-coded syntax highlighting and handles standard payloads reliably. Some users report slow rendering on extremely large files, but for typical API responses it works well.
 
-**JSONVue** offers a minimal interface with collapsible nodes and clickable URLs within JSON values. It is lightweight and focused, without extra features that add bulk.
+JSONVue offers a minimal interface with collapsible nodes and clickable URLs within JSON values. It is lightweight and focused, without extra features that add bulk.
 
 For broader surveys of developer productivity tools, [Usersnap's roundup of Chrome extensions for developers](https://usersnap.com/blog/chrome-extensions-for-developers/) and [Android Authority's best Chrome extensions list](https://www.androidauthority.com/best-chrome-extensions-3341953/) both cover JSON tools alongside other developer utilities. [Zapier's productivity extensions list](https://zapier.com/blog/productivity-extensions-for-chrome/) is another good resource for finding tools that complement your DevTools workflow.
 
-**[Try JSON Formatter Pro Free](https://zovo.one)**
+[Try JSON Formatter Pro Free](https://zovo.one)
 
-## FAQ
+FAQ
 
-### How do I pretty-print JSON in Chrome DevTools?
+How do I pretty-print JSON in Chrome DevTools?
 
 Open the Console with F12, then run `JSON.stringify(yourObject, null, 2)` to format any object with two-space indentation. For Network responses, the Preview tab already shows a formatted, expandable tree by default. If you have a raw JSON string, parse it first with `JSON.parse()` and then stringify it with the indentation parameter to get readable output.
 
-### Can DevTools validate JSON syntax?
+Can DevTools validate JSON syntax?
 
 Yes. Paste your JSON string into the Console and wrap it in `JSON.parse()`. If the string is valid JSON, Chrome returns the parsed object. If it's invalid, Chrome throws a `SyntaxError` with the exact character position of the problem. This is faster than switching to an external validator because you don't have to leave your browser or copy data between tools.
 
-### What is the maximum JSON size DevTools can handle?
+What is the maximum JSON size DevTools can handle?
 
 There is no hard limit, but practical limits exist. The Network panel's Preview tab starts slowing down around 10MB and becomes difficult to navigate above 50MB. The Console can handle larger objects, but Chrome's tab process may run out of memory somewhere between 500MB and 1GB depending on your system's available RAM. For very large files, process the JSON outside the browser or use streaming parsers.
 
-### How do I search within a JSON response?
+How do I search within a JSON response?
 
-In the Network panel, select a request and go to the Response tab. Press Cmd+F (Mac) or Ctrl+F (Windows/Linux) to open the in-panel search bar. This searches the raw response text as a string. The Preview tab's tree view does not have built-in search, so if you need to find a specific key or value in a large tree, the Response tab search or an extension like **JSON Formatter Pro** with its searchable tree view is the better option. See the [Console debugging guide](https://chrometipsguide.com/console-guide/) for programmatic search techniques using `JSON.parse()` and array methods.
+In the Network panel, select a request and go to the Response tab. Press Cmd+F (Mac) or Ctrl+F (Windows/Linux) to open the in-panel search bar. This searches the raw response text as a string. The Preview tab's tree view does not have built-in search, so if you need to find a specific key or value in a large tree, the Response tab search or an extension like JSON Formatter Pro with its searchable tree view is the better option. See the [Console debugging guide](https://chrometipsguide.com/console-guide/) for programmatic search techniques using `JSON.parse()` and array methods.
 
-### Why does my JSON response show as plain text?
+Why does my JSON response show as plain text?
 
 The server is sending an incorrect `Content-Type` header. Chrome requires `application/json` or a recognized JSON MIME type to render the parsed Preview tree. Check the Headers tab in the Network panel detail view. If you see `text/html` or `text/plain` as the response content type, that is the problem. The fix is server-side: set the correct header. If you cannot change the server, parse the response manually in the Console.
 
-### How do I copy a specific JSON value from the Network panel?
+How do I copy a specific JSON value from the Network panel?
 
 Right-click any node in the Preview tab's tree view and select "Copy value." This copies the serialized JSON for that node and all its children. For a single property's accessor path, right-click and choose "Copy property path" to get a string like `data.users[0].name`. You can then paste that path in the Console after a stored global variable to query the exact value programmatically.
 
-### Can I edit JSON responses for testing without changing server code?
+Can I edit JSON responses for testing without changing server code?
 
 Use Local Overrides in the Sources panel. Enable overrides by selecting a local folder, then right-click any network response in the Network panel and choose "Override content." DevTools saves a local copy that replaces the server response on all future loads of that URL. Edit the file to test how your application responds to different data shapes, missing fields, or error payloads. No proxy tools, mock servers, or backend changes needed. The override persists until you disable it or delete the file.
 
-Built by Michael Lip — More tips at [zovo.one](https://zovo.one)
+Built by Michael Lip. More tips at [zovo.one](https://zovo.one)

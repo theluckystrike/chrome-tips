@@ -24,7 +24,7 @@ Chrome Spectre attack protection in browser is something every Chrome user shoul
 
 Let me explain what Spectre attacks are, why they matter for your browser, and what you can do to keep yourself protected while browsing the web.
 
-## What Is a Spectre Attack
+What Is a Spectre Attack
 
 Spectre is a type of security vulnerability that affects nearly all modern processors, the chips that power your computer, phone, and tablet. It was discovered in 2017 and since then, researchers have found several related variants. The reason Spectre is so significant is that it exploits a fundamental feature of how processors work to speed up calculations, something called speculative execution.
 
@@ -32,7 +32,7 @@ When your processor performs a task, it often tries to guess what you might do n
 
 The troubling part about Spectre is that it works at the hardware level, meaning the vulnerability exists in the chip itself rather than in your software. This makes it particularly difficult to fix completely. However, browser developers like Google have worked hard to add layers of protection that significantly reduce the risk.
 
-## Why Your Browser Is Affected
+Why Your Browser Is Affected
 
 Browsers are particularly attractive targets for Spectre attacks because they run code from websites you visit. A malicious website could theoretically use JavaScript to exploit Spectre vulnerabilities and read data from other websites you have open in other tabs. For example, an attacker could potentially access your banking information, email, or private documents if those sites are open in other tabs at the same time.
 
@@ -40,7 +40,7 @@ Chrome runs each tab in something called a sandbox, which isolates them from eac
 
 One of the most important protections Chrome uses is called site isolation. When enabled, Chrome keeps pages from different websites in separate processes, making it much harder for an attacker to access data from one site while browsing another. Site isolation has been enabled by default for most users since Chrome 67, and it goes a long way toward neutralizing the most dangerous scenarios that Spectre could theoretically enable.
 
-## How Chrome Protects You
+How Chrome Protects You
 
 Google has taken multiple approaches to protect Chrome users from Spectre and related attacks. Understanding these protections helps you appreciate the security work happening behind the scenes every time you browse.
 
@@ -50,7 +50,7 @@ Chrome also includes protections against Spectre through its process separation 
 
 Another layer of protection comes from regularly updating Chrome. Google releases security updates frequently, and these updates often include improvements to Spectre defenses. When you keep Chrome updated, you benefit from the latest protections against newly discovered attack techniques. Browser updates are one of the simplest and most effective steps you can take to stay secure.
 
-## Practical Steps You Can Take
+Practical Steps You Can Take
 
 While Chrome does a lot to protect you automatically, there are steps you can take to further reduce your risk and browse more safely.
 
@@ -64,7 +64,7 @@ Using an extension like Tab Suspender Pro can help you manage your tabs more eff
 
 Finally, be cautious about the websites you visit and the extensions you install. While Spectre is a hardware vulnerability, attackers still need to deliver their malicious code through websites or extensions. Avoiding suspicious sites and only installing extensions from trusted developers reduces your exposure to many different types of browser-based attacks, including those that might try to exploit Spectre.
 
-## Staying Informed and Protected
+Staying Informed and Protected
 
 Spectre represents a new category of security threats that operates at a fundamental level of computer hardware. The good news is that browser developers like Google have responded aggressively, implementing multiple layers of protection that make successful attacks much more difficult to carry out.
 
@@ -74,7 +74,7 @@ Your browser is your gateway to the internet, and taking a few simple steps to p
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Best Chrome Extensions for Accountants](/articles/best-chrome-extensions-for-accountants/)
 * [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
 * [Chrome for CodePen in Browser Tips](/articles/chrome-for-codepen-in-browser-tips/)

@@ -16,7 +16,7 @@ author: theluckystrike
 
 If you have been searching for chrome energy saver mode what does it do, you probably noticed your laptop battery draining quickly while using Chrome. This is a helpful feature that can make a real difference in how long your battery lasts throughout the day.
 
-## What Chrome Energy Saver Actually Does
+What Chrome Energy Saver Actually Does
 
 Chrome Energy Saver is a built-in feature that helps your laptop battery last longer by reducing how much work Chrome does when you are not looking at a tab. When you turn this feature on, Chrome automatically slows down background tabs so they use less energy.
 
@@ -24,7 +24,7 @@ Here is what happens when Energy Saver is active. Tabs that you are not currentl
 
 The important thing to understand is that this all happens automatically. You do not need to do anything special with your tabs. Chrome handles everything behind the scenes, and when you click on a tab that was in the background, it immediately comes back to full speed.
 
-## How It Helps Your Battery
+How It Helps Your Battery
 
 Every tab you keep open in Chrome uses some of your computer's resources, even when you are not looking at it. Websites continuously update content, check for new notifications, run animations, and maintain connections to servers. All of this activity requires processing power, and processing power uses battery life.
 
@@ -32,7 +32,7 @@ When you have many tabs open, the combined effect can be significant. A single t
 
 The feature does not close your tabs or delete any of your work. It simply reduces their activity level so they use less power. When you return to a tab, Chrome instantly wakes it up so you can continue browsing without any delay.
 
-## How to Turn It On
+How to Turn It On
 
 Getting started with Energy Saver is straightforward. Open Chrome on your computer and click the three dots in the upper right corner of the window. This opens the Chrome menu. From there, click on Settings.
 
@@ -40,7 +40,7 @@ On the Settings page, look for Performance in the left sidebar. Click on it to s
 
 Click the toggle to turn on Energy Saver. Once it is enabled, you will see a small leaf icon in your browser toolbar, letting you know the feature is active. That is all you need to do.
 
-## When Energy Saver Is Active
+When Energy Saver Is Active
 
 Energy Saver works differently depending on whether your computer is plugged in or running on battery. By default, when your laptop is connected to power, Energy Saver stays turned off so you get the full Chrome experience without any limitations.
 
@@ -48,7 +48,7 @@ When you unplug your laptop and start running on battery, Energy Saver turns on 
 
 Some users prefer to keep it on whenever they are away from a power outlet. Others prefer to only use it when necessary. Either way works well, and you can change your preference at any time in the Performance settings.
 
-## What You Might Notice
+What You Might Notice
 
 With Energy Saver enabled, some things work slightly differently than you might be used to. Background videos will not play automatically when you are looking at a different tab. Websites might take a moment to update when you return to them after being away. Some animations and effects might be simplified or missing.
 
@@ -56,7 +56,7 @@ For most people, these changes are hardly noticeable. You can still browse the w
 
 If you step away from your computer for a while and come back to a background tab, you might notice it needs a moment to refresh. This is completely normal and is simply Chrome catching the tab up on what you missed while you were away.
 
-## Beyond Energy Saver
+Beyond Energy Saver
 
 While Chrome Energy Saver is helpful, you can get even more battery savings by paying attention to your browsing habits. Closing tabs you no longer need is the most effective way to reduce battery usage. Each open tab uses some resources, so keeping your tab count lower directly translates to better battery life.
 
@@ -66,7 +66,7 @@ Using a single browser window with multiple tabs is more efficient than opening 
 
 For additional control over tab management, Tab Suspender Pro offers features that work alongside Chrome Energy Saver. You can set custom rules for which tabs should be paused, configure automatic suspension after certain time periods, and get detailed information about how your tabs are affecting performance. It gives you more options if you want finer control over how Chrome manages your resources.
 
-## The Bottom Line
+The Bottom Line
 
 Chrome Energy Saver mode does exactly what its name suggests. It saves energy by reducing the work Chrome does in the background. This helps your laptop battery last longer without forcing you to close your tabs or change how you browse.
 
@@ -76,14 +76,14 @@ Try turning it on and see how it works for you. You might be surprised at how mu
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome User Agent String: What It Is and How It Works](/articles/chrome-user-agent-string-what-it-is/)
 * [Chrome Shared Storage API Explained](/articles/chrome-shared-storage-api-explained/)
 * [Chrome Game Streaming Optimization Tips](/articles/chrome-game-streaming-optimization-tips/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Extensions for Note Taking in Meetings](/articles/chrome-extensions-for-note-taking-in-meetings)
 - [How to Inspect and Debug IndexedDB in Chrome: A Complete Guide](/articles/chrome-indexeddb-inspect-debug)

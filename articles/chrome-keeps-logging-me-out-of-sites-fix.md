@@ -14,7 +14,7 @@ author: theluckystrike
 
 Chrome keeps logging me out of sites is a complaint you will hear from plenty of Chrome users. You sign into your favorite website, close the tab, reopen it a few minutes later, and suddenly you are logged out again. It is frustrating, especially when you use those sites daily and have to type your password over and over. This issue is usually not your fault and it is definitely fixable. Let us walk through why this happens and what you can do about it.
 
-## Why Does Chrome Keep Logging You Out of Websites
+Why Does Chrome Keep Logging You Out of Websites
 
 Chrome keeps you logged into websites through something called cookies. When you sign into a site, that website sends a small piece of data called a cookie to your browser. This cookie tells the website who you are so you do not have to log in every single time you click a link or refresh the page. Chrome stores these cookies on your computer, and under normal circumstances, they work quietly in the background to keep you signed in.
 
@@ -32,53 +32,53 @@ Fifth, some security extensions or privacy-focused tools intentionally clear coo
 
 Sixth, if Chrome detects suspicious activity or thinks your account might be compromised, some websites will automatically log you out as a security precaution.
 
-## How to Fix Chrome Logging You Out
+How to Fix Chrome Logging You Out
 
 The good news is that you can usually stop this from happening with a few straightforward adjustments. Here are the most effective solutions to try.
 
-### Check Your Browsing Data Settings
+Check Your Browsing Data Settings
 
 Open Chrome and click the three dots in the top right corner. Go to Settings and look for Privacy and Security on the left side. Click on Clear browsing data. If you see that "Cookies and other site data" is set to be cleared, that is likely your problem. Change this setting to only clear it when you explicitly choose to, rather than every time you close Chrome.
 
 While you are in this area, also check if you have any third-party cleanup tools or extensions that automatically clear your cookies. Extensions designed to clean browsing history or remove tracking data are often the culprit.
 
-### Enable Cookies if They Are Disabled
+Enable Cookies if They Are Disabled
 
 Sometimes cookies get accidentally turned off. In Chrome Settings, search for "cookies" and click on Cookies and site data. Make sure the toggle that says "Allow sites to save and read cookie data" is turned on. If this is disabled, no website will be able to keep you logged in.
 
-### Check Site Settings Individually
+Check Site Settings Individually
 
 Some websites have their own cookie permissions that might be more restrictive than your global settings. In the address bar, next to the website URL, click the lock icon or the site information button. Make sure cookies are allowed for that specific site. If you see it is blocked, change it to allow and refresh the page.
 
-### Disable Third-Party Cookie Blocking
+Disable Third-Party Cookie Blocking
 
 Chrome has an option to block third-party cookies. While this improves privacy, it can cause issues with some websites that rely on third-party authentication or tracking sessions. Go to Chrome Settings, find Cookies and site data, and look for "Block third-party cookies." If this is turned on and you are having logout problems, try turning it off to see if that resolves the issue.
 
-### Update Chrome
+Update Chrome
 
 An outdated browser can cause all sorts of strange behavior, including logout issues. Make sure you are running the latest version of Chrome. Click the three dots, go to Help, and select About Google Chrome. If an update is available, Chrome will download and install it. Restart your browser after updating.
 
-### Try a Chrome Profile
+Try a Chrome Profile
 
 If you have been using the same Chrome profile for years and have accumulated a lot of extensions, settings, and cached data, things can get messy. Creating a fresh Chrome profile sometimes resolves persistent logout issues because you start with a clean slate. Go to Settings, find "People," and create a new profile. Try signing into your websites from this new profile to see if the problem goes away.
 
-### Review Your Extensions
+Review Your Extensions
 
 Browser extensions can interfere with how cookies work. Some extensions, particularly privacy tools, ad blockers, or cookie managers, might be deleting your session cookies without you knowing. Try disabling your extensions temporarily and see if the logout issue stops. If it does, re-enable them one by one to find the culprit.
 
-### Check Your Computer Clock
+Check Your Computer Clock
 
 This sounds simple, but if your computer's clock is wrong, websites might think their cookies are expired or invalid. Make sure your computer is set to automatically update its time. On Windows, go to Date and Time settings and enable "Set time automatically." On Mac, go to System Preferences, click Date and Time, and make sure the date and time are correct.
 
-### Clear Site Data Manually
+Clear Site Data Manually
 
 If a specific site keeps logging you out, try clearing just that site's data. In Chrome Settings, go to Cookies and site data, then click "See all cookies and site data." Find the website in question and delete its data. Then log in again and see if it stays logged in.
 
-## A Helpful Tool to Consider
+A Helpful Tool to Consider
 
 If you find that Chrome is running slowly and you have many tabs open, this can sometimes contribute to session issues. Extensions like Tab Suspender Pro can help manage your open tabs by automatically suspending tabs you are not using, which reduces memory usage and can help Chrome run more smoothly overall. This is not a required fix for the logout issue, but it can improve your browsing experience if you tend to keep dozens of tabs open at once.
 
-## When to Try Something More
+When to Try Something More
 
 If you have tried all of these steps and Chrome still keeps logging you out, the issue might be on the website's end rather than your browser. Some websites have server issues or security policies that force frequent logouts. In that case, there is not much you can do except wait for the website to fix their side or contact their support team.
 
@@ -86,9 +86,9 @@ You might also consider whether your Chrome profile itself has become corrupted.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Hardware Acceleration Gaming: Complete Optimization Guide](/articles/chrome-hardware-acceleration-gaming/)
 * [Chrome Full Screen Mode How to Exit Stuck](/articles/chrome-full-screen-mode-how-to-exit-stuck/)
 * [Chrome Breakpoints and Conditional Debugging Guide](/articles/chrome-breakpoints-conditional-debugging-guide/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

@@ -20,7 +20,7 @@ permalink: chrome-auto-dark-mode-for-web-contents
 
 Chrome auto dark mode for web contents is something many users have been looking for as they spend more time browsing in the evening or late at night. If you have ever found yourself squinting at a bright white website late at night, you know how uncomfortable it can be. Fortunately, there are ways to make Chrome automatically show websites in dark mode, and this guide will walk you through the options.
 
-## Why Dark Mode Matters for Web Browsing
+Why Dark Mode Matters for Web Browsing
 
 When you browse the internet, most websites load with a white or light-colored background. This works fine during the day when you are in a well-lit room, but it can become straining on your eyes when you are browsing in a dimly lit environment. The contrast between a bright screen and a dark room can cause eye fatigue, headaches, and make it harder to fall asleep if you are browsing before bed.
 
@@ -28,7 +28,7 @@ Dark mode solves this problem by showing websites with dark backgrounds and ligh
 
 The challenge is that not all websites offer a dark mode option built into their design. While some sites let you toggle between light and dark themes, many still default to light mode no matter what time of day it is. This is where Chrome built-in features and extensions come in handy.
 
-## Using Chrome Built-in Features
+Using Chrome Built-in Features
 
 Chrome has a few ways to enable dark mode for web contents, and these options have improved over time as Google has added more features to support dark themes.
 
@@ -36,7 +36,7 @@ The simplest approach is to check if Chrome itself has a dark mode setting. On c
 
 For websites that do not have built-in dark mode, Chrome will sometimes automatically display a darker version of the page when you are using dark mode on your operating system. This feature is not universal and depends on whether the website has been designed to support it, but it is a good starting point.
 
-## Extensions That Enable Auto Dark Mode
+Extensions That Enable Auto Dark Mode
 
 If the built-in options are not enough, browser extensions offer a more powerful solution. These extensions work by inverting the colors of websites, essentially turning light backgrounds dark and dark text light. They can apply this transformation automatically to all websites you visit, so you do not have to manually enable dark mode on each site.
 
@@ -44,7 +44,7 @@ One popular extension that handles this is called Dark Reader. It is designed to
 
 If you run a dark mode extension alongside many open tabs, Chrome's memory usage can climb quickly. Tab Suspender Pro helps by automatically suspending tabs you are not actively viewing, freeing up resources so your dark mode extension runs smoothly without slowing down the browser. It is part of the Zovo extension suite, which is designed to improve your browsing experience in multiple ways.
 
-## How to Set Up Automatic Dark Mode
+How to Set Up Automatic Dark Mode
 
 Setting up automatic dark mode through an extension is straightforward. First, open the Chrome Web Store and search for the extension you want to use, such as Dark Reader. Click on Add to Chrome and confirm the installation. The extension will then appear in your browser toolbar.
 
@@ -52,7 +52,7 @@ Once installed, most dark mode extensions will start working immediately, applyi
 
 To set a schedule in Dark Reader, click on the extension icon and look for a time or schedule option. You can usually specify the hours when you want dark mode to be enabled, such as from 6 PM to 6 AM. This way, you do not have to remember to turn it on and off manually.
 
-## Tips for a Better Dark Mode Experience
+Tips for a Better Dark Mode Experience
 
 While dark mode extensions are helpful, there are a few things to keep in mind to get the best experience.
 
@@ -62,7 +62,7 @@ Keep your extensions updated. Developers frequently update dark mode extensions 
 
 Consider using a lower brightness setting on your monitor when using dark mode. Even with dark backgrounds, your screen can still be quite bright. Reducing the overall brightness of your display, combined with dark mode extension, creates a more comfortable viewing experience, especially at night.
 
-## When Built-in Options Are Enough
+When Built-in Options Are Enough
 
 If you only need dark mode occasionally and do not want to install an extension, you might find that Chrome system-level dark mode is sufficient. This works best if you already prefer using dark mode on your computer overall. When your operating system is set to dark mode, many modern websites will automatically display in their dark variants, if they have them.
 
@@ -70,7 +70,7 @@ You can also try manually enabling dark mode on individual websites that offer i
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup/)
 * [Chrome Private Aggregation API Explained](/articles/chrome-private-aggregation-api-explained/)
 * [chrome device management for education](/articles//chrome-device-management-for-education//)

@@ -24,7 +24,7 @@ Chrome activity controls what they track is something every Chrome user should u
 
 Let me walk you through what Chrome Activity Controls actually track, why Google collects this information, and what steps you can take to take back some control over your privacy.
 
-## What Are Chrome Activity Controls
+What Are Chrome Activity Controls
 
 Chrome Activity Controls are settings that govern how Google collects and stores your activity data across its services. These controls are tied to your Google account and apply across Chrome, Search, Assistant, and other Google products. When you are signed into your Google account while using Chrome, various types of your activity are automatically recorded and saved to your account.
 
@@ -32,7 +32,7 @@ The most well-known of these is Web and App Activity, which records your searche
 
 These features are designed to make your experience more convenient. For example, Web and App Activity helps Google show you more relevant search results and recommendations based on what you have looked at before. Location History can help you find directions or remember places you have visited. The trade-off is that Google builds a detailed profile of your behavior and interests.
 
-## What Exactly Gets Tracked
+What Exactly Gets Tracked
 
 When Chrome Activity Controls are enabled, Google collects a wide range of data about you. Web and App Activity records every search you make, every website you visit while signed in, and information about how you interact with those sites. This includes pages viewed, time spent on sites, and sometimes even what you type into forms before submitting.
 
@@ -44,7 +44,7 @@ Voice and Audio Recording captures your voice interactions with Google Assistant
 
 The scope of this tracking can be quite extensive. If you use Chrome heavily and stay signed into your Google account, Google likely has a years-long record of your browsing patterns, search queries, locations, and media consumption habits.
 
-## Why This Matters for Your Privacy
+Why This Matters for Your Privacy
 
 The collection of this much personal data raises legitimate privacy concerns. Having a detailed record of your browsing history, locations, and media consumption means Google knows a lot about who you are, what you are interested in, and how you live your life. While Google uses this data primarily to improve its services and show more relevant ads, the sheer depth of this information collection is something many users are uncomfortable with.
 
@@ -52,7 +52,7 @@ There are also practical risks to consider. If your Google account were ever com
 
 Additionally, the data Google collects can be subpoenaed or requested by law enforcement in certain situations. Your browsing history could become relevant in legal matters, and while there are processes in place, the fact that this data exists in such detail is worth considering.
 
-## How to Check Your Activity Controls
+How to Check Your Activity Controls
 
 The good news is that you can see exactly what Google is collecting and manage these settings. Start by visiting myactivity.google.com while signed into your Google account. This dashboard shows you a timeline of your activity across all Google services.
 
@@ -60,7 +60,7 @@ On this page, you can filter by type of activity, such as Chrome browsing histor
 
 To change your Activity Controls, look for the "Activity Controls" option in your Google Account settings. This will show you each category of data that Google collects, with toggle switches that let you pause or delete the collection. You can also set auto-delete options that remove data after a certain period, such as three months or eighteen months.
 
-## Steps You Can Take to Protect Your Privacy
+Steps You Can Take to Protect Your Privacy
 
 If you are concerned about the amount of data being collected, there are several practical steps you can take. The first is to review your Activity Controls and turn off or pause the tracking for categories that you do not need. Many users find that they do not need Web and App Activity to get good results from Google Search, for example.
 
@@ -72,16 +72,16 @@ Using a browser extension like Tab Suspender Pro can also help you manage your b
 
 You might also consider whether you need to stay signed into your Google account while browsing. Signing out means your activity is not linked to your account, though some Chrome features may not work as smoothly.
 
-## Final Thoughts
+Final Thoughts
 
 Chrome activity controls what they track is an important question for anyone who uses the browser. Google collects a significant amount of data to improve its services and personalize your experience, but this comes with privacy implications that are worth considering. The good news is that you have control over these settings and can choose how much or how little data you want to share.
 
 Taking a few minutes to review your Activity Controls and adjust them to your comfort level is a worthwhile step. You do not have to stop using Chrome to enjoy better privacy. Small changes in how you use the browser and manage your account settings can make a meaningful difference.
 
-## Related Articles
-- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
+Related Articles
+- [Chrome Incognito Mode. What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
 - [Chrome Super Cookies: What Are They](/chrome-super-cookies-what-are-they)
 - [Chrome Origin Trials What They Are](/chrome-origin-trials-what-they-are)
 
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

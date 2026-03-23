@@ -15,15 +15,15 @@ author: theluckystrike
 
 Chrome's side panel API has opened up exciting possibilities for extension developers. Unlike traditional popup windows that appear and disappear, side panel extensions provide a persistent, always-accessible interface that stays alongside the user's browsing content. This tutorial walks you through building a Chrome extension with side panel functionality, from manifest configuration to final implementation.
 
-## Understanding the Side Panel API
+Understanding the Side Panel API
 
 The side panel API was introduced in Chrome 114 and represents a significant improvement over older approaches. Previously, developers had to use browser action popups or content scripts to create persistent interfaces, each with significant limitations. Side panels solve these problems by providing a dedicated space that users can toggle on and off while maintaining full access to the page content.
 
-Side panel extensions are particularly useful for productivity tools, note-taking applications, reference managers, and any extension where users need to interact with your interface while browsing. The persistent nature of side panels means users don't have to keep reopening your extension—they can leave it open and reference it throughout their browsing session.
+Side panel extensions are particularly useful for productivity tools, note-taking applications, reference managers, and any extension where users need to interact with your interface while browsing. The persistent nature of side panels means users don't have to keep reopening your extension, they can leave it open and reference it throughout their browsing session.
 
 To use the side panel API, your extension must target Manifest V3, which is now the standard for Chrome extensions. This tutorial assumes you have basic familiarity with HTML, CSS, and JavaScript, as well as access to Chrome or a Chromium-based browser for testing.
 
-## Setting Up Your Manifest
+Setting Up Your Manifest
 
 The foundation of any Chrome extension is its manifest.json file. For side panel support, you'll need to specify the appropriate permissions and declare your side panel HTML file. Here's a minimal manifest configuration to get started:
 
@@ -46,9 +46,9 @@ The foundation of any Chrome extension is its manifest.json file. For side panel
 
 The key addition here is the "side_panel" object, which tells Chrome which HTML file to load in your side panel. The "sidePanel" permission is required to use the API. I've also included the "storage" permission, which you'll likely need for saving user preferences or data.
 
-You also need to grant the sidePanel permission in the permissions array. Note that you cannot request host permissions for the side panel—it operates in its own isolated context, separate from web pages.
+You also need to grant the sidePanel permission in the permissions array. Note that you cannot request host permissions for the side panel, it operates in its own isolated context, separate from web pages.
 
-## Creating the Side Panel HTML
+Creating the Side Panel HTML
 
 Your side panel needs its own HTML file that will be loaded when users open the panel. This file operates independently from web pages, so it won't have access to page content directly. Here's a basic structure:
 
@@ -83,7 +83,7 @@ Your side panel needs its own HTML file that will be loaded when users open the 
 
 The styling here uses a fixed width, which is important because side panels have limited space. The container uses flexbox for clean layout, and the system font stack ensures consistent appearance across different operating systems.
 
-## Implementing Extension Logic
+Implementing Extension Logic
 
 Now you'll create the JavaScript file that handles user interactions and extension functionality. This script runs in the context of your side panel:
 
@@ -108,9 +108,9 @@ function handleAction() {
 }
 ```
 
-The side panel has access to most Chrome extension APIs, including storage, runtime, and tabs. However, it cannot directly access the DOM of the current web page—that requires a content script running on the page itself.
+The side panel has access to most Chrome extension APIs, including storage, runtime, and tabs. However, it cannot directly access the DOM of the current web page, that requires a content script running on the page itself.
 
-## Enabling the Side Panel
+Enabling the Side Panel
 
 Users need a way to open your side panel. The most common approach is to add a browser action that opens the panel when clicked. Create a background script to handle this:
 
@@ -131,7 +131,7 @@ chrome.runtime.onInstalled.addListener(() => {
 
 This background script listens for clicks on your extension's toolbar icon and opens the side panel for the current tab. Users can also right-click the icon to access additional options.
 
-## Advanced: Communicating Between Contexts
+Advanced: Communicating Between Contexts
 
 Many extensions need to share data between the side panel and content scripts running on web pages. This requires the message passing API. From your side panel, you can send messages to content scripts:
 
@@ -155,11 +155,11 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
 });
 ```
 
-This bidirectional communication allows your side panel to display information from the current page, process data, and return results—all without requiring users to navigate away from their content.
+This bidirectional communication allows your side panel to display information from the current page, process data, and return results, all without requiring users to navigate away from their content.
 
-## Best Practices for Side Panel Extensions
+Best Practices for Side Panel Extensions
 
-When developing side panel extensions, keep these recommendations in mind for the best user experience. First, optimize for the constrained space—side panels typically display at 300-400 pixels width, so design your UI to work within these limitations. Use collapsible sections, tabs, or accordions to organize content efficiently.
+When developing side panel extensions, keep these recommendations in mind for the best user experience. First, optimize for the constrained space, side panels typically display at 300-400 pixels width, so design your UI to work within these limitations. Use collapsible sections, tabs, or accordions to organize content efficiently.
 
 Performance matters in side panels because they remain open during browsing. Avoid heavy computations or excessive API calls that could slow down the browser. Use lazy loading for optional features and cache data appropriately.
 
@@ -167,7 +167,7 @@ Consider accessibility by ensuring your side panel works with keyboard navigatio
 
 Finally, test your extension across different screen sizes and with Chrome's side panel resizing. Users may have smaller screens or prefer narrower panels, so your design should remain functional at various widths.
 
-## Conclusion
+Conclusion
 
 Building a Chrome extension with side panel support opens up powerful possibilities for creating persistent, user-friendly tools. The side panel API provides a clean way to offer always-available functionality without interrupting the browsing experience. By following this tutorial, you've learned the foundational concepts needed to create your own side panel extensions.
 
@@ -175,14 +175,14 @@ Extensions like Tab Suspender Pro demonstrate how side panels can deliver signif
 
 Start experimenting with your own side panel extension today, and remember to test thoroughly before publishing to the Chrome Web Store.
 
-## Related Articles
+Related Articles
 * [Chrome Navigation Timing API Explained](/articles/chrome-navigation-timing-api-explained/)
 * [How to Change Your Chrome New Tab Background to a Custom Image](/articles/chrome-new-tab-background-change-custom-image/)
 * [chrome default browser how to set on windows](/articles//chrome-default-browser-how-to-set-on-windows//)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Extensions For Canva Companion](/articles//articles/chrome-extensions-for-canva-companion/)
 - [How to Use Chrome DevTools Device Orientation Emulator](/articles//chrome-devtools-device-orientation-emulator/)

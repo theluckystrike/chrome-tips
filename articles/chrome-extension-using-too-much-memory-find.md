@@ -15,13 +15,13 @@ author: theluckystrike
 
 If you have ever wondered "why is my chrome extension using too much memory," you are not alone. Many Chrome users experience slow browser performance without realizing that extensions are often the real cause. The good news is that Chrome makes it relatively easy to find out which extension is using too much memory, and once you identify the problem, you can take steps to fix it.
 
-## Why Extensions Consume Memory
+Why Extensions Consume Memory
 
 Before we dive into how to find the culprit, it helps to understand why Chrome extensions use memory in the first place. Every extension you install runs code in the background, even when you are not actively using it. Some extensions constantly monitor web pages, sync data, or run timers and processes that consume CPU and RAM.
 
 Extensions that work with productivity tools, weather updates, email notifications, or tab management tend to be the biggest memory hogs. They often maintain persistent connections, update their interfaces frequently, or process data in the background. The more extensions you have installed, the more memory Chrome needs to keep them all running, and this can add up quickly.
 
-## How to Check Which Extension is Using Too Much Memory
+How to Check Which Extension is Using Too Much Memory
 
 Chrome includes a built-in tool that shows you exactly how much memory each extension is using. Here is how to access it.
 
@@ -33,7 +33,7 @@ In the Chrome Task Manager window, you will see a list of all processes currentl
 
 You can also get more detailed information by clicking on an extension in the `chrome://extensions` page and then clicking "Service worker" if available. This opens the developer tools specifically for that extension, where you can monitor its performance and memory consumption in real time.
 
-## Common Signs of Memory-Hungry Extensions
+Common Signs of Memory-Hungry Extensions
 
 Sometimes you do not need to open the task manager to tell that an extension is causing problems. Watch for these common signs that a chrome extension is using too much memory.
 
@@ -43,7 +43,7 @@ Another telltale sign is Chrome using significantly more memory than usual. You 
 
 Extensions that frequently crash or display error icons in the toolbar are also suspect. These issues often indicate memory problems or conflicts with other extensions.
 
-## What to Do When You Find a Problematic Extension
+What to Do When You Find a Problematic Extension
 
 Once you have identified which extension is using too much memory, you have several options. The simplest solution is to remove the extension entirely if you do not use it regularly. Go back to `chrome://extensions`, find the problematic extension, and click the "Remove" button.
 
@@ -51,13 +51,13 @@ If you need the extension but want to reduce its memory impact, look for setting
 
 For extensions that you need but do not use constantly, consider disabling them when not in use. You can toggle extensions on and off from the same extensions management page without removing them entirely.
 
-## Using Tab Suspender Pro to Reduce Memory Usage
+Using Tab Suspender Pro to Reduce Memory Usage
 
 One effective strategy for managing overall Chrome memory usage is to use a tab management extension like Tab Suspender Pro. This type of extension automatically suspends tabs that you have not used recently, freeing up the memory they were consuming. When you return to a suspended tab, it reloads the page automatically.
 
 Tab Suspender Pro is particularly useful if you tend to keep many tabs open at once, which is a common habit that leads to high memory usage. By automatically managing idle tabs, you can keep your browser fast without having to manually close and reopen tabs throughout your workday.
 
-## Preventing Memory Problems in the Future
+Preventing Memory Problems in the Future
 
 After you have dealt with the immediate problem, adopt habits that prevent memory issues from recurring. Periodically review your installed extensions and remove any that you have not used in the past month. The fewer extensions you have running, the less memory Chrome will need.
 
@@ -67,14 +67,14 @@ Finally, make a habit of checking the Chrome Task Manager occasionally, especial
 
 Finding which chrome extension is using too much memory does not require technical expertise. With Chrome is built-in tools, you can identify problematic extensions in just a few clicks. Once you know which ones are causing issues, you can either remove them, adjust their settings, or use tools like Tab Suspender Pro to keep your browser running smoothly.
 
-## Related Articles
+Related Articles
 * [Chrome Speed Dial Extensions Best](/articles/chrome-speed-dial-extensions-best/)
 * [Chrome MotionMark Graphics Benchmark](/articles/chrome-motionmark-graphics-benchmark/)
 * [Chrome Saved Passwords How to View](/articles/chrome-saved-passwords-how-to-view/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Password Checkup What It Does](/articles/chrome-password-checkup-what-it-does)
 - [Best Chrome Extensions for Video Editors](/articles/best-chrome-extensions-for-video-editors)

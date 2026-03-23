@@ -14,7 +14,7 @@ author: theluckystrike
 
 Cross-site scripting (XSS) remains one of the most dangerous security vulnerabilities affecting web applications today. Among its various forms, DOM-based XSS is particularly insidious because it happens entirely on the client side, making traditional server-side defenses ineffective. Fortunately, Chrome Trusted Types provides a powerful mechanism to prevent DOM XSS attacks by giving developers control over how the browser handles potentially dangerous DOM operations.
 
-## Understanding DOM-Based XSS
+Understanding DOM-Based XSS
 
 DOM-based XSS occurs when a web page modifies its Document Object Model (DOM) using user-supplied data without proper sanitization. Unlike reflected or stored XSS, where malicious scripts travel through the server, DOM XSS exploits happen directly in the browser. Attackers inject malicious code through URLs, form inputs, or other client-side data sources that the page then executes when manipulating the DOM.
 
@@ -22,7 +22,7 @@ Common vulnerable patterns include using innerHTML, insertAdjacentHTML, document
 
 The challenge with DOM XSS is that it often goes unnoticed during development because traditional security scanning tools may not detect it, and the vulnerable code can appear harmless at first glance. This is where Chrome Trusted Types come in.
 
-## How Chrome Trusted Types Work
+How Chrome Trusted Types Work
 
 Chrome Trusted Types is a browser security feature that allows developers to create policies defining which values are safe to use with dangerous DOM APIs. When enabled, the browser will only allow specific, trusted values to be used with functions that could otherwise execute arbitrary code.
 
@@ -46,7 +46,7 @@ element.innerHTML = safeElement;
 
 This approach shifts the security model from hoping developers remember to sanitize every input to explicitly requiring safe handling. When Trusted Types are enforced, any attempt to use a raw string with a dangerous DOM API will throw an error.
 
-## Implementing Trusted Types in Your Application
+Implementing Trusted Types in Your Application
 
 Getting started with Chrome Trusted Types requires both creating policies in your JavaScript code and adding a Content Security Policy (CSP) header to instruct the browser to enforce them. The implementation process involves several important steps.
 
@@ -62,7 +62,7 @@ Next, identify all the places in your application where you manipulate the DOM w
 
 It's important to note that enabling Trusted Types is an all-or-nothing proposition for affected APIs. Once the policy is active, you cannot use raw strings with protected methods. This means you must audit your entire codebase and update every vulnerable pattern before enabling enforcement.
 
-## Benefits Beyond Security
+Benefits Beyond Security
 
 Implementing Chrome Trusted Types provides benefits that extend beyond just preventing XSS attacks. The explicit nature of creating trusted values makes code intent clearer and serves as documentation for future developers. When someone sees `policy.createHTML(userData)`, it's immediately obvious that the data has been processed for safe rendering.
 
@@ -72,7 +72,7 @@ Performance can also improve in some cases. Trusted Type policies can cache sani
 
 For organizations with extensive web applications, Trusted Types integrate well with existing security workflows. Policies can be tested in report-only mode first, allowing teams to identify violations without breaking production functionality. This gradual rollout makes adoption more manageable for large codebases.
 
-## Common Challenges and Solutions
+Common Challenges and Solutions
 
 Adopting Chrome Trusted Types does come with some challenges that teams should be prepared to address. Understanding these upfront will help ensure a smoother implementation.
 
@@ -91,26 +91,26 @@ Browser compatibility is generally good for modern browsers, but you should veri
 
 If you have multiple browser tabs open while developing, some of which may be using older code, Tab Suspender Pro can help manage resource usage during testing. It automatically suspends inactive tabs, which is particularly useful when debugging security features that might cause errors in development builds.
 
-## Best Practices for Maximum Protection
+Best Practices for Maximum Protection
 
 To get the most out of Chrome Trusted Types, follow these established best practices. Start by auditing your entire application for DOM manipulation patterns before enabling enforcement. Create a comprehensive list of all locations that need policy updates.
 
 Use descriptive policy names that reflect their purpose. Rather than generic names like "policy1", use names like "markdownRenderer" or "userContentPolicy" that make the code's intent clear.
 
-Implement sanitization properly within your policies. Use well-tested libraries like DOMPurify rather than writing your own sanitization logic. This ensures robust protection against various attack vectors.
+Implement sanitization properly within your policies. Use well-tested libraries like DOMPurify rather than writing your own sanitization logic. This ensures solid protection against various attack vectors.
 
 Document your policies thoroughly. Other developers who work on the code need to understand what each policy does and when to use it. Clear documentation prevents accidental misuse.
 
 Finally, test thoroughly in staging before deploying to production. Use CSP report-uri to collect violation reports and identify any missed cases. This feedback loop helps ensure complete coverage before enforcement goes live.
 
-## Related Articles
+Related Articles
 * [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking/)
 * [Chrome HSTS What It Means for Security](/articles/chrome-hsts-what-it-means-for-security/)
 * [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome for Replit in Browser Tips](/articles/chrome-for-replit-in-browser-tips)
 - [Chrome Extensions for Whois Lookup](/articles/chrome-extensions-for-whois-lookup)

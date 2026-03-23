@@ -22,29 +22,29 @@ permalink: chrome-default-browser-how-to-set-windows-mac
 
 Setting Chrome as your default browser is one of the first things most people do after installing Google's popular browser. Whether you are using Windows or Mac, having your preferred browser set as the default ensures that all links open in Chrome automatically, whether you click them in an email, a document, or another application. This guide will walk you through the process for both Windows and Mac operating systems, making it easy to configure Chrome as your default browser.
 
-## Why Set Chrome as Your Default Browser
+Why Set Chrome as Your Default Browser
 
-Google Chrome has become the most popular web browser worldwide for several good reasons. It offers fast page loading times, a clean and intuitive interface, seamless synchronization across devices through your Google account, and an extensive library of extensions that can enhance your browsing experience. When Chrome is set as your default browser, you do not have to manually copy and paste links or choose which browser to open them in every time you click on a link.
+Google Chrome has become the most popular web browser worldwide for several good reasons. It offers fast page loading times, a clean and intuitive interface, smooth synchronization across devices through your Google account, and an extensive library of extensions that can enhance your browsing experience. When Chrome is set as your default browser, you do not have to manually copy and paste links or choose which browser to open them in every time you click on a link.
 
 Beyond convenience, having a consistent default browser helps maintain your workflow efficiency. If you use Chrome for all your browsing and have it set as your default, clicking any link anywhere on your computer will automatically open it in Chrome. This eliminates the friction of switching between browsers and keeps all your bookmarks, history, and saved passwords in one place.
 
-## How to Set Chrome as Default on Windows
+How to Set Chrome as Default on Windows
 
 Setting Chrome as your default browser on Windows is a straightforward process, though the exact steps vary slightly depending on which version of Windows you are using. Here is how to do it on Windows 10 and Windows 11.
 
-### Windows 10
+Windows 10
 
 On Windows 10, you can set your default browser through the Settings application. Click the Start menu button in the bottom left corner of your screen, then click the gear icon to open Settings. In the Settings window, click on Apps, and then select Default apps from the left sidebar. Scroll down until you see Web browser in the list of default applications. Click on Microsoft Edge (or your current default browser), and a list of available browsers will appear. Select Google Chrome from the list.
 
 Alternatively, you can open Chrome directly and set it as your default from within the browser. Open Chrome and click the three dots in the top right corner to open the menu. Click Settings, and on the Settings page, look for the section labeled Default browser. Click the button that says Make Chrome your default browser. Windows will then open a dialog asking you to confirm that you want to set Chrome as your default browser for HTTP, HTTPS, and other link types. Click OK or Yes to confirm.
 
-### Windows 11
+Windows 11
 
 On Windows 11, the process is very similar. Click the Start button and open Settings. In Settings, click Apps from the left sidebar, and then click Default apps. Type Chrome in the search box at the top of the Default apps page, or scroll through the list until you find Google Chrome. Click on Chrome, and you will see a page showing all the link types that can have a default app. Click the button that says Set default next to each protocol or link type you want Chrome to handle, or simply click the Set default for all button at the top.
 
 After completing these steps, Windows will use Chrome whenever you click a link in any application, including your email client, messaging apps, or documents.
 
-## How to Set Chrome as Default on Mac
+How to Set Chrome as Default on Mac
 
 On Mac computers, setting Chrome as your default browser is done through System Settings (or System Preferences on older macOS versions). The process is simple and takes only a few moments.
 
@@ -54,7 +54,7 @@ You can also set Chrome as default through macOS System Settings. Click the Appl
 
 Once Chrome is set as your default on Mac, clicking any link will automatically open it in Chrome, whether the link is in an email, a document, or any other application.
 
-## Troubleshooting Common Issues
+Troubleshooting Common Issues
 
 Sometimes, setting Chrome as your default browser does not work as expected, or it may revert to another browser after an update. Understanding common issues and how to fix them can help ensure a smooth experience.
 
@@ -64,20 +64,20 @@ Another common issue is that certain applications may have their own browser set
 
 If you use multiple browsers and find that links sometimes open in the wrong one, check your browser settings in each application. Some apps remember your last-used browser for opening links, while others respect your system default. Understanding how your frequently used apps handle links can help you configure them to behave the way you prefer.
 
-## Enhancing Your Chrome Experience
+Enhancing Your Chrome Experience
 
 Once Chrome is set as your default browser, you can further enhance your browsing experience by customizing Chrome to suit your needs. One useful extension worth considering is Tab Suspender Pro, which automatically suspends tabs you are not currently using to free up memory and keep Chrome running smoothly. This is especially helpful if you tend to keep many tabs open at once, as suspended tabs consume far fewer system resources.
 
 You can also explore Chrome's settings to manage your privacy, configure startup behavior, and organize your bookmarks. Taking a few minutes to customize these settings can make your browsing more efficient and enjoyable.
 
-## Related Articles
+Related Articles
 * [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide/)
 * [Chrome Web USB API Explained](/articles/chrome-web-usb-api-explained/)
 * [Chrome Open History Page Shortcut](/articles/chrome-open-history-page-shortcut/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Extensions for Regex Tester](/articles/chrome-extensions-for-regex-tester)
 - [chrome web bluetooth connect headphones](/articles/chrome-web-bluetooth-connect-headphones)

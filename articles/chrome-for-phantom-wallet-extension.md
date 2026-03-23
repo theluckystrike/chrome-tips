@@ -25,7 +25,7 @@ Using chrome for phantom wallet extension is one of the most common ways to mana
 
 If you are new to cryptocurrency wallets or just want to learn how to get Phantom set up in Chrome, this guide will walk you through everything you need to know.
 
-## What Phantom Wallet Does
+What Phantom Wallet Does
 
 Phantom Wallet is designed specifically for the Solana blockchain. It acts as a bridge between your browser and the Solana network, allowing you to interact with decentralized applications, manage your SOL tokens, and handle Solana NFTs all from one place.
 
@@ -33,7 +33,7 @@ When you install Phantom as a Chrome extension, it lives in your browser toolbar
 
 The extension stores your private keys locally on your device, which means you retain control over your funds. Phantom does not have access to your keys, and your assets are not held by a third party. This is one of the main advantages of using a self-custody wallet like Phantom.
 
-## Installing Phantom in Chrome
+Installing Phantom in Chrome
 
 Getting Phantom set up in Chrome is straightforward. First, open Chrome and navigate to the Chrome Web Store. Search for "Phantom Wallet" and look for the official extension published by Phantom Technologies. Make sure you are downloading the legitimate extension by checking the publisher name and reading user reviews.
 
@@ -41,7 +41,7 @@ Once you find the official extension, click "Add to Chrome" and confirm the inst
 
 After installation, you will see the Phantom icon appear in your Chrome toolbar, typically to the right of your address bar. Click the icon to begin setting up your wallet. You can create a new wallet or import an existing one if you already have a Phantom account.
 
-## Creating Your Wallet
+Creating Your Wallet
 
 When you first open Phantom after installation, you will be prompted to create a new wallet. The process involves generating a recovery phrase, which is a series of words that serves as a backup for your wallet. This phrase is extremely important, and you should write it down and store it somewhere safe.
 
@@ -49,7 +49,7 @@ Phantom will ask you to confirm your recovery phrase by selecting the words in t
 
 You will also be asked to set a password for your wallet. This password will be required each time you want to unlock your wallet or approve transactions, so make sure it is something you will remember but difficult for others to guess.
 
-## Using Phantom with Websites
+Using Phantom with Websites
 
 One of the main benefits of using Phantom as a Chrome extension is how easily it connects to websites. When you visit a Solana-based application, you can usually connect your wallet with a single click. Look for a "Connect Wallet" button on the website, then select Phantom from the list of available options.
 
@@ -57,13 +57,13 @@ Once connected, the website can interact with your wallet to request transaction
 
 Always review these requests carefully before approving. Make sure you trust the website and understand what you are authorizing. If something looks suspicious, reject the request and do not proceed.
 
-## Managing Multiple Accounts
+Managing Multiple Accounts
 
 Phantom supports multiple wallets within a single extension, which can be useful if you want to separate your personal and work finances or test with a separate account. To add another account, click the account icon in the Phantom interface and select "Add Account."
 
 Each account has its own recovery phrase and password, so you will need to manage those separately. This feature makes it easier to organize your crypto activities without needing to switch between different browsers or extension installations.
 
-## Security Tips for Using Phantom in Chrome
+Security Tips for Using Phantom in Chrome
 
 Keeping your cryptocurrency safe requires some basic security practices. Never share your recovery phrase with anyone, including people who claim to be from Phantom support. The official team will never ask for your phrase, and anyone who does is attempting to scam you.
 
@@ -71,7 +71,7 @@ Consider enabling additional security features in Phantom, such as biometric unl
 
 Be cautious about which websites you connect your wallet to. Phishing sites may try to trick you into approving malicious transactions. Always double-check the website URL and make sure you are on the legitimate platform before connecting your wallet or signing any transactions.
 
-## Performance Considerations
+Performance Considerations
 
 If you use many extensions or keep many tabs open in Chrome, you might notice your browser using more memory than usual. Each extension, including Phantom, runs its own processes, and having too many can slow down your browser.
 
@@ -79,15 +79,15 @@ One way to manage this is to use a tab management extension like Tab Suspender P
 
 You can also periodically review your installed extensions and remove any that you no longer use. This reduces the overall load on Chrome and can improve performance across the board.
 
-## Final Thoughts
+Final Thoughts
 
-Chrome for phantom wallet extension provides a convenient way to manage your Solana assets while browsing. The setup process is quick, and once configured, you can interact with the Solana blockchain seamlessly from any supported website.
+Chrome for phantom wallet extension provides a convenient way to manage your Solana assets while browsing. The setup process is quick, and once configured, you can interact with the Solana blockchain smoothly from any supported website.
 
 Remember to keep your recovery phrase safe, review transaction requests carefully, and stay vigilant against phishing attempts. With these precautions in place, Phantom can be a secure and efficient tool for managing your cryptocurrency activities.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome for tiktok web best settings](/articles/chrome-for-tiktok-web-best-settings/)
 * [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use/)
 * [Chrome HTTPS Only Mode How to Enable](/articles/chrome-https-only-mode-how-to-enable/)

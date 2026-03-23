@@ -14,7 +14,7 @@ If you have ever searched for "chrome dns settings how to change for privacy," y
 
 When you type a website address into Chrome, your browser needs to translate that website name into a numerical address that computers can understand. This process is called DNS lookup, and by default, it happens in plain text. That means anyone who can see your internet traffic, including your internet service provider, can see which websites you are visiting. Changing your DNS settings in Chrome can encrypt these lookups and make your browsing more private.
 
-## Why Your DNS Settings Matter for Privacy
+Why Your DNS Settings Matter for Privacy
 
 Your internet service provider can see every website you visit because DNS requests are normally sent in plain text. When you type "example.com" into your browser, your computer sends a request to a DNS server asking for the address of that website. This request is visible to anyone monitoring your internet connection. Your ISP can log these requests and build a detailed picture of your browsing habits over time.
 
@@ -22,7 +22,7 @@ The problem is that this happens automatically without you even knowing. Every t
 
 There are several reasons why you might want to change your DNS settings for privacy. First, it prevents your ISP from seeing which specific websites you visit. Second, it can sometimes make your browsing faster if you choose a faster DNS provider. Third, it protects you from certain types of attacks where someone tries to intercept your DNS requests and redirect you to fake websites. Finally, it gives you more control over your internet experience.
 
-## What You Need to Know Before Changing DNS Settings
+What You Need to Know Before Changing DNS Settings
 
 Before you change your DNS settings in Chrome, there are a few things you should understand. Chrome offers two main ways to improve DNS privacy. The first is DNS over HTTPS, which encrypts your DNS lookups using the same secure protocol that protects websites. The second is using a different DNS provider altogether, which can also improve speed and reliability.
 
@@ -30,7 +30,7 @@ You should know that changing DNS settings in Chrome only affects the DNS lookup
 
 It is also important to understand that DNS over HTTPS does not hide everything about your browsing from your ISP. They can still see which IP addresses you connect to, and websites can still track you through cookies and other methods. However, encrypting your DNS lookups is an important layer of privacy that makes it much harder for anyone to monitor which websites you are trying to visit.
 
-## How to Change DNS Settings in Chrome for Better Privacy
+How to Change DNS Settings in Chrome for Better Privacy
 
 Changing your DNS settings in Chrome is straightforward and only takes a few minutes. Here is how to do it.
 
@@ -44,7 +44,7 @@ To improve your privacy, select an option like "With Cloudflare" or "With Google
 
 Once you select a secure DNS provider, Chrome will immediately start using DNS over HTTPS for all your browsing. You do not need to restart the browser for this change to take effect.
 
-## Troubleshooting DNS Settings in Chrome
+Troubleshooting DNS Settings in Chrome
 
 After changing your DNS settings, you might occasionally encounter problems with certain websites. Some websites might load slowly or not at all when you first enable DNS over HTTPS. This is usually temporary and resolves on its own.
 
@@ -54,7 +54,7 @@ Some corporate networks and school networks have restrictions that prevent DNS o
 
 If you continue having issues, try a different DNS provider. Not all DNS providers work equally well with all websites. Cloudflare and Google are generally reliable choices, but you might find that another provider works better for your specific situation.
 
-## Additional Privacy Steps Beyond DNS Settings
+Additional Privacy Steps Beyond DNS Settings
 
 Changing your DNS settings in Chrome is a great step toward more private browsing, but there are other things you can do as well. Consider using a privacy-focused search engine that does not track your searches. You can also install extensions that block tracking scripts and ads.
 
@@ -66,7 +66,7 @@ Remember that DNS settings are just one piece of the privacy puzzle. Your intern
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [How to Turn Off Chrome Notifications on Android](/articles/how-to-turn-off-chrome-notifications-android/)
 * [Chrome Two Factor Authentication Setup Guide](/articles/chrome-two-factor-authentication-setup-guide/)
 * [Chrome Dashlane vs 1Password Comparison](/articles//chrome-dashlane-vs-onepassword-comparison//)

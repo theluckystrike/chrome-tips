@@ -13,7 +13,7 @@ permalink: chrome-devtools-screenshot-full-page
 
 If you are searching for chrome devtools screenshot full page, you probably want to know how to capture an entire webpage in Chrome without missing any content below the fold. Taking screenshots is something we all need to do at some point, whether you want to save an article for later, capture a receipt, preserve a webpage before it changes, or share something with a friend. Chrome has a built-in way to do this using DevTools, and it is easier than you might think.
 
-## Why Taking Full Page Screenshots Can Be Tricky
+Why Taking Full Page Screenshots Can Be Tricky
 
 You might have noticed that when you use the regular screenshot shortcut or the screenshot tool on your computer, it only captures what you can see on your screen at that moment. If a webpage is longer than your screen, the bottom part simply gets cut off. This happens because the screenshot tool captures the visible viewport, not the entire document.
 
@@ -21,7 +21,7 @@ This limitation can be frustrating. Perhaps you found a long article you want to
 
 Chrome DevTools offers a solution that comes with your browser. It does not require installing anything extra, and it can capture pages of any length.
 
-## How to Take a Full Page Screenshot Using Chrome DevTools
+How to Take a Full Page Screenshot Using Chrome DevTools
 
 Here is how to do it step by step. First, open the webpage you want to capture. Then, right-click anywhere on the page and select Inspect to open Chrome DevTools. You can also use the keyboard shortcut Ctrl+Shift+I on Windows or Cmd+Option+I on Mac.
 
@@ -31,13 +31,13 @@ In the command menu that appears, type "screenshot" and you will see several opt
 
 That is all there is to it. You now have a complete screenshot of the entire webpage.
 
-## Why This Method Works
+Why This Method Works
 
 The reason this works is that Chrome DevTools has access to the complete webpage structure, not just what is currently displayed on your screen. When you use the screenshot command, it tells Chrome to render the entire document from top to bottom and save it as an image. This bypasses the usual viewport limitation that regular screenshot tools have.
 
 The resulting image is typically a high-quality PNG file that shows the page exactly as it appears, including all scrolling content. This makes it perfect for saving articles, capturing receipts, preserving web research, or any situation where you need the complete picture.
 
-## What If You Need More Control
+What If You Need More Control
 
 Sometimes you might want more flexibility than the basic screenshot command provides. For example, you might want to capture only a specific area of the page, or you might need the screenshot to include only the content without the toolbar or browser elements.
 
@@ -45,7 +45,7 @@ Chrome DevTools has additional screenshot options in that same command menu. You
 
 If you find yourself needing to take full page screenshots frequently, you might want to explore browser extensions that specialize in this task. One option worth considering is Tab Suspender Pro, which includes screenshot functionality alongside its tab management features. It can make the process more convenient if this is something you do often.
 
-## Troubleshooting Common Issues
+Troubleshooting Common Issues
 
 Sometimes the screenshot command might not work as expected. If you run into problems, here are some things to try.
 
@@ -55,7 +55,7 @@ If the screenshot appears blank or incomplete, the page might be loading content
 
 Some websites prevent screenshots for security reasons, though this is relatively rare. If you cannot screenshot a particular page using DevTools, you might need to use a different method or extension.
 
-## Other Ways to Save Webpages
+Other Ways to Save Webpages
 
 Chrome also lets you save webpages directly for offline reading. Simply press Ctrl+S on Windows or Cmd+S on Mac to save the page as an HTML file. This saves the complete page including images, though it works differently than a screenshot.
 
@@ -67,7 +67,7 @@ For the best of both worlds, consider using a combination of methods. Take a scr
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Extensions for Split Screen Browsing](/articles/chrome-extensions-for-split-screen-browsing/)
 * [chrome right to left language support](/articles/chrome-right-to-left-language-support/)
 * [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms/)

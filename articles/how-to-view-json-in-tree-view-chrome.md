@@ -40,25 +40,25 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Press Enter to see the formatted tree view
 > 5. Click the arrows to expand or collapse nested objects
 
-## Detailed Walkthrough
+Detailed Walkthrough
 
-### Open Chrome Developer Tools
+Open Chrome Developer Tools
 
-Press F12 on Windows or Cmd+Option+I on Mac to open Developer Tools. You can also right-click anywhere on the page and select **Inspect** from the context menu. The Developer Tools panel will appear at the bottom or side of your browser window.
+Press F12 on Windows or Cmd+Option+I on Mac to open Developer Tools. You can also right-click anywhere on the page and select Inspect from the context menu. The Developer Tools panel will appear at the bottom or side of your browser window.
 
 If you're working with a JSON file directly, you might see raw text without any formatting. Don't worry about this initial view since Chrome's default JSON display isn't particularly helpful for complex data structures.
 
 The Developer Tools give you several tabs to work with. For JSON parsing, you'll primarily use the Console tab, though the Sources tab can also be useful for examining JSON files that are part of web applications.
 
-### Navigate to the Console Tab
+Navigate to the Console Tab
 
-Click on the **Console** tab within Developer Tools. This is where you'll execute JavaScript commands to parse and format your JSON data. The console provides an interactive environment where you can run JavaScript code directly.
+Click on the Console tab within Developer Tools. This is where you'll execute JavaScript commands to parse and format your JSON data. The console provides an interactive environment where you can run JavaScript code directly.
 
 You'll see a command prompt indicated by a `>` symbol. This is where you'll type your commands. If you don't see the Console tab, it might be hidden in an overflow menu indicated by `>>` at the top of the Developer Tools panel.
 
 The console is particularly powerful because it maintains the context of the current page, meaning you can access any JavaScript variables or functions that are already loaded on the page.
 
-### Copy and Parse Your JSON Data
+Copy and Parse Your JSON Data
 
 Select all your JSON text and copy it to your clipboard with Ctrl+C (Windows) or Cmd+C (Mac). Return to the Console tab and type `JSON.parse()` with your JSON data inside the parentheses.
 
@@ -70,53 +70,53 @@ Make sure to wrap your JSON string in single quotes if it contains double quotes
 
 Press Enter to execute the command. Chrome will immediately display your data in an expandable tree structure with small arrows next to objects and arrays.
 
-### Explore the Tree Structure
+Explore the Tree Structure
 
-Once parsed, you'll see your JSON data displayed with collapsible sections. Click the small triangular arrows (▶) next to object properties or array elements to expand them. Click again to collapse sections you're not currently examining.
+Once parsed, you'll see your JSON data displayed with collapsible sections. Click the small triangular arrows () next to object properties or array elements to expand them. Click again to collapse sections you're not currently examining.
 
 This tree view makes it much easier to understand the hierarchy of your data. Objects are shown with curly braces `{}`, arrays with square brackets `[]`, and you can see the data types of individual values at a glance.
 
 When working with deeply nested JSON structures, you can expand only the sections you need to examine, keeping the rest collapsed for better readability. This approach helps you maintain focus on specific parts of complex data structures without getting overwhelmed.
 
-For JSON files loaded from URLs, you can also use the Sources tab to examine them. Navigate to **Sources**, find your JSON file in the file tree, and Chrome will display it with syntax highlighting and the ability to set breakpoints if it's being processed by JavaScript.
+For JSON files loaded from URLs, you can also use the Sources tab to examine them. Navigate to Sources, find your JSON file in the file tree, and Chrome will display it with syntax highlighting and the ability to set breakpoints if it's being processed by JavaScript.
 
-## Common Mistakes
+Common Mistakes
 
-### Forgetting to Wrap JSON in Quotes
+Forgetting to Wrap JSON in Quotes
 
 Many developers paste JSON directly into the console without quotes, which causes syntax errors. The console expects a JavaScript string, so your JSON must be wrapped in quotes.
 
 Instead of typing `JSON.parse({"key":"value"})`, you need `JSON.parse('{"key":"value"}')`. The quotes tell JavaScript that you're passing a string to be parsed, not trying to create a JavaScript object literal.
 
-### Using Invalid JSON Syntax
+Using Invalid JSON Syntax
 
 JSON is stricter than JavaScript object notation. Property names must be in double quotes, and trailing commas aren't allowed. If your data uses single quotes or has extra commas, JSON.parse() will throw an error.
 
 Common invalid syntax includes `{'name':'John',}` (single quotes and trailing comma). The correct format is `{"name":"John"}` with double quotes and no trailing comma.
 
-### Copying Formatted JSON
+Copying Formatted JSON
 
 If you copy JSON that's already been formatted with line breaks and spaces, you might introduce invisible characters that break parsing. When copying from formatted sources, either minify the JSON first or use the Sources tab method instead.
 
 The safest approach is to copy the original minified JSON directly from your API response or source file, rather than from a formatted display in another tool.
 
-### Not Handling Large JSON Files
+Not Handling Large JSON Files
 
 Chrome's console has limits on how much data it can display effectively. For JSON files larger than 10MB, the tree view might become sluggish or crash the tab.
 
 For large files, consider using the Network tab to examine JSON responses from API calls, or break large JSON into smaller chunks for analysis in the console.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
 While the manual method works perfectly for occasional JSON viewing, it gets tedious if you're regularly working with API responses or configuration files. The copy-paste-parse cycle becomes a workflow bottleneck when you're debugging or exploring data structures.
 
-**JSON Formatter Pro** automates this entire process. This Chrome extension automatically detects JSON content and displays it in a clean tree view without any manual parsing steps. With a 4.8/5 rating and version 1.0.4 updated as recently as March 2026, it handles formatting instantly when you open JSON files or API endpoints.
+JSON Formatter Pro automates this entire process. This Chrome extension automatically detects JSON content and displays it in a clean tree view without any manual parsing steps. With a 4.8/5 rating and version 1.0.4 updated as recently as March 2026, it handles formatting instantly when you open JSON files or API endpoints.
 
-The extension works smoothly in the background, so you can focus on analyzing your data rather than formatting it. **[Try JSON Formatter Pro Free](https://zovo.one)**
+The extension works smoothly in the background, so you can focus on analyzing your data rather than formatting it. [Try JSON Formatter Pro Free](https://zovo.one)
 
 The tree view includes features like search functionality, collapsible sections, and syntax highlighting that make it easier to work with complex JSON structures. For developers who regularly work with APIs, configuration files, or data exports, the time savings add up significantly over the course of a project.
 
-## Advanced JSON Analysis Techniques
+Advanced JSON Analysis Techniques
 
 Beyond basic tree viewing, Chrome's Developer Tools offer several advanced techniques for working with JSON data. You can use the console to filter large JSON objects, extract specific properties, or transform data structures.
 
@@ -130,6 +130,6 @@ Chrome's DevTools also integrate with popular frameworks that heavily use JSON, 
 > 
 > Source: [Working with JSON - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON), 2026
 
-Whether you choose the manual Developer Tools approach or opt for an automated extension like **JSON Formatter Pro**, having a reliable method to view JSON in tree format dramatically improves your development workflow. The tree view transforms unreadable text walls into navigable data structures that actually make sense.
+Whether you choose the manual Developer Tools approach or opt for an automated extension like JSON Formatter Pro, having a reliable method to view JSON in tree format dramatically improves your development workflow. The tree view transforms unreadable text walls into navigable data structures that actually make sense.
 
 Built by Michael Lip. More tips at zovo.one

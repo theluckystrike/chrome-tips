@@ -11,7 +11,7 @@ permalink: chrome-devtools-webauthn-debugger
 
 If you are searching for chrome devtools webauthn debugger, you probably ran into trouble with passwordless login or passkeys and need to figure out what is going wrong. WebAuthn is the technology that lets you sign in with your fingerprint, face, or security key instead of a password, and sometimes things do not work as expected. The good news is that Chrome includes built-in tools to help you debug these issues.
 
-## What Is WebAuthn and Why It Sometimes Fails
+What Is WebAuthn and Why It Sometimes Fails
 
 WebAuthn is a web standard that modern browsers use to provide secure passwordless authentication. Instead of typing a password, you can use your device's biometric sensor, a hardware security key, or even your phone to prove you are who you claim to be. This is safer than passwords because there is nothing to steal or guess.
 
@@ -19,7 +19,7 @@ When WebAuthn works, it feels magical. You touch your fingerprint sensor or tap 
 
 These problems can be frustrating, especially when you need to get into your account quickly. This is where the Chrome DevTools WebAuthn debugger comes in handy.
 
-## How to Access the WebAuthn Debugger in Chrome
+How to Access the WebAuthn Debugger in Chrome
 
 Chrome DevTools has a hidden but powerful tool for debugging WebAuthn issues. Here is how to find it.
 
@@ -31,7 +31,7 @@ In the left sidebar of the Application panel, scroll down until you see a sectio
 
 If you do not see the WebAuthn option, make sure you are on a page that uses WebAuthn, as the tool only appears when relevant. Also, try refreshing the page with DevTools already open, as sometimes the panel needs to be loaded.
 
-## What the WebAuthn Debugger Shows You
+What the WebAuthn Debugger Shows You
 
 The WebAuthn debugger provides several pieces of information that can help you understand what is happening during authentication.
 
@@ -41,7 +41,7 @@ Below that, there are controls to simulate different scenarios. You can see whet
 
 The debugger also shows you any error messages that occurred during authentication attempts. This is incredibly valuable because sometimes the website just says "something went wrong" without explaining what actually happened. The debugger gives you the technical details.
 
-## Common Problems You Can Fix
+Common Problems You Can Fix
 
 One common issue is that the credential is not being recognized. This can happen if you cleared your browser data, switched browsers, or are using a different device than the one where you registered the passkey. The debugger shows you which credentials are stored, so you can verify if the right one exists.
 
@@ -51,7 +51,7 @@ Sometimes the issue is with the website itself. The website might not be impleme
 
 Hardware issues can also cause problems. If your fingerprint reader is not working, your laptop camera is blocked, or your security key is not being detected, WebAuthn will fail. The debugger can show you whether Chrome detects your authenticator at all.
 
-## Practical Steps to Fix WebAuthn Issues
+Practical Steps to Fix WebAuthn Issues
 
 When you encounter login problems, start by opening the WebAuthn debugger as described above. Check if your authenticator is available. If it shows as unavailable, make sure your device has the necessary features enabled. On some laptops, you need to enable biometric login in your system settings first, not just in Chrome.
 
@@ -61,19 +61,19 @@ If credentials exist but login still fails, check your permissions. Click on the
 
 For persistent issues, try using a different authentication method. If fingerprint is not working, see if the website supports using your phone as a security key, or vice versa. Having a backup method ensures you are not locked out.
 
-## Managing Multiple Credentials
+Managing Multiple Credentials
 
 If you use passwordless login on multiple devices or have added several security keys, the debugger helps you manage them. You can see all the credentials stored for a website and remove any that you no longer use or recognize. This is useful for security hygiene, as you should only keep credentials for devices you actively use.
 
 To remove a credential, find it in the list and click the delete button. The website will no longer recognize that device or key for login. If you accidentally remove the wrong one, you can simply set up login again from that device.
 
-## When to Look Elsewhere for Help
+When to Look Elsewhere for Help
 
 The WebAuthn debugger is powerful, but it has limits. It cannot fix problems that happen on the website's server, and it cannot help if your hardware is broken. If the debugger shows everything working correctly on your end, the problem is likely with the website, and you will need to contact their support.
 
 Some websites also do not support WebAuthn at all, no matter what you do in Chrome. In that case, you will need to use traditional passwords or look for alternative login methods the website provides.
 
-## Keeping Your Browser Ready for Passwordless Login
+Keeping Your Browser Ready for Passwordless Login
 
 To avoid problems in the future, keep Chrome updated to the latest version. WebAuthn support improves with each release, and updates often fix bugs that could cause authentication failures. Also, make sure your device's operating system is current, as WebAuthn relies on system-level features.
 
@@ -85,7 +85,7 @@ For users who want a smoother experience, extensions like Tab Suspender Pro can 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [How to Make Chrome Open Links in a New Tab](/articles/how-to-make-chrome-open-links-in-new-tab/)
 * [Chrome DevTools Override Files Locally](/articles/chrome-devtools-override-files-locally/)
 * [Chrome DNS Probe Finished Nxdomain Fix](/articles/chrome-dns-probe-finished-nxdomain-fix/)

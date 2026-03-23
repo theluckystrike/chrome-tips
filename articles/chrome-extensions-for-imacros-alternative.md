@@ -17,13 +17,13 @@ The reason this happened is worth understanding. iMacros relied on older Chrome 
 
 The good news is that you have options. Several Chrome extensions can handle the same tasks that iMacros once performed, and some of them offer even more features. Finding the right one depends on what you need to automate and how comfortable you are with different levels of complexity.
 
-## What iMacros Actually Did
+What iMacros Actually Did
 
 Before looking at alternatives, it helps to remember what made iMacros useful. At its core, iMacros recorded your browser actions and played them back automatically. You could record a sequence of clicks, form fills, and page navigations, then run that sequence whenever needed. This was incredibly valuable for anyone who performed repetitive tasks online, such as checking specific websites, filling out the same forms, or gathering data from multiple pages.
 
 The problem was that iMacros never fully adapted to the new extension standards. When Google required all extensions to switch to Manifest V3, iMacros could not make the transition while maintaining the same functionality. Users who relied on it for daily workflows needed to find something else quickly.
 
-## Modern Alternatives That Work
+Modern Alternatives That Work
 
 Several Chrome extensions have emerged to fill this gap. These tools take different approaches to automation, so you can choose one that matches your specific needs.
 
@@ -33,13 +33,13 @@ Another option involves task-specific extensions designed for particular jobs. I
 
 For more advanced users, some alternatives offer scripting capabilities that go beyond what iMacros ever provided. These tools let you write actual code to define complex automation workflows. If you are comfortable with basic programming concepts, you can create sophisticated automations that handle conditional logic, loops, and data processing.
 
-## Tab Suspender Pro
+Tab Suspender Pro
 
 While Tab Suspender Pro is primarily known for managing browser tab resources, it also includes automation features that can help with repetitive tasks. The extension can automatically manage tab states and perform actions based on your browsing activity. This makes it a useful addition to your automation toolkit, especially if you find yourself constantly switching between tabs or need to organize your workflow.
 
 The beauty of using Tab Suspender Pro alongside other automation tools is that it keeps your browser running smoothly while your automations work. Heavy automation scripts can sometimes slow down your browser, but Tab Suspender Pro helps maintain performance by managing resource-intensive tabs. Many users find that combining automation tools with tab management creates a smoother overall experience.
 
-## Getting Started With a New Tool
+Getting Started With a New Tool
 
 When you switch from iMacros to a new extension, start by identifying the specific tasks you need to automate. Make a list of the workflows you used most frequently and prioritize recreating those first. This approach helps you learn the new tool gradually rather than trying to migrate everything at once.
 
@@ -47,7 +47,7 @@ Most modern alternatives include tutorials or documentation that walk you throug
 
 Pay attention to permissions when installing new extensions. Automation tools need access to your browsing data to function properly, but you should only grant permissions to extensions you trust. Check reviews and developer information to make informed decisions about which tools to use.
 
-## Finding What Works Best
+Finding What Works Best
 
 The best chrome extensions for iMacros alternative depend on your specific situation. If you need simple automation without learning new software, look for extensions that offer visual builders with straightforward interfaces. If you have technical skills and need powerful automation, consider extensions with scripting capabilities.
 
@@ -59,7 +59,7 @@ The transition from iMacros might feel inconvenient at first, but the ecosystem 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Best Chrome Extensions for Entrepreneurs](/articles/best-chrome-extensions-for-entrepreneurs/)
 * [How to Fix Chrome Downloads Stuck at 100 Percent](/articles/chrome-downloads-stuck-at-100-percent/)
 * [Chrome Memory Saver Explained: How to Reduce Browser RAM Usage](/articles/chrome-memory-saver-explained/)

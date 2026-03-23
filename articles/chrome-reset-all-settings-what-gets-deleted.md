@@ -10,7 +10,7 @@ last_modified_at: '2026-03-12'
 
 Chrome reset all settings what gets deleted is probably on your mind if you are thinking about resetting your browser. Whether you are dealing with a slow browser, too many extensions causing problems, or you just want a fresh start, it helps to know exactly what will disappear when you hit that reset button. Let me walk you through everything that gets removed and what stays safe.
 
-## Understanding What Gets Deleted
+Understanding What Gets Deleted
 
 When you choose to reset Chrome to its original settings, several categories of data get wiped clean. Understanding what goes away helps you prepare and avoid losing anything important.
 
@@ -28,7 +28,7 @@ Homepage and search engine settings revert to default. Any custom homepage you s
 
 Site permissions reset. If you allowed certain websites to use your camera, microphone, location, or notifications, these permissions go back to default. Any exceptions you added for specific sites are cleared.
 
-## What Stays Safe After Reset
+What Stays Safe After Reset
 
 Not everything gets deleted when you reset Chrome, which is good news for most users.
 
@@ -40,7 +40,7 @@ Downloaded files remain on your computer. The reset only affects browser data, n
 
 Extensions are not deleted, just disabled. You can go back through your extensions and turn on only the ones you actually need, which is a good opportunity to declutter.
 
-## Why You Might Want to Reset
+Why You Might Want to Reset
 
 There are several situations where resetting Chrome makes sense. If your browser has become noticeably slower over time, a reset can help significantly. All the accumulated data, background processes, and extension overhead can weigh Chrome down, and starting fresh often brings back that snappy performance you enjoyed when you first installed it.
 
@@ -50,7 +50,7 @@ If you are handing over your computer to someone else, resetting Chrome ensures 
 
 After dealing with malware or unwanted changes to your settings, a reset can give you confidence that everything is back to how Chrome intended it to work. Some malicious software modifies browser settings in ways that are hard to undo manually, but a reset handles it all at once.
 
-## How to Prepare for a Reset
+How to Prepare for a Reset
 
 Before you reset Chrome, take a few minutes to protect what matters most.
 
@@ -62,7 +62,7 @@ Consider which extensions you want to keep. Make a mental note or write down the
 
 Think about what settings you will want to reconfigure. Your homepage, default search engine, privacy settings, and content preferences will all need to be set up again. Knowing this ahead of time makes the post-reset setup faster.
 
-## What to Do After Resetting Chrome
+What to Do After Resetting Chrome
 
 Once the reset is complete, you will want to set Chrome back up in a way that keeps it running smoothly for longer.
 
@@ -76,7 +76,7 @@ Adjust your privacy settings to your comfort level. Consider which permissions y
 
 Keep an eye on your browser performance over the following weeks. If you notice slowdowns, check whether you have too many extensions running or too many open tabs.
 
-## Staying Organized Going Forward
+Staying Organized Going Forward
 
 After going through the reset process, many people find they want to keep their browser cleaner than before. One way to do this is by being more selective about extensions. Only add ones you truly need and use regularly, and remove ones that sit idle.
 
@@ -88,7 +88,7 @@ Resetting Chrome is a useful reset button when you need it, but with good habits
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Color HD Gamut Display P3 - Complete Guide for 2026](/articles/chrome-color-hd-gamut-display-p3/)
 * [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut/)
 * [chrome for vimeo web upload tips](/articles/chrome-for-vimeo-web-upload-tips/)

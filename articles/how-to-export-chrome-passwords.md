@@ -10,7 +10,7 @@ permalink: how-to-export-chrome-passwords
 
 How to export chrome passwords is something many Chrome users find themselves needing to do at some point. Whether you are switching to a different browser, creating a backup of your credentials, or moving to a dedicated password manager, Chrome makes it possible to download all your saved passwords in just a few clicks. Let me walk you through how to do this, why you might want to, and some things to keep in mind along the way.
 
-## Why You Might Want to Export Your Saved Passwords
+Why You Might Want to Export Your Saved Passwords
 
 Chrome saves your passwords automatically when you log into websites, making it convenient to sign in without typing your credentials each time. However, there are several situations where exporting those passwords becomes useful.
 
@@ -18,13 +18,13 @@ If you are switching to a new computer or browser, having your passwords exporte
 
 Another reason is simply having a backup. Passwords stored only in your browser are tied to that browser is installation. If something happens to your browser profile or you need to recover your data on a new device, having an exported file can save you a lot of time and frustration.
 
-## What Happens When Chrome Saves Your Passwords
+What Happens When Chrome Saves Your Passwords
 
 Before we get into the export process, it helps to understand how Chrome handles passwords. When you enter a username and password on a website, Chrome may ask if you want to save the information. If you say yes, Chrome stores that data in an encrypted form within your browser profile. This means your passwords are tied to your Google account and protected by your account credentials.
 
 The encryption Chrome uses is designed to keep your passwords secure from casual access. However, when you export those passwords, they are saved in a readable format, typically as a CSV file. This is important to know because it means anyone who gains access to that exported file can see your passwords in plain text. That is why handling the exported file carefully is just as important as the export process itself.
 
-## Step by Step Guide to Exporting Your Chrome Passwords
+Step by Step Guide to Exporting Your Chrome Passwords
 
 Open Chrome on your computer and click on the three dots in the upper right corner. This opens the Chrome menu. From there, select Settings. On the settings page, you will see a section called Autofill on the left sidebar. Click on it, and then select Passwords.
 
@@ -38,7 +38,7 @@ A dialog box will appear asking you where you want to save the file. Choose a lo
 
 That is it. You now have a file containing all your saved usernames and passwords.
 
-## What to Do With the Exported File
+What to Do With the Exported File
 
 Once you have your exported password file, the next steps depend on what you are trying to accomplish.
 
@@ -48,7 +48,7 @@ If you are switching to a dedicated password manager like Bitwarden, 1Password, 
 
 For security reasons, it is a good idea to delete the exported file after you have successfully imported your passwords into the new service. Leaving the file on your computer, especially in an easily accessible location, poses an unnecessary security risk.
 
-## Tips for Keeping Your Passwords Safe
+Tips for Keeping Your Passwords Safe
 
 Exporting your passwords is a useful tool, but it is worth remembering a few best practices to keep your accounts secure.
 
@@ -58,13 +58,13 @@ Second, consider using a password manager going forward. While Chrome is conveni
 
 Third, enable two-factor authentication on your most important accounts, such as email and banking. This adds an extra layer of protection even if a password were to be compromised.
 
-## A Note on Managing Tabs and Extensions
+A Note on Managing Tabs and Extensions
 
 If you find that your browser feels slow or cluttered with too many open tabs, you might benefit from tools that help you manage them more effectively. For example, Tab Suspender Pro can automatically suspend tabs that you are not currently using, which can free up memory and make your browser feel snappier. It also gives you a better overview of what is running in your browser, helping you stay organized and productive.
 
 Combining good tab management with proper password practices creates a smoother, safer browsing experience.
 
-## Wrapping Up
+Wrapping Up
 
 Exporting your Chrome passwords is a straightforward process that takes just a few minutes. Whether you are moving to a new browser, setting up a password manager, or simply creating a backup, Chrome built-in export feature makes it easy. Just remember to handle the exported file carefully, import it into your new service promptly, and delete the file afterward to keep your credentials secure.
 
@@ -72,7 +72,7 @@ With your passwords safely transferred, you can enjoy the peace of mind that com
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Best Free Chrome Extensions 2026](/articles/best-free-chrome-extensions-2026/)
 * [chrome coupons in address bar feature](/articles/chrome-coupons-in-address-bar-feature/)
 * [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/articles/chrome-save-webpage-as-mhtml-offline/)

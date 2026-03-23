@@ -18,7 +18,7 @@ If you have ever wondered how to close all Chrome tabs at once, you are probably
 
 The good news is that Chrome offers several ways to close all your tabs at once, and some of them are much faster than you might expect. Whether you accidentally opened a batch of links, have been meaning to clean up for days, or just need a fresh start, there is a method that will work for you.
 
-## Why You Might Need to Close Everything
+Why You Might Need to Close Everything
 
 There are many reasons why you might find yourself needing to close all your Chrome tabs at once. Maybe you are starting a new project and want a clean slate. Perhaps your browser has become slow and sluggish from having too many tabs open, and closing all of them is the quickest way to get things running smoothly again. Sometimes you might have opened a bunch of tabs while researching something, and now you are done and want to move on without keeping any of them around.
 
@@ -26,7 +26,7 @@ Another common scenario is when you share your computer with someone else and wa
 
 Whatever your reason, knowing how to close all tabs quickly saves you time and effort.
 
-## The Simplest Way to Close All Tabs
+The Simplest Way to Close All Tabs
 
 The fastest method to close all your Chrome tabs at once is to right-click on any tab and select "Close all tabs" from the menu that appears. This option closes every single tab in your current window, giving you a fresh start immediately.
 
@@ -34,7 +34,7 @@ If you have multiple windows open and want to close all tabs across all windows,
 
 Another straightforward approach is to close the entire Chrome window using the X button in the top corner or by pressing Command+Q on Mac or Alt+F4 on Windows. When you close the window, Chrome will ask if you want to close all tabs, and confirming will shut everything down at once.
 
-## Using Keyboard Shortcuts
+Using Keyboard Shortcuts
 
 Keyboard shortcuts are your friend when you want to work quickly, and Chrome has some useful ones for closing tabs.
 
@@ -44,7 +44,7 @@ On Mac, the equivalent is Command+Shift+W to close the current window with all i
 
 These shortcuts become second nature once you use them a few times, and they are much faster than clicking through menus or closing tabs one at a time.
 
-## A Better Approach with Extensions
+A Better Approach with Extensions
 
 While knowing how to close all Chrome tabs at once is useful, you might find that you need a more comprehensive solution if this situation happens to you frequently. This is where extensions can make a real difference in your browsing experience.
 
@@ -52,7 +52,7 @@ One option worth considering is Tab Suspender Pro, which automatically manages y
 
 Tab Suspender Pro is helpful because it prevents the problem before it starts. Instead of waiting until you have too many tabs and need to close them all, the extension keeps your tab count manageable automatically. You still have access to all your tabs when you need them, but they are not slowing down your browser when you are not using them.
 
-## Preventing Tab Overload in the Future
+Preventing Tab Overload in the Future
 
 Once you have closed all your tabs, you might want to think about strategies to keep things manageable going forward. One approach is to be more intentional about opening new tabs. Before you click a link that opens in a new tab, ask yourself if you really need it to open separately or if you can open it in the current tab instead.
 
@@ -60,13 +60,13 @@ Using bookmarks for pages you want to keep is another good practice. Instead of 
 
 Chrome's built-in features like tab groups can also help you stay organized. Grouping related tabs together makes it easier to see what you have open and close entire groups when you are done with a project or topic.
 
-## When You Want to Keep Some Tabs
+When You Want to Keep Some Tabs
 
 Sometimes you want to close most tabs but not all of them. In that case, you can select specific tabs to keep before closing the rest. On Windows, you can Ctrl+Click to select multiple individual tabs, or Shift+Click to select a range. Once you have the ones you want to keep selected, right-click and choose "Close other tabs" to close everything except your selection.
 
 This is handy when you are working on something specific and want to clear away distractions without losing the tabs related to your current task.
 
-## Making It Part of Your Routine
+Making It Part of Your Routine
 
 Knowing how to close all Chrome tabs at once is one of those skills that seems small but can make a big difference in your daily browsing. Whether you use it to start each day fresh, to clear clutter after finishing a project, or just whenever things get out of hand, it is a useful tool to have in your pocket.
 
@@ -74,7 +74,7 @@ If you find yourself needing to close all your tabs frequently, consider trying 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Journeys Feature in History Explained](/articles/chrome-journeys-feature-in-history-explained/)
 * [chrome privacy sandbox what regular users should know](/articles/chrome-privacy-sandbox-what-regular-users-should-know/)
 * [Chrome for Microsoft Teams in Browser Tips](/articles/chrome-for-microsoft-teams-in-browser-tips/)

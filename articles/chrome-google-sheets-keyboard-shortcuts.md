@@ -14,7 +14,7 @@ If you use Chrome Google Sheets keyboard shortcuts, you probably already know ho
 
 Let me walk you through the most useful Chrome Google Sheets keyboard shortcuts that will help you work faster and more efficiently.
 
-## Why Keyboard Shortcuts Matter in Google Sheets
+Why Keyboard Shortcuts Matter in Google Sheets
 
 When you spend hours working in spreadsheets, every click adds up. Moving your hand from the keyboard to the mouse, finding the right menu, clicking the right option, and then returning to the keyboard takes time. Multiply that by hundreds of actions per day, and you have wasted minutes or even hours that you could have saved.
 
@@ -22,7 +22,7 @@ Keyboard shortcuts in Google Sheets remove these friction points. They let you f
 
 Chrome Google Sheets keyboard shortcuts work the same way whether you are using a Windows computer or a Mac. The main difference is that Mac users typically replace the Ctrl key with the Command key.
 
-## Essential Navigation Shortcuts
+Essential Navigation Shortcuts
 
 Getting around quickly in a spreadsheet is fundamental, and these shortcuts will help you move through your data efficiently.
 
@@ -34,7 +34,7 @@ Pressing Ctrl+. on Windows or Command+. on Mac moves your cursor to the next cor
 
 To jump directly to a specific cell, press Ctrl+G on Windows or Command+G on Mac, type the cell reference like A1 or Z50, and press Enter. This is faster than scrolling through large spreadsheets.
 
-## Quick Formatting Shortcuts
+Quick Formatting Shortcuts
 
 Formatting makes your data easier to read, and these shortcuts let you apply common formats in seconds.
 
@@ -46,7 +46,7 @@ To change text alignment, use Ctrl+Shift+L on Windows or Command+Shift+L to add 
 
 Adding borders is also quick with Ctrl+Shift+7 for thick borders or Ctrl+Shift+6 to remove borders. These shortcuts save you from opening the formatting menu for simple border changes.
 
-## Editing and Data Entry Shortcuts
+Editing and Data Entry Shortcuts
 
 Editing data in Google Sheets becomes much faster with these shortcuts.
 
@@ -58,7 +58,7 @@ To delete the content of selected cells while keeping the formatting, press Back
 
 Ctrl+; on Windows or Command+; on Mac inserts the current date into a cell. Pressing Ctrl+Shift+; inserts the current time. These shortcuts are perfect for timestamping entries or tracking when data was added.
 
-## Formula Shortcuts
+Formula Shortcuts
 
 Formulas are at the heart of Google Sheets, and these shortcuts make working with them much easier.
 
@@ -70,7 +70,7 @@ Ctrl+Shift+Enter on Windows or Command+Shift+Enter on Mac adds curly braces arou
 
 To toggle between showing formulas and their results, press Ctrl+` on Windows or Command+` on Mac. This is useful when you need to debug or understand complex spreadsheets.
 
-## Selection Shortcuts
+Selection Shortcuts
 
 Selecting data efficiently lets you perform actions on large areas without manual dragging.
 
@@ -80,13 +80,13 @@ Ctrl+Shift+End on Windows or Command+Shift+End on Mac selects all cells from the
 
 To select a range relative to the current selection, use Shift+Arrow keys. This gives you precise control over which cells you select without reaching for the mouse.
 
-## Making the Most of Your Chrome Workflow
+Making the Most of Your Chrome Workflow
 
 While keyboard shortcuts greatly improve your productivity in Google Sheets, managing multiple browser tabs can still slow you down. If you often have many Chrome tabs open while working on spreadsheets, consider using Tab Suspender Pro to automatically pause tabs you are not using. This frees up memory and keeps your Chrome running smoothly, making your spreadsheet work even faster.
 
 Tab Suspender Pro is one solution that helps manage your browser tabs automatically, and it works well alongside your Google Sheets workflow. When you have spreadsheets, documentation, and other resources open in separate tabs, this kind of tool can make a noticeable difference in performance.
 
-## Tips for Building Shortcut Habits
+Tips for Building Shortcut Habits
 
 Learning all these shortcuts at once can feel overwhelming. Start with the two or three that would save you the most time in your daily work. Once those become automatic, add a few more.
 
@@ -98,9 +98,9 @@ Chrome Google Sheets keyboard shortcuts are some of the most accessible tools fo
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome WebGL Performance Tips for Smoother Graphics](/articles/chrome-webgl-performance-tips/)
 * [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use/)
 * [Chrome for Productivity Dashboard New Tab](/articles/chrome-for-productivity-dashboard-new-tab/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

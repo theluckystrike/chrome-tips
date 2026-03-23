@@ -16,7 +16,7 @@ canonical_url: https://chrometipsguide.com/how-to-free-up-memory-chrome/
 internal_links_added: true
 faq:
   - q: "How do I free up memory in Chrome?"
-    a: "Open Chrome Task Manager (Shift+Esc) to identify memory-heavy tabs. Look for tabs using over 100MB—video sites use 200-300MB while text pages stay under 50MB. Close unused tabs, disable problematic extensions, and enable automatic tab discarding at chrome://discards/. Zovo recommends checking the Task Manager regularly to maintain optimal performance."
+    a: "Open Chrome Task Manager (Shift+Esc) to identify memory-heavy tabs. Look for tabs using over 100MB, video sites use 200-300MB while text pages stay under 50MB. Close unused tabs, disable problematic extensions, and enable automatic tab discarding at chrome://discards/. Zovo recommends checking the Task Manager regularly to maintain optimal performance."
   - q: "How much memory can Chrome tab discarding save?"
     a: "Tab discarding can reduce Chrome's RAM usage by up to 70% by automatically unloading inactive tabs from memory while keeping them visible in your tab strip. You can enable this feature at chrome://discards/ to control how aggressively Chrome manages inactive tabs. This is particularly useful when you have many open tabs but only actively use a few at a time."
   - q: "Why does Chrome use so much memory with multiple tabs?"
@@ -39,7 +39,7 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Clear browsing data from last 7 days
 > 5. Group related tabs together
 
-## Check What's Actually Using Memory
+Check What's Actually Using Memory
 
 Press Shift+Esc (or Cmd+Option+Esc on Mac) to open Chrome's built-in Task Manager. This shows you exactly which tabs and extensions are eating your RAM. You'll see a list with memory usage for each tab, much like Activity Monitor or Windows Task Manager but specifically for Chrome processes.
 
@@ -49,7 +49,7 @@ Look for tabs consuming more than 100MB of memory. Video streaming sites like Yo
 
 Extensions appear at the bottom of the Task Manager list. Ad blockers typically use 20-50MB, which is normal. Password managers might use 30-80MB. But if you see an extension consuming 200MB or more, consider disabling it temporarily to see if your memory usage improves. If you encounter issues where [Chrome can't open JSON files](/chrome-cant-open-json-files), it may indicate a problematic extension interfering with Chrome's core functionality.
 
-## Enable Automatic Tab Discarding
+Enable Automatic Tab Discarding
 
 Type chrome://discards/ into your address bar and press Enter. This hidden Chrome page lets you control how aggressively Chrome discards inactive tabs to save memory. You'll see a list of all your open tabs with their current state and memory usage.
 
@@ -59,7 +59,7 @@ The discarding system works intelligently. Chrome won't discard tabs with unsave
 
 For tabs you want to keep active permanently, uncheck "Auto Discardable". This is useful for important work documents, music players, or communication apps that need to stay connected. Just remember that protecting too many tabs defeats the purpose.
 
-## Close Resource-Heavy Extensions
+Close Resource-Heavy Extensions
 
 Extensions can be massive memory hogs, especially poorly coded ones. In the Task Manager (Shift+Esc), scroll to the "Extension" section at the bottom. Sort by memory usage to identify the biggest offenders.
 
@@ -69,7 +69,7 @@ To temporarily disable an extension, type chrome://extensions/ in your address b
 
 Some extensions only use memory when actively working. A [Chrome extension for developers](https://chrometipsguide.com/) might spike to 150MB while debugging but drop to 20MB when idle. Consider your usage patterns before permanently removing useful tools.
 
-## Clear Accumulated Browsing Data
+Clear Accumulated Browsing Data
 
 Chrome stores a surprising amount of cached data that accumulates over time. Press Ctrl+Shift+Delete (or Cmd+Shift+Delete on Mac) to open the Clear browsing data dialog. This is often overlooked but can free up significant memory.
 
@@ -81,7 +81,7 @@ The "Download history" option only clears the list, not the actual downloaded fi
 
 After clearing data, restart Chrome completely. Some cached data stays loaded in memory until you fully quit and reopen the browser. This final step ensures you get the full memory benefit from clearing your data. If you notice that [Chrome can't open JSON files](/chrome-cant-open-json-files) after clearing browsing data, you'll need to reset Chrome settings to restore file associations.
 
-## Organize Tabs Into Groups
+Organize Tabs Into Groups
 
 Right-click any tab and select "Add tab to group" to create a new group or add to an existing one. Grouped tabs share some memory resources more efficiently than scattered individual tabs. This organizational approach also makes it easier to close entire categories of tabs at once.
 
@@ -91,38 +91,38 @@ Chrome allows up to 8 tabs per group before performance starts degrading. If you
 
 Group colors help with visual organization but don't affect memory usage. The real benefit comes from easier tab management and the ability to bulk-close related tabs when you're done with them.
 
-## Common Mistakes That Waste Memory
+Common Mistakes That Waste Memory
 
-### Keeping Video Tabs Open When Not Watching
+Keeping Video Tabs Open When Not Watching
 
 YouTube, Netflix, and other streaming sites continue using 200-400MB of RAM even when paused. The video player maintains a buffer and connection status that consumes memory constantly. Instead of leaving videos paused for hours, bookmark the timestamp and close the tab.
 
 Many people pause a video "to watch later" and forget about it for days. These zombie video tabs accumulate quickly during research sessions or entertainment browsing. Use Chrome's [bookmark management features](https://chrometipsguide.com/) to save your place instead.
 
-### Installing Too Many "Productivity" Extensions
+Installing Too Many "Productivity" Extensions
 
 Each extension runs continuously in the background, even when not actively used. Having 15 different productivity extensions installed typically consumes more memory than the productivity they provide. Focus on 3-5 essential extensions that you actually use daily.
 
 Popular extension categories that create memory bloat include multiple ad blockers (you only need one), several password managers, duplicate note-taking tools, and numerous shopping comparison extensions. Audit your extensions monthly and remove duplicates. If extensions are causing unexpected behavior where [Chrome can't open JSON files](/chrome-cant-open-json-files), disable all extensions and re-enable them one by one to identify the culprit.
 
-### Never Restarting Chrome
+Never Restarting Chrome
 
 Chrome accumulates memory leaks over time, especially if you leave it running for weeks. Even with good tab management, memory usage gradually increases due to JavaScript engines, cached data, and extension overhead that builds up during extended sessions.
 
 Restart Chrome completely at least once every few days. Use Ctrl+Shift+Q (or Cmd+Shift+Q on Mac) to quit completely, then reopen. This clears accumulated memory fragments and resets all processes to their baseline usage.
 
-### Ignoring Background Apps
+Ignoring Background Apps
 
 Chrome can run background apps even when the browser appears closed. Check if Chrome is still running in your system tray (Windows) or menu bar (Mac) after closing all windows. These background processes can use 100-300MB of RAM for notifications, extensions, and sync services.
 
 To disable background apps, go to Settings > Advanced > System and turn off "Continue running background apps when Google Chrome is closed." This ensures Chrome fully closes when you exit, freeing all associated memory.
 
-## Skip the Manual Steps
+Skip the Manual Steps
 
 While these manual memory management techniques work effectively, they require constant attention and regular maintenance. You have to remember to check tab usage, clear data, and restart Chrome regularly.
 
-**Tab Suspender Pro** automates this entire process intelligently. The extension monitors tab activity and automatically suspends unused tabs after a customizable time period, reducing their memory usage by up to 95% while keeping them instantly accessible. With a **4.9/5** rating and regular updates, it handles memory management so you don't have to.
+Tab Suspender Pro automates this entire process intelligently. The extension monitors tab activity and automatically suspends unused tabs after a customizable time period, reducing their memory usage by up to 95% while keeping them instantly accessible. With a 4.9/5 rating and regular updates, it handles memory management so you don't have to.
 
-Instead of manually checking which tabs to close or remember to clear your cache, the extension handles optimization automatically based on your actual usage patterns. **[Try Tab Suspender Pro Free](https://zovo.one)**
+Instead of manually checking which tabs to close or remember to clear your cache, the extension handles optimization automatically based on your actual usage patterns. [Try Tab Suspender Pro Free](https://zovo.one)
 
 Built by Michael Lip. More tips at zovo.one

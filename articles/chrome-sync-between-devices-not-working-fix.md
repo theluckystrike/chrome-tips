@@ -14,7 +14,7 @@ Chrome sync between devices not working is one of those frustrating issues that 
 
 ## Why Chrome Sync Between Devices Stops Working
 
-Chrome sync is designed to keep your browsing data synchronized across every device where you use the same Google account. This includes your bookmarks, browsing history, saved passwords, autofill data, extensions, and even your open tabs. When it works correctly, you can start researching something on your desktop computer and continue exactly where you left off on your phone. But several factors can break this seamless experience.
+Chrome sync is designed to keep your browsing data synchronized across every device where you use the same Google account. This includes your bookmarks, browsing history, saved passwords, autofill data, extensions, and even your open tabs. When it works correctly, you can start researching something on your desktop computer and continue exactly where you left off on your phone. But several factors can break this smooth experience.
 
 The most common reason chrome sync between devices not working occurs is a mismatch in the Google account you are using. If you signed into Chrome with your personal Gmail account on your computer but accidentally used a different Google account on your phone, the two devices are essentially talking past each other. They are both syncing, just to different places. This is surprisingly easy to do, especially if you have multiple Google accounts.
 
@@ -88,7 +88,7 @@ Chrome sync between devices is incredibly useful when it works, and most of the 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome taking too long to open fix](/articles/chrome-taking-too-long-to-open-fix/)
 * [chrome for rumble web player settings](/articles/chrome-for-rumble-web-player-settings/)
 * [Chrome vs Edge Extensions Compatibility](/articles/chrome-vs-edge-extensions-compatibility/)

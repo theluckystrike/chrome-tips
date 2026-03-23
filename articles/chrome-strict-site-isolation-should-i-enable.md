@@ -19,7 +19,7 @@ This matters especially when you are logged into multiple accounts. Imagine you 
 
 Google developed strict site isolation primarily to protect against sophisticated attacks like Spectre and Meltdown, which were discovered in 2018. These hardware vulnerabilities affected virtually all computers and could potentially allow malicious websites to access sensitive data from other sites you had open.
 
-The traditional approach to browser security assumed that websites could share some resources for the sake of efficiency. While this made browsing faster, it also created security vulnerabilities that attackers could exploit. Strict site isolation was Google's answer to these threats, providing a more robust separation between websites at the cost of some additional memory usage.
+The traditional approach to browser security assumed that websites could share some resources for the sake of efficiency. While this made browsing faster, it also created security vulnerabilities that attackers could exploit. Strict site isolation was Google's answer to these threats, providing a more solid separation between websites at the cost of some additional memory usage.
 
 For most users, this trade-off makes sense. The security benefits far outweigh the minor performance costs, especially when you consider what is at stake. Without proper isolation, a compromised website could potentially access your banking information, login credentials, or other sensitive data that you have stored in other tabs.
 
@@ -61,7 +61,7 @@ The good news is that Chrome keeps improving this feature, and the performance i
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for Target Web App Best Extensions](/articles/chrome-for-target-web-app-best-extensions/)
 * [Chrome Overrides for Local Development](/articles/chrome-overrides-local-development/)
 * [chrome print page shortcut](/articles/chrome-print-page-shortcut/)

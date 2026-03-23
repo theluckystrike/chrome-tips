@@ -36,7 +36,7 @@ Last tested: March 2026 | Chrome latest stable
 > Set your target language as default for new tabs
 > Create bookmarks for foreign language websites
 
-## Enable Chrome's Built-In Translation Tools
+Enable Chrome's Built-In Translation Tools
 
 Chrome includes powerful translation features that work automatically when you visit foreign language websites. Open Chrome settings by clicking the three dots in the top right corner, then selecting Settings. Navigate to Advanced, then Languages. Here you'll find the option to "Offer to translate pages that aren't in a language you read."
 
@@ -46,13 +46,13 @@ Make sure this toggle is enabled. Chrome will now automatically detect when you'
 
 The built-in translator uses Google's neural machine translation, which provides context-aware translations rather than word-for-word substitutions. This means you'll see more natural-sounding translations that help you understand sentence structure in your target language.
 
-### Configure Language Preferences
+Configure Language Preferences
 
 Still in the Languages section, click "Add languages" to include your target language. Chrome will then prioritize content in this language when you search or browse. You can also drag languages to reorder them by preference.
 
 For Windows users, press Ctrl+Shift+Delete to access advanced language settings quickly. Mac users can use Cmd+Shift+Delete for the same function.
 
-## Install Translation Extensions for Instant Lookups
+Install Translation Extensions for Instant Lookups
 
 While Chrome's built-in translator handles full pages, you need something faster for individual words and phrases. Extensions fill this gap by providing instant translations when you hover over text or select words.
 
@@ -60,13 +60,13 @@ Visit the Chrome Web Store and search for translation extensions. Look for optio
 
 Most translation extensions work by highlighting text and pressing a keyboard shortcut, or by double-clicking words. Configure your preferred method in the extension's options page after installation.
 
-### Set Up Keyboard Shortcuts
+Set Up Keyboard Shortcuts
 
 Chrome allows you to assign custom keyboard shortcuts to extensions. Type `chrome://extensions/shortcuts` in your address bar to access this feature. Assign easy-to-remember shortcuts like Alt+T for translation or Alt+D for dictionary lookups.
 
 Consistent shortcuts become muscle memory after a few days of use. Choose shortcuts that don't conflict with existing Chrome hotkeys or your operating system's shortcuts.
 
-## Create an Immersive Language Environment
+Create an Immersive Language Environment
 
 Transform Chrome into a language learning hub by bookmarking high-quality foreign language websites. News sites, YouTube channels, and online magazines provide authentic content at various difficulty levels.
 
@@ -76,45 +76,45 @@ Create a bookmark folder specifically for your target language. Include a mix of
 
 Pin these bookmark folders to your bookmarks bar for one-click access. This reduces the friction between deciding to practice and actually consuming foreign language content.
 
-### Configure New Tab Behavior
+Configure New Tab Behavior
 
 Several extensions let you set foreign language websites as your new tab page. This means every new tab becomes a micro-learning opportunity, exposing you to vocabulary and sentence structures throughout your browsing session.
 
 You can also set your Chrome homepage to a foreign language news site or learning portal. This creates consistent exposure every time you open your browser.
 
-## Common Mistakes That Block Your Progress
+Common Mistakes That Block Your Progress
 
-### Translating Everything Immediately
+Translating Everything Immediately
 
 Many learners enable auto-translate on every foreign language page, which prevents them from developing reading comprehension skills. Instead, try to understand the general meaning first, then translate specific words or phrases you can't figure out from context.
 
 Set yourself a rule: read the first paragraph without translating, then use translation tools for unfamiliar terms. This approach builds pattern recognition while still providing vocabulary support when needed.
 
-### Ignoring Audio Features
+Ignoring Audio Features
 
 Chrome's translation tools include pronunciation guides, but many users never enable audio playback. Missing this auditory component slows speaking and listening skill development significantly.
 
 Enable audio in your translation extension settings and listen to pronunciations regularly. Even if you're focusing on reading skills, hearing words correctly pronounced helps with retention and builds listening vocabulary simultaneously.
 
-### Using Wrong Regional Settings
+Using Wrong Regional Settings
 
 Chrome's language detection sometimes defaults to unexpected regional variants. Spanish learners might get Mexican Spanish when they want European Spanish, or Chinese learners might get Traditional characters instead of Simplified.
 
 Check your language preferences regularly and specify regional variants when available. This ensures you're learning the vocabulary and grammar patterns most relevant to your goals.
 
-### Skipping Offline Preparation
+Skipping Offline Preparation
 
 Relying entirely on internet-connected translation tools creates problems when you need to read foreign language content without internet access. Many extensions offer offline dictionaries that work without connectivity.
 
 Download offline language packs for your translation extensions before traveling or studying in areas with limited internet. This preparation prevents study interruptions and maintains learning momentum.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
-Setting up all these features manually works fine, but it's time-consuming and requires constant tweaking as you discover new needs. **BeLikeNative** automates this entire process by combining translation, vocabulary tracking, and practice exercises in a single extension.
+Setting up all these features manually works fine, but it's time-consuming and requires constant tweaking as you discover new needs. BeLikeNative automates this entire process by combining translation, vocabulary tracking, and practice exercises in a single extension.
 
-The **4.6-star rated** extension handles translation, creates personalized vocabulary lists from your browsing history, and provides contextual practice exercises based on words you've looked up. Instead of juggling multiple tools, you get an integrated language learning environment that adapts to your browsing patterns.
+The 4.6-star rated extension handles translation, creates personalized vocabulary lists from your browsing history, and provides contextual practice exercises based on words you've looked up. Instead of juggling multiple tools, you get an integrated language learning environment that adapts to your browsing patterns.
 
-**[Try BeLikeNative Free](https://zovo.one)**
+[Try BeLikeNative Free](https://zovo.one)
 
 The automated approach eliminates the setup complexity while providing more sophisticated features than manual configuration allows. You'll spend more time learning and less time managing browser settings.
 

@@ -13,7 +13,7 @@ Does having many Chrome extensions slow down your browser? If you have been wond
 
 Let me explain why this happens and what you can do about it.
 
-## How Extensions Work in Chrome
+How Extensions Work in Chrome
 
 When you install an extension in Chrome, it does not just sit there waiting for you to click something. Most extensions run code in the background all the time. They might be watching for new emails, checking prices on shopping sites, saving your passwords, or automatically translating foreign text. Each of these tasks requires your browser to use processing power and memory.
 
@@ -21,7 +21,7 @@ Think of it like having multiple apps open on your computer at the same time. On
 
 Every extension you install adds to the amount of memory Chrome needs to run. Chrome already uses a fair amount of memory on its own, especially if you keep many tabs open. When you add extensions on top of that, the combined load can become significant.
 
-## Why Too Many Extensions Cause Problems
+Why Too Many Extensions Cause Problems
 
 There are a few main reasons why having many extensions slows down your browser.
 
@@ -33,7 +33,7 @@ Third, extensions can interfere with each other. When many extensions are instal
 
 Fourth, some extensions inject code into every page you visit. This is common for extensions that add features to websites, like toolbars, comment enhancers, or shopping comparers. The more extensions do this, the more code Chrome has to process for each page, which slows things down.
 
-## Signs You Have Too Many Extensions
+Signs You Have Too Many Extensions
 
 How do you know if your extensions are causing problems? Look out for these warning signs.
 
@@ -45,7 +45,7 @@ Your computer feels hot or your fans are loud. When Chrome uses a lot of process
 
 Chrome crashes or freezes occasionally. While crashes can have many causes, having too many extensions is a common reason.
 
-## What You Can Do About It
+What You Can Do About It
 
 The good news is that you can take steps to fix this without giving up all of your extensions. Here is what you can do.
 
@@ -61,7 +61,7 @@ Use an extension management tool to control when extensions run. Some extensions
 
 Consider using a dedicated extension designed to manage other extensions. Tab Suspender Pro is one such tool that helps by automatically suspending tabs you are not using, which reduces memory usage significantly. It can also help you identify which extensions are using the most resources. While it is not the only solution available, many users find it helpful for keeping their browser running smoothly.
 
-## A Practical Approach
+A Practical Approach
 
 Try this experiment. Disable all of your extensions and use Chrome normally for a day. Notice how it feels. Then, enable your extensions one by one, adding only the ones you truly need. You might be surprised by how much faster Chrome feels with just a handful of essential extensions.
 
@@ -73,7 +73,7 @@ Remember that fewer, well-chosen extensions will serve you better than dozens of
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Extension for Saving Articles Offline](/articles/chrome-extension-for-saving-articles-offline/)
 * [Chrome Netflix Not Working Fix](/articles/chrome-netflix-not-working-fix/)
 * [Chrome Extensions for Habit Tracker](/articles/chrome-extensions-for-habit-tracker/)

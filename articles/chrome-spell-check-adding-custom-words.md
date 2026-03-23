@@ -23,13 +23,13 @@ You are typing away in Chrome and suddenly there it is again - that red squiggly
 
 Chrome has a built-in spell checker that helps catch typos and mistakes, but it relies on a standard dictionary. That means proper nouns, industry jargon, and words that are unique to your personal or professional life often get flagged as errors. The good news is that Chrome lets you add your own words to its dictionary so it remembers them for future typing sessions.
 
-## Why Custom Words Matter
+Why Custom Words Matter
 
 Think about how many words you type that are not in a standard dictionary. Your company name, your city, your favorite brand, technical terms from your job, acronyms your team uses, and even nicknames for people you communicate with regularly. All of these get flagged by Chrome's spell checker, and after a while, those red squiggly lines become white noise that you stop noticing. But that defeats the purpose of having spell check in the first place.
 
 Adding custom words to Chrome solves this problem. Once you teach Chrome about the words you use, it stops flagging them as errors. This makes your typing experience smoother and helps you catch actual mistakes more easily. When only truly misspelled words get highlighted, the spell checker becomes much more useful.
 
-## How to Add Custom Words in Chrome
+How to Add Custom Words in Chrome
 
 Adding custom words to Chrome spell check is straightforward. Here is what you need to do.
 
@@ -39,7 +39,7 @@ In that submenu, you should see an option to Add words to dictionary. Click on t
 
 This method works well for adding one or two words at a time. It is quick and does not require you to dig through any settings menus.
 
-## Using the Settings to Manage Custom Words
+Using the Settings to Manage Custom Words
 
 If you want more control over the words you have added, Chrome also lets you manage your custom dictionary through its settings. This is useful if you want to see all the words you have added, remove some of them, or add multiple words at once.
 
@@ -49,7 +49,7 @@ Under the Languages section, look for an option called Spell check or Custom dic
 
 This settings approach is handy because it gives you a clear view of everything in your custom dictionary. You can easily spot words you accidentally added or remove words that are no longer relevant.
 
-## What About Multiple Languages
+What About Multiple Languages
 
 Many people use Chrome in more than one language, and this can affect how custom words work. If you have multiple languages enabled for spell check, make sure you are adding words to the correct language dictionary.
 
@@ -57,7 +57,7 @@ When you add a word using the right-click method, Chrome usually adds it to the 
 
 Some users find it helpful to add their custom words to multiple language dictionaries if they switch between languages frequently. This prevents the same word from being flagged when you change your active spell check language.
 
-## When Custom Words Do Not Work
+When Custom Words Do Not Work
 
 Sometimes you add a word to the dictionary but Chrome still flags it as misspelled. This can happen for a few reasons.
 
@@ -67,7 +67,7 @@ Another possibility is that you are using an extension that handles spell checki
 
 In rare cases, a specific website might have its own spell checking system that overrides Chrome's settings. If you find that custom words work everywhere except on one particular site, the issue is likely with that website, not with Chrome.
 
-## Extensions That Can Help
+Extensions That Can Help
 
 While Chrome's built-in custom dictionary feature works well, some users prefer additional functionality. There are extensions available that provide more advanced dictionary management.
 
@@ -75,7 +75,7 @@ One option worth mentioning is Tab Suspender Pro. While its main purpose is help
 
 For spell checking specifically, there are extensions that let you manage multiple dictionaries, sync custom words across devices, and provide more detailed control over which words get flagged. These can be useful if you need to manage a large list of custom words or if you frequently switch between different typing contexts.
 
-## Adding Words on Mobile
+Adding Words on Mobile
 
 If you use Chrome on your phone or tablet, you might wonder if you can add custom words there too. The good news is that Chrome on mobile does sync your custom dictionary from your desktop, as long as you are signed into the same Google account and sync is enabled.
 
@@ -83,7 +83,7 @@ To make sure sync is turned on, go to your Chrome settings on your phone and loo
 
 If you want to add words directly on mobile, you can usually do so through the keyboard. Some keyboards, like Gboard, have their own dictionary settings that work alongside Chrome. Check your keyboard settings if you cannot find the option in Chrome itself.
 
-## Keeping Your Dictionary Useful
+Keeping Your Dictionary Useful
 
 Adding custom words to Chrome is one of those small tweaks that makes a big difference in your daily browsing. It reduces frustration, helps you catch real spelling mistakes, and makes Chrome feel more personalized to how you actually communicate.
 
@@ -91,7 +91,7 @@ Take a moment to add those words that constantly get flagged. Your name, your wo
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome web bluetooth how to use](/articles/chrome-web-bluetooth-how-to-use/)
 * [Chrome Source Maps Configuration Guide](/articles/chrome-source-maps-guide/)
 * [Chrome for Citation and Research Extensions](/articles/chrome-for-citation-and-research-extensions/)

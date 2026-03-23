@@ -14,13 +14,13 @@ author: theluckystrike
 
 If you are looking for chrome new tab page best extensions, you probably spend a lot of time staring at that blank or cluttered page that appears every time you open a new tab. Many Chrome users find their default new tab experience uninspiring and unproductive, and they do not realize that a few simple extensions can completely change how they start each browsing session.
 
-## Why Your New Tab Page Matters
+Why Your New Tab Page Matters
 
 Every time you open a new tab in Chrome, you have a fresh opportunity to set the tone for your next task. Whether you are researching a topic, checking emails, or working on a project, that split second when a new tab appears is a tiny moment of decision. Do you get distracted by trending news? Do you struggle to remember what you were about to do? Do you wish your browser could actually help you rather than just sitting there blankly?
 
 The default Chrome new tab page shows your most visited websites and a few search options. This is not necessarily bad, but it is not optimized for productivity or focus either. The good news is that Chrome allows extensions to replace this default page with something much more useful. With the right extensions, your new tab page can become a command center for your daily work.
 
-## What Makes a Great New Tab Extension
+What Makes a Great New Tab Extension
 
 Before diving into specific recommendations, it helps to understand what separates a useful new tab extension from one that just adds visual clutter. The best chrome new tab page extensions share a few key qualities.
 
@@ -30,7 +30,7 @@ Second, they are fast. Adding a new tab extension should not make Chrome slower.
 
 Third, they are intuitive. You should not need to read a manual or watch a tutorial to get value from your new tab page. The best extensions work immediately and get out of your way.
 
-## Momentum
+Momentum
 
 Momentum is one of the most popular new tab extensions, and for good reason. It transforms your blank new tab page into a calming, focused workspace that helps you start each browsing session with intention.
 
@@ -40,7 +40,7 @@ The extension also includes a to-do list feature, weather display, and inspirati
 
 Momentum works especially well for people who struggle with getting distracted first thing in the morning or after opening a new tab during work. Instead of seeing your most visited sites and temptation, you see your intention for the day.
 
-## Tab Suspender Pro
+Tab Suspender Pro
 
 Tab Suspender Pro is another extension that, while not specifically a new tab replacement, dramatically improves your overall Chrome experience including what happens when you open new tabs.
 
@@ -50,7 +50,7 @@ The extension places a small icon in your toolbar that shows how many tabs are c
 
 One of the nice things about Tab Suspender Pro is that it does not require any complicated setup. You install it, and it starts working immediately. The default settings work well for most people, but you can adjust how quickly tabs are suspended and which sites should never be suspended if you need to.
 
-## Speed Dial 2
+Speed Dial 2
 
 Speed Dial 2 offers a highly customizable new tab page experience with a focus on visual bookmarking. Instead of a text-based list of your most visited sites, you get a grid of visual tiles that represent your favorite websites.
 
@@ -58,7 +58,7 @@ You can choose background images, arrange your tiles in different layouts, and o
 
 What makes Speed Dial 2 stand out is its flexibility. You can make it as simple or as feature-rich as you want. Some users love the minimal look with just a few key bookmarks. Others create extensive collections of links organized by project or topic.
 
-## Infinity New Tab
+Infinity New Tab
 
 Infinity New Tab is another excellent option that combines productivity features with visual appeal. It offers a clean interface with customizable shortcuts, a to-do list, bookmarks management, and a weather widget.
 
@@ -66,7 +66,7 @@ The extension lets you create shortcut tiles that link to your most used website
 
 One feature that many users appreciate is the ability to import and export your settings. This makes it easy to move your setup to a new computer or share your configuration with others.
 
-## Toby
+Toby
 
 Toby takes a different approach to new tab organization. Rather than replacing your new tab page entirely, it helps you manage and access your tabs more effectively. When you open a new tab in Toby, you see a visual overview of all your open windows and tab collections.
 
@@ -74,7 +74,7 @@ You can organize your tabs into collections, which is especially useful if you w
 
 Toby also includes a powerful search feature that lets you find any open tab instantly. If you have fifty tabs open and need to find that one article you were reading earlier, Toby makes it easy.
 
-## Choosing What Works for You
+Choosing What Works for You
 
 With so many options available, you might wonder which chrome new tab page extension is right for you. The answer depends on your specific needs and preferences.
 
@@ -86,9 +86,9 @@ Once you find the right extension for your needs, you will be surprised how such
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners/)
 * [Best Chrome Extensions for Real Estate Agents](/articles/best-chrome-extensions-for-real-estate-agents/)
 * [Chrome First Meaningful Paint Deprecated Why](/articles/chrome-first-meaningful-paint-deprecated-why/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

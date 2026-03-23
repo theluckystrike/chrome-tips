@@ -36,15 +36,15 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Right-click requests to copy as cURL or fetch code
 > 5. Test JSON endpoints directly in address bar for quick formatting
 
-## Open Developer Tools and Access the Console
+Open Developer Tools and Access the Console
 
-The fastest way to test any API endpoint starts with Chrome's built-in console. Press **F12** on Windows or Cmd+Option+I on Mac to open Developer Tools. The console appears at the bottom or side of your screen, ready for immediate use.
+The fastest way to test any API endpoint starts with Chrome's built-in console. Press F12 on Windows or Cmd+Option+I on Mac to open Developer Tools. The console appears at the bottom or side of your screen, ready for immediate use.
 
 Click the Console tab if it's not already selected. You'll see a command prompt where you can type JavaScript directly. This console has the same permissions as the current webpage, which means you can make API requests to the same domain without any special configuration.
 
 For testing, you'll primarily use JavaScript's fetch() function. This modern API replaces the older XMLHttpRequest and provides a cleaner syntax for HTTP requests. Type your request directly into the console and press Enter to execute immediately.
 
-## Make API Requests with Fetch Commands
+Make API Requests with Fetch Commands
 
 The console accepts standard fetch() syntax for testing any endpoint. Start with a simple GET request:
 
@@ -73,7 +73,7 @@ The console immediately shows whether your request succeeded or failed, includin
 
 > "The JSON.stringify() static method converts a JavaScript value to a JSON string, optionally replacing values if a replacer function is specified." ,  [JSON.stringify() - JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 
-## Monitor Network Activity in Real Time
+Monitor Network Activity in Real Time
 
 Switch to the Network tab to see detailed information about every request your browser makes. Click the record button (red circle) if it's not already active. This tab captures all network activity, including API calls made through fetch() commands in the console.
 
@@ -83,7 +83,7 @@ The Headers section shows exactly what your browser sent and what the server ret
 
 The Response tab displays the raw server response, while the Preview tab attempts to format JSON responses for easier reading. For timing analysis, the Timing tab breaks down DNS lookup, connection time, server processing, and content download into separate metrics.
 
-## Copy and Modify Existing Requests
+Copy and Modify Existing Requests
 
 Right-click any network request to access the copy menu. Select "Copy as cURL" to get a complete command-line version that includes all headers and parameters. This cURL command works in any terminal and preserves authentication tokens, custom headers, and request body data.
 
@@ -91,7 +91,7 @@ For browser testing, choose "Copy as fetch" instead. This generates JavaScript c
 
 This copying approach works perfectly for testing API variations. Copy a working request, change one parameter, and immediately see how the API responds to different inputs.
 
-## Test JSON Endpoints Directly
+Test JSON Endpoints Directly
 
 For simple GET requests that return JSON, type the URL directly into Chrome's address bar. Press Enter to navigate to the endpoint, and Chrome displays the raw JSON response in a new tab.
 
@@ -101,9 +101,9 @@ Chrome's default JSON display shows the raw text, which can be difficult to read
 
 > "JSON is a text-based data format following JavaScript object syntax. Even though it closely resembles JavaScript object literal syntax, it can be used independently from JavaScript." ,  [Working with JSON - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
 
-## Common Mistakes
+Common Mistakes
 
-### Forgetting CORS Restrictions
+Forgetting CORS Restrictions
 
 Many developers try to test third-party APIs directly from the console and encounter CORS errors. Browser security prevents cross-origin requests unless the target API specifically allows them through appropriate headers.
 
@@ -111,7 +111,7 @@ When you see "Access to fetch at 'API_URL' from origin has been blocked by CORS 
 
 Test these APIs through your actual application code running on a development server, or use a CORS proxy service for testing purposes. Opening HTML files directly in the browser (file:// protocol) triggers CORS restrictions even for same-domain requests.
 
-### Not Checking Response Headers
+Not Checking Response Headers
 
 Status code 200 doesn't guarantee a successful API response. Some servers return HTML error pages with 200 status codes, or send responses in unexpected formats that cause parsing errors.
 
@@ -119,7 +119,7 @@ Always check the Content-Type header in the Network tab to verify you're receivi
 
 The Headers tab reveals authentication requirements, API version information, and caching directives that affect how your application should handle the response. These details don't appear in the console output but directly impact integration success.
 
-### Ignoring Request Timing Information
+Ignoring Request Timing Information
 
 The Timing tab in Network details shows where delays occur in your API requests. DNS lookup, connection establishment, server processing, and content download each contribute to total request time.
 
@@ -127,7 +127,7 @@ A request taking 3 seconds might show 2.8 seconds of server processing time, ind
 
 Understanding these timing breakdowns helps you optimize API performance and identify whether issues stem from your code, network configuration, or server-side processing delays.
 
-### Testing with Cached Responses
+Testing with Cached Responses
 
 Chrome caches API responses by default, which can make repeated tests show stale data instead of current API behavior. The Network tab indicates cached responses with "(from disk cache)" or "(from memory cache)" labels.
 
@@ -135,12 +135,12 @@ Hold Shift while clicking reload, or right-click the refresh button and select "
 
 For consistent testing, you can also disable caching entirely in the Network tab by checking the "Disable cache" option while developer tools are open.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
-The manual method works fine for occasional testing, but formatting complex JSON responses gets tedious quickly. **JSON Formatter Pro** automates the formatting process with a **4.8/5** rating and activates automatically when you visit JSON endpoints directly in your browser.
+The manual method works fine for occasional testing, but formatting complex JSON responses gets tedious quickly. JSON Formatter Pro automates the formatting process with a 4.8/5 rating and activates automatically when you visit JSON endpoints directly in your browser.
 
 The extension eliminates manual console formatting steps by beautifying any JSON response you encounter. Version 1.0.4 handles nested objects, arrays, and complex data structures without requiring additional configuration or manual intervention.
 
-**[Try JSON Formatter Pro Free](https://zovo.one)**
+[Try JSON Formatter Pro Free](https://zovo.one)
 
 Built by Michael Lip. More tips at zovo.one

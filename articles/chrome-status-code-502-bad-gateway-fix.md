@@ -73,5 +73,5 @@ Most 502 errors are temporary and resolve themselves within minutes. If you cont
 * [Chrome vs Samsung Internet on Android](/articles/chrome-vs-samsung-internet-on-android/)
 * [Chrome Closed Captions on Any Video](/articles/chrome-closed-captions-on-any-video/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

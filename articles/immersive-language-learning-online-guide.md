@@ -30,7 +30,7 @@ faq:
   - q: "What tools do I need for immersive language learning online?"
     a: "You need Chrome with its built-in translation infrastructure supporting over 130 languages, language learning extensions, and AI-powered translation models now available directly in the browser. Tools like Zovo help configure your setup from scratch, while various extensions enable features like popup dictionaries and sentence highlighting. This comprehensive approach scales from casual learners reading occasional articles to dedicated students who want every browsing session to count as study time."
   - q: "Is Chrome better than other browsers for language learning?"
-    a: "Chrome leads for language learning because it supports over 130 languages through built-in translation infrastructure and offers the most robust extension ecosystem for immersive study. Recent updates have brought AI-powered translation models directly into Chrome, making it more capable than ever for browser-based immersion. While other browsers exist, Chrome's translation system operates on multiple layers, providing the most comprehensive setup for learners working with Spanish, Mandarin, Arabic, or any widely spoken language."
+    a: "Chrome leads for language learning because it supports over 130 languages through built-in translation infrastructure and offers the most solid extension ecosystem for immersive study. Recent updates have brought AI-powered translation models directly into Chrome, making it more capable than ever for browser-based immersion. While other browsers exist, Chrome's translation system operates on multiple layers, providing the most comprehensive setup for learners working with Spanish, Mandarin, Arabic, or any widely spoken language."
   - q: "How long does it take to see results from immersive language learning?"
     a: "Results appear within weeks of consistent daily practice, though the exact timeline depends on your learning intensity and target language. Learners using this immersive language learning online guide typically notice improved vocabulary retention and reading comprehension within the first month. The browser-based approach accelerates progress because you're exposed to authentic content rather than artificial drills, making every 30-minute session significantly more productive than traditional methods."
   - q: "Can I learn any language through browser immersion?"
@@ -41,7 +41,7 @@ Turning your web browser into a full-time language learning environment is the s
 
 Last tested: March 2026 | Chrome latest stable
 
-## Contents
+Contents
 
 - [How Browser-Based Language Immersion Actually Works](#how-browser-based-language-immersion-actually-works)
 - [Setting Up Your Immersive Learning Environment](#setting-up-your-immersive-learning-environment)
@@ -51,7 +51,7 @@ Last tested: March 2026 | Chrome latest stable
 - [Tools and Extensions That Support Immersive Learning](#tools-and-extensions-that-support-immersive-learning)
 - [FAQ](#faq)
 
-## How Browser-Based Language Immersion Actually Works
+How Browser-Based Language Immersion Actually Works
 
 Chrome's translation system operates on multiple layers, and understanding those layers helps you configure the right setup. At the lowest level, Chrome ships with a built-in translation service that detects page language and offers to convert it to your preferred language. Starting with recent versions, Chrome introduced AI-powered translation through the [Translator API](https://developer.chrome.com/docs/ai/translator-api), which runs translation models directly in the browser rather than routing text through an external server.
 
@@ -73,31 +73,31 @@ Chrome extensions themselves can be fully internationalized using the [chrome.i1
 
 This means well-built language learning extensions can present their own interface in your target language, adding another layer of immersion. If the extension that helps you learn French is itself displayed in French, you gain additional passive exposure every time you interact with its popup or settings panel. Understanding these layers helps you evaluate which tools are worth installing and which are simply wrappers around a basic API call. For a broader overview of how Chrome handles extension infrastructure, see [Chrome extension tips and guides](https://chrometipsguide.com/).
 
-## Setting Up Your Immersive Learning Environment
+Setting Up Your Immersive Learning Environment
 
-### Configuring Chrome's Built-In Translation Features
+Configuring Chrome's Built-In Translation Features
 
 Start by opening Chrome Settings, then navigate to Languages. Add your target language to the list of preferred languages and move it to the second position, right below your native language. This tells Chrome to recognize content in that language without automatically translating it away.
 
 Next, adjust the translation behavior. Under the Google Translate section in Settings, you can choose whether Chrome offers to translate pages in specific languages. For immersive learning, disable automatic translation for your target language. You want to see the original text first and only translate when you choose to. This small friction is what separates passive translation from active learning. If you are comfortable with Chrome flags, open `chrome://flags/#enable-translate-sub-frames` to control whether embedded frames also get translated. For language learning, you generally want this disabled so you encounter foreign text in embedded content like comments and social media widgets, which often contain the most natural, colloquial language. You can find more configuration options at [Chrome tips](https://chrometipsguide.com/).
 
-### Creating a Dual-Language Browsing Setup
+Creating a Dual-Language Browsing Setup
 
 The most effective immersive setup uses two browser profiles side by side. In your primary profile, keep your target language as the content language. In a second profile, keep your native language available for reference.
 
 To create a second Chrome profile, click your profile avatar in the top-right corner, then select Add at the bottom of the profile dropdown. Set the new profile's language to your target language in Settings and Languages. This profile will display Chrome's own interface in the target language, adding another immersion layer to your reading sessions. Using keyboard shortcuts speeds up the workflow. On Mac, Cmd+N opens a new window. On Windows, Ctrl+N does the same. You can then snap windows side by side with Cmd+Ctrl+Left/Right on Mac or Win+Left/Right on Windows to create a dual-pane reading environment. More [keyboard shortcut tips](https://chrometipsguide.com/) are available for additional workflows.
 
-### Building a Content Pipeline for Target Language Material
+Building a Content Pipeline for Target Language Material
 
 Finding authentic content in your target language is easier than most people expect. Start with news sites. Nearly every major news outlet publishes in multiple languages. Bookmark 5 to 10 sites in your target language and set them as your startup pages under Chrome Settings, On Startup, Open a Specific Page or Set of Pages.
 
 RSS readers like Feedly or Inoreader can aggregate target-language content into a single feed. Subscribe to subreddits, YouTube channels, and podcasts in your target language. The key is making foreign-language content the default rather than something you seek out deliberately. Social media is particularly valuable because it exposes you to informal registers, slang, and contemporary usage that textbooks skip. Follow target-language accounts on Twitter/X, Reddit, and Instagram. Change your social media interface language to match. For tips on [managing multiple browser setups](https://chrometipsguide.com/) for content pipelines, the linked guide covers several approaches.
 
-### Tracking Your Progress
+Tracking Your Progress
 
 Chrome's History page, accessible via `chrome://history/` or Cmd+Y on Mac and Ctrl+Y on Windows, provides a raw log of what you have been reading. Search your history for target-language domains to track how much time you spend reading in that language. Extensions like BeLikeNative can also log your interactions with foreign text, including words looked up and passages you struggled with. See [Chrome browsing tips](https://chrometipsguide.com/) for more on using browser history as a learning tool.
 
-## Advanced Techniques for Deeper Immersion
+Advanced Techniques for Deeper Immersion
 
 Once the basics are working, several techniques go further than most guides cover. These require some comfort with Chrome's developer tools and flags but deliver significantly deeper immersion.
 
@@ -117,7 +117,7 @@ For Firefox users studying alongside Chrome, the WebExtensions i18n module provi
 
 One technique that works well is setting your browser's spellcheck language to your target language. Right-click any text input field, go to Spell Check, and select your target language. Every email, social media post, and form you fill out now gets checked against target-language spelling rules, pushing you to practice correct writing as part of your normal browsing.
 
-## Measuring Your Progress: What the Numbers Show
+Measuring Your Progress: What the Numbers Show
 
 Tracking immersive learning progress requires different metrics than traditional classroom assessment. Instead of test scores, you measure reading speed, lookup frequency, and comprehension comfort.
 
@@ -127,27 +127,27 @@ Reading speed follows a predictable curve. Initial reading speed in a foreign la
 
 Extensions that track your lookup behavior provide the most useful data. If you can see a graph of your daily word lookups trending downward over weeks, that is concrete evidence of vocabulary acquisition. Similarly, tracking which domains you visit in your target language shows whether your reading is diversifying into new topic areas or staying within a comfort zone. Expanding into new domains typically causes a temporary spike in lookups followed by a faster-than-initial decline as you absorb domain-specific vocabulary. Browser-based immersion also generates indirect signals. If you find yourself navigating Chrome menus in your target language without thinking, or if you stop reaching for the translate button on familiar news sites, those are real milestones. For more on [measuring browser performance and usage patterns](https://chrometipsguide.com/), see the linked resources.
 
-## Common Problems and Fixes
+Common Problems and Fixes
 
-### Translation Extensions Override Each Other
+Translation Extensions Override Each Other
 
 If you have more than one translation or language learning extension installed, they can conflict. One extension might intercept a word lookup before another gets a chance to process it. The fix is to go to `chrome://extensions/`, review your installed language tools, and disable all but one at a time. Test each individually to identify which provides the experience you prefer. If you need features from multiple extensions, check whether they offer configuration options to limit their scope, for example one handles hover translations while another handles full-page translation. You can learn more about [managing extension conflicts](https://chrometipsguide.com/) for additional approaches.
 
-### Page Layout Breaks After Partial Translation
+Page Layout Breaks After Partial Translation
 
 Some websites use tightly constrained CSS layouts that break when text length changes due to translation. German and Finnish words, for example, are often significantly longer than their English equivalents, which can overflow containers. Open DevTools, find the overflowing element, and temporarily add `overflow: visible` or `word-break: break-word` to the element's style. Alternatively, use Reader Mode in Chrome's address bar to strip away complex layouts before reading translated content.
 
-### Audio and Video Content Gets No Translation Support
+Audio and Video Content Gets No Translation Support
 
 Browser-based translation works primarily with text. For YouTube, enable auto-generated subtitles and use Chrome's built-in Live Caption feature, available in Settings then Accessibility, to get real-time captions. These can then be translated using your language extension. For other video platforms, extensions that overlay subtitle translation on video players fill the gap. This is one area where dedicated language learning platforms still hold an advantage over browser-based immersion.
 
-### Dictionary Popups Disappear Too Quickly
+Dictionary Popups Disappear Too Quickly
 
 Many translation extensions show a popup when you hover over or select a word, but the popup vanishes the moment your cursor moves. Check the extension's settings for a pin or sticky option that keeps the popup visible until you dismiss it manually. If no such option exists, try double-clicking to select a word instead of hovering. Most extensions treat click-triggered lookups differently from hover-triggered ones and keep the result visible longer. Additional troubleshooting for [extension popup behavior](https://chrometipsguide.com/) is available if you need it.
 
-## Tools and Extensions That Support Immersive Learning
+Tools and Extensions That Support Immersive Learning
 
-**BeLikeNative** is an AI writing assistant that handles paraphrasing, rewriting, and translation directly in the browser. Rated **4.6/5** on the Chrome Web Store at version 1.4.8, last updated March 10, 2026, it comes in at 999 KiB, which is lightweight enough to leave running without noticeable performance impact. For language learners, its translation and rewriting capabilities are most relevant. You can select text in your target language, get a translation, and then see how a native speaker might rephrase the same idea. The paraphrase feature is genuinely useful for understanding register differences, showing you how formal text might be expressed informally and vice versa. It handles European languages well, and most Asian languages competently, though tonal languages sometimes lose nuance in paraphrased output. You can get it at [zovo.one](https://zovo.one).
+BeLikeNative is an AI writing assistant that handles paraphrasing, rewriting, and translation directly in the browser. Rated 4.6/5 on the Chrome Web Store at version 1.4.8, last updated March 10, 2026, it comes in at 999 KiB, which is lightweight enough to leave running without noticeable performance impact. For language learners, its translation and rewriting capabilities are most relevant. You can select text in your target language, get a translation, and then see how a native speaker might rephrase the same idea. The paraphrase feature is genuinely useful for understanding register differences, showing you how formal text might be expressed informally and vice versa. It handles European languages well, and most Asian languages competently, though tonal languages sometimes lose nuance in paraphrased output. You can get it at [zovo.one](https://zovo.one).
 
 Google Translate Extension remains a solid baseline tool. It provides quick full-page translations and word-level lookups. It lacks the rewriting and paraphrasing features of more specialized tools, but its language coverage is unmatched at over 130 languages. For learners in early stages who need reliable translation above all else, it is a reasonable starting point.
 
@@ -155,35 +155,35 @@ Readlang turns any web page into a language learning exercise by letting you cli
 
 Language Reactor, formerly Language Learning with Netflix, extends immersive learning to video content. It adds dual subtitles to Netflix and YouTube, letting you see both the original language and a translation simultaneously. For learners who absorb better through listening than reading, this is the most effective browser-based tool available.
 
-**[Try BeLikeNative Free](https://zovo.one)**
+[Try BeLikeNative Free](https://zovo.one)
 
-## FAQ
+FAQ
 
-### Does immersive browser-based learning work for beginners?
+Does immersive browser-based learning work for beginners?
 
 Yes, but with caveats. Complete beginners benefit most from combining structured study with immersive reading. Starting with children's news sites or simplified Wikipedia articles in your target language gives you comprehensible input without overwhelming complexity. After 2 to 4 weeks of basic grammar and vocabulary study, immersive browsing becomes significantly more productive because you have enough foundation to guess unfamiliar words from context.
 
-### How many hours per day should I spend on immersive browsing?
+How many hours per day should I spend on immersive browsing?
 
 Consistency matters more than duration. Thirty minutes of focused reading in your target language every day produces better results than three hours on weekends only. The spacing effect, which is well documented in memory research, means daily exposure creates stronger retention than concentrated sessions. If you can manage 45 to 60 minutes daily, that is close to ideal. Beyond 90 minutes, returns diminish unless you are at an advanced level working on specialized vocabulary.
 
-### Which browser is best for language immersion?
+Which browser is best for language immersion?
 
 Chrome has the most developed translation infrastructure and the largest ecosystem of language learning extensions. Firefox provides comparable extension support through the WebExtensions API and strong privacy features. Edge shares Chrome's extension ecosystem since both run on Chromium. Safari has more limited extension support for language learning. For most learners, Chrome or a Chromium-based browser offers the widest range of tools. See [Chrome tips](https://chrometipsguide.com/) for configuration guides specific to Chrome.
 
-### Can I learn multiple languages at once using this method?
+Can I learn multiple languages at once using this method?
 
 You can, but it requires discipline. Create separate Chrome profiles for each target language, each with its own bookmarks, startup pages, and extension configurations. Switch between profiles on a schedule, for example Monday/Wednesday/Friday for Spanish, Tuesday/Thursday/Saturday for French. Avoid mixing languages within a single browsing session because the cognitive switching cost reduces the immersive effect. Two languages simultaneously is manageable. Three becomes difficult unless one is already at an intermediate level.
 
-### How do I handle languages with non-Latin scripts?
+How do I handle languages with non-Latin scripts?
 
 Start by installing the appropriate keyboard layout in your operating system settings. For Chrome, enable the target language in Settings and Languages and make sure font rendering is correct by checking that your system has fonts installed for the script. Most modern operating systems include these by default. For Chinese, Japanese, and Korean, input method editors are essential and come built into both macOS and Windows. Right-to-left languages like Arabic and Hebrew require checking that your browser renders `dir="rtl"` content correctly. Most modern websites handle this automatically, but older sites may need manual CSS adjustments through DevTools. Check [language setup guides](https://chrometipsguide.com/) for script-specific configuration.
 
-### Are paid language extensions worth the cost?
+Are paid language extensions worth the cost?
 
 It depends on what they offer beyond free alternatives. Free tools like Google Translate Extension cover basic translation needs well. Paid extensions typically add spaced repetition, vocabulary tracking, AI-powered paraphrasing, and customizable immersion levels. If you study consistently, features like vocabulary review and progress tracking can accelerate learning enough to justify a monthly cost. Try free tiers or trial periods first to determine whether the premium features match your learning style before committing.
 
-### How long until I see real results from immersive browsing?
+How long until I see real results from immersive browsing?
 
 Most learners report noticeable improvement in reading comprehension within 3 to 4 weeks of daily practice. The initial phase feels slow because every sentence requires multiple lookups. By week 6 to 8, you start recognizing recurring vocabulary and grammatical patterns without conscious effort. Reaching comfortable reading fluency for general content typically takes 4 to 8 months depending on the target language and your starting proficiency. Languages closely related to one you already speak progress faster. For more on [tracking progress and benchmarks](https://chrometipsguide.com/), see the linked resources.
 

@@ -16,13 +16,13 @@ Chrome frame rate how to check is a question that comes up when you notice video
 
 Understanding frame rate matters because modern websites rely heavily on animated content. From simple hover effects to complex web games, everything runs smoother when the browser maintains a high frame rate. If you have ever watched a video that keeps buffering or struggled with a web game that feels unresponsive, checking the frame rate helps you determine whether the problem is your browser or something else.
 
-## Why Frame Rate Matters for Your Browsing Experience
+Why Frame Rate Matters for Your Browsing Experience
 
 Frame rate directly affects how smooth everything looks when you use Chrome. A higher frame rate means smoother animations, more responsive interactions, and a more pleasant browsing experience. Most people expect around 60 frames per second for smooth motion, which is the same frame rate used by television broadcasts and most video games. When Chrome drops below this threshold, you start noticing issues.
 
 Several factors can cause Chrome to struggle with maintaining a good frame rate. Having too many tabs open uses up your computer's memory and processing power, leaving fewer resources for smooth rendering. Outdated graphics drivers on your computer often cannot keep up with the demands of modern web content. Some websites have poorly optimized code that forces your browser to work harder than necessary. Browser extensions that run in the background can also consume resources that could otherwise be used for smooth rendering.
 
-## Using Chrome Built-in Tools to Check Frame Rate
+Using Chrome Built-in Tools to Check Frame Rate
 
 Chrome provides built-in tools that let you see exactly what is happening with your frame rate while browsing. The most accessible way to check this is through the Rendering tool in Chrome Developer Tools. Here is how to access it.
 
@@ -32,7 +32,7 @@ Look for a button with three dots or a menu icon in the top-right corner of the 
 
 In this Rendering panel, look for an option called Frame Rate. Check the box next to it, or select it from the list. Chrome now displays a frame rate counter in the top-right corner of your browser window. The number shown represents the current frame rate for the page you are viewing. Watch this number as you scroll through the page, interact with elements, or let videos play. A healthy frame rate stays near 60 FPS. If you see numbers consistently below 30 FPS, you have identified a performance problem.
 
-## Checking Frame Rate on Specific Content
+Checking Frame Rate on Specific Content
 
 Sometimes you want to test frame rate on specific types of content rather than general browsing. If you watch videos on YouTube or other streaming platforms, you might notice frame rate issues more during video playback. The rendering tool works during video playback too, so you can see exactly how smoothly Chrome is handling the video.
 
@@ -40,7 +40,7 @@ For web games, checking frame rate becomes even more important. Many web games i
 
 You can also test frame rate by scrolling through different websites. Some websites have more complex designs with lots of animations, images, and interactive elements. Compare frame rates across different sites to see which ones challenge your browser more. This helps you understand whether the problem is specific to certain websites or a general browser issue.
 
-## What to Do When Frame Rate is Low
+What to Do When Frame Rate is Low
 
 Once you identify a low frame rate problem, several solutions can help restore smooth browsing. The simplest fix is often closing unnecessary tabs. Each open tab consumes memory and processing power, so closing tabs you are not actively using frees up resources for the content you are viewing. Consider keeping only the tabs you need open at any given time.
 
@@ -50,7 +50,7 @@ Disabling or removing unnecessary browser extensions helps because extensions ru
 
 If you frequently have many tabs open and notice frame rate problems, consider using a tool like Tab Suspender Pro. This extension automatically pauses tabs you have not looked at recently, which stops them from consuming resources. When you return to a paused tab, it reloads on demand. This approach keeps your browser fast without you having to manually manage your open tabs.
 
-## Preventing Frame Rate Problems
+Preventing Frame Rate Problems
 
 Taking preventive steps keeps frame rate problems from happening in the first place. Keep Chrome updated to the latest version. Chrome updates often include performance improvements that help the browser run more efficiently. Check for updates by clicking the three dots in Chrome, selecting Help, and choosing About Google Chrome.
 
@@ -62,9 +62,9 @@ Watch the number of extensions you install. Each extension adds some overhead to
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [Chrome for HubSpot CRM in Browser](/articles/chrome-for-hubspot-crm-in-browser/)
 * [Chrome Block Inappropriate Content for Kids](/articles/chrome-block-inappropriate-content-for-kids/)
 * [Chrome Beta Channel How to Join and Leave](/articles/chrome-beta-channel-how-to-join-and-leave/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

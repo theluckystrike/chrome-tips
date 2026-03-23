@@ -25,7 +25,7 @@ The Chrome Attribution Reporting API represents one of the most significant deve
 
 This comprehensive guide walks you through everything you need to know about Chrome's Attribution Reporting API, from basic concepts to advanced implementation strategies. Whether you are an advertiser looking to measure conversions, a publisher wanting to offer attribution capabilities, or a developer building advertising technology, this guide will help you understand and implement attribution reporting effectively.
 
-## Understanding Attribution Reporting Fundamentals
+Understanding Attribution Reporting Fundamentals
 
 Attribution reporting in Chrome is designed to solve a fundamental problem in digital advertising: how do we measure which ad interactions lead to valuable user actions like purchases, sign-ups, or app installs, without creating extensive user profiles or relying on invasive tracking methods?
 
@@ -35,7 +35,7 @@ The API works by allowing websites to register that a user has seen or clicked a
 
 Chrome's implementation includes several key features that make it attractive for privacy-conscious advertising. First, the API is built directly into the browser, meaning no additional software or extensions are required. Second, it uses differential privacy techniques to add controlled noise to reports, making it difficult to identify individual users while preserving statistical utility. Third, the system limits the amount of detailed information available about any single conversion, preventing the build-up of detailed user profiles.
 
-## Conversion Measurement in Chrome
+Conversion Measurement in Chrome
 
 Conversion measurement through the Attribution Reporting API involves several coordinated steps between advertisers, publishers, and the browser. Understanding this flow is essential for effective implementation.
 
@@ -45,7 +45,7 @@ When the user later completes a conversion action on the advertiser's website, s
 
 Chrome supports both event-level and aggregate attribution reports, each serving different analytical needs and offering different trade-offs between detail and privacy. Event-level reports provide specific information about which ad impression or click led to a conversion, while aggregate reports provide higher-level statistical data about conversion patterns across many users.
 
-### Setting Up Attribution Sources
+Setting Up Attribution Sources
 
 To begin measuring conversions, you first need to register attribution sources. This typically happens when your ads are displayed on publisher websites. There are two main types of attribution sources: navigation sources and event sources.
 
@@ -71,7 +71,7 @@ For navigation sources triggered by clicks, you would instead use HTTP headers o
 Attribution-Reporting-Source-Info: destination=https://advertiser.example.com;expiry=604800000
 ```
 
-### Registering Attribution Triggers
+Registering Attribution Triggers
 
 Once you have set up attribution sources, the next step is to register attribution triggers when users complete desired actions on your website. These triggers tell the browser that a conversion has occurred and should potentially be attributed to a prior ad exposure.
 
@@ -91,13 +91,13 @@ The deduplication_key parameter is particularly important for preventing duplica
 
 Chrome applies its own matching logic to connect triggers with sources. The browser maintains an internal attribution mapping that tracks which sources are eligible for attribution when a trigger is registered. Sources are matched based on their destination, remaining expiry time, and priority relative to other potential sources.
 
-## Event-Level Reports Deep Dive
+Event-Level Reports Deep Dive
 
 Event-level reports provide the most detailed attribution information available through the Chrome Attribution Reporting API. These reports include specific information about which ad event led to a conversion, enabling advertisers to understand the relationship between individual ad exposures and user actions.
 
 When an attribution trigger matches an attribution source, the browser generates an event-level report containing details about both the source event and the trigger event. This report is stored locally and then sent to the configured reporting endpoint at a later time, with delays built in to provide additional privacy protection.
 
-### Report Contents and Structure
+Report Contents and Structure
 
 Event-level reports contain several key pieces of information. The report includes the attribution source itself, such as the site where the ad was displayed and any source data that was specified when the source was registered. It also includes the trigger data from the conversion event, providing information about what the user did on your site.
 
@@ -120,7 +120,7 @@ Here is an example of what an event-level report structure might look like:
 
 The randomized_trigger_rate field indicates what percentage of similar triggers result in reports, as Chrome applies sampling to limit the overall volume of detailed reports. The processing_time shows how long it took for the report to be generated after the trigger occurred.
 
-### Privacy Considerations for Event-Level Reports
+Privacy Considerations for Event-Level Reports
 
 While event-level reports provide valuable detailed information, Chrome implements several privacy mechanisms to prevent abuse. These mechanisms ensure that the attribution reporting system cannot be used to track users across websites or build detailed profiles of individual user behavior.
 
@@ -132,13 +132,13 @@ Third, there are restrictions on reporting timing and batching. Reports are not 
 
 Finally, there are limits on the total number of event-level reports that can be generated. Chrome caps the number of conversions that can be attributed per source, ensuring that no single ad exposure can generate unlimited detailed reports.
 
-## Aggregate Reports Explained
+Aggregate Reports Explained
 
 Aggregate reports provide a different approach to attribution measurement, focusing on high-level statistical data rather than individual conversion events. These reports are designed to give advertisers a broad understanding of their campaign performance while providing stronger privacy protections than event-level reports.
 
 The key difference between event-level and aggregate reports lies in how the data is processed. Event-level reports are generated by the browser and sent directly to advertisers with minimal processing. Aggregate reports, on the other hand, go through a cryptographic aggregation process that ensures the final data available to advertisers can only be viewed in aggregate form.
 
-### How Aggregate Reporting Works
+How Aggregate Reporting Works
 
 Aggregate reports begin similarly to event-level reports, with the browser recording attribution source and trigger information. However, instead of generating a complete report, the browser creates encrypted partial reports that contain the underlying data in a format that can only be decrypted through a multi-party computation process.
 
@@ -146,9 +146,9 @@ These partial reports are sent to an aggregation service, which processes them t
 
 The output of the aggregation process is summary reports that show aggregate statistics such as total conversion counts, conversion values, and breakdown by various dimensions like geographic region or device type. These summaries provide valuable campaign performance data without exposing information about individual users.
 
-This approach provides what is known as "差分隐私" or differential privacy. By combining data from many users and adding controlled noise during the aggregation process, the system ensures that the presence or absence of any single user's data cannot be detected in the final results. This provides strong mathematical guarantees of privacy while still delivering useful analytical insights.
+This approach provides what is known as "" or differential privacy. By combining data from many users and adding controlled noise during the aggregation process, the system ensures that the presence or absence of any single user's data cannot be detected in the final results. This provides strong mathematical guarantees of privacy while still delivering useful analytical insights.
 
-### Implementing Aggregate Reporting
+Implementing Aggregate Reporting
 
 Implementing aggregate reporting requires additional setup compared to event-level reporting. Advertisers need to work with an aggregation service provider and set up the cryptographic infrastructure needed to process aggregate reports.
 
@@ -171,7 +171,7 @@ window.attributionReporting.registerSource(aggregateSource);
 
 The aggregation_keys allow you to define different buckets or dimensions along which your data will be aggregated. For example, you might have keys for different campaigns, ad groups, or geographic regions, enabling you to get breakdowns of performance across these dimensions in your final aggregate reports.
 
-## Practical Applications and Use Cases
+Practical Applications and Use Cases
 
 Understanding how to apply Chrome's Attribution Reporting API effectively requires understanding the strengths and limitations of each report type and matching them to your specific business needs.
 
@@ -181,7 +181,7 @@ For brand advertising and awareness campaigns where aggregate trends matter more
 
 The Attribution Reporting API also enables new measurement capabilities that were difficult or impossible with traditional cookie-based tracking. For instance, cross-device measurement becomes more feasible since the API works at the browser level rather than relying on user-level identifiers that don't work across devices.
 
-### Optimization Strategies
+Optimization Strategies
 
 Getting the most out of attribution reporting requires thoughtful configuration and ongoing optimization. Here are some strategies to improve your attribution measurement.
 
@@ -189,19 +189,19 @@ First, carefully consider your attribution windows. Longer windows capture more 
 
 Second, use appropriate deduplication strategies. Ensure that your conversion tracking properly identifies unique conversions to avoid double counting, which can significantly skew your performance data.
 
-Third, leverage both report types together. Use event-level reports for detailed optimization decisions while using aggregate reports for higher-level strategic insights. The two report types complement each other and together provide a complete picture of campaign performance.
+Third, use both report types together. Use event-level reports for detailed optimization decisions while using aggregate reports for higher-level strategic insights. The two report types complement each other and together provide a complete picture of campaign performance.
 
 Finally, consider the impact of privacy protections when interpreting data. The noise and limitations built into the API mean that you should look for patterns across many data points rather than focusing on individual report values. Trends and averages are more reliable than individual data points.
 
-## Integrating with Chrome Extensions
+Integrating with Chrome Extensions
 
 Chrome extensions can play an interesting role in the attribution ecosystem. Extensions that interact with browser functionality may need to consider how attribution reporting affects their behavior and data collection practices.
 
 For example, users who have installed productivity extensions like Tab Suspender Pro, which helps manage browser resource usage by suspending inactive tabs, may experience differences in how attribution works across their browsing sessions. Extensions that modify network requests or headers may inadvertently interfere with attribution source or trigger registration if they are not careful.
 
-Extension developers should be aware of the Attribution Reporting API and ensure their extensions don't block or modify the special headers used for attribution. Additionally, extension developers who want to leverage attribution for their own products can use the API to understand how users discover and convert on their extension pages.
+Extension developers should be aware of the Attribution Reporting API and ensure their extensions don't block or modify the special headers used for attribution. Additionally, extension developers who want to use attribution for their own products can use the API to understand how users discover and convert on their extension pages.
 
-## The Future of Attribution Reporting
+The Future of Attribution Reporting
 
 Chrome's Attribution Reporting API represents a significant step toward a more privacy-preserving web. As third-party cookies are phased out and privacy regulations tighten, APIs like this will become increasingly important for the digital advertising ecosystem.
 
@@ -216,4 +216,4 @@ Advertisers and publishers who adopt attribution reporting early will be better 
 * [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/articles/how-to-limit-chrome-ram-usage-mac/)
 * [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)*

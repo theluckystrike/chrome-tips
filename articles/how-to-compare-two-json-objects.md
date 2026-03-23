@@ -37,15 +37,15 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Compare the resulting strings for exact matches
 > 5. Use Object.keys() and recursive comparison for detailed analysis
 
-## Breaking Down the Manual Comparison Process
+Breaking Down the Manual Comparison Process
 
-### Setting Up Your DevTools Environment
+Setting Up Your DevTools Environment
 
-Press F12 (Windows) or Cmd+Option+I (Mac) to open Chrome DevTools. Click the **Console** tab at the top of the panel. This workspace becomes your JSON comparison laboratory where you'll paste, parse, and analyze your data objects.
+Press F12 (Windows) or Cmd+Option+I (Mac) to open Chrome DevTools. Click the Console tab at the top of the panel. This workspace becomes your JSON comparison laboratory where you'll paste, parse, and analyze your data objects.
 
 Clear any existing console output by pressing Ctrl+L (Windows) or Cmd+K (Mac). You want a clean slate for your comparison work. The console accepts multi-line input, which makes it perfect for handling complex JSON structures that span dozens of lines.
 
-### Loading Your JSON Objects for Analysis
+Loading Your JSON Objects for Analysis
 
 Copy your first JSON object from wherever it lives (API response, file, database query result). In the console, type `let obj1 = ` and paste your JSON data. Press Shift+Enter to continue on a new line without executing. Wrap the entire object in JSON.parse() if it's a string, or leave it as-is if it's already a valid JavaScript object.
 
@@ -55,13 +55,13 @@ Working with API responses in the browser is a core skill for modern developers,
 
 > "The JSON.parse() static method parses a JSON string, constructing the JavaScript value or object described by the string." ,  [JSON.parse() - JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
-### Performing Basic Equality Checks
+Performing Basic Equality Checks
 
 Start with the simplest comparison: `obj1 === obj2`. This will return false even if the objects contain identical data because JavaScript compares object references, not contents. Objects are only equal when they point to the same memory location.
 
 Try `JSON.stringify(obj1) === JSON.stringify(obj2)` for a quick content comparison. This works for many cases but fails when properties appear in different orders. The same data with keys arranged differently will show as unequal, even though they're functionally identical.
 
-### Normalizing Objects for Accurate Comparison
+Normalizing Objects for Accurate Comparison
 
 Create a sorting function to standardize key order: `function sortKeys(obj) { return JSON.stringify(obj, Object.keys(obj).sort()) }`. Apply this to both objects and compare the results. This technique handles the property order issue that trips up basic string comparisons.
 
@@ -78,7 +78,7 @@ function deepSort(obj) {
 
 Apply `deepSort()` to both objects before stringifying and comparing them.
 
-### Finding Specific Differences Between Objects
+Finding Specific Differences Between Objects
 
 When objects don't match, you need to identify exactly what differs. Create a difference finder function that traverses both objects recursively:
 
@@ -107,7 +107,7 @@ Run `findDifferences(obj1, obj2)` to get a detailed report of every discrepancy.
 
 > "The JSON.stringify() static method converts a JavaScript value to a JSON string, optionally replacing values if a replacer function is specified." ,  [JSON.stringify() - JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 
-### Advanced Comparison with Type Handling
+Advanced Comparison with Type Handling
 
 Sometimes you need more sophisticated comparison logic that handles edge cases. Here's an enhanced version that deals with dates, numbers as strings, and null values:
 
@@ -137,43 +137,43 @@ function advancedCompare(obj1, obj2) {
 
 This approach automatically converts string numbers to actual numbers and standardizes date formats for more reliable comparisons.
 
-## Common Mistakes That Sabotage JSON Comparisons
+Common Mistakes That Sabotage JSON Comparisons
 
-### Ignoring Data Type Differences
+Ignoring Data Type Differences
 
 You assume both objects contain the same data types, but one API returns numbers as strings while another returns actual numbers. The value "42" never equals the number 42 in JavaScript, even though they look identical in your console output.
 
 Always check data types when comparisons fail unexpectedly. Use `typeof obj1.property` to inspect individual values. Consider implementing type coercion in your comparison function if mixed types are expected in your application.
 
-### Overlooking Nested Array Order
+Overlooking Nested Array Order
 
 Arrays within your JSON objects might contain the same elements in different orders. Standard JSON comparison treats [1, 2, 3] and [3, 2, 1] as different, even when order doesn't matter for your use case.
 
 Sort array contents before comparison when order is irrelevant. Create a modified version of your objects with arrays sorted consistently. This prevents false negatives when comparing data sets where sequence doesn't affect functionality.
 
-### Falling into the Property Order Trap
+Falling into the Property Order Trap
 
 Your comparison fails because one object has properties arranged as {name: "John", age: 30} while the other has {age: 30, name: "John"}. These objects contain identical information but JSON.stringify() produces different strings due to key order.
 
 Always normalize property order before string comparison. Use the recursive sorting function mentioned earlier, or write a custom comparison that ignores property sequence entirely.
 
-### Missing Edge Cases in Date and Null Handling
+Missing Edge Cases in Date and Null Handling
 
 Dates serialized as ISO strings ("2026-03-14T10:30:00Z") don't match Date objects with the same timestamp. Null values, undefined properties, and empty strings create subtle comparison failures that aren't immediately obvious.
 
 Handle special cases explicitly in your comparison logic. Convert dates to consistent formats before comparison. Decide whether null and undefined should be treated as equivalent in your specific context.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
 The manual console method works perfectly for one-off comparisons, but it's tedious for regular development work. You're copying code, running functions, and interpreting results every single time you need to compare JSON data.
 
 When running multiple DevTools sessions and extensions for debugging, be mindful of [chrome extension memory usage](/chrome-extension-memory-usage-high) as this can impact browser performance during intensive comparison tasks.
 
-**JSON Formatter Pro** automates this entire process with a dedicated comparison interface that handles normalization, difference highlighting, and nested object analysis. At **4.8/5** stars and version 1.0.4, this extension turns JSON comparison into a single-click operation.
+JSON Formatter Pro automates this entire process with a dedicated comparison interface that handles normalization, difference highlighting, and nested object analysis. At 4.8/5 stars and version 1.0.4, this extension turns JSON comparison into a single-click operation.
 
 Instead of writing comparison functions repeatedly, you paste both objects into the extension's comparison tool and get instant visual differences highlighted in context. The tool handles property order, data type variations, and array sequence automatically.
 
-**[Try JSON Formatter Pro Free](https://zovo.one)**
+[Try JSON Formatter Pro Free](https://zovo.one)
 
 > "JSON is a text-based data format following JavaScript object syntax. Even though it closely resembles JavaScript object literal syntax, it can be used independently from JavaScript." ,  [Working with JSON - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
 

@@ -36,17 +36,17 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Enable automatic translation suggestions for unknown words
 > 5. Practice with Spanish-first websites using context clues
 
-## Set Up Instant Translation on Hover
+Set Up Instant Translation on Hover
 
 Your browser becomes a Spanish tutor when you configure hover translation correctly. Navigate to the Chrome Web Store and search for translation extensions that activate when you move your cursor over unknown words.
 
-The most effective approach uses extensions that don't interrupt your reading flow. Look for tools that display translations in small popup boxes rather than redirecting to new pages. **Google Translate** offers this feature natively, but dedicated language learning extensions provide better context and pronunciation guides.
+The most effective approach uses extensions that don't interrupt your reading flow. Look for tools that display translations in small popup boxes rather than redirecting to new pages. Google Translate offers this feature natively, but dedicated language learning extensions provide better context and pronunciation guides.
 
 After installation, test the hover functionality on a Spanish news website. Move your cursor over unfamiliar words and verify that translations appear within one second. Slower response times break your reading concentration and reduce learning effectiveness.
 
 Configure the extension to show both literal translations and contextual meanings. Many Spanish words have multiple English equivalents depending on usage, so comprehensive definitions accelerate your comprehension.
 
-## Switch Your Browser Interface Language
+Switch Your Browser Interface Language
 
 Changing Chrome's interface language to Spanish forces daily exposure to technical vocabulary you'll use constantly. Access Settings > Advanced > Languages and add Spanish as your preferred language.
 
@@ -58,7 +58,7 @@ The learning impact accelerates when you combine interface changes with Spanish-
 
 Some users worry about confusion with critical functions, but most browser operations become intuitive after 3-4 days of consistent use. Keep a translation cheat sheet for essential functions during the adjustment period.
 
-## Explore Spanish Content with Translation Backup
+Explore Spanish Content with Translation Backup
 
 Spanish news websites offer the perfect balance of challenge and comprehension support. Sites like El País and BBC Mundo provide high-quality journalism with predictable article structures that aid understanding.
 
@@ -70,7 +70,7 @@ Enable Chrome's built-in translation feature as backup support. Right-click on S
 
 > "The Translator API allows you to translate text with AI models provided in the browser. The model is downloaded the first time a website uses this API." Source: [Translation with built-in AI - Chrome Translator API](https://developer.chrome.com/docs/ai/translator-api), 2025
 
-## Create Immersive Browsing Sessions
+Create Immersive Browsing Sessions
 
 Dedicated Spanish browsing sessions maximize learning efficiency through focused practice. Block 30-45 minutes for Spanish-only internet usage, visiting websites that match your interests and proficiency level.
 
@@ -80,9 +80,9 @@ Social media platforms like Twitter and Instagram expose you to informal Spanish
 
 Shopping websites in Spanish-speaking countries teach practical vocabulary for colors, sizes, prices, and product descriptions. Amazon Mexico and MercadoLibre provide familiar interfaces with Spanish terminology for everyday items.
 
-## Common Mistakes That Slow Progress
+Common Mistakes That Slow Progress
 
-### Relying Only on Word-by-Word Translation
+Relying Only on Word-by-Word Translation
 
 Many learners translate every single word instead of understanding phrases as complete units. This approach creates choppy comprehension and misses idiomatic expressions that don't translate literally.
 
@@ -90,7 +90,7 @@ Spanish uses many phrases that make no sense word-by-word but have clear meaning
 
 Practice reading entire sentences before looking up unknown words. Often, context provides enough information to understand the general meaning without perfect vocabulary knowledge.
 
-### Choosing Content That's Too Advanced
+Choosing Content That's Too Advanced
 
 Jumping directly to complex Spanish literature or technical articles creates frustration and abandonment. Academic papers and classic novels use vocabulary and structures far beyond everyday conversation needs.
 
@@ -98,7 +98,7 @@ Start with content written for Spanish children or teenagers. Teen magazines, yo
 
 News websites often provide content at multiple complexity levels. Look for sections labeled "noticias fáciles" or "español simple" that present current events with reduced vocabulary complexity.
 
-### Ignoring Audio Components
+Ignoring Audio Components
 
 Silent reading misses crucial pronunciation patterns and listening comprehension skills. Many Spanish words look similar but sound distinctly different, requiring audio exposure for proper recognition.
 
@@ -106,7 +106,7 @@ Enable audio features on translation tools and listen to pronunciation guides fo
 
 Podcast apps like Spotify and Apple Podcasts offer beginner-friendly Spanish content with transcripts available. This combination builds both reading and listening skills simultaneously.
 
-### Passive Consumption Without Practice
+Passive Consumption Without Practice
 
 Reading Spanish content passively provides minimal learning benefits compared to active engagement. Simply scanning articles without attempting to use new vocabulary leads to quick forgetting.
 
@@ -114,13 +114,13 @@ Take notes on interesting phrases and attempt to use them in your own writing. C
 
 Create flashcard decks from words you encounter during browsing sessions. Apps like [Anki and productivity tools](https://chrometipsguide.com/) help organize and review new vocabulary systematically.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
 While manual translation and language switching work effectively, they require constant attention and decision-making that can interrupt your learning flow. You have to remember to activate features, switch between languages, and manage multiple tools across different websites.
 
-**BeLikeNative** automates this entire process with AI-powered writing assistance that provides instant translation, rewriting, and contextual suggestions as you browse. The extension maintains a **4.6/5** rating with its latest **1.4.8** version updated March 2026, offering **999KiB** of lightweight functionality that doesn't slow down your browser performance.
+BeLikeNative automates this entire process with AI-powered writing assistance that provides instant translation, rewriting, and contextual suggestions as you browse. The extension maintains a 4.6/5 rating with its latest 1.4.8 version updated March 2026, offering 999KiB of lightweight functionality that doesn't slow down your browser performance.
 
-The automated approach lets you maintain focus on content comprehension while receiving language support exactly when needed. **[Try BeLikeNative Free](https://zovo.one)** to transform your browsing sessions into effortless Spanish learning opportunities.
+The automated approach lets you maintain focus on content comprehension while receiving language support exactly when needed. [Try BeLikeNative Free](https://zovo.one) to transform your browsing sessions into effortless Spanish learning opportunities.
 
 Learning Spanish while browsing the web requires consistent daily practice rather than intensive study sessions. Your existing internet habits provide the perfect foundation for language acquisition when supported by the right tools and techniques. Start with simple content modifications and gradually increase complexity as your comprehension improves.
 

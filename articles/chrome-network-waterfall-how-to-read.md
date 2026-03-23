@@ -16,7 +16,7 @@ Chrome network waterfall how to read is something every Chrome user should under
 
 Let me walk you through what the network waterfall shows you, why it matters, and how you can use it to understand what is happening when you browse.
 
-## What the Chrome Network Waterfall Actually Shows
+What the Chrome Network Waterfall Actually Shows
 
 When you open a website, your browser has to do many things behind the scenes to display the page. It has to find the server, request the page, download each piece of content, and then put it all together for you to see. The network waterfall breaks this entire process down into individual steps so you can see exactly where the time goes.
 
@@ -24,7 +24,7 @@ Each bar in the waterfall represents a different request your browser makes. The
 
 The colors in each bar tell you something important too. Gray shows time spent waiting for the server to start responding. Blue shows time spent actually downloading the content. Green can indicate time spent on secure connection setup. Understanding these colors helps you figure out whether the problem is with the server, your network connection, or something else entirely.
 
-## Why Your Waterfall Might Look Different From Others
+Why Your Waterfall Might Look Different From Others
 
 You might notice that your network waterfall looks different depending on which website you visit, which extensions you have installed, and even what time of day it is. This is completely normal and understanding why can help you interpret what you are seeing.
 
@@ -32,7 +32,7 @@ Websites are made up of many different parts. A typical page might include HTML,
 
 Your extensions can also show up in the waterfall. When you have extensions installed, they sometimes inject their own requests into the loading process. This is one reason why having too many extensions can slow down your browsing. You might see extra requests that are not part of the actual website but are instead coming from your extensions.
 
-## How to Identify Problems in Your Waterfall
+How to Identify Problems in Your Waterfall
 
 The key to reading the waterfall is knowing what to look for when something seems slow. Here are the main things that typically cause delays.
 
@@ -44,7 +44,7 @@ Requests that seem to happen one after another when they could happen in paralle
 
 Many small requests scattered throughout the waterfall can add up to significant delays. This is sometimes called request overhead, and it is something that website developers try to minimize.
 
-## What You Can Do About Slow Waterfalls
+What You Can Do About Slow Waterfalls
 
 Once you identify where the delays are coming from, there are steps you can take to improve your browsing experience. Some solutions address the website side, while others involve your own browser setup.
 
@@ -54,7 +54,7 @@ If your extensions seem to be adding extra requests, consider disabling or remov
 
 Using a tool that helps you manage your tabs can also make a difference. When you have many tabs open, each one might be making requests in the background. Tab Suspender Pro is one solution that automatically pauses tabs you are not looking at, which stops those background requests and can make your overall browsing feel much faster.
 
-## Making Sense of the Timing
+Making Sense of the Timing
 
 The timing information in the network waterfall is displayed in milliseconds, and it can feel overwhelming at first. The good news is that you do not need to become an expert to benefit from this tool. Even a basic understanding can help you figure out whether a slow website is your fault or theirs.
 
@@ -64,9 +64,9 @@ A well-performing website should load most of its content within a few seconds. 
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [Chrome for Microsoft Office Online Tips](/articles/chrome-for-microsoft-office-online-tips/)
 * [Chrome Address Bar Not Showing Fix](/articles/chrome-address-bar-not-showing-fix/)
 * [How to Stop Chrome from Eating Your RAM](/articles/how-to-stop-chrome-from-eating-ram/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

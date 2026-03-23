@@ -11,11 +11,11 @@ author: theluckystrike
 ---
 
 
-# Chrome Taking 5 Minutes to Load: Fixes for Slow Computers
+Chrome Taking 5 Minutes to Load: Fixes for Slow Computers
 
 Waiting five minutes for Chrome to load is frustrating, especially when you need to get work done. If Chrome is taking 5 minutes to load on your computer, you are not alone. This is a common problem that affects users with slower computers and limited RAM. The good news is that you can fix it.
 
-## Why Chrome Takes So Long to Load
+Why Chrome Takes So Long to Load
 
 Understanding why Chrome is slow to start helps you find the right fix. Several factors cause Chrome taking 5 minutes to load issues on older or budget computers.
 
@@ -27,7 +27,7 @@ A cluttered cache and corrupted browser data can also slow down the loading proc
 
 Your computer might also be running too many programs in the background. When Chrome starts, it has to share limited resources with other running applications, which extends the startup time.
 
-## Quick Fixes to Try First
+Quick Fixes to Try First
 
 Before trying more complex solutions, start with these simple steps that often provide immediate results.
 
@@ -37,7 +37,7 @@ Close other programs before launching Chrome. If you have many applications runn
 
 Try launching Chrome in incognito mode. Press Ctrl+Shift+N on Windows or Cmd+Shift+N on Mac to open incognito. If Chrome loads quickly in this mode, the problem is related to your extensions or saved data.
 
-## Clean Up Chrome's Startup
+Clean Up Chrome's Startup
 
 Reducing what Chrome loads at startup makes a big difference.
 
@@ -47,7 +47,7 @@ Disable extensions you do not need but want to keep. Click the toggle next to ea
 
 Be selective about which extensions run at startup. Some extensions have options to only load when you click them rather than automatically. Look for these settings in each extension's details.
 
-## Clear Cache and Browsing Data
+Clear Cache and Browsing Data
 
 Corrupted or outdated cached data slows Chrome down over time.
 
@@ -57,7 +57,7 @@ After clearing the cache, restart Chrome. The browser will rebuild its cache wit
 
 You can also clear the Chrome crash recovery data. Close Chrome completely, then navigate to your user data folder and delete the Crashpad reports folder if it exists. This removes any stuck recovery processes.
 
-## Use Chrome's Built-in Performance Settings
+Use Chrome's Built-in Performance Settings
 
 Chrome has settings designed specifically to help with performance on slower computers.
 
@@ -67,7 +67,7 @@ Disable background app refresh if you do not need it. In Chrome Settings under P
 
 Turn off hardware acceleration if Chrome is still very slow. In Chrome Settings under System, uncheck Use hardware acceleration when available. This uses less memory but may reduce graphics performance.
 
-## Try Tab Suspender Pro
+Try Tab Suspender Pro
 
 If you frequently keep many tabs open and want automatic help managing resources, consider trying Tab Suspender Pro. This extension helps Chrome run smoother by automatically suspending tabs you are not actively using.
 
@@ -75,7 +75,7 @@ Tab Suspender Pro is especially helpful if you tend to open many tabs at once an
 
 The extension works quietly in the background and can be customized to your needs. You can decide which tabs should be suspended, set timing rules, and create exceptions for sites that should always stay active, like email or communication tools.
 
-## Check Your Computer's Resources
+Check Your Computer's Resources
 
 If Chrome is still taking 5 minutes to load after trying these fixes, your computer hardware might be the limiting factor.
 
@@ -85,7 +85,7 @@ Consider adding more RAM to your computer if possible. This is often the most ef
 
 Try using fewer programs at once. Close unnecessary applications before launching Chrome to give it more available memory.
 
-## When to Consider Alternatives
+When to Consider Alternatives
 
 If Chrome remains slow despite all fixes, you might want to try lighter browser alternatives for everyday tasks.
 
@@ -100,4 +100,4 @@ Consider trying browsers designed for low-resource computers. They offer similar
 * [Chrome Password Manager on Phone vs Dedicated App](/articles/chrome-password-manager-on-phone-vs-dedicated-app/)
 * [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)*

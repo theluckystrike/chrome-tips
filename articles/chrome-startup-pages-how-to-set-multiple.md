@@ -62,5 +62,5 @@ Setting multiple startup pages is one of those simple tweaks that makes your dai
 * [Chrome Devtools Screenshot Full Page](/articles/chrome-devtools-screenshot-full-page/)
 * [Chrome Media Autoplay How to Block](/articles/chrome-media-autoplay-how-to-block/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

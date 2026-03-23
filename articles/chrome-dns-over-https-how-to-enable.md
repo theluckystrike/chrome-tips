@@ -15,7 +15,7 @@ If you have ever searched for "chrome dns over https how to enable," you probabl
 
 When you type a website address into Chrome, your browser needs to figure out where that website is located on the internet. This process is called DNS lookup, and it normally happens in plain text. That means anyone who can see your internet traffic, including your internet service provider, can see which websites you are visiting. Enabling DNS over HTTPS encrypts these lookups so that only you and the DNS server know which websites you are trying to visit.
 
-## Why DNS Over HTTPS Matters
+Why DNS Over HTTPS Matters
 
 Your internet service provider can see the websites you visit when you use regular DNS. They know because every time your computer looks up a website address, it sends a request to a DNS server in plain text. This request contains the website name you are trying to visit. Your ISP can log these requests and build a record of your browsing habits.
 
@@ -23,7 +23,7 @@ There are other reasons why you might want to enable DNS over HTTPS in Chrome. S
 
 Another benefit is that DNS over HTTPS can prevent your ISP from blocking certain websites. Since your ISP cannot see which websites you are requesting, they cannot easily block specific sites based on DNS lookups. This is particularly useful for people who live in countries with internet restrictions or who want to access content that their ISP might block.
 
-## What You Need Before You Start
+What You Need Before You Start
 
 Before you enable DNS over HTTPS in Chrome, there are a few things you should know. First, you need to make sure Chrome is updated to the latest version. Google regularly updates Chrome with new features and security improvements, and DNS over HTTPS requires a relatively recent version of the browser.
 
@@ -31,7 +31,7 @@ Second, you should understand that DNS over HTTPS only encrypts the part of your
 
 Finally, keep in mind that enabling DNS over HTTPS means you are trusting the DNS service you choose with your browsing data. Google DNS and Cloudflare DNS are popular choices because they have strong privacy policies, but you should pick a provider that you feel comfortable trusting with this information.
 
-## How to Enable DNS Over HTTPS in Chrome
+How to Enable DNS Over HTTPS in Chrome
 
 Enabling DNS over HTTPS in Chrome is straightforward and does not require any technical knowledge. Here are the steps to follow.
 
@@ -47,7 +47,7 @@ Look for an option that says "With Cloudflare," "With Google," or "With a custom
 
 Select the option that enables DNS over HTTPS. Chrome might show you a warning about using a custom DNS provider, but this is normal and you can proceed. Once you select the option, Chrome will immediately start using DNS over HTTPS for all your browsing.
 
-## Choosing a DNS Provider
+Choosing a DNS Provider
 
 If you want to customize your DNS provider, you can usually find more options in Chrome's advanced settings. Look for a way to enter a custom DNS provider URL. This might be under "Custom" or "Enter custom provider" in the DNS settings.
 
@@ -57,7 +57,7 @@ Some people prefer to use their own DNS provider based on specific needs. For ex
 
 When choosing a DNS provider, consider what matters most to you. If you want the simplest experience, stick with Cloudflare or Google. If you want specific features like ad blocking at the DNS level, look for a provider that offers those features.
 
-## Verifying DNS Over HTTPS Is Working
+Verifying DNS Over HTTPS Is Working
 
 After you enable DNS over HTTPS, you might want to confirm that it is actually working. There are several websites that can test whether your browser is using DNS over HTTPS.
 
@@ -67,7 +67,7 @@ You can also check Chrome's settings to confirm that DNS over HTTPS is enabled. 
 
 If the test shows that DNS over HTTPS is not working, try restarting Chrome. Close all Chrome windows completely and then reopen the browser. This ensures that the new settings take full effect.
 
-## What to Do If You Encounter Problems
+What to Do If You Encounter Problems
 
 Sometimes enabling DNS over HTTPS can cause issues with certain websites or network configurations. If you find that some websites are not loading after enabling this feature, you might need to try a different DNS provider.
 
@@ -77,7 +77,7 @@ If problems persist, you can temporarily disable DNS over HTTPS by going back to
 
 Some corporate networks and school networks block DNS over HTTPS or have specific requirements for DNS lookups. If you are on such a network, you might not be able to use DNS over HTTPS while connected to that network. You can enable it again when you are on a different network.
 
-## Other Ways to Protect Your Privacy
+Other Ways to Protect Your Privacy
 
 Enabling DNS over HTTPS is a great step toward more private browsing, but there are other things you can do as well. Consider using a privacy-focused search engine that does not track your searches. You can also install extensions that block tracking scripts and ads.
 
@@ -89,7 +89,7 @@ Remember that DNS over HTTPS is just one piece of the privacy puzzle. Your inter
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Cookie Consent Popups How to Auto Accept](/articles/chrome-cookie-consent-popups-how-to-auto-accept/)
 * [Chrome High Disk Usage Fix Windows](/articles/chrome-high-disk-usage-fix-windows/)
 * [Chrome Audio Fingerprinting What It Is](/articles/chrome-audio-fingerprinting-what-it-is/)

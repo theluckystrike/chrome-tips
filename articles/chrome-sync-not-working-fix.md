@@ -14,7 +14,7 @@ Chrome sync not working is one of those problems that sneaks up on you when you 
 
 ## Why Does Chrome Sync Stop Working
 
-Chrome sync works by constantly uploading your browsing data to your Google account and then downloading that data onto every device where you sign in. This includes bookmarks, browsing history, saved passwords, autofill information, open tabs, and various settings. The system is designed to be seamless, but several things can interrupt it.
+Chrome sync works by constantly uploading your browsing data to your Google account and then downloading that data onto every device where you sign in. This includes bookmarks, browsing history, saved passwords, autofill information, open tabs, and various settings. The system is designed to be smooth, but several things can interrupt it.
 
 One common reason is that sync itself has been accidentally turned off. You might have disabled it at some point and forgotten about it. Another possibility is that you are signed into Chrome with a different Google account on one device compared to another. If your work computer uses your work email and your personal laptop uses your personal email, the data will never meet in the middle.
 
@@ -87,5 +87,5 @@ Chrome sync is incredibly useful when it works, and most of the time it does wor
 * [Chrome Extensions For Cover Letter Writing](/articles//articles/chrome-extensions-for-cover-letter-writing//)
 * [chrome extensions for privacy badger alternative](/articles/chrome-extensions-for-privacy-badger-alternative/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

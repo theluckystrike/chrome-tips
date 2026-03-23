@@ -22,7 +22,7 @@ author: theluckystrike
 
 Chrome layout instability API explained is a topic that comes up when people notice their browser window jumping around or elements shifting unexpectedly while they are trying to read or interact with websites. If you have ever been reading an article online and suddenly the text moves because an image or advertisement loaded at the top of the page, you have experienced layout instability firsthand.
 
-## What the Layout Instability API Actually Is
+What the Layout Instability API Actually Is
 
 The layout instability API is a feature built into Google Chrome that measures and reports when web page elements move around unexpectedly. In technical terms, it tracks something called Cumulative Layout Shift, which is a metric that Google uses to evaluate how stable a website is when it loads.
 
@@ -30,7 +30,7 @@ When you visit a webpage, your browser builds the page piece by piece. It figure
 
 The layout instability API gives website developers a way to measure exactly how often this happens and by how much. Chrome collects this data and reports it back so developers can identify problems and fix them. Think of it like a quality control tool that helps make websites more enjoyable to use.
 
-## Why This Matters for Your Browsing Experience
+Why This Matters for Your Browsing Experience
 
 When websites have high layout instability, it creates a poor experience for users. You might be trying to select text and accidentally highlight something else because the content shifted. You might click a button and accidentally open a different link because the buttons moved. You might be reading along and lose your place because an advertisement pushed the article down.
 
@@ -38,7 +38,7 @@ These are not just minor inconveniences. They can actually make websites unusabl
 
 By tracking layout instability through this API, Chrome helps encourage website owners to build more stable pages. Google actually uses this metric as part of their search ranking, meaning websites that jump around less tend to rank higher in search results. This gives developers a real incentive to fix these issues.
 
-## How Chrome Measures Layout Shifts
+How Chrome Measures Layout Shifts
 
 Chrome calculates layout instability by looking at how much visible content moves between two moments in time. When a page loads, Chrome watches for any changes in the position of elements that have already been displayed. If something shifts by a certain amount, it counts as a layout shift.
 
@@ -46,7 +46,7 @@ The API measures both the size of the shift and how much of the page is affected
 
 The API assigns a score to each layout shift, and these scores accumulate over time as you use a website. The total score is what becomes the Cumulative Layout Shift metric that you might have seen mentioned in website performance tools.
 
-## What You Might Notice in Your Browser
+What You Might Notice in Your Browser
 
 As a regular user, you might not directly see the layout instability API at work, but you benefit from its existence. Over time, you may notice that websites seem more stable than they used to be. Buttons stay where they are when you hover over them. Articles do not jump around as you are reading. Links are easier to click because they do not move unexpectedly.
 
@@ -54,7 +54,7 @@ This improvement comes because website developers are now aware of layout instab
 
 You might also notice that Chrome's developer tools show information about layout stability for websites. This is useful if you are curious about how well a particular site performs, though regular users do not need to pay attention to this.
 
-## When Problems Arise and How to Address Them
+When Problems Arise and How to Address Them
 
 While the layout instability API helps encourage better website design, you might still encounter sites that have stability issues. If you find yourself frustrated by a website that keeps jumping around, there are a few things you can try.
 
@@ -64,7 +64,7 @@ If a site continues to have problems, you might try visiting it in a different b
 
 You can also provide feedback to website owners about your experience. Many websites have contact forms or feedback buttons where you can let them know about usability issues.
 
-## Keeping Your Browser Running Smoothly
+Keeping Your Browser Running Smoothly
 
 Features like the layout instability API work best when Chrome has enough resources to handle everything efficiently. If your browser is running slowly because you have many tabs open, even well-designed websites might feel less responsive than they should.
 
@@ -74,7 +74,7 @@ Tab Suspender Pro can help with this by automatically suspending tabs you are no
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/articles/chrome-whatsapp-web-not-connecting-fix/)
 * [Chrome Aspect Ratio CSS Property](/articles/chrome-aspect-ratio-css-property/)
 * [Best Chrome Extensions For Designers 2026](/articles//articles/chrome-extensions-for-designers-2026//)

@@ -14,7 +14,7 @@ Chrome keyboard shortcuts for power users are the secret weapon that many browse
 
 Let me walk you through the most useful Chrome keyboard shortcuts that can transform how you use your browser.
 
-## Tab Management Shortcuts
+Tab Management Shortcuts
 
 Managing tabs is one of the most common tasks in Chrome, and keyboard shortcuts make it much faster.
 
@@ -24,7 +24,7 @@ To switch between tabs quickly, press Ctrl+Tab to move to the next tab in your l
 
 For quickly finding a specific tab among dozens, press Ctrl+Shift+A to open the tab search feature. This lets you type in a tab name or website address and jump directly to it without scrolling through your tab bar.
 
-## Navigation Shortcuts
+Navigation Shortcuts
 
 Getting around Chrome becomes much faster with these navigation shortcuts.
 
@@ -34,7 +34,7 @@ To go back to the previous page, press Alt+Left Arrow. Alt+Right Arrow moves for
 
 Press F5 or Ctrl+R to refresh the current page. If a page is not loading properly, Ctrl+Shift+R does a hard refresh that bypasses the cache.
 
-## Window and View Shortcuts
+Window and View Shortcuts
 
 Chrome offers several shortcuts for managing your window and view options.
 
@@ -44,7 +44,7 @@ To open the current page in a new window, press Ctrl+Shift+N. This creates a new
 
 Ctrl+0 resets the zoom level to default. Ctrl+Plus increases zoom, and Ctrl+Minus decreases it. Ctrl+Scroll wheel also works for zooming if you prefer that method.
 
-## Finding and Selecting Text
+Finding and Selecting Text
 
 Finding information on a page becomes much easier with these shortcuts.
 
@@ -54,7 +54,7 @@ To select all text on a page, press Ctrl+A. To copy selected text, press Ctrl+C.
 
 Ctrl+Shift+V pastes text without formatting, which is helpful when you want to paste clean text into a document or form.
 
-## Developer and Advanced Shortcuts
+Developer and Advanced Shortcuts
 
 Chrome includes several shortcuts for more advanced users.
 
@@ -64,13 +64,13 @@ To view page source, press Ctrl+U. This shows you the HTML code behind the webpa
 
 Ctrl+Shift+P opens an incognito window for private browsing. Ctrl+Shift+Incognito opens an incognito window with the current page.
 
-## Making Shortcuts Work Better Together
+Making Shortcuts Work Better Together
 
 The real power of Chrome keyboard shortcuts comes from using them together. You can chain actions quickly without ever touching your mouse. For example, you can press Ctrl+T to open a new tab, type your search query, press Enter to search, find what you need with Ctrl+F, copy information with Ctrl+A and Ctrl+C, and close the tab with Ctrl+W.
 
 This workflow is much faster than using the mouse for each step. The more you use these shortcuts, the more natural they become. Within a few days, you will find yourself navigating Chrome almost entirely with keyboard shortcuts.
 
-## A Note on Extension Management
+A Note on Extension Management
 
 If you install many Chrome extensions, you might eventually run into shortcut conflicts where two extensions try to use the same key combination. To avoid this, regularly review your extensions and remove ones you do not use.
 
@@ -78,9 +78,9 @@ Extensions like Tab Suspender Pro can help you manage many open tabs by automati
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [How to Measure Input Delay Using Chrome Event Timing API](/articles/chrome-event-timing-api-measure-input-delay/)
 * [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension/)
 * [Chrome Site Isolation Memory Overhead](/articles/chrome-site-isolation-memory-overhead/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

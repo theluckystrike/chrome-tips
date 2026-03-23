@@ -78,5 +78,5 @@ Remember that tools like Tab Suspender Pro can help keep your browser running sm
 * [Chrome Dns Prefetch What It Does](/articles/chrome-dns-prefetch-what-it-does/)
 * [Chrome DevTools Coverage Tool Explained](/articles//chrome-devtools-coverage-tool-explained//)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

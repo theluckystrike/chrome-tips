@@ -14,7 +14,7 @@ Chrome keyboard shortcuts not working fix is something many Chrome users search 
 
 Let me walk you through why your Chrome keyboard shortcuts might have stopped working and what you can do to get them back up and running.
 
-## Why Chrome Keyboard Shortcuts Stop Working
+Why Chrome Keyboard Shortcuts Stop Working
 
 There are several reasons why your Chrome keyboard shortcuts might suddenly stop working. Understanding the cause is the first step toward fixing it.
 
@@ -26,7 +26,7 @@ Your keyboard shortcuts might also stop working if Chrome is running in a specia
 
 Sometimes the issue is related to Chrome's settings. If hardware acceleration is enabled, it can sometimes cause conflicts with keyboard input. Corrupted browser data, such as a corrupted cache or preferences file, can also lead to unexpected behavior including broken shortcuts.
 
-## Simple Fixes to Try First
+Simple Fixes to Try First
 
 Before diving into more advanced solutions, try these simple steps that often resolve the issue.
 
@@ -36,7 +36,7 @@ Second, try pressing the Esc key a few times. Sometimes a webpage is capturing k
 
 Third, restart Chrome completely. Close all Chrome windows and make sure Chrome is not running in the background. Then open Chrome again and test your shortcuts. This simple step can clear temporary glitches that might be causing the problem.
 
-## Check Your Extensions
+Check Your Extensions
 
 If the simple fixes did not work, your extensions might be the culprit. Here is how to check.
 
@@ -48,7 +48,7 @@ To find which specific extension is causing the issue, re-enable your extensions
 
 Once you identify the extension causing the conflict, you have a few options. You can uninstall the extension completely, look for an alternative that does not conflict with your shortcuts, or check the extension settings to see if there is a way to change or disable the conflicting shortcut.
 
-## Adjust Chrome Settings
+Adjust Chrome Settings
 
 If extensions are not the problem, try adjusting some Chrome settings.
 
@@ -56,13 +56,13 @@ Hardware acceleration can sometimes cause keyboard issues. To turn it off, type 
 
 You can also try clearing your Chrome cache and cookies. Sometimes corrupted data can cause unexpected behavior. To do this, press Ctrl+Shift+Delete (or Cmd+Shift+Delete on Mac) to open the clear browsing data menu. Select "All time" as the time range and check the boxes for Cookies and Cached images and files. Click Clear data and restart Chrome.
 
-## Reset Chrome to Default Settings
+Reset Chrome to Default Settings
 
 If nothing else has worked, resetting Chrome to its default settings can resolve the issue. This will not delete your bookmarks or saved passwords, but it will reset your startup pages, new tab page, search engine, and pinned tabs. It will also disable all your extensions and clear your temporary data.
 
 To reset Chrome, type chrome://settings in the address bar and scroll down to the bottom. Click on "Reset settings" and then "Restore settings to their original defaults." Confirm the reset and restart Chrome.
 
-## Consider Using Tab Suspender Pro
+Consider Using Tab Suspender Pro
 
 If you use many extensions and find that keyboard shortcut conflicts keep happening, you might want to consider using a more streamlined approach to managing your tabs and browser resources.
 
@@ -70,7 +70,7 @@ Tab Suspender Pro is a Chrome extension that helps you manage your open tabs mor
 
 The key is to be mindful about how many extensions you install and regularly review them to ensure you only keep the ones you actually use.
 
-## When to Seek Further Help
+When to Seek Further Help
 
 If you have tried all these solutions and your keyboard shortcuts still are not working, there might be a deeper issue with your Chrome installation or your computer. You can try creating a new Chrome profile to see if the problem persists. If it does not, your original profile might have become corrupted.
 
@@ -80,9 +80,9 @@ Chrome keyboard shortcuts not working fix can be frustrating, but with a little 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome for github best extensions](/articles/chrome-for-github-best-extensions/)
 * [Chrome Translate Not Working? Heres How to Fix It](/articles/chrome-translate-not-working-fix/)
 * [Chrome Tab Groups vs Bookmarks](/articles/chrome-tab-groups-vs-bookmarks/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

@@ -11,7 +11,7 @@ permalink: chrome-web-animation-api-explained
 
 If you have ever searched for "chrome web animation api explained," you might have encountered this term while exploring browser features or reading about web development. The Web Animation API is a powerful tool that makes the websites you visit feel more alive and responsive, and understanding it helps you appreciate the work that goes into creating smooth web experiences.
 
-## What the Web Animation API Actually Is
+What the Web Animation API Actually Is
 
 The Web Animation API is a feature built into Chrome and other modern browsers that allows websites to create high-performance animations directly in the browser. Unlike older methods of adding animation to web pages, which could be slow and jerky, this API runs animations on a separate thread that keeps them smooth even when the rest of the page is busy loading data or processing other tasks.
 
@@ -19,7 +19,7 @@ Think of it like the difference between a movie that was filmed at 24 frames per
 
 This API gives website developers a way to control exactly how animations behave, including how fast they move, whether they pause or continue when you switch tabs, and how they respond when your computer is under heavy load. The result is a browsing experience that feels polished and professional.
 
-## Why This Matters for Regular Users
+Why This Matters for Regular Users
 
 You might wonder why this matters for your everyday web browsing. The answer lies in how much time you spend looking at animated elements without even noticing them.
 
@@ -29,7 +29,7 @@ One of the biggest advantages of this API is that it respects your battery life 
 
 If you have ever been frustrated by choppy animations that stutter as you scroll through a website, or by animations that keep running in background tabs and slow down your entire browser, the Web Animation API addresses these problems. It coordinates with Chrome's tab management to pause animations in tabs you are not looking at, helping your browser run faster and use less memory.
 
-## How Websites Use This Technology
+How Websites Use This Technology
 
 You do not need to enable anything special to benefit from the Web Animation API. It works automatically in Chrome whenever a website chooses to use it, and you likely see it in action every day without realizing it.
 
@@ -37,7 +37,7 @@ Many popular websites rely on this API to create the smooth interactions you exp
 
 This technology also helps websites feel more consistent with the apps you use on your phone or computer. Native applications have long had the ability to create smooth, polished animations, and the Web Animation API brings that same level of quality to the web. As more website developers learn to use this tool, the overall quality of web experiences continues to improve.
 
-## Managing Animation Performance in Chrome
+Managing Animation Performance in Chrome
 
 While the Web Animation API is designed to be efficient, you may occasionally want more control over how animations behave on your system. Chrome provides several ways to manage this.
 
@@ -47,7 +47,7 @@ You can access this setting by going to Chrome Settings, then Accessibility, and
 
 Another helpful feature is Chrome's ability to manage background tabs intelligently. When you have many tabs open, Chrome can automatically suspend or slow down activity in tabs you are not using, including animations. This keeps your browser responsive and prevents slowdowns. Extensions like Tab Suspender Pro can help you take this further by automatically suspending tabs that you have not used in a while, saving memory and CPU resources for the tabs you are actively viewing.
 
-## The Future of Web Animation
+The Future of Web Animation
 
 The Web Animation API continues to evolve, with new features being added regularly that give developers even more control over how animations behave. This means websites will continue to get better at creating smooth, engaging experiences that rival native applications.
 
@@ -55,7 +55,7 @@ Modern web design increasingly relies on animation to guide users through interf
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Application Panel Guide](/articles/chrome-application-panel-guide/)
 * [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow/)
 * [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers/)

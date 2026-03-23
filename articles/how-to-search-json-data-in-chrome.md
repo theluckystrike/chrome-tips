@@ -24,7 +24,7 @@ faq:
   - q: "Where do I find JSON data in Chrome DevTools Network tab?"
     a: "Click the Network tab in Chrome DevTools, then trigger your API call by refreshing the page or performing the action that generates the request. Look for the specific endpoint in the list of network requests and click on it. Select the Response tab to see the raw JSON data. This is where Zovo suggests looking first when debugging API responses."
   - q: "Why can't I find my JSON data when I search in Chrome DevTools?"
-    a: "Make sure you're searching in the correct location—JSON data appears in the Network tab's Response section, not in the main browser window. Verify you're viewing the actual response body and not just headers. If your JSON is still not appearing, check that you've selected the correct network request. The data might also be formatted in a way that requires using JavaScript Console methods for deeper searching."
+    a: "Make sure you're searching in the correct location, JSON data appears in the Network tab's Response section, not in the main browser window. Verify you're viewing the actual response body and not just headers. If your JSON is still not appearing, check that you've selected the correct network request. The data might also be formatted in a way that requires using JavaScript Console methods for deeper searching."
 ---
 
 You're staring at a massive JSON response wondering how you'll ever find that one specific field buried somewhere inside. Here's exactly how to search json data in chrome using Chrome DevTools' built-in search capabilities and Console tools. This method can save you up to 15 minutes per debugging session when working with large API responses.
@@ -37,9 +37,9 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Type your search term and press Enter to find matches
 > 5. Use JavaScript's JSON methods in Console for advanced filtering
 
-## Open Chrome DevTools and Locate Your JSON
+Open Chrome DevTools and Locate Your JSON
 
-First, you need to get to the data. Press **F12** to open Chrome DevTools, or use the keyboard shortcut Ctrl+Shift+I on Windows (Cmd+Opt+I on Mac). You'll see the DevTools panel appear at the bottom or side of your browser. If you're new to DevTools, our comprehensive [Chrome DevTools for JSON guide](/chrome-devtools-json-guide) covers all the essential features you need to know.
+First, you need to get to the data. Press F12 to open Chrome DevTools, or use the keyboard shortcut Ctrl+Shift+I on Windows (Cmd+Opt+I on Mac). You'll see the DevTools panel appear at the bottom or side of your browser. If you're new to DevTools, our comprehensive [Chrome DevTools for JSON guide](/chrome-devtools-json-guide) covers all the essential features you need to know.
 
 If you're working with an API response, click the Network tab and trigger your API call by refreshing the page or performing the action that generates the request. Look for the API endpoint in the list of network requests. Click on it, then select the Response tab to see the raw JSON data.
 
@@ -47,7 +47,7 @@ For JSON files opened directly in Chrome, the data appears in the main browser w
 
 > "The JSON.parse() static method parses a JSON string, constructing the JavaScript value or object described by the string." ,  [JSON.parse() - JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
-### Use the Built-in Search Function
+Use the Built-in Search Function
 
 Once you can see your JSON data, press Ctrl+F (Cmd+F on Mac) to open Chrome's search box. This appears as a small input field, usually in the top-right corner of the DevTools panel or browser window.
 
@@ -55,7 +55,7 @@ Type your search term into this box. Chrome will highlight all instances of that
 
 This basic search works well for exact string matches, but it won't help you with complex queries or data transformation.
 
-### Access the Console for Advanced JSON Searching
+Access the Console for Advanced JSON Searching
 
 Click the Console tab in DevTools for more powerful search capabilities. Here you can use JavaScript to parse and filter your JSON data in ways that simple text search cannot match. The Console is particularly useful when working with complex nested structures, and our [Chrome DevTools for JSON guide](/chrome-devtools-json-guide) shows advanced techniques for leveraging these capabilities.
 
@@ -67,7 +67,7 @@ For JSON files opened directly in the browser, you can fetch the current page co
 
 fetch(window.location.href).then(response => response.json()).then(data => console.log(data));
 
-### Filter and Search with JavaScript Methods
+Filter and Search with JavaScript Methods
 
 Now you can use JavaScript's array and object methods to search through your data. Here are the most useful techniques:
 
@@ -87,39 +87,39 @@ This last method converts each object to a string and searches within it, catchi
 
 > "JSON is a text-based data format following JavaScript object syntax. Even though it closely resembles JavaScript object literal syntax, it can be used independently from JavaScript." ,  [Working with JSON - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
 
-## Common Mistakes When Searching JSON Data
+Common Mistakes When Searching JSON Data
 
-### Forgetting About Case Sensitivity
+Forgetting About Case Sensitivity
 
 Most developers search for "Email" when the actual property is "email" with a lowercase 'e'. JavaScript's default string methods are case-sensitive, so your search will fail.
 
 Always convert to lowercase first: `item.email.toLowerCase().includes("search_term".toLowerCase())` or use regular expressions with the `i` flag for case-insensitive matching.
 
-### Searching in Stringified JSON Without Formatting
+Searching in Stringified JSON Without Formatting
 
 When you convert objects to strings with `JSON.stringify()`, you get a compressed format without spaces. Searching for "name: John" won't work because the actual string is "name":"John".
 
 Either search for the exact stringified format, or use `JSON.stringify(item, null, 2)` to get readable formatting with proper spacing.
 
-### Not Handling Null or Undefined Values
+Not Handling Null or Undefined Values
 
 Your search will crash with an error if you try to call `.includes()` on a null or undefined property. This happens more often than you'd expect with real-world API data.
 
 Always check for the property's existence first: `item.email && item.email.includes("search_term")` or use optional chaining: `item.email?.includes("search_term")`.
 
-### Ignoring Nested Array Structures
+Ignoring Nested Array Structures
 
 JSON often contains arrays within objects, and simple property searches miss data inside these arrays. You need to flatten or recursively search these structures.
 
 Use `Array.flat()` for simple nested arrays, or write a recursive function to traverse deeply nested structures.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
-The manual DevTools approach works perfectly for occasional JSON searching, but it gets tedious when you're debugging APIs all day. If you regularly work with JSON data, **JSON Formatter Pro** automates this entire process.
+The manual DevTools approach works perfectly for occasional JSON searching, but it gets tedious when you're debugging APIs all day. If you regularly work with JSON data, JSON Formatter Pro automates this entire process.
 
 This Chrome extension formats JSON responses automatically, adds syntax highlighting, and includes a built-in search function that works across all your API calls. With a 4.8/5 rating and regular updates, it handles the formatting and searching without any manual DevTools navigation. Our [Chrome DevTools for JSON guide](/chrome-devtools-json-guide) also covers additional tips for streamlining your workflow.
 
-The extension stays lightweight at just 738KiB and integrates directly into your existing workflow. **[Try JSON Formatter Pro Free](https://zovo.one)**
+The extension stays lightweight at just 738KiB and integrates directly into your existing workflow. [Try JSON Formatter Pro Free](https://zovo.one)
 
 > "The JSON.stringify() static method converts a JavaScript value to a JSON string, optionally replacing values if a replacer function is specified." ,  [JSON.stringify() - JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 

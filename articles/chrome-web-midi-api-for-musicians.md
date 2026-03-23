@@ -12,7 +12,7 @@ Chrome Web MIDI API for musicians is becoming more important as more music produ
 
 Let me explain why this happens and what you can do to get your MIDI devices working properly in Chrome.
 
-## Why Your MIDI Device Might Not Connect
+Why Your MIDI Device Might Not Connect
 
 The Chrome Web MIDI API is a feature that allows web browsers to communicate with external musical instruments and controllers. It is a powerful technology that enables web developers to create music applications that can read notes, control knobs, and respond to other input from real hardware. However, there are several reasons why your MIDI device might not be detected or might stop working unexpectedly.
 
@@ -22,7 +22,7 @@ Another issue is that multiple tabs or applications might be trying to access th
 
 Browser performance and resource conflicts can also cause MIDI issues. If Chrome is using too much memory or processing power due to many open tabs, the MIDI connection may become unstable or fail to initialize properly. This can result in dropped notes, unresponsive controls, or complete connection failure.
 
-## How to Fix MIDI Connection Issues
+How to Fix MIDI Connection Issues
 
 The good news is that there are several steps you can take to resolve these issues and get your MIDI devices working with Chrome.
 
@@ -34,7 +34,7 @@ Third, try using a fresh Chrome profile for your music work. Over time, browser 
 
 Fourth, keep your Chrome browser updated. Google regularly improves the Web MIDI API and fixes bugs that could affect device connectivity. Running the latest version of Chrome ensures you have the most recent improvements.
 
-## Managing Browser Resources for Better Performance
+Managing Browser Resources for Better Performance
 
 If you continue to experience MIDI issues even after trying these steps, the problem might be related to browser resource management. Having too many tabs open can slow down Chrome and interfere with MIDI functionality. Each open tab uses memory and processing power, and when resources are stretched thin, less critical features like MIDI connections can suffer.
 
@@ -44,7 +44,7 @@ Another helpful strategy is to use a browser extension designed to manage tab be
 
 By keeping your browser lean and focused on the task at hand, you create a better environment for MIDI devices to function reliably. This is especially important when you are working on music projects that require real-time responsiveness from your hardware.
 
-## Additional Tips for Stable MIDI Connections
+Additional Tips for Stable MIDI Connections
 
 Here are a few more things you can do to improve your experience with MIDI devices in Chrome.
 
@@ -56,7 +56,7 @@ Consider using a wired connection instead of wireless adapters for your MIDI dev
 
 Check the website documentation for the music application you are using. Some web apps have specific requirements or recommended settings for MIDI connectivity that can help troubleshoot issues.
 
-## Getting Back to Making Music
+Getting Back to Making Music
 
 MIDI connectivity issues in Chrome can be frustrating, especially when you just want to make music. The good news is that most issues have straightforward solutions. By managing browser permissions, closing competing applications, keeping your browser updated, and using tools that help manage tab resources, you can create a stable environment for your MIDI devices to work properly.
 
@@ -64,7 +64,7 @@ With a few simple adjustments, your MIDI keyboard, controller, or other hardware
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Performance Panel for Regular Users](/articles/chrome-performance-panel-for-regular-users/)
 * [Chrome Extensions for Web Scraping Without Code](/articles/chrome-extensions-for-web-scraping-without-code/)
 * [Chrome Intersection Observer API Explained](/articles/chrome-intersection-observer-api-explained/)

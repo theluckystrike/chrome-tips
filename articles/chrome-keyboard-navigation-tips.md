@@ -13,7 +13,7 @@ Chrome keyboard navigation tips are something every browser user should know, wh
 
 Let me share some practical Chrome keyboard navigation tips that you can start using right away to make your time in the browser more productive and enjoyable.
 
-## Getting Started with Address Bar Navigation
+Getting Started with Address Bar Navigation
 
 The address bar in Chrome is more powerful than most people realize, and knowing how to use it with your keyboard is one of the most valuable navigation tips you can learn.
 
@@ -21,7 +21,7 @@ Pressing Ctrl+L or F6 instantly puts your cursor in the address bar, ready for y
 
 Chrome's address bar also remembers your browsing history and bookmarks. As you type, it suggests matching websites from your history, bookmarks, and even popular searches. You can use the arrow keys to select a suggestion and then press Enter to go there.
 
-## Tab Navigation Shortcuts
+Tab Navigation Shortcuts
 
 Managing tabs with keyboard shortcuts is one of the biggest time-savers once you get comfortable with it. Here are some essential tips for navigating between tabs without touching your mouse.
 
@@ -31,7 +31,7 @@ To switch between tabs quickly, press Ctrl+Tab to jump to the next tab and Ctrl+
 
 For users with many open tabs, pressing Ctrl+Shift+A opens the tab search feature. This shows a list of all your open tabs with their titles, making it easy to find and switch to a specific one even when you have dozens of tabs open.
 
-## Page Navigation Within a Tab
+Page Navigation Within a Tab
 
 Once you are on a webpage, several shortcuts help you navigate the content itself without using your mouse.
 
@@ -41,7 +41,7 @@ To jump to the top of a page, press Home, and to jump to the bottom, press End. 
 
 Pressing Page Up and Page Down scrolls through the page in larger increments, which is helpful when you are reading long articles or scrolling through results.
 
-## Window and Panel Shortcuts
+Window and Panel Shortcuts
 
 Chrome has several shortcuts that help you manage windows and access different panels within the browser.
 
@@ -51,7 +51,7 @@ Ctrl+H opens your browsing history panel on the left side of the browser. From h
 
 Ctrl+D bookmarks the current page instantly, which is a great way to save sites you want to visit again later without interrupting your workflow.
 
-## Finding Your Rhythm
+Finding Your Rhythm
 
 The best way to make these Chrome keyboard navigation tips part of your routine is to start with just one or two shortcuts that feel most useful for your daily browsing. Maybe you start with Ctrl+T for new tabs and Ctrl+W for closing them. Once those become automatic, add another shortcut like Ctrl+L for the address bar.
 
@@ -61,7 +61,7 @@ For those who work with many tabs throughout the day, extensions like Tab Suspen
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does/)
 * [Chrome for Managing Site Notifications](/articles/chrome-for-managing-site-notifications/)
 * [Chrome Net Internals Sockets View: Monitor and Manage Active Connections](/articles/chrome-net-internals-sockets-view-connections/)

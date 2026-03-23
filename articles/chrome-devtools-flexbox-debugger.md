@@ -13,7 +13,7 @@ permalink: chrome-devtools-flexbox-debugger
 
 If you have ever searched for "chrome devtools flexbox debugger" because your website layout was not behaving the way you expected, you are in the right place. Flexbox is one of the most powerful CSS layout systems, but it can also be one of the most confusing. When your elements are not aligning, spacing, or sizing the way you intended, it can feel like trying to solve a puzzle without all the pieces. Fortunately, Chrome DevTools includes a built-in flexbox debugger that makes debugging flex layouts much easier.
 
-## Why Flexbox Layouts Go Wrong
+Why Flexbox Layouts Go Wrong
 
 Flexbox problems usually stem from a few common sources. First, the default behavior of flex items might surprise you. By default, flex items want to shrink to fit their content, not stretch to fill available space. This means if you have a container with extra space, your items will cluster together rather than spread out evenly. You need to explicitly tell them to do otherwise using properties like justify-content and align-items.
 
@@ -21,7 +21,7 @@ Second, the shorthand flex property can cause confusion when you specify only on
 
 Third, the interaction between parent and child flex properties can create unintended results. The align-items property on the parent controls how children align on the cross axis, but individual children can override this with align-self. When you have both properties set in different places, it can be hard to understand which one is winning.
 
-## Finding the Flexbox Inspector in Chrome DevTools
+Finding the Flexbox Inspector in Chrome DevTools
 
 Opening Chrome DevTools is the first step. You can do this by right-clicking anywhere on a web page and selecting "Inspect" from the context menu, or by pressing F12 on your keyboard. Once DevTools is open, you need to find the element that has display: flex or display: inline-flex applied to it.
 
@@ -29,7 +29,7 @@ In the Elements panel on the left side of DevTools, hover over your HTML element
 
 When the flexbox debugger is active, you will see visual overlays on your page that show the flex container and its items. These overlays include colored lines and arrows that indicate the main axis and cross axis, making it much easier to visualize how your flex properties are actually being applied.
 
-## Understanding the Flexbox Visual Overlays
+Understanding the Flexbox Visual Overlays
 
 Once you activate the flexbox debugger, look for the small overlay controls that appear near the flex container on your page. These controls let you toggle different visual guides that help you understand the layout.
 
@@ -39,7 +39,7 @@ The cross axis indicator shows the perpendicular direction. When your main axis 
 
 You can also see indicators for flex gap, which shows the spacing between items. The debugger displays the actual computed gap value, which is helpful when you suspect your gap property is not working as expected or when you want to verify the exact spacing between elements.
 
-## Fixing Common Flexbox Problems
+Fixing Common Flexbox Problems
 
 If your items are not spacing the way you want, start by checking the justify-content property. This property controls alignment along the main axis. If your flex-direction is row, it controls horizontal spacing. Common values include flex-start to pack items at the beginning, flex-end to pack them at the end, center to center them, and space-between, space-around, or space-evenly to distribute items with different spacing patterns.
 
@@ -47,7 +47,7 @@ When items are not aligning vertically in a row layout, look at align-items. Thi
 
 If you have a single item that needs different alignment from the others, use align-self on that specific item. This overrides the align-items setting from the parent container. The debugger makes it easy to spot when align-self is being applied because you will see its value listed separately in the Styles pane for that element.
 
-## Using the Flexbox Properties Panel
+Using the Flexbox Properties Panel
 
 Chrome DevTools has a dedicated flexbox section in the Styles pane that shows all flex-related properties in one place. This makes it much easier to see the complete picture of how your flex container is configured without hunting through the full list of CSS properties.
 
@@ -55,11 +55,11 @@ This panel shows the computed values for all flex properties, which is particula
 
 You can also edit these properties directly in the panel. Click on any flex property value to change it, and you will see the layout update in real time on your page. This makes experimenting with different configurations much faster than editing your source code and refreshing the page.
 
-## Keeping Your Browser Running Smoothly
+Keeping Your Browser Running Smoothly
 
 While you are debugging flexbox layouts and making changes in DevTools, you might notice Chrome running slower than usual, especially if you have many tabs open. This is a common issue that affects many users. One solution worth considering is Tab Suspender Pro, which automatically suspends tabs you are not actively using to free up memory and keep your browser responsive. It works in the background so you can focus on debugging without worrying about browser performance.
 
-## Additional Tips for Flexbox Success
+Additional Tips for Flexbox Success
 
 When working with flexbox, it helps to start with the default values in mind and then change only what you need. The defaults are flex-direction: row, justify-content: flex-start, align-items: stretch, and flex-wrap: nowrap. Understanding these defaults helps you predict what will happen when you do not specify a particular property.
 
@@ -71,7 +71,7 @@ The flexbox debugger in Chrome DevTools is one of those tools that becomes indis
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Spectre Attack Protection in Browser](/articles/chrome-spectre-attack-protection-in-browser/)
 * [Chrome iPhone Widgets How to Set Up](/articles/chrome-iphone-widgets-how-to-set-up/)
 * [Chrome Extensions for Tab Sleeping Automatically](/articles/chrome-extensions-for-tab-sleeping-automatically/)

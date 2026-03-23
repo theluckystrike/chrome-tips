@@ -12,7 +12,7 @@ How do you change the default download location in Chrome? If you have ever down
 
 Let me explain why you might want to change this setting and walk you through exactly how to do it.
 
-## Why You Might Want a Different Download Location
+Why You Might Want a Different Download Location
 
 When you download anything using Chrome, whether it is a document, photo, or software installer, the browser automatically saves it to a folder called Downloads. This default behavior works fine for many people, but there are some good reasons you might want to change it.
 
@@ -24,7 +24,7 @@ The third reason is about storage space. If your computer is running low on hard
 
 Finally, some people just have a specific workflow that works better with a custom download location. Maybe you have a folder system that makes sense for your projects, and you want Chrome to fit right into that system.
 
-## Changing the Default Download Location
+Changing the Default Download Location
 
 The process to change where Chrome saves your downloads is straightforward. Here is what you need to do.
 
@@ -40,7 +40,7 @@ A window will pop up showing your computer's folders. Navigate to wherever you w
 
 From now on, Chrome will save all your downloads to the new location you chose. This only affects new downloads, so any files you have already downloaded will stay where they are.
 
-## Choosing Where to Save Each Download
+Choosing Where to Save Each Download
 
 Sometimes you do not want to change the default for all downloads. Maybe you just need to save one specific file to a different location. Chrome gives you that flexibility too.
 
@@ -50,7 +50,7 @@ If Chrome does not ask you, you can enable a setting that makes it ask every tim
 
 With this setting enabled, Chrome will always ask you where to save each file. This is useful if you often need to sort different downloads into different folders.
 
-## What to Check If Downloads Are Not Working
+What to Check If Downloads Are Not Working
 
 Sometimes after changing the download location, downloads might still go to the wrong place. Here are some things to try if that happens.
 
@@ -62,7 +62,7 @@ If you are using a computer for work or school, your administrator might have re
 
 Also, some Chrome extensions that manage downloads can override your settings. If you have download-related extensions installed, try turning them off temporarily to see if that fixes the problem.
 
-## Other Download Settings Worth Knowing
+Other Download Settings Worth Knowing
 
 Chrome has a few other settings that can make managing downloads easier.
 
@@ -72,7 +72,7 @@ You can also choose to have Chrome always show your downloads bar at the bottom 
 
 If you find yourself managing a lot of downloads and open tabs, you might want to look into extension tools that help with organization. Tab Suspender Pro is one option that can help you keep track of your tabs and improve browser performance. It is part of the Zovo extension suite, which offers various tools designed to make your Chrome experience smoother.
 
-## Keeping Your Downloads Organized
+Keeping Your Downloads Organized
 
 Now that you know how to change where Chrome saves your files, you can take control of your downloaded content. Whether you choose a dedicated folder on your computer, set up automatic syncing to the cloud, or just want to keep things more organized, the choice is yours.
 
@@ -82,7 +82,7 @@ Remember, you can always change the location again later if your needs change. C
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips/)
 * [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained/)
 * [Chrome Audit Page Seo How To](/articles/chrome-audit-page-seo-how-to/)

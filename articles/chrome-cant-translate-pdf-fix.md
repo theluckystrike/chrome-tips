@@ -22,26 +22,26 @@ Last tested: March 2026, Chrome 123 stable.
 > "Chrome's built-in PDF viewer renders documents in a separate sandboxed process to prevent malicious PDFs from accessing browser data. This same sandboxing blocks the translation API from reading document text."
 > [Fix Google Chrome Translate Not Working, GeeksForGeeks](https://www.geeksforgeeks.org/techtips/fix-google-chrome-translate-not-working/)
 
-## Why Chrome Can't Translate PDFs
+Why Chrome Can't Translate PDFs
 
-### The Sandbox Architecture Blocks Translation
+The Sandbox Architecture Blocks Translation
 
 Chrome's PDF viewer is a PPAPI plugin running in a restricted sandbox separate from the main browser process. Translation relies on the Translate API, which hooks into the page's DOM and reads rendered text. A PDF in Chrome's viewer does not have a DOM. The viewer renders PDF streams directly to the screen using its own text-extraction layer, and the translation engine has no way to read that output. This is not a bug, it is the deliberate architecture of Chrome's sandboxed rendering.
 
 > "The Translator API allows you to translate text with AI models provided in the browser. The model is downloaded the first time a website uses this API."
 > [Translation with built-in AI, Chrome Translator API](https://developer.chrome.com/docs/ai/translator-api)
 
-### Language Detection Fails on Scanned Documents
+Language Detection Fails on Scanned Documents
 
 Even if a workaround allows Chrome's language detector to see a PDF, scanned PDFs store content as images rather than text. Chrome's language detection scans the first 2 KB of extractable text. An image-based PDF provides no extractable text, so detection never triggers and no translation bar appears. Low-quality scans with degraded fonts cause the same failure even when the PDF contains some text layer.
 
-### Translation Model Downloads Get Blocked
+Translation Model Downloads Get Blocked
 
 Chrome downloads translation models in the background when it first encounters a new language. Corporate firewalls, VPNs, and aggressive content filtering sometimes block the specific network endpoints Chrome uses for model distribution. When model files are incomplete or missing, translation silently fails. This explains why PDF translation sometimes worked previously but stopped after a network configuration change.
 
-## Step-by-Step Fixes
+Step-by-Step Fixes
 
-### Fix 1: Open the PDF in Google Docs
+Fix 1: Open the PDF in Google Docs
 
 This is the most reliable fix because it converts the PDF from a sandboxed plugin document into an HTML document Chrome can fully process.
 
@@ -54,7 +54,7 @@ This is the most reliable fix because it converts the PDF from a sandboxed plugi
 
 This approach preserves most PDF formatting and works on any device where Chrome is signed into a Google account.
 
-### Fix 2: Reset Language Settings and Restart Chrome
+Fix 2: Reset Language Settings and Restart Chrome
 
 1. Navigate to `chrome://settings/languages`.
 2. Under Translation preferences, toggle "Use Google Translate" off.
@@ -65,7 +65,7 @@ This approach preserves most PDF formatting and works on any device where Chrome
 
 The 15-second gap forces Chrome to flush its language service registration. On the next launch, Chrome re-registers the translation service and rebuilds its connection to Google's model distribution network, which can restore partial translation functionality for text-layer PDFs.
 
-### Fix 3: Clear Translation Cache
+Fix 3: Clear Translation Cache
 
 1. Press `Ctrl+Shift+Delete` on Windows or `Cmd+Shift+Delete` on Mac.
 2. Open the Advanced tab.
@@ -77,7 +77,7 @@ The 15-second gap forces Chrome to flush its language service registration. On t
 
 Corrupted cache files are a common cause of translation failing silently. This process removes them and allows Chrome to rebuild fresh translation data on the next attempt.
 
-### Fix 4: Use Chrome's Download-and-Translate Workflow
+Fix 4: Use Chrome's Download-and-Translate Workflow
 
 For PDFs hosted online, download the file and then use Google Translate's document translation feature directly:
 
@@ -90,7 +90,7 @@ For PDFs hosted online, download the file and then use Google Translate's docume
 
 Google Translate's document service handles both text-layer PDFs and performs OCR on scanned documents, making it more capable than Chrome's built-in translation for PDF content. The translated document downloads as a new file with formatting preserved where the original text was extractable.
 
-### Fix 5: Disable Extensions That Conflict With the PDF Viewer
+Fix 5: Disable Extensions That Conflict With the PDF Viewer
 
 PDF-handling extensions sometimes compete with Chrome's viewer for document access, breaking the already-limited translation pathway.
 
@@ -100,7 +100,7 @@ PDF-handling extensions sometimes compete with Chrome's viewer for document acce
 4. Go to `chrome://extensions/` and disable Adobe Acrobat, PDF-related readers, and any privacy extensions.
 5. Test translation after disabling each extension individually.
 
-## Quick Fix Summary
+Quick Fix Summary
 
 | Situation | Recommended Fix | Works on Scanned PDFs |
 |---|---|---|
@@ -109,32 +109,32 @@ PDF-handling extensions sometimes compete with Chrome's viewer for document acce
 | Text-layer PDF, translation was working before | Clear cache and reset settings | No |
 | Extension causing conflict | Test incognito, disable culprit | No |
 
-## When to Try Alternative Solutions
+When to Try Alternative Solutions
 
 Chrome's PDF translation limitations are architectural. No setting change fully resolves the sandbox separation between the PDF viewer and the translation engine. If you regularly translate PDF documents as part of work or study, a dedicated tool that handles PDF text extraction natively will save significant time.
 
 BeLikeNative includes its own PDF text extraction layer that operates outside Chrome's PDF viewer sandbox. It reads the text content of loaded PDFs directly through the extension's document access API, bypasses Chrome's translation pipeline entirely, and applies translation to the extracted text inline on the page. Version 1.4.8 (March 2026) improved PDF handling for both text-layer and partially scanned documents. For scanned PDFs, the extension falls back to Google Translate's document endpoint automatically. Rating: 4.6/5 from active users. Size: 999 KiB.
 
-**[Try BeLikeNative Free at zovo.one](https://zovo.one)**
+[Try BeLikeNative Free at zovo.one](https://zovo.one)
 
-## FAQ
+FAQ
 
-### Why does Chrome translate HTML pages but not PDFs?
+Why does Chrome translate HTML pages but not PDFs?
 
 HTML pages have a Document Object Model that Chrome's translation engine hooks into directly. PDFs render through a separate sandboxed plugin that produces screen output without a DOM. The translation engine cannot read data from a sandboxed plugin process due to Chrome's inter-process communication restrictions.
 
-### Does clearing browser data affect my saved passwords?
+Does clearing browser data affect my saved passwords?
 
 No. Clearing "Cached images and files" and "Cookies and other site data" does not touch passwords, bookmarks, or browsing history. Those items live in separate Chrome profile storage that cache-clearing operations do not reach.
 
-### Can Chrome translate scanned PDFs?
+Can Chrome translate scanned PDFs?
 
 Not natively. Scanned PDFs contain images rather than machine-readable text. Chrome's translation engine requires extractable text to detect language and apply translation. Google Translate's document upload feature does perform OCR on scanned pages and can produce translated output, though accuracy depends on scan quality.
 
-### How long does Google Translate's document translation take?
+How long does Google Translate's document translation take?
 
 For a standard 10-page text-layer PDF, Google Translate typically completes translation within 20 to 60 seconds on a broadband connection. Scanned PDFs require OCR processing first and can take 90 seconds to several minutes depending on page count and image quality.
 
 ---
 
-Built by Michael Lip — More tips at [zovo.one](https://zovo.one)
+Built by Michael Lip. More tips at [zovo.one](https://zovo.one)

@@ -17,7 +17,7 @@ If you have been searching for chromebook touchscreen not working fix, you proba
 
 Many Chromebook users rely on their touchscreens for everyday tasks, whether it is browsing the web, taking notes, or just navigating around Chrome OS. When the touchscreen stops working, it can feel like your device is broken. However, in most cases, the issue is something simple that you can fix yourself without needing to visit a repair shop.
 
-## Restart Your Chromebook First
+Restart Your Chromebook First
 
 The simplest fix is often the most effective. Before you try anything complicated, restart your Chromebook completely. This might sound too basic, but restarting clears out temporary glitches that can cause the touchscreen to stop responding.
 
@@ -25,7 +25,7 @@ To restart your Chromebook, click on the time in the bottom right corner of your
 
 If a normal restart does not help, you can try a hard restart instead. Press and hold the power button for about ten seconds until your Chromebook turns off, then press it again to turn it back on. This forces a complete shutdown and can sometimes reset the touchscreen hardware.
 
-## Check Touchscreen Settings in Chrome OS
+Check Touchscreen Settings in Chrome OS
 
 Sometimes the touchscreen is accidentally disabled in the settings. Chrome OS has a setting that lets you turn the touchscreen on or off, and it might have been switched off without you realizing it.
 
@@ -33,7 +33,7 @@ To check this, click on the time in the bottom right, then click on the gear ico
 
 You should also check the touchpad settings. Sometimes issues with the touchscreen can be related to how Chrome OS is handling touch input. Click on the time, then the gear icon, and search for touchpad. Make sure the touchpad is enabled and try adjusting any settings that might affect touch input.
 
-## Update Your Chromebook
+Update Your Chromebook
 
 Outdated software can cause all kinds of problems, including touchscreen issues. Chrome OS updates often include fixes for known bugs, and your touchscreen might not work properly if you are running an older version.
 
@@ -41,7 +41,7 @@ To check for updates, click on the time in the bottom right, click on the gear i
 
 After updating, test your touchscreen again. If it was a software issue, the update should have fixed it. Make sure you keep your Chromebook updated in the future to avoid similar problems.
 
-## Perform a Powerwash
+Perform a Powerwash
 
 If the simple fixes are not working, a Powerwash might be necessary. This is basically a factory reset for your Chromebook that clears all your local data and settings. Before you do this, make sure you back up any important files to Google Drive, since everything on your device will be deleted.
 
@@ -49,7 +49,7 @@ To perform a Powerwash, go to Settings, click on Advanced in the left sidebar, a
 
 After the Powerwash is complete, set up your Chromebook again and test the touchscreen. This often fixes persistent software issues that other methods could not solve.
 
-## Recalibrate the Touchscreen
+Recalibrate the Touchscreen
 
 Some Chromebooks have a touchscreen calibration tool that can help if the touch accuracy is off. If your touchscreen is technically working but not responding where you tap, or if it feels inaccurate, calibration might help.
 
@@ -57,7 +57,7 @@ To find this option, open Settings and search for calibration or touchscreen. Lo
 
 If you do find a calibration tool, follow the instructions on screen to recalibrate your touchscreen. This usually involves tapping on a series of targets to help the device understand exactly where your finger is touching.
 
-## Check for Physical Damage
+Check for Physical Damage
 
 If your touchscreen was working fine and then suddenly stopped, think about whether anything happened to your Chromebook recently. Did you drop it? Did something spill on it? Was it closed when something was pressed against the screen?
 
@@ -65,13 +65,13 @@ Physical damage can cause the touchscreen to stop working, and in these cases, y
 
 If you suspect physical damage, it is best to contact the manufacturer or a repair shop. They can tell you if the touchscreen needs to be replaced.
 
-## Try Using an Extension to Help
+Try Using an Extension to Help
 
 While you are troubleshooting your touchscreen, there are Chrome extensions that can make browsing easier even if the touchscreen is not working perfectly. One useful extension is Tab Suspender Pro, which helps manage your open tabs and can reduce the strain on your Chromebook while you work on fixing the touchscreen issue.
 
 Extensions like this can help keep your browser running smoothly, which is especially helpful if your touchscreen problems are related to performance issues. You can find and install extensions from the Chrome Web Store.
 
-## When to Get Professional Help
+When to Get Professional Help
 
 If you have tried all of these fixes and your touchscreen is still not working, it might be a hardware problem. In this case, you should contact the manufacturer if your Chromebook is still under warranty. They might be able to repair or replace the device for you.
 
@@ -83,7 +83,7 @@ Remember that touchscreen issues are common and often fixable. Do not give up ho
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chromebook Parental Controls How to Set Up](/articles/chromebook-parental-controls-how-to-set-up/)
 * [Chrome Restore Tabs Not Working After Update: Practical Fixes](/articles/chrome-restore-tabs-not-working-after-update/)
 * [Chrome Android App Running Slow Fix: Practical Solutions That Actually Work](/articles/chrome-android-app-running-slow-fix/)

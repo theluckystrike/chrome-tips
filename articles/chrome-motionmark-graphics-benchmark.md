@@ -14,7 +14,7 @@ If you have ever wondered how well your browser handles graphics and animations,
 
 Let me walk you through what this benchmark tests, why your score matters, and what you can do to improve it.
 
-## What the MotionMark Benchmark Actually Tests
+What the MotionMark Benchmark Actually Tests
 
 The MotionMark benchmark is designed specifically to stress test a browser's graphics rendering capabilities. It does this by running a series of animation tests that push your browser to handle moving shapes, scaling elements, and complex visual transitions.
 
@@ -22,7 +22,7 @@ The benchmark includes several sub-tests that focus on different aspects of grap
 
 A higher score means your browser can render more complex animations without dropping frames. The score is calculated based on how many frames your browser can render per second across all the tests combined. A score in the hundreds is typical for modern browsers on decent hardware, while scores in the thousands indicate excellent graphics performance.
 
-## Why Your Score Matters
+Why Your Score Matters
 
 Your MotionMark score tells you something important about your browser and computer setup. If you work with web-based design tools, video editors, or collaborative platforms, a higher score means these applications will feel smoother and more responsive.
 
@@ -30,7 +30,7 @@ For casual users, the score can help explain why certain websites feel sluggish 
 
 The benchmark is also useful for comparing different browsers or testing whether browser updates have improved or hurt performance. Many users run the benchmark before and after making changes to their system to see what impact those changes have.
 
-## Common Reasons for Low Scores
+Common Reasons for Low Scores
 
 Several factors can cause your MotionMark score to be lower than expected. Understanding these can help you identify what to fix.
 
@@ -42,7 +42,7 @@ Outdated graphics drivers can also hurt your score. Graphics drivers are the sof
 
 Browser settings can also play a role. Some browser features, like hardware acceleration or background tab throttling, are designed to manage resources but can sometimes interfere with benchmark performance.
 
-## Steps You Can Take to Improve Your Score
+Steps You Can Take to Improve Your Score
 
 The good news is that there are several practical steps you can try to improve your MotionMark score and your overall browser performance.
 
@@ -56,13 +56,13 @@ Adjust your browser settings. Hardware acceleration is a setting that lets your 
 
 Consider upgrading your hardware if your scores remain consistently low despite trying other fixes. Adding more RAM can help since browser performance is often limited by memory availability. If your computer has an option to use a dedicated graphics card instead of integrated graphics, making sure your applications use the dedicated GPU can make a significant difference.
 
-## A Simple Tool to Help Manage Browser Resources
+A Simple Tool to Help Manage Browser Resources
 
 If you find that managing tabs and extensions feels like a constant struggle, there are tools designed to help. Tab Suspender Pro is one option that automatically suspends tabs you are not currently using, which frees up memory and can improve your browser performance. When you return to a suspended tab, it reloads automatically, so you get back to where you were without the clutter of keeping everything open at once.
 
 Using a tool like this can help you maintain better performance not just on benchmarks but in everyday browsing as well. It reduces the memory footprint of your browser and makes it easier to keep many tabs open without experiencing slowdown.
 
-## Final Thoughts
+Final Thoughts
 
 The chrome motionmark graphics benchmark is a valuable tool for understanding how well your browser handles graphics and animations. Whether you are trying to improve your score for work, troubleshooting slow browsing, or just curious about your computer's capabilities, the steps above can help you get better results.
 
@@ -70,9 +70,9 @@ Start with the simpler fixes like closing tabs and updating drivers, then move o
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome CSS Grid Debugging Guide](/articles/chrome-css-grid-debugging/)
 * [Chrome Lazy Loading Images Explained](/articles/chrome-lazy-loading-images-explained/)
 * [chrome fingerprinting protection explained](/articles/chrome-fingerprinting-protection-explained/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

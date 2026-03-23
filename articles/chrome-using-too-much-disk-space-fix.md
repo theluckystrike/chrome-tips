@@ -12,7 +12,7 @@ Chrome using too much disk space is a problem that many people encounter, especi
 
 Let me walk you through why this happens and what you can do about it.
 
-## Why Chrome Consumes So Much Disk Space
+Why Chrome Consumes So Much Disk Space
 
 Chrome is a powerful browser, but that power comes with a cost. Every website you visit gets stored on your computer in some form or another. This includes images, videos, scripts, and other files that Chrome saves so pages load faster the next time you return.
 
@@ -24,41 +24,41 @@ Extensions also contribute to the problem. Each extension you install may store 
 
 Finally, Chrome itself maintains various databases and files to manage your tabs, bookmarks, and settings. Over time, these can fragment or grow in ways that consume more space than necessary.
 
-## Simple Fixes to Free Up Disk Space
+Simple Fixes to Free Up Disk Space
 
 The good news is that you can take several steps right now to reduce Chrome's disk space usage. You do not need any technical knowledge to try these approaches.
 
-### Clear Your Browser Cache
+Clear Your Browser Cache
 
 The first and most effective step is to clear Chrome's cache. This removes all the stored website files that have accumulated over time. To do this, open Chrome and press Ctrl+Shift+Delete on Windows or Cmd+Shift+Delete on Mac. Select the time range as "All time" and make sure "Cached images and files" is checked, then click "Clear data."
 
 After clearing the cache, you should notice a immediate reduction in the space Chrome uses. The tradeoff is that websites might load slightly slower the first time you visit them, but this is usually barely noticeable.
 
-### Manage Your Browsing Data
+Manage Your Browsing Data
 
 While you are in the clearing menu, consider also removing other data you do not need. Your browsing history, cookies, and form data can all take up space. Think about how far back you really need this information. If you are like most people, you probably do not need to keep years of browsing history.
 
 You can also adjust Chrome's settings to automatically clear this data when you close the browser. Go to Settings, then Privacy and security, and look for the option to clear data on exit. This keeps things tidy going forward without requiring you to remember to do it manually.
 
-### Review and Remove Unnecessary Extensions
+Review and Remove Unnecessary Extensions
 
 Take a look at your installed extensions and remove any that you no longer use. Each extension takes up space, and some can be quite heavy. Open Chrome and type chrome://extensions in the address bar to see what you have installed.
 
 Think carefully about which extensions you actually need on a regular basis. If you have not used an extension in the past month, you probably do not need it. Removing unused extensions is one of the easiest ways to free up disk space and also improve browser performance.
 
-### Limit Offline Storage for Specific Sites
+Limit Offline Storage for Specific Sites
 
 Some websites ask for permission to store data offline so you can access them without an internet connection. While useful for certain apps, this can consume a lot of space. Go to Chrome settings, find "Privacy and security," and look for "Site settings" or "Content settings." Check the "Permissions" section to see which sites have been allowed to store data locally.
 
 Review this list and remove permissions for sites you no longer need or do not use offline. This can free up a surprising amount of space.
 
-### Try a Specialized Extension
+Try a Specialized Extension
 
 If you find that Chrome keeps growing in size no matter what you do, consider using an extension designed to manage tab and resource usage. Tab Suspender Pro is one option that can help by automatically pausing tabs you are not actively using. This reduces the amount of data Chrome needs to keep in memory and on disk, which can make a noticeable difference in overall storage usage.
 
 The extension works by putting inactive tabs to sleep, which means they do not consume system resources while you are not looking at them. This can be especially helpful if you tend to keep many tabs open at once, which is a common habit for many users.
 
-## Preventing the Problem from Recurring
+Preventing the Problem from Recurring
 
 Once you have cleared out the excess space, a few ongoing habits can help prevent the problem from coming back.
 
@@ -68,20 +68,20 @@ Be mindful about how many extensions you install. It is easy to accumulate them 
 
 Also, consider how many tabs you keep open at once. If you typically have dozens of tabs running, you might be surprised how much space they collectively use. Closing tabs you no longer need is a simple way to reduce Chrome's footprint.
 
-## Wrapping Up
+Wrapping Up
 
 Chrome using too much disk space is a common issue, but it is one you can solve with a few simple steps. Clearing your cache, managing your browsing data, and keeping your extensions in check will take you a long way. If you need extra help, tools like Tab Suspender Pro can automate some of this work for you.
 
 Give these approaches a try and see how much space you can reclaim. Your browser and your computer will thank you.
 
-## Related Articles
+Related Articles
 * [Chrome Downloads Not Starting Fix](/articles/chrome-downloads-not-starting-fix/)
 * [Chrome for iPad Tips and Tricks](/articles/chrome-for-ipad-tips-and-tricks/)
 * [Chrome for Claude AI Web Tips](/articles/chrome-for-claude-ai-web-tips/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Fullscreen Mode Shortcut](/articles/chrome-fullscreen-mode-shortcut)
 - [How to Set Homepage on Chrome](/articles/how-to-set-homepage-on-chrome)

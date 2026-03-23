@@ -18,13 +18,13 @@ How to use Chrome Task Manager to find slow tabs is one of the most helpful ques
 
 Chrome Task Manager is a window that shows detailed information about every tab, extension, and background process running in your browser. It tells you how much memory each item is using, how much processing power it needs, and how much data it is sending or receiving. This makes it incredibly useful for tracking down the specific tab that is making your browser slow.
 
-## Opening the Task Manager
+Opening the Task Manager
 
 The fastest way to open Chrome Task Manager is by pressing Shift+Esc while Chrome is in focus. This keyboard shortcut works on both Windows and Mac computers. If you prefer using your mouse, you can also right-click on the Chrome title bar (the top strip where you see the minimize and maximize buttons) and select Task Manager from the menu that appears.
 
 Once the Task Manager window opens, you will see a list of everything running inside Chrome. This includes every open tab, any extensions that are currently active, and background processes that Chrome uses for things like updates and synchronization. The list may look overwhelming at first, but it is organized in a way that makes finding problems straightforward.
 
-## Reading the Information
+Reading the Information
 
 The Task Manager displays several columns of data, but the three most useful ones for everyday troubleshooting are Memory, CPU, and Network.
 
@@ -34,7 +34,7 @@ CPU shows how much processing power each item is using. This is displayed as a p
 
 Network shows how much data is being sent and received. You might see a tab with zero network activity if it is simply displaying static content, or you might see a tab with constant high network activity if it is streaming video, downloading files, or communicating with a server in the background. Tabs with unusual network activity might be running scripts you are not aware of.
 
-## Finding Problematic Tabs
+Finding Problematic Tabs
 
 To find slow tabs, start by clicking the Memory column header to sort the list from highest to lowest memory usage. The tabs using the most memory will appear at the top. This is often the quickest way to identify which tab is consuming the most resources.
 
@@ -42,7 +42,7 @@ You can also sort by CPU to see which tabs are working the hardest. If a particu
 
 Pay attention to tabs you have open but are not actively using. These background tabs can still consume significant resources, especially if they contain auto-playing videos, live dashboards, or websites with real-time updates. A news website with a live sports scoreboard, for example, might continue refreshing in the background and using CPU even when you are working in another tab.
 
-## Taking Action
+Taking Action
 
 Once you have identified a slow tab, you have several options. The simplest solution is to close the tab entirely. If you need to keep the tab for later, you can bookmark it first and then close it. This frees up the memory and CPU resources immediately.
 
@@ -50,7 +50,7 @@ If you find that certain tabs are frequently problematic, consider installing a 
 
 Another approach is to limit how many tabs you keep open at once. If you typically have twenty or thirty tabs open, try reducing that number. You might be surprised at how much faster Chrome feels with fewer tabs. Many users find that they do not actually need all the tabs they keep open and that bookmarking them for later is a better approach.
 
-## Making It a Habit
+Making It a Habit
 
 Checking the Task Manager when Chrome feels slow is a useful habit to develop. It helps you understand which types of websites use the most resources and which extensions you might not need. Over time, you will learn which sites to avoid keeping open in the background and which ones are worth the resource investment.
 
@@ -60,7 +60,7 @@ The Task Manager is also helpful when Chrome shows a "Page Unresponsive" message
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [Chrome Password Manager Is It Safe Enough](/articles/chrome-password-manager-is-it-safe-enough/)
 * [Chrome for Website Blocking During Work](/articles/chrome-for-website-blocking-during-work/)
 * [Chrome Speculation Rules Prefetch: A Complete Guide](/articles/chrome-speculation-rules-prefetch/)

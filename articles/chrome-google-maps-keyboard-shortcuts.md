@@ -14,7 +14,7 @@ Chrome google maps keyboard shortcuts are a fantastic way to navigate Google Map
 
 Let me walk you through the most useful keyboard shortcuts you can use in Google Maps when you are browsing in Chrome, explain why they matter, and show you how to make the most of them.
 
-## Why Keyboard Shortcuts Matter in Google Maps
+Why Keyboard Shortcuts Matter in Google Maps
 
 When you use Google Maps in Chrome, you might think that the mouse is the only way to get around. But the truth is that keyboard shortcuts can make your experience faster and more efficient in several ways.
 
@@ -24,7 +24,7 @@ Second, some shortcuts give you access to features that are not immediately obvi
 
 Third, if you are someone who uses Google Maps frequently for work or travel, mastering these shortcuts can significantly speed up your research. Instead of clicking through menus and buttons, you can perform actions instantly with a keystroke or two.
 
-## Essential Navigation Shortcuts
+Essential Navigation Shortcuts
 
 Once you have Google Maps open in Chrome, these shortcuts will help you move around the map quickly and efficiently.
 
@@ -34,7 +34,7 @@ The plus and minus keys, or the equals sign and hyphen, allow you to zoom in and
 
 If you ever feel lost or want to return to your original location, pressing the home key will take you back to the map view showing your current location. This comes in handy when you have been exploring various areas and want to quickly find your bearings again.
 
-## Search and Direction Shortcuts
+Search and Direction Shortcuts
 
 Searching for places and getting directions is where keyboard shortcuts really shine in Google Maps.
 
@@ -46,7 +46,7 @@ If you need directions, pressing the D key will automatically open directions fr
 
 To switch between driving, transit, walking, and cycling directions, press the appropriate number key. Typically, pressing 1 switches to driving directions, 2 for transit, 3 for walking, and 4 for cycling. This lets you compare different travel options quickly without clicking through the mode selector.
 
-## View and Display Shortcuts
+View and Display Shortcuts
 
 Controlling how you view the map is another area where shortcuts prove their worth.
 
@@ -56,7 +56,7 @@ The K key lets you toggle traffic layer on and off. Seeing real-time traffic con
 
 To quickly save a place to your list, press the S key. This adds the currently selected location to your saved places without needing to click through menus. Later, you can access these saved locations from any device where you are signed in to your Google account.
 
-## Problem Solving with Shortcuts
+Problem Solving with Shortcuts
 
 Sometimes you might encounter issues with Google Maps that can be addressed using these keyboard shortcuts or by understanding how the browser interacts with the mapping service.
 
@@ -66,7 +66,7 @@ Another issue you might face is that Google Maps shortcuts sometimes stop workin
 
 Sometimes the map might not load correctly or might appear frozen. Pressing F5 or Ctrl+R will refresh the page, which often resolves display issues. This is a simple step but can fix many problems related to map rendering or loading.
 
-## Putting It All Together
+Putting It All Together
 
 Now that you know these shortcuts, the best way to master them is to start using them in your daily Google Maps sessions. Do not try to memorize them all at once. Instead, pick a few that you think you will use most often, such as the arrow keys for navigation and the D key for directions, and start incorporating them into your routine.
 
@@ -78,9 +78,9 @@ With a little practice, you will find that using keyboard shortcuts makes your G
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app/)
 * [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/articles/chrome-coverage-tool-find-unused-css/)
 * [Chrome Making My Whole PC Lag Fix: Restore Your Systems Speed](/articles/chrome-making-my-whole-pc-lag-fix/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

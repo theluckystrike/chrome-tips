@@ -25,13 +25,13 @@ Chrome network process using too much memory is a common complaint that many bro
 
 Let me explain why this happens and what you can do about it.
 
-## What Is the Network Process in Chrome
+What Is the Network Process in Chrome
 
 Chrome is built on a multi-process architecture. Each tab you open runs in its own process, and there are also separate processes for the browser's internal functions. One of these internal processes handles all network activity, including downloading files, loading web pages, and communicating with websites in the background. This is called the Network process, and it acts like a central hub for data flowing in and out of your browser.
 
 When everything is working normally, the Network process uses a modest amount of memory. However, it can grow significantly under certain conditions. The more tabs you have open, the more data Chrome needs to manage. If you frequently switch between tabs or keep many tabs running in the background, the Network process has to keep track of all those connections and buffered data. This is where memory usage can spiral upward.
 
-## Why Memory Usage Spikes
+Why Memory Usage Spikes
 
 There are several reasons why the Chrome Network process might start using too much memory. Understanding these causes can help you address the problem more effectively.
 
@@ -43,7 +43,7 @@ Streaming content is another contributor. If you watch videos or listen to music
 
 Finally, website design plays a role. Modern websites are often packed with scripts, trackers, ads, and analytics. These elements make network requests in the background, sometimes dozens per page. The Network process has to handle all of these requests, and the accumulated effect across many tabs can be significant.
 
-## Simple Steps to Reduce Memory Usage
+Simple Steps to Reduce Memory Usage
 
 The good news is that you do not need technical expertise to bring memory usage down. There are straightforward habits and settings that can make a big difference.
 
@@ -55,17 +55,17 @@ Third, try using Chrome's built-in memory saver features. Chrome has a Memory Sa
 
 Fourth, clear your browsing data periodically. Over time, cached files and cookies accumulate. While caching helps pages load faster, a bloated cache can contribute to higher memory usage. Go to Chrome menu, select Clear browsing data, and choose a time range to clear.
 
-## A Helpful Extension Solution
+A Helpful Extension Solution
 
 If you find that managing tabs manually is too time-consuming, there are browser extensions designed specifically to help. Tab Suspender Pro is one option that automatically pauses tabs you are not using, which reduces the workload on the Network process. It works quietly in the background, suspending tabs after a period of inactivity and waking them up when you click on them. This can significantly lower memory usage without requiring you to change your browsing habits much. The extension is part of the Zovo extension suite, which focuses on practical tools for everyday browsing.
 
-## When to Try a Fresh Profile
+When to Try a Fresh Profile
 
 If you have tried these steps and the Network process still uses too much memory, it might be worth creating a fresh Chrome profile. Over time, accumulated data, extensions, and settings can cause issues that are hard to pinpoint. A new profile starts with a clean slate. To do this, go to Chrome menu, select Settings, and look for the option to add a new profile. You can sign in with your Google account to sync your bookmarks and preferences if needed.
 
 You can also try other browsers temporarily to see if the issue persists. Some users find that alternative browsers handle memory differently, which can be helpful if you need to pinpoint whether the problem is Chrome-specific or related to your system.
 
-## Final Thoughts
+Final Thoughts
 
 High memory usage from the Chrome Network process is annoying, but it is usually manageable with a few adjustments. By keeping your tab count reasonable, limiting extensions, and using tools like Tab Suspender Pro, you can enjoy a faster, more responsive browsing experience without sacrificing the features you need.
 
@@ -73,7 +73,7 @@ Give these tips a try and see how much of a difference they make. Your computer 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does/)
 * [chrome report broken website how to](/articles/chrome-report-broken-website-how-to/)
 * [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix/)

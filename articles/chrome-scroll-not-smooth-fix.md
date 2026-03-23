@@ -13,7 +13,7 @@ If your Chrome scroll not smooth issue is driving you crazy, you have come to th
 
 Let me walk you through what causes Chrome scroll not smooth problems and what you can do right now to fix them.
 
-## Why Chrome Scroll Feels Rough
+Why Chrome Scroll Feels Rough
 
 Chrome scroll not smooth issues can happen for several reasons, and understanding the cause helps you find the right solution. One of the biggest culprits is having too many extensions installed. Each extension adds extra code that Chrome needs to run in the background, and when you scroll, all those extensions compete for your computer is attention. The more extensions you have running, the more likely your scroll will feel choppy, especially on pages with lots of images or content.
 
@@ -25,7 +25,7 @@ Cache and cookies can also get in the way. Over time, cached files and cookies a
 
 Finally, some websites are simply built in ways that do not scroll smoothly. Websites with heavy animations, lots of images, or poorly optimized code can cause rough scrolling regardless of how well your browser is running.
 
-## Quick Fixes You Can Try Today
+Quick Fixes You Can Try Today
 
 The good news is that many of these issues have simple solutions. Here are some practical steps you can take to fix Chrome scroll not smooth problems.
 
@@ -39,13 +39,13 @@ Updating your graphics drivers can also help, especially if you notice rough scr
 
 If you want to test whether hardware acceleration is the issue, you can try turning it off temporarily. Go to Chrome settings, find the system section, and toggle off the option that says use hardware acceleration when available. Restart Chrome and see if scrolling improves. If it does, you might want to update your graphics drivers or investigate hardware issues further.
 
-## Managing Tabs Can Help
+Managing Tabs Can Help
 
 If you find that keeping too many tabs open is a habit that is hard to break, there are extensions designed specifically to help manage this. Tab Suspender Pro is one option that can automatically suspend tabs you are not actively using, which frees up memory and can significantly improve overall browser performance including scroll smoothness. When tabs are suspended, they stop consuming resources, which means Chrome can dedicate more power to the tab you are currently viewing and scrolling through. This can be particularly helpful if you tend to keep many tabs open for reference or research.
 
 Beyond just suspending tabs, Tab Suspender Pro gives you a clearer view of which tabs are actually active versus which ones are running in the background. This awareness can help you be more intentional about how many tabs you keep open, leading to a smoother browsing experience overall. Many users find that after installing a tab management extension like this, their Chrome browser feels noticeably faster and more responsive.
 
-## Keep Chrome Running Smoothly
+Keep Chrome Running Smoothly
 
 Beyond the fixes above, there are a few other things you can do to keep Chrome running smoothly. Keeping Chrome updated ensures you have the latest performance improvements and bug fixes. Chrome usually updates automatically, but it is worth checking periodically that you are running the newest version.
 
@@ -57,7 +57,7 @@ Chrome scroll not smooth issues are annoying, but they are usually fixable with 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Content Filtering for Families](/articles/chrome-content-filtering-for-families/)
 * [My Computer Is So Slow How to Fix Chrome](/articles/my-computer-is-so-slow-how-to-fix-chrome/)
 * [chrome install as app pwa how to](/articles/chrome-install-as-app-pwa-how-to/)

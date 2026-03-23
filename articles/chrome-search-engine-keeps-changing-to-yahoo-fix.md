@@ -21,7 +21,7 @@ last_modified_at: '2026-03-12'
 
 It is frustrating when you notice that your Chrome search engine keeps changing to Yahoo. You set up Google or your preferred search engine, but somehow Yahoo keeps reappearing as your default. This happens to many Chrome users, and it can feel like an uphill battle trying to keep your search engine choice where you want it. The good news is that this problem has clear causes and solutions that you can apply yourself.
 
-## Why Your Search Engine Keeps Changing to Yahoo
+Why Your Search Engine Keeps Changing to Yahoo
 
 Understanding why this happens is the first step toward fixing it permanently. There are several common reasons why your Chrome search engine keeps changing to Yahoo, and knowing these will help you choose the right solution.
 
@@ -31,7 +31,7 @@ Another cause is unwanted software on your computer. Sometimes when you install 
 
 Chrome itself can also be the culprit in some cases. When Chrome updates, it might reset certain settings to their defaults or add new search engines to your list. Sometimes an update can inadvertently switch your search engine if there is a conflict with your existing settings or extensions. Additionally, if you previously installed Yahoo Toolbar or other Yahoo-related software, remnants of that software might still be affecting your browser settings.
 
-## How to Fix Your Search Engine Settings
+How to Fix Your Search Engine Settings
 
 The good news is that you can fix this problem by following a few straightforward steps. Try these solutions in order, and you should see improvement.
 
@@ -43,7 +43,7 @@ You should also check for unwanted programs on your computer. On Windows, go to 
 
 Another important step is to clear your Chrome data. Sometimes old data in your browser can cause problems with your settings. Go to Settings and look for "Privacy and security" on the left side. Click on "Clear browsing data." Select a time range of "All time" and make sure "Cookies and other site data" and "Cached images and files" are checked. Click "Clear data" to remove old information that might be causing conflicts.
 
-## Preventing the Problem from Happening Again
+Preventing the Problem from Happening Again
 
 After fixing the issue, you want to make sure it does not come back. There are some habits you can develop to keep your search engine settings stable.
 
@@ -53,15 +53,15 @@ Pay attention during software installations. When you install programs on your c
 
 Keep Chrome updated. Using the latest version of Chrome helps prevent many problems, including unwanted setting changes. Chrome usually updates automatically, but you can check for updates by going to Settings and looking for "About Chrome" at the bottom of the left menu.
 
-## Additional Tools That Can Help
+Additional Tools That Can Help
 
-If you're dealing with persistent **browser hijacks** or unwanted setting changes, maintaining a clean and responsive browser is critical. Often, malicious **extensions** hide their activity by slowing down your browser, making it harder to navigate the **Settings** menu.
+If you're dealing with persistent browser hijacks or unwanted setting changes, maintaining a clean and responsive browser is critical. Often, malicious extensions hide their activity by slowing down your browser, making it harder to navigate the Settings menu.
 
-Using **Tab Suspender Pro** helps by automatically "hibernating" inactive tabs, which frees up **RAM** and keeps Chrome snappy. This ensures that when you need to jump into your **Search engine settings** to remove a **Yahoo hijack**, the browser is responsive and doesn't hang. By keeping your system resources focused on your active tasks, you can manage your **security settings** more effectively and spot unwanted changes before they become a major headache.
+Using Tab Suspender Pro helps by automatically "hibernating" inactive tabs, which frees up RAM and keeps Chrome snappy. This ensures that when you need to jump into your Search engine settings to remove a Yahoo hijack, the browser is responsive and doesn't hang. By keeping your system resources focused on your active tasks, you can manage your security settings more effectively and spot unwanted changes before they become a major headache.
 
-## Related Articles
+Related Articles
 * [Chrome PWA Update Mechanism How It Works](/articles/chrome-pwa-update-mechanism-how-it-works/)
 * [Chrome Web Serial API Guide](/articles/chrome-web-serial-api-guide/)
 * [Chrome Continue Where You Left Off Not Working](/articles/chrome-continue-where-you-left-off-not-working/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

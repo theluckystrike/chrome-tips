@@ -16,7 +16,7 @@ author: theluckystrike
 
 Dealing with a chrome window too small cant resize is one of those frustrating problems that seems to come out of nowhere. One day your browser works fine, and the next day you cannot make the window any bigger, no matter how hard you try to drag the edges. If you are stuck with a tiny Chrome window that refuses to resize, this guide will help you understand why it happens and walk you through the steps to fix it.
 
-## Why Does My Chrome Window Get Stuck at a Small Size
+Why Does My Chrome Window Get Stuck at a Small Size
 
 There are several reasons why your Chrome window might suddenly become too small to resize properly. Understanding the cause helps you pick the right solution faster.
 
@@ -28,7 +28,7 @@ Your computer's display settings can also cause this issue. If your screen resol
 
 Cached data and corrupted browser settings sometimes lead to this problem too. When Chrome's internal files get damaged or outdated, the browser might behave in unexpected ways, including issues with window sizing.
 
-## Quick Things to Try First
+Quick Things to Try First
 
 Before diving into more involved solutions, try these simple steps that often fix the problem right away.
 
@@ -38,7 +38,7 @@ If that does not help, try closing Chrome completely and reopening it. Make sure
 
 Try pressing F11 on your keyboard. This toggles Chrome in and out of fullscreen mode. Sometimes Chrome gets stuck in a weird state that makes the window behave incorrectly, and pressing F11 can reset it.
 
-## Check the Website You Are Visiting
+Check the Website You Are Visiting
 
 If the window resize problem only happens on a specific website, the issue is likely with that website, not Chrome itself. Some websites have code that prevents the browser window from being smaller than a certain size, or they might open in a fixed-size window for their own layout reasons.
 
@@ -46,7 +46,7 @@ Try opening a different website, like google.com or wikipedia.org. If you can re
 
 Some websites open in a popup window with specific dimensions. If you are dealing with such a site, try clicking somewhere else on the page first or look for a "view full screen" option within the website itself.
 
-## Reset Chrome Settings
+Reset Chrome Settings
 
 If the problem happens on all websites, resetting Chrome to its default settings can often fix window-related issues. This will not delete your bookmarks or saved passwords, but it will reset your preferences to how they were when you first installed Chrome.
 
@@ -54,7 +54,7 @@ To reset Chrome, click the three dots in the top right corner of the browser. Sc
 
 After resetting, restart Chrome and test if you can resize the window normally now.
 
-## Clear Your Browser Cache and Data
+Clear Your Browser Cache and Data
 
 Corrupted cached data can sometimes cause strange browser behavior, including window resizing problems. Clearing Chrome's cache and site data might help fix this.
 
@@ -62,7 +62,7 @@ Click the three dots and go to Settings. Scroll down and click Privacy and secur
 
 Once the data is cleared, close Chrome and open it again. Test if the window resize issue is fixed.
 
-## Deal with Problematic Extensions
+Deal with Problematic Extensions
 
 Extensions can sometimes interfere with how Chrome handles its window. If you recently installed a new extension before the problem started, that extension might be the cause.
 
@@ -72,7 +72,7 @@ On Mac, the easiest way is to go to Chrome menu, then Settings, then Extensions.
 
 If Chrome resizes properly with extensions disabled, you know one of your extensions is causing the problem. Turn your extensions back on one at a time, testing the window resize after each one. This way you can find which specific extension is causing the issue and either remove it or look for an alternative.
 
-## Check Your Display and System Settings
+Check Your Display and System Settings
 
 Sometimes the issue is not with Chrome at all but with your computer's display settings. If your screen resolution changed or if you recently connected or disconnected an external monitor, this can affect how Chrome opens and behaves.
 
@@ -82,13 +82,13 @@ On Mac, go to System Settings, then Displays. Check the resolution settings and 
 
 Try restarting your computer. Sometimes a simple restart can reset display drivers and fix window sizing issues that came from temporary system glitches.
 
-## Try a Different Approach with Tab Suspender Pro
+Try a Different Approach with Tab Suspender Pro
 
 If you have tried all these steps and the problem persists, or if you want to prevent this kind of issue from happening again, consider using Tab Suspender Pro. This extension helps manage your open tabs more efficiently and can sometimes resolve unusual browser behavior related to tab and window management. It is a useful tool for keeping Chrome running smoothly, though it is just one of many options available for improving your browser experience.
 
-## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome surfshark extension review 2026](/articles/chrome-surfshark-extension-review-2026/)
 * [Chrome Back Forward Cache How to Test](/articles/chrome-back-forward-cache-how-to-test/)
 * [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners/)

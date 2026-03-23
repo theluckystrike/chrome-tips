@@ -14,7 +14,7 @@ author: theluckystrike
 
 If you have ever wondered how websites know when you step away from your computer, the chrome idle detection api explained in this guide will give you the answer. Chrome includes a feature called the Idle Detection API that allows websites to detect when you are not actively using your device. This article will walk you through what this API does, why it exists, how websites use it, and what you can do about it.
 
-## What Is the Idle Detection API
+What Is the Idle Detection API
 
 The Idle Detection API is a tool built into Google Chrome that lets websites and web applications know when you have been away from your computer or device for a period of time. When you stop interacting with your device, whether you are away for a few minutes or longer, websites can detect this idle state through this API.
 
@@ -22,7 +22,7 @@ Think of it like a motion sensor in a room that turns off lights when no one is 
 
 Chrome introduced this API to help web developers create more intelligent and responsive applications. For example, a messaging app might want to show you as offline when you have not used your computer for a while. A video streaming service might pause playback if you fall asleep. A collaborative document editor might save your work automatically when you step away.
 
-## Why Websites Use Idle Detection
+Why Websites Use Idle Detection
 
 Websites have several practical reasons for wanting to know when you are idle. Understanding these uses can help you see why the feature exists in the first place.
 
@@ -34,7 +34,7 @@ Privacy and security is another reason. Some applications use idle detection to 
 
 Content delivery optimization is also a factor. Websites can use idle detection to prioritize what content loads first. If you are actively reading an article, the site might focus on loading images and videos you can see. When you step away, it can pause these resources and focus on preparing content you might view next.
 
-## How the Idle Detection API Works
+How the Idle Detection API Works
 
 The Idle Detection API works by monitoring user activity on your device. It tracks several types of input including mouse movements, keyboard typing, screen touches, and even mouse wheel scrolling. When none of these activities occur for a specified period, Chrome considers the user idle.
 
@@ -44,7 +44,7 @@ Chrome also considers the entire system, not just the browser. If you are watchi
 
 The API also distinguishes between idle and away. Idle typically means you have not interacted with your device recently, while away might mean your screen is locked or the system is in sleep mode. Different applications might want to respond differently to these states.
 
-## What This Means for Your Privacy
+What This Means for Your Privacy
 
 The Idle Detection API raises understandable concerns about privacy. When websites can detect when you are away, it adds another piece of information they can collect about your behavior.
 
@@ -54,7 +54,7 @@ However, the data that websites collect through idle detection could potentially
 
 It is worth noting that the Idle Detection API is only available in secure contexts, meaning HTTPS websites. This provides some protection against malicious sites trying to abuse the feature. Chrome also regularly updates its privacy protections to ensure the API is used responsibly.
 
-## How to Control Idle Detection
+How to Control Idle Detection
 
 You have several options for controlling how websites use idle detection. Here are the practical steps you can take to manage this feature.
 
@@ -66,7 +66,7 @@ Third, you can use browser extensions to manage idle detection more broadly. Som
 
 Fourth, consider using tab management extensions if you want more control over how tabs behave when you are away. Tab Suspender Pro is one option that lets you automatically suspend tabs you have not used in a while. This can help manage resource usage and add another layer of control over your browsing experience.
 
-## Signs That a Website Uses Idle Detection
+Signs That a Website Uses Idle Detection
 
 If you are curious whether a website you are visiting uses idle detection, there are a few signs to look for.
 
@@ -76,7 +76,7 @@ Websites that automatically pause content when you step away are also using this
 
 Some websites also send notifications when they detect you have been idle. For instance, a collaboration tool might notify you that your session will expire soon after you have been away for an extended period.
 
-## The Bigger Picture
+The Bigger Picture
 
 The Idle Detection API represents Chrome is attempt to make web applications more intelligent and responsive. It enables useful features like automatic status updates, security timeouts, and resource management. At the same time, it is important to understand how it works and what it means for your privacy.
 
@@ -88,9 +88,9 @@ For users who want additional control over tab management and resource usage, ex
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Screen Flickering Fix](/articles/chrome-screen-flickering-fix/)
 * [Chrome Omnibox Hidden Features](/articles/chrome-omnibox-hidden-features/)
 * [Chrome Safe Search How to Lock](/articles/chrome-safe-search-how-to-lock/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

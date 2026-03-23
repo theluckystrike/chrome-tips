@@ -12,7 +12,7 @@ author: theluckystrike
 
 Chrome notification sound how to change is a question that comes up when the default chime gets tiresome or does not fit your environment. Whether you work in a quiet office, prefer something more noticeable, or just want to personalize your browser experience, Chrome gives you some options to manage these sounds. Let me explain what you can and cannot control, and how to work with what Chrome offers.
 
-## Understanding Chrome Notification Sounds
+Understanding Chrome Notification Sounds
 
 Chrome plays sounds in several situations. The most common ones are when a download completes, when a website sends you a push notification that you have accepted, and when certain extensions trigger alerts. Each of these sound types comes from different sources within Chrome, and not all of them are equally adjustable.
 
@@ -20,7 +20,7 @@ The sound you hear when a download finishes is actually handled by your operatin
 
 For website notifications, the sound is determined by the website that sends the notification. When you allow a site like a news outlet or social media platform to send you notifications, that site controls what sound plays when it sends an alert. Chrome itself does not provide a setting to change the sound for individual website notifications from within the browser.
 
-## Changing System Notification Sounds
+Changing System Notification Sounds
 
 If you want to change the sound that plays when Chrome triggers a notification, you need to adjust your operating system settings. This affects not just Chrome but all applications that use system notifications.
 
@@ -30,7 +30,7 @@ On Mac, open System Settings and click on Notifications. Select the application 
 
 Linux users will need to look at their specific desktop environment settings, whether Gnome, KDE, or another variant. Each environment has its own way of handling system sounds, so the exact steps vary depending on what you are running.
 
-## Managing Website Notification Sounds
+Managing Website Notification Sounds
 
 For sounds that come from websites sending you push notifications, you have a different set of options. The website itself controls what sound plays, and Chrome does not provide a browser-wide setting to override this. However, you can manage which websites are allowed to send you notifications at all.
 
@@ -38,7 +38,7 @@ To review and remove notification permissions for websites, click the three dots
 
 If you find yourself receiving too many notifications from various websites, consider whether you really need to allow them. Most websites will ask for permission to send notifications when you first visit them, and it is usually better to click Block unless there is a specific site where you genuinely want to receive updates.
 
-## Using Extensions for More Control
+Using Extensions for More Control
 
 If you need more sophisticated control over notification sounds than what Chrome and your operating system provide natively, browser extensions can help. Some extensions allow you to mute sounds from specific tabs or websites, giving you a way to silence particularly noisy sources without turning off notifications entirely.
 
@@ -46,7 +46,7 @@ Extensions can also help you manage the overall notification environment in your
 
 For those who need to customize notification sounds for specific websites or scenarios, exploring the extension marketplace for audio-focused tools might reveal additional options. Keep in mind that extensions have varying levels of access to browser functions, so choose ones from reputable developers.
 
-## Keeping Notifications Manageable
+Keeping Notifications Manageable
 
 The key to dealing with Chrome notification sounds is understanding where each type of sound comes from and adjusting at the appropriate level. System sounds are changed through your operating system, website notification sounds are controlled by the websites themselves, and the most effective approach is often to simply remove permissions for sites whose notifications you do not want.
 
@@ -54,9 +54,9 @@ Taking a few minutes to clean up your notification permissions can make a big di
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome install as app pwa how to](/articles/chrome-install-as-app-pwa-how-to/)
 * [Chrome Lighthouse Audit Complete Guide](/articles/chrome-lighthouse-audit-guide/)
 * [Chrome for Spotify Web Player Shortcuts](/articles/chrome-for-spotify-web-player-shortcuts/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

@@ -22,28 +22,28 @@ Last tested: March 2026, Chrome 123 stable.
 > "The Translator API allows you to translate text with AI models provided in the browser. The model is downloaded the first time a website uses this API."
 > [Translation with built-in AI, Chrome Translator API](https://developer.chrome.com/docs/ai/translator-api)
 
-## Why Chrome Translation Fails on JavaScript Sites
+Why Chrome Translation Fails on JavaScript Sites
 
-### The Translation Scanner Fires Before Content Renders
+The Translation Scanner Fires Before Content Renders
 
 Chrome's language detection runs at the `DOMContentLoaded` event, which fires as soon as the HTML document structure is parsed, before external scripts, images, or asynchronous data loads complete. A React application delivers a largely empty HTML shell at `DOMContentLoaded`, then populates it with content through JavaScript execution over the next several hundred milliseconds to several seconds. Chrome scans the empty shell, finds no translatable text, and marks the page as not needing translation, without ever revisiting that decision.
 
 This timing gap affects all client-side rendering frameworks. Applications built with Next.js in client-side mode, Nuxt.js, SvelteKit with client hydration, and similar tools all present this problem to Chrome's translation engine.
 
-### Single-Page Applications Route Content Without Full Page Loads
+Single-Page Applications Route Content Without Full Page Loads
 
 SPAs use JavaScript routing (React Router, Vue Router) to navigate between pages without triggering a full browser reload. When a user navigates within an SPA, Chrome sees a URL change but not a new page load event. Chrome's translator only evaluates pages on actual loads, not on SPA route changes. Navigating from an English homepage to a French product page within an SPA gives Chrome no trigger to reconsider translation.
 
 > "The Intl object is the namespace for the ECMAScript Internationalization API, providing locale-sensitive string comparison. Chrome's translation hooks into this infrastructure, which only fires on full document loads, not client-side route changes."
 > [Internationalization (Intl) - JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl)
 
-### AJAX and WebSocket Content Loads After Translation Scan
+AJAX and WebSocket Content Loads After Translation Scan
 
 Some sites load initial content via AJAX calls or WebSocket connections that complete after the translation scan. A news site might render its navigation bar in the HTML but load article content dynamically. Chrome translates the navigation bar correctly but misses the article text entirely, creating a partially translated page that confuses users into thinking translation is broken.
 
-## Step-by-Step Fixes
+Step-by-Step Fixes
 
-### Fix 1: Disable JavaScript Temporarily During Page Load
+Fix 1: Disable JavaScript Temporarily During Page Load
 
 This forces Chrome to see the server-rendered HTML content, which most frameworks provide as a fallback.
 
@@ -57,7 +57,7 @@ This forces Chrome to see the server-rendered HTML content, which most framework
 
 The trade-off is that interactive site features stop working while JavaScript is disabled. However, this is only needed for the initial translation trigger. Once Chrome starts translating, re-enabling JavaScript typically preserves the translated state for the server-rendered content.
 
-### Fix 2: Block JavaScript for the Domain in Site Settings
+Fix 2: Block JavaScript for the Domain in Site Settings
 
 For a site you visit regularly that consistently needs this workaround:
 
@@ -70,7 +70,7 @@ For a site you visit regularly that consistently needs this workaround:
 
 Chrome associates translation settings with the blocked state, so once translation is initiated this way, it often persists when you re-enable JavaScript and reload, as long as Chrome's cached detection still registers the page as requiring translation.
 
-### Fix 3: Enable the Translation Force Trigger Chrome Flag
+Fix 3: Enable the Translation Force Trigger Chrome Flag
 
 1. Type `chrome://flags/#translate-force-trigger-on-english` in the address bar.
 2. Set this flag to "Enabled."
@@ -79,7 +79,7 @@ Chrome associates translation settings with the blocked state, so once translati
 
 The force-trigger flag causes Chrome to re-scan the page DOM multiple times during the load process rather than stopping at `DOMContentLoaded`. It scans at 2-second intervals for the first 30 seconds after page load, giving JavaScript frameworks time to render their content before Chrome's final language determination. This flag increases CPU usage slightly during page load but meaningfully improves translation detection on dynamic sites.
 
-### Fix 4: Use Right-Click to Manually Trigger Translation
+Fix 4: Use Right-Click to Manually Trigger Translation
 
 1. Wait for the JavaScript site to fully load, including any spinner animations or skeleton screens.
 2. Right-click anywhere on the page body.
@@ -87,7 +87,7 @@ The force-trigger flag causes Chrome to re-scan the page DOM multiple times duri
 
 This bypasses the automatic bar trigger and forces Chrome to apply translation to whatever content is currently in the DOM. Trigger it after the page has finished loading so Chrome catches the rendered content rather than the empty shell state.
 
-### Fix 5: Use a Hard Refresh After the Page Fully Loads
+Fix 5: Use a Hard Refresh After the Page Fully Loads
 
 For sites where timing is the only issue:
 
@@ -98,7 +98,7 @@ For sites where timing is the only issue:
 
 This works on sites with aggressive service worker caching, where Chrome serves the initial load from cache but dynamically loads content. The hard refresh forces Chrome to re-evaluate language detection with a fresh network request.
 
-## Quick Fix Summary
+Quick Fix Summary
 
 | Scenario | Fix | Requires DevTools |
 |---|---|---|
@@ -108,32 +108,32 @@ This works on sites with aggressive service worker caching, where Chrome serves 
 | Page has already rendered, no bar appeared | Right-click and trigger manually | No |
 | Need DOM monitoring for all dynamic content | Use BeLikeNative extension | No |
 
-## When to Try Alternative Solutions
+When to Try Alternative Solutions
 
 Chrome's translation system fundamentally cannot monitor the DOM for changes made by JavaScript after initial page load. The workarounds above either delay Chrome's scan until content exists or force a re-scan through flags, but neither gives Chrome the ability to react to DOM mutations in real time. For sites that load content progressively over long sessions, continuously update through WebSockets, or use complex client-side routing, a dedicated extension provides the only reliable solution.
 
 BeLikeNative uses a MutationObserver-based approach that monitors DOM changes continuously after the page loads. When JavaScript frameworks insert text nodes into the DOM, the extension detects the change and applies translation immediately, without waiting for a reload or manual trigger. This covers AJAX content, SPA route changes, WebSocket-delivered updates, and lazy-loaded sections that appear as users scroll. Version 1.4.8 (released March 2026) improved the observer's performance on high-frequency update sites, reducing CPU overhead by approximately 30% compared to the previous version. Rating: 4.6/5. Size: 999 KiB.
 
-**[Try BeLikeNative Free at zovo.one](https://zovo.one)**
+[Try BeLikeNative Free at zovo.one](https://zovo.one)
 
-## FAQ
+FAQ
 
-### Does disabling JavaScript permanently break the site?
+Does disabling JavaScript permanently break the site?
 
 No. Disabling JavaScript in DevTools affects only the current tab and only while the setting is active. Re-enabling JavaScript through the same DevTools menu restores full site functionality. The site's server is unaffected, and no data is lost. For permanent blocking of JavaScript on a specific domain, that setting lives in Chrome's site-settings database and can be removed at any time.
 
-### Why does Chrome translate some JavaScript sites but not others?
+Why does Chrome translate some JavaScript sites but not others?
 
 Sites that use server-side rendering (SSR) deliver fully rendered HTML at `DOMContentLoaded`, giving Chrome's scanner real text to analyze. Chrome successfully translates these sites. Pure client-side rendered apps deliver an empty shell at `DOMContentLoaded`, which Chrome scans and finds nothing to translate. The difference is the rendering strategy, not Chrome's translation capability.
 
-### Can I automate the JavaScript disable-and-translate workflow?
+Can I automate the JavaScript disable-and-translate workflow?
 
 Chrome extensions can automate JavaScript toggling using the `chrome.contentSettings` API, but building such an extension requires custom development. BeLikeNative and similar purpose-built translation extensions handle dynamic content without requiring JavaScript to be disabled, making them a more practical automated solution.
 
-### How many modern sites have this translation problem?
+How many modern sites have this translation problem?
 
 Approximately 70 to 80% of newly built web applications use client-side rendering frameworks. Of those, the proportion that fails Chrome's translation scan varies by their use of SSR as a fallback. Applications using Next.js or Nuxt.js with SSR enabled typically translate correctly. Pure SPA configurations (Create React App, plain Vue CLI projects) almost always fail Chrome's automatic detection.
 
 ---
 
-Built by Michael Lip — More tips at [zovo.one](https://zovo.one)
+Built by Michael Lip. More tips at [zovo.one](https://zovo.one)

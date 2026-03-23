@@ -12,7 +12,7 @@ If your Chrome browser has ever felt sluggish, frozen, or unresponsive, you migh
 
 Let me explain what chrome tracing is, why performance problems happen, and how you can use this information to make your browser faster.
 
-## What Chrome Tracing Actually Does
+What Chrome Tracing Actually Does
 
 Chrome tracing is a built-in tool that records what Chrome is doing at any given moment. Think of it like a detailed activity log that shows exactly how Chrome spends its time. When you start a trace, Chrome records information about every task it performs, from loading web pages to running background processes.
 
@@ -20,7 +20,7 @@ The trace shows you things like which websites are using the most memory, which 
 
 You do not need any technical background to use this tool. Chrome provides a simple interface that guides you through the process. The real challenge is understanding what the information means, which is what this article will help you with.
 
-## Why Your Chrome Browser Slows Down
+Why Your Chrome Browser Slows Down
 
 Understanding why Chrome slows down helps you use tracing more effectively. There are several common reasons your browser might become sluggish.
 
@@ -32,7 +32,7 @@ Browser extensions can sometimes cause performance issues. Extensions run in the
 
 Outdated Chrome versions can also lead to performance problems. Google regularly releases updates that include performance improvements and bug fixes. Running an older version means you are missing these optimizations.
 
-## How to Use Chrome Tracing
+How to Use Chrome Tracing
 
 Using Chrome tracing is straightforward. Here is how to do it.
 
@@ -46,7 +46,7 @@ The main screen shows a timeline with different colors representing different ty
 
 Look for activities that dominate the timeline or appear unexpectedly long. These are likely the sources of your performance issues. For example, if you see long scripting bars, a website might be running complex scripts. If you see extensive rendering activity, a page might have elements that are difficult for Chrome to display efficiently.
 
-## What to Look For in Your Trace
+What to Look For in Your Trace
 
 When you examine your trace, focus on a few key things.
 
@@ -56,7 +56,7 @@ Memory-related activities that take a long time can indicate that Chrome is stru
 
 Continuous activity in background tabs shows that those tabs are still working even when you are not using them. This is a common cause of unexpected slowdown.
 
-## Steps to Fix Performance Issues
+Steps to Fix Performance Issues
 
 Once you identify the problem, there are several steps you can take to improve performance.
 
@@ -70,7 +70,7 @@ Disable extensions that you do not use frequently. Sometimes extensions that you
 
 Keep Chrome updated to the latest version. Updates often include performance improvements that can make your browser faster and more stable.
 
-## When Tracing Helps Most
+When Tracing Helps Most
 
 Chrome tracing is particularly useful when you cannot figure out why Chrome is slow despite having only a few tabs open. Sometimes the problem is not obvious, and the trace reveals hidden activities causing the issue.
 
@@ -80,14 +80,14 @@ If you use many extensions, tracing can reveal which ones are consuming resource
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Restore Previous Session After Crash](/articles/chrome-restore-previous-session-after-crash/)
 * [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does/)
 * [Do Chrome Extensions Slow Down Your Browser](/articles/do-chrome-extensions-slow-down-your-browser/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions)
 - [Chrome Takes Long Time to Open First Time](/articles/chrome-takes-long-time-to-open-first-time)

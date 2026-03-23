@@ -13,7 +13,7 @@ How many Chrome extensions is too many? This is a question many Chrome users fin
 
 The truth is that there is no single number that works for everyone. What matters is not just how many extensions you have, but how those extensions affect your browser's memory, CPU usage, and overall performance. Let me walk you through how to figure out if you have too many extensions and what to do about it.
 
-## Understanding How Extensions Impact Your Browser
+Understanding How Extensions Impact Your Browser
 
 When you install a Chrome extension, it does not just sit there waiting for you to interact with it. Most extensions run code in the background constantly, whether you are actively using them or not. Some extensions check for new emails, monitor prices while you shop, save passwords automatically, or scan web pages for various reasons. Each of these background tasks requires your browser to use processing power and memory.
 
@@ -21,7 +21,7 @@ Think of it like having apps running on your computer. One or two apps running q
 
 Chrome itself already uses a significant amount of memory, especially if you keep many tabs open. When you add extensions on top of that, the combined workload can become too much for your system to handle smoothly.
 
-## Signs You Have Too Many Extensions
+Signs You Have Too Many Extensions
 
 How can you tell if your extensions are causing problems? There are several warning signs to watch for.
 
@@ -35,7 +35,7 @@ Chrome crashes or freezes occasionally. While crashes can have many causes, havi
 
 You have lost track of what extensions you installed. If you cannot remember why you have certain extensions or when you installed them, you probably do not need them.
 
-## Finding Your Personal Limit
+Finding Your Personal Limit
 
 The number of extensions that is too many depends on your computer, your usage habits, and which specific extensions you have installed. A powerful computer with lots of RAM can handle more extensions than an older laptop with limited memory.
 
@@ -43,7 +43,7 @@ However, most users will see noticeable performance improvements if they keep th
 
 Some extensions are heavier than others. A simple theme extension or a calculator tool uses very little resources. But an extension that constantly scans pages, runs background sync processes, or injects code into every website you visit can use significant amounts of memory and CPU power.
 
-## Steps You Can Take Right Now
+Steps You Can Take Right Now
 
 The good news is that you can improve your browser's performance without giving up all of your extensions. Here are some practical steps you can take.
 
@@ -59,7 +59,7 @@ Keep your essential extensions updated. Developers constantly release updates th
 
 Consider using an extension that helps manage other extensions. Tab Suspender Pro is one option that can help by automatically suspending tabs you are not actively using, which reduces memory usage significantly. It can also help you see which extensions are using the most resources. While it is not the only solution available, many users find it helpful for keeping their browser running smoothly.
 
-## A Simple Test You Can Try
+A Simple Test You Can Try
 
 Here is an experiment worth trying. Disable all of your extensions and use Chrome normally for a day. Pay attention to how it feels. Notice the startup time, how quickly pages load, and how your computer's fans behave. Then, enable your extensions one by one, adding only the ones you truly need.
 
@@ -71,7 +71,7 @@ Remember that fewer, well-chosen extensions will serve you better than dozens of
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome User Data Directory: What Each File Does](/articles/chrome-user-data-directory-what-each-file-does/)
 * [Chrome Client Hints Instead of User Agent: What Changed](/articles/chrome-client-hints-instead-of-user-agent/)
 * [chrome for google translate extension tips](/articles/chrome-for-google-translate-extension-tips/)

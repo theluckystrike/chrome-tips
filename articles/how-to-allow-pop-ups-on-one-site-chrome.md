@@ -18,7 +18,7 @@ If you are wondering how to allow pop ups on one site Chrome, you are not alone.
 
 This guide walks you through the simple steps to allow pop ups on one site in Chrome, whether you are using the desktop version or the mobile app.
 
-## Why Chrome Blocks Pop Ups by Default
+Why Chrome Blocks Pop Ups by Default
 
 Chrome includes a built-in pop up blocker that automatically stops most windows from opening without your permission. This feature was added because pop ups became notorious for displaying intrusive ads, fake download buttons, and other annoying content. While the blocker does a good job of keeping those annoyances away, it sometimes catches legitimate pop ups that you actually need.
 
@@ -26,7 +26,7 @@ Websites might need to open pop ups for several valid reasons. A banking site mi
 
 Rather than turning off the pop up blocker completely, which leaves you exposed to unwanted ads and potential risks, you can allow pop ups only for the specific websites you trust. This gives you the best of both worlds.
 
-## How to Allow Pop Ups on One Site in Chrome on Desktop
+How to Allow Pop Ups on One Site in Chrome on Desktop
 
 Allowing pop ups for a specific website in Chrome on your computer is straightforward. Here is what you need to do.
 
@@ -38,7 +38,7 @@ In the list of permissions, find the option labeled Pop ups and redirects. Click
 
 Once you have made this change, the website will be able to open pop ups. You might need to reload the page for the change to take effect. Try triggering the action that was supposed to open the pop up, such as clicking a button or link, and see if it works now.
 
-## Using Chrome Settings to Manage Pop Ups for Specific Sites
+Using Chrome Settings to Manage Pop Ups for Specific Sites
 
 If you prefer to manage your pop up settings from a central place, or if you want to see a list of all sites you have allowed to show pop ups, Chrome provides another way to do this.
 
@@ -50,7 +50,7 @@ To add a new site to this list, click the Add button next to Allowed to send pop
 
 You can also remove sites from this list if you no longer want them to be able to open pop ups. Just find the site in the list and click the trash icon or Remove button next to it.
 
-## How to Allow Pop Ups on Chrome Mobile
+How to Allow Pop Ups on Chrome Mobile
 
 If you are using Chrome on an Android phone or tablet, you can also allow pop ups for specific sites. The process is similar to the desktop version but accessed a bit differently.
 
@@ -60,7 +60,7 @@ You will see a list of permissions the site currently has. Find Pop ups in the l
 
 On iOS devices, the process is very similar. Tap the three dots, find Site settings or Permissions, locate Pop ups, and change the setting to allow.
 
-## What to Do If Pop Ups Still Not Working
+What to Do If Pop Ups Still Not Working
 
 Sometimes after you have allowed pop ups for a site, they still might not work. Here are a few things to check if you run into this situation.
 
@@ -70,7 +70,7 @@ Second, check if you have any extensions installed that also block pop ups. Some
 
 Third, some websites open pop ups through JavaScript or other methods that Chrome might still block even when you have allowed the site. In these cases, you might need to add the site to Chrome's exceptions list through the settings page as described earlier, or consider using a more flexible solution.
 
-## A Helpful Tool for Managing Browser Behavior
+A Helpful Tool for Managing Browser Behavior
 
 If you find yourself frequently adjusting settings for different websites or want more control over how Chrome handles various types of content, there are extensions that can help. One option worth exploring is Tab Suspender Pro, which gives you granular control over tab behavior and can help manage how websites interact with your browser. While it is not specifically designed for pop ups, it offers additional management features that many users find useful for customizing their Chrome experience.
 
@@ -78,7 +78,7 @@ If you find yourself frequently adjusting settings for different websites or wan
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [Chrome for Page Load Speed Testing](/articles/chrome-for-page-load-speed-testing/)
 * [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix/)
 * [Chrome vs Edge RAM Usage Comparison 2026](/articles/chrome-vs-edge-ram-usage-comparison-2026/)

@@ -23,7 +23,7 @@ faq:
   - q: "How do I organize tabs in Chrome to improve performance?"
     a: "Use Chrome's built-in tab groups by right-clicking a tab and selecting 'Add to group' or pressing Ctrl+Shift+G (Cmd+Shift+G on Mac). Grouping related tabs together makes them easier to manage and reduces the mental load of having many tabs open. Chrome can also freeze background tabs automatically when Energy Saver mode is active, which reduces power consumption on battery-powered devices. Combining tab groups with Memory Saver creates an organized and efficient browsing experience."
   - q: "How long does Chrome wait before suspending inactive tabs?"
-    a: "It depends on your Memory Saver setting: Standard mode waits 4 hours, Balanced mode waits 6 hours, and Maximum mode waits just 2 hours before suspending inactive tabs. When tabs are suspended, they show a small 'zzz' icon and consume zero memory until you click them again. You can access these settings at chrome://settings/performance or navigate through Settings > Performance. Zovo notes that suspended tabs reload instantly when clicked, making this feature virtually seamless for most users."
+    a: "It depends on your Memory Saver setting: Standard mode waits 4 hours, Balanced mode waits 6 hours, and Maximum mode waits just 2 hours before suspending inactive tabs. When tabs are suspended, they show a small 'zzz' icon and consume zero memory until you click them again. You can access these settings at chrome://settings/performance or navigate through Settings > Performance. Zovo notes that suspended tabs reload instantly when clicked, making this feature virtually smooth for most users."
 ---
 
 Your browser starts crawling when you hit 20 tabs, doesn't it? Here's exactly how to speed up Chrome many tabs: enable tab discarding, use tab groups for organization, and configure memory saver mode to automatically suspend inactive tabs. These changes can reduce Chrome's memory usage by up to 60% according to Google's own testing.
@@ -32,7 +32,7 @@ Last tested: March 2026 | Chrome latest stable
 
 > "Chrome freezes background tabs when Energy Saver mode is active to reduce power consumption on battery-constrained devices." ,  [Freezing on Energy Saver](https://developer.chrome.com/blog/freezing-on-energy-saver)
 
-## Quick Fix
+Quick Fix
 
 1. Type `chrome://settings/performance` in your address bar
 2. Turn on Memory Saver mode
@@ -40,9 +40,9 @@ Last tested: March 2026 | Chrome latest stable
 4. Group related tabs using Ctrl+Shift+G (Cmd+Shift+G on Mac)
 5. Close duplicate tabs with the built-in duplicate finder
 
-## Enable Chrome's Built-in Memory Saver
+Enable Chrome's Built-in Memory Saver
 
-Chrome's Memory Saver feature automatically puts inactive tabs to sleep, freeing up RAM for the tabs you're actually using. Navigate to Settings > **Performance** or type `chrome://settings/performance` directly into your address bar.
+Chrome's Memory Saver feature automatically puts inactive tabs to sleep, freeing up RAM for the tabs you're actually using. Navigate to Settings > Performance or type `chrome://settings/performance` directly into your address bar.
 
 Toggle on Memory Saver mode. You'll see three options: Standard, Balanced, and Maximum. Standard mode suspends tabs after 4 hours of inactivity. Balanced extends this to 6 hours but is more aggressive about suspending tabs when your system is under memory pressure. Maximum mode suspends tabs after just 2 hours.
 
@@ -50,7 +50,7 @@ For most users, Balanced provides the sweet spot between performance and conveni
 
 You can also add specific sites to the "Always keep these sites active" list if you need certain tabs to stay awake. Gmail, Slack, and music streaming services are good candidates for this whitelist.
 
-### Configure Tab Discarding Settings
+Configure Tab Discarding Settings
 
 Tab discarding goes one step further than suspension by completely unloading inactive tabs from memory. Access this through `chrome://flags/#automatic-tab-discarding` and enable the feature.
 
@@ -58,7 +58,7 @@ Chrome will automatically discard tabs when your system runs low on memory, star
 
 This process can free up 50-200MB per discarded tab depending on the site's complexity. The [Page Lifecycle API](https://developer.chrome.com/docs/web-platform/page-lifecycle-api) handles this process smoothly in the background.
 
-### Organize Tabs with Groups
+Organize Tabs with Groups
 
 Tab groups help you mentally organize your browser while also improving performance. Select multiple tabs by holding Ctrl (Cmd on Mac) and clicking each tab you want to group. Right-click and choose "Add to new group" or use Ctrl+Shift+G.
 
@@ -66,49 +66,49 @@ Name your groups something descriptive like "Work," "Research," or "Shopping." Y
 
 Chrome loads grouped tabs more efficiently because it can predict which tabs you're likely to access together. This [advanced tab management technique](https://chrometipsguide.com/) works especially well for project-based workflows.
 
-### Close Unnecessary Background Tabs
+Close Unnecessary Background Tabs
 
-Open Chrome's Task Manager by pressing Shift+Esc or going to **More tools** > Task Manager. This shows exactly how much CPU and memory each tab is consuming in real-time.
+Open Chrome's Task Manager by pressing Shift+Esc or going to More tools > Task Manager. This shows exactly how much CPU and memory each tab is consuming in real-time.
 
 Sort by memory usage to identify the biggest offenders. YouTube videos, Google Docs with large files, and social media feeds typically consume the most resources. You'll often find tabs you forgot about that are still playing audio or running background scripts.
 
 Right-click memory-hungry tabs in the Task Manager and select "End process" to close them immediately. This is faster than hunting through dozens of tabs manually.
 
-## Common Mistakes That Slow Down Chrome
+Common Mistakes That Slow Down Chrome
 
-### Keeping Extensions You Don't Use
+Keeping Extensions You Don't Use
 
 Every active extension consumes memory and CPU cycles, even when you're not using them. Type `chrome://extensions/` and disable any extensions you haven't used in the past month. Each extension can use 20-50MB of RAM just sitting idle.
 
 Don't delete extensions you might need later. Just toggle them off using the switch next to each extension. You can always reactivate them when needed without losing your settings or data.
 
-### Never Restarting Chrome
+Never Restarting Chrome
 
 Chrome accumulates memory leaks and cached data over time. If you haven't restarted Chrome in weeks, that's likely why it feels sluggish. The browser keeps tabs in memory even after you close them, hoping you'll reopen them quickly.
 
 Restart Chrome completely every few days to clear this accumulated cruft. Use Ctrl+Shift+T to restore your previous session if you need those tabs back.
 
-### Opening New Tabs for Everything
+Opening New Tabs for Everything
 
 Many users open a new tab for every search result or link they want to check. This creates tab proliferation that quickly overwhelms your browser. Instead, right-click links and choose "Open in new tab" only when you need to keep the current page open.
 
 Use the middle mouse button or Ctrl+click to open links in new tabs more efficiently. Better yet, bookmark interesting pages and close the tabs immediately rather than keeping them open "for later."
 
-### Ignoring High-Memory Websites
+Ignoring High-Memory Websites
 
 Some websites are memory hogs by design. Online office suites, video editing tools, and sites with infinite scroll (like social media feeds) can consume gigabytes of RAM if left open. Check which sites are causing problems using the Task Manager.
 
 Consider using dedicated apps for memory-intensive services instead of browser tabs. The Gmail app uses less memory than Gmail in a browser tab because it doesn't load Chrome's full rendering engine.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
 The manual methods above work well, but they require constant attention and adjustment. You have to remember to group tabs, manually suspend inactive ones, and monitor memory usage regularly.
 
-**Tab Suspender Pro** automates this entire process with intelligent algorithms that learn your browsing patterns. The extension (rated 4.9/5 stars, version 1.0.27) automatically suspends tabs after customizable time periods while keeping important sites active based on your usage patterns.
+Tab Suspender Pro automates this entire process with intelligent algorithms that learn your browsing patterns. The extension (rated 4.9/5 stars, version 1.0.27) automatically suspends tabs after customizable time periods while keeping important sites active based on your usage patterns.
 
 The extension's intelligent suspend feature can reduce memory usage by up to 70% without any manual intervention. It also includes whitelist management, bulk tab operations, and one-click suspend for when you need immediate memory relief.
 
-**[Try Tab Suspender Pro Free](https://zovo.one)**
+[Try Tab Suspender Pro Free](https://zovo.one)
 
 > "The chrome.tabs API can be used to interact with the browser's tab system, allowing extensions to create, modify, and rearrange tabs in the browser." ,  [chrome.tabs API](https://developer.chrome.com/docs/extensions/reference/api/tabs)
 

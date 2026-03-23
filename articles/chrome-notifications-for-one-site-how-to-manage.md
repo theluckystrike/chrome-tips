@@ -14,7 +14,7 @@ Chrome notifications for one site how to manage is something many Chrome users f
 
 Let me walk you through why this happens and exactly what you can do about it.
 
-## Why Websites Ask for Permission to Send Notifications
+Why Websites Ask for Permission to Send Notifications
 
 Websites request permission to send notifications as a way to re-engage users after they have left the page. Instead of just waiting for you to return on your own, they want to send you alerts even when you are browsing elsewhere or have closed the browser entirely. This is a powerful marketing tool for businesses, but it can quickly become overwhelming when multiple sites make similar requests.
 
@@ -22,17 +22,15 @@ The notification permission request appears as a small popup at the top or botto
 
 Some websites also use notifications in ways that feel aggressive. You might notice that after allowing notifications, you start receiving far more alerts than you expected, or that the notifications are promotional rather than genuinely useful. This is why learning how to manage chrome notifications for one site specifically is so valuable.
 
-## How to Block Notifications from a Specific Site
+How to Block Notifications from a Specific Site
 
-If you are receiving unwanted notifications from one particular website, the quickest way to stop them is through Chrome is built-in settings. Here is what to do.
-
-First, click the three dots in the upper right corner of your Chrome window to open the menu, then select Settings. From there, click on Privacy and security on the left side, and choose Site Settings. You will see a section called Permissions, and one of the options will be Notifications. Click on that, and you will see two lists: one for sites that are allowed to send notifications and one for sites that are blocked.
+If you are receiving unwanted notifications from one particular website, the quickest way to stop them is through Chrome is built-in settings. one for sites that are allowed to send notifications and one for sites that are blocked.
 
 Find the site that is causing you trouble in the allowed list. Click on the three dots next to its name, and you will have the option to either block notifications from that site or remove it entirely. Blocking is usually the better choice if you think you might want notifications from that site again in the future, since you can always reverse the decision later.
 
 This method is the most direct answer to managing chrome notifications for one site, and it takes only a few clicks to accomplish.
 
-## How to Stop Notification Prompts Before They Start
+How to Stop Notification Prompts Before They Start
 
 Sometimes the better approach is to prevent the notification request from appearing in the first place. If you find that certain types of sites frequently ask for notification permission and you never want to grant it, Chrome can automatically block those requests.
 
@@ -40,7 +38,7 @@ Go back to the Notifications section in your Site Settings that we just looked a
 
 For most users, the better approach is to leave this setting as is but pay attention when the popup appears. If a site is asking for notification permission and you do not have a clear reason to allow it, click "Block" instead of "Allow." This prevents the site from ever sending you notifications without you having to go into settings later.
 
-## Revoking Permission for Sites Already Sending Notifications
+Revoking Permission for Sites Already Sending Notifications
 
 If you have already allowed notifications from a site and now want to take that permission back, the process is just as easy. The Site Settings method I described earlier works perfectly for this. Simply find the site in the allowed list and remove or block it.
 
@@ -48,7 +46,7 @@ Another way to do this is to visit the site in question, click the lock icon or 
 
 It is worth checking which sites have notification permission from time to time. Over months and years, you might have accidentally allowed dozens of sites without realizing it, and each one could be sending you alerts you do not care about. A quick review of your notification settings every few months can keep this from becoming overwhelming.
 
-## What to Do If Notifications Still Appear
+What to Do If Notifications Still Appear
 
 In rare cases, you might find that blocking a site in Chrome settings does not stop the notifications entirely. This can happen if the site is using a different method to reach you, such as email notifications or push notifications through a separate app. Make sure you are addressing the right channel for the alerts you are receiving.
 
@@ -56,13 +54,13 @@ If you are still seeing notifications after blocking a site in Chrome, try clear
 
 You should also check if you have any extensions installed that might be related to the site in question. Some extensions can send their own notifications or act as intermediaries for website alerts. Going through your installed extensions and removing any that you no longer use can help reduce unexpected notifications.
 
-## A Tool That Helps with Browser Management
+A Tool That Helps with Browser Management
 
 If you find yourself frequently adjusting settings like these to keep your browser running smoothly, there are tools available that can make the process easier. Tab Suspender Pro, for example, is an extension designed to help you manage active tabs and reduce browser clutter. While its main feature is automatically suspending tabs you are not using to save memory, it also gives you a clearer view of what is happening in your browser, making it easier to notice when sites are behaving in ways you did not intend.
 
 Having a tool like this can serve as a helpful reminder that your browser is actively running processes you may have forgotten about, including notification permissions you granted months or years ago.
 
-## Taking Control of Your Browsing Experience
+Taking Control of Your Browsing Experience
 
 Learning how to manage chrome notifications for one site is one of those small skills that makes a big difference in your day-to-day browsing. Rather than letting websites dictate when and how they communicate with you, you get to decide what is important. The methods I have described here are quick to implement, reversible if you change your mind, and do not require any special technical knowledge.
 
@@ -70,9 +68,9 @@ Taking a few minutes to review your notification permissions now can save you fr
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Telemetry What Data Google Collects](/articles/chrome-telemetry-what-data-google-collects/)
 * [Chrome Which Tab Is Using Most CPU How to Find](/articles/chrome-which-tab-is-using-most-cpu-how-to-find/)
 * [Best Chrome Extensions for Nurses](/articles/best-chrome-extensions-for-nurses/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

@@ -10,7 +10,7 @@ permalink: chrome-webauthn-explained-for-regular-users
 
 Chrome webauthn explained for regular users is something that more people are coming across as websites introduce easier and safer ways to log in. If you have seen WebAuthn mentioned in Chrome settings or on websites but are not sure what it means, this guide will help you understand it in plain language.
 
-## What WebAuthn Actually Is
+What WebAuthn Actually Is
 
 WebAuthn, which stands for Web Authentication, is a technology that Chrome and other browsers use to let you log into websites using more secure methods than just passwords. It is a standard created by the World Wide Web Consortium, which is basically a group that sets rules for how websites should work. Chrome supports this standard, which means you can use it on many different websites without needing to install anything extra.
 
@@ -18,7 +18,7 @@ Think of WebAuthn as a bridge between your browser and the security features alr
 
 The nice thing about WebAuthn is that it works with methods you probably already use every day. If you unlock your phone with your fingerprint or face, or if you use a PIN to log into your computer, those same methods can be used to log into websites through Chrome. It makes the whole process feel familiar while adding extra security.
 
-## How Chrome Uses WebAuthn
+How Chrome Uses WebAuthn
 
 When you visit a website that supports WebAuthn, Chrome will sometimes ask if you want to set up a more secure way to log in. This might happen when you are creating a new account or changing your password. The browser will guide you through connecting your device verification method to your website account.
 
@@ -26,7 +26,7 @@ Once set up, the next time you log in, the website will send a request to Chrome
 
 This is different from typing a password because nothing secret gets transmitted over the internet. With passwords, you are sending something that could be intercepted. With WebAuthn, your device proves it has the right credentials without ever sending those credentials anywhere. That makes it much harder for anyone to steal your login information.
 
-## Why This Matters for Your Security
+Why This Matters for Your Security
 
 The main reason WebAuthn is becoming more common is that passwords have some fundamental weaknesses. People often reuse passwords on multiple sites, which means if one site gets hacked, attackers can try those same passwords elsewhere. People also tend to choose passwords that are easy to remember, which also makes them easier to guess.
 
@@ -34,7 +34,7 @@ WebAuthn solves these problems in a few important ways. First, there is no passw
 
 Another big advantage is protection against fake websites. If someone tries to trick you into logging into a fake version of a website you use, WebAuthn will not work on the fake site. This is because each credential is tied to a specific website address. Your device can tell the difference between the real site and an imposter, and it will refuse to verify your identity on the fake one.
 
-## What You Need to Use WebAuthn
+What You Need to Use WebAuthn
 
 The good news is that you probably already have everything you need to use WebAuthn in Chrome. Most modern phones have fingerprint sensors or facial recognition that can be used. Many laptops have fingerprint readers or cameras that support facial recognition. If your device has any of these features, you can use them to log in through WebAuthn.
 
@@ -42,7 +42,7 @@ For the best experience, make sure you are signed into Chrome with your Google a
 
 If you want to try WebAuthn on multiple devices, keep in mind that each device needs its own way to verify it is really you. Your phone needs fingerprint or face unlock, your laptop needs its own verification method, and so on. This might seem like extra work, but it is what makes WebAuthn so secure.
 
-## Common Questions About WebAuthn
+Common Questions About WebAuthn
 
 One question people often ask is what happens if they lose their device. The answer depends on how you set things up. If you use a phone as your main verification device, you should make sure your account recovery options are set up properly. Many services let you add backup methods, like receiving a code on another device or using a recovery email. It is worth spending a few minutes checking these settings when you first enable WebAuthn.
 
@@ -50,7 +50,7 @@ Another common concern is whether WebAuthn works everywhere. The answer is that 
 
 Some people also wonder about privacy. The good news is that WebAuthn is designed to protect your privacy. The website never sees your fingerprint or face. Your device simply tells the website whether verification succeeded, without sharing any biometric data. This means your personal biometric information stays on your device where it belongs.
 
-## Getting Started With WebAuthn
+Getting Started With WebAuthn
 
 If you want to try WebAuthn, start by looking for it on websites you already use. When you next change a password or create a new account, see if there is an option to use a passkey or enable WebAuthn. Chrome will usually highlight these options when they are available.
 
@@ -64,7 +64,7 @@ WebAuthn represents an important step forward in how we log into websites. It ma
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Making Your Laptop Fan Loud? Here's How to Fix It](/articles/chrome-making-laptop-fan-loud/)
 * [Chrome for Social Media Management Extensions](/articles/chrome-for-social-media-management-extensions/)
 * [chrome file handling api explained](/articles/chrome-file-handling-api-explained/)

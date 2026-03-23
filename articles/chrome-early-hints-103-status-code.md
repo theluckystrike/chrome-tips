@@ -13,7 +13,7 @@ permalink: chrome-early-hints-103-status-code
 
 If you have ever waited for a website to load and wondered why it takes so long, the answer often lies in how the browser receives information from the server. The Chrome early hints 103 status code is a powerful tool that can dramatically reduce wait times by allowing browsers to start preparing page resources before the full response arrives. This guide explains what Early Hints are, how they work, and why they matter for your browsing experience.
 
-## What Is the 103 Status Code?
+What Is the 103 Status Code?
 
 HTTP status codes are messages that servers send to browsers to indicate what happened when requesting a web page. Most people are familiar with common codes like 200 (success), 404 (not found), or 500 (server error). The 103 status code is different because it is designed to be sent *before* the final response, giving the browser a head start on loading page resources.
 
@@ -21,7 +21,7 @@ The HTTP 103 status code is called "Early Hints." It was formalized in RFC 8297 
 
 This approach represents a fundamental shift in how web pages load. Traditionally, the browser would request a page, wait for the entire HTML document to arrive, parse it, and only then discover what other resources were needed. With early hints, the server can proactively tell the browser about those resources ahead of time.
 
-## How Chrome Early Hints Work
+How Chrome Early Hints Work
 
 When you visit a website that supports early hints, the server sends a 103 status code immediately after receiving the initial request, but before sending the complete HTML response. This early response includes headers that hint at the resources the page will need.
 
@@ -37,7 +37,7 @@ When Chrome receives this early hint, it immediately starts downloading the styl
 
 The real power of early hints comes from eliminating the round-trip delay that normally occurs between discovering a resource and requesting it. In a typical page load without early hints, the browser parses HTML, finds a reference to a stylesheet, then requests it, then waits for the response. With early hints, that request happens much earlier in the timeline.
 
-## Why Page Load Speed Matters
+Why Page Load Speed Matters
 
 Page load speed is critical for several reasons. First, user expectations have increased dramatically. Studies show that most users abandon a site if it takes more than three seconds to load. Every second of delay can lead to lost visitors, reduced engagement, and ultimately lost revenue for businesses.
 
@@ -47,7 +47,7 @@ Third, slow pages affect mobile users disproportionately. Many mobile users rely
 
 Finally, the perception of speed matters as much as actual speed. When pages load progressively and content appears quickly, users perceive the site as more responsive and professional, even if the total load time is similar to a slower-loading competitor.
 
-## Benefits for Chrome Users
+Benefits for Chrome Users
 
 Chrome early hints 103 status code implementation provides several tangible benefits for users. The most obvious is faster page loading. By starting resource downloads earlier in the page lifecycle, early hints can reduce the total time before a page becomes fully interactive.
 
@@ -55,9 +55,9 @@ Early hints also improve the efficiency of connection reuse. When a server sends
 
 Another benefit is better prioritization. Servers are in the best position to know which resources are most important for a given page. By using early hints to communicate this priority information, servers can help Chrome make smarter decisions about what to load first.
 
-For users who browse with many tabs open, these optimizations become even more valuable. Tools like **Tab Suspender Pro** can help manage memory usage by suspending inactive tabs, complementing the performance benefits that early hints provide for the active tab you are viewing.
+For users who browse with many tabs open, these optimizations become even more valuable. Tools like Tab Suspender Pro can help manage memory usage by suspending inactive tabs, complementing the performance benefits that early hints provide for the active tab you are viewing.
 
-## How Websites Can Implement Early Hints
+How Websites Can Implement Early Hints
 
 Implementing early hints requires changes on the server side. The server needs to be configured to send 103 responses before the final 200 OK response. This is typically done at the web server or CDN level.
 
@@ -67,7 +67,7 @@ Content Delivery Networks like Cloudflare and Fastly have added support for earl
 
 The key to effective early hints is identifying which resources are critical for initial page rendering. Servers should prioritize sending hints for stylesheets, critical JavaScript files, and any fonts or images that appear above the fold. Sending too many hints can actually slow things down by overwhelming the browser with requests.
 
-## Browser Support and Compatibility
+Browser Support and Compatibility
 
 Chrome was one of the first browsers to implement early hints, and the feature has been available since Chrome 103 (coincidentally the same number as the status code). Other Chromium-based browsers like Edge and Opera also support early hints.
 
@@ -75,7 +75,7 @@ Firefox added support for early hints in version 114, meaning that the majority 
 
 For servers, early hints are backward compatible. Servers can send 103 responses, and browsers that do not understand them will simply ignore the early hints and wait for the final response. This means there is no risk in enabling early hints, only potential benefits.
 
-## The Future of Early Hints
+The Future of Early Hints
 
 Early hints represent a broader trend toward more efficient web communication. As web pages continue to grow in complexity, optimizations like this become increasingly important. The HTTP Working Group continues to explore additional uses for early hints, including hints for preconnecting to origins and predicting user navigation.
 
@@ -83,14 +83,14 @@ We can expect to see more websites adopt early hints as CDN support improves and
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use/)
 * [Chrome Hardware Acceleration Gaming: Complete Optimization Guide](/articles/chrome-hardware-acceleration-gaming/)
 * [Chrome Source Maps Configuration Guide](/articles/chrome-source-maps-guide/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Print to PDF Without Margins](/articles/chrome-print-to-pdf-without-margins)
 - [Chrome for eBay Selling Best Extensions](/articles/chrome-for-ebay-selling-best-extensions)

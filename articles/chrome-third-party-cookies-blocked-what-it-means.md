@@ -10,13 +10,13 @@ permalink: chrome-third-party-cookies-blocked-what-it-means
 
 If you have noticed a message about chrome third party cookies blocked what it means, you are probably seeing a notification from Google Chrome telling you that certain cookies have been blocked. This is actually a privacy feature that Chrome has been rolling out gradually, and it can affect how some websites work. Let me explain what is happening and what you can do about it.
 
-## What Are Third-Party Cookies
+What Are Third-Party Cookies
 
 To understand what is happening, you first need to know what third-party cookies are. Cookies are small pieces of data that websites store on your browser to remember information about you. First-party cookies come from the website you are currently visiting. They help the site remember your login status, your preferences, and items in your shopping cart.
 
 Third-party cookies are different. They come from other companies, usually advertisers or tracking services, that are embedded on the website you are visiting. These cookies follow you around the web to build a profile of your interests. If you look at a pair of shoes on one site, you might suddenly see ads for those same shoes on completely different websites you visit later. That is third-party cookies at work.
 
-## Why Chrome Is Blocking Them
+Why Chrome Is Blocking Them
 
 Google Chrome has been phasing out support for third-party cookies because of privacy concerns. For years, these cookies allowed companies to track your browsing behavior across many different websites without your clear knowledge or consent. Privacy advocates and regulators around the world have pushed back against this practice.
 
@@ -24,7 +24,7 @@ The solution Chrome developed is called the Privacy Sandbox. Instead of letting 
 
 This change has been rolling out gradually. If you see a message about cookies being blocked, it means Chrome has enabled this protection for your browsing.
 
-## What Changes You Might Notice
+What Changes You Might Notice
 
 When third-party cookies are blocked, some websites might not work exactly as they used to. Here are a few things you might experience.
 
@@ -36,7 +36,7 @@ Ads on websites will change. Instead of showing you ads based on your browsing h
 
 Some shopping features may not work. If a site uses third-party services to track prices, show personalized recommendations, or manage shopping carts across visits, those features might be affected.
 
-## How to Adjust Your Cookie Settings
+How to Adjust Your Cookie Settings
 
 If you want more control over what Chrome blocks, you can adjust your settings. Here is how to do it.
 
@@ -46,7 +46,7 @@ You will see several options. You might see a message that third-party cookies a
 
 If you are having trouble with a specific website, you can also manage cookies on a site-by-site basis. In the same Third-party cookies settings, look for an option to see all sites and their cookie permissions. Find the site that is not working and adjust its settings.
 
-## How to Allow Third-Party Cookies for Specific Sites
+How to Allow Third-Party Cookies for Specific Sites
 
 If a website you need is not working properly, you can allow third-party cookies just for that site. Here is what to do.
 
@@ -56,15 +56,15 @@ A dropdown will appear showing information about the site. Look for an option ab
 
 Once you do this, the site should work normally while your other browsing stays protected.
 
-## What About Other Browsers
+What About Other Browsers
 
 Chrome is not the only browser making this change. Safari and Firefox have also implemented similar protections. Safari blocks third-party cookies by default, and Firefox has enhanced tracking protection that limits these cookies. If you switch browsers, you might encounter similar messages or have to adjust similar settings.
 
-## A Tool That Can Help Manage Your Tabs
+A Tool That Can Help Manage Your Tabs
 
 While we are on the topic of browser improvements, if you find yourself with many tabs open, you might want to try Tab Suspender Pro. This extension can help manage your open tabs by suspending ones you are not using, which can speed up your browser and reduce memory usage. It works well alongside Chrome is privacy features to give you a smoother browsing experience. You can find it in the Chrome Web Store if you are interested.
 
-## Why This Change Matters
+Why This Change Matters
 
 The move away from third-party cookies represents one of the biggest changes to how the web works in years. For a long time, invisible trackers followed us everywhere, collecting information about our interests, habits, and personal lives. Most people did not realize how much data was being gathered.
 
@@ -74,14 +74,14 @@ You do not need to do anything if you are comfortable with the changes. Chrome i
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome for Android Tablet Optimization](/articles/chrome-for-android-tablet-optimization/)
 * [Chrome Notification API Guide](/articles/chrome-notification-api-guide/)
 * [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [How to Limit Screen Time in Chrome with Extensions](/articles/chrome-limit-screen-time-with-extension)
 - [Chrome for Stadia Alternatives 2026](/articles/chrome-for-stadia-alternatives-2026)

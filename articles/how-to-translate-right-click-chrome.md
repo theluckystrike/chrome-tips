@@ -46,7 +46,7 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Read the translation that appears in a popup window
 > 5. Click outside the popup to close it and continue browsing
 
-## Enable Chrome's Built-in Translation Feature
+Enable Chrome's Built-in Translation Feature
 
 Before you can translate text with a right-click, you need to make sure Chrome's translation settings are properly configured. Chrome includes Google Translate functionality by default, but the right-click option might be disabled depending on your settings or region.
 
@@ -54,11 +54,11 @@ Open Chrome and navigate to Settings by clicking the three dots in the top-right
 
 Scroll down to the "Advanced" section and click "Languages" to expand the language options. Look for the "Google Translate" section within this menu. Make sure the toggle next to "Offer to translate pages that aren't in a language you read" is turned on. This enables the translation infrastructure that powers the right-click feature.
 
-If you don't see the Google Translate option, your Chrome installation might be missing this component. Try updating Chrome to the latest version through **Help > About Google Chrome** to ensure you have all translation features available. Some enterprise or educational Chrome installations have translation features disabled by administrators.
+If you don't see the Google Translate option, your Chrome installation might be missing this component. Try updating Chrome to the latest version through Help > About Google Chrome to ensure you have all translation features available. Some enterprise or educational Chrome installations have translation features disabled by administrators.
 
 The translation feature downloads language models locally the first time you use them, which means your first translation for each language pair might take a few extra seconds to process.
 
-### Select Text for Translation
+Select Text for Translation
 
 The right-click translation feature only works on selected text, not entire pages or individual clicks. Position your cursor at the beginning of the text you want to translate, then click and drag to highlight the specific words or sentences you need to understand.
 
@@ -68,7 +68,7 @@ The selection doesn't need to be perfect. If you accidentally include extra spac
 
 Chrome works best when you select text that provides sufficient context for accurate translation. Single words might not translate correctly without surrounding context, especially for languages with complex grammar structures or words with multiple meanings.
 
-### Access the Translation Menu
+Access the Translation Menu
 
 Right-click anywhere on your selected text to open Chrome's context menu. The exact location of your right-click doesn't matter as long as it's somewhere within the highlighted area. The translation option appears near the top of the context menu for easy access.
 
@@ -80,7 +80,7 @@ If you don't see the translation option, the text might be in a language Chrome 
 
 > "The Translator API allows you to translate text with AI models provided in the browser. The model is downloaded the first time a website uses this API." ,  [Translation with built-in AI - Chrome Translator API](https://developer.chrome.com/docs/ai/translator-api)
 
-### Read Your Translation Results
+Read Your Translation Results
 
 Click the translation option to trigger the translation process. Chrome sends your selected text to Google Translate's servers and returns the results in a small popup window that appears near your cursor location. The popup positioning adapts to your screen edges to ensure it remains visible.
 
@@ -90,9 +90,9 @@ For single words, the popup often includes additional context like part of speec
 
 The translation popup remains open until you click outside it or press the Escape key. You can copy text directly from the popup by selecting it and using Ctrl+C (or Cmd+C on Mac). This makes it easy to paste translations into documents or notes for future reference.
 
-## Common Translation Mistakes
+Common Translation Mistakes
 
-### Selecting Text That Chrome Can't Detect
+Selecting Text That Chrome Can't Detect
 
 Chrome's language detection works well for standard text, but it struggles with very short selections, mixed languages, or text that contains mostly numbers and symbols. If you select just one or two words, especially proper nouns or technical terms, Chrome might not recognize the language correctly or may skip translation entirely.
 
@@ -100,7 +100,7 @@ Instead of selecting individual words, try selecting complete sentences or phras
 
 Technical jargon, brand names, and abbreviations often don't translate well because they lack sufficient context. If you're trying to translate specialized terminology, consider including surrounding explanatory text in your selection.
 
-### Trying to Translate Images or Non-Text Elements
+Trying to Translate Images or Non-Text Elements
 
 The right-click translation feature only works on actual text content that you can select with your cursor. It won't translate text that appears in images, videos, PDFs embedded in web pages, or other media elements, even if that text is clearly visible and readable on the page.
 
@@ -108,7 +108,7 @@ For image text, you'll need to use Chrome's full-page translation feature by cli
 
 Some websites display important information in images to prevent easy copying or translation. In these cases, you might need to manually type out the text into a translation service or use browser extensions designed specifically for image text recognition.
 
-### Forgetting to Enable Translation Permissions
+Forgetting to Enable Translation Permissions
 
 Some websites block translation features for security, content protection, or licensing reasons. Financial sites, legal documents, and subscription content platforms often disable translation to prevent misinterpretation of critical information. If the translation option doesn't appear on certain sites, the website might be preventing Chrome from accessing translation services.
 
@@ -116,19 +116,19 @@ Try the same text selection on a different website to confirm that your translat
 
 Additionally, some corporate networks or parental control software blocks access to Google Translate services, which would prevent the right-click translation feature from functioning even with proper Chrome settings.
 
-### Working with Dynamic or Embedded Content
+Working with Dynamic or Embedded Content
 
 Complex websites sometimes display content in frames, pop-ups, or embedded elements that don't fully integrate with Chrome's translation features. Social media embeds, comment systems, live chat widgets, and certain types of dynamic content might not show translation options even when the text appears selectable.
 
 For these situations, try copying the text and pasting it into a simple text editor or Google Translate directly as a workaround. You can also try refreshing the page or disabling browser extensions that might interfere with Chrome's built-in functionality.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
 The manual right-click method works reliably for occasional translations, but it becomes tedious when you're reading content in foreign languages regularly. Each translation requires multiple clicks and interrupts your reading flow, especially when working with longer documents or research materials.
 
-**BeLikeNative** offers a more streamlined approach to translation that eliminates the manual selection and right-clicking process. This AI-powered writing assistant provides instant translation capabilities with a **4.6/5 rating** and supports the same 100+ languages as Chrome's built-in translator, plus additional features like context-aware translations and writing assistance.
+BeLikeNative offers a more streamlined approach to translation that eliminates the manual selection and right-clicking process. This AI-powered writing assistant provides instant translation capabilities with a 4.6/5 rating and supports the same 100+ languages as Chrome's built-in translator, plus additional features like context-aware translations and writing assistance.
 
-The extension integrates directly with your browsing experience, allowing you to translate text with keyboard shortcuts or hover actions instead of the multi-step right-click process. **[Try BeLikeNative Free](https://zovo.one)**
+The extension integrates directly with your browsing experience, allowing you to translate text with keyboard shortcuts or hover actions instead of the multi-step right-click process. [Try BeLikeNative Free](https://zovo.one)
 
 Chrome's built-in translation feature provides a solid foundation for understanding foreign text without requiring additional software installation. The right-click method offers privacy benefits since translations happen through Google's established infrastructure rather than third-party services.
 

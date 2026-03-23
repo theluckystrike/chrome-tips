@@ -11,9 +11,9 @@ permalink: chrome-disable-javascript-for-testing
 
 # Chrome Disable JavaScript for Testing
 
-If you are searching for chrome disable javascript for testing, you likely need to turn off JavaScript in your browser to check how a website behaves without scripts running. This is a common need for web developers, testers, and even regular users who want to troubleshoot website issues or improve their browsing experience. In this guide, I will walk you through several ways to disable JavaScript in Chrome, explain why you might want to do this, and show you how to turn it back on when you are done.
+If you are searching for chrome disable javascript for testing, you likely need to turn off JavaScript in your browser to check how a website behaves without scripts running. This is a common need for web developers, testers, and even regular users who want to troubleshoot website issues or improve their browsing experience. I will walk you through several ways to disable JavaScript in Chrome, explain why you might want to do this, and show you how to turn it back on when you are done.
 
-## Why Disable JavaScript for Testing
+Why Disable JavaScript for Testing
 
 JavaScript is the engine that makes most modern websites interactive. It powers features like dropdown menus, form submissions, live chat widgets, video players, and dynamic content that loads as you scroll. While JavaScript makes the web more dynamic and functional, there are several reasons you might want to disable it during testing.
 
@@ -23,7 +23,7 @@ Sometimes websites behave unexpectedly, and you need to figure out whether a pro
 
 Web developers frequently disable JavaScript to check how their sites function for users who have scripts turned off. This practice, known as progressive enhancement, ensures that a website remains usable even when JavaScript fails to load or is deliberately disabled.
 
-## How to Disable JavaScript Using Chrome Settings
+How to Disable JavaScript Using Chrome Settings
 
 Chrome does not have a simple on/off switch for JavaScript in its main settings, but you can control it through the site-specific permissions. Here is the step-by-step process to disable JavaScript across all websites or for specific ones.
 
@@ -35,7 +35,7 @@ By default, JavaScript is allowed on all websites. You can change this behavior 
 
 To add a specific site, click Add next to Blocked and type the website address. For example, if you want to disable JavaScript on example.com, type `https://example.com/*` or just `example.com` and click Add. Now when you visit that site, JavaScript will be blocked automatically.
 
-## A Quick Way to Toggle JavaScript from the Address Bar
+A Quick Way to Toggle JavaScript from the Address Bar
 
 If you need to disable JavaScript temporarily on a specific site and do not want to go through the settings menu, there is a faster method that works right from the address bar.
 
@@ -45,7 +45,7 @@ In this menu, you will see a list of permissions for the current site, including
 
 This method is convenient for quick testing, but keep in mind that Chrome may reset this permission if you clear your browsing data or reset your browser settings. It works well for temporary checks but is not ideal if you need a permanent change.
 
-## Using Developer Tools to Disable JavaScript
+Using Developer Tools to Disable JavaScript
 
 Chrome Developer Tools offers another way to disable JavaScript that is particularly useful when you are debugging or testing specific features. This method is more granular and applies only while the Developer Tools panel is open.
 
@@ -55,7 +55,7 @@ In the Rendering settings that appear, look for an option called Disable JavaScr
 
 This approach is excellent for testing because it gives you instant feedback. You can enable and disable JavaScript with a single click without leaving the page or changing any settings. When you close Developer Tools, JavaScript will be re-enabled automatically.
 
-## Managing JavaScript with Browser Extensions
+Managing JavaScript with Browser Extensions
 
 If you find yourself frequently needing to toggle JavaScript on and off, using a browser extension can save you a lot of time. Extensions add a button to your toolbar that lets you disable JavaScript for the current site with a single click.
 
@@ -63,7 +63,7 @@ One option you might consider is Tab Suspender Pro, which helps manage your tabs
 
 Other extensions like Simple JavaScript Toggle or JavaScript Switcher provide similar functionality, adding a toggle button to your browser toolbar. With these extensions, you can disable JavaScript for the site you are currently viewing and enable it again just as easily. This is much faster than navigating through Chrome settings every time you need to test something.
 
-## When to Re-enable JavaScript
+When to Re-enable JavaScript
 
 After you finish testing, you will need to turn JavaScript back on to restore the full functionality of websites. The method depends on how you disabled it in the first place.
 
@@ -75,7 +75,7 @@ Remember that most websites require JavaScript to function properly. While disab
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Reader Mode on Phone: How to Enable](/articles/chrome-reader-mode-on-phone-how-to-enable/)
 * [How to Fix Chrome Hijacked Homepage (Complete Guide)](/articles/chrome-hijacked-homepage-fix-guide/)
 * [Chrome Critical Rendering Path Explained](/articles/chrome-critical-rendering-path-explained/)

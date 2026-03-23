@@ -21,9 +21,9 @@ last_modified_at: '2026-03-12'
 
 # Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM
 
-If you have ever experienced **Chrome slow when screen sharing Zoom**, you know how frustrating it can be. Your meeting freezes, your screen looks choppy, and your colleagues cannot see what you are presenting. This is a common problem, especially for users with older computers or limited RAM. The good news is there are practical steps you can take to fix this without buying a new computer.
+If you have ever experienced Chrome slow when screen sharing Zoom, you know how frustrating it can be. Your meeting freezes, your screen looks choppy, and your colleagues cannot see what you are presenting. This is a common problem, especially for users with older computers or limited RAM. The good news is there are practical steps you can take to fix this without buying a new computer.
 
-## Why Does Chrome Slow Down During Zoom Screen Sharing?
+Why Does Chrome Slow Down During Zoom Screen Sharing?
 
 Before we get to the solutions, it helps to understand why this happens. When you share your screen in Zoom, your computer has to do two intensive tasks at once. First, it must capture and encode everything shown on your screen. Second, it must keep Chrome running with all your open tabs, extensions, and websites active.
 
@@ -31,15 +31,15 @@ This double workload quickly uses up your available RAM. Chrome is already one o
 
 If you have a computer with 4GB or 8GB of RAM, this problem is even more noticeable. The good news is you do not need a powerful machine to have smooth screen sharing. You just need to reduce the memory burden on your computer before and during your Zoom call.
 
-## Step-by-Step Solutions to Fix Chrome Slow During Screen Sharing
+Step-by-Step Solutions to Fix Chrome Slow During Screen Sharing
 
-### Step 1: Close Unnecessary Tabs in Chrome
+Step 1: Close Unnecessary Tabs in Chrome
 
 The easiest and most effective fix is to close tabs you do not need. Every open tab uses memory, even if you are not looking at it. Before your Zoom meeting, go through your browser and close any tabs that are not essential.
 
 A good habit is to keep only the tab you need for your presentation open. If you need to reference other pages, keep them bookmarked and open them only when necessary. This simple step can free up hundreds of megabytes of RAM, which makes a big difference during screen sharing.
 
-### Step 2: Enable Chrome Memory Saver Mode
+Step 2: Enable Chrome Memory Saver Mode
 
 Chrome has a built-in feature called Memory Saver that helps with exactly this problem. When enabled, Chrome automatically unloads tabs you have not used recently, freeing up RAM for other tasks. This is particularly useful when you need that extra memory for screen sharing.
 
@@ -47,7 +47,7 @@ To enable Memory Saver, open Chrome and click the three dots in the top right co
 
 This feature alone can reduce Chrome's memory usage by 30% or more, which is significant when you are preparing for a Zoom call.
 
-### Step 3: Use Tab Suspender Pro Extension
+Step 3: Use Tab Suspender Pro Extension
 
 For even better memory management, consider using Tab Suspender Pro. This extension automatically suspends tabs that you are not actively viewing, saving even more memory than Chrome's built-in Memory Saver. Tab Suspender Pro is especially useful if you often keep many tabs open for reference.
 
@@ -55,7 +55,7 @@ When a tab is suspended, it stops using CPU and RAM until you click on it again.
 
 To use Tab Suspender Pro, search for it in the Chrome Web Store and add it to your browser. The extension works automatically, so you do not need to configure anything. Once installed, it will start saving memory right away.
 
-### Step 4: Disable Unnecessary Chrome Extensions
+Step 4: Disable Unnecessary Chrome Extensions
 
 Extensions are useful, but they also use memory. Before your Zoom meeting, take a moment to disable any extensions you do not need. Open Chrome and go to chrome://extensions to see all your installed extensions.
 
@@ -63,7 +63,7 @@ Turn off any extensions that are not essential for your current work. This inclu
 
 If you use certain extensions frequently, consider keeping them but only enabling them when needed. This way, you get the functionality you need without the constant memory drain.
 
-### Step 5: Close Other Applications
+Step 5: Close Other Applications
 
 Your Zoom call competes with every other application running on your computer. Before your meeting, close applications you do not need. This includes music players, chat apps, backup programs, and any other software running in the background.
 
@@ -71,19 +71,19 @@ On Windows, you can see what is running by pressing Ctrl+Shift+Esc to open Task 
 
 This simple step alone can free up significant RAM and CPU, making your screen sharing much smoother.
 
-### Step 6: Restart Chrome Before Your Meeting
+Step 6: Restart Chrome Before Your Meeting
 
 If you have been using Chrome for hours or days without closing it, the browser may have accumulated memory leaks and fragmented memory. Simply restarting Chrome before your meeting can make a big difference.
 
 Close Chrome completely and reopen it just before your Zoom call. This clears out any unnecessary data and gives you a fresh start. Combined with the other steps above, this can dramatically improve your screen sharing performance.
 
-### Step 7: Lower Zoom Video Quality
+Step 7: Lower Zoom Video Quality
 
 If you have tried all the steps above and still experience lag, consider lowering Zoom's video quality. During screen sharing, you do not need high-definition video if you are primarily sharing your screen.
 
 In Zoom, go to Settings, then Video, and choose a lower resolution. You can also go to Screen Sharing settings and reduce the frame rate if available. This reduces the computational load on your computer and makes sharing smoother.
 
-## Quick Checklist Before Your Next Zoom Meeting
+Quick Checklist Before Your Next Zoom Meeting
 
 Before you join your next meeting, run through this quick checklist:
 
@@ -100,14 +100,14 @@ Remember, the key is to reduce the memory burden on your computer before the mee
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation/)
 * [Chrome Extensions For Color Palette Generator](/articles//articles/chrome-extensions-for-color-palette-generator//)
 * [Chrome Strict Site Isolation: Should I Enable](/articles/chrome-strict-site-isolation-should-i-enable/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome OS vs Windows for Basic Use](/articles/chrome-os-vs-windows-for-basic-use)
 - [Chrome Extensions for Speed Reading](/articles/chrome-extensions-for-speed-reading)

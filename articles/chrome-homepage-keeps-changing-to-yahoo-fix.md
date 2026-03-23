@@ -14,7 +14,7 @@ author: theluckystrike
 
 It is annoying when your Chrome homepage keeps changing to Yahoo despite your best efforts to set a different page. You keep changing it back to your preferred site, but somehow Yahoo keeps reappearing every time you restart your browser. This is a problem that many Chrome users deal with, and it usually happens because of browser extensions, unwanted software, or settings that get modified behind your back.
 
-## Why This Keeps Happening
+Why This Keeps Happening
 
 Understanding why your homepage keeps changing to Yahoo is the first step toward fixing it permanently. There are a few common reasons this happens, and knowing them will help you solve the problem more effectively.
 
@@ -24,7 +24,7 @@ Another reason could be bundled software on your computer. When you install cert
 
 Sometimes a leftover registry entry or browser configuration can cause this problem. Even after you remove an extension or program that changed your homepage, traces of it may remain in Chrome's settings or your computer's registry, causing the issue to persist.
 
-## How to Fix It
+How to Fix It
 
 Here are the steps you can take to stop your Chrome homepage from changing to Yahoo.
 
@@ -38,7 +38,7 @@ Fourth, reset Chrome to its default settings. Go to Settings, click "Reset setti
 
 Fifth, check your computer for unwanted software. Run a full scan with your antivirus software to make sure nothing unwanted is running on your system. Sometimes programs that you accidentally installed along with other software can modify browser settings. If your antivirus finds anything suspicious, remove it and then check if your homepage problem is resolved.
 
-## Preventing This From Happening Again
+Preventing This From Happening Again
 
 Once you have fixed your homepage, there are steps you can take to prevent it from changing again in the future.
 
@@ -48,7 +48,7 @@ Pay attention during software installations. When you install new programs on yo
 
 Keep Chrome updated. Updates often include security fixes that prevent malicious software from changing your settings. Go to Settings, then Help, then About Google Chrome to make sure you are running the latest version.
 
-## Additional Tools That Can Help
+Additional Tools That Can Help
 
 If you want extra protection against unwanted homepage changes, consider using an extension like Tab Suspender Pro. This tool helps you manage your tabs and can add an extra layer of control over your browser settings. It is designed to give you more visibility into what your extensions and tabs are doing, which can help you spot any unwanted changes before they become a problem.
 
@@ -58,9 +58,9 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [chrome extensions for screen recording free](/articles/chrome-extensions-for-screen-recording-free/)
-* [Chrome vs Firefox on an Old Laptop — Which Is Better?](/articles/chrome-vs-firefox-on-old-laptop/)
+* [Chrome vs Firefox on an Old Laptop. Which Is Better?](/articles/chrome-vs-firefox-on-old-laptop/)
 * [Chrome Location Tracking How to Disable](/articles/chrome-location-tracking-how-to-disable/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

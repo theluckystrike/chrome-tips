@@ -22,7 +22,7 @@ Finding the chrome best settings for college students can feel like searching fo
 
 College students face unique browser challenges. You probably switch between dozens of tabs for different courses, rely on campus WiFi that might be spotty in dorms, and need your laptop to last through long library sessions without an outlet nearby. Chrome comes with settings designed to address exactly these problems, but most people never touch them.
 
-## Enable Memory Saver to Handle Multiple Courses
+Enable Memory Saver to Handle Multiple Courses
 
 Go to Settings, then Performance, and turn on Memory Saver. This is one of the most important changes you can make as a student.
 
@@ -30,7 +30,7 @@ When you have Research paper open in one tab, your lecture slides in another, Yo
 
 The result is a browser that does not slow down no matter how many course tabs you have open. Add only your most essential sites to the exceptions list. These might include your email, your learning management system like Canvas or Blackboard, or a music streaming service you use while studying. Keep the list short, ideally three or four sites maximum.
 
-## Set Up Tab Groups for Each Course
+Set Up Tab Groups for Each Course
 
 Organize your tabs by course using Chrome built-in tab groups. Right-click on any tab and select Add to Group, then create a new group for each class.
 
@@ -38,7 +38,7 @@ This simple organizational habit solves several problems at once. You can collap
 
 Tab groups sync across your devices through your Google account, so if you switch from your laptop to a library computer, your organization system comes with you.
 
-## Activate Energy Saver for Long Library Sessions
+Activate Energy Saver for Long Library Sessions
 
 Head to Settings, then Performance, and enable Energy Saver. Set it to activate when your laptop is unplugged.
 
@@ -46,7 +46,7 @@ This setting reduces background activity and disables some visual effects when y
 
 The trade-off is minimal. You might notice slightly less smooth scrolling or fewer animations, but your computer will last much longer between charges. In a library where outlets are scarce, this matters.
 
-## Adjust Preloading to Work with Spotty WiFi
+Adjust Preloading to Work with Spotty WiFi
 
 Navigate to Settings, then Performance, and set preloading to Standard rather than Extended. If your campus WiFi is particularly unreliable, you can turn it off completely.
 
@@ -54,7 +54,7 @@ Standard preloading makes some educated guesses about which pages you will visit
 
 If you are on a metered dorm internet plan or using limited mobile hotspot data, turning off preloading entirely saves data for the moments you actually need it.
 
-## Use Focus Mode to Block Distractions
+Use Focus Mode to Block Distractions
 
 Chrome has a built-in Focus mode that hides your bookmarks bar and other distractions. Press F6 on your keyboard to toggle the address bar focus, which removes visual clutter from your view.
 
@@ -62,7 +62,7 @@ For deeper focus sessions, consider installing an extension like Tab Suspender P
 
 You can also set up Chrome to block distracting websites during study hours using the built-in Safe Search settings or a dedicated focus extension.
 
-## Manage Notifications to Stay in the Zone
+Manage Notifications to Stay in the Zone
 
 Go to Settings, then Privacy and Security, and click on Site Settings. Find Notifications and set it to not allow sites to send notifications unless you specifically grant permission.
 
@@ -70,7 +70,7 @@ Constant pop-ups from email, Slack, Discord, or course announcement sites break 
 
 You can always grant notification access temporarily when you are waiting for something important, then revoke it when you need to focus.
 
-## Sync Your Settings Across Devices
+Sync Your Settings Across Devices
 
 Sign into Chrome with your Google account to enable sync. This brings your bookmarks, history, extensions, and settings to every computer and phone you use.
 
@@ -78,7 +78,7 @@ As a student who might switch between your personal laptop, a library computer, 
 
 You can choose what data to sync in Settings, under Sync and Google Services. If you share devices with roommates or family, you might want to sync selectively.
 
-## Set a Simple Homepage
+Set a Simple Homepage
 
 Go to Settings, then Appearance, and set your homepage to open the New Tab page rather than a specific website. This gives you a clean slate every time you open Chrome instead of getting sucked into your most visited sites immediately.
 
@@ -86,7 +86,7 @@ Pin your most important course sites as bookmarks in your bookmarks bar instead.
 
 A clean start helps you begin each study session with intention rather than immediately falling into a scroll hole.
 
-## Use Reading List for Research Articles
+Use Reading List for Research Articles
 
 Right-click any page and select Add to Reading List instead of keeping it as an open tab. The Reading List feature stores articles for later reading without using memory while they sit waiting.
 
@@ -98,7 +98,7 @@ Making these adjustments takes about ten minutes but pays off every time you ope
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone/)
 * [Chrome for Dropshipping: Best Extensions](/articles/chrome-for-dropshipping-best-extensions/)
 * [How to Set Up Parental Controls on Your Chromebook](/articles/chromebook-parental-controls-setup/)

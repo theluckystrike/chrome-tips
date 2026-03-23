@@ -11,7 +11,7 @@ permalink: chrome-devtools-emulate-color-schemes
 
 Chrome devtools emulate color schemes is a powerful feature built into Google Chrome that lets you see how your website looks when users have different system color preferences. If you have ever wondered why some websites look different on your computer compared to your phone, or if you want to make sure your website works well for users who prefer dark mode or high contrast, this tool is exactly what you need. Let me explain how this feature works, why it matters, and how you can use it to improve your website.
 
-## Why Color Scheme Emulation Matters
+Why Color Scheme Emulation Matters
 
 When you visit a website, you might notice that it automatically switches between light and dark themes depending on your computer or phone settings. This happens because modern websites can detect what color scheme you prefer and adjust their appearance accordingly. It is a convenient feature that many users appreciate, especially when browsing at night or in bright sunlight.
 
@@ -19,7 +19,7 @@ However, this automatic adjustment can sometimes cause problems. A website that 
 
 The problem is that website developers often test their sites only in one color scheme, usually the one they prefer themselves. This means they might not notice issues that affect users who have different preferences. Fortunately, Chrome DevTools makes it easy to see exactly what your website looks like in each color scheme, so you can fix any problems before your users encounter them.
 
-## How to Access Color Scheme Emulation in Chrome DevTools
+How to Access Color Scheme Emulation in Chrome DevTools
 
 Using this feature is simple and does not require any special technical skills. Here is how to get started.
 
@@ -31,7 +31,7 @@ In the Rendering panel, scroll down until you find a section called Emulate CSS 
 
 When you select dark mode emulation, your website will immediately show its dark theme version if it has one. If your website does not have a dark theme, you might see strange color combinations where some elements are dark and others are light. This is a sign that your website might need work to handle color scheme changes properly.
 
-## What to Look For When Testing
+What to Look For When Testing
 
 Once you have the color scheme emulation turned on, take a close look at your website and check for several common problems.
 
@@ -43,7 +43,7 @@ Also, check your buttons and interactive elements. Make sure they are easy to id
 
 Finally, examine any charts, graphs, or data visualizations. These often rely heavily on color to convey information, and they can become confusing or unreadable when the color scheme changes. Consider adding patterns, labels, or other visual cues to make sure your data is clear in both modes.
 
-## Common Problems and How to Fix Them
+Common Problems and How to Fix Them
 
 When you start testing your website with color scheme emulation, you will probably find some issues. Here are the most common problems and how to solve them.
 
@@ -55,7 +55,7 @@ A third issue involves form inputs and other interface elements. These often hav
 
 Fourth, watch out for shadows and borders that look odd when the colors flip. What looks like a subtle shadow in light mode might look like a bright highlight in dark mode. Test these visual effects carefully in both modes.
 
-## Making Your Website Work for Everyone
+Making Your Website Work for Everyone
 
 Using Chrome DevTools color scheme emulation helps you create a better experience for all your users, regardless of their color preferences. By testing in both light and dark modes, you can catch problems early and fix them before they frustrate your visitors.
 
@@ -67,7 +67,7 @@ Remember, creating an inclusive web experience does not require complex technica
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome extensions for tab suspender auto](/articles/chrome-extensions-for-tab-suspender-auto/)
 * [Chrome Extension Publish to Web Store Guide](/articles/chrome-extension-publish-to-web-store-guide/)
 * [chrome lighthouse audit how to run](/articles/chrome-lighthouse-audit-how-to-run/)

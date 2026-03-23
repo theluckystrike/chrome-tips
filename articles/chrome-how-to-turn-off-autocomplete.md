@@ -14,7 +14,7 @@ author: theluckystrike
 
 If you're searching for how to turn off autocomplete in Chrome, you're probably tired of seeing suggestions pop up when you're trying to fill out forms or type in the address bar. Chrome's autocomplete feature is designed to save you time by remembering your past entries, but sometimes it gets in the way. Maybe you share your computer with others, you're concerned about privacy, or you just find the suggestions distracting. Whatever your reason, turning off autocomplete in Chrome is straightforward once you know where to look.
 
-## Why Chrome Autocomplete Can Be Problematic
+Why Chrome Autocomplete Can Be Problematic
 
 Chrome autocomplete works by saving everything you type into form fields and the address bar. This includes things like your home address, phone number, email, and even credit card information if you've ever saved it. While this can be convenient for personal use on a private computer, it creates several issues that might make you want to turn it off.
 
@@ -24,7 +24,7 @@ Another issue is that autocomplete can sometimes suggest incorrect information t
 
 Additionally, certain websites don't work well with autocomplete. Some form fields might behave strangely when Chrome tries to auto-fill information, or the suggestions might cover up parts of the page you're trying to see. Disabling autocomplete can help these websites function more smoothly.
 
-## Turning Off Address and Payment Autofill
+Turning Off Address and Payment Autofill
 
 The most common type of autocomplete that people want to disable is the autofill for addresses and payment information. Here's how to turn it off in Chrome.
 
@@ -36,15 +36,15 @@ To turn off address autofill, click on "Addresses and more." You'll see a toggle
 
 For payment information, go back to the Autofill section and click on "Payment methods." You'll find a similar toggle for "Save and fill payment methods." Turning this off prevents Chrome from storing and suggesting your credit card or other payment details.
 
-## Turning Off Password Autofill
+Turning Off Password Autofill
 
 Chrome can also autocomplete passwords, which is a feature many people appreciate but others prefer to disable. If you want to turn this off as well, here's what to do.
 
 In the same Autofill section of your settings, look for "Passwords." Click on it, and you'll see options for "Offer to save passwords" and "Auto Sign-in." Turning off "Offer to save passwords" means Chrome won't ask you if you want to save a password when you log into a website. Turning off "Auto Sign-in" means you'll need to manually enter your password each time, even if Chrome has saved it.
 
-It's worth noting that while turning off password autofill increases privacy on shared computers, it also means you'll need to remember your passwords or use a dedicated password manager. If you do a lot of online banking or manage sensitive accounts, you might want to consider using a dedicated password manager instead of relying on Chrome's built-in features.
+while turning off password autofill increases privacy on shared computers, it also means you'll need to remember your passwords or use a dedicated password manager. If you do a lot of online banking or manage sensitive accounts, you might want to consider using a dedicated password manager instead of relying on Chrome's built-in features.
 
-## Turning Off Address Bar Suggestions
+Turning Off Address Bar Suggestions
 
 Beyond form autofill, Chrome also autocomplete suggestions in the address bar as you type. This includes your browsing history, bookmarks, and search suggestions. If you want to reduce or eliminate these suggestions, there are a few settings you can adjust.
 
@@ -54,7 +54,7 @@ For history and bookmark suggestions, look for the "Privacy and security" sectio
 
 If you want to completely stop Chrome from remembering any of your browsing activity, consider using Incognito mode for sensitive browsing. In Incognito mode, Chrome won't save your history, cookies, or autofill information for the duration of that session.
 
-## Managing Autocomplete for Specific Websites
+Managing Autocomplete for Specific Websites
 
 Sometimes you might want to keep autocomplete on generally but turn it off for specific websites. Chrome doesn't let you do this directly through its settings, but there are workarounds.
 
@@ -62,7 +62,7 @@ One approach is to clear your autocomplete data for specific sites by going to "
 
 For more granular control, you might consider using a browser extension. Some extensions are designed to block autocomplete on certain websites or provide more control over what information Chrome remembers. Tab Suspender Pro offers additional browsing management features that can help you control how Chrome handles your data across different websites. It provides another layer of control beyond what Chrome's built-in settings offer.
 
-## What to Do After Turning Off Autocomplete
+What to Do After Turning Off Autocomplete
 
 Once you've turned off autocomplete in Chrome, you might notice that filling out forms takes a bit longer since you need to type everything manually. This is the trade-off for increased privacy and reduced distractions. If you find this inconvenient, you might want to consider alternatives like using a dedicated password manager for your login credentials or keeping your address saved in a document that you can copy and paste from when needed.
 
@@ -74,9 +74,9 @@ If you decide later that you want to turn autocomplete back on, the process is e
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for PayPal Business Best Settings](/articles/chrome-for-paypal-business-best-settings/)
 * [chrome webrtc leak what it is and how to fix](/articles/chrome-webrtc-leak-what-it-is-and-how-to-fix/)
 * [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

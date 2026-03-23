@@ -26,19 +26,19 @@ Collaboration is where many wireframe designers struggle the most. Sharing work 
 
 When you need to quickly mock up simple wireframes without opening a full design tool, browser-based tools can help. Pinterest Save Button lets you collect visual inspiration and references as you browse, keeping all your research organized in one place. You can create boards for different projects and save relevant UI patterns, layouts, and design elements you want to reference later. This helps you build a visual library that informs your wireframing decisions.
 
-Managing downloaded files from your wireframing sessions is another common pain point. Designers often download assets, mockups, and reference images that end up scattered across their downloads folder. Download Shuttle helps by organizing your downloads into categorized folders based on file type. You can set up rules to automatically sort images into a graphics folder, wireframe exports into a projects folder, and PDFs into a documents folder. This keeps your files organized without requiring manual effort.
+Managing downloaded files from your wireframing sessions is another common problem. Designers often download assets, mockups, and reference images that end up scattered across their downloads folder. Download Shuttle helps by organizing your downloads into categorized folders based on file type. You can set up rules to automatically sort images into a graphics folder, wireframe exports into a projects folder, and PDFs into a documents folder. This keeps your files organized without requiring manual effort.
 
 For those who need to access their design files from anywhere, cloud integration is essential. Google Drive for Chrome integrates your Drive account directly into the browser, making it simple to upload and share wireframe files without switching applications. You can quickly grab a file from the cloud and share it with team members or clients in seconds. This is particularly useful when you need to access your wireframes from different devices or collaborate in real time.
 
 Taking notes and keeping track of design decisions is important for any wireframe project. Google Keep integration in Chrome lets you capture ideas, color codes, and quick notes without leaving your browser. You can clip images, add tags, and access your notes from any device. This creates a central repository for design ideas and decisions that you can reference throughout your wireframing process.
 
-The right combination of Chrome extensions for wireframe design depends on your specific workflow, but these tools address the most common challenges designers face. Start with the ones that match your biggest daily pain points and expand from there. Most of these extensions are free or offer generous free tiers, so you can try them without any investment. The time you save on repetitive tasks adds up quickly, giving you more freedom to focus on what matters most: creating effective wireframes that help your team build better products.
+The right combination of Chrome extensions for wireframe design depends on your specific workflow, but these tools address the most common challenges designers face. Start with the ones that match your biggest daily problems and expand from there. Most of these extensions are free or offer generous free tiers, so you can try them without any investment. The time you save on repetitive tasks adds up quickly, giving you more freedom to focus on what matters most: creating effective wireframes that help your team build better products.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser](/articles/chrome-sanitizer-api-html-safe/)
 * [How to Change Default Download Location Chrome](/articles/how-to-change-default-download-location-chrome/)
 * [CHIPS: Cookies Having Independent Partitioned State in Chrome](/articles/chrome-chips-cookies-having-independent-state/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

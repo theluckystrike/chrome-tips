@@ -23,7 +23,7 @@ permalink: chrome-for-onenote-web-clipper-setup
 
 If you are looking for how to set up Chrome for OneNote Web Clipper, you have come to the right place. Many people want to save interesting articles, recipes, or web pages directly into their OneNote notebooks, but they are not sure how to get started. This guide will walk you through the entire process step by step, making it easy to start clipping web content to your notes.
 
-## Why Use OneNote Web Clipper
+Why Use OneNote Web Clipper
 
 OneNote Web Clipper is a free Chrome extension created by Microsoft that lets you save web content directly to your OneNote account. Instead of copying and pasting text or taking screenshots manually, you can capture entire pages with just one click. This tool is particularly useful for researchers, students, and anyone who collects information from the internet.
 
@@ -31,7 +31,7 @@ The extension can save various types of content including full web pages, simpli
 
 Whether you are gathering recipes for meal planning, collecting inspiration for a project, or saving articles for later reading, the OneNote Web Clipper makes the process much faster and more organized than other methods.
 
-## Installing the OneNote Web Clipper Extension
+Installing the OneNote Web Clipper Extension
 
 Setting up Chrome for OneNote Web Clipper takes just a few minutes. First, open Google Chrome on your computer and navigate to the Chrome Web Store. In the search bar, type "OneNote Web Clipper" and press Enter.
 
@@ -41,7 +41,7 @@ When you are ready to install, click the blue "Add to Chrome" button. A popup wi
 
 Chrome will download and install the extension. Once finished, you should see the OneNote icon appear in your Chrome toolbar, typically in the upper right corner of the browser window. You might need to pin it to your toolbar for easy access by clicking the puzzle piece icon and selecting the pin next to OneNote Web Clipper.
 
-## Signing In to Your Microsoft Account
+Signing In to Your Microsoft Account
 
 Before you can start clipping content, you need to sign in to your Microsoft account. Click the OneNote Web Clipper icon in your toolbar. A popup window will appear prompting you to sign in.
 
@@ -51,7 +51,7 @@ If you have two-factor authentication enabled on your account, you will need to 
 
 Once signed in, the extension will show you a confirmation message. You can now start clipping web pages to your OneNote notebooks. The extension will remember your login information, so you should not need to sign in again unless you explicitly sign out or clear your browser data.
 
-## Choosing Where to Save Your Clips
+Choosing Where to Save Your Clips
 
 After signing in, you can configure where your clipped content will go. When you clip a page, the OneNote Web Clipper lets you choose which notebook, section, and page to save it to. You can create new locations directly from the extension or use existing ones.
 
@@ -59,7 +59,7 @@ By default, the extension might suggest saving to a "Web Clips" notebook that it
 
 Take a moment to think about how you want to organize your clips. Creating a system with separate notebooks for different projects or topics can help you find information later. For example, you might have a notebook for recipes, another for work research, and a third for personal interests.
 
-## Clipping Your First Web Page
+Clipping Your First Web Page
 
 Now comes the fun part. Visit any website with content you want to save. When you are on a page you like, click the OneNote Web Clipper icon in your toolbar. A small menu will appear with different clipping options.
 
@@ -69,7 +69,7 @@ Select your preferred option, then choose where to save it. You can select an ex
 
 Within a few moments, your clipped content will appear in your OneNote account, ready for you to read, edit, or organize however you like.
 
-## Troubleshooting Common Issues
+Troubleshooting Common Issues
 
 Sometimes the OneNote Web Clipper might not work as expected. Here are some common problems and how to fix them.
 
@@ -81,7 +81,7 @@ When clips are saving to the wrong location, verify your default settings in the
 
 If clips are appearing empty or incomplete, the website might be blocking automated access. Some sites have protections that prevent extensions from reading their content.
 
-## Making the Most of Your Web Clipping
+Making the Most of Your Web Clipping
 
 Now that you have set up Chrome for OneNote Web Clipper, you might want to develop good habits for organizing your saved content. Take a few seconds when clipping to add tags or notes that will help you find the information later.
 
@@ -91,7 +91,7 @@ Consider combining the Web Clipper with other productivity tools to create a pow
 
 If you find yourself with many open tabs while researching, using a tab management extension can help keep your browser organized. Tab Suspender Pro is one option that automatically suspends tabs you are not using, keeping your browser fast and responsive. This pairs well with the OneNote Web Clipper since you can clip content from suspended tabs without losing performance. It is just one of many tools that can enhance your browsing experience as you gather information.
 
-## Keeping Your Extension Updated
+Keeping Your Extension Updated
 
 Like all Chrome extensions, it is important to keep the OneNote Web Clipper updated. Google Chrome typically updates extensions automatically, but you can check for updates manually if needed.
 
@@ -101,7 +101,7 @@ You should also periodically check your OneNote account to make sure your clips 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for Minimalist Browsing Setup](/articles/chrome-for-minimalist-browsing-setup/)
 * [Chrome Resource Timing API Explained](/articles/chrome-resource-timing-api-explained/)
 * [Chrome Extensions for Video Conferencing](/articles/chrome-extensions-for-video-conferencing/)

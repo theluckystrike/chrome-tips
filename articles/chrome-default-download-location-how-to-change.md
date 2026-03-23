@@ -12,7 +12,7 @@ How do you change the default download location in Chrome? This is a common ques
 
 Let me walk you through why you might want to change this setting and exactly how to do it.
 
-## Why the Default Download Location Matters
+Why the Default Download Location Matters
 
 When you download a file in Chrome, it automatically saves to a folder called Downloads. This is Chrome's default behavior, and it works fine for most people. However, there are several reasons you might want to change this default location.
 
@@ -24,7 +24,7 @@ Third, if your computer has limited space on the main hard drive, you might pref
 
 Finally, some people simply prefer having all their downloads in a specific location that makes sense for their workflow. Customizing Chrome's download location to match your personal organization system just makes things more convenient.
 
-## How to Change the Default Download Location in Chrome
+How to Change the Default Download Location in Chrome
 
 Changing where Chrome saves your downloads is straightforward. Here are the steps to follow.
 
@@ -38,7 +38,7 @@ A window will pop up showing your file system. Navigate to the folder where you 
 
 Chrome will now save all your future downloads to the new location you selected. This change applies to all downloads going forward, but it does not move any files you have already downloaded.
 
-## How to Change Download Location for Individual Downloads
+How to Change Download Location for Individual Downloads
 
 Sometimes you might not want to change the default location for all downloads but instead choose a different folder for a specific download. Chrome allows you to do this as well.
 
@@ -48,7 +48,7 @@ If Chrome does not ask you where to save a file, you can still change the locati
 
 When this setting is enabled, Chrome will ask you to choose a location for every download. This gives you full control over where each individual file goes, which can be useful if you want to sort different types of files into different folders as you download them.
 
-## What to Do If Downloads Are Not Saving Correctly
+What to Do If Downloads Are Not Saving Correctly
 
 Sometimes after changing the download location, you might notice that downloads are still going to the old location. Here are some things to check if this happens.
 
@@ -60,7 +60,7 @@ Third, some organizations and schools have policies that prevent changing certai
 
 Finally, if you use a Chrome extension that manages downloads, it might be overriding your settings. Try disabling your download-related extensions temporarily to see if that resolves the issue.
 
-## Additional Tips for Managing Downloads in Chrome
+Additional Tips for Managing Downloads in Chrome
 
 Beyond changing the default location, there are a few other settings in Chrome that can help you manage downloads more effectively.
 
@@ -70,7 +70,7 @@ Chrome also lets you see where your downloads are saved directly from the downlo
 
 If you find yourself frequently needing to manage many downloads, you might also benefit from using a tab management tool like Tab Suspender Pro. While it is designed primarily to help you manage open tabs and improve browser performance, it also includes features that make it easier to keep track of downloads and organize your browsing workflow. Tab Suspender Pro is part of the Zovo extension suite, which offers various tools to enhance your Chrome experience.
 
-## Wrapping Up
+Wrapping Up
 
 Changing Chrome's default download location is a simple process that can make a big difference in how organized you keep your files. Whether you prefer a specific folder on your computer, want to save directly to cloud storage, or need to free up space on your main drive, customizing this setting puts you in control of where your downloads go.
 
@@ -80,7 +80,7 @@ Remember that you can always change the location again if your needs change. Chr
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-guide/)
 * [Chrome Extensions for Website Blocker](/articles/chrome-extensions-for-website-blocker/)
 * [Chrome Cycle Through Tabs Shortcut](/articles//chrome-cycle-through-tabs-shortcut//)

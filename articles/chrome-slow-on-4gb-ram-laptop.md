@@ -14,29 +14,19 @@ author: theluckystrike
 
 Running Chrome on a laptop with 4GB of RAM can feel like trying to fit a week's worth of groceries into a single bag. It works, but you need to be strategic about it. Chrome has a well-earned reputation for being memory-hungry, but that doesn't mean you're stuck with a terrible experience.
 
-Here's what actually makes a difference when you're working with limited memory.
-
-## Understanding the Problem
-
-Chrome uses a multi-process architecture, which means every tab, every extension, and many internal functions each get their own separate process. This is great for stability — if one tab crashes, it doesn't take down the whole browser. But it means Chrome's memory usage adds up fast.
-
-On a system with 4GB of RAM, your operating system is already using roughly 1.5 to 2GB just to run. That leaves you maybe 2GB for Chrome and everything else. Open five or six tabs with modern websites, and you've already used that up.
-
-When your RAM is full, your system starts using the hard drive as overflow memory (called swap). This is dramatically slower, and that's when everything starts to feel sluggish.
-
-## The Tab Rule: Less Is More
+Less Is More
 
 The most effective thing you can do is simply open fewer tabs. Each tab on a typical website uses between 50MB and 300MB of RAM. News sites and social media are often on the higher end because of all the ads, videos, and dynamic content.
 
 Aim for no more than 5 to 7 tabs at once. If you need to reference something later, bookmark it. If you're researching something and need lots of sources, work through them one at a time rather than opening them all at once.
 
-## Audit Your Extensions
+Audit Your Extensions
 
 Open `chrome://extensions` and take a hard look at what's installed. Every extension uses memory whether you're actively using it or not. Some people have 15 or 20 extensions installed and only use three of them regularly.
 
 Remove everything you don't use weekly. For the ones you keep, check if there are lighter alternatives. A complex ad blocker with tons of filter lists uses more memory than a simpler one.
 
-## Enable Memory Saver Mode
+Enable Memory Saver Mode
 
 Chrome has a built-in feature called Memory Saver (also known as Tab Discarding). Go to Settings, then Performance, and turn on Memory Saver. This automatically frees up memory from tabs you haven't used in a while.
 
@@ -44,45 +34,45 @@ When you click back to a discarded tab, it reloads. There's a brief pause, but i
 
 You can add sites to an exception list if there are specific tabs you always want to stay active, like a messaging app.
 
-## Close Other Applications
+Close Other Applications
 
-When you only have 4GB to work with, every application matters. Close anything you're not actively using — especially other Electron-based apps (Slack, Discord, VS Code, Spotify desktop) which are themselves running Chromium under the hood and using similar amounts of memory.
+When you only have 4GB to work with, every application matters. Close anything you're not actively using. especially other Electron-based apps (Slack, Discord, VS Code, Spotify desktop) which are themselves running Chromium under the hood and using similar amounts of memory.
 
 Check your system's task manager to see what's running. On Windows, press Ctrl + Shift + Escape. On Mac, open Activity Monitor. You might find background apps you forgot about.
 
-## Use Chrome's Built-In Task Manager
+Use Chrome's Built-In Task Manager
 
 Press Shift + Escape inside Chrome to open Chrome's own task manager. This shows memory usage per tab and per extension. Sort by memory footprint and you'll quickly identify the biggest offenders.
 
 Sometimes a single tab can be using 500MB or more because of a memory leak on that website. Close it and watch your browser speed up instantly.
 
-## Lightweight Alternatives to Heavy Websites
+Lightweight Alternatives to Heavy Websites
 
 If you regularly use heavy web applications, look for lighter alternatives. Use the mobile version of sites when possible (many are lighter on resources). Use basic HTML email instead of the full Gmail interface (there's an option at the bottom of the Gmail loading screen). Use reader mode for long articles.
 
-## Adjust Chrome Flags (Carefully)
+Adjust Chrome Flags (Carefully)
 
 Type `chrome://flags` into your address bar. There are a couple of experimental features that can help:
 
 Search for "Smooth Scrolling" and disable it if scrolling feels janky. Search for "Heavy Ad Intervention" and enable it to automatically block resource-heavy ads.
 
-Be conservative with flags — only change what you understand and can easily change back.
+Be conservative with flags. only change what you understand and can easily change back.
 
-## Consider Your Operating System
+Consider Your Operating System
 
 If you're running Windows 10 or 11 on a 4GB machine, the operating system itself is using a significant chunk of your memory. Make sure Windows isn't running unnecessary startup programs and background services.
 
 Some people in this situation find that switching to a lighter Linux distribution makes a huge difference, since the OS uses less RAM and leaves more for Chrome.
 
-## Use Tab Suspender Pro for Better Memory Control
+Use Tab Suspender Pro for Better Memory Control
 
-While Chrome's built-in **Memory Saver** is a good start, it often isn't enough for a **4GB RAM laptop**. If you need more granular control over your **system resources**, consider using **Tab Suspender Pro**. 
+While Chrome's built-in Memory Saver is a good start, it often isn't enough for a 4GB RAM laptop. If you need more granular control over your system resources, consider using Tab Suspender Pro. 
 
-This extension takes **tab management** much further by allowing you to set custom **idle timers** for when a tab should "hibernate." It also lets you see exactly how much **RAM** is being saved in real-time. For users on limited hardware, **Tab Suspender Pro** is an essential tool because it prevents background tabs from ever reaching the point where they force your computer into using slow **disk swap**. By keeping your **memory usage** lean, you ensure that Chrome remains responsive even during heavy research sessions.
+This extension takes tab management much further by allowing you to set custom idle timers for when a tab should "hibernate." It also lets you see exactly how much RAM is being saved in real-time. For users on limited hardware, Tab Suspender Pro is an essential tool because it prevents background tabs from ever reaching the point where they force your computer into using slow disk swap. By keeping your memory usage lean, you ensure that Chrome remains responsive even during heavy research sessions.
 
-## Related Articles
+Related Articles
 - [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
 - [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
 - [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

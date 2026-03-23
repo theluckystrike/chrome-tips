@@ -16,7 +16,7 @@ author: theluckystrike
 
 If you are wondering "why do my Chrome tabs keep reloading when I switch back," you are not alone. This is one of the most common complaints from Chrome users, especially those with older computers or limited RAM. The good news is that there are practical solutions you can try right now to fix this issue.
 
-## Why Chrome Tabs Reload When You Switch Back
+Why Chrome Tabs Reload When You Switch Back
 
 Chrome has a built-in feature called Memory Saver (formerly called Tab Discarding) that automatically unloads tabs you have not used recently to free up RAM. When you switch back to those tabs, Chrome has to reload them from scratch. This is designed to help computers with limited memory run more smoothly, but it can be frustrating when you lose your place on a page or have to wait for content to load again.
 
@@ -24,7 +24,7 @@ The feature is particularly aggressive on older machines or when you have many t
 
 Understanding why this happens is the first step toward fixing it. The reloading is not a bug; it is a feature that is trying to help, but it does not always work the way users want it to.
 
-## How to Disable Memory Saver in Chrome
+How to Disable Memory Saver in Chrome
 
 The easiest fix is to turn off Chrome's Memory Saver feature. Here is how to do it step by step:
 
@@ -35,7 +35,7 @@ The easiest fix is to turn off Chrome's Memory Saver feature. Here is how to do 
 
 Once you disable Memory Saver, Chrome will stop automatically discarding your tabs. Keep in mind that this may increase Chrome's memory usage, so if your computer has very limited RAM (4GB or less), you might notice some slowdown. If that happens, try the other solutions below instead.
 
-## Adjust Chrome's Memory Settings for Better Control
+Adjust Chrome's Memory Settings for Better Control
 
 If you want to keep Memory Saver on but want more control over which tabs get discarded, Chrome offers some settings you can tweak:
 
@@ -46,7 +46,7 @@ If you want to keep Memory Saver on but want more control over which tabs get di
 
 Be careful when changing flags, as some of them are experimental and could affect browser stability. If you are not comfortable changing flags, skip this step and try the next solution instead.
 
-## Use an Extension to Manage Tabs More Effectively
+Use an Extension to Manage Tabs More Effectively
 
 One practical solution that many users find helpful is using an extension designed to manage tabs intelligently. Tab Suspender Pro is one such tool that gives you manual control over which tabs get suspended. Instead of letting Chrome decide automatically, you can choose which tabs to keep active and which ones to suspend.
 
@@ -54,7 +54,7 @@ Tab Suspender Pro works by letting you set a timer for each tab or manually susp
 
 To use Tab Suspender Pro, install it from the Chrome Web Store, then click the extension icon when you want to suspend a tab. You can also set it to automatically suspend tabs after a certain period of inactivity. This is useful if you want to keep Memory Saver off but still want some automation.
 
-## Close Unused Tags and Extensions
+Close Unused Tags and Extensions
 
 Another practical step is to reduce the number of tabs and extensions you have open. Every tab uses memory, and the more tabs you have, the more likely Chrome is to start discarding them. Try these tips:
 
@@ -65,7 +65,7 @@ Another practical step is to reduce the number of tabs and extensions you have o
 
 Closing unnecessary tabs is one of the most effective ways to prevent reloading issues. When Chrome has more available memory, it is less aggressive about discarding tabs.
 
-## Check Your Computer's Available RAM
+Check Your Computer's Available RAM
 
 Sometimes the issue is not Chrome but your computer's overall memory situation. If your computer has very little RAM available, Chrome will be forced to discard tabs more frequently. Here is how to check:
 
@@ -74,7 +74,7 @@ Sometimes the issue is not Chrome but your computer's overall memory situation. 
 
 If you see that your computer is using most of its RAM even when Chrome is closed, you may need to close other programs or consider upgrading your RAM. This is especially true for computers with 4GB or less of RAM, which struggle to handle modern browsing with many open tabs.
 
-## Update Chrome and Your Operating System
+Update Chrome and Your Operating System
 
 Keeping Chrome updated ensures you have the latest performance improvements and bug fixes. Chrome regularly releases updates that address memory management issues. To check for updates:
 
@@ -85,13 +85,13 @@ Keeping Chrome updated ensures you have the latest performance improvements and 
 
 Similarly, make sure your operating system is updated, as system updates often include memory management improvements that can help Chrome run more efficiently.
 
-## Consider Alternative Browsers for Low RAM
+Consider Alternative Browsers for Low RAM
 
 If you have tried everything and Chrome still reloads your tabs frequently, it might be worth trying a browser that is more lightweight. Firefox, Brave, and Opera are all good options for computers with limited RAM. Each of these browsers has its own approach to memory management and may handle tab suspension differently than Chrome.
 
 Firefox, for example, uses a system called "proton" that is designed to be more memory-efficient. Brave blocks ads and trackers by default, which reduces the amount of memory each tab needs. Opera includes built-in tab management features that can help.
 
-## Practical Summary
+Practical Summary
 
 To fix Chrome tabs reloading when you switch back, try these steps in order:
 
@@ -104,14 +104,14 @@ To fix Chrome tabs reloading when you switch back, try these steps in order:
 
 Remember that some tab reloading is normal and actually helps your computer run more smoothly. The goal is to find the right balance so that tabs do not reload too often while still keeping your browser responsive.
 
-## Related Articles
+Related Articles
 * [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained/)
 * [Chromebook External Monitor How to Connect](/articles/chromebook-external-monitor-how-to-connect/)
 * [Chrome Sensors Emulation How to Use](/articles/chrome-sensors-emulation-how-to-use/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [chrome file system access api explained](/articles/chrome-file-system-access-api-explained)
 - [Chrome Largest Contentful Paint Improve Tips](/articles/chrome-largest-contentful-paint-improve-tips)

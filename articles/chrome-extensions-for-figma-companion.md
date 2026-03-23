@@ -10,7 +10,7 @@ permalink: chrome-extensions-for-figma-companion
 
 If you have been searching for chrome extensions for figma companion tools, you likely already know the challenge. Designing in Figma while keeping your browser running smoothly can feel like a constant struggle. You open reference tabs, documentation, and inspiration sites, but before you know it, Chrome is crawling and your computer is struggling to keep up. This is a common frustration for designers who rely on multiple resources while working on projects.
 
-## Why Figma Users Face Browser Performance Issues
+Why Figma Users Face Browser Performance Issues
 
 Figma itself runs as a web application, which means it already consumes a significant amount of your computer's resources. The application handles complex design operations, real-time collaboration, and constant updates to your canvas. When you add more tabs to Chrome while Figma is open, you are essentially asking your computer to do even more work simultaneously.
 
@@ -20,7 +20,7 @@ Modern websites are resource-heavy. A single webpage might include high-resoluti
 
 Another issue is that tabs accumulate over time. You open a reference tab with the intention of closing it later, but then you get busy and forget. By the end of a workday, you might have thirty or more tabs open without realizing it. Each one is quietly using your computer's resources, and the cumulative effect can be significant.
 
-## How Extensions Can Help Your Figma Workflow
+How Extensions Can Help Your Figma Workflow
 
 Chrome extensions designed for Figma users can help in several ways. Some extensions add features directly to Figma, making your design work easier. Others help manage your browser tabs and system resources so that Figma can run smoothly. The right combination of extensions can transform your workflow and reduce the frustration of a sluggish browser.
 
@@ -28,7 +28,7 @@ Extensions that integrate with Figma often provide shortcuts for common tasks. T
 
 On the browser management side, extensions can help you organize tabs, quickly find what you need, and keep resource-heavy tabs from slowing down your work. When Figma is running, you want to make sure it has priority over your computer's resources. Extensions that manage tabs intelligently can help ensure this happens.
 
-## Tab Suspender Pro
+Tab Suspender Pro
 
 One solution that many designers find helpful is Tab Suspender Pro. This extension automatically pauses tabs that you have not used recently, which is particularly useful when you have multiple reference tabs open while working in Figma. When a tab gets suspended, it stops consuming memory and CPU resources, but it remains available in your browser.
 
@@ -36,7 +36,7 @@ The benefit for Figma users is significant. You can keep all your reference tabs
 
 Tab Suspender Pro works quietly in the background, detecting which tabs are idle and putting them to sleep automatically. You do not need to manually suspend tabs or remember to close ones you are not currently using. The extension handles everything so you can focus on your design work instead of managing your browser.
 
-## Color and Asset Extensions
+Color and Asset Extensions
 
 Several Chrome extensions can directly enhance your Figma workflow by helping with colors and assets. Color picker extensions allow you to sample colors from any website and copy them in various formats. This is useful when you find a color on a reference site and want to use it in your Figma design. Many of these extensions can copy colors as HEX, RGB, or HSL values, making it easy to paste them directly into Figma.
 
@@ -44,7 +44,7 @@ Asset management extensions help you download images, icons, and other design el
 
 Another useful category is screenshot extensions that capture web pages. Sometimes you want to capture an entire webpage as a reference or share it with your team. Screenshot tools built into Chrome extensions can capture full pages or specific sections, giving you flexibility in how you save visual references.
 
-## Tab Management Solutions
+Tab Management Solutions
 
 Beyond tab suspension, there are other extensions that help organize and manage your tabs. Tab grouping features let you organize tabs by project or category. When working on multiple Figma projects simultaneously, you can group related tabs together and switch between them easily. This reduces clutter and helps you find what you need quickly.
 
@@ -52,7 +52,7 @@ Tab search extensions provide a quick way to find open tabs. Instead of scrollin
 
 Bookmark extensions can also be valuable for designers. Instead of keeping reference tabs open constantly, you can bookmark important resources and access them when needed. Some bookmark extensions allow you to add notes and organize your saved links, making it easier to build a library of useful design references.
 
-## Tips for Maintaining Performance
+Tips for Maintaining Performance
 
 While extensions can help, it is also worth developing good habits for managing your browser while working in Figma. Consider keeping only essential reference tabs open while designing. Close tabs you are not currently using and reopen them when needed. This simple practice can make a noticeable difference in browser performance.
 
@@ -64,7 +64,7 @@ Regularly review your open tabs and close anything you no longer need. It is eas
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Extensions Causing Lag: Which One Is Slowing You Down?](/articles/chrome-extensions-causing-lag-which-one/)
 * [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions/)
 * [Chrome Journeys Feature in History Explained](/articles/chrome-journeys-feature-in-history-explained/)

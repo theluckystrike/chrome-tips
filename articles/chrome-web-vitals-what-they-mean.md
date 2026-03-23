@@ -13,7 +13,7 @@ Chrome web vitals what they mean is a question that comes up a lot, especially i
 
 Let me break down what each web vital actually measures, why it matters for your browsing experience, and what you can do when a website does not meet these standards.
 
-## The Three Core Web Vitals
+The Three Core Web Vitals
 
 Google focuses on three main metrics that make up the core of web vitals. These are Largest Contentful Paint, First Input Delay, and Cumulative Layout Shift. Each one measures a different aspect of page performance.
 
@@ -23,7 +23,7 @@ First Input Delay, or FID, measures the time between when you first try to inter
 
 Cumulative Layout Shift, called CLS, measures how much the page layout shifts around while it is loading. You have probably experienced this where you start reading an article and then an ad or image loads above, pushing all the text down and making you lose your place. That sudden jump is a layout shift. Sites should keep their CLS score below 0.1 to avoid frustrating users.
 
-## Why These Metrics Matter for You
+Why These Metrics Matter for You
 
 You might wonder why you should care about these technical-sounding metrics. The answer is simple. They directly affect how pleasant or frustrating your browsing experience is.
 
@@ -35,7 +35,7 @@ Poor CLS is annoying because it causes you to click the wrong thing. You go to c
 
 These problems are especially noticeable on mobile devices or on computers with slower internet connections. But even on fast connections, poorly optimized websites can feel sluggish.
 
-## What Causes Poor Web Vitals
+What Causes Poor Web Vitals
 
 Several factors can cause a website to score poorly on these metrics. Understanding the causes helps you see why some sites perform better than others.
 
@@ -47,7 +47,7 @@ CLS often happens when ads, images, or embedded content load without defined dim
 
 Heavy use of browser extensions can also affect web vitals, especially on pages with many open tabs. Each tab consumes resources, and when those resources are stretched thin, pages load more slowly and respond less quickly to your input.
 
-## How to Deal with Sites That Have Poor Web Vitals
+How to Deal with Sites That Have Poor Web Vitals
 
 Since you cannot control how other websites are built, you might feel helpless when you encounter slow sites. However, there are several things you can do to improve your browsing experience.
 
@@ -63,13 +63,13 @@ Fifth, try using a lightweight ad blocker. Many ads are heavy and slow down page
 
 Finally, consider switching to a faster browser if you find that most sites feel slow. Some browsers are more efficient than others at handling complex pages.
 
-## Checking Web Vitals Yourself
+Checking Web Vitals Yourself
 
 If you are curious about how a particular website performs, you can check its web vitals using various tools. Google PageSpeed Insights is a free tool that analyzes any URL and gives you detailed scores for each metric. You can also find web vital information in Chrome is developer tools, though that is more geared toward website developers.
 
 For regular users, simply noticing how a site feels to use is usually enough. If a site feels slow, feels unresponsive, or keeps jumping around while you try to read, it likely has poor web vitals. Knowing this, you can decide whether to stick with it or find an alternative that offers a better experience.
 
-## The Bigger Picture
+The Bigger Picture
 
 Web vitals are part of a larger effort to make the web a better place for everyone. Google has started using these metrics as ranking signals in search results, which means websites that provide better user experiences tend to show up higher in search results. This incentivizes website owners to pay attention to performance.
 
@@ -77,7 +77,7 @@ As a user, you benefit from this focus on web vitals because it pushes websites 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Slow With Many Tabs Open? Here's How to Fix It](/articles/chrome-slow-with-many-tabs-open/)
 * [Chrome IndexedDB vs LocalStorage Comparison](/articles/chrome-indexeddb-vs-localstorage-comparison/)
 * [chrome lighthouse performance score explained simply](/articles/chrome-lighthouse-performance-score-explained-simply/)

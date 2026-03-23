@@ -21,7 +21,7 @@ author: theluckystrike
 
 If you have ever wanted to see text subtitles for videos you are watching in Chrome but could not find any captions built into the website, Chrome Live Captions how to turn on is exactly what you need to know. This handy feature automatically creates subtitles for any audio or video playing in your browser, making content more accessible and easier to follow. Here is the complete guide to turning on Chrome Live Captions.
 
-## Why You Should Turn On Live Captions
+Why You Should Turn On Live Captions
 
 There are plenty of reasons to enable Live Captions in your Chrome browser. Maybe you are watching a video in a place where you cannot turn up the volume, such as a library or a quiet office. Perhaps you are trying to learn a new language and want to read along with spoken content. You might have difficulty hearing certain frequencies or accents, or maybe you simply find it easier to process information when you can read along while listening.
 
@@ -29,7 +29,7 @@ Live Captions solves all of these situations by generating real-time captions fo
 
 Another great thing about Live Captions is that it works automatically once you turn it on. You do not need to configure anything for each website or each video. Just enable the feature once, and Chrome will handle the rest.
 
-## Step by Step Guide to Turn On Live Captions
+Step by Step Guide to Turn On Live Captions
 
 Turning on Live Captions is a quick process that takes just a few seconds. Follow these simple steps to enable the feature.
 
@@ -45,7 +45,7 @@ Once enabled, you will see a small caption box appear at the bottom of your scre
 
 That is all you need to do. Chrome Live Captions is now turned on and ready to use.
 
-## Customizing Your Live Captions
+Customizing Your Live Captions
 
 Chrome gives you some options to make the captions look and behave the way you prefer. After you turn on Live Captions, you can click the three dots next to the toggle to access additional settings.
 
@@ -53,7 +53,7 @@ You can change how the captions look by selecting different caption styles. Chro
 
 If you find that captions are appearing on websites that already have their own captions built in, you can leave Live Captions turned on. Chrome will simply not duplicate captions that are already provided by the website, so you will not see overlapping text.
 
-## Troubleshooting When Live Captions Does Not Work
+Troubleshooting When Live Captions Does Not Work
 
 Sometimes you might turn on Live Captions but not see any captions appearing. Here are some common reasons this might happen and how to fix them.
 
@@ -63,13 +63,13 @@ Another possibility is that the website you are using has special video players 
 
 If the captions appear but seem inaccurate, remember that Chrome uses speech recognition running on your device to generate captions in real time. The accuracy depends on how clear the audio is, how distinct the speakers voice is, and how much background noise is present. For important content, it is always wise to double-check captions against the actual audio.
 
-## Taking Your Browsing Experience Further
+Taking Your Browsing Experience Further
 
 Chrome Live Captions is a powerful built-in feature, but you might want to combine it with other tools to get an even better browsing experience. For example, if you often have many tabs open while watching videos or attending video calls, you might notice your browser slowing down.
 
 One helpful extension to consider is Tab Suspender Pro. This extension automatically pauses tabs that you have not used recently, which can free up memory and keep your browser running smoothly. Many users find that using Tab Suspender Pro alongside Live Captions helps them get more done without dealing with a sluggish browser.
 
-## Tips for Getting the Best Experience
+Tips for Getting the Best Experience
 
 Now that you know how to turn on Chrome Live Captions, here are some tips to help you get the most out of the feature.
 
@@ -85,7 +85,7 @@ If you are watching content in a foreign language, keep in mind that Live Captio
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Sensors Emulation How to Use](/articles/chrome-sensors-emulation-how-to-use/)
 * [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks/)
 * [chrome for recipe browsing without ads](/articles/chrome-for-recipe-browsing-without-ads/)

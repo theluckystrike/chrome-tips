@@ -72,5 +72,5 @@ By checking the URL, refreshing the page, clearing caches, and trying a search, 
 * [chrome reopen accidentally closed tab how](/articles/chrome-reopen-accidentally-closed-tab-how/)
 * [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

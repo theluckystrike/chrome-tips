@@ -9,7 +9,7 @@ permalink: chrome-time-to-interactive-explained
 ---
 Chrome time to interactive explained is a concept that helps you understand why some websites feel responsive while others seem sluggish. When you open a webpage, you expect to be able to click buttons, scroll, and interact with content right away. Time to interactive measures exactly how long that takes, and knowing about it can help you understand browser performance better.
 
-## What Time to Interactive Actually Measures
+What Time to Interactive Actually Measures
 
 Time to interactive, sometimes abbreviated as TTI, is a performance metric that tells you when a webpage has fully loaded and is ready for user interaction. More specifically, it marks the point when the page has finished rendering, all JavaScript code has been executed, and the page can reliably respond to user input like clicks, scrolls, and form entries.
 
@@ -17,7 +17,7 @@ When you visit a website, your browser downloads HTML, CSS, images, and JavaScri
 
 Imagine you open a news website. The text and images might appear within a couple of seconds, but if the comment section is still loading JavaScript or if an embedded widget is still processing data, you cannot fully interact with the page yet. TTI measures the moment when everything is truly ready for you to use.
 
-## Why Time to Interactive Matters for Your Browser Experience
+Why Time to Interactive Matters for Your Browser Experience
 
 Chrome time to interactive explained becomes more practical when you consider how it affects your daily browsing. A website can look completely loaded but still feel frozen if you try to click something too early. This happens because the browser is still processing JavaScript in the background, even though the visual content is already displayed.
 
@@ -25,7 +25,7 @@ Slow time to interactive is particularly noticeable on complex websites with lot
 
 From a user perspective, slow TTI feels frustrating. You click a button and nothing happens. You try to scroll and the page stutters. You attempt to type in a search box but the input lags. These delays happen because the browser is still busy initializing scripts even though the page looks ready.
 
-## Common Causes of Slow Time to Interactive
+Common Causes of Slow Time to Interactive
 
 Several factors contribute to longer time to interactive values. Understanding these causes helps you recognize why certain websites perform poorly.
 
@@ -37,7 +37,7 @@ Third, network latency plays a role. If your internet connection is slow or the 
 
 Finally, device performance matters. Older computers and mobile devices process JavaScript more slowly, which means they take longer to reach the time to interactive point even on the same websites.
 
-## How to Check Time to Interactive in Chrome
+How to Check Time to Interactive in Chrome
 
 Chrome provides several ways to measure time to interactive for any website. The most accessible method uses the built-in developer tools.
 
@@ -47,7 +47,7 @@ You can also use the Performance tab in DevTools to record a page load and see e
 
 For developers building websites, the Chrome User Experience Report collects real-world TTI data from millions of users. This information helps them understand how their sites perform across different devices and network conditions.
 
-## Tips for Improving Your Browsing Experience
+Tips for Improving Your Browsing Experience
 
 While you cannot directly control how websites are built, there are steps you can take to have a smoother experience with slower pages.
 
@@ -59,11 +59,11 @@ Keeping Chrome updated ensures you have the latest performance improvements and 
 
 Finally, clearing your browser cache periodically removes accumulated temporary files that might be slowing down repeated visits to the same websites.
 
-Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [https://zovo.one](https://zovo.one)
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Time to First Byte Explained](/articles/chrome-time-to-first-byte-explained/)
 * [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained/)
 * [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure/)

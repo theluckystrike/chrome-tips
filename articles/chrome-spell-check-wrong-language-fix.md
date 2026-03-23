@@ -16,7 +16,7 @@ You are typing an email or filling out a form in Chrome and the red squiggly lin
 
 The good news is this is usually easy to fix. Chrome has language settings that control which dictionaries it uses for spell checking, and sometimes these get mixed up or reset without you noticing. Let me walk you through why this happens and how to get Chrome checking your spelling in the right language again.
 
-## Why Does Chrome Use the Wrong Language for Spell Check
+Why Does Chrome Use the Wrong Language for Spell Check
 
 Chrome determines which language to use for spell checking based on a few different things. First, it looks at the language settings you have configured in Chrome itself. Second, it sometimes tries to guess the language based on the website you are visiting. And third, it can inherit language settings from your computer's operating system.
 
@@ -24,7 +24,7 @@ The problem often starts when you update Chrome, because updates can sometimes r
 
 Another common cause is having multiple languages added to Chrome but not specifying which one should be the default. Chrome will sometimes use the wrong dictionary because it is not clear which language you want to use for spell checking.
 
-## Fix the Language Settings in Chrome
+Fix the Language Settings in Chrome
 
 The first place to look is in Chrome's language settings. Here is what to do.
 
@@ -36,7 +36,7 @@ Once you see your language in the list, click on the three dots next to it. Make
 
 If you have multiple languages added, you should also check which one is marked as the primary language. Chrome will use the primary language for spell checking by default. You can drag your preferred language to the top of the list to make it the primary one.
 
-## Check the Website Language Setting
+Check the Website Language Setting
 
 Sometimes the issue is not with Chrome's overall settings but with a specific website. Chrome allows websites to specify which language they use, and some websites can interfere with your spell check settings.
 
@@ -44,7 +44,7 @@ To check this, right-click on any text field on the website you are using. Look 
 
 If you find that a particular website is using the wrong language, you can try refreshing the page or clearing that website's cookies and data from Chrome's settings. Sometimes a website will remember an incorrect language setting from a previous visit.
 
-## Reset Chrome Spell Check Settings
+Reset Chrome Spell Check Settings
 
 If the above steps do not work, you can try resetting Chrome's spell check entirely. Go back to the Languages section in Chrome settings. You should see options for Basic spell check and Enhanced spell check.
 
@@ -52,7 +52,7 @@ Basic spell check uses a local dictionary on your computer and works offline. En
 
 You can also try removing all languages from the list and then adding only the one you need. This gives you a fresh start with spell check and removes any confusing language settings that might have accumulated over time.
 
-## Use an Extension for Better Control
+Use an Extension for Better Control
 
 If you find that Chrome's built-in spell check keeps switching languages or you need more control over which dictionaries are used, there are extensions available that can help.
 
@@ -60,7 +60,7 @@ Tab Suspender Pro is one option that users have found helpful. It is designed to
 
 There are also dedicated spell check extensions that let you manually select which language dictionary to use. These extensions give you more control than Chrome's built-in settings and can be useful if you regularly type in multiple languages.
 
-## Make Sure Your Computer Language Is Correct
+Make Sure Your Computer Language Is Correct
 
 Chrome sometimes pulls language information from your operating system. If your computer is set to the wrong language, Chrome might get confused and use that language for spell checking even if you have set up something different in the browser.
 
@@ -68,7 +68,7 @@ On Windows, go to Settings and then Time and Language. Check the Language sectio
 
 If you need to change your computer's language, you can usually add a new language and set it as the preferred option. After changing your computer settings, restart Chrome to make sure it picks up the new information.
 
-## Final Thoughts
+Final Thoughts
 
 Getting Chrome to use the right language for spell check is usually a matter of checking a few settings and making sure everything is configured correctly. Start with the Languages section in Chrome settings, make sure your preferred language is added and has spell check enabled, and then check your computer's language settings if needed.
 
@@ -76,9 +76,9 @@ Once you have everything set up correctly, you should see accurate red squiggly 
 
 If you continue to have issues after trying these steps, you might want to consider using a dedicated spell check extension or reaching out to Chrome support for more specific help with your situation.
 
-## Related Articles
+Related Articles
 - [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
 - [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
 - [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

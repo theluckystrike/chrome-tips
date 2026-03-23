@@ -77,5 +77,5 @@ Try setting up a split screen today. Pick two pages you need to use together, ar
 * [chrome for rosetta stone web tips](/articles/chrome-for-rosetta-stone-web-tips/)
 * [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 

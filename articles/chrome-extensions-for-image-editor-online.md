@@ -32,7 +32,7 @@ Online image editors have come a long way in recent years, and with the help of 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Password Checkup Tool Guide](/articles/chrome-password-checkup-tool/)
 * [Chrome Guest Mode vs Incognito Mode: What's the Difference?](/articles/chrome-guest-mode-vs-incognito-difference/)
 * [Chrome Extensions for WebRTC Leak Prevention](/articles/chrome-extensions-for-webrtc-leak-prevention/)

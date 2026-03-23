@@ -16,7 +16,7 @@ author: theluckystrike
 
 If you keep asking yourself how to stop opening too many tabs, you are dealing with one of the most common browser habits that frustrates millions of people every day. You are not alone in this struggle, and the good news is that there are practical ways to break the pattern and regain control of your browsing experience.
 
-## Why We Keep Opening New Tabs
+Why We Keep Opening New Tabs
 
 The habit of opening too many tabs starts innocently enough. You are researching a topic, and each search result seems relevant. You find an article worth reading, then another, then a video that looks helpful. Before you realize it, you have twenty or thirty tabs open, and you cannot remember which one contains the information you actually needed.
 
@@ -24,7 +24,7 @@ Chrome makes this problem especially easy to create. The browser is designed to 
 
 The real issue goes deeper than just having too many tabs open. Each tab represents an open mental loop, a unfinished task that your brain keeps track of even when you are not looking at it. This creates what psychologists call cognitive load, and it drains your mental energy throughout the day. You might not notice it consciously, but having dozens of tabs sitting there actually makes it harder to focus on anything.
 
-## Pause Before You Open a New Tab
+Pause Before You Open a New Tab
 
 The most effective first step is to build a simple habit of pausing before opening a new tab. This sounds too simple to make a real difference, but it works because it interrupts the automatic behavior that has become second nature.
 
@@ -32,7 +32,7 @@ Before you click that link or press the shortcut for a new tab, take a breath an
 
 Over time, this pause becomes a habit. You will start automatically evaluating whether each new tab is truly necessary, and you will be surprised how often the answer is no. Many things you open "just to check" can wait until you actually need them.
 
-## Close Tabs at the End of Each Session
+Close Tabs at the End of Each Session
 
 Another powerful habit is to close your tabs when you finish a work session or wrap up a specific task. Instead of leaving everything open overnight or for the weekend, take two minutes to close tabs you no longer need.
 
@@ -40,7 +40,7 @@ This does not mean losing valuable information. Before you close, bookmark the p
 
 Making tab cleanup part of your daily routine transforms your relationship with browsing. Instead of accumulating tabs indefinitely, you start each session with a clean slate. This reduces visual clutter and makes it easier to focus on what is important right now.
 
-## Use Built-in Browser Features
+Use Built-in Browser Features
 
 Chrome offers several features that help you manage tabs without installing anything new. Tab groups, for example, let you organize related tabs together with color-coded labels. Instead of having a dozen unrelated tabs scattered across your browser, you can group them by project, topic, or purpose.
 
@@ -48,7 +48,7 @@ To use tab groups, right-click on any tab and select "Add to new group." Give it
 
 Chrome also includes a tab search feature. Press the keyboard shortcut Ctrl+Shift+A on Windows or Cmd+Shift+A on Mac, and you can search through all your open tabs by title or content. This makes it much easier to find what you need without clicking through dozens of tabs manually.
 
-## Try a Tab Management Extension
+Try a Tab Management Extension
 
 Sometimes built-in features are not enough, and that is where extensions like Tab Suspender Pro can help. Tab Suspender Pro automatically pauses tabs you have not used recently, which frees up memory and makes it easier to keep more tabs open without slowing down your browser. When you return to a suspended tab, it reloads automatically.
 
@@ -56,7 +56,7 @@ This does not change the habit of opening too many tabs, but it reduces the cons
 
 You can find Tab Suspender Pro in the Chrome Web Store, and it works alongside other tab management tools you might already be using. The key is to use it as part of a broader strategy that includes mindful tab opening and regular cleanup.
 
-## Make Bookmarking Your Default
+Make Bookmarking Your Default
 
 One of the simplest shifts you can make is to change your default behavior when you find something interesting. Instead of opening it in a new tab, bookmark it immediately and close the tab.
 
@@ -64,7 +64,7 @@ This works because it satisfies the same underlying need. You want to save somet
 
 Create a few bookmark folders for different purposes, like "Read Later," "Research," or "Work Projects." When you find something worth saving, bookmark it to the appropriate folder and close the tab. This keeps your browser clean while still preserving the information you want to come back to.
 
-## Set a Tab Limit for Yourself
+Set a Tab Limit for Yourself
 
 If you have tried all these approaches and still struggle with tab overload, try setting a personal limit on how many tabs you keep open. Decide on a number that works for you, whether it is ten, fifteen, or twenty, and commit to not exceeding it.
 
@@ -74,7 +74,7 @@ Breaking the habit of opening too many tabs takes some effort, but it is absolut
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Extensions For Blocking Distracting Websites](/articles//articles/chrome-extensions-for-blocking-distracting-websites//)
 * [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they/)
 * [Chrome Process Per Tab Why and How to Change](/articles/chrome-process-per-tab-why-and-how-to-change/)

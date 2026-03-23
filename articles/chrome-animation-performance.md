@@ -25,9 +25,9 @@ permalink: chrome-animation-performance
 
 Web animation has become an essential part of modern user interfaces. From subtle hover effects to complex interactive experiences, animations help make the web feel alive and responsive. However, poorly optimized animations can have the opposite effect, making your website feel sluggish and frustrating users. This guide will walk you through the fundamentals of Chrome animation performance, helping you create smooth, buttery-smooth animations that delight users rather than annoy them.
 
-Understanding how Chrome handles animations at the browser level is crucial for any web developer. Chrome's rendering engine is powerful, but it needs your help to deliver the best performance. By following the principles in this guide, you will be able to create animations that run at 60 frames per second or higher, resulting in a seamless user experience that feels professional and polished.
+Understanding how Chrome handles animations at the browser level is crucial for any web developer. Chrome's rendering engine is powerful, but it needs your help to deliver the best performance. By following the principles in this guide, you will be able to create animations that run at 60 frames per second or higher, resulting in a smooth user experience that feels professional and polished.
 
-## The Basics of Browser Rendering
+The Basics of Browser Rendering
 
 Before diving into specific techniques, it is important to understand how Chrome actually renders web pages. When the browser needs to display something on screen, it goes through a process called the rendering pipeline. This pipeline consists of several stages, each of which can impact performance.
 
@@ -37,7 +37,7 @@ When you animate a property like width, height, or margin, you are forcing the b
 
 Properties like transform and opacity, on the other hand, can often be handled entirely by the compositor thread, bypassing the expensive layout and paint stages entirely. This is why CSS transforms and opacity are the gold standard for smooth web animations. By choosing the right properties to animate, you can dramatically improve performance without changing anything else about your implementation.
 
-## Understanding requestAnimationFrame
+Understanding requestAnimationFrame
 
 The requestAnimationFrame API is perhaps the most important tool in your animation performance toolkit. Instead of using setInterval or setTimeout to control your animations, you should always use requestAnimationFrame. This method tells the browser that you want to perform an animation, and the browser will call your function at the optimal time for rendering, typically right before the next screen repaint.
 
@@ -68,7 +68,7 @@ requestAnimationFrame(animate);
 
 One key principle to remember is to always calculate animation values based on elapsed time, not on the number of frames that have passed. This ensures that your animation runs at a consistent speed regardless of the actual frame rate, which can vary significantly between devices.
 
-## Mastering the will-change Property
+Mastering the will-change Property
 
 The CSS will-change property is a powerful optimization hint that tells the browser to prepare for upcoming changes to an element. When you use will-change, the browser can take proactive steps to optimize rendering, such as creating separate composite layers for the affected elements before they are needed.
 
@@ -98,7 +98,7 @@ It is also worth noting that will-change should be applied in CSS rather than Ja
 }
 ```
 
-## Understanding Composite Layers
+Understanding Composite Layers
 
 Composite layers are the key to understanding how Chrome achieves smooth animations. When the browser composites a page, it takes all the painted elements and combines them into the final image displayed on screen. By default, related elements are composited together, but you can force Chrome to create separate layers for specific elements using various techniques.
 
@@ -112,7 +112,7 @@ It is important to understand that composite layers are not free. Each layer con
 
 A common anti-pattern is applying will-change to every animated element without considering the overall impact. This can create hundreds of separate layers where only a few would suffice. Always measure the impact of your optimizations and be prepared to dial them back if they cause problems.
 
-## Preventing Jank and Stuttering
+Preventing Jank and Stuttering
 
 Jank occurs when animations skip frames or stutter, breaking the illusion of smooth motion. There are many potential causes of jank, but the most common are layout thrashing, expensive JavaScript execution, and insufficient frame budget.
 
@@ -124,7 +124,7 @@ Another cause of jank is animating properties that trigger layout or paint. As m
 
 Chrome also provides the Frame Timing API, which allows you to measure actual frame times in production. This can help you identify performance issues that might not be apparent during development. By monitoring frame times, you can catch problems before they impact too many users.
 
-## Real-World Optimization Strategies
+Real-World Optimization Strategies
 
 Putting all this theory into practice requires a systematic approach. Start by identifying the animations that are most important to your user experience and most likely to cause performance problems. Not all animations need to run at 60 frames per second; subtle micro-interactions can often get by with lower frame rates, while primary animations like page transitions should always be smooth.
 
@@ -136,7 +136,7 @@ Testing on real devices is important because performance characteristics can var
 
 One often-overlooked aspect of animation performance is the impact of browser extensions. Extensions can add overhead to every page you load, potentially causing animations to stutter. If you use tools like Tab Suspender Pro to manage your browser tabs efficiently, you may find that your development environment runs more smoothly, as fewer active tabs means fewer resources being consumed by background processes. This can make it easier to identify and fix animation performance issues without interference from other factors.
 
-## Conclusion
+Conclusion
 
 Creating performant animations in Chrome requires understanding the browser's rendering pipeline and making smart choices about which properties to animate. By using requestAnimationFrame for your animation loops, applying will-change strategically to promote elements to their own composite layers, and avoiding expensive property animations that trigger layout and paint, you can create smooth, professional-quality animations that work well across all devices.
 
@@ -144,14 +144,14 @@ Remember that optimization is a process. Start with the fundamentals, measure yo
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome User Data Directory: What Each File Does](/articles/chrome-user-data-directory-what-each-file-does/)
 * [Chrome Extensions for Meeting Notes](/articles/chrome-extensions-for-meeting-notes/)
 * [chrome for crypto portfolio tracking web](/articles/chrome-for-crypto-portfolio-tracking-web/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions)
 - [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)

@@ -8,13 +8,13 @@ description: Learn how to use Chrome Web NFC API to read and write NFC tags dire
 
 Chrome Web NFC capability represents one of the most exciting advancements in browser technology, allowing web developers to create applications that can communicate directly with NFC tags. This technology opens up a wide range of possibilities for interactive web experiences, from retail applications to event management systems.
 
-## What Is Chrome Web NFC?
+What Is Chrome Web NFC?
 
 The Web NFC API enables web pages to read and write NFC tags through the browser. NFC (Near Field Communication) uses short-range wireless technology to exchange data between devices when they are placed close together, typically within 4 centimeters or less.
 
 Chrome became the first browser to implement Web NFC support, making it available on Android devices running Chrome 89 and later. This feature allows web developers to build Progressive Web Apps (PWAs) that can interact with physical NFC tags without requiring a native application.
 
-## Device and Browser Requirements
+Device and Browser Requirements
 
 Before building NFC-enabled web applications, you need to ensure your target devices meet the necessary requirements. Web NFC works exclusively on mobile devices with NFC hardware, and it requires Chrome on Android.
 
@@ -26,7 +26,7 @@ Your users will need:
 
 Desktop browsers do not support Web NFC because they lack NFC hardware. However, the API is designed to gracefully degrade on unsupported devices, allowing you to provide alternative experiences.
 
-## How to Read NFC Tags in Chrome
+How to Read NFC Tags in Chrome
 
 Reading NFC tags with the Web NFC API involves checking for browser support, requesting permission, and then scanning for tags. Here is a practical example:
 
@@ -58,7 +58,7 @@ async function startNfcScan() {
 
 The scan method initiates the NFC polling process. When a compatible tag comes into range, the onreading event handler receives an NDEFMessage object containing the tag's records. Each record has a recordType, mediaType, and data property that you can process according to your application's needs.
 
-## Writing Data to NFC Tags
+Writing Data to NFC Tags
 
 Writing to NFC tags follows a similar pattern to reading. You create an NDEFReader instance and call the write method with the data you want to store:
 
@@ -89,7 +89,7 @@ writeToNfcTag({
 
 When writing data, keep in mind that NFC tags have limited storage capacity. Most standard NDEF tags can hold between 144 bytes and several kilobytes, depending on the tag type. Text records are typically encoded in UTF-8, so account for this when planning your data structure.
 
-## Permissions and User Interaction
+Permissions and User Interaction
 
 Web NFC requires explicit user permission before the browser can access NFC functionality. The permission request happens automatically when you call the scan or write methods for the first time.
 
@@ -97,7 +97,7 @@ Chrome displays a permission prompt asking the user to allow or deny NFC access.
 
 The permission model ensures users maintain control over their NFC hardware. However, it also means your application should handle permission denial gracefully. Always provide clear instructions to users about why NFC access is needed and what benefits it provides.
 
-## Practical Applications
+Practical Applications
 
 The ability to read and write NFC tags from a web browser creates numerous practical applications across different industries.
 
@@ -105,11 +105,11 @@ In retail environments, businesses can use Web NFC to create smart product label
 
 Event organizers can implement check-in systems using NFC wristbands or badges. Attendees simply tap their badge against a staff member's device, and the system instantly records their presence. This approach is faster than QR codes and works reliably even in crowded venues.
 
-For productivity enthusiasts, combining NFC tags with tools like **Tab Suspender Pro** creates powerful automation workflows. You could tap an NFC tag to automatically open a specific set of tabs, trigger a reading mode extension, or activate a focused browsing session for work tasks.
+For productivity enthusiasts, combining NFC tags with tools like Tab Suspender Pro creates powerful automation workflows. You could tap an NFC tag to automatically open a specific set of tabs, trigger a reading mode extension, or activate a focused browsing session for work tasks.
 
 Inventory management becomes significantly easier when workers can scan tags to update stock levels or locate items. Since Web NFC works in the browser, you can build lightweight inventory systems without app store approval processes.
 
-## Testing Your Implementation
+Testing Your Implementation
 
 Testing Web NFC applications requires physical NFC tags and a compatible Android device. Chrome DevTools provides emulation capabilities that can help during development, but real-world testing remains essential.
 
@@ -117,7 +117,7 @@ For testing, purchase NFC stickers or tags formatted for NDEF. You can find affo
 
 When debugging, use Chrome's remote debugging features to inspect NFC events. The console will display information about scanned tags, successful writes, and any errors that occur during communication.
 
-## Limitations and Considerations
+Limitations and Considerations
 
 While Web NFC offers powerful capabilities, developers should understand its current limitations.
 
@@ -129,7 +129,7 @@ Security considerations are important when implementing Web NFC. Always validate
 
 Battery consumption increases during NFC scanning, so consider providing users with controls to start and stop scanning rather than leaving NFC active continuously.
 
-## The Future of Web NFC
+The Future of Web NFC
 
 Browser NFC support continues to evolve, with discussions ongoing about expanding availability to other platforms. The Web NFC Community Group is working on specification improvements that could bring additional features and better cross-browser compatibility.
 
@@ -137,4 +137,4 @@ As Progressive Web Apps gain more capabilities and browser vendors continue to i
 
 Chrome Web NFC represents a significant step toward bridging the gap between web applications and physical objects. By understanding how to read and write NFC tags in Chrome, you can create innovative experiences that combine the accessibility of the web with the tangible interaction of physical tags.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

@@ -16,7 +16,7 @@ author: theluckystrike
 
 If you are searching for how to enable cookies in chrome, you likely ran into a problem where a website will not let you stay logged in, keeps asking you to sign in over and over, or shows error messages saying cookies are blocked. This is a frustrating situation that happens when Chrome's cookie settings prevent websites from storing the information they need to recognize you. This guide will walk you through exactly how to enable cookies in chrome and get everything working again.
 
-## Why Cookies Are Important for Websites
+Why Cookies Are Important for Websites
 
 Cookies are small data files that websites store on your computer to remember who you are and how you like to use their service. When you log into your email, online banking, or favorite shopping site, cookies tell the website that you have already signed in so you do not have to enter your password on every single page. Without cookies, you would need to log in again every time you clicked a link or refreshed the page.
 
@@ -24,7 +24,7 @@ Beyond keeping you logged in, cookies also help websites remember your preferenc
 
 Chrome allows you to control cookie settings, which gives you privacy choices, but it also means that if cookies are accidentally disabled or restricted too much, websites simply stop working properly. Understanding how to enable cookies puts you back in control of your browsing experience.
 
-## How to Enable Cookies in Chrome Settings
+How to Enable Cookies in Chrome Settings
 
 The most straightforward way to enable cookies in Chrome is through the browser settings. Here is the step-by-step process to get cookies working again.
 
@@ -40,7 +40,7 @@ If the toggle is off, click on it once to turn it on. You should see the toggle 
 
 Below this main toggle, you may also see some additional options. One of them might say Block third-party cookies. If this is turned on, some websites that rely heavily on third-party tracking might not work perfectly, but first-party cookies needed for logging in should still work fine. If you are still having trouble after enabling the main cookie toggle, you might want to try turning off the block on third-party cookies as well.
 
-## How to Enable Cookies for a Specific Website
+How to Enable Cookies for a Specific Website
 
 Sometimes you might want to allow cookies for certain websites while keeping them blocked for others. Chrome lets you do this with site-specific cookie permissions.
 
@@ -50,7 +50,7 @@ From the address bar menu, you can set specific permissions for that particular 
 
 This approach is useful if you trust a specific website and want it to remember you, but you prefer to block cookies from sites you do not know or trust as much.
 
-## What to Do If Cookies Still Are Not Working
+What to Do If Cookies Still Are Not Working
 
 If you have enabled cookies but websites still are not working properly, there are a few other things to check.
 
@@ -60,7 +60,7 @@ Another thing to try is clearing your existing cookies and site data. Sometimes 
 
 If you are using Chrome at work or school, your organization might have set up policies that restrict cookie settings. In this case, you might not be able to change the settings yourself, and you would need to contact your IT administrator for help.
 
-## Managing Your Cookie Settings Going Forward
+Managing Your Cookie Settings Going Forward
 
 Now that you know how to enable cookies in chrome, you can manage your settings as needed. It is a good idea to periodically check your cookie settings if you notice websites suddenly stopping working, especially after updating Chrome or installing new extensions.
 
@@ -70,7 +70,7 @@ For those who want a smoother browsing experience with less manual management, b
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome Geolocation Permission Settings](/articles/chrome-geolocation-permission-settings/)
 * [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut/)
 * [Chrome WebXR API Virtual Reality](/articles/chrome-webxr-api-virtual-reality/)

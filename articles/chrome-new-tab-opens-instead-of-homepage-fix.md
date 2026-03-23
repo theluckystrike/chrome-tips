@@ -12,7 +12,7 @@ author: theluckystrike
 
 Chrome new tab opens instead of homepage fix is something many people search for when their browser stops behaving the way they expect. You set up your homepage exactly how you want it, but every time you click the home button or open Chrome, you get a blank new tab page instead. This is annoying, especially when you want to quickly access your favorite websites. The good news is that this problem usually has a simple cause and an even simpler fix. Let me explain what is going on and how you can get Chrome behaving the way you want.
 
-## Why Chrome Opens New Tab Instead of Your Homepage
+Why Chrome Opens New Tab Instead of Your Homepage
 
 There are several reasons why Chrome might open a new tab instead of your chosen homepage. Understanding the cause will help you apply the right fix.
 
@@ -24,11 +24,11 @@ Sometimes Chrome updates can reset your preferences. When Chrome updates to a ne
 
 Finally, if your Chrome was affected by unwanted software or a browser hijacker, that could also cause this problem. Some malicious programs specifically target your browser settings and change them to direct you to certain websites.
 
-## How to Fix Chrome Opening New Tab Instead of Homepage
+How to Fix Chrome Opening New Tab Instead of Homepage
 
 Here are the steps you can take to fix this problem. Try these in order until your browser starts behaving correctly.
 
-### Check Your Chrome Settings
+Check Your Chrome Settings
 
 The first thing to do is check your Chrome settings to make sure everything is configured correctly.
 
@@ -38,7 +38,7 @@ On the settings page, look for the section labeled "On startup." This is where y
 
 Now scroll down to the section called "New tab page." This is a separate setting that controls what happens when you open a new tab. Make sure this is set to the way you want it. If you want your homepage to open when you click the home button, you need to make sure the "On startup" setting is correct, not the new tab setting.
 
-### Reset Your Homepage Using the Home Button
+Reset Your Homepage Using the Home Button
 
 If you want the home button to take you to your homepage instead of opening a new tab, you need to make sure the home button is enabled and properly configured.
 
@@ -46,7 +46,7 @@ In Chrome settings, look for the "Appearance" section. Make sure the setting for
 
 Below that setting, you should see an option for what the home button does. You can choose between opening your homepage or opening the new tab page. Make sure you select your homepage here. If you do not see this option, it might be hidden. Click on the arrow next to "Show home button" to expand the settings and find the option to choose your homepage.
 
-### Check Your Extensions
+Check Your Extensions
 
 Extensions can sometimes override your browser settings. To check if an extension is causing the problem, you need to look at what extensions you have installed.
 
@@ -56,7 +56,7 @@ Look through your installed extensions and think about when the problem started.
 
 If you are not sure which extension is causing the problem, you can turn off all extensions temporarily. At the top of the extensions page, there is a toggle for "Developer mode." Turn that on, and then you can use the "Remove" button to uninstall extensions one by one. After removing each extension, test Chrome to see if the problem is fixed.
 
-### Clear Your Browser Data
+Clear Your Browser Data
 
 Sometimes corrupted data in Chrome can cause unexpected behavior. Clearing your browser data might fix the problem.
 
@@ -66,7 +66,7 @@ Make sure "Cookies and site data" is selected, and also select "Cached images an
 
 After clearing your data, restart Chrome and check if your homepage opens correctly.
 
-### Reset Chrome to Default Settings
+Reset Chrome to Default Settings
 
 If nothing else has worked, you can reset Chrome to its default settings. This will restore all settings to how they were when you first installed Chrome.
 
@@ -74,7 +74,7 @@ In Chrome settings, look for the option to "Reset settings" in the left sidebar.
 
 This will not delete your bookmarks or saved passwords, but it will reset all other settings including your homepage, new tab page, and extension settings. After resetting, you will need to set up your homepage again using the steps mentioned earlier.
 
-## Preventing This Problem in the Future
+Preventing This Problem in the Future
 
 Once you have fixed the issue, there are steps you can take to prevent it from happening again.
 
@@ -84,7 +84,7 @@ Keep Chrome updated to the latest version. Updates often include bug fixes and i
 
 Be cautious when installing other software on your computer. Some programs try to change your browser settings as part of their installation. Always look for checkboxes during installation that might be trying to modify your browser, and make sure to uncheck them if you do not want those changes.
 
-## Additional Help With Tab Management
+Additional Help With Tab Management
 
 If you want extra control over what happens when you open new tabs, there are tools available that can help. Tab Suspender Pro is an extension that helps you manage your tabs more effectively and can give you more control over your browsing experience. It allows you to see exactly what is happening with your tabs and can help prevent unwanted changes to your settings.
 
@@ -94,9 +94,9 @@ Using a tool like Tab Suspender Pro can serve as an extra layer of protection. I
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [chrome mutation observer api explained](/articles/chrome-mutation-observer-api-explained/)
 * [Chrome Web Share API Explained](/articles/chrome-web-share-api-explained/)
 * [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

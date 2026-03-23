@@ -14,7 +14,7 @@ author: theluckystrike
 
 If you have ever noticed that Chrome seems to get slower the longer you keep it running, you are not imagining things. Many users search for "chrome memory usage keeps going up over time fix" because they experience exactly this problem. Your browser starts out fast and responsive, but after a few hours of use, it gradually consumes more and more memory until your computer feels sluggish. This is a common issue with straightforward solutions.
 
-## Why Does Chrome Memory Keep Growing
+Why Does Chrome Memory Keep Growing
 
 Chrome memory usage keeps going up over time for several reasons. Understanding why this happens helps you apply the right fixes.
 
@@ -26,7 +26,7 @@ Websites themselves can also cause memory to grow. Modern websites often use Jav
 
 Finally, Chrome caches data to speed up your browsing. While caching is helpful for performance, over time this cached data builds up and can contribute to growing memory usage.
 
-## Quick Fixes You Can Try Right Now
+Quick Fixes You Can Try Right Now
 
 Before trying more involved solutions, start with these quick fixes that often solve the problem.
 
@@ -36,7 +36,7 @@ Clearing your browsing data can also help. Go to Chrome settings, click on Priva
 
 Disabling extensions temporarily can reveal if an extension is causing the issue. Open Chrome in incognito mode, which runs without extensions, and see if the memory problem persists. If Chrome runs fine in incognito mode, one of your extensions is likely the culprit. Return to normal mode and disable extensions one by one to identify the problem.
 
-## Adjusting Chrome Settings for Better Memory Management
+Adjusting Chrome Settings for Better Memory Management
 
 Chrome has built-in settings that can help control memory usage over time.
 
@@ -46,7 +46,7 @@ You can also manage site settings to control how websites use memory. Go to Sett
 
 Consider turning off hardware acceleration if you continue having issues. Go to Chrome settings, search for hardware acceleration, and disable it. This can resolve memory issues on some systems, though it may affect video playback quality.
 
-## Managing Your Tabs Effectively
+Managing Your Tabs Effectively
 
 The number of tabs you keep open directly impacts memory usage. Learning to manage tabs better can significantly reduce the problem.
 
@@ -56,7 +56,7 @@ Use Chrome tab groups to organize related tabs. Right-click on a tab and select 
 
 Consider using a tab management extension that helps you save and organize tabs. Tab Suspender Pro is one option that automatically suspends tabs you have not used recently, saving memory without losing your place. It suspends inactive tabs and brings them back when you click on them, which can significantly reduce memory usage over time.
 
-## When to Consider a Fresh Start
+When to Consider a Fresh Start
 
 If the problem persists despite trying these fixes, a more thorough approach may be necessary.
 
@@ -64,7 +64,7 @@ Reset Chrome to default settings by going to Settings, clicking Advanced, and se
 
 If problems continue, your Chrome user data folder may be corrupted. Completely uninstall Chrome, then delete the Chrome user data folder from your system before reinstalling. This gives you a completely fresh start.
 
-## Keeping Chrome Running Smoothly Long-Term
+Keeping Chrome Running Smoothly Long-Term
 
 Once you have fixed the immediate problem, a few habits can help prevent memory issues from returning.
 
@@ -80,9 +80,9 @@ Monitor memory usage using Chrome Task Manager. Press Shift+Escape to open it an
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for Keyboard Shortcut Customization](/articles/chrome-for-keyboard-shortcut-customization/)
 * [How to Change Chrome Font Size Permanently](/articles/chrome-font-size-permanently-change/)
 * [Chrome Cookie Consent Popups How to Auto Reject](/articles/chrome-cookie-consent-popups-how-to-auto-reject/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

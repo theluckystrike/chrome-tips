@@ -16,13 +16,13 @@ author: theluckystrike
 
 How to pin a website in Chrome taskbar is something many Chrome users wonder about. Whether you use Chrome on Windows or Mac, having your favorite websites appear in your taskbar can save time and make your workflow smoother. Instead of opening Chrome and typing a URL or searching for a bookmark, you can simply click an icon right from your desktop. Let me walk you through the different ways to do this.
 
-## Why Pin Websites to Your Taskbar
+Why Pin Websites to Your Taskbar
 
 Before we get into the how, let me explain why you might want to pin websites to your taskbar. If you frequently visit certain websites like your email, calendar, project management tool, or favorite news site, pinning them gives you instant access. It is especially useful for web applications that function like desktop programs, such as Gmail, Google Docs, Trello, or Slack.
 
 When you pin a website, it appears as a separate icon in your taskbar or dock. This means you do not need to keep a Chrome window open just to access that site quickly. You can launch it with a single click, and it will open in its own window if you prefer, or in a new tab within Chrome. This makes your browsing feel more organized and efficient.
 
-## Pinning Websites on Windows
+Pinning Websites on Windows
 
 If you use Chrome on Windows, the process is straightforward and built right into Chrome. Here is what you need to do.
 
@@ -36,7 +36,7 @@ There is another way to do this as well. With the website open, look in the top 
 
 Both methods work well. The drag-and-drop method is faster once you get used to it, while the menu method gives you a bit more control over where the shortcut appears.
 
-## Pinning Websites on Mac
+Pinning Websites on Mac
 
 On Mac, the process is slightly different but still simple. Mac users have the option to pin websites to their Dock, which is the bar of icons at the bottom or side of the screen.
 
@@ -48,13 +48,13 @@ Once the shortcut is on your Desktop, you can drag it to your Dock. It will stay
 
 Mac users also have the option to use the built-in pinning feature in Chrome itself. When you pin a tab in Chrome, it stays visible at the left side of your tab bar even when you open many other tabs. This is different from pinning to the Dock, but it serves a similar purpose of keeping your favorite sites within easy reach.
 
-## Using Extensions for Extra Features
+Using Extensions for Extra Features
 
 If you want more flexibility or features when pinning websites, there are extensions available that can help. One option worth considering is Tab Suspender Pro, which helps manage your open tabs and can create quick access shortcuts for your most visited sites. This extension adds useful functionality beyond what the basic Chrome pinning offers, such as automatically suspending tabs you are not using to save memory while keeping them just a click away.
 
 There are also other extensions in the Chrome Web Store that let you create custom shortcuts, organize them into folders, or add keyboard shortcuts to launch pinned sites even faster. Browse the extensions section of the Web Store to find what works best for your needs.
 
-## Keeping Your Pinned Sites Organized
+Keeping Your Pinned Sites Organized
 
 Once you have pinned several websites, take a moment to organize them. On Windows, you can drag the icons in your taskbar to reorder them. Put your most frequently used sites in the positions that are easiest to reach. On Mac, you can do the same in your Dock.
 
@@ -62,7 +62,7 @@ It is also a good idea to remove pins for sites you no longer visit frequently. 
 
 Another tip is to name your shortcuts clearly. When Chrome creates a shortcut, it usually uses the website name, which is helpful. However, if you have multiple accounts or versions of the same site, you might want to add a note to the shortcut name so you know which one is which.
 
-## What to Do If Pinning Does Not Work
+What to Do If Pinning Does Not Work
 
 Sometimes the drag-and-drop method does not work as expected. This can happen if your taskbar is locked or if you are using certain versions of Windows or Mac. If dragging does not work, try the "Create shortcut" method from the menu instead.
 
@@ -70,13 +70,13 @@ Another issue you might encounter is that the website shortcut opens in your mai
 
 If you ever want to remove a pinned site, simply right-click on it in your taskbar or Dock and choose the option to unpin or remove it. The website will no longer appear there, though your bookmarks and history will remain intact.
 
-## Enjoy Quick Access to Your Favorite Sites
+Enjoy Quick Access to Your Favorite Sites
 
 Pinning websites to your taskbar is a small change that can make a big difference in your daily browsing. It takes just a few seconds to set up, and once you have your most-used sites pinned, you will wonder how you ever managed without it. Give it a try with a few of your favorite websites and see how much faster your workflow becomes.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome payment request api what users see](/articles/chrome-payment-request-api-what-users-see/)
 * [Chrome Casting to Chromecast Not Working Fix](/articles/chrome-casting-to-chromecast-not-working-fix/)
 * [Chrome Contact Picker API Explained](/articles/chrome-contact-picker-api-explained/)

@@ -23,7 +23,7 @@ author: theluckystrike
 
 If you have been working with web development for any length of time, you are probably familiar with the User-Agent header. For decades, websites have relied on this simple string to identify which browser a visitor is using, what operating system they run, and other details about their device. However, Google Chrome has been gradually replacing this older approach with something called Client Hints. Understanding why this change is happening and how it affects your websites is essential for any modern web developer.
 
-## The Problem with User-Agent Strings
+The Problem with User-Agent Strings
 
 The User-Agent string has been part of web browsing since the earliest days of the internet. When your browser requests a webpage, it sends along a header that looks something like this: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36. This long string contains information about your browser, operating system, and device type.
 
@@ -31,7 +31,7 @@ While this might seem convenient, the User-Agent string has become a significant
 
 Additionally, the User-Agent string has grown messy and unreliable over time. Browsers started including strings from other browsers to ensure compatibility, resulting in absurdly long strings that are difficult to parse. Many websites struggle to correctly identify browsers and devices because the information is often misleading or incomplete.
 
-## How Chrome Client Hints Work
+How Chrome Client Hints Work
 
 Chrome Client Hints provide a cleaner, more controlled way for browsers to share device and browser information with websites. Instead of sending a massive string with every single request, browsers now offer a set of specific hints that servers can request when needed.
 
@@ -41,7 +41,7 @@ For example, instead of parsing a complex User-Agent string, a server can simply
 
 Chrome client hints instead of user agent strings represent a fundamental shift in how browsers communicate with web servers. The browser now takes a more active role in determining what information is shared, giving users more control over their privacy while still providing developers with the data they need to create responsive, well-functioning websites.
 
-## Key Client Hints You Should Know
+Key Client Hints You Should Know
 
 Several Client Hints have been introduced as part of this transition. The Sec-CH-UA header provides the browser's brand and version information in a structured format. Sec-CH-UA-Mobile indicates whether the device is a mobile phone. Sec-CH-UA-Platform reveals the operating system name, while Sec-CH-UA-Platform-Version provides more detailed version information.
 
@@ -49,7 +49,7 @@ Beyond these basic hints, there are also more specific ones like Sec-CH-UA-Arch 
 
 One important thing to note is that Client Hints are opt-in from the server side. Website owners must explicitly request these hints by including the Accept-CH header in their server responses. This gives websites control over which information they want to receive and which they would rather not collect.
 
-## Why This Matters for Your Websites
+Why This Matters for Your Websites
 
 If you maintain any websites or web applications, you will need to update your code to work with Client Hints. The changes affect both the server-side code that processes requests and any client-side JavaScript that relies on the navigator.userAgent property.
 
@@ -57,7 +57,7 @@ The navigator.userAgent property in JavaScript has been the traditional way to d
 
 For server-side code, you will need to update your logic to look for the new headers instead of parsing the User-Agent string. Most modern web frameworks have already added support for Client Hints, so check your documentation to see how to enable and use them.
 
-## Adapting to the New Reality
+Adapting to the New Reality
 
 Making the switch to Client Hints requires some effort, but the long-term benefits are worth it. Not only does this approach improve user privacy, but it also results in cleaner, more maintainable code. Instead of writing complex regex patterns to extract information from a messy string, you can work with well-defined, structured data.
 
@@ -65,13 +65,13 @@ If you are using third-party analytics or advertising services, you should verif
 
 For extension developers, this change is particularly important. Browser extensions often rely on detailed browser and device information, and they will need to be updated to use the new APIs. The good news is that the new APIs are generally easier to work with and provide more consistent results across different browsers.
 
-## Performance Benefits Worth Mentioning
+Performance Benefits Worth Mentioning
 
 Beyond privacy improvements, Chrome Client Hints offer some performance advantages. Because the information is now structured and requested on demand, browsers can avoid sending unnecessary data with every single request. This can slightly reduce bandwidth usage and improve page load times, especially on mobile connections. Users looking to maximize their browser efficiency might also consider using extensions like Tab Suspender Pro, which automatically suspends inactive tabs to free up memory and resources.
 
 Additionally, the reduced User-Agent string means less data being transmitted with each request. While the difference might seem small individually, it adds up across the billions of requests that Chrome handles every day.
 
-## The Future of Browser Detection
+The Future of Browser Detection
 
 The transition from User-Agent to Client Hints represents a broader trend in web development toward better privacy practices and more standardized APIs. While this change might require some upfront work to implement, it ultimately leads to a healthier web ecosystem.
 
@@ -81,14 +81,14 @@ If you have not yet updated your websites to support Client Hints, now is the ti
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Overriding CSS in DevTools: A Practical Tutorial](/articles/chrome-overriding-css-in-devtools-tutorial/)
 * [Chrome Extensions For Coupon Finder Automatic](/articles//articles/chrome-extensions-for-coupon-finder-automatic//)
 * [Why Is Chrome So Slow on My Computer?](/articles/why-is-chrome-so-slow-on-my-computer/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome Extensions for Web Annotation](/articles/chrome-extensions-for-web-annotation)
 - [Chrome Starting Style CSS Explained](/articles/chrome-starting-style-css-explained)

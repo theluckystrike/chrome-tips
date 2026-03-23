@@ -16,7 +16,7 @@ If you are looking for chrome media autoplay how to block, you have probably bee
 
 Media autoplay happens when websites automatically play videos or audio content as soon as you load a page. You did not click play, you did not ask for it, and you certainly did not want to hear whatever sound is now filling your room. This happens because websites have learned that autoplay can keep people on their pages longer, which helps their advertising revenue. Unfortunately, this comes at the cost of your peace and sanity.
 
-## Why Autoplay Is a Problem
+Why Autoplay Is a Problem
 
 Autoplay is more than just an annoyance. When videos start playing unexpectedly, they can be embarrassing if you are in a quiet office or browsing in a public place. The sudden sound can startle you and those around you. Autoplay can also eat up your data allowance if you are on a limited internet plan, since videos load and stream automatically even when you are not watching them.
 
@@ -24,7 +24,7 @@ Beyond the inconvenience, autoplay can also affect your browser performance. Mul
 
 The websites that use autoplay are usually doing it for their own benefit, not yours. They want to capture your attention and keep you on their page longer. By learning how to block media autoplay in Chrome, you are taking back the control that should naturally be yours when you browse the web.
 
-## Using Chrome Settings to Block Autoplay
+Using Chrome Settings to Block Autoplay
 
 Chrome does have some built-in settings that can help reduce autoplay, though they are not as complete as many users would like. Here is how to access what is available.
 
@@ -34,7 +34,7 @@ In the main area of the page, you will see an option called Site Settings. Click
 
 Unfortunately, Chrome's built-in autoplay controls are limited. You can choose to block sound from playing automatically, but this does not stop videos from loading and playing silently. It is a partial solution at best, and many users find that websites still manage to autoplay content despite this setting.
 
-## Blocking Autoplay With Extensions
+Blocking Autoplay With Extensions
 
 The most effective way to block media autoplay in Chrome is to use an extension designed for this purpose. Extensions can give you much more control over what plays and when.
 
@@ -42,7 +42,7 @@ One option worth considering is Tab Suspender Pro. This extension helps manage y
 
 There are other extensions available as well that focus specifically on blocking autoplay. Some work by stopping videos from loading until you specifically click on them, while others can mute all videos by default. When choosing an extension, look at the reviews and permissions it requires to make sure it is trustworthy.
 
-## Using Site Specific Controls
+Using Site Specific Controls
 
 Another approach is to control autoplay on a per-site basis. Chrome allows you to set permissions for individual websites, which means you can block autoplay on the specific sites that bother you most while allowing it on sites where you do not mind.
 
@@ -50,7 +50,7 @@ To do this, visit a website where autoplay is a problem. Click on the lock icon 
 
 This method takes a bit more time since you have to set it for each site individually, but it gives you fine-grained control. You might decide that YouTube can autoplay but news sites cannot, for example.
 
-## Additional Tips for a Quieter Browser
+Additional Tips for a Quieter Browser
 
 Beyond blocking autoplay directly, there are other strategies that can help create a more pleasant browsing experience. Using an ad blocker can sometimes reduce autoplay since many autoplaying videos are embedded in advertisements. Some ad blockers include autoplay blocking as a feature.
 
@@ -58,7 +58,7 @@ Keeping your extensions organized can also help. If you have many extensions ins
 
 Finally, consider using Chrome's built-in mute feature when you do encounter autoplay. You can mute entire tabs by clicking on the speaker icon in any tab that is playing sound. This is a quick fix when you cannot prevent autoplay entirely.
 
-## Taking Back Control
+Taking Back Control
 
 You do not have to put up with videos playing without your permission. While Chrome's built-in tools are not perfect, combining them with the right extension can give you a much more peaceful browsing experience. Whether you choose to use something like Tab Suspender Pro or another solution, the important thing is that you are taking steps to control your own browser.
 
@@ -68,9 +68,9 @@ The web should work for you, not against you. Autoplay exists because it benefit
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions/)
 * [Chrome Telemetry What Data Google Collects](/articles/chrome-telemetry-what-data-google-collects/)
 * [How to Improve Your Chrome Lighthouse Performance Score](/articles/chrome-lighthouse-performance-score-improve/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)

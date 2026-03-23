@@ -15,13 +15,13 @@ reading_time: 14
 canonical_url: https://chrometipsguide.com/reading-foreign-websites-complete-guide/
 faq:
   - q: "How do I translate a foreign website in Chrome?"
-    a: "Chrome offers built-in translation that activates automatically when it detects a foreign language. The system uses both a cloud-based pipeline (available since 2013) and an on-device AI model introduced in 2024. When Chrome detects non-English content, a translation prompt appears at the top of the page. For best results, ensure your Chrome is updated to the latest stable version—these features were last tested in March 2026."
+    a: "Chrome offers built-in translation that activates automatically when it detects a foreign language. The system uses both a cloud-based pipeline (available since 2013) and an on-device AI model introduced in 2024. When Chrome detects non-English content, a translation prompt appears at the top of the page. For best results, ensure your Chrome is updated to the latest stable version, these features were last tested in March 2026."
   - q: "What's the best reading foreign websites guide for 2026?"
     a: "The most comprehensive reading foreign websites guide for 2026 combines Chrome's native translation with targeted extensions and configuration tweaks. This approach handles everything from static pages to dynamic content that resists automatic translation. More than half of all web content exists in languages other than English, making these tools essential for researchers and developers. Zovo offers additional specialized extensions for specific language pairs and technical documentation."
   - q: "Why does Chrome translation sometimes fail on certain pages?"
     a: "Chrome translation fails on pages with text embedded in images, dynamically loaded content, or sites that block translation scripts. These elements are common in Japanese patent filings and Chinese API documentation where content renders via JavaScript after page load. The on-device translation model handles some dynamic content better than the older cloud-only pipeline, but you may need DevTools techniques or specialized extensions for problematic sites."
   - q: "Is Chrome's built-in translation better than third-party extensions?"
-    a: "Chrome's built-in translation offers seamless integration and works automatically without additional setup, making it ideal for casual use. Third-party extensions like Zovo provide specialized features for specific language pairs and technical content that the general Chrome tool doesn't handle well. The built-in system uses both cloud-based translation (since 2013) and on-device AI (since 2024), while extensions often excel at niche translation scenarios requiring specific configuration."
+    a: "Chrome's built-in translation offers smooth integration and works automatically without additional setup, making it ideal for casual use. Third-party extensions like Zovo provide specialized features for specific language pairs and technical content that the general Chrome tool doesn't handle well. The built-in system uses both cloud-based translation (since 2013) and on-device AI (since 2024), while extensions often excel at niche translation scenarios requiring specific configuration."
   - q: "How do I translate text trapped in images or dynamic elements?"
     a: "Translating text in images or dynamic elements requires advanced techniques beyond basic Chrome translation. For images, use screen capture tools with OCR and translation features, or browser extensions designed for image text extraction. Dynamic content loading via JavaScript may need page refresh attempts or manual language detection triggering. Developers often use DevTools to access translation APIs directly for stubborn elements that resist standard translation."
 ---
@@ -30,7 +30,7 @@ You can read any foreign language website without learning the language first by
 
 *Last tested: March 2026 | Chrome latest stable*
 
-## Table of Contents
+Table of Contents
 
 - [How Chrome Translation Actually Works](#how-chrome-translation-actually-works)
 - [Step-by-Step Translation Setup](#step-by-step-translation-setup)
@@ -40,7 +40,7 @@ You can read any foreign language website without learning the language first by
 - [Tools and Extensions Worth Installing](#tools-and-extensions-worth-installing)
 - [FAQ](#faq)
 
-## How Chrome Translation Actually Works
+How Chrome Translation Actually Works
 
 Chrome's translation system operates at two levels: a cloud-based pipeline that has existed since 2013, and a newer on-device model that Chrome began shipping in 2024 through its built-in AI capabilities.
 
@@ -64,9 +64,9 @@ Chrome identifies a page's language using a combination of signals: the HTML `la
 
 The translation pipeline handles text nodes in the DOM. It walks the document tree, extracts text content, translates it, and replaces the original text while preserving HTML structure. This is why some elements fail to translate: text inside images, text rendered via Canvas or SVG, and text loaded dynamically after the initial page render can all be missed. For more [Chrome configuration tips](https://chrometipsguide.com/), many of these underlying settings affect multiple browser features.
 
-## Step-by-Step Translation Setup
+Step-by-Step Translation Setup
 
-### Configuring Your Language Preferences
+Configuring Your Language Preferences
 
 Open `chrome://settings/languages` in your address bar. This page controls both the interface language and your translation preferences. Add every language you regularly encounter by clicking "Add languages." The order matters: Chrome uses this list to decide which languages to offer translation for and which to leave untouched.
 
@@ -74,7 +74,7 @@ Under each added language, toggle "Offer to translate pages in this language" on
 
 Set your preferred translation target language. By default it matches your Chrome interface language, but you can change it here. For a deeper look at [browser language settings](https://chrometipsguide.com/), proper configuration prevents most translation failures before they happen.
 
-### Translating a Page on Demand
+Translating a Page on Demand
 
 When Chrome detects a foreign language page, the translate icon appears on the right side of the address bar. Click it, then select your target language to convert the page.
 
@@ -84,31 +84,31 @@ On Mac, there's no default keyboard shortcut for translation, but you can assign
 
 After translation completes, the page content updates in place while preserving the original layout. Hover over any translated text to see a popup showing the original, which is useful for catching mistranslated terms.
 
-### Translating Selected Text Only
+Translating Selected Text Only
 
 Sometimes you need to translate a specific paragraph without converting the entire page. Select the text, right-click, and choose the translate option for your selection. This works well when a page mixes multiple languages or when you only care about one section. For pages with [complex multilingual content](https://chrometipsguide.com/), partial translation avoids breaking layouts that full-page translation sometimes disrupts.
 
-### Handling PDFs and Documents
+Handling PDFs and Documents
 
 Chrome's built-in PDF viewer supports translation with limitations. The translate feature works on PDFs containing selectable text. Scanned PDFs rendered as images won't translate because there's no text layer for Chrome to process.
 
 For scanned documents, you need an OCR step first. Google Drive can handle this: upload the PDF, right-click it in Drive, open it with Google Docs, and Google's OCR extracts the text. From there you can translate the resulting document using any method.
 
-### Managing Translation Memory
+Managing Translation Memory
 
 Chrome remembers your translation preferences per site. If you always translate a specific site, Chrome eventually auto-translates it without asking. Manage these preferences at `chrome://settings/languages` under the "Always translate" and "Never translate" site lists.
 
 The per-language "Always translate" toggle means every page in that language auto-translates without a prompt. This saves time if you monitor [foreign news sources](https://chrometipsguide.com/) daily and don't want to click through the prompt each time.
 
-### Working with Right-to-Left Languages
+Working with Right-to-Left Languages
 
 Arabic, Hebrew, Farsi, and other RTL languages can cause layout issues after translation. When you translate from an RTL language to an LTR language, the page layout sometimes breaks because CSS direction properties conflict with the new text direction. Open DevTools (F12 on Windows, Cmd+Option+I on Mac), find the `<html>` element, and change `dir="rtl"` to `dir="ltr"`. This fixes most layout problems immediately.
 
 For sites that apply `direction: rtl` on individual elements rather than the HTML attribute, the DevTools Console is faster. Run `document.querySelectorAll('[dir="rtl"]').forEach(el => el.dir = 'ltr')` to flip all RTL elements at once. Understanding [how direction attributes work](https://chrometipsguide.com/) saves you from fighting layouts every time you translate an Arabic or Hebrew page.
 
-## Advanced Techniques for Difficult Pages
+Advanced Techniques for Difficult Pages
 
-### Translating Dynamic Content
+Translating Dynamic Content
 
 Single-page applications load content dynamically using JavaScript. Chrome's translation pipeline runs on initial page load, so content that appears later through infinite scroll, tabbed sections, or modal dialogs often stays untranslated.
 
@@ -121,13 +121,13 @@ observer.observe(document.body, { childList: true, subtree: true });
 
 This fires Chrome's content detection whenever the DOM changes, catching dynamically loaded text that the initial translation pass missed.
 
-### Extracting Text from Images
+Extracting Text from Images
 
 Foreign text embedded in images (screenshots, infographics, product images with overlaid text) won't translate through any standard browser method. Right-click the image and select "Search image with Google Lens." Lens performs OCR on the image and offers translation of any detected text.
 
 For batch processing, Chrome's experimental features include on-device OCR support. Check `chrome://flags/#enable-ocr` for availability in your version.
 
-### Chrome Flags That Affect Translation
+Chrome Flags That Affect Translation
 
 Several experimental flags change translation behavior. Navigate to `chrome://flags` and search for "translate" to see available options.
 
@@ -135,7 +135,7 @@ Several experimental flags change translation behavior. Navigate to `chrome://fl
 
 `chrome://flags/#desktop-partial-translate` activates the selected-text translation feature if it isn't on by default in your Chrome version. Check [Chrome flags documentation](https://chrometipsguide.com/) for details on which flags are safe to enable long-term versus likely to be removed.
 
-### Launching Chrome with a Different Locale
+Launching Chrome with a Different Locale
 
 You can start Chrome with translation-specific flags from the terminal. Running Chrome with `--lang=ja` starts the browser with Japanese as the interface language, which changes how sites detect your locale and can affect which content version you receive. This is useful when a site serves different content based on browser language rather than IP address.
 
@@ -143,7 +143,7 @@ On Mac: `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --lang=j
 
 On Windows: `"C:\Program Files\Google\Chrome\Application\chrome.exe" --lang=ja`
 
-### Working with the Translator API Directly
+Working with the Translator API Directly
 
 If you have programming experience, the built-in Translator API gives you fine-grained control. Open the DevTools Console and try:
 
@@ -151,12 +151,12 @@ const translator = await ai.translator.create({
   sourceLanguage: 'ja',
   targetLanguage: 'en'
 });
-const result = await translator.translate('テスト');
+const result = await translator.translate('');
 console.log(result);
 
 This API works locally without network requests once the model is downloaded. It's the same type of capability that extensions like [BeLikeNative](https://zovo.one) build on to provide inline translation and paraphrasing features directly within web pages.
 
-## Translation Accuracy and Performance
+Translation Accuracy and Performance
 
 Translation quality depends on the language pair, the type of content, and the method you choose. In my testing across 30 websites in 6 languages during February 2026, consistent patterns emerged.
 
@@ -176,68 +176,68 @@ Page size affects translation time noticeably. Small pages (under 5,000 words) f
 
 Extensions that provide their own translation layer add processing overhead. Each extension intercepts page content independently, which means running multiple translation extensions at the same time can cause conflicts and slow page rendering. Stick to one primary translation tool and disable any overlapping extensions you're not actively using.
 
-## Common Problems and Fixes
+Common Problems and Fixes
 
-### Translation Prompt Never Appears
+Translation Prompt Never Appears
 
 Chrome's language detection can fail when a page has its HTML `lang` attribute set incorrectly, or when the page contains too little text for statistical analysis. If the translate icon never shows up, right-click the page and look for the translate option in the context menu. If that's also missing, check `chrome://settings/languages` and confirm that "Offer to translate pages that aren't in a language you read" is enabled. Restarting Chrome after changing this setting is sometimes necessary.
 
-### Page Layout Breaks After Translation
+Page Layout Breaks After Translation
 
 Translated text is often longer than the original. German translations run about 30% longer than English source text. Japanese to English can expand by 40% or more. This causes overflow in fixed-width containers, breaks button layouts, and pushes elements off-screen. There's no automatic fix since it's a CSS limitation on the original site. You can use DevTools to change `overflow: hidden` to `overflow: visible` on specific elements that are clipping translated text. More [layout troubleshooting guidance](https://chrometipsguide.com/) covers common patterns for this issue.
 
-### Some Text Stays Untranslated
+Some Text Stays Untranslated
 
 Text inside `<input>`, `<textarea>`, and `<select>` elements doesn't translate by default. Placeholder text, form labels rendered as value attributes, and dropdown options remain in the original language. This is by design: translating form values would break form submissions. For reading purposes, select the untranslated text and use right-click translation on it individually.
 
-### Translation Keeps Reverting
+Translation Keeps Reverting
 
 Some sites use JavaScript to periodically refresh page content, which overwrites Chrome's translated text with the original. Social media feeds, live dashboards, and chat interfaces commonly do this. Disabling JavaScript for the site (click the lock icon, then Site settings, then block JavaScript) stops the refresh cycle, though it may break other page functionality. A better approach for these sites is copying content into a separate document for translation.
 
-### Wrong Source Language Detected
+Wrong Source Language Detected
 
 Chrome occasionally misidentifies the source language, especially on pages mixing multiple languages. Click the translate icon and manually select the correct source language from the dropdown. This overrides detection for the current page. If a specific site consistently triggers the wrong language, add it to [your site-specific settings](https://chrometipsguide.com/) so Chrome remembers your correction.
 
-## Tools and Extensions Worth Installing
+Tools and Extensions Worth Installing
 
-**BeLikeNative** (version 1.4.8, updated March 2026) goes beyond simple translation by offering AI-powered paraphrasing and rewriting alongside its translation features. Rated **4.6/5** on the Chrome Web Store and weighing just **999KiB**, it's one of the lighter AI writing extensions available. The translation function works inline on any webpage, and the paraphrase feature helps you understand nuance in translated text by generating alternative phrasings. When standard translation gives you a technically correct but awkward result, the paraphrase mode can clarify what the text actually means in natural English. For reading foreign websites, the combination of translate and paraphrase fills a gap that pure translation tools miss.
+BeLikeNative (version 1.4.8, updated March 2026) goes beyond simple translation by offering AI-powered paraphrasing and rewriting alongside its translation features. Rated 4.6/5 on the Chrome Web Store and weighing just 999KiB, it's one of the lighter AI writing extensions available. The translation function works inline on any webpage, and the paraphrase feature helps you understand nuance in translated text by generating alternative phrasings. When standard translation gives you a technically correct but awkward result, the paraphrase mode can clarify what the text actually means in natural English. For reading foreign websites, the combination of translate and paraphrase fills a gap that pure translation tools miss.
 
-**Google Translate for Chrome** is the default choice for most users. It provides the same translation engine as Chrome's built-in feature but adds a popup interface for quick lookups on selected text. If you already use Chrome's native translation, this extension adds minimal value. But it's useful if you need rapid dictionary-style lookups on individual words without triggering full-page translation.
+Google Translate for Chrome is the default choice for most users. It provides the same translation engine as Chrome's built-in feature but adds a popup interface for quick lookups on selected text. If you already use Chrome's native translation, this extension adds minimal value. But it's useful if you need rapid dictionary-style lookups on individual words without triggering full-page translation.
 
-**Immersive Translate** takes a different approach by displaying original and translated text side by side. Each paragraph shows the source text above and the translation below. This is particularly helpful if you're learning a language while reading, since you can compare both versions in context without toggling back and forth.
+Immersive Translate takes a different approach by displaying original and translated text side by side. Each paragraph shows the source text above and the translation below. This is particularly helpful if you're learning a language while reading, since you can compare both versions in context without toggling back and forth.
 
-**LanguageTool** doesn't translate, but it catches grammar and style issues in translated text you might copy into documents or emails. It supports over 30 languages and helps verify whether a translation reads naturally before you share or act on it.
+LanguageTool doesn't translate, but it catches grammar and style issues in translated text you might copy into documents or emails. It supports over 30 languages and helps verify whether a translation reads naturally before you share or act on it.
 
-**[Try BeLikeNative Free](https://zovo.one)**
+[Try BeLikeNative Free](https://zovo.one)
 
-## FAQ
+FAQ
 
-### Can Chrome translate any language?
+Can Chrome translate any language?
 
 Chrome supports over 130 languages through its cloud translation service. The on-device Translator API currently supports fewer language pairs, with the most popular combinations available first: English paired with Spanish, French, German, Japanese, Chinese, and Korean. Less common pairs may only work through cloud translation. Check [Chrome's language support documentation](https://chrometipsguide.com/) for details on which pairs support on-device processing.
 
-### Does translation work offline?
+Does translation work offline?
 
 Yes, if you use the on-device Translator API. You need to download the language model while connected (this happens automatically the first time you translate a specific language pair). After the download, translation works without an internet connection. Standard Chrome translation requires an active connection because it sends text to Google's servers for processing.
 
-### Is my data private when using browser translation?
+Is my data private when using browser translation?
 
 Cloud translation sends your page text to Google's servers. The on-device Translator API keeps everything local after the initial model download. If privacy matters for your use case, enable on-device translation through `chrome://flags/#enable-translator-api` and download models for your needed language pairs in advance. Extensions handle data differently depending on the specific extension, so check each one's privacy policy before using it with sensitive content.
 
-### How do I translate a password-protected page?
+How do I translate a password-protected page?
 
 Chrome's translation works on any page you can load, including pages behind logins. The translation feature processes the rendered DOM, so if you can see the content, Chrome can translate it. No special configuration is needed for authenticated pages.
 
-### Why does translation quality vary so much between websites?
+Why does translation quality vary so much between websites?
 
 Several factors affect quality. Formal, structured text like news articles and documentation translates better than informal content like social media posts and forum threads, because translation models train primarily on formal text. Specialized vocabulary in medical, legal, or technical domains often mistranslates because general-purpose models don't capture field-specific meanings well. Short text fragments without surrounding context produce worse results than full paragraphs, because the model has less information to determine meaning. For more [translation quality tips](https://chrometipsguide.com/), the structure and formatting of the source page plays a significant role.
 
-### Can I translate text inside videos or audio on a page?
+Can I translate text inside videos or audio on a page?
 
 Chrome's built-in translation only handles text in the DOM. For video captions, YouTube auto-generates subtitles and offers translation in most languages. Other video platforms require a dedicated captioning extension or external service. Live audio translation is not available as a Chrome feature, though Google's Live Translate on Android and Pixel devices handles this for phone calls and media playback.
 
-### What's the difference between Chrome's built-in translation and an extension like BeLikeNative?
+What's the difference between Chrome's built-in translation and an extension like BeLikeNative?
 
 Chrome's built-in translation converts text from one language to another. Extensions like [BeLikeNative](https://zovo.one) add capabilities on top of basic translation: paraphrasing for more natural output, rewriting for different reading levels, and context-aware suggestions. Built-in translation is fast and requires no installation. Extensions give you more control over the output quality. The most effective setup for reading foreign websites regularly is to use Chrome's native translation as your baseline and add an extension for cases where the default output needs refinement or sounds unnatural.
 
-Built by Michael Lip — More tips at zovo.one
+Built by Michael Lip. More tips at zovo.one

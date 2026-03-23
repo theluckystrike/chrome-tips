@@ -13,13 +13,13 @@ last_modified_at: '2026-03-12'
 
 CSS Subgrid is one of the most powerful layout features to arrive in modern browsers, and Chrome has full support for it. If you have been struggling with nested grid alignments or want to create complex layouts where child elements inherit parent grid tracks, subgrid is the solution you need. This guide walks through practical Chrome subgrid layout examples that you can use in your projects today.
 
-## What Is Subgrid?
+What Is Subgrid?
 
 Before diving into examples, let us understand what makes subgrid special. Traditional CSS Grid allows you to create two-dimensional layouts with rows and columns. However, when you nest a grid inside a grid item, the inner grid loses its connection to the parent is rows and columns. Subgrid fixes this by allowing nested grids to inherit track sizes from their parent grid, enabling true alignment across nested layout levels.
 
 Chrome added subgrid support starting with version 117, and it works alongside Firefox and Safari to provide cross-browser compatibility for this feature. To use subgrid, you create a parent grid with defined rows or columns, then use `grid-template-rows: subgrid` or `grid-template-columns: subgrid` on the child grid to inherit those tracks.
 
-## Example 1: Card Component with Aligned Headers
+Example 1: Card Component with Aligned Headers
 
 One of the most common use cases for subgrid is creating card layouts where all card headers align perfectly, even when the content varies in length. Without subgrid, you would need to manually set heights or use workarounds that break when content changes.
 
@@ -68,7 +68,7 @@ The HTML structure would look like this:
 
 This pattern is incredibly useful for blog post cards, product listings, and dashboard widgets where visual consistency matters.
 
-## Example 2: Form Layout with Aligned Labels
+Example 2: Form Layout with Aligned Labels
 
 Forms are another area where subgrid shines. Creating forms with consistently aligned labels and inputs across multiple sections traditionally required fixed heights or JavaScript calculations. Subgrid makes this straightforward.
 
@@ -105,7 +105,7 @@ input, select, textarea {
 
 This example creates a two-column form where each section spans four rows. By using subgrid, all labels and inputs maintain consistent alignment across both columns, even when you have different numbers of form fields in each section.
 
-## Example 3: Image Gallery with Caption Alignment
+Example 3: Image Gallery with Caption Alignment
 
 Gallery layouts benefit tremendously from subgrid. When you have images of different aspect ratios with captions underneath, subgrid ensures all captions align horizontally while respecting the natural height of each image.
 
@@ -139,7 +139,7 @@ Gallery layouts benefit tremendously from subgrid. When you have images of diffe
 
 The `grid-row: span 2` combined with subgrid ensures that the image takes up one track while the caption occupies the second track, creating consistent spacing between images and their descriptions.
 
-## Example 4: Dashboard Layout with Metric Cards
+Example 4: Dashboard Layout with Metric Cards
 
 For dashboard interfaces showing metrics, KPIs, or statistics, subgrid helps create professional-looking layouts where numbers and labels align across all cards.
 
@@ -178,7 +178,7 @@ For dashboard interfaces showing metrics, KPIs, or statistics, subgrid helps cre
 
 This creates a clean dashboard where all metric values align at the top and all labels align at the bottom, regardless of the number size. If you have a metric showing "1,234" next to one showing "9", they will still look professionally aligned.
 
-## Example 5: Magazine-Style Article Layout
+Example 5: Magazine-Style Article Layout
 
 Subgrid enables sophisticated editorial layouts that were previously difficult to achieve without JavaScript or fixed dimensions. This example shows a magazine-style article with a featured image, headline, and metadata that align across multiple article cards.
 
@@ -227,9 +227,9 @@ Subgrid enables sophisticated editorial layouts that were previously difficult t
 }
 ```
 
-The featured article takes up twice the width of standard articles, but all elements — category labels, titles, and dates — maintain perfect vertical alignment across the grid.
+The featured article takes up twice the width of standard articles, but all elements. category labels, titles, and dates. maintain perfect vertical alignment across the grid.
 
-## Browser Support and Progressive Enhancement
+Browser Support and Progressive Enhancement
 
 Chrome, Firefox, and Safari all support subgrid, meaning you can use it in production today. For older browsers, the layout gracefully degrades to a standard block layout, so your content remains accessible even if the precise alignment is lost.
 
@@ -245,7 +245,7 @@ To detect subgrid support, you can use a feature query:
 
 This ensures your subgrid styles only apply where supported, while fallback styles work in older browsers.
 
-## Conclusion
+Conclusion
 
 These Chrome subgrid layout examples demonstrate how this feature solves real-world layout challenges. From aligning card components and form fields to creating sophisticated dashboards and editorial layouts, subgrid provides a CSS-only solution that previously required JavaScript or rigid structures.
 
@@ -253,14 +253,14 @@ The examples above are starting points you can adapt to your specific needs. As 
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome Site Isolation What It Means](/articles/chrome-site-isolation-what-it-means/)
 * [How to Change Chrome Language Settings](/articles/how-to-change-chrome-language-settings/)
 * [Chrome Education Account What It Includes](/articles/chrome-education-account-what-it-includes/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Chrome for Dailymotion Web Player](/articles/chrome-for-dailymotion-web-player)
 - [Chrome Notification Permission Block All: Complete Guide](/articles/chrome-notification-permission-block-all)

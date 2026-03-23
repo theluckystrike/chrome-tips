@@ -21,7 +21,7 @@ permalink: chrome-default-search-engine-changed-how-to-fix
 
 It is frustrating when your Chrome default search engine changed without your permission. You open a new tab to search something, and suddenly you are redirected to a search engine you never chose. This is a common problem that happens more often than you might think, and it usually occurs because of extensions, software changes, or settings that get modified behind the scenes.
 
-## Why Your Search Engine Keeps Changing
+Why Your Search Engine Keeps Changing
 
 There are several reasons why your Chrome default search engine might change on its own. Understanding these causes will help you fix the problem more effectively and prevent it from happening again.
 
@@ -31,7 +31,7 @@ Another reason could be unwanted software or malware on your computer. Some prog
 
 Chrome updates can also sometimes reset your search engine settings. When Chrome updates, it might restore default settings or enable features that you previously turned off. This can happen if your settings file gets corrupted or if the update changes how certain settings work. Additionally, some updates may include new default search engines that get added to your list without being selected as the default.
 
-## How to Fix Your Default Search Engine
+How to Fix Your Default Search Engine
 
 Here are the steps you can take to restore your preferred search engine and stop unwanted changes.
 
@@ -43,7 +43,7 @@ Third, review and remove suspicious extensions. Go to chrome://extensions and lo
 
 Fourth, reset Chrome to its default settings. Go to Settings, click "Reset settings" on the left sidebar, and select "Restore settings to their original defaults." This will reset your search engine, homepage, and other browser settings to how they were when you first installed Chrome. Remember to reconfigure your preferred settings after doing this.
 
-## Checking for Hidden Software
+Checking for Hidden Software
 
 Sometimes the problem is not just in Chrome but on your computer itself. Here is how to check for unwanted software.
 
@@ -51,7 +51,7 @@ Check your computer for recently installed programs that you do not remember ins
 
 Run a full scan with your antivirus software to make sure nothing unwanted is running on your system. Sometimes malware can modify browser settings as part of its operation. If your antivirus finds anything, remove it and then check if your search engine problem is resolved.
 
-## Preventing Future Problems
+Preventing Future Problems
 
 Once you have fixed your default search engine, there are steps you can take to prevent it from changing again in the future.
 
@@ -61,7 +61,7 @@ Pay attention during software installations. When you install new programs on yo
 
 Keep Chrome updated. Updates often include security fixes that prevent malicious software from changing your settings. Go to Settings, then Help, then About Google Chrome to make sure you are running the latest version.
 
-## Additional Tools That Can Help
+Additional Tools That Can Help
 
 If you want extra protection against unwanted search engine changes, consider using an extension like Tab Suspender Pro. This tool helps you manage your tabs and can add an extra layer of control over your browser settings. It is designed to give you more visibility into what your extensions and tabs are doing, which can help you spot any unwanted changes before they become a problem.
 
@@ -71,7 +71,7 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained/)
 * [Chrome Custom Properties CSS Variables](/articles//chrome-custom-properties-css-variables//)
 * [Chrome Web NFC API Guide](/articles/chrome-web-nfc-api-guide/)

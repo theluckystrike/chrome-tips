@@ -17,7 +17,7 @@ faq:
   - q: "How do I minify JSON in the browser using Chrome?"
     a: "To minify JSON in Chrome, open DevTools with F12 or Ctrl+Shift+I, navigate to the Console tab, paste your JSON into a variable like `let data = {your JSON}`, then run `JSON.stringify(data)` to get compressed output. The process takes just seconds with Zovo and achieves an average 67% file size reduction compared to pretty-printed JSON."
   - q: "What is the fastest way to compress JSON in Chrome DevTools?"
-    a: "The fastest method is using Chrome's Console tab with JSON.stringify(). Open DevTools, paste your JSON into a variable, and execute the stringify command. This takes approximately 3 steps and works instantly—no external tools or plugins needed. Zovo recommends this approach for quick compression tasks."
+    a: "The fastest method is using Chrome's Console tab with JSON.stringify(). Open DevTools, paste your JSON into a variable, and execute the stringify command. This takes approximately 3 steps and works instantly, no external tools or plugins needed. Zovo recommends this approach for quick compression tasks."
   - q: "Can I minify JSON without installing any tools?"
     a: "Yes, you can minify JSON directly in Chrome without installing anything. Simply use the browser's built-in DevTools by pressing F12 or Ctrl+Shift+I, go to the Console, and use the JSON.stringify() method. This native JavaScript function requires zero setup and works immediately in any Chrome browser."
   - q: "How much file size can I save by minifying JSON?"
@@ -39,7 +39,7 @@ Last tested: March 2026 | Chrome latest stable
 > 4. Execute `JSON.stringify(data)` to get the minified output
 > 5. Copy the result and remove the outer quotes
 
-## Open Chrome DevTools
+Open Chrome DevTools
 
 Press F12 or use the keyboard shortcut Ctrl+Shift+I (Windows/Linux) or Cmd+Option+I (Mac) to open Chrome DevTools. You can also right-click anywhere on a webpage and select Inspect from the context menu. The DevTools panel will appear either at the bottom or right side of your browser window, depending on your current settings.
 
@@ -47,7 +47,7 @@ Click on the Console tab if it's not already selected. This is where you'll exec
 
 If the console appears cluttered with existing messages, click the clear console button (the circle with a line through it) or press Ctrl+L to start with a clean workspace. This makes it easier to see your commands and results. If you encounter issues with Chrome's built-in features not working as expected, check our guide on [Chrome auto-translate stopped working](/chrome-auto-translate-stopped-working) for troubleshooting similar browser functionality.
 
-### Prepare Your JSON Data
+Prepare Your JSON Data
 
 Before minifying, you need to get your JSON into the browser console. If you have a JSON file, open it in a text editor like Notepad++, VSCode, or even basic Notepad and copy the entire contents. For large files over 1MB, consider breaking them into smaller chunks or using file reading methods to avoid browser memory issues.
 
@@ -65,7 +65,7 @@ let data = {
 
 Press Enter to store the data in the variable. The console will display `undefined` which confirms the variable was created successfully. If you see an error message instead, check your JSON syntax for missing commas, mismatched brackets, or unquoted property names.
 
-### Execute the Minification
+Execute the Minification
 
 Now run the minification command: `JSON.stringify(data)`. This method converts your JavaScript object back into a JSON string, removing all unnecessary whitespace, line breaks, and indentation. The output appears immediately in the console below your command.
 
@@ -75,15 +75,15 @@ For JSON files containing special characters, unicode, or specific formatting re
 
 If you need to minify the same JSON multiple times with different data, you can create a reusable function: `function minifyJSON(obj) { return JSON.stringify(obj); }`. Then call `minifyJSON(data)` whenever you need to compress new JSON objects.
 
-## Common Mistakes
+Common Mistakes
 
-### Forgetting to Remove Console Quotes
+Forgetting to Remove Console Quotes
 
 When you run `JSON.stringify()` in the console, the output appears wrapped in outer quotation marks. These quotes are just how the Chrome console displays string values, not actually part of your JSON data. 
 
 Many developers copy this output directly and wonder why their JSON parsers throw syntax errors when they try to use the data elsewhere. The outer quotes make the entire thing a string literal instead of valid JSON. Always remove those first and last quotation marks before saving or using your minified JSON in applications.
 
-### Using JSON.parse() Instead of JSON.stringify()
+Using JSON.parse() Instead of JSON.stringify()
 
 `JSON.parse()` performs the opposite operation of what you want for minification. It takes a JSON string and converts it into a JavaScript object, which the console then displays with formatting and indentation for readability.
 
@@ -91,7 +91,7 @@ Many developers copy this output directly and wonder why their JSON parsers thro
 
 For minification, you always need `JSON.stringify()` which removes whitespace and converts objects into compact string format. Remember the direction: stringify compresses, parse expands.
 
-### Minifying Already Minified JSON
+Minifying Already Minified JSON
 
 If your JSON is already minified (no spaces, tabs, or line breaks), running it through `JSON.stringify()` again won't reduce the file size any further. Check your source JSON first to see if it's already compressed before spending time on the minification process.
 
@@ -99,7 +99,7 @@ Some developers paste minified JSON into the console and get confused when the o
 
 You can quickly identify unminified JSON by looking for consistent indentation, line breaks after commas and braces, or spacing around colons and brackets.
 
-### Losing Special Characters During Minification
+Losing Special Characters During Minification
 
 When dealing with JSON containing special characters, emoji, or unicode symbols, the basic `JSON.stringify()` method might escape characters unnecessarily or incorrectly handle encoding. This commonly happens with international characters, mathematical symbols, or emoji that weren't properly encoded in the source.
 
@@ -107,15 +107,15 @@ If your original JSON contains unicode characters that appear as escape sequence
 
 For JSON with complex character sets, consider using `JSON.stringify(data, null, 0)` with explicit parameters to maintain character integrity throughout the compression process.
 
-## Pro Tip: Skip the Manual Steps
+Pro Tip: Skip the Manual Steps
 
 The manual DevTools method works perfectly for occasional JSON minification, but copying and pasting large JSON files becomes tedious when you're doing this regularly. Browser extensions automate the entire process and handle edge cases more gracefully than manual console commands.
 
-**JSON Formatter Pro** provides one-click minification directly in your browser with a **4.8/5** rating and receives regular updates (version 1.0.4 as of March 2026). The extension handles large files up to 10MB and preserves special characters automatically without requiring manual console work.
+JSON Formatter Pro provides one-click minification directly in your browser with a 4.8/5 rating and receives regular updates (version 1.0.4 as of March 2026). The extension handles large files up to 10MB and preserves special characters automatically without requiring manual console work.
 
 The extension adds a right-click context menu option and toolbar button for instant JSON operations. When you're working with multiple JSON files daily or need consistent results across different projects, automated tools save significant time compared to manual console commands.
 
-**[Try JSON Formatter Pro Free](https://zovo.one)**
+[Try JSON Formatter Pro Free](https://zovo.one)
 
 > "JSON is a text-based data format following JavaScript object syntax. Even though it closely resembles JavaScript object literal syntax, it can be used independently from JavaScript." ,  [Working with JSON - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
 

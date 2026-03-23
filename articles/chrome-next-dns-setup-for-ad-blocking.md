@@ -22,7 +22,7 @@ author: theluckystrike
 
 If you have been searching for chrome next dns setup for ad blocking, you probably want to block ads across your entire browser without relying on extensions. Setting up NextDNS is one of the most effective ways to achieve network-level ad blocking, and it works directly within Chrome without any additional software.
 
-## Why Ads Keep Appearing Despite Your Efforts
+Why Ads Keep Appearing Despite Your Efforts
 
 You might have tried using ad blocker extensions, but you still see ads popping up on certain websites. This happens because some websites have found ways to bypass extension-based blocking, and new advertising methods constantly emerge. Additionally, extension-based blockers can only work within Chrome itself, meaning ads in other apps on your device still get through.
 
@@ -30,7 +30,7 @@ The problem becomes even more frustrating when you realize that many ads now use
 
 Traditional ad blockers work by filtering web content as it loads in your browser. They maintain lists of known advertising domains and block requests to those domains. However, this approach has limitations because the blocking happens after your browser requests the page. A better approach is to block ads at the DNS level, which is where your browser looks up website addresses before making any connection.
 
-## Understanding How DNS-Based Ad Blocking Works
+Understanding How DNS-Based Ad Blocking Works
 
 DNS stands for Domain Name System, and it acts like the internet's phone book. When you type a website address into Chrome, your browser sends a request to a DNS server to find the actual numerical address where that website is located. By default, your device uses the DNS servers provided by your internet service provider.
 
@@ -38,7 +38,7 @@ When you set up a DNS-based ad blocker like NextDNS, you are essentially redirec
 
 The advantage of this approach is that it works at the network level, meaning it blocks ads in every application on your device, not just Chrome. It also cannot be bypassed by websites because the blocking happens at the DNS lookup stage, which is fundamental to how the internet works.
 
-## Setting Up NextDNS in Chrome
+Setting Up NextDNS in Chrome
 
 Setting up NextDNS for ad blocking in Chrome is straightforward and does not require any technical expertise. Here is how you can do it.
 
@@ -54,7 +54,7 @@ If the NextDNS option does not appear directly in the dropdown, you can choose t
 
 Alternatively, you can configure DNS at the operating system level, which will apply to all applications including Chrome. On Windows, go to Network and Internet settings, select your active network, click on Edit DNS settings, and enter the NextDNS addresses. On Mac, go to System Preferences, select Network, choose your connection, click Advanced, go to the DNS tab, and add the NextDNS servers.
 
-## Testing Your Setup
+Testing Your Setup
 
 After configuring NextDNS, you should verify that it is working correctly. The NextDNS website provides a way to check if your DNS queries are being routed through their servers. You can also visit websites that typically display many ads to see if they are now blocked.
 
@@ -62,7 +62,7 @@ Some users might find that certain websites do not load correctly after enabling
 
 It is also worth noting that DNS-based blocking works on all browsers on your device, not just Chrome. This is generally a good thing because it provides consistent protection across your entire digital experience. However, if you prefer to have different DNS settings for different browsers, you can configure that through the individual application settings where supported.
 
-## Adding Extra Protection with Extensions
+Adding Extra Protection with Extensions
 
 While DNS-based ad blocking is powerful, you can combine it with browser extensions for even better protection. One option worth considering is Tab Suspender Pro, which helps manage your open tabs more efficiently and reduces the resources used by your browser. This extension works alongside your DNS-based ad blocker to provide a smoother browsing experience.
 
@@ -70,7 +70,7 @@ Tab Suspender Pro automatically suspends tabs that you have not used recently, w
 
 The combination of DNS-level blocking through NextDNS and extension-based tools like Tab Suspender Pro gives you comprehensive protection against ads while also improving your browser's performance. Many users find that this approach significantly reduces the number of ads they see while also speeding up their browsing experience.
 
-## Maintaining Your Setup
+Maintaining Your Setup
 
 Once you have configured NextDNS, you do not need to do much to maintain it. The blocklists are updated automatically by NextDNS, so you do not need to manually update anything. However, you might want to occasionally check your NextDNS dashboard to see statistics about blocked requests and to customize your blocking preferences.
 
@@ -82,7 +82,7 @@ If you switch internet service providers or change your network setup, remember 
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
+Related Articles
 * [Chrome Back Button Not Working Fix](/articles/chrome-back-button-not-working-fix/)
 * [Chrome Shape Detection API Explained](/articles/chrome-shape-detection-api-explained/)
 * [Chrome Takes Forever to Load Pages](/articles/chrome-takes-forever-to-load-pages/)

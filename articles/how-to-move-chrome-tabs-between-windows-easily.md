@@ -17,7 +17,7 @@ If you have ever wondered how to move Chrome tabs between windows easily, you ar
 
 Moving tabs between windows in Chrome is actually quite simple once you know the different methods available. Chrome offers several built-in ways to do this, plus some extensions that make the process even smoother. Here is everything you need to know.
 
-## Why You Might Need to Move Tabs Between Windows
+Why You Might Need to Move Tabs Between Windows
 
 There are many situations where you need to move Chrome tabs between windows. Maybe you are working on a research project and have ten tabs open related to that topic. Meanwhile, you have another five tabs for shopping and personal browsing. Moving those research tabs into their own window keeps everything organized and easier to find.
 
@@ -25,7 +25,7 @@ Another common scenario is when you have been working in one window and realize 
 
 Sometimes you simply have too many tabs in one window and Chrome starts to slow down. Splitting tabs across multiple windows can improve performance and make your workflow more efficient.
 
-## Using Drag and Drop to Move Tabs
+Using Drag and Drop to Move Tabs
 
 The most straightforward way to move Chrome tabs between windows is drag and drop. This method works on both Windows and Mac computers and requires no special setup.
 
@@ -35,7 +35,7 @@ If you want to create a new window with the tab, simply drag the tab away from t
 
 This method works well for moving one tab at a time. If you need to move multiple tabs, you can hold down the Ctrl key on Windows or the Cmd key on Mac while clicking to select multiple tabs. Then drag them together to move them all at once.
 
-## Using Keyboard Shortcuts
+Using Keyboard Shortcuts
 
 Chrome also provides keyboard shortcuts that make moving tabs between windows quick and easy. These shortcuts work particularly well when you want to move tabs without using the mouse.
 
@@ -45,7 +45,7 @@ To move a tab into an existing window, you can drag and drop as described above,
 
 These shortcuts become especially useful when you frequently switch tabs between windows as part of your workflow.
 
-## Using Chrome Tab Groups
+Using Chrome Tab Groups
 
 Chrome tab groups offer another way to organize and move tabs between windows. Tab groups allow you to color-code and label related tabs within a single window. While tab groups do not directly move tabs between windows, they make it easier to identify which tabs belong together so you can move them as a group.
 
@@ -53,7 +53,7 @@ To create a tab group, right-click on a tab and select "Add to new group" or "Ad
 
 Tab groups are particularly helpful if you have many tabs open and need to move several related tabs at once. Instead of selecting each tab individually, you can work with the entire group.
 
-## Using Extensions for Advanced Tab Management
+Using Extensions for Advanced Tab Management
 
 For more advanced tab moving capabilities, Chrome extensions provide additional features that go beyond what built-in tools offer. One popular option is Tab Suspender Pro, which not only helps manage tabs but also makes it easy to organize and move tabs between windows.
 
@@ -63,7 +63,7 @@ To use an extension like Tab Suspender Pro, visit the Chrome Web Store and searc
 
 Other extensions offer similar features, so you can choose one that fits your needs. Look for extensions with good reviews and regular updates to ensure they work well with the latest version of Chrome.
 
-## Tips for Organizing Your Tabs
+Tips for Organizing Your Tabs
 
 Now that you know how to move Chrome tabs between windows easily, here are some tips to keep your browser organized. First, create separate windows for different projects or topics. This reduces clutter and makes it easier to find what you need.
 
@@ -75,7 +75,7 @@ Moving tabs between windows does not have to be complicated. With drag and drop,
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
+Related Articles
 * [chrome for twitch streaming setup in browser](/articles/chrome-for-twitch-streaming-setup-in-browser/)
 * [Chrome Microphone Access on Phone How to Control](/articles/chrome-microphone-access-on-phone-how-to-control/)
 * [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning/)

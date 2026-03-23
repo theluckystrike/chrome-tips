@@ -22,7 +22,7 @@ author: theluckystrike
 
 Chrome opens old tabs on startup how to stop is a question that many Chrome users find themselves asking after an update or a change in their browser settings. You might expect Chrome to open with a clean new tab, but instead you are greeted by a dozen tabs from your last browsing session. This can be frustrating, especially when you want to start fresh or when those old tabs slow down your browser. The good news is that this behavior is controlled by a simple setting, and you can change it in just a few clicks.
 
-## Why Chrome Opens Your Old Tabs
+Why Chrome Opens Your Old Tabs
 
 Chrome has a built-in feature called session restoration. This feature is designed to help you continue where you left off by automatically reopening the tabs you had open when you last closed the browser. The idea is convenient if you accidentally closed Chrome or if you want to resume your work without manually reopening each page. However, this same feature can become a nuisance when you prefer a clean slate every time you start browsing.
 
@@ -30,11 +30,11 @@ Chrome enables session restoration by default. The browser remembers your open t
 
 Another reason you might see old tabs appearing is that Chrome might be set to continue running in the background when you close the window. In this case, tabs are not actually closed, and they remain active when you next open Chrome. Understanding these behaviors is the first step toward taking control of your startup experience.
 
-## How to Stop Chrome from Opening Old Tabs
+How to Stop Chrome from Opening Old Tabs
 
 Changing this behavior is straightforward. Chrome provides a setting that controls whether it restores your previous session or opens a new tab. Here is how to change it.
 
-### Change the Startup Setting in Chrome
+Change the Startup Setting in Chrome
 
 1. Open Chrome on your computer.
 2. Click the three-dot menu in the upper-right corner of the browser window.
@@ -45,11 +45,11 @@ Changing this behavior is straightforward. Chrome provides a setting that contro
 
 This setting tells Chrome to start fresh every time you open the browser. Instead of loading your previous tabs, you will see your chosen new tab page, which typically displays your favorite websites or a search box.
 
-## Additional Steps to Ensure a Clean Start
+Additional Steps to Ensure a Clean Start
 
 Sometimes the startup setting alone may not be enough. If Chrome still seems to be restoring old tabs, there are a few other things you can check.
 
-### Disable Background Running
+Disable Background Running
 
 Chrome might be running in the background even after you close the browser window. When this happens, your tabs remain open and will reappear when you launch Chrome again. To disable this feature:
 
@@ -60,7 +60,7 @@ Chrome might be running in the background even after you close the browser windo
 
 After disabling background running, make sure you fully close Chrome by right-clicking the Chrome icon in your taskbar or dock and selecting Quit or Close. Simply closing the window might not close the browser completely depending on your settings.
 
-### Clear Old Session Data
+Clear Old Session Data
 
 If you have tried the steps above and old tabs still appear, the issue might be related to corrupted session data. You can clear this data by:
 
@@ -72,38 +72,38 @@ If you have tried the steps above and old tabs still appear, the issue might be 
 
 This will remove any saved session information that Chrome might be trying to restore. Keep in mind that this will also clear your browsing history and cookies, so you might need to sign in to websites again.
 
-## Using Extensions to Manage Tab Restoration
+Using Extensions to Manage Tab Restoration
 
 If you find that you sometimes want to restore your tabs and other times you prefer a clean start, an extension can give you more flexibility. There are several extensions available in the Chrome Web Store that let you control which tabs open when Chrome starts. You can create custom startup profiles, choose which tabs to restore, or set Chrome to open a specific set of pages every time.
 
 One option worth considering is Tab Suspender Pro. This extension helps you manage your tabs more efficiently by allowing you to suspend tabs that you are not actively using, which can improve browser performance. It also gives you additional control over what happens when you open Chrome, making it easier to balance between restoring important tabs and keeping your startup clean.
 
-## Why You Might Want to Keep Session Restoration
+Why You Might Want to Keep Session Restoration
 
 While this article focuses on how to stop Chrome from opening old tabs, it is worth noting why session restoration exists in the first place. For many users, the ability to pick up exactly where they left off is a valuable feature. If you work on research projects, manage multiple tasks across tabs, or simply find it annoying to reopen your regularly visited sites, keeping session restoration enabled makes sense.
 
 The key is to understand your own workflow and decide what works best for you. You can always change the setting back if you find that you need to restore your tabs later. Chrome makes it easy to switch between a clean start and continuing your session, so you are not locked into one choice forever.
 
-## Quick Summary
+Quick Summary
 
 To summarize, here are the main steps to stop Chrome from opening old tabs on startup:
 
-- Go to **Settings**, then **On startup**, and select **"Open a new tab page"**.
-- Disable the option to **continue running background apps** when Chrome is closed.
-- Fully **quit Chrome** rather than just closing the window.
-- **Clear browsing data** if old session data persists.
+- Go to Settings, then On startup, and select "Open a new tab page".
+- Disable the option to continue running background apps when Chrome is closed.
+- Fully quit Chrome rather than just closing the window.
+- Clear browsing data if old session data persists.
 
 By adjusting these settings, you can enjoy a fresh start every time you open Chrome. Whether you want a clean slate each morning or need more control over your browsing experience, these options give you the flexibility to customize how Chrome behaves when you launch it.
 
-## Related Articles
+Related Articles
 * [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome/)
 * [Chrome Memory Leak Detection Guide](/articles/chrome-memory-leak-detection/)
 * [Chrome Network Speed in Developer Tools](/articles/chrome-network-speed-in-developer-tools/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
-- [Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide)
+- [Chrome Web Bluetooth API Guide. Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide)
 - [Chrome Extensions for Form Auto Filler](/articles/chrome-extensions-for-form-auto-filler)
 - [Chrome vs Vivaldi Customization Comparison: Which Browser Gives You More Control?](/articles/chrome-vs-vivaldi-customization-comparison)

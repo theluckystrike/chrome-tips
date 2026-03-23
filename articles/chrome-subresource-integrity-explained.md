@@ -63,5 +63,5 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 ## Related Articles
 * [How to Move Chrome Tabs Between Windows Easily](/articles/how-to-move-chrome-tabs-between-windows-easily/)
 * [Chrome for MasterClass Web Tips](/articles/chrome-for-masterclass-web-tips/)
-* [Chrome vs Safari on Mac — Which Uses Less Battery?](/articles/chrome-vs-safari-on-mac-battery/)
+* [Chrome vs Safari on Mac. Which Uses Less Battery?](/articles/chrome-vs-safari-on-mac-battery/)
 

@@ -24,13 +24,13 @@ If you have ever wondered what chrome pinned tabs are and whether they could hel
 
 Pinned tabs have been part of Chrome for years, yet many people still do not know they exist or how they work. This guide will walk you through everything you need to know about pinned tabs, why they are useful, and how to make the most of them.
 
-## What Are Pinned Tabs in Chrome
+What Are Pinned Tabs in Chrome
 
 A pinned tab in Chrome is a tab that stays permanently open and cannot be closed by accident. When you pin a tab, it shrinks to show only the website favicon, which is the small icon you see next to the URL in your address bar. This saves space in your tab bar and keeps your most important sites within easy reach.
 
 Pinned tabs always appear on the far left side of your tab strip, before all your other regular tabs. They also stay in place even when you open new tabs or restart Chrome. This makes them perfect for keeping tools, communication apps, or reference sites you use every day always available.
 
-## Why Pinned Tabs Are Helpful
+Why Pinned Tabs Are Helpful
 
 The main benefit of pinned tabs is that they reduce clutter and prevent mistakes. When you have dozens of tabs open, it is easy to accidentally close a tab you needed. Pinned tabs solve this problem because they cannot be closed with a regular click. You have to right-click and choose to unpin or close them, which adds a small barrier against accidental closure.
 
@@ -38,7 +38,7 @@ Pinned tabs also help you work faster. Instead of scrolling through a long list 
 
 Another advantage is that pinned tabs persist across browser sessions. When you close Chrome and open it again, your pinned tabs will be there waiting for you. This means you do not have to reopen your most important sites every time you start browsing.
 
-## How to Pin and Unpin a Tab
+How to Pin and Unpin a Tab
 
 Pinning a tab in Chrome is straightforward. First, open the website you want to pin. Then right-click on the tab and select "Pin" from the menu. The tab will immediately shrink to show only its favicon and move to the left side of your tab bar.
 
@@ -46,7 +46,7 @@ If you want to unpin a tab, simply right-click on the pinned tab and select "Unp
 
 You can pin as many tabs as you want, but it is best to keep the number small. If you pin too many tabs, you will defeat the purpose of saving space. Most people find that three to seven pinned tabs works well.
 
-## What Happens to Pinned Tabs When You Close Chrome
+What Happens to Pinned Tabs When You Close Chrome
 
 One common question about pinned tabs is what happens when you close Chrome entirely. The answer is that pinned tabs stay open. When you relaunch Chrome, your pinned tabs will be exactly where you left them. This is different from regular tabs, which you can set to restore when you reopen Chrome, but which you can also set to not restore.
 
@@ -54,7 +54,7 @@ This behavior makes pinned tabs ideal for websites that you always need open, re
 
 It is worth noting that pinned tabs do use some memory, even when they are in the background. If you are concerned about Chrome using too much RAM, you may want to consider additional tools.
 
-## Using Pinned Tabs Together with Tab Suspender Pro
+Using Pinned Tabs Together with Tab Suspender Pro
 
 While pinned tabs are great for keeping important sites accessible, they do not solve the problem of browser memory usage. Each pinned tab still runs in the background and consumes system resources. This is where tools like Tab Suspender Pro come in handy.
 
@@ -62,7 +62,7 @@ Tab Suspender Pro is a Chrome extension that automatically suspends tabs you hav
 
 Using pinned tabs for your most important sites and using Tab Suspender Pro for everything else is a powerful combination. Your pinned tabs stay awake and ready, while your other tabs are managed efficiently to keep Chrome running smoothly.
 
-## Tips for Using Pinned Tabs Effectively
+Tips for Using Pinned Tabs Effectively
 
 To get the most out of pinned tabs, start by choosing only the sites you use multiple times every single day. Good candidates include your email inbox, a music or podcast service, a calendar or task manager, and any work tools you rely on constantly.
 
@@ -74,14 +74,14 @@ Finally, remember that pinned tabs are not the only tool available for managing 
 
 ---
 
-## Related Articles
+Related Articles
 * [Chrome for Notion Web Clipper Setup](/articles/chrome-for-notion-web-clipper-setup/)
 * [Chrome Frame Rate How to Check](/articles/chrome-frame-rate-how-to-check/)
 * [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling/)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike. More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+Related Articles
 
 - [Should I Switch from Chrome to Firefox for Speed?](/articles/should-i-switch-from-chrome-to-firefox-for-speed)
 - [Chrome Extensions For Faster Browsing](/articles//articles/chrome-extensions-for-faster-browsing/)

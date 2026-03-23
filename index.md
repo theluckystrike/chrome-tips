@@ -1,51 +1,41 @@
 ---
 layout: default
-title: "Chrome Tips Guide"
-description: "Practical Chrome browser tips for speed, memory, and productivity. Tested guides that actually work."
+title: "Chrome Tips Guide — Make Chrome Fast"
+description: "Practical Chrome browser guides. Speed optimization, extensions, DevTools, and troubleshooting."
 ---
 
 # Chrome Tips Guide
 
-I use Chrome every day and got tired of vague browser advice that never delivers. So I started testing things myself -- flags, settings, extensions, workflows -- and writing down what actually works. That is what this site is: practical Chrome tips backed by real testing, not recycled listicles.
-
-Whether you are trying to speed up Chrome on a slow laptop, lock down your privacy settings, or find an extension that does not eat all your RAM, start with the guides below.
+I spend too much time in Chrome. Might as well make it fast. These guides cover everything from cutting memory usage in half to finding the exact extension that does what you need. No filler, no listicles padded to 3,000 words — just what works.
 
 ## Start Here
 
-These are the most useful guides on the site. If you are new, begin with one of these:
+If Chrome is slow or you want to get more out of it, start with these:
 
-- [Best Settings to Speed Up Chrome 2026](/articles/best-settings-to-speed-up-chrome-2026/)
-- [Best Privacy Settings for Chrome 2026](/articles/best-privacy-settings-for-chrome-2026/)
-- [Best Chrome Flags to Speed Up Browsing](/articles/best-chrome-flags-to-speed-up-browsing-2024/)
-- [Best Ad Blocker for Chrome: Setup Guide](/articles/ad-blocker-chrome-setup-guide/)
-- [4GB RAM Laptop Best Browser Settings](/articles/4gb-ram-laptop-best-browser-settings/)
+1. [4GB RAM Laptop: Best Chrome Settings](/4gb-ram-laptop-best-browser-settings/) — The exact settings that make Chrome usable on low-end hardware.
+2. [Chrome High Memory Usage: 7 Ways to Fix It](/chrome-high-memory-usage-fix/) — Why Chrome eats RAM and what actually helps.
+3. [Best Chrome Extensions for Developers](/best-chrome-extensions-developers/) — The extensions worth installing if you write code.
+4. [Best Chrome Flags to Speed Up Browsing](/best-chrome-flags-to-speed-up-browsing-2024/) — The experimental features that are actually stable and useful.
+5. [Tab Suspender Pro vs Workona](/tab-suspender-pro-vs-workona/) — Compare the best tab managers head to head.
 
----
+## Recently Updated
 
-## Recent Articles
-
-{% assign all_articles = site.pages | where_exp: "p", "p.path contains 'articles/'" | sort: "title" %}
-{% for p in all_articles limit:5 %}
-- [{{ p.title }}]({{ p.url | relative_url }})
-{% endfor %}
-
----
+{% assign sorted_pages = site.pages | where_exp: "p", "p.path contains 'articles/'" | sort: "date" | reverse %}
+{% for p in sorted_pages limit: 6 %}{% if p.title %}
+- [{{ p.title }}]({{ p.url }})
+{% endif %}{% endfor %}
 
 ## Browse by Topic
 
-{% assign speed_articles = all_articles | where_exp: "p", "p.title contains 'Speed' or p.title contains 'Fast' or p.title contains 'Performance' or p.title contains 'RAM'" %}
-{% assign privacy_articles = all_articles | where_exp: "p", "p.title contains 'Privacy' or p.title contains 'Security' or p.title contains 'Block'" %}
-{% assign extension_articles = all_articles | where_exp: "p", "p.title contains 'Extension' or p.title contains 'Best'" %}
-{% assign dark_mode_articles = all_articles | where_exp: "p", "p.title contains 'Dark Mode'" %}
+- **Memory & Performance** — [Browse all →](/topics/memory-performance/)
+- **Tab Management** — [Browse all →](/topics/tab-management/)
+- **Extensions** — [Browse all →](/topics/extensions/)
+- **DevTools** — [Browse all →](/topics/devtools/)
+- **Translation** — [Browse all →](/topics/translation/)
+- **Privacy & Security** — [Browse all →](/topics/privacy-security/)
+- **Troubleshooting** — [Browse all →](/topics/troubleshooting/)
+- **Chrome Flags & Settings** — [Browse all →](/topics/flags-settings/)
 
-**Speed and Performance** ({{ speed_articles.size }} articles) -- Chrome flags, memory management, and settings that reduce load times. [Browse all](/articles/)
+## About
 
-**Privacy and Security** ({{ privacy_articles.size }} articles) -- Ad blocking, tracking prevention, and browser hardening. [Browse all](/articles/)
-
-**Extensions** ({{ extension_articles.size }} articles) -- Password managers, tab managers, developer tools, and more. [Browse all](/articles/)
-
-**Dark Mode** ({{ dark_mode_articles.size }} articles) -- How to enable dark mode everywhere in Chrome. [Browse all](/articles/)
-
----
-
-Exploring {{ all_articles.size }} articles total. [Browse all articles](/articles/) or read [about this site](/about/).
+Chrome Tips Guide publishes independent, no-sponsored-content guides for Chrome users and developers. [Read more →](/about/)

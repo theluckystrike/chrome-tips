@@ -1,28 +1,20 @@
 ---
 layout: default
-title: "About Chrome Tips Guide"
-description: "Who we are and why we write practical Chrome browser tips for speed, memory, and productivity."
+title: "About"
+description: "Independent Chrome browser guides. No sponsored content."
 permalink: /about/
 ---
 
 # About Chrome Tips Guide
 
-I started Chrome Tips Guide because I was frustrated with generic browser advice that never actually helped. Most "speed up Chrome" articles rehash the same five tips without testing whether they work. I wanted something better.
+I spend too much time in Chrome. Might as well make it fast. These guides cover everything from cutting memory usage in half to finding the exact extension that does what you need. No filler, no listicles padded to 3,000 words — just what works.
 
-Every guide on this site comes from hands-on testing. When I say a Chrome flag improves performance, I have measured it. When I recommend a privacy setting, I have checked what it actually disables. The goal is practical advice you can apply in two minutes and see real results.
+Every guide is tested on real Chrome installations. When an extension slows your browser down, I measure exactly how much. When a Chrome flag breaks something, I document it. No theoretical advice — everything here has been verified.
 
-## What we cover
+## Content Standards
 
-- **Performance tuning** -- flags, settings, and habits that make Chrome faster on any hardware
-- **Memory management** -- how to run Chrome on 4 GB laptops without constant tab crashes
-- **Privacy configuration** -- which settings matter, which extensions help, and what Google actually tracks
-- **Extension reviews** -- honest assessments of ad blockers, password managers, tab managers, and productivity tools
-- **Troubleshooting** -- fixes for crashes, slow rendering, broken extensions, and sync issues
-
-## Who this is for
-
-Anyone who uses Chrome daily and wants it to work better. Whether you are a developer with 80 tabs open or someone on an old Chromebook trying to load Gmail without freezing, there is something here for you.
+Every article is reviewed for accuracy and usefulness. Outdated information is updated or removed. We do not accept sponsored placements or paid reviews.
 
 ## Contact
 
-Questions or suggestions? Open an issue on [GitHub](https://github.com/theluckystrike).
+Report errors or suggest improvements via [GitHub Issues](https://github.com/theluckystrike/chrome-tips/issues).

@@ -9,7 +9,7 @@ permalink: /topics/flags-settings/
 
 Experimental flags, hidden settings, and configuration tweaks to customize Chrome behavior.
 
-{% assign topic_pages = site.pages | where_exp: "page", "page.path contains 'articles/'" | sort: "title" %}
-{% for page in topic_pages %}{% if page.title and page.categories contains 'chrome-flags' or page.title contains 'Flag' or page.title contains 'Settings' %}
-- [{{ page.title }}]({{ page.url }})
+{% assign topic_pages = site.pages | where_exp: "p", "p.path contains 'articles/'" | where_exp: "p", "p.title != nil" | sort: "title" %}
+{% for p in topic_pages %}{% if p.categories contains 'chrome-flags' or p.title contains 'Flag' or p.title contains 'Settings' %}
+- [{{ p.title }}]({{ p.url }})
 {% endif %}{% endfor %}

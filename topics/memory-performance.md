@@ -9,7 +9,7 @@ permalink: /topics/memory-performance/
 
 Guides for reducing Chrome memory usage, speeding up page loads, and getting better performance on any hardware.
 
-{% assign topic_pages = site.pages | where_exp: "page", "page.path contains 'articles/'" | sort: "title" %}
-{% for page in topic_pages %}{% if page.title and page.categories contains 'performance' %}
-- [{{ page.title }}]({{ page.url }})
+{% assign topic_pages = site.pages | where_exp: "p", "p.path contains 'articles/'" | where_exp: "p", "p.title != nil" | sort: "title" %}
+{% for p in topic_pages %}{% if p.categories contains 'performance' %}
+- [{{ p.title }}]({{ p.url }})
 {% endif %}{% endfor %}

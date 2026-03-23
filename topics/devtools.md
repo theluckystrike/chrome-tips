@@ -9,7 +9,7 @@ permalink: /topics/devtools/
 
 Chrome DevTools tips, developer extensions, and debugging workflows for web developers.
 
-{% assign topic_pages = site.pages | where_exp: "page", "page.path contains 'articles/'" | sort: "title" %}
-{% for page in topic_pages %}{% if page.title and page.categories contains 'developer-tools' %}
-- [{{ page.title }}]({{ page.url }})
+{% assign topic_pages = site.pages | where_exp: "p", "p.path contains 'articles/'" | where_exp: "p", "p.title != nil" | sort: "title" %}
+{% for p in topic_pages %}{% if p.categories contains 'developer-tools' %}
+- [{{ p.title }}]({{ p.url }})
 {% endif %}{% endfor %}

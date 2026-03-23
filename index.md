@@ -37,10 +37,10 @@ I spend too much time in Chrome. Might as well make it fast. These guides cover 
 
 ## Recently Updated
 
-{% assign sorted_pages = site.pages | where_exp: "p", "p.path contains 'articles/'" | sort: "date" | reverse %}
-{% for p in sorted_pages limit: 6 %}{% if p.title %}
+{% assign article_pages = site.pages | where_exp: "p", "p.path contains 'articles/'" | where_exp: "p", "p.title != nil" | where_exp: "p", "p.date != nil" | sort: "date" | reverse %}
+{% for p in article_pages limit: 6 %}
 - [{{ p.title }}]({{ p.url }})
-{% endif %}{% endfor %}
+{% endfor %}
 
 ## Browse by Topic
 

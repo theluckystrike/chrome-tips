@@ -105,6 +105,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions For Eye Strain Protection](/chrome-tips/chrome-extensions-for-eye-strain-protection)
-- [Chrome for Zoom Classes Optimization](/chrome-tips/chrome-for-zoom-classes-optimization)
-- [Chrome Restricted Mode Youtube How To Enable](/chrome-tips/chrome-restricted-mode-youtube-how-to-enable)
+- [Chrome Extensions For Eye Strain Protection](/chrome-extensions-for-eye-strain-protection)
+- [Chrome for Zoom Classes Optimization](/chrome-for-zoom-classes-optimization)
+- [Chrome Restricted Mode Youtube How To Enable](/chrome-restricted-mode-youtube-how-to-enable)

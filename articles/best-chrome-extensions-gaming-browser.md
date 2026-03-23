@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions gaming"
 target_extension: "tab-suspender-pro"
 word_count: 1150
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-gaming-browser/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-gaming-browser/
 faq:
   - q: "What is the best chrome extension for gamers who browse?"
     a: "Tab Suspender Pro is the best chrome extension for gamers who browse, automatically suspending inactive tabs to free up to 80% of their memory while preserving your place perfectly. It learns your browsing patterns, offers whitelist protection for Discord and Twitch, and includes a gaming mode that prevents suspending during active sessions. Testing showed it handles 20+ tabs efficiently while gaming. Zovo recommends it for serious gamers who multitask."
@@ -157,4 +157,4 @@ For competitive esports players who need absolute consistency, uBlock Origin mig
 ---
 
 *Built by Michael Lip — More tips at [zovo.one](https://zovo.one)*
-> **See also:** [BeLikeNative vs DeepL: Honest 2026 Comparison](https://theluckystrike.github.io/chrome-tips/belikenative-vs-deepl)
+> **See also:** [BeLikeNative vs DeepL: Honest 2026 Comparison](https://chrometipsguide.com/belikenative-vs-deepl)

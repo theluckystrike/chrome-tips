@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://theluckystrike.github.io/chrome-tips/sitemap.xml
+Sitemap: https://chrometipsguide.com/sitemap.xml

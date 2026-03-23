@@ -12,7 +12,7 @@ target_keyword: "how to speed up chrome many tabs"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5 minutes
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-speed-up-chrome-many-tabs/
+canonical_url: https://chrometipsguide.com/how-to-speed-up-chrome-many-tabs/
 faq:
   - q: "How do I speed up Chrome when I have many tabs open?"
     a: "Enable Memory Saver mode at chrome://settings/performance, use tab groups to organize related tabs, and turn on tab discarding for inactive tabs. According to Google's own testing, these changes can reduce Chrome's memory usage by up to 60%. The browser typically starts crawling when you hit around 20 tabs open, so these optimizations are essential. Zovo recommends using the Balanced setting which suspends tabs after 6 hours of inactivity while keeping your active tabs fully responsive."
@@ -64,7 +64,7 @@ Tab groups help you mentally organize your browser while also improving performa
 
 Name your groups something descriptive like "Work," "Research," or "Shopping." You can collapse entire groups by clicking the colored dot, which hides all tabs in that group and reduces visual clutter.
 
-Chrome loads grouped tabs more efficiently because it can predict which tabs you're likely to access together. This [advanced tab management technique](https://theluckystrike.github.io/chrome-tips/) works especially well for project-based workflows.
+Chrome loads grouped tabs more efficiently because it can predict which tabs you're likely to access together. This [advanced tab management technique](https://chrometipsguide.com/) works especially well for project-based workflows.
 
 ### Close Unnecessary Background Tabs
 

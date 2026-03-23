@@ -86,8 +86,8 @@ Reducing Chrome RAM usage on Windows 10 involves using built-in tools like Memor
 
 ## Related Articles
 
-- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-tips/chrome-slow-on-windows-10-old-laptop-fix/)
-- [How to Limit Chrome Memory Usage on Windows](/chrome-tips/how-to-limit-chrome-memory-usage-windows/)
-- [How to Stop Chrome from Eating Your RAM](/chrome-tips/how-to-stop-chrome-from-eating-ram/)
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix/)
+- [How to Limit Chrome Memory Usage on Windows](/how-to-limit-chrome-memory-usage-windows/)
+- [How to Stop Chrome from Eating Your RAM](/how-to-stop-chrome-from-eating-ram/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

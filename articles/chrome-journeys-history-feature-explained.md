@@ -64,9 +64,9 @@ Whether you are planning a vacation, researching a major purchase, learning a ne
 
 ## Related Articles
 
-- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/chrome-tips/chrome-ai-powered-history-search/)
-- [Chrome History Search Tips and Tricks](/chrome-tips/chrome-history-search-tips-and-tricks/)
-- [Chrome 2026 New Features Overview](/chrome-tips/chrome-2026-new-features-overview/)
+- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/chrome-ai-powered-history-search/)
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks/)
+- [Chrome 2026 New Features Overview](/chrome-2026-new-features-overview/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

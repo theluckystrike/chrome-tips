@@ -21,9 +21,9 @@ og:
   title: "Best JSON Schema Validation Extensions for Chrome"
   description: "Discover 6 powerful Chrome DevTools JSON viewer alternatives for better schema validation, formatting, and debugging in 2026."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-json-schema-validation-extensions/"
+  url: "https://chrometipsguide.com/best-json-schema-validation-extensions/"
   image: "https://og-image.vercel.app/Best%20JSON%20Schema%20Validation%20Extensions%20for%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-json-schema-validation-extensions/
+canonical_url: https://chrometipsguide.com/best-json-schema-validation-extensions/
 ---
 
 Chrome's built-in JSON viewer falls short when you need real-time schema validation and advanced formatting options. After testing dozens of extensions over the past six months, I found that JSON Formatter Pro consistently outperforms the competition for developers who need the best json schema validation extensions with robust error detection and comprehensive syntax highlighting capabilities.

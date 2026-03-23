@@ -87,9 +87,9 @@ Next time you feel overwhelmed by too many open tabs, remember: just press Ctrl+
 
 ## Related Articles
 
-- [How to Search Open Chrome Tabs](/chrome-tips/how-to-search-open-chrome-tabs/)
-- [Chrome Tab Search Feature How to Use](/chrome-tips/chrome-tab-search-feature-how-to-use/)
-- [Chrome Tab Management Shortcuts Cheat Sheet](/chrome-tips/chrome-tab-management-shortcuts-cheat-sheet/)
+- [How to Search Open Chrome Tabs](/how-to-search-open-chrome-tabs/)
+- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use/)
+- [Chrome Tab Management Shortcuts Cheat Sheet](/chrome-tab-management-shortcuts-cheat-sheet/)
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

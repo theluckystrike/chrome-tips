@@ -21,9 +21,9 @@ og:
   title: "How to Use Immersion Techniques for Language Learning Online"
   description: "Learn how to use immersion language learning online with browser settings, content switching, and translation tools for 3x faster fluency progress."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-use-immersion-for-language-learning/"
+  url: "https://chrometipsguide.com/how-to-use-immersion-for-language-learning/"
   image: "https://og-image.vercel.app/How%20to%20Use%20Immersion%20Techniques%20for%20Language%20Learning%20Online.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-use-immersion-for-language-learning/
+canonical_url: https://chrometipsguide.com/how-to-use-immersion-for-language-learning/
 faq:
   - q: "How do I use browser language settings for immersion language learning online?"
     a: "To use browser language settings for immersion learning, open Chrome settings by clicking the three dots menu, then navigate to Settings > Advanced > Languages. Add your target language and select 'Display Google Chrome in this language.' This change affects over 200 Chrome menu items and dialog boxes. After restarting your browser, you'll see terms like 'bookmark,' 'download,' and 'settings' repeatedly, building recognition through natural repetition. This method transforms your daily browsing into a 24/7 language practice session. Tools like Zovo can help you customize these immersion settings for optimal learning."

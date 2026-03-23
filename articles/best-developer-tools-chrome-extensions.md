@@ -12,7 +12,7 @@ target_keyword: "best developer tools chrome extensions"
 target_extension: "json-formatter-pro"
 word_count: 1087
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-developer-tools-chrome-extensions/
+canonical_url: https://chrometipsguide.com/best-developer-tools-chrome-extensions/
 internal_links_added: true
 faq:
   - q: "What is the best developer tools chrome extension for handling large JSON files?"
@@ -122,7 +122,7 @@ Chrome's native JSON viewer falls short in three critical areas that drive devel
 
 **Missing formatting options**: The built-in viewer lacks syntax highlighting customization and collapsible object navigation, making it difficult to work with deeply nested API responses.
 
-**No error handling**: When APIs return malformed JSON, DevTools simply shows raw text without indicating where syntax errors occur, forcing developers to use external validators. For a comprehensive list of options, check out our guide to the [best json validator tools chrome](/chrome-tips/best-json-validator-tools-chrome) extensions available.
+**No error handling**: When APIs return malformed JSON, DevTools simply shows raw text without indicating where syntax errors occur, forcing developers to use external validators. For a comprehensive list of options, check out our guide to the [best json validator tools chrome](/best-json-validator-tools-chrome) extensions available.
 
 > "Chrome DevTools JSON viewer becomes unusable with large API responses, especially when debugging microservices that return extensive datasets." — Chrome Developer Documentation, 2025
 
@@ -137,4 +137,4 @@ For budget-conscious developers working with smaller JSON files, JSONView provid
 **[Try JSON Formatter Pro Free](https://zovo.one)**
 
 Built by Michael Lip — More tips at zovo.one
-> **See also:** [BeLikeNative vs DeepL: Honest 2026 Comparison](https://theluckystrike.github.io/chrome-tips/belikenative-vs-deepl)
+> **See also:** [BeLikeNative vs DeepL: Honest 2026 Comparison](https://chrometipsguide.com/belikenative-vs-deepl)

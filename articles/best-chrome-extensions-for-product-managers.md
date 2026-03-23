@@ -89,6 +89,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Best Chrome Extensions for Designers 2026](/chrome-tips/chrome-extensions-for-designers)
-- [Chrome for Website Blocking During Work](/chrome-tips/chrome-for-website-blocking-during-work)
-- [Chrome Reopen Accidentally Closed Tab How](/chrome-tips/chrome-reopen-accidentally-closed-tab-how)
+- [Best Chrome Extensions for Designers 2026](/chrome-extensions-for-designers)
+- [Chrome for Website Blocking During Work](/chrome-for-website-blocking-during-work)
+- [Chrome Reopen Accidentally Closed Tab How](/chrome-reopen-accidentally-closed-tab-how)

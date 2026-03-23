@@ -83,6 +83,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Cover Letter Writing](/chrome-tips/chrome-extensions-for-cover-letter-writing)
-- [Chrome for Weather Dashboard Extensions](/chrome-tips/chrome-for-weather-dashboard-extensions)
-- [Chrome Remote Desktop Slow Fix](/chrome-tips/chrome-remote-desktop-slow-fix)
+- [Chrome Extensions for Cover Letter Writing](/chrome-extensions-for-cover-letter-writing)
+- [Chrome for Weather Dashboard Extensions](/chrome-for-weather-dashboard-extensions)
+- [Chrome Remote Desktop Slow Fix](/chrome-remote-desktop-slow-fix)

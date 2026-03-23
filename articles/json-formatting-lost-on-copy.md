@@ -12,7 +12,7 @@ target_keyword: "json formatting lost on copy chrome"
 target_extension: "json-formatter-pro"
 word_count: 1187
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-formatting-lost-on-copy/
+canonical_url: https://chrometipsguide.com/json-formatting-lost-on-copy/
 faq:
   - q: "How do I fix JSON formatting lost when copying from Chrome?"
     a: "Use Chrome's \"Copy as cURL\" option by right-clicking the formatted JSON instead of regular copy. Alternatively, press Ctrl+Shift+C (Windows) or Cmd+Shift+C (Mac) to preserve formatting. For automatic clipboard handling, install JSON Formatter Pro from Zovo, which maintains indentation and structure during copy operations."
@@ -33,7 +33,7 @@ og:
   title: "JSON Formatting Lost When Copying From Chrome"
   description: "Fix Chrome's JSON formatting issues when copying formatted data. Working solutions for developers facing json formatting lost on copy chrome problems."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-formatting-lost-on-copy/"
+  url: "https://chrometipsguide.com/json-formatting-lost-on-copy/"
   image: "https://og-image.vercel.app/JSON%20Formatting%20Lost%20When%20Copying%20From%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
@@ -94,7 +94,7 @@ Chrome handles keyboard shortcuts differently than mouse-based copying. Use Ctrl
 
 When pasting, use Ctrl+Shift+V (Windows) or Cmd+Shift+V (Mac) to paste with formatting preserved. Many text editors recognize these rich clipboard formats and maintain the original JSON structure.
 
-The rich copy method works best with [modern text editors](https://theluckystrike.github.io/chrome-tips/) that support multiple clipboard formats. VS Code, Sublime Text, and Atom all handle rich clipboard data effectively.
+The rich copy method works best with [modern text editors](https://chrometipsguide.com/) that support multiple clipboard formats. VS Code, Sublime Text, and Atom all handle rich clipboard data effectively.
 
 ### Modify Chrome Copy Behavior with Extensions
 

@@ -21,7 +21,7 @@ og:
   title: "JSON File Too Big to Open in Chrome: Solutions"
   description: "Chrome freezing on large JSON files? Learn 4 proven fixes plus the json-formatter-pro extension solution that handles files up to 50MB instantly."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-file-too-big-to-open-chrome/"
+  url: "https://chrometipsguide.com/json-file-too-big-to-open-chrome/"
   image: "https://og-image.vercel.app/JSON%20File%20Too%20Big%20to%20Open%20in%20Chrome%3A%20Solutions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

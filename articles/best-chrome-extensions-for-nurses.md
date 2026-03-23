@@ -88,6 +88,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Coupon Codes Automatically](/chrome-tips/chrome-extensions-for-coupon-codes-automatically)
-- [Chrome for Wave Accounting in Browser](/chrome-tips/chrome-for-wave-accounting-in-browser)
-- [Chrome Remote Desktop How to Use](/chrome-tips/chrome-remote-desktop-how-to-use)
+- [Chrome Extensions for Coupon Codes Automatically](/chrome-extensions-for-coupon-codes-automatically)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Chrome Remote Desktop How to Use](/chrome-remote-desktop-how-to-use)

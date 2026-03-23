@@ -82,8 +82,8 @@ Making Chrome work well on an older laptop requires some adjustments to your hab
 
 ## Related Articles
 
-- [4GB RAM Laptop Best Browser Settings](/chrome-tips/4gb-ram-laptop-best-browser-settings/)
-- [Best Browser for 2GB RAM Laptop 2026](/chrome-tips/best-browser-for-2gb-ram-laptop-2026/)
-- [Best Browser for Low RAM Computer 2026](/chrome-tips/best-browser-for-low-ram-computer-2026/)
+- [4GB RAM Laptop Best Browser Settings](/4gb-ram-laptop-best-browser-settings/)
+- [Best Browser for 2GB RAM Laptop 2026](/best-browser-for-2gb-ram-laptop-2026/)
+- [Best Browser for Low RAM Computer 2026](/best-browser-for-low-ram-computer-2026/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

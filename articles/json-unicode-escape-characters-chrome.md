@@ -12,7 +12,7 @@ target_keyword: "json unicode escape characters chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-unicode-escape-characters-chrome/
+canonical_url: https://chrometipsguide.com/json-unicode-escape-characters-chrome/
 faq:
   - q: "How do I fix JSON Unicode escape characters not rendering in Chrome?"
     a: "Clear Chrome's cache and cookies through Settings > Privacy > Clear browsing data, then restart Chrome with all extensions disabled by toggling them off at chrome://extensions. The issue occurs when Chrome's V8 JavaScript engine misinterprets Unicode escape sequences like \u00XX, treating them as raw strings instead of escaped characters. After applying these fixes, test your JSON in an incognito window to verify the rendering issue is resolved."

@@ -2,7 +2,7 @@
 
 2,000+ Chrome performance tips, tab management guides, and browser optimization articles.
 
-**Browse:** [theluckystrike.github.io/chrome-tips](https://theluckystrike.github.io/chrome-tips/)
+**Browse:** [theluckystrike.github.io/chrome-tips](https://chrometipsguide.com/)
 
 ### Topics
 
@@ -21,7 +21,7 @@ Jekyll on GitHub Pages.
 ### More Free Guides
 
 - [Claude Skills Guide](https://theluckystrike.github.io/claude-skills-guide/) — Claude Code tutorials and automation guides
-- [Chrome Extension Guide](https://theluckystrike.github.io/chrome-extension-guide/) — Chrome extension development tutorials
-- [AI Tools Compared](https://theluckystrike.github.io/ai-tools-compared/) — AI tool comparisons and reviews
-- [Remote Work Tools](https://theluckystrike.github.io/remote-work-tools/) — Remote work software guides
-- [Privacy Tools Guide](https://theluckystrike.github.io/privacy-tools-guide/) — VPN and digital security guides
+- [Chrome Extension Guide](https://bestchromeextensions.com/) — Chrome extension development tutorials
+- [AI Tools Compared](https://bestremotetools.com/) — AI tool comparisons and reviews
+- [Remote Work Tools](https://welikeremotestack.com/) — Remote work software guides
+- [Privacy Tools Guide](https://securetoolsguide.com/) — VPN and digital security guides

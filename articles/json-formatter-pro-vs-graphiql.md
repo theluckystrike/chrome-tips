@@ -12,7 +12,7 @@ target_keyword: "json formatter pro vs graphiql"
 target_extension: "json-formatter-pro"
 word_count: 1100
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-graphiql/
+canonical_url: https://chrometipsguide.com/json-formatter-pro-vs-graphiql/
 ---
 
 **JSON Formatter Pro** wins for REST API developers who need fast JSON inspection in Chrome. **GraphiQL** wins for GraphQL developers who need an interactive IDE to write, test, and explore GraphQL schemas. The json formatter pro vs graphiql comparison covers two tools with minimal overlap: one formats JSON responses passively, the other actively tests GraphQL APIs.

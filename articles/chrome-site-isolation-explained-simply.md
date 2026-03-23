@@ -56,8 +56,8 @@ Using **Tab Suspender Pro** is an excellent way to balance **security** and **pe
 **Tab Suspender Pro** helps by automatically "hibernating" inactive tabs, killing their background processes while keeping the tab visible in your strip. This significantly reduces the memory pressure caused by **process-per-site** isolation, ensuring that your active, **sandboxed** tabs have plenty of resources to run their security checks smoothly. It’s the perfect companion for anyone who wants a secure browser that doesn't crawl to a halt.
 
 ## Related Articles
-- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
-- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
-- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+- [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -15,6 +15,7 @@ tags:
 - web-security
 author: theluckystrike
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # Chrome Cross-Origin Isolation Explained
 

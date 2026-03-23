@@ -15,6 +15,7 @@ tags:
 - kid-safety
 - chrome-settings
 author: theluckystrike
+date: 2026-03-23
 ---
 
 # Chrome Family Link Parental Controls – A Complete Setup Guide

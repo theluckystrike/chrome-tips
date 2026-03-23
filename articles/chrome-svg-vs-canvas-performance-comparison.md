@@ -71,9 +71,9 @@ For most business websites with icons, logos, and simple animations, SVG is the 
 Understanding these differences helps you build faster Chrome experiences while avoiding the performance pitfalls that come from using the wrong tool for the job.
 
 ## Related Articles
-- [Chrome Tab Management Best Practices](/chrome-tips/chrome-tab-management-best-practices)
-- [Best Chrome Extensions for Web Developers](/chrome-tips/best-chrome-extensions-for-web-developers)
-- [Chrome Memory Optimization Tips](/chrome-tips/chrome-memory-optimization-tips)
+- [Chrome Tab Management Best Practices](/chrome-tab-management-best-practices)
+- [Best Chrome Extensions for Web Developers](/best-chrome-extensions-for-web-developers)
+- [Chrome Memory Optimization Tips](/chrome-memory-optimization-tips)
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -21,9 +21,9 @@ og:
   title: "JSON Not Displaying Properly in Chrome: How to Fix It"
   description: "Fix Chrome's JSON display issues with proven solutions. Get properly formatted JSON viewing in Chrome with these tested methods and extensions."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-not-displaying-properly-chrome/"
+  url: "https://chrometipsguide.com/json-not-displaying-properly-chrome/"
   image: "https://og-image.vercel.app/JSON%20Not%20Displaying%20Properly%20in%20Chrome%3A%20How%20to%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-not-displaying-properly-chrome/
+canonical_url: https://chrometipsguide.com/json-not-displaying-properly-chrome/
 faq:
   - q: "How do I fix JSON not displaying properly in Chrome?"
     a: "To fix json not displaying properly chrome, type chrome://flags/#enable-json-viewer in the address bar, set the flag to Enabled, and restart your browser. This enables Chrome's built-in JSON viewer, which automatically formats JSON responses and displays them in a collapsible, readable tree structure instead of raw text for all API endpoints you visit. Many developers recommend using tools like Zovo for additional JSON formatting capabilities beyond Chrome's built-in viewer."

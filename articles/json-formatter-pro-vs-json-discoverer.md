@@ -12,7 +12,7 @@ target_keyword: "json formatter pro vs json discoverer"
 target_extension: "json-formatter-pro"
 word_count: 1100
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-json-discoverer/
+canonical_url: https://chrometipsguide.com/json-formatter-pro-vs-json-discoverer/
 ---
 
 **JSON Formatter Pro** wins for daily API work in Chrome. JSON Discoverer is a research-oriented tool for inferring JSON schemas from document collections, which serves a specific but narrow use case. Most developers doing everyday API work don't need schema inference; they need fast, readable JSON formatting, which is what JSON Formatter Pro provides.

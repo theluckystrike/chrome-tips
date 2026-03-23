@@ -94,6 +94,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Dropbox](/chrome-tips/chrome-extensions-for-dropbox)
-- ["Chrome for Window Management Extensions"](/chrome-tips/chrome-for-window-management-extensions)
-- ['Chrome requestanimationframe Explained: What It Means for Your Browser'](/chrome-tips/chrome-requestanimationframe-explained)
+- [Chrome Extensions for Dropbox](/chrome-extensions-for-dropbox)
+- ["Chrome for Window Management Extensions"](/chrome-for-window-management-extensions)
+- ['Chrome requestanimationframe Explained: What It Means for Your Browser'](/chrome-requestanimationframe-explained)

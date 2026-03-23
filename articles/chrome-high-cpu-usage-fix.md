@@ -12,7 +12,7 @@ target_keyword: "chrome high cpu usage fix"
 target_extension: "tab-suspender-pro"
 word_count: 1210
 reading_time: 5
-canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-high-cpu-usage-fix/"
+canonical_url: "https://chrometipsguide.com/chrome-high-cpu-usage-fix/"
 ---
 
 When Chrome is maxing out your CPU, the fastest fix is disabling hardware acceleration in `chrome://settings/system`. Counterintuitively, hardware acceleration often causes higher CPU usage rather than lower on machines with older or incompatible GPU drivers, because Chrome ends up spending more CPU cycles coordinating between the processor and GPU than it would by just doing the work on CPU alone. Disabling it and restarting Chrome takes two minutes and resolves high CPU for roughly 60% of users who experience it.

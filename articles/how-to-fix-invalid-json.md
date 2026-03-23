@@ -12,7 +12,7 @@ target_keyword: "how to fix invalid json"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-fix-invalid-json/
+canonical_url: https://chrometipsguide.com/how-to-fix-invalid-json/
 faq:
   - q: "How do I fix invalid JSON in Chrome?"
     a: "Open Chrome DevTools by pressing F12 (Windows) or Cmd+Option+I (Mac), then paste your JSON into the Console and wrap it with JSON.parse(). Chrome will immediately show you the exact error location, such as 'Unexpected token } in JSON at position 25' for a trailing comma. The MDN documentation confirms JSON.parse() constructs the JavaScript value described by the string, making it essential for validation. Zovo recommends this browser-native method for quick debugging."

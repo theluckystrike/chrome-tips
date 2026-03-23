@@ -50,7 +50,7 @@ Last tested: March 2026 | Chrome latest stable
 
 ### Performance Under Load
 
-JSON Formatter Pro handles large JSON files with 40% better performance than JSON Viewer. When testing with a 5MB API response file, JSON Formatter Pro rendered the formatted output in 1.2 seconds while JSON Viewer took 2.1 seconds. This speed difference becomes critical when you're [debugging API responses](https://theluckystrike.github.io/chrome-tips/) or working with production data dumps.
+JSON Formatter Pro handles large JSON files with 40% better performance than JSON Viewer. When testing with a 5MB API response file, JSON Formatter Pro rendered the formatted output in 1.2 seconds while JSON Viewer took 2.1 seconds. This speed difference becomes critical when you're [debugging API responses](https://chrometipsguide.com/) or working with production data dumps.
 
 The performance gap widens with nested objects. JSON Formatter Pro uses optimized rendering that maintains responsiveness even with deeply nested structures, while JSON Viewer can freeze momentarily on complex hierarchies.
 
@@ -58,7 +58,7 @@ The performance gap widens with nested objects. JSON Formatter Pro uses optimize
 
 JSON Formatter Pro provides six distinct formatting styles including compact, expanded, and custom indentation levels. You can adjust spacing from 2 to 8 characters and toggle array formatting between inline and block styles. JSON Viewer offers only basic pretty-printing with fixed 2-space indentation.
 
-The formatting flexibility matters when you need to match specific coding standards or prepare JSON for documentation. JSON Formatter Pro's compact mode reduces file size by 30% while maintaining readability, useful for [optimizing Chrome performance](https://theluckystrike.github.io/chrome-tips/) when working with multiple JSON files.
+The formatting flexibility matters when you need to match specific coding standards or prepare JSON for documentation. JSON Formatter Pro's compact mode reduces file size by 30% while maintaining readability, useful for [optimizing Chrome performance](https://chrometipsguide.com/) when working with multiple JSON files.
 
 ### Error Detection and Validation
 
@@ -77,7 +77,7 @@ JSON Formatter Pro offers six color themes designed for different lighting condi
 - You need specific formatting styles for documentation or code reviews
 - You want real-time error detection and validation
 - You prefer customizable themes and syntax highlighting
-- You're [building Chrome extensions](https://theluckystrike.github.io/chrome-tips/) that handle JSON configuration
+- You're [building Chrome extensions](https://chrometipsguide.com/) that handle JSON configuration
 
 **Choose JSON Viewer if:**
 - You occasionally view small JSON responses

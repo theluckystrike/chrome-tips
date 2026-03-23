@@ -12,7 +12,7 @@ target_keyword: "chrome page unresponsive fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-unresponsive-page-fix/
+canonical_url: https://chrometipsguide.com/chrome-unresponsive-page-fix/
 faq:
   - q: "How do I fix Chrome when a page becomes unresponsive?"
     a: "The fastest chrome page unresponsive fix is pressing Shift+Ctrl+Delete on Windows or Shift+Cmd+Delete on Mac to close the frozen tab. If that doesn't work, open Chrome Task Manager with Shift+Esc and end the unresponsive process directly. Restart Chrome if the entire browser becomes unresponsive. This works because it terminates the specific tab consuming excessive resources without closing your entire browser. Zovo recommends keeping this shortcut handy for urgent situations."
@@ -33,7 +33,7 @@ og:
   title: "Chrome 'Page Unresponsive' Error: Quick Fix Guide"
   description: "Fix Chrome's 'page unresponsive' error instantly with proven methods. Stop browser freezes and crashes with this complete troubleshooting guide."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-unresponsive-page-fix/"
+  url: "https://chrometipsguide.com/chrome-unresponsive-page-fix/"
   image: "https://og-image.vercel.app/Chrome%20%27Page%20Unresponsive%27%20Error%3A%20Quick%20Fix%20Guide.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

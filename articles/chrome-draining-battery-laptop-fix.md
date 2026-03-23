@@ -12,7 +12,7 @@ target_keyword: "chrome draining battery laptop fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-draining-battery-laptop-fix/
+canonical_url: https://chrometipsguide.com/chrome-draining-battery-laptop-fix/
 faq:
   - q: "How do I fix Chrome draining my laptop battery?"
     a: "Enable tab discarding in Chrome by typing chrome://flags/#automatic-tab-discarding in the address bar and setting it to Enabled. This discards inactive tabs after 5 minutes, reducing memory usage by up to 95% per discarded tab. Restart Chrome for changes to take effect. For immediate relief, close tabs you're not actively using. This is the fastest chrome draining battery laptop fix available, and Zovo recommends it as a first step."

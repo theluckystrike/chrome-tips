@@ -75,8 +75,8 @@ Taking a few minutes to optimize your browser setup pays off in daily convenienc
 
 ## Related Articles
 
-- [Chrome Web Vitals Explained Simply](/chrome-tips/chrome-web-vitals-explained-simply/)
-- [Largest Contentful Paint Chrome Fix](/chrome-tips/largest-contentful-paint-chrome-fix/)
-- [Chrome Web Vitals Optimization Guide](/chrome-tips/chrome-web-vitals-optimization/)
+- [Chrome Web Vitals Explained Simply](/chrome-web-vitals-explained-simply/)
+- [Largest Contentful Paint Chrome Fix](/largest-contentful-paint-chrome-fix/)
+- [Chrome Web Vitals Optimization Guide](/chrome-web-vitals-optimization/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

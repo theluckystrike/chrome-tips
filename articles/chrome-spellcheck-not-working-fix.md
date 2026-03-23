@@ -100,8 +100,8 @@ Tab Suspender Pro is an extension that automatically manages your open tabs by s
 For casual writing (comments, messages, quick emails), Chrome's basic spellcheck is sufficient. For important documents, use a dedicated writing tool. And for a smoother overall experience that keeps all these features working reliably, make sure you are managing your browser's resources effectively.
 
 ## Related Articles
-- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
-- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
-- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+- [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

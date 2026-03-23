@@ -14,6 +14,7 @@ tags:
 - nfc-tags
 - chrome-developer
 author: theluckystrike
+date: 2026-03-23
 ---
 
 # Chrome Web NFC Tag Read and Write – Complete Guide

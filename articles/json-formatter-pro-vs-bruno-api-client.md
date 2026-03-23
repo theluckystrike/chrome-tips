@@ -52,7 +52,7 @@ Bruno's standout feature is storing collections as plain text `.bru` files in yo
 
 JSON Formatter Pro requires zero configuration. Install it, and every JSON URL you visit is automatically formatted. There's no setup, no project structure, no files to manage. For viewing JSON, that simplicity is a feature, not a limitation.
 
-For Chrome users who prefer minimal extensions that work instantly without setup, JSON Formatter Pro fits perfectly alongside other [best chrome extensions for browser minimalists](/chrome-tips/best-chrome-extensions-minimalists) that prioritize simplicity and performance.
+For Chrome users who prefer minimal extensions that work instantly without setup, JSON Formatter Pro fits perfectly alongside other [best chrome extensions for browser minimalists](/best-chrome-extensions-minimalists) that prioritize simplicity and performance.
 
 According to [OfflineTools' comparative analysis of JSON formatter browser extensions](https://offlinetools.org/a/json-formatter/json-formatter-browser-extensions-a-comparative-analysis), zero-configuration extensions dominate daily developer workflows precisely because they reduce friction to nothing.
 

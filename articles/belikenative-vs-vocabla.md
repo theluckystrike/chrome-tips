@@ -12,7 +12,7 @@ target_keyword: "belikenative vs vocabla"
 target_extension: "belikenative"
 word_count: 1100
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/belikenative-vs-vocabla/
+canonical_url: https://chrometipsguide.com/belikenative-vs-vocabla/
 ---
 
 **BeLikeNative** wins for active writing assistance and translation during daily work. **Vocabla** wins for passive vocabulary collection and flashcard-based review from browsing sessions. The belikenative vs vocabla comparison shows two tools that both run in Chrome but approach language support from different directions.

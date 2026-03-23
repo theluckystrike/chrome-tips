@@ -92,6 +92,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for eBay Sniping](/chrome-tips/chrome-extensions-for-ebay-sniping)
-- [Chrome for Work vs Personal — How to Use Separate Profiles](/chrome-tips/chrome-for-work-vs-personal-separate-profiles)
-- ['Chrome Reset All Settings: What Gets Deleted'](/chrome-tips/chrome-reset-all-settings-what-gets-deleted)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+- [Chrome for Work vs Personal — How to Use Separate Profiles](/chrome-for-work-vs-personal-separate-profiles)
+- ['Chrome Reset All Settings: What Gets Deleted'](/chrome-reset-all-settings-what-gets-deleted)

@@ -12,7 +12,7 @@ target_keyword: "how to prevent chrome tabs from reloading"
 target_extension: "tab-suspender-pro"
 word_count: 1285
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-prevent-chrome-tabs-from-reloading/
+canonical_url: https://chrometipsguide.com/how-to-prevent-chrome-tabs-from-reloading/
 image: "https://og-image.vercel.app/How%20to%20Prevent%20Chrome%20Tabs%20From%20Reloading%20Automatically.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "How to Prevent Chrome Tabs From Reloading Automatically"
   description: "Learn how to prevent Chrome tabs from reloading automatically with built-in settings and advanced techniques. Stop losing your work and browsing progress."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-prevent-chrome-tabs-from-reloading/"
+  url: "https://chrometipsguide.com/how-to-prevent-chrome-tabs-from-reloading/"
   image: "https://og-image.vercel.app/How%20to%20Prevent%20Chrome%20Tabs%20From%20Reloading%20Automatically.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How do I stop Chrome tabs from reloading automatically?"

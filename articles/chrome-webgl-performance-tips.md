@@ -82,8 +82,8 @@ Remember that not every tip works equally well for everyone. Your hardware confi
 
 ## Related Articles
 
-- [Chrome WebGL Crashing Fix](/chrome-tips/chrome-webgl-crashing-fix/)
-- [Chrome WebGL Not Working Fix](/chrome-tips/chrome-webgl-not-working-fix/)
-- [Chrome Hardware Acceleration Guide](/chrome-tips/chrome-hardware-acceleration-guide/)
+- [Chrome WebGL Crashing Fix](/chrome-webgl-crashing-fix/)
+- [Chrome WebGL Not Working Fix](/chrome-webgl-not-working-fix/)
+- [Chrome Hardware Acceleration Guide](/chrome-hardware-acceleration-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

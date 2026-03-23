@@ -12,7 +12,7 @@ target_keyword: "tab suspender pro vs hibernator"
 target_extension: "tab-suspender-pro"
 word_count: 1280
 reading_time: 6
-canonical_url: "https://theluckystrike.github.io/chrome-tips/tab-suspender-pro-vs-hibernator/"
+canonical_url: "https://chrometipsguide.com/tab-suspender-pro-vs-hibernator/"
 ---
 
 # Tab Suspender Pro vs Hibernator: Complete 2026 Comparison

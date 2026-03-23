@@ -12,7 +12,7 @@ target_keyword: "chrome gpu memory usage high"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-gpu-memory-usage-high/
+canonical_url: https://chrometipsguide.com/chrome-gpu-memory-usage-high/
 image: "https://og-image.vercel.app/Chrome%20GPU%20Memory%20Usage%20Too%20High%3A%20Solutions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Chrome GPU Memory Usage Too High: Solutions"
   description: "Fix Chrome's high GPU memory usage with these proven solutions. Stop browser freezes and crashes with simple settings changes."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-gpu-memory-usage-high/"
+  url: "https://chrometipsguide.com/chrome-gpu-memory-usage-high/"
   image: "https://og-image.vercel.app/Chrome%20GPU%20Memory%20Usage%20Too%20High%3A%20Solutions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How do I fix chrome gpu memory usage high in Chrome?"

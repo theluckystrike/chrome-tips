@@ -2,6 +2,7 @@
 layout: default
 title: "Chrome Media Capabilities API: Detect Support and Optimize Playback"
 description: "Learn how to use the Chrome Media Capabilities API to detect codec support and deliver the best video and audio experience for your users."
+date: 2026-03-23
 ---
 
 # Chrome Media Capabilities API: Detect Support and Optimize Playback

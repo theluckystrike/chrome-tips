@@ -30,7 +30,7 @@ Key features that set it apart:
 
 The extension costs nothing and requires zero configuration. Install it once, and every JSON response you encounter gets the formatting treatment automatically. Version 1.0.4 runs at 738KiB - smaller than most images on modern websites. The latest update from March 2026 improved parsing speed by 40% while maintaining the 4.8/5 user rating.
 
-Why it's my top pick: JSON Formatter Pro does one thing exceptionally well without trying to replace your entire API testing workflow. The automatic detection means you can test APIs in any tool (curl, fetch, even browser dev tools) and still get perfectly formatted responses. This approach aligns perfectly with modern [Chrome developer workflow optimization](https://theluckystrike.github.io/chrome-tips/) practices.
+Why it's my top pick: JSON Formatter Pro does one thing exceptionally well without trying to replace your entire API testing workflow. The automatic detection means you can test APIs in any tool (curl, fetch, even browser dev tools) and still get perfectly formatted responses. This approach aligns perfectly with modern [Chrome developer workflow optimization](https://chrometipsguide.com/) practices.
 
 The honest limitation: It doesn't send requests or manage collections like full Postman replacements. You'll still need a separate tool for complex authentication workflows or team collaboration features.
 
@@ -86,7 +86,7 @@ The extension maintains the same lightweight philosophy as its VS Code counterpa
 
 Performance stays excellent with response times under 100ms for most requests and zero impact on browser memory when idle. The extension leverages Chrome's native networking capabilities for optimal speed without additional overhead from external libraries.
 
-Integration with [Chrome's developer tools](https://theluckystrike.github.io/chrome-tips/) provides enhanced debugging capabilities including network timing analysis and response header inspection. This tight integration makes it particularly effective for full-stack developers who spend time in both VS Code and browser environments.
+Integration with [Chrome's developer tools](https://chrometipsguide.com/) provides enhanced debugging capabilities including network timing analysis and response header inspection. This tight integration makes it particularly effective for full-stack developers who spend time in both VS Code and browser environments.
 
 **Best for:** VS Code users who want consistent API testing tools across their development environment.
 
@@ -118,6 +118,6 @@ Browser-based API testing tools offer the speed and simplicity that Postman's fe
 
 For teams requiring full Postman functionality without the performance penalty, Advanced REST Client provides the most complete feature set. Professional development environments benefit from Talend API Tester's automation capabilities, while VS Code users should consider Thunder Client Companion for workflow integration.
 
-The browser extension approach eliminates Postman's startup delays and memory overhead while maintaining the core functionality most developers actually use daily. These tools integrate naturally with [modern Chrome development workflows](https://theluckystrike.github.io/chrome-tips/) and provide instant access to API testing capabilities. **[Try JSON Formatter Pro Free](https://zovo.one)**
+The browser extension approach eliminates Postman's startup delays and memory overhead while maintaining the core functionality most developers actually use daily. These tools integrate naturally with [modern Chrome development workflows](https://chrometipsguide.com/) and provide instant access to API testing capabilities. **[Try JSON Formatter Pro Free](https://zovo.one)**
 
 Built by Michael Lip — More tips at zovo.one

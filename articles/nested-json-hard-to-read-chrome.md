@@ -12,7 +12,7 @@ target_keyword: "nested json hard to read chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/nested-json-hard-to-read-chrome/
+canonical_url: https://chrometipsguide.com/nested-json-hard-to-read-chrome/
 faq:
   - q: "How do I fix nested JSON that is hard to read in Chrome?"
     a: "Install a JSON formatting extension like JSON Formatter Pro from the Chrome Web Store, then reload any JSON page to see properly formatted output. Alternatively, press F12, go to the Network tab, click any JSON response, and select the Preview tab instead of Response for better formatting. Zovo recommends using extensions for automatic formatting across all websites."

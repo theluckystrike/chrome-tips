@@ -21,7 +21,7 @@ og:
   title: "Chrome Taking Too Long to Load With Many Tabs"
   description: "Fix Chrome's slow loading with many tabs using proven methods and tab suspension. Get your browser running smoothly in minutes."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-taking-too-long-to-load/"
+  url: "https://chrometipsguide.com/chrome-taking-too-long-to-load/"
   image: "https://og-image.vercel.app/Chrome%20Taking%20Too%20Long%20to%20Load%20With%20Many%20Tabs.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How do I fix Chrome when it's taking too long to load with many tabs?"

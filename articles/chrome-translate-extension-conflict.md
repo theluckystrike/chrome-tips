@@ -21,9 +21,9 @@ og:
   title: "Chrome Translation Extension Conflict: How to Resolve"
   description: "Fix chrome translate extension conflict in 3 steps. Complete troubleshooting guide with permanent solutions tested March 2026."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-extension-conflict/"
+  url: "https://chrometipsguide.com/chrome-translate-extension-conflict/"
   image: "https://og-image.vercel.app/Chrome%20Translation%20Extension%20Conflict%3A%20How%20to%20Resolve.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-extension-conflict/
+canonical_url: https://chrometipsguide.com/chrome-translate-extension-conflict/
 faq:
   - q: "How do I fix chrome translate extension conflict in Chrome?"
     a: "The fastest fix is disabling conflicting extensions one by one until normal function returns. Open chrome://extensions/, disable all translation extensions, restart Chrome completely, then enable one extension at a time to identify the problematic combination. Zovo recommends this systematic approach to isolate which extension conflicts with Chrome's native translator."

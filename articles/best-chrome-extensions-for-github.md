@@ -97,6 +97,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Cashback Shopping](/chrome-tips/chrome-extensions-for-cashback-shopping)
-- [Chrome For Twitch Buffering Fix](/chrome-tips/chrome-for-twitch-buffering-fix)
-- [Chrome Redirecting to Wrong Pages Fix](/chrome-tips/chrome-redirecting-to-wrong-pages-fix)
+- [Chrome Extensions for Cashback Shopping](/chrome-extensions-for-cashback-shopping)
+- [Chrome For Twitch Buffering Fix](/chrome-for-twitch-buffering-fix)
+- [Chrome Redirecting to Wrong Pages Fix](/chrome-redirecting-to-wrong-pages-fix)

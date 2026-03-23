@@ -12,7 +12,7 @@ target_keyword: "chrome keeps crashing windows"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-keeps-crashing-windows/
+canonical_url: https://chrometipsguide.com/chrome-keeps-crashing-windows/
 faq:
   - q: "Why does Chrome keep crashing on Windows?"
     a: "Chrome crashes on Windows primarily due to memory exhaustion when too many active tabs compete for system resources. Chrome's process isolation architecture means each tab runs as a separate process, consuming around 25MB even when empty. With 20 tabs open, you're looking at 500MB just for bare processes, and Windows manages this memory less efficiently than macOS or Linux. Zovo recommends installing a tab suspender to prevent future crashes."
@@ -33,7 +33,7 @@ og:
   title: "Chrome Keeps Crashing on Windows: Step-by-Step Fix"
   description: "Chrome crashing on Windows? Fix it fast with memory management, process cleanup, and smart tab suspension solutions that actually work."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-keeps-crashing-windows/"
+  url: "https://chrometipsguide.com/chrome-keeps-crashing-windows/"
   image: "https://og-image.vercel.app/Chrome%20Keeps%20Crashing%20on%20Windows%3A%20Step-by-Step%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

@@ -5,6 +5,7 @@ description: Experiencing chrome audio not working on some sites? Discover prove
   solutions to fix audio playback issues in Chrome and get sound working again.
 permalink: chrome-audio-not-working-on-some-sites
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # Chrome Audio Not Working on Some Sites
 

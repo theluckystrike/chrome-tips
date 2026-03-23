@@ -23,7 +23,7 @@ faq:
     a: "Chrome truncates nested arrays containing more than 100 elements in the default viewer. This rendering engine constraint forces developers to manually expand each section to see complete data. The Blink engine's process isolation limits affect both array length and object depth. Using a formatter extension prevents this truncation and displays full arrays consistently."
   - q: "What Chrome DevTools setting keeps JSON expanded?"
     a: "The 'Automatically reveal files in sidebar' setting in Chrome DevTools Sources panel helps maintain expanded JSON views. However, for permanent relief from collapsed objects, a JSON formatter extension provides the most reliable solution. Zovo offers developers a consistent viewing experience that overrides Chrome's default memory protection behavior."
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-nested-objects-collapsed-chrome/
+canonical_url: https://chrometipsguide.com/json-nested-objects-collapsed-chrome/
 image: "https://og-image.vercel.app/JSON%20Nested%20Objects%20Always%20Collapsed%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -33,7 +33,7 @@ og:
   title: "JSON Nested Objects Always Collapsed in Chrome"
   description: "Fix Chrome's annoying JSON nested objects collapse issue with these proven methods. Working solutions for developers viewing complex JSON data structures."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-nested-objects-collapsed-chrome/"
+  url: "https://chrometipsguide.com/json-nested-objects-collapsed-chrome/"
   image: "https://og-image.vercel.app/JSON%20Nested%20Objects%20Always%20Collapsed%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

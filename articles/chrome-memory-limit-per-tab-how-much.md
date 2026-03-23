@@ -13,6 +13,7 @@ tags:
 - tab-management
 - chrome-tips
 author: theluckystrike
+date: 2026-03-23
 ---
 
 # Chrome Memory Limit Per Tab — How Much Is Actually Used?

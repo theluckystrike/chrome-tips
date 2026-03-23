@@ -98,7 +98,7 @@ Second, the extension lacks context awareness for technical documents. Legal ter
 
 Third, there's no batch processing capability. Translating multiple PDFs requires manual intervention for each file, making it impractical for professionals who handle document sets regularly.
 
-These limitations explain why [Chrome extension users seek alternatives](https://theluckystrike.github.io/chrome-tips/) that understand document structure rather than just converting words between languages.
+These limitations explain why [Chrome extension users seek alternatives](https://chrometipsguide.com/) that understand document structure rather than just converting words between languages.
 
 > "Use the chrome.i18n infrastructure to implement internationalization across your whole extension, providing locale-specific strings via messages.json files." ,  [chrome.i18n API - Chrome Extensions](https://developer.chrome.com/docs/extensions/reference/api/i18n)
 

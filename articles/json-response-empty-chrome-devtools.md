@@ -12,7 +12,7 @@ target_keyword: "json response empty chrome devtools"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-response-empty-chrome-devtools/
+canonical_url: https://chrometipsguide.com/json-response-empty-chrome-devtools/
 faq:
   - q: "Why does my JSON response appear empty in Chrome DevTools?"
     a: "The most common reason is a Content-Type header mismatch. Chrome expects application/json to trigger its JSON formatter and pretty-printing. When servers send JSON data with headers like text/plain or text/html, Chrome treats the response as raw text and displays it as empty. Check your Response Headers tab—if the Content-Type isn't application/json, that's your problem. Zovo recommends fixing this on the server side for permanent results."

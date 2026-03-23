@@ -12,7 +12,7 @@ target_keyword: "best extensions manage many tabs"
 target_extension: "tab-suspender-pro"
 word_count: 1185
 reading_time: 5 min
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-extensions-manage-many-tabs/
+canonical_url: https://chrometipsguide.com/best-extensions-manage-many-tabs/
 image: "https://og-image.vercel.app/Best%20Extensions%20to%20Manage%20Many%20Tabs%20Without%20Slowing%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Best Extensions to Manage Many Tabs Without Slowing Chrome"
   description: "Discover 6 top alternatives to Chrome's Memory Saver for managing many tabs. Compare features, performance, and pricing of the best extensions manage many tabs."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-extensions-manage-many-tabs/"
+  url: "https://chrometipsguide.com/best-extensions-manage-many-tabs/"
   image: "https://og-image.vercel.app/Best%20Extensions%20to%20Manage%20Many%20Tabs%20Without%20Slowing%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

@@ -16,6 +16,7 @@ tags:
 - javascript
 author: theluckystrike
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # How to Keep Your Screen Awake Using Chrome Screen Wake Lock API
 

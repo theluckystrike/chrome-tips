@@ -23,7 +23,7 @@ faq:
     a: "Extensions can definitely cause the aw snap! error since they run in their own processes and can interfere with each other or consume excessive resources. Ad blockers, password managers, and productivity extensions are common culprits. A single poorly coded extension can cause memory leaks that crash multiple tabs simultaneously. Zovo recommends auditing your extensions regularly and removing any that are unnecessary."
   - q: "How do I prevent Chrome aw snap errors from happening again?"
     a: "To prevent future aw snap! errors, regularly clear your browser cache and limit the number of open tabs to reduce memory pressure. Disable or remove problematic extensions that consume excessive resources. Chrome's Page Lifecycle API can freeze and discard background tabs to conserve resources. Zovo suggests keeping your browser updated and monitoring your system's available memory to prevent crashes."
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-aw-snap-error-fix/
+canonical_url: https://chrometipsguide.com/chrome-aw-snap-error-fix/
 image: "https://og-image.vercel.app/Chrome%20%27Aw%2C%20Snap%21%27%20Error%3A%20Causes%20and%20Solutions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -33,7 +33,7 @@ og:
   title: "Chrome 'Aw, Snap!' Error: Causes and Solutions"
   description: "Fix Chrome's 'aw, snap!' error with proven troubleshooting steps and permanent tab management solutions that actually work."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-aw-snap-error-fix/"
+  url: "https://chrometipsguide.com/chrome-aw-snap-error-fix/"
   image: "https://og-image.vercel.app/Chrome%20%27Aw%2C%20Snap%21%27%20Error%3A%20Causes%20and%20Solutions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

@@ -103,6 +103,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Code Snippet Manager](/chrome-tips/chrome-extensions-for-code-snippet-manager)
-- [Chrome for Two Factor Authentication Setup](/chrome-tips/chrome-for-two-factor-authentication-setup)
-- [Chrome Reduce Data Usage Tips](/chrome-tips/chrome-reduce-data-usage-tips)
+- [Chrome Extensions for Code Snippet Manager](/chrome-extensions-for-code-snippet-manager)
+- [Chrome for Two Factor Authentication Setup](/chrome-for-two-factor-authentication-setup)
+- [Chrome Reduce Data Usage Tips](/chrome-reduce-data-usage-tips)

@@ -82,7 +82,7 @@ Use it for what it's good at — local privacy and fresh browser sessions — an
 
 ---
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+*Part of [Chrome Tips](https://chrometipsguide.com/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
 
 ## Related Articles
 * [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide/)

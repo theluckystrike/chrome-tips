@@ -32,7 +32,7 @@ The one limitation: setup takes more time than simpler alternatives if you want 
 
 ## 2. The Marvellous Suspender ,  Best for Simplicity
 
-The Marvellous Suspender focuses on doing one thing exceptionally well: automatically suspending tabs without breaking your workflow. This extension replaced The Great Suspender after its removal from the Chrome Web Store, maintaining compatibility with [Chrome's extension development best practices](https://theluckystrike.github.io/chrome-tips/).
+The Marvellous Suspender focuses on doing one thing exceptionally well: automatically suspending tabs without breaking your workflow. This extension replaced The Great Suspender after its removal from the Chrome Web Store, maintaining compatibility with [Chrome's extension development best practices](https://chrometipsguide.com/).
 
 Notable features include automatic tab restoration when clicked and memory usage statistics that show real savings. The interface stays minimal while providing essential suspension controls. Unlike more complex alternatives, you get immediate value without configuration overhead.
 
@@ -42,7 +42,7 @@ Best for: users who want set-it-and-forget-it tab management without complex rul
 
 ## 3. Auto Tab Discard ,  Most Comprehensive Analytics
 
-Auto Tab Discard brings data-driven tab management with detailed analytics about your browsing patterns. You'll see exactly how much memory each suspended tab saves and which sites consume the most resources. This transparency helps identify problematic sites that might benefit from [performance optimization techniques](https://theluckystrike.github.io/chrome-tips/).
+Auto Tab Discard brings data-driven tab management with detailed analytics about your browsing patterns. You'll see exactly how much memory each suspended tab saves and which sites consume the most resources. This transparency helps identify problematic sites that might benefit from [performance optimization techniques](https://chrometipsguide.com/).
 
 This extension offers native integration with Chrome's tab grouping system and provides session restoration across browser restarts. The analytics dashboard helps identify which tabs you actually need versus those you keep open out of habit. Real-time memory monitoring shows immediate impact of suspension decisions.
 
@@ -64,7 +64,7 @@ Free with premium features available through subscription. Best for: researchers
 
 TabMemFree strips away advanced features to focus purely on memory optimization. This extension uses Chrome's native suspension APIs more aggressively than built-in Memory Saver while maintaining better tab restoration reliability.
 
-The extension monitors system memory usage and increases suspension aggressiveness when RAM runs low. Visual memory usage indicators show real-time savings from suspended tabs. Configuration options remain minimal by design, appealing to users who want [efficient Chrome performance](https://theluckystrike.github.io/chrome-tips/) without complexity.
+The extension monitors system memory usage and increases suspension aggressiveness when RAM runs low. Visual memory usage indicators show real-time savings from suspended tabs. Configuration options remain minimal by design, appealing to users who want [efficient Chrome performance](https://chrometipsguide.com/) without complexity.
 
 Smart memory thresholds trigger different suspension behaviors based on available system resources. When memory drops below critical levels, the extension immediately suspends non-essential tabs to prevent system slowdown.
 
@@ -107,7 +107,7 @@ Tab Suspender Pro delivers the best combination of control, reliability, and pri
 
 For simpler needs, The Marvellous Suspender offers excellent performance without complexity. Power users managing multiple projects should consider Cluster Tab Manager's organizational approach. If you need team features, Workona justifies its subscription cost through workspace collaboration.
 
-The key is matching the extension's complexity to your actual needs. Most users will find Tab Suspender Pro hits the sweet spot between power and usability. For more [Chrome optimization tips](https://theluckystrike.github.io/chrome-tips/), explore additional performance strategies that complement effective tab management.
+The key is matching the extension's complexity to your actual needs. Most users will find Tab Suspender Pro hits the sweet spot between power and usability. For more [Chrome optimization tips](https://chrometipsguide.com/), explore additional performance strategies that complement effective tab management.
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
 

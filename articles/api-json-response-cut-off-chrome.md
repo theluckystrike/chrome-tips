@@ -12,7 +12,7 @@ target_keyword: "api json response cut off chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/api-json-response-cut-off-chrome/
+canonical_url: https://chrometipsguide.com/api-json-response-cut-off-chrome/
 faq:
   - q: "Why is my API JSON response cut off in Chrome DevTools?"
     a: "Chrome truncates JSON responses because it allocates only 32MB for each DevTools instance. When API responses exceed 8MB, Chrome automatically cuts off the data to prevent memory overflow and browser crashes. The browser prioritizes stability over complete data display, which frustrates developers analyzing large datasets. The console buffer also defaults to 300 entries, pushing older responses out of memory before you can examine them."

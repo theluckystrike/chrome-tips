@@ -79,8 +79,8 @@ With these tips, you can enjoy a faster, more responsive Chrome experience on yo
 
 ## Related Articles
 
-- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/chrome-tips/best-chrome-settings-for-chromebook/)
-- [Chromebook Running Slow How to Fix](/chrome-tips/chromebook-running-slow-how-to-fix/)
-- [Best Lightweight Browsers for Chromebook](/chrome-tips/best-lightweight-browsers-for-chromebook/)
+- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/best-chrome-settings-for-chromebook/)
+- [Chromebook Running Slow How to Fix](/chromebook-running-slow-how-to-fix/)
+- [Best Lightweight Browsers for Chromebook](/best-lightweight-browsers-for-chromebook/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

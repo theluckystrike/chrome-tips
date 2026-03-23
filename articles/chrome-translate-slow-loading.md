@@ -12,7 +12,7 @@ target_keyword: "chrome translate slow loading"
 target_extension: "belikenative"
 word_count: 1200
 reading_time: 5
-canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-slow-loading/"
+canonical_url: "https://chrometipsguide.com/chrome-translate-slow-loading/"
 ---
 
 Chrome translation taking forever to load usually comes down to corrupted translation cache, resource competition from too many extensions, or network timeouts that trigger a retry cycle. On a healthy browser with a clean cache, translation should complete in 2 to 4 seconds. If you are regularly waiting 10 seconds or longer, something specific is wrong, and the fix is usually straightforward. This guide covers the four most effective solutions, ordered by how often they resolve the problem.

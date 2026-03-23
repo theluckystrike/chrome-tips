@@ -21,9 +21,9 @@ og:
   title: "ImTranslator Alternatives: Modern Translation Extensions"
   description: "Discover 5 top ImTranslator alternatives for Chrome. BeLikeNative leads with AI-powered translation and 4.6/5 rating. Find your perfect translation extension."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/imtranslator-alternatives/"
+  url: "https://chrometipsguide.com/imtranslator-alternatives/"
   image: "https://og-image.vercel.app/ImTranslator%20Alternatives%3A%20Modern%20Translation%20Extensions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/imtranslator-alternatives/
+canonical_url: https://chrometipsguide.com/imtranslator-alternatives/
 faq:
   - q: "What are the best imtranslator alternatives for Chrome in 2026?"
     a: "BeLikeNative stands out as the best imtranslator alternative in 2026, offering AI-powered translation with context awareness that ImTranslator lacks. Tested on Chrome's latest stable version, BeLikeNative version 1.4.8 delivers faster, more accurate translations without the memory leaks and crashes that plague ImTranslator. It supports over 100 languages with offline capabilities and includes built-in paraphrasing and rewriting tools. Users rate it 4.6/5 for consistent performance, making it the top choice among tested alternatives."

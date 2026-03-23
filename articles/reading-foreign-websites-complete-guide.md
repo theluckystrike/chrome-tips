@@ -12,7 +12,7 @@ target_keyword: "reading foreign websites guide"
 target_extension: "belikenative"
 word_count: 3520
 reading_time: 14
-canonical_url: https://theluckystrike.github.io/chrome-tips/reading-foreign-websites-complete-guide/
+canonical_url: https://chrometipsguide.com/reading-foreign-websites-complete-guide/
 faq:
   - q: "How do I translate a foreign website in Chrome?"
     a: "Chrome offers built-in translation that activates automatically when it detects a foreign language. The system uses both a cloud-based pipeline (available since 2013) and an on-device AI model introduced in 2024. When Chrome detects non-English content, a translation prompt appears at the top of the page. For best results, ensure your Chrome is updated to the latest stable version—these features were last tested in March 2026."
@@ -62,7 +62,7 @@ This matters for reading foreign websites because some sites use JavaScript-driv
 
 Chrome identifies a page's language using a combination of signals: the HTML `lang` attribute carries the most weight, followed by the `Content-Language` HTTP header, and then a statistical analysis of the actual text content. When these signals conflict, Chrome prioritizes the text analysis. You can check what language Chrome detected by clicking the translate icon in the address bar.
 
-The translation pipeline handles text nodes in the DOM. It walks the document tree, extracts text content, translates it, and replaces the original text while preserving HTML structure. This is why some elements fail to translate: text inside images, text rendered via Canvas or SVG, and text loaded dynamically after the initial page render can all be missed. For more [Chrome configuration tips](https://theluckystrike.github.io/chrome-tips/), many of these underlying settings affect multiple browser features.
+The translation pipeline handles text nodes in the DOM. It walks the document tree, extracts text content, translates it, and replaces the original text while preserving HTML structure. This is why some elements fail to translate: text inside images, text rendered via Canvas or SVG, and text loaded dynamically after the initial page render can all be missed. For more [Chrome configuration tips](https://chrometipsguide.com/), many of these underlying settings affect multiple browser features.
 
 ## Step-by-Step Translation Setup
 
@@ -72,7 +72,7 @@ Open `chrome://settings/languages` in your address bar. This page controls both 
 
 Under each added language, toggle "Offer to translate pages in this language" on or off. If you read French regularly and don't want translation prompts on French sites, turn this off for French. If you encounter Korean sites only occasionally and always want the prompt, keep it enabled.
 
-Set your preferred translation target language. By default it matches your Chrome interface language, but you can change it here. For a deeper look at [browser language settings](https://theluckystrike.github.io/chrome-tips/), proper configuration prevents most translation failures before they happen.
+Set your preferred translation target language. By default it matches your Chrome interface language, but you can change it here. For a deeper look at [browser language settings](https://chrometipsguide.com/), proper configuration prevents most translation failures before they happen.
 
 ### Translating a Page on Demand
 
@@ -86,7 +86,7 @@ After translation completes, the page content updates in place while preserving 
 
 ### Translating Selected Text Only
 
-Sometimes you need to translate a specific paragraph without converting the entire page. Select the text, right-click, and choose the translate option for your selection. This works well when a page mixes multiple languages or when you only care about one section. For pages with [complex multilingual content](https://theluckystrike.github.io/chrome-tips/), partial translation avoids breaking layouts that full-page translation sometimes disrupts.
+Sometimes you need to translate a specific paragraph without converting the entire page. Select the text, right-click, and choose the translate option for your selection. This works well when a page mixes multiple languages or when you only care about one section. For pages with [complex multilingual content](https://chrometipsguide.com/), partial translation avoids breaking layouts that full-page translation sometimes disrupts.
 
 ### Handling PDFs and Documents
 
@@ -98,13 +98,13 @@ For scanned documents, you need an OCR step first. Google Drive can handle this:
 
 Chrome remembers your translation preferences per site. If you always translate a specific site, Chrome eventually auto-translates it without asking. Manage these preferences at `chrome://settings/languages` under the "Always translate" and "Never translate" site lists.
 
-The per-language "Always translate" toggle means every page in that language auto-translates without a prompt. This saves time if you monitor [foreign news sources](https://theluckystrike.github.io/chrome-tips/) daily and don't want to click through the prompt each time.
+The per-language "Always translate" toggle means every page in that language auto-translates without a prompt. This saves time if you monitor [foreign news sources](https://chrometipsguide.com/) daily and don't want to click through the prompt each time.
 
 ### Working with Right-to-Left Languages
 
 Arabic, Hebrew, Farsi, and other RTL languages can cause layout issues after translation. When you translate from an RTL language to an LTR language, the page layout sometimes breaks because CSS direction properties conflict with the new text direction. Open DevTools (F12 on Windows, Cmd+Option+I on Mac), find the `<html>` element, and change `dir="rtl"` to `dir="ltr"`. This fixes most layout problems immediately.
 
-For sites that apply `direction: rtl` on individual elements rather than the HTML attribute, the DevTools Console is faster. Run `document.querySelectorAll('[dir="rtl"]').forEach(el => el.dir = 'ltr')` to flip all RTL elements at once. Understanding [how direction attributes work](https://theluckystrike.github.io/chrome-tips/) saves you from fighting layouts every time you translate an Arabic or Hebrew page.
+For sites that apply `direction: rtl` on individual elements rather than the HTML attribute, the DevTools Console is faster. Run `document.querySelectorAll('[dir="rtl"]').forEach(el => el.dir = 'ltr')` to flip all RTL elements at once. Understanding [how direction attributes work](https://chrometipsguide.com/) saves you from fighting layouts every time you translate an Arabic or Hebrew page.
 
 ## Advanced Techniques for Difficult Pages
 
@@ -112,7 +112,7 @@ For sites that apply `direction: rtl` on individual elements rather than the HTM
 
 Single-page applications load content dynamically using JavaScript. Chrome's translation pipeline runs on initial page load, so content that appears later through infinite scroll, tabbed sections, or modal dialogs often stays untranslated.
 
-To retrigger translation, click the translate icon in the address bar, switch the source language to any other language, then switch it back. This forces Chrome to re-scan the DOM. For JavaScript-heavy sites where content loads on scroll, a more reliable approach uses a [MutationObserver technique](https://theluckystrike.github.io/chrome-tips/) through the DevTools Console:
+To retrigger translation, click the translate icon in the address bar, switch the source language to any other language, then switch it back. This forces Chrome to re-scan the DOM. For JavaScript-heavy sites where content loads on scroll, a more reliable approach uses a [MutationObserver technique](https://chrometipsguide.com/) through the DevTools Console:
 
 const observer = new MutationObserver(() => {
   document.dispatchEvent(new Event('DOMContentLoaded'));
@@ -133,7 +133,7 @@ Several experimental flags change translation behavior. Navigate to `chrome://fl
 
 `chrome://flags/#enable-translate-sub-frames` enables translation of content inside iframes. Many sites embed content from other domains in iframes, and by default Chrome only translates the main frame. Enabling this flag catches embedded content too.
 
-`chrome://flags/#desktop-partial-translate` activates the selected-text translation feature if it isn't on by default in your Chrome version. Check [Chrome flags documentation](https://theluckystrike.github.io/chrome-tips/) for details on which flags are safe to enable long-term versus likely to be removed.
+`chrome://flags/#desktop-partial-translate` activates the selected-text translation feature if it isn't on by default in your Chrome version. Check [Chrome flags documentation](https://chrometipsguide.com/) for details on which flags are safe to enable long-term versus likely to be removed.
 
 ### Launching Chrome with a Different Locale
 
@@ -166,7 +166,7 @@ East Asian languages (Japanese, Chinese, Korean) show more variability. Simple i
 
 > "To internationalize your extension, create directories to hold language-specific message files within a _locales/ folder." - [Chrome Extensions Documentation](https://developer.chrome.com/docs/extensions/develop/ui/i18n)
 
-For [optimizing your Chrome setup](https://theluckystrike.github.io/chrome-tips/) for translation-heavy workflows, browser performance configuration matters when processing large pages.
+For [optimizing your Chrome setup](https://chrometipsguide.com/) for translation-heavy workflows, browser performance configuration matters when processing large pages.
 
 The on-device Translator API performs differently from cloud translation. Cloud translation benefits from Google's continuously updated models, which tend to handle slang and recent terminology better. The on-device model is smaller and optimized for speed, producing results faster but sometimes with less nuanced output for complex sentences.
 
@@ -184,7 +184,7 @@ Chrome's language detection can fail when a page has its HTML `lang` attribute s
 
 ### Page Layout Breaks After Translation
 
-Translated text is often longer than the original. German translations run about 30% longer than English source text. Japanese to English can expand by 40% or more. This causes overflow in fixed-width containers, breaks button layouts, and pushes elements off-screen. There's no automatic fix since it's a CSS limitation on the original site. You can use DevTools to change `overflow: hidden` to `overflow: visible` on specific elements that are clipping translated text. More [layout troubleshooting guidance](https://theluckystrike.github.io/chrome-tips/) covers common patterns for this issue.
+Translated text is often longer than the original. German translations run about 30% longer than English source text. Japanese to English can expand by 40% or more. This causes overflow in fixed-width containers, breaks button layouts, and pushes elements off-screen. There's no automatic fix since it's a CSS limitation on the original site. You can use DevTools to change `overflow: hidden` to `overflow: visible` on specific elements that are clipping translated text. More [layout troubleshooting guidance](https://chrometipsguide.com/) covers common patterns for this issue.
 
 ### Some Text Stays Untranslated
 
@@ -196,7 +196,7 @@ Some sites use JavaScript to periodically refresh page content, which overwrites
 
 ### Wrong Source Language Detected
 
-Chrome occasionally misidentifies the source language, especially on pages mixing multiple languages. Click the translate icon and manually select the correct source language from the dropdown. This overrides detection for the current page. If a specific site consistently triggers the wrong language, add it to [your site-specific settings](https://theluckystrike.github.io/chrome-tips/) so Chrome remembers your correction.
+Chrome occasionally misidentifies the source language, especially on pages mixing multiple languages. Click the translate icon and manually select the correct source language from the dropdown. This overrides detection for the current page. If a specific site consistently triggers the wrong language, add it to [your site-specific settings](https://chrometipsguide.com/) so Chrome remembers your correction.
 
 ## Tools and Extensions Worth Installing
 
@@ -214,7 +214,7 @@ Chrome occasionally misidentifies the source language, especially on pages mixin
 
 ### Can Chrome translate any language?
 
-Chrome supports over 130 languages through its cloud translation service. The on-device Translator API currently supports fewer language pairs, with the most popular combinations available first: English paired with Spanish, French, German, Japanese, Chinese, and Korean. Less common pairs may only work through cloud translation. Check [Chrome's language support documentation](https://theluckystrike.github.io/chrome-tips/) for details on which pairs support on-device processing.
+Chrome supports over 130 languages through its cloud translation service. The on-device Translator API currently supports fewer language pairs, with the most popular combinations available first: English paired with Spanish, French, German, Japanese, Chinese, and Korean. Less common pairs may only work through cloud translation. Check [Chrome's language support documentation](https://chrometipsguide.com/) for details on which pairs support on-device processing.
 
 ### Does translation work offline?
 
@@ -230,7 +230,7 @@ Chrome's translation works on any page you can load, including pages behind logi
 
 ### Why does translation quality vary so much between websites?
 
-Several factors affect quality. Formal, structured text like news articles and documentation translates better than informal content like social media posts and forum threads, because translation models train primarily on formal text. Specialized vocabulary in medical, legal, or technical domains often mistranslates because general-purpose models don't capture field-specific meanings well. Short text fragments without surrounding context produce worse results than full paragraphs, because the model has less information to determine meaning. For more [translation quality tips](https://theluckystrike.github.io/chrome-tips/), the structure and formatting of the source page plays a significant role.
+Several factors affect quality. Formal, structured text like news articles and documentation translates better than informal content like social media posts and forum threads, because translation models train primarily on formal text. Specialized vocabulary in medical, legal, or technical domains often mistranslates because general-purpose models don't capture field-specific meanings well. Short text fragments without surrounding context produce worse results than full paragraphs, because the model has less information to determine meaning. For more [translation quality tips](https://chrometipsguide.com/), the structure and formatting of the source page plays a significant role.
 
 ### Can I translate text inside videos or audio on a page?
 

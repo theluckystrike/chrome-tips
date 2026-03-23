@@ -12,7 +12,7 @@ target_keyword: "tab wrangler alternatives"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/tab-wrangler-alternatives/
+canonical_url: https://chrometipsguide.com/tab-wrangler-alternatives/
 image: "https://og-image.vercel.app/Tab%20Wrangler%20Alternatives%3A%20Smarter%20Ways%20to%20Manage%20Chrome%20Tabs.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Tab Wrangler Alternatives: Smarter Ways to Manage Chrome Tabs"
   description: "Discover 6 powerful tab wrangler alternatives that handle Chrome's memory issues better. Tab Suspender Pro leads with 4.9/5 stars and advanced automation features."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/tab-wrangler-alternatives/"
+  url: "https://chrometipsguide.com/tab-wrangler-alternatives/"
   image: "https://og-image.vercel.app/Tab%20Wrangler%20Alternatives%3A%20Smarter%20Ways%20to%20Manage%20Chrome%20Tabs.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What are the best tab wrangler alternatives for Chrome developers?"

@@ -12,7 +12,7 @@ target_keyword: "chrome translate dynamic content fix"
 target_extension: "belikenative"
 word_count: 1045
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-dynamic-content-fix/
+canonical_url: https://chrometipsguide.com/chrome-translate-dynamic-content-fix/
 faq:
   - q: "Why does Chrome only translate half the page content?"
     a: "Chrome's translator scans page content within 200-500 milliseconds when the DOM loads, but many websites load their main content through JavaScript, which takes 2-8 seconds longer. This timing gap means the translator misses dynamic content that appears after the initial scan. Single-page applications and sites using React or Vue frameworks are particularly affected. Refreshing the page after translation completes catches the missed content."
@@ -33,7 +33,7 @@ og:
   title: "Chrome Can't Translate Dynamic Content: How to Fix"
   description: "Fix Chrome translate dynamic content issues with these tested solutions. Get your browser translating JavaScript-loaded text again in under 5 minutes."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-dynamic-content-fix/"
+  url: "https://chrometipsguide.com/chrome-translate-dynamic-content-fix/"
   image: "https://og-image.vercel.app/Chrome%20Can%27t%20Translate%20Dynamic%20Content%3A%20How%20to%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions learning japanese"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-learning-japanese/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-learning-japanese/
 faq:
   - q: "What is the best chrome extension for learning Japanese?"
     a: "After testing 23 extensions, BeLikeNative ranks as the best chrome extension for learning japanese due to its AI-powered translation that adapts to your reading level. It highlights words slightly above your current ability, creating an optimal learning zone. Premium features cost $4.99 monthly, though basic translation is free. Yomichan is the best free option, excelling at instant vocabulary lookup with hover-based dictionary access across multiple dictionary sources including JMdict and KANJIDIC2."
@@ -33,7 +33,7 @@ og:
   title: "Best Chrome Extensions for Learning Japanese"
   description: "Discover the 7 best Chrome extensions for learning Japanese in 2026. Compare features, pricing, and user ratings to find your perfect study companion."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-learning-japanese/"
+  url: "https://chrometipsguide.com/best-chrome-extensions-learning-japanese/"
   image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Learning%20Japanese.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
@@ -100,4 +100,4 @@ The extension's writing assistant feature proves particularly valuable for outpu
 For manga readers specifically, 10ten Japanese Reader might serve you better due to its superior OCR capabilities and vertical text handling. However, for comprehensive language learning that extends beyond entertainment consumption, BeLikeNative provides the structured progression system most learners need for sustained improvement. **[Try BeLikeNative Free](https://zovo.one)**
 
 Built by Michael Lip. More tips at zovo.one
-> **See also:** [JSON Formatter Pro vs JSON Viewer: Which Is Better in 2026?](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-json-viewer)
+> **See also:** [JSON Formatter Pro vs JSON Viewer: Which Is Better in 2026?](https://chrometipsguide.com/json-formatter-pro-vs-json-viewer)

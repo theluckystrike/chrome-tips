@@ -12,7 +12,7 @@ target_keyword: "tab suspender pro vs great suspender"
 target_extension: "tab-suspender-pro"
 word_count: 1260
 reading_time: 6
-canonical_url: "https://theluckystrike.github.io/chrome-tips/tab-suspender-pro-vs-the-great-suspender/"
+canonical_url: "https://chrometipsguide.com/tab-suspender-pro-vs-the-great-suspender/"
 ---
 
 # Tab Suspender Pro vs The Great Suspender: Complete 2026 Comparison

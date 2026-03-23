@@ -5,6 +5,7 @@ description: Learn how Chrome container queries transform responsive design by l
   components respond to their parent container size instead of the viewport.
 permalink: chrome-container-queries-responsive-design
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # Chrome Container Queries for Responsive Design
 

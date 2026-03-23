@@ -65,8 +65,8 @@ While **network throttling** in **DevTools** is essential for testing, running t
 Using **Tab Suspender Pro** is a smart way to maintain a stable testing environment. It automatically "hibernates" inactive tabs, freeing up **system resources** so that your active **network simulation** remains accurate and doesn't crash. By keeping your browser lean, you ensure that your **performance audits** and **load-time tests** aren't skewed by a sluggish computer, but rather reflect true network conditions.
 
 ## Related Articles
-- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
-- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
-- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+- [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -108,9 +108,9 @@ As web technologies continue to evolve, we can expect to see even more innovativ
 
 ## Related Articles
 
-- [Chrome Animation Performance Guide](/chrome-tips/chrome-animation-performance/)
-- [Chrome Web Animation API Explained](/chrome-tips/chrome-web-animation-api-explained/)
-- [Chrome Scroll-Driven Animations: Complete Guide for 2026](/chrome-tips/chrome-scroll-driven-animations/)
+- [Chrome Animation Performance Guide](/chrome-animation-performance/)
+- [Chrome Web Animation API Explained](/chrome-web-animation-api-explained/)
+- [Chrome Scroll-Driven Animations: Complete Guide for 2026](/chrome-scroll-driven-animations/)
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

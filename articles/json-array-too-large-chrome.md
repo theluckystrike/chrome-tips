@@ -21,9 +21,9 @@ og:
   title: "JSON Array Too Large for Chrome to Display: Fix"
   description: "Fix Chrome's json array too large error with proven manual fixes and JSON Formatter Pro extension. Working solutions tested March 2026."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-array-too-large-chrome/"
+  url: "https://chrometipsguide.com/json-array-too-large-chrome/"
   image: "https://og-image.vercel.app/JSON%20Array%20Too%20Large%20for%20Chrome%20to%20Display%3A%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-array-too-large-chrome/
+canonical_url: https://chrometipsguide.com/json-array-too-large-chrome/
 faq:
   - q: "How do I fix json array too large chrome error?"
     a: "The fastest fix is splitting your array into smaller chunks of 1000 elements each or using Chrome's native JSON viewer limits. This error occurs when Chrome's rendering engine hits memory constraints processing arrays exceeding 16MB in the browser tab. Open DevTools, navigate to Console, and check your array size using JSON.stringify(yourArray).length to determine if it exceeds 16777216 characters."

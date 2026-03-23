@@ -21,7 +21,7 @@ og:
   title: "How to Translate Text With Right-Click in Chrome"
   description: "Learn how to translate right click chrome text instantly. Master built-in Chrome translation features and shortcuts for 100+ languages in 2026."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-translate-right-click-chrome/"
+  url: "https://chrometipsguide.com/how-to-translate-right-click-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Translate%20Text%20With%20Right-Click%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How do I translate text with right-click in Chrome?"

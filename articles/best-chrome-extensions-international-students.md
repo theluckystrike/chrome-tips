@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions international students"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-international-students/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-international-students/
 faq:
   - q: "What is the best Chrome extension for international students?"
     a: "BeLikeNative ranks as the best Chrome extension for international students after testing 23 extensions. It combines AI-powered translation, writing assistance, and paraphrasing in one tool, eliminating the need for multiple language apps. With support for 40+ languages and context-aware academic writing suggestions, it handles essay writing and research papers effectively. The premium plan costs $9.99 monthly, though the free version limits you to 10 daily paraphrases."
@@ -33,7 +33,7 @@ og:
   title: "Best Chrome Extensions for International Students"
   description: "Discover the 7 best Chrome extensions for international students in 2026. Language tools, productivity boosters, and academic helpers tested."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-international-students/"
+  url: "https://chrometipsguide.com/best-chrome-extensions-international-students/"
   image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20International%20Students.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
@@ -102,4 +102,4 @@ If you're primarily dealing with technical documents in specific fields like eng
 **[Try BeLikeNative Free](https://zovo.one)**
 
 Built by Michael Lip. More tips at zovo.one.
-> **See also:** [JSON Formatter Pro vs JSON Editor Online: 2026 Better?](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-json-editor-online)
+> **See also:** [JSON Formatter Pro vs JSON Editor Online: 2026 Better?](https://chrometipsguide.com/json-formatter-pro-vs-json-editor-online)

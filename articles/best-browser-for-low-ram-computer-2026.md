@@ -100,6 +100,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Background Remover](/chrome-tips/chrome-extensions-for-background-remover)
-- [Chrome for Text to Speech on Any Page](/chrome-tips/chrome-for-text-to-speech-on-any-page)
-- [Chrome Reading List Vs Bookmarks](/chrome-tips/chrome-reading-list-vs-bookmarks)
+- [Chrome Extensions for Background Remover](/chrome-extensions-for-background-remover)
+- [Chrome for Text to Speech on Any Page](/chrome-for-text-to-speech-on-any-page)
+- [Chrome Reading List Vs Bookmarks](/chrome-reading-list-vs-bookmarks)

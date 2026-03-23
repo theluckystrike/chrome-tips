@@ -12,7 +12,7 @@ target_keyword: "chrome translate images text fix"
 target_extension: "belikenative"
 word_count: 1187
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-images-text-fix/
+canonical_url: https://chrometipsguide.com/chrome-translate-images-text-fix/
 faq:
   - q: "How do I fix Chrome not translating text in images?"
     a: "The fastest chrome translate images text fix involves clearing your translation cache and resetting Chrome's OCR permissions. Go to chrome://settings/content/images and ensure \"Sites can show images\" is enabled, then clear cached images and files from chrome://settings/clearBrowserData, and restart Chrome. This resolves issues caused by corrupted translation models or disabled image processing permissions. For additional help, check Zovo's guide on browser troubleshooting."

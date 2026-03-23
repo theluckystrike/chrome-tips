@@ -12,7 +12,7 @@ target_keyword: "how to stop chrome from using so much ram"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-stop-chrome-using-so-much-ram/
+canonical_url: https://chrometipsguide.com/how-to-stop-chrome-using-so-much-ram/
 ---
 
 You open Activity Monitor and see Chrome consuming 3.2GB of RAM with just eight tabs open. Learning how to stop Chrome from using so much RAM will free up memory for other applications and prevent your computer from slowing down. Chrome can use up to 60% less memory when you enable its built-in tab management features properly.
@@ -53,7 +53,7 @@ Right-click any tab and select "Add tab to new group" to create organized cluste
 
 Tab groups help you identify which tabs you can safely close or suspend. When you see a group you haven't used in hours, you can right-click the group name and select "Close group" to free up memory immediately.
 
-You can also move entire groups to separate windows. Drag a group name to create a new window, which helps isolate heavy memory users like video streaming sites from your main work tabs. This [advanced tab management technique](https://theluckystrike.github.io/chrome-tips/) prevents one heavy site from affecting your entire browsing session.
+You can also move entire groups to separate windows. Drag a group name to create a new window, which helps isolate heavy memory users like video streaming sites from your main work tabs. This [advanced tab management technique](https://chrometipsguide.com/) prevents one heavy site from affecting your entire browsing session.
 
 ### Manage Extensions and Background Processes
 

@@ -100,6 +100,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Email Productivity](/chrome-tips/chrome-extensions-for-email-productivity)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-tips/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Resize Observer API Explained](/chrome-tips/chrome-resize-observer-api-explained)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained)

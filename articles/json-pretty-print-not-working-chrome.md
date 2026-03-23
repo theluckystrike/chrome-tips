@@ -12,7 +12,7 @@ target_keyword: "json pretty print not working chrome"
 target_extension: "json-formatter-pro"
 word_count: 1147
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-pretty-print-not-working-chrome/
+canonical_url: https://chrometipsguide.com/json-pretty-print-not-working-chrome/
 faq:
   - q: "Why is JSON pretty print not working in Chrome?"
     a: "JSON pretty print stops working in Chrome due to extension conflicts and corrupted storage. When multiple JSON formatter extensions register for the same content types, they execute in load order rather than priority order, causing formatting conflicts. Additionally, cached parsing instructions become corrupted after extension updates or crashes, blocking JSON processing entirely. Zovo recommends clearing extension data and reinstalling your formatter to restore functionality."

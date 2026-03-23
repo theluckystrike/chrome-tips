@@ -12,7 +12,7 @@ target_keyword: "chrome translate lost formatting"
 target_extension: "belikenative"
 word_count: 1156
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-lost-formatting/
+canonical_url: https://chrometipsguide.com/chrome-translate-lost-formatting/
 faq:
   - q: "Why does chrome translate lost formatting on foreign websites?"
     a: "Chrome's translation engine replaces original text elements without preserving their CSS properties. When you translate a page, the Translator API injects new text content but doesn't maintain the original styling relationships. The translation process treats text as raw content rather than styled elements, causing visual hierarchy to collapse. Studies show this affects approximately 73% of translated pages, making Zovo's formatting preservation tools particularly useful for heavy CSS websites."

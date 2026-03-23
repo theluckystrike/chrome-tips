@@ -12,7 +12,7 @@ target_keyword: "chrome translate wrong language detected"
 target_extension: "belikenative"
 word_count: 1280
 reading_time: 6
-canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-wrong-language-detected/"
+canonical_url: "https://chrometipsguide.com/chrome-translate-wrong-language-detected/"
 ---
 
 # Chrome Detecting the Wrong Language for Translation

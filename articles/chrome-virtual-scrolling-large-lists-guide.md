@@ -2,6 +2,7 @@
 layout: default
 title: "Chrome Virtual Scrolling for Large Lists: A Complete Guide"
 description: "Learn how to implement virtual scrolling in Chrome to handle large lists efficiently and improve browser performance."
+date: 2026-03-23
 ---
 
 # Chrome Virtual Scrolling for Large Lists: A Complete Guide

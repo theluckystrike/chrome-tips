@@ -12,7 +12,7 @@ target_keyword: "chrome tabs still running after closing"
 target_extension: "tab-suspender-pro"
 word_count: 1284
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-tab-close-still-running/
+canonical_url: https://chrometipsguide.com/chrome-tab-close-still-running/
 faq:
   - q: "Why are chrome tabs still running after closing?"
     a: "Chrome uses a process-per-tab architecture that keeps background scripts and service workers active even after you close a tab. Extensions and progressive web apps register service workers that persist for 10-30 minutes after tab closure to handle push notifications, sync data, or maintain websocket connections. A single tab running Slack or Discord can spawn 3-4 background processes consuming 50-150MB of RAM each. For automated management, Zovo offers tools to monitor and terminate these lingering processes."

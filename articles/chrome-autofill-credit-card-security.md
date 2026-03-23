@@ -5,6 +5,7 @@ description: Learn how Chrome's autofill feature handles credit card data and wh
   security measures you should take to protect your financial information.
 permalink: chrome-autofill-credit-card-security
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 Chrome's autofill feature has become an indispensable time-saver for online shopping, but it raises valid security questions when it comes to storing credit card information. Understanding how Chrome handles your payment data and what risks exist can help you make informed decisions about using this convenience feature.
 

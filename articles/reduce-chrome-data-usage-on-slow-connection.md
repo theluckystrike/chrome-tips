@@ -86,8 +86,8 @@ Reducing Chrome data usage on a slow connection requires a combination of built-
 
 ## Related Articles
 
-- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer/)
-- [Chrome Best Settings For Slow Internet](/chrome-tips/chrome-best-settings-for-slow-internet/)
-- [Chrome Android Tips To Save Data](/chrome-tips/chrome-android-tips-to-save-data/)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer/)
+- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet/)
+- [Chrome Android Tips To Save Data](/chrome-android-tips-to-save-data/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

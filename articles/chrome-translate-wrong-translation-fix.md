@@ -21,7 +21,7 @@ og:
   title: "Chrome Showing Wrong Translation: How to Get Better Results"
   description: "Fix Chrome translate wrong translation issues with 4 proven methods. Get accurate translations in 2 minutes with these expert-tested solutions."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-wrong-translation-fix/"
+  url: "https://chrometipsguide.com/chrome-translate-wrong-translation-fix/"
   image: "https://og-image.vercel.app/Chrome%20Showing%20Wrong%20Translation%3A%20How%20to%20Get%20Better%20Results.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

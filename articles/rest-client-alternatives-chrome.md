@@ -12,7 +12,7 @@ target_keyword: "rest client alternatives chrome"
 target_extension: "json-formatter-pro"
 word_count: 1147
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/rest-client-alternatives-chrome/
+canonical_url: https://chrometipsguide.com/rest-client-alternatives-chrome/
 image: "https://og-image.vercel.app/REST%20Client%20Alternatives%20for%20Chrome%3A%20No%20IDE%20Needed.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "REST Client Alternatives for Chrome: No IDE Needed"
   description: "Discover 5 powerful REST client alternatives for Chrome extensions that beat traditional IDE tools. JSON formatting, API testing, and more."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/rest-client-alternatives-chrome/"
+  url: "https://chrometipsguide.com/rest-client-alternatives-chrome/"
   image: "https://og-image.vercel.app/REST%20Client%20Alternatives%20for%20Chrome%3A%20No%20IDE%20Needed.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What is the best rest client alternatives chrome extension for JSON formatting?"

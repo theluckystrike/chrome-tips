@@ -21,7 +21,7 @@ og:
   title: "How to Format JSON From Your Clipboard in Chrome"
   description: "Learn how to format messy JSON from your clipboard in Chrome using built-in tools and extensions. Step-by-step guide with screenshots."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-format-json-from-clipboard/"
+  url: "https://chrometipsguide.com/how-to-format-json-from-clipboard/"
   image: "https://og-image.vercel.app/How%20to%20Format%20JSON%20From%20Your%20Clipboard%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How do I format JSON from clipboard in Chrome?"

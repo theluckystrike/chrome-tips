@@ -12,7 +12,7 @@ target_keyword: "belikenative vs lingq"
 target_extension: "belikenative"
 word_count: 1100
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/belikenative-vs-lingq/
+canonical_url: https://chrometipsguide.com/belikenative-vs-lingq/
 ---
 
 **LingQ** wins for dedicated language learners who want a structured extensive reading system. **BeLikeNative** wins for professionals who need writing assistance and translation integrated into their daily browser workflow. The belikenative vs lingq comparison covers two tools that touch language learning from very different angles.

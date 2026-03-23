@@ -12,7 +12,7 @@ target_keyword: "chrome translate not detecting language"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-not-detecting-language/
+canonical_url: https://chrometipsguide.com/chrome-translate-not-detecting-language/
 image: "https://og-image.vercel.app/Chrome%20Not%20Detecting%20Page%20Language%20for%20Translation.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Chrome Not Detecting Page Language for Translation"
   description: "Fix Chrome translate not detecting language issues with proven solutions. Get instant translation working again in under 2 minutes."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-not-detecting-language/"
+  url: "https://chrometipsguide.com/chrome-translate-not-detecting-language/"
   image: "https://og-image.vercel.app/Chrome%20Not%20Detecting%20Page%20Language%20for%20Translation.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "Why is Chrome not detecting page language for translation?"
@@ -87,7 +87,7 @@ This selective approach preserves your important data while removing the corrupt
 
 Open Chrome's extension manager by typing `chrome://extensions/` in your address bar. Temporarily disable any translation-related extensions, including Google Translate, language learning apps, or international keyboard tools. Test language detection with these extensions disabled.
 
-If detection works with extensions disabled, enable them one by one to identify the conflicting extension. Many users discover that grammar checkers or writing assistants interfere with Chrome's native translation system. Consider using [Chrome tips for managing extensions](https://theluckystrike.github.io/chrome-tips/) for better extension organization.
+If detection works with extensions disabled, enable them one by one to identify the conflicting extension. Many users discover that grammar checkers or writing assistants interfere with Chrome's native translation system. Consider using [Chrome tips for managing extensions](https://chrometipsguide.com/) for better extension organization.
 
 ### Check Enterprise or Parental Controls
 
@@ -121,6 +121,6 @@ Chrome's detection algorithm requires sufficient text content to identify langua
 
 Yes, you can add specific languages to your "Always translate" list in Chrome's language settings. Navigate to **Settings > Languages > Google Translate** and add languages you want automatically translated. This overrides Chrome's detection system for those languages specifically.
 
-For more advanced [Chrome productivity techniques](https://theluckystrike.github.io/chrome-tips/), consider exploring browser automation tools that can trigger translation programmatically. Additional resources are available at [zovo.one](https://zovo.one) for users who need enterprise-level translation solutions.
+For more advanced [Chrome productivity techniques](https://chrometipsguide.com/), consider exploring browser automation tools that can trigger translation programmatically. Additional resources are available at [zovo.one](https://zovo.one) for users who need enterprise-level translation solutions.
 
 Built by Michael Lip — More tips at zovo.one

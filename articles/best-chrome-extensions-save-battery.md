@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions save battery laptop"
 target_extension: "tab-suspender-pro"
 word_count: 1156
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-save-battery/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-save-battery/
 faq:
   - q: "What is the best Chrome extension to save battery on a laptop?"
     a: "Tab Suspender Pro is the best Chrome extension to save battery on laptops after testing 23 extensions across different laptop models. It consistently reduced CPU usage by suspending inactive tabs while preserving form data and scroll positions. It intelligently suspends tabs based on actual usage patterns and is ideal for heavy multitaskers running 15+ tabs simultaneously. Zovo recommends it as the top choice for battery optimization."
@@ -152,4 +152,4 @@ For users who primarily browse lightweight sites and don't mind occasional data 
 ---
 
 *Written by Michael Lip — More tips at [zovo.one](https://zovo.one)*
-> **See also:** [Tab Suspender Pro vs Workona: Complete 2026 Comparison](https://theluckystrike.github.io/chrome-tips/tab-suspender-pro-vs-workona)
+> **See also:** [Tab Suspender Pro vs Workona: Complete 2026 Comparison](https://chrometipsguide.com/tab-suspender-pro-vs-workona)

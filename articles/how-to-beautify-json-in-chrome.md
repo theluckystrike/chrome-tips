@@ -12,7 +12,7 @@ target_keyword: "how to beautify json in chrome"
 target_extension: "json-formatter-pro"
 word_count: 1147
 reading_time: 5 minutes
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-beautify-json-in-chrome/
+canonical_url: https://chrometipsguide.com/how-to-beautify-json-in-chrome/
 faq:
   - q: "How do I beautify JSON in Chrome using Developer Tools?"
     a: "Open Chrome Developer Tools with F12 or Ctrl+Shift+I (Cmd+Option+I on Mac), navigate to the Console tab, and type JSON.stringify(JSON.parse('your JSON here'), null, 2). Press Enter to see formatted output with proper indentation. This transforms compressed data into clean, readable code instantly. Zovo recommends this built-in method for quick debugging without external tools."
@@ -96,7 +96,7 @@ Instead of pasting raw JSON with double quotes, wrap your entire JSON string in 
 
 You try to format JavaScript object literals or pseudo-JSON that contains unquoted keys, trailing commas, or comments. The `JSON.parse()` function only accepts valid JSON format and throws syntax errors for malformed data.
 
-Check that your data uses proper JSON syntax with double-quoted keys, no trailing commas, and no JavaScript comments. Use [JSON validation tools](https://theluckystrike.github.io/chrome-tips/) to verify your syntax before attempting to format. Many APIs return valid JSON, but configuration files sometimes use relaxed JavaScript object syntax.
+Check that your data uses proper JSON syntax with double-quoted keys, no trailing commas, and no JavaScript comments. Use [JSON validation tools](https://chrometipsguide.com/) to verify your syntax before attempting to format. Many APIs return valid JSON, but configuration files sometimes use relaxed JavaScript object syntax.
 
 ### Missing Outer Quote Marks
 

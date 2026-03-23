@@ -89,6 +89,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Brainstorming](/chrome-tips/chrome-extensions-for-brainstorming)
-- [Chrome For Tradingview Best Extensions](/chrome-tips/chrome-for-tradingview-best-extensions)
-- [Chrome Recently Closed Tabs Shortcut](/chrome-tips/chrome-recently-closed-tabs-shortcut)
+- [Chrome Extensions for Brainstorming](/chrome-extensions-for-brainstorming)
+- [Chrome For Tradingview Best Extensions](/chrome-for-tradingview-best-extensions)
+- [Chrome Recently Closed Tabs Shortcut](/chrome-recently-closed-tabs-shortcut)

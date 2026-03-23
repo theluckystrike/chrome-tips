@@ -12,7 +12,7 @@ target_keyword: "how to translate selected text in chrome"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-selected-text-in-chrome/
+canonical_url: https://chrometipsguide.com/how-to-translate-selected-text-in-chrome/
 faq:
   - q: "How do I translate selected text in Chrome?"
     a: "To translate selected text in Chrome, highlight the text you want to translate on any webpage, then right-click and select \"Translate\" from the context menu. Chrome's built-in translation feature supports 109 languages instantly without any additional downloads. The translation appears in a popup tooltip that you can click to copy to your clipboard. This feature works across all webpage elements including PDFs and embedded video captions. For those seeking additional features, Zovo offers enhanced translation options."
@@ -42,7 +42,7 @@ Last tested: March 2026 | Chrome latest stable
 
 The foundation of quick translation starts with proper text selection. Position your cursor at the beginning of the text you want to translate, then click and drag to highlight the entire passage. You can also double-click individual words for single-term translations or triple-click to select entire paragraphs.
 
-For keyboard users, hold Shift and use arrow keys to expand your selection precisely. On Mac, use Cmd+Shift+arrow keys for word-by-word selection. Windows users can achieve the same with Ctrl+Shift+arrow keys. This method gives you exact control over what gets translated, especially useful when dealing with [complex formatting challenges](https://theluckystrike.github.io/chrome-tips/) in web content.
+For keyboard users, hold Shift and use arrow keys to expand your selection precisely. On Mac, use Cmd+Shift+arrow keys for word-by-word selection. Windows users can achieve the same with Ctrl+Shift+arrow keys. This method gives you exact control over what gets translated, especially useful when dealing with [complex formatting challenges](https://chrometipsguide.com/) in web content.
 
 Chrome's selection tool works across all webpage elements including text inside images (when OCR is available), PDF documents, and even some embedded video captions. The selection highlight should appear in blue, indicating Chrome recognizes the text as translatable content.
 
@@ -52,7 +52,7 @@ Right-click your highlighted text to reveal Chrome's context menu. The translate
 
 If the translate option doesn't appear immediately, Chrome might be analyzing the text language. Wait 2-3 seconds and try right-clicking again. Sometimes refreshing the page helps Chrome's language detection system recognize foreign content more effectively.
 
-The context menu varies slightly depending on your Chrome settings and installed extensions. Users with [productivity extensions](https://theluckystrike.github.io/chrome-tips/) might see additional translation options from third-party tools alongside Chrome's native feature.
+The context menu varies slightly depending on your Chrome settings and installed extensions. Users with [productivity extensions](https://chrometipsguide.com/) might see additional translation options from third-party tools alongside Chrome's native feature.
 
 ### Understanding Translation Results
 
@@ -96,7 +96,7 @@ Direct translation of idioms, cultural references, and colloquial expressions of
 
 For example, translating the Spanish phrase "estar en las nubes" literally produces "to be in the clouds," missing the actual meaning of "daydreaming" or "absent-minded." Cultural context gets lost in machine translation, requiring additional research for proper understanding.
 
-When you encounter strange-sounding translations, research the phrase independently. [Language learning resources](https://theluckystrike.github.io/chrome-tips/) often explain common idioms and cultural expressions that don't translate directly between languages.
+When you encounter strange-sounding translations, research the phrase independently. [Language learning resources](https://chrometipsguide.com/) often explain common idioms and cultural expressions that don't translate directly between languages.
 
 ### Relying on Single Translation Sources
 
@@ -116,7 +116,7 @@ The manual right-click method works perfectly for occasional translations, but f
 
 The automation becomes particularly valuable when reading research papers, international news, or technical documentation where you need dozens of quick translations. Rather than breaking concentration with manual steps, you maintain reading flow while accessing translations instantly. **[Try BeLikeNative Free](https://zovo.one)**
 
-Chrome's native translation works excellently for basic needs, but power users benefit from [advanced translation workflows](https://theluckystrike.github.io/chrome-tips/) that eliminate repetitive manual actions. The combination of Chrome's built-in capabilities with smart automation extensions creates the most efficient translation setup for heavy users.
+Chrome's native translation works excellently for basic needs, but power users benefit from [advanced translation workflows](https://chrometipsguide.com/) that eliminate repetitive manual actions. The combination of Chrome's built-in capabilities with smart automation extensions creates the most efficient translation setup for heavy users.
 
 Whether you choose manual translation or automated solutions, Chrome's foundation provides reliable access to 109 languages directly in your browser. Start with the built-in method to understand the basics, then explore automation options if you find yourself translating frequently throughout your browsing sessions.
 

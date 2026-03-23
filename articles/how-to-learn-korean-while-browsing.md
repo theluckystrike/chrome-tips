@@ -36,7 +36,7 @@ Once installed, right-click the extension icon and select **Options**. Enable au
 
 Test your setup by visiting a Korean news site like Chosun.com. Select any Korean text and right-click to see your translation options appear in the context menu. The translation should appear instantly without page reloads.
 
-For [advanced browser customization](https://theluckystrike.github.io/chrome-tips/), you can also pin your translation extension to the toolbar by clicking the puzzle piece icon and selecting the pin next to your chosen tool.
+For [advanced browser customization](https://chrometipsguide.com/), you can also pin your translation extension to the toolbar by clicking the puzzle piece icon and selecting the pin next to your chosen tool.
 
 ## Enable Chrome's Built-In Korean Support
 
@@ -50,7 +50,7 @@ The browser now recognizes Korean text automatically. When you visit a Korean pa
 
 You can also access translation through the three-dot menu. On any Korean webpage, click the menu icon, select Translate, and choose your target language. The page refreshes with translated content while preserving the original layout and images.
 
-For users interested in [productivity extensions](https://theluckystrike.github.io/chrome-tips/), Chrome's built-in translation pairs well with other language learning tools and reading enhancement extensions.
+For users interested in [productivity extensions](https://chrometipsguide.com/), Chrome's built-in translation pairs well with other language learning tools and reading enhancement extensions.
 
 ## Configure Korean Input Methods
 
@@ -76,7 +76,7 @@ Some extensions offer pronunciation audio alongside translations. Enable this fe
 
 Visit Korean Wikipedia articles about topics you already know in English. Hover over familiar concepts to see their Korean equivalents, building vocabulary connections through context you already understand. This technique leverages your existing knowledge to accelerate new language acquisition.
 
-For technical topics, Korean programming blogs and [developer resources](https://theluckystrike.github.io/chrome-tips/) provide specialized vocabulary that's immediately applicable to professional contexts.
+For technical topics, Korean programming blogs and [developer resources](https://chrometipsguide.com/) provide specialized vocabulary that's immediately applicable to professional contexts.
 
 ## Create a Korean Browsing Routine
 
@@ -92,7 +92,7 @@ Set your browser homepage to a Korean news site or language learning portal. Thi
 
 Create themed browsing days. Monday for Korean tech news, Tuesday for Korean entertainment sites, Wednesday for Korean cooking blogs. This variety prevents boredom while systematically expanding your vocabulary across different subject areas.
 
-For [tab management](https://theluckystrike.github.io/chrome-tips/) with multiple Korean sites, consider using tab grouping features to organize your Korean content separately from English browsing.
+For [tab management](https://chrometipsguide.com/) with multiple Korean sites, consider using tab grouping features to organize your Korean content separately from English browsing.
 
 ## Common Mistakes That Slow Your Progress
 

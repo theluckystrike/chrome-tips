@@ -91,6 +91,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Cookie Auto Delete](/chrome-tips/chrome-extensions-for-cookie-auto-delete)
-- [Chrome for W3Schools Quick Reference Extension](/chrome-tips/chrome-for-w3schools-quick-reference-extension)
-- [Chrome Remote Debugging Setup Guide](/chrome-tips/chrome-remote-debugging-setup-guide)
+- [Chrome Extensions for Cookie Auto Delete](/chrome-extensions-for-cookie-auto-delete)
+- [Chrome for W3Schools Quick Reference Extension](/chrome-for-w3schools-quick-reference-extension)
+- [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)

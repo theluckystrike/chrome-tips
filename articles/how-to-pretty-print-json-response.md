@@ -21,9 +21,9 @@ og:
   title: "How to Pretty Print JSON API Responses in Chrome"
   description: "Learn how to pretty print JSON responses in Chrome with step-by-step instructions, common mistakes to avoid, and the best extension for automatic formatting."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-pretty-print-json-response/"
+  url: "https://chrometipsguide.com/how-to-pretty-print-json-response/"
   image: "https://og-image.vercel.app/How%20to%20Pretty%20Print%20JSON%20API%20Responses%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-pretty-print-json-response/
+canonical_url: https://chrometipsguide.com/how-to-pretty-print-json-response/
 faq:
   - q: "How do I pretty print JSON response in Chrome console?"
     a: "Use Chrome Developer Tools to pretty print JSON by opening the Console tab with F12 or Cmd+Option+I, then run JSON.stringify(JSON.parse(yourJson), null, 2). This transforms wall-of-text JSON into properly indented code with syntax highlighting and collapsible sections. Developers save approximately 23 minutes daily using this method. Zovo recommends this approach for quick debugging without installing extensions."
@@ -70,7 +70,7 @@ The console maintains a command history that you can navigate using the up and d
 
 ### Copy and Prepare Your JSON Data
 
-Take your raw JSON response from whatever source you're working with and copy it to your clipboard. This might come from an API response, a configuration file, or data exported from another application. When debugging with [Chrome's network monitoring tools](https://theluckystrike.github.io/chrome-tips/), you can copy JSON responses directly from the Network tab's response preview.
+Take your raw JSON response from whatever source you're working with and copy it to your clipboard. This might come from an API response, a configuration file, or data exported from another application. When debugging with [Chrome's network monitoring tools](https://chrometipsguide.com/), you can copy JSON responses directly from the Network tab's response preview.
 
 For API responses, you might encounter JSON that's already stored in a JavaScript variable from a fetch request or AJAX call. In these cases, you can reference the variable directly without copying and pasting the raw text.
 
@@ -129,7 +129,7 @@ JSON.parse() throws exceptions when encountering syntax errors instead of attemp
 
 The console error message typically indicates the exact character position where parsing failed. Look for these frequent issues: missing closing brackets or braces, comma placement errors, and incorrect quote usage.
 
-When debugging with [Chrome's source examination features](https://theluckystrike.github.io/chrome-tips/), you can validate JSON syntax in the Sources tab before attempting console formatting. Understanding how [Chrome handles encrypted media extensions](chrome-encrypted-media-extensions-eme-drm) can also be helpful when working with protected content in browser-based applications.
+When debugging with [Chrome's source examination features](https://chrometipsguide.com/), you can validate JSON syntax in the Sources tab before attempting console formatting. Understanding how [Chrome handles encrypted media extensions](chrome-encrypted-media-extensions-eme-drm) can also be helpful when working with protected content in browser-based applications.
 
 ### Not Handling Large JSON Response Files
 
@@ -151,6 +151,6 @@ The extension works smoothly with any JSON content in your browser, including AP
 
 Whether you choose the manual console approach or install an extension depends on your JSON formatting frequency. For occasional formatting tasks, the console method provides complete control without additional software installation. For developers who work with API responses daily, an extension removes repetitive steps and provides enhanced features like in-document search and hierarchical filtering.
 
-Both methods deliver readable, properly structured JSON that transforms debugging from frustrating guesswork into efficient analysis. Choose the approach that matches your development workflow and apply it consistently rather than struggling with unformatted JSON text walls. When combined with [Chrome's other debugging capabilities](https://theluckystrike.github.io/chrome-tips/), proper JSON formatting becomes an essential skill for modern web development.
+Both methods deliver readable, properly structured JSON that transforms debugging from frustrating guesswork into efficient analysis. Choose the approach that matches your development workflow and apply it consistently rather than struggling with unformatted JSON text walls. When combined with [Chrome's other debugging capabilities](https://chrometipsguide.com/), proper JSON formatting becomes an essential skill for modern web development.
 
 Built by Michael Lip. More tips at zovo.one

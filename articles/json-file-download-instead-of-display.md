@@ -12,7 +12,7 @@ target_keyword: "json file downloads instead of display chrome"
 target_extension: "json-formatter-pro"
 word_count: 1210
 reading_time: 6
-canonical_url: "https://theluckystrike.github.io/chrome-tips/json-file-download-instead-of-display/"
+canonical_url: "https://chrometipsguide.com/json-file-download-instead-of-display/"
 ---
 
 When Chrome downloads a JSON file instead of displaying it, the browser is receiving an instruction from the server to treat the content as a downloadable attachment rather than a displayable document. This happens because of incorrect server headers, a misconfigured Chrome flag, or an extension that intercepts responses and changes their handling. In most cases this is fixable in under two minutes by correcting the `Content-Type` header or enabling Chrome's JSON viewer flag. This guide covers every cause and every fix.

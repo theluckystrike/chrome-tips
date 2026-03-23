@@ -12,7 +12,7 @@ target_keyword: "chrome out of memory error"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-out-of-memory-error/
+canonical_url: https://chrometipsguide.com/chrome-out-of-memory-error/
 faq:
   - q: "How do I fix chrome out of memory error quickly?"
     a: "Close all unnecessary tabs and restart Chrome. This resolves 90% of memory errors within 30 seconds. Chrome consumes roughly 150-300MB per tab, and with modern JavaScript-heavy sites, a single tab can easily exceed 1GB of RAM. After restarting, enable automatic tab discarding in chrome://settings/performance to prevent future crashes. Zovo recommends making this a habit when memory issues arise."

@@ -5,6 +5,7 @@ description: Learn how to leverage Google's Chrome User Experience Report to und
   how real users experience your website in Chrome.
 permalink: chrome-crux-report-real-user-data
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # How to Use Chrome CrUX Report for Real User Data
 

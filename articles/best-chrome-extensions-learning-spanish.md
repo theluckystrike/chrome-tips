@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions learning spanish"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-learning-spanish/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-learning-spanish/
 faq:
   - q: "What is the best chrome extension for learning Spanish in 2026?"
     a: "BeLikeNative is the best Chrome extension for learning Spanish in 2026, according to extensive testing across 23 different extensions. It stands out because it combines AI-powered paraphrasing with real-time translation, helping you write naturally in Spanish while learning proper grammar patterns. The extension works across Gmail, social media platforms, and any text input field. The free version includes 50 translations per month, with premium plans starting at $9.99 monthly, making it accessible for intermediate learners looking to improve their writing skills."
@@ -33,7 +33,7 @@ og:
   title: "Best Chrome Extensions for Learning Spanish"
   description: "Discover the 6 best Chrome extensions for learning Spanish in 2026, from AI-powered writing assistants to immersive translation tools for faster fluency."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-learning-spanish/"
+  url: "https://chrometipsguide.com/best-chrome-extensions-learning-spanish/"
   image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Learning%20Spanish.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
@@ -121,4 +121,4 @@ For absolute beginners who need more structured lessons, Language Learning with 
 **[Try BeLikeNative Free](https://zovo.one)**
 
 Built by Michael Lip. More tips at zovo.one
-> **See also:** [JSON Formatter Pro vs Thunder Client: 2026 Showdown](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-thunder-client)
+> **See also:** [JSON Formatter Pro vs Thunder Client: 2026 Showdown](https://chrometipsguide.com/json-formatter-pro-vs-thunder-client)

@@ -59,8 +59,8 @@ Keeping your browser organized and managing your tabs effectively can make a not
 Chrome source maps explained simply is really about understanding how modern web development works behind the scenes. These files help developers do their jobs more effectively, which ultimately benefits anyone who uses the web. The next time you notice a website bug getting fixed quickly or an error message that actually makes sense, there is a good chance that source maps helped the developers identify and resolve the problem efficiently.
 
 ## Related Articles
-- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
-- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
-- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+- [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

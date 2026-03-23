@@ -12,7 +12,7 @@ target_keyword: "chrome startup slow many tabs"
 target_extension: "tab-suspender-pro"
 word_count: 1150
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-startup-slow-many-tabs/
+canonical_url: https://chrometipsguide.com/chrome-startup-slow-many-tabs/
 faq:
   - q: "Why does Chrome take so long to start with many tabs?"
     a: "Chrome's process-per-tab architecture creates a performance bottleneck when restoring multiple tabs simultaneously. Each restored tab spawns its own renderer process, consuming 15-45MB of RAM during initialization. With 25 tabs, Chrome creates 25+ separate processes before you can click anything, explaining the 8-12 second startup delay. Zovo recommends disabling tab restore if you regularly work with dozens of open tabs."

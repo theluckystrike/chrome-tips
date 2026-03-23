@@ -12,7 +12,7 @@ target_keyword: "belikenative vs simple translate"
 target_extension: "belikenative"
 word_count: 1087
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/belikenative-vs-simple-translate/
+canonical_url: https://chrometipsguide.com/belikenative-vs-simple-translate/
 competitive_data:
   - name: ""
     users: ""

@@ -12,7 +12,7 @@ target_keyword: "how to set up chrome for language learning"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-set-up-chrome-for-language-learning/
+canonical_url: https://chrometipsguide.com/how-to-set-up-chrome-for-language-learning/
 faq:
   - q: "How do I enable Chrome's built-in translation for language learning?"
     a: "To enable Chrome's built-in translation, click the three dots in the top right corner and select Settings. Navigate to Advanced, then Languages, and toggle on 'Offer to translate pages that aren't in a language you read.' Chrome will automatically detect foreign language pages and offer translations. Zovo recommends adding your target language to preferences so Chrome prioritizes content in that language while browsing and searching."

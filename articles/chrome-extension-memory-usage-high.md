@@ -12,7 +12,7 @@ target_keyword: "chrome extension memory usage high"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-extension-memory-usage-high/
+canonical_url: https://chrometipsguide.com/chrome-extension-memory-usage-high/
 faq:
   - q: "How do I check which Chrome extensions are using too much memory?"
     a: "Press Shift+Esc to open Chrome Task Manager, then sort by the Memory column to identify extensions consuming over 50MB. Extensions like tab managers can use 30-80MB even when idle, while ad blockers may grow from 20MB to over 200MB throughout a browsing session. Zovo recommends regularly monitoring this to catch memory-hungry extensions before they slow your browser."

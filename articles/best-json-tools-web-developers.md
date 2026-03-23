@@ -12,7 +12,7 @@ target_keyword: "best json tools web developers"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-json-tools-web-developers/
+canonical_url: https://chrometipsguide.com/best-json-tools-web-developers/
 image: "https://og-image.vercel.app/Best%20JSON%20Tools%20for%20Web%20Developers%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Best JSON Tools for Web Developers in 2026"
   description: "Discover the 6 best JSON formatting tools for web developers beyond Chrome DevTools. Expert comparison of features, pricing, and performance."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-json-tools-web-developers/"
+  url: "https://chrometipsguide.com/best-json-tools-web-developers/"
   image: "https://og-image.vercel.app/Best%20JSON%20Tools%20for%20Web%20Developers%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What is the best JSON tool for web developers in 2026?"
@@ -140,4 +140,4 @@ For basic formatting needs without budget, JSONView provides adequate functional
 The free version of JSON Formatter Pro handles 90% of developer needs effectively, making it risk-free to try. **[Try JSON Formatter Pro Free](https://zovo.one)**
 
 Built by Michael Lip. More tips at zovo.one
-> **See also:** [Tab Suspender Pro vs Auto Tab Discard: 2026 Comparison](https://theluckystrike.github.io/chrome-tips/tab-suspender-pro-vs-auto-tab-discard)
+> **See also:** [Tab Suspender Pro vs Auto Tab Discard: 2026 Comparison](https://chrometipsguide.com/tab-suspender-pro-vs-auto-tab-discard)

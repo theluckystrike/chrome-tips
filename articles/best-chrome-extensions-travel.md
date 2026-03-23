@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions travel"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-travel/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-travel/
 image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Travelers%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Best Chrome Extensions for Travelers in 2026"
   description: "Discover the 7 best Chrome extensions travel tools that make international trips easier with translation, currency conversion, and local insights."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-travel/"
+  url: "https://chrometipsguide.com/best-chrome-extensions-travel/"
   image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Travelers%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What are the best Chrome extensions for travelers in 2026?"
@@ -126,4 +126,4 @@ For budget-conscious travelers who primarily visit English-speaking countries or
 **[Try BeLikeNative Free](https://zovo.one)**
 
 Built by Michael Lip. More tips at zovo.one
-> **See also:** [JSON Formatter Pro vs JSON Schema Validator: 2026 Showdown](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-json-schema-validator)
+> **See also:** [JSON Formatter Pro vs JSON Schema Validator: 2026 Showdown](https://chrometipsguide.com/json-formatter-pro-vs-json-schema-validator)

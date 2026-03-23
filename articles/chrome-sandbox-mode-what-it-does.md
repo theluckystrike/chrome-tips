@@ -56,9 +56,9 @@ Understanding what Chrome sandbox mode does empowers you to make informed decisi
 
 ## Related Articles
 
-- [Chrome Site Isolation Explained](/chrome-tips/chrome-site-isolation-explained/)
-- [Chrome Safe Browsing: What It Does and How It Protects You](/chrome-tips/chrome-safe-browsing-what-it-does/)
-- [Are Chrome Extensions Safe to Use](/chrome-tips/are-chrome-extensions-safe-to-use/)
+- [Chrome Site Isolation Explained](/chrome-site-isolation-explained/)
+- [Chrome Safe Browsing: What It Does and How It Protects You](/chrome-safe-browsing-what-it-does/)
+- [Are Chrome Extensions Safe to Use](/are-chrome-extensions-safe-to-use/)
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

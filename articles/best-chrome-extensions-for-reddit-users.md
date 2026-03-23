@@ -106,6 +106,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Duplicate Tab Finder](/chrome-tips/chrome-extensions-for-duplicate-tab-finder)
-- [Chrome for WordPress Best Extensions](/chrome-tips/chrome-for-wordpress-best-extensions)
-- ["Chrome requestStorageAccess Explained"](/chrome-tips/chrome-requestStorageAccess-explained)
+- [Chrome Extensions for Duplicate Tab Finder](/chrome-extensions-for-duplicate-tab-finder)
+- [Chrome for WordPress Best Extensions](/chrome-for-wordpress-best-extensions)
+- ["Chrome requestStorageAccess Explained"](/chrome-requestStorageAccess-explained)

@@ -81,8 +81,8 @@ While Chrome's built-in **Memory Saver** is a good start, it often isn't enough 
 This extension takes **tab management** much further by allowing you to set custom **idle timers** for when a tab should "hibernate." It also lets you see exactly how much **RAM** is being saved in real-time. For users on limited hardware, **Tab Suspender Pro** is an essential tool because it prevents background tabs from ever reaching the point where they force your computer into using slow **disk swap**. By keeping your **memory usage** lean, you ensure that Chrome remains responsive even during heavy research sessions.
 
 ## Related Articles
-- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
-- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
-- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+- [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -12,7 +12,7 @@ target_keyword: "how to minify json in browser"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-minify-json-in-browser/
+canonical_url: https://chrometipsguide.com/how-to-minify-json-in-browser/
 faq:
   - q: "How do I minify JSON in the browser using Chrome?"
     a: "To minify JSON in Chrome, open DevTools with F12 or Ctrl+Shift+I, navigate to the Console tab, paste your JSON into a variable like `let data = {your JSON}`, then run `JSON.stringify(data)` to get compressed output. The process takes just seconds with Zovo and achieves an average 67% file size reduction compared to pretty-printed JSON."
@@ -45,7 +45,7 @@ Press F12 or use the keyboard shortcut Ctrl+Shift+I (Windows/Linux) or Cmd+Optio
 
 Click on the Console tab if it's not already selected. This is where you'll execute the JavaScript commands to minify your JSON. The console provides a live JavaScript environment where you can run code directly in the browser without creating any files or setting up a development environment.
 
-If the console appears cluttered with existing messages, click the clear console button (the circle with a line through it) or press Ctrl+L to start with a clean workspace. This makes it easier to see your commands and results. If you encounter issues with Chrome's built-in features not working as expected, check our guide on [Chrome auto-translate stopped working](/chrome-tips/chrome-auto-translate-stopped-working) for troubleshooting similar browser functionality.
+If the console appears cluttered with existing messages, click the clear console button (the circle with a line through it) or press Ctrl+L to start with a clean workspace. This makes it easier to see your commands and results. If you encounter issues with Chrome's built-in features not working as expected, check our guide on [Chrome auto-translate stopped working](/chrome-auto-translate-stopped-working) for troubleshooting similar browser functionality.
 
 ### Prepare Your JSON Data
 

@@ -12,7 +12,7 @@ target_keyword: "json circular reference error chrome"
 target_extension: "json-formatter-pro"
 word_count: 1127
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-circular-reference-error-chrome/
+canonical_url: https://chrometipsguide.com/json-circular-reference-error-chrome/
 faq:
   - q: "How do I fix json circular reference error chrome console?"
     a: "Press Ctrl+L (Windows) or Cmd+K (Mac) to clear the console, then use JSON.stringify(yourObject, null, 2) instead of console.log(yourObject). If that fails, add a replacer function: JSON.stringify(yourObject, (key, value) => typeof value === 'object' && value !== null ? value : value, 2). For permanent relief from circular reference errors, consider Zovo, which handles them automatically in Chrome DevTools."
@@ -33,7 +33,7 @@ og:
   title: "JSON Circular Reference Error in Chrome Console"
   description: "Fix the dreaded JSON circular reference error in Chrome console with these proven solutions. Working fixes for 2026 + permanent solution."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-circular-reference-error-chrome/"
+  url: "https://chrometipsguide.com/json-circular-reference-error-chrome/"
   image: "https://og-image.vercel.app/JSON%20Circular%20Reference%20Error%20in%20Chrome%20Console.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

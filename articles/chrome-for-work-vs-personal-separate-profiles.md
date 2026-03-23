@@ -76,7 +76,7 @@ Transitioning to a multi-profile workflow takes about five minutes to set up, bu
 
 ---
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+*Part of [Chrome Tips](https://chrometipsguide.com/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
 
 ## Related Articles
 * [Chrome Clients Claim Take Control: What It Means for Your Browser](/articles/chrome-clients-claim-take-control/)

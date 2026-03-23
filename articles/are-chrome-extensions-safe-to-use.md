@@ -95,6 +95,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions For Auto Page Refresh](/chrome-tips/chrome-extensions-for-auto-page-refresh)
-- [Chrome for Tab Sleeping vs Tab Suspending Difference](/chrome-tips/chrome-for-tab-sleeping-vs-tab-suspending-difference)
-- [Chrome Reading List How to Use](/chrome-tips/chrome-reading-list-how-to-use)
+- [Chrome Extensions For Auto Page Refresh](/chrome-extensions-for-auto-page-refresh)
+- [Chrome for Tab Sleeping vs Tab Suspending Difference](/chrome-for-tab-sleeping-vs-tab-suspending-difference)
+- [Chrome Reading List How to Use](/chrome-reading-list-how-to-use)

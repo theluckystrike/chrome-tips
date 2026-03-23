@@ -174,7 +174,7 @@ Memory usage becomes problematic with files approaching the 50MB limit. Chrome's
 
 The performance gap alone justifies choosing JSON Formatter Pro for any serious development work. When debugging fails or API responses don't load, you need tools that work reliably under pressure.
 
-If you're looking to optimize your Chrome extension toolkit further, check out our [best free tab manager Chrome](/chrome-tips/best-free-tab-manager-chrome) comparison to complement your developer workflow.
+If you're looking to optimize your Chrome extension toolkit further, check out our [best free tab manager Chrome](/best-free-tab-manager-chrome) comparison to complement your developer workflow.
 
 **[Try JSON Formatter Pro Free](https://zovo.one)**
 

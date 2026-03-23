@@ -50,7 +50,7 @@ Select Reload from the dropdown menu. Chrome immediately begins reactivating the
 
 ### Keyboard Shortcuts for Faster Access
 
-Keyboard shortcuts offer the quickest restoration method when you're already focused on the suspended tab. Click once on the suspended tab to select it, then press Ctrl+R on Windows or Linux systems. Mac users should press Cmd+R instead. If you want to improve your overall Chrome keyboard navigation skills, learn how to use [chrome caret browsing to navigate with keyboard](/chrome-tips/chrome-caret-browsing-navigate-with-keyboard) for faster cursor movement across web pages.
+Keyboard shortcuts offer the quickest restoration method when you're already focused on the suspended tab. Click once on the suspended tab to select it, then press Ctrl+R on Windows or Linux systems. Mac users should press Cmd+R instead. If you want to improve your overall Chrome keyboard navigation skills, learn how to use [chrome caret browsing to navigate with keyboard](/chrome-caret-browsing-navigate-with-keyboard) for faster cursor movement across web pages.
 
 You can also use F5 on Windows and Linux, which triggers the same reload function. These shortcuts work identically to the right-click method but save you several mouse movements when working with multiple suspended tabs consecutively.
 
@@ -96,7 +96,7 @@ Use Ctrl+Shift+T to restore recently closed tabs if you accidentally close suspe
 
 ## Pro Tip: Skip the Manual Steps
 
-Manual restoration works reliably, but checking for suspended tabs every few hours gets tedious quickly. You need a solution that prevents suspension from happening in the first place while still conserving system resources effectively. If you're looking to optimize your Chrome experience further, check out these [Chrome tips for Babbel web app](/chrome-tips/chrome-for-babbel-web-app-tips) to enhance your browser productivity.
+Manual restoration works reliably, but checking for suspended tabs every few hours gets tedious quickly. You need a solution that prevents suspension from happening in the first place while still conserving system resources effectively. If you're looking to optimize your Chrome experience further, check out these [Chrome tips for Babbel web app](/chrome-for-babbel-web-app-tips) to enhance your browser productivity.
 
 **Tab Suspender Pro** automates this entire process with intelligent algorithms that learn your browsing patterns. Instead of Chrome's basic timer-based suspension, it analyzes which tabs you actually use and protects important ones from suspension. The extension maintains a **4.9/5 rating** and was updated to version 1.0.27 in March 2026.
 

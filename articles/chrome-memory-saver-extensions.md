@@ -23,7 +23,7 @@ faq:
     a: "To prevent Chrome from suspending important tabs, use an extension like Tab Suspender Pro with its smart whitelist feature. You can create regex patterns to exclude specific domains, add individual URLs to an exception list, or set longer suspension intervals (up to 24 hours) for sites you frequently reference. The extension displays real-time memory usage per tab, helping you identify which active tabs consume the most resources. One-click restore via keyboard shortcuts makes revisiting suspended tabs effortless."
   - q: "What features matter most in a chrome memory saver extension?"
     a: "The most important chrome memory saver extension features include configurable suspension intervals (30 seconds to 24 hours), whitelist management with regex support, and manual suspend controls. Tab Suspender Pro excels by offering per-tab memory consumption metrics, keyboard shortcuts for quick actions, and domain-specific timing rules. These capabilities let you balance resource conservation with accessibility, preventing the hit-or-miss behavior of basic solutions. Chrome's Page Lifecycle API powers the underlying freeze and discard functionality across quality extensions."
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-memory-saver-extensions/
+canonical_url: https://chrometipsguide.com/chrome-memory-saver-extensions/
 ---
 
 Chrome's built-in Memory Saver falls short when you need precise control over which tabs get suspended and when. After testing 12 **chrome memory saver extensions**, Tab Suspender Pro emerges as the clear winner for power users who want granular tab management without the frustrating auto-suspensions that interrupt active work sessions.

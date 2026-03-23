@@ -21,7 +21,7 @@ og:
   title: "Tab Suspender Pro vs Raindrop.io: Complete 2026 Comparison"
   description: "Tab Suspender Pro vs Raindrop.io comparison for Chrome users. Which tab management solution works best for memory optimization and productivity in 2026?"
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/tab-suspender-pro-vs-raindrop-io/"
+  url: "https://chrometipsguide.com/tab-suspender-pro-vs-raindrop-io/"
   image: "https://og-image.vercel.app/Tab%20Suspender%20Pro%20vs%20Raindrop.io%3A%20Complete%202026%20Comparison.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

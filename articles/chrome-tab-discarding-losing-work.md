@@ -12,7 +12,7 @@ target_keyword: "chrome tab discarding losing work"
 target_extension: "tab-suspender-pro"
 word_count: 1187
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-tab-discarding-losing-work/
+canonical_url: https://chrometipsguide.com/chrome-tab-discarding-losing-work/
 faq:
   - q: "Why does my work disappear when I switch tabs in Chrome?"
     a: "Chrome discards inactive tabs to free up system memory, which erases all unsaved form data, scroll positions, and dynamic content. When free memory drops below 20% (typically under 2GB), Chrome automatically discards background tabs, treating them like fresh page loads when you return. Zovo recommends disabling auto-discarding in chrome://discards/ to prevent this data loss."

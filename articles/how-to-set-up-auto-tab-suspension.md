@@ -12,7 +12,7 @@ target_keyword: "how to set up auto tab suspension chrome"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-set-up-auto-tab-suspension/
+canonical_url: https://chrometipsguide.com/how-to-set-up-auto-tab-suspension/
 image: "https://og-image.vercel.app/How%20to%20Set%20Up%20Automatic%20Tab%20Suspension%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "How to Set Up Automatic Tab Suspension in Chrome"
   description: "Learn how to set up auto tab suspension in Chrome to reduce memory usage by up to 95% with built-in settings and advanced extensions."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-set-up-auto-tab-suspension/"
+  url: "https://chrometipsguide.com/how-to-set-up-auto-tab-suspension/"
   image: "https://og-image.vercel.app/How%20to%20Set%20Up%20Automatic%20Tab%20Suspension%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "how do i set up auto tab suspension in chrome"
@@ -69,7 +69,7 @@ This isn't just theory. In my testing, enabling Memory Saver on a laptop with 8G
 
 The Memory Saver settings include an "Always keep these sites active" section where you can add exceptions. Click **Add** and type the domain names of sites you never want suspended. Common choices include music streaming services like Spotify, video conferencing tools like Zoom, or productivity apps like Google Docs that you access frequently throughout the day.
 
-You can also add sites while browsing. When you're on a page you want to keep active, right-click the tab and select "Always keep this site active." The setting applies to the entire domain, not just that specific page. This [advanced tab management technique](https://theluckystrike.github.io/chrome-tips/) saves time compared to manually adding each site in settings.
+You can also add sites while browsing. When you're on a page you want to keep active, right-click the tab and select "Always keep this site active." The setting applies to the entire domain, not just that specific page. This [advanced tab management technique](https://chrometipsguide.com/) saves time compared to manually adding each site in settings.
 
 ## Common Mistakes That Break Tab Suspension
 
@@ -93,7 +93,7 @@ Chrome typically starts suspending tabs after 2 hours of inactivity, but this ti
 
 ### Forgetting About Extension Conflicts
 
-Browser extensions can interfere with Chrome's built-in tab suspension. Extensions that inject scripts into every page, monitor tab activity, or manage bookmarks might prevent tabs from entering the suspended state. This commonly happens with [productivity extensions](https://theluckystrike.github.io/chrome-tips/) that track time spent on websites or extensions that auto-refresh pages.
+Browser extensions can interfere with Chrome's built-in tab suspension. Extensions that inject scripts into every page, monitor tab activity, or manage bookmarks might prevent tabs from entering the suspended state. This commonly happens with [productivity extensions](https://chrometipsguide.com/) that track time spent on websites or extensions that auto-refresh pages.
 
 If Memory Saver seems ineffective, try disabling extensions one by one to identify conflicts. Popular extensions like ad blockers usually work fine with tab suspension, but lesser-known productivity tools might cause issues. You can test this by opening an incognito window, which runs without most extensions enabled, and observing whether tabs suspend normally there.
 
@@ -101,7 +101,7 @@ If Memory Saver seems ineffective, try disabling extensions one by one to identi
 
 Chrome's built-in Memory Saver works well for basic tab suspension, but it lacks customization options that power users need. You can't adjust the 2-hour suspension timer, set different rules for different types of sites, or get detailed information about how much memory each suspended tab is saving.
 
-**Tab Suspender Pro** automates these advanced features with a 4.9/5 star rating and version 1.0.27 that was last updated on March 8, 2026. The 185KiB extension lets you set custom suspension timers, create rules based on URL patterns, and view detailed memory usage statistics. It integrates with Chrome's existing tab management system while providing the granular control that [Chrome power users](https://theluckystrike.github.io/chrome-tips/) demand.
+**Tab Suspender Pro** automates these advanced features with a 4.9/5 star rating and version 1.0.27 that was last updated on March 8, 2026. The 185KiB extension lets you set custom suspension timers, create rules based on URL patterns, and view detailed memory usage statistics. It integrates with Chrome's existing tab management system while providing the granular control that [Chrome power users](https://chrometipsguide.com/) demand.
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
 

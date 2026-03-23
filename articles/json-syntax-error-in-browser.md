@@ -12,7 +12,7 @@ target_keyword: "json syntax error in browser"
 target_extension: "json-formatter-pro"
 word_count: 1147
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-syntax-error-in-browser/
+canonical_url: https://chrometipsguide.com/json-syntax-error-in-browser/
 image: "https://og-image.vercel.app/JSON%20Syntax%20Error%20in%20Browser%3A%20How%20to%20Find%20and%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "JSON Syntax Error in Browser: How to Find and Fix It"
   description: "Learn how to quickly identify and fix json syntax error in browser issues in Chrome with proven solutions that work in 2026."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-syntax-error-in-browser/"
+  url: "https://chrometipsguide.com/json-syntax-error-in-browser/"
   image: "https://og-image.vercel.app/JSON%20Syntax%20Error%20in%20Browser%3A%20How%20to%20Find%20and%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How do I fix a JSON syntax error in Chrome browser?"

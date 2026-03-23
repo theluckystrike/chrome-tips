@@ -109,9 +109,9 @@ The time invested in setting up hover previews pays off quickly if you regularly
 
 ## Related Articles
 
-- [How to Enable Chrome Tab Hover Previews](/chrome-tips/how-to-enable-chrome-tab-hover-previews/)
-- [Best Extensions for Tab Management Chrome](/chrome-tips/best-extensions-for-tab-management-chrome/)
-- [How to Use Chrome Tab Groups Effectively](/chrome-tips/how-to-use-chrome-tab-groups-effectively/)
+- [How to Enable Chrome Tab Hover Previews](/how-to-enable-chrome-tab-hover-previews/)
+- [Best Extensions for Tab Management Chrome](/best-extensions-for-tab-management-chrome/)
+- [How to Use Chrome Tab Groups Effectively](/how-to-use-chrome-tab-groups-effectively/)
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

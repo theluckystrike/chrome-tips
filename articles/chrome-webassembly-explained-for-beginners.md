@@ -98,8 +98,8 @@ Understanding WebAssembly helps you appreciate the complex technology working be
 
 ## Related Articles
 
-- [Chrome V8 JavaScript Engine Explained](/chrome-tips/chrome-v8-javascript-engine-explained/)
-- [Chrome Hardware Acceleration Guide](/chrome-tips/chrome-hardware-acceleration-guide/)
-- [Chrome V8 Engine What It Means for Users](/chrome-tips/chrome-v8-engine-what-it-means-for-users/)
+- [Chrome V8 JavaScript Engine Explained](/chrome-v8-javascript-engine-explained/)
+- [Chrome Hardware Acceleration Guide](/chrome-hardware-acceleration-guide/)
+- [Chrome V8 Engine What It Means for Users](/chrome-v8-engine-what-it-means-for-users/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

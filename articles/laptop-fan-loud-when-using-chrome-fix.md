@@ -80,8 +80,8 @@ If you still struggle with heat after trying these steps, consider using an exte
 
 ## Related Articles
 
-- [Chrome Hardware Acceleration Causing Problems: Troubleshooting Guide](/chrome-tips/chrome-hardware-acceleration-causing-problems/)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-tips/chrome-using-too-much-battery-on-laptop-fix/)
-- [Chrome Using 100 Percent CPU Fix Windows](/chrome-tips/chrome-using-100-percent-cpu-fix-windows/)
+- [Chrome Hardware Acceleration Causing Problems: Troubleshooting Guide](/chrome-hardware-acceleration-causing-problems/)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix/)
+- [Chrome Using 100 Percent CPU Fix Windows](/chrome-using-100-percent-cpu-fix-windows/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

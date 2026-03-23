@@ -94,6 +94,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-tips/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome For Xbox Cloud Gaming Optimization](/chrome-tips/chrome-for-xbox-cloud-gaming-optimization)
-- [Chrome Reset Flags to Default How To](/chrome-tips/chrome-reset-flags-to-default-how-to)
+- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
+- [Chrome For Xbox Cloud Gaming Optimization](/chrome-for-xbox-cloud-gaming-optimization)
+- [Chrome Reset Flags to Default How To](/chrome-reset-flags-to-default-how-to)

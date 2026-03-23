@@ -18,6 +18,7 @@ tags:
 author: theluckystrike
 permalink: chrome-resize-observer-responsive-components
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # Chrome Resize Observer for Responsive Components
 

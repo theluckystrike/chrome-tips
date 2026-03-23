@@ -12,7 +12,7 @@ target_keyword: "json schema validation errors chrome"
 target_extension: "json-formatter-pro"
 word_count: 1127
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-schema-validation-errors-chrome/
+canonical_url: https://chrometipsguide.com/json-schema-validation-errors-chrome/
 faq:
   - q: "How do I fix JSON schema validation errors in Chrome?"
     a: "Clear your browser cache by pressing Ctrl+Shift+Delete (Cmd+Shift+Delete on Mac), then type `chrome://restart` in the address bar and press Enter. Finally, disable all JSON-related extensions temporarily and re-enable them one by one. The fastest fix is clearing your browser cache and restarting Chrome with fresh extensions, as the root cause is typically corrupted parser state or conflicting extension processes."

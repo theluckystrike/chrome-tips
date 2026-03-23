@@ -12,7 +12,7 @@ target_keyword: "best translation tool students chrome"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-translation-tool-students/
+canonical_url: https://chrometipsguide.com/best-translation-tool-students/
 image: "https://og-image.vercel.app/Best%20Translation%20Tool%20for%20Students%20Using%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Best Translation Tool for Students Using Chrome"
   description: "Find the best translation tool for students using Chrome. Compare 6 top alternatives to Google Translate extension with detailed features and pricing."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-translation-tool-students/"
+  url: "https://chrometipsguide.com/best-translation-tool-students/"
   image: "https://og-image.vercel.app/Best%20Translation%20Tool%20for%20Students%20Using%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What's the best translation tool for students using Chrome?"

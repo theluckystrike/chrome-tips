@@ -12,7 +12,7 @@ target_keyword: "google translate extension removed chrome"
 target_extension: "belikenative"
 word_count: 1290
 reading_time: 5
-canonical_url: "https://theluckystrike.github.io/chrome-tips/google-translate-extension-removed/"
+canonical_url: "https://chrometipsguide.com/google-translate-extension-removed/"
 ---
 
 If the Google Translate extension disappeared from Chrome or stopped working after an update, the cause is Chrome's Manifest V3 transition and Google's decision in late 2024 to retire the original Google Translate browser extension in favor of Chrome's built-in translation feature. The extension itself is gone: it cannot be reinstalled from the Chrome Web Store under its original ID. The immediate replacement is Chrome's built-in translation, which is enabled at `chrome://settings/languages` and works without installing anything. For users who need more control, multiple fully compliant MV3 alternatives are available.

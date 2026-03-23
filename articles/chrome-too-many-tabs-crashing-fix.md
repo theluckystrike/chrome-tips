@@ -78,9 +78,9 @@ Chrome is an exceptionally powerful browser, but its strength becomes a weakness
 
 ## Related Articles
 
-- [How to Stop Opening Too Many Tabs](/chrome-tips/how-to-stop-opening-too-many-tabs/)
-- [Best Tab Suspender to Save Memory 2026](/chrome-tips/best-tab-suspender-to-save-memory-2026/)
-- [chrome tab memory usage keeps growing](/chrome-tips/chrome-tab-memory-usage-keeps-growing/)
+- [How to Stop Opening Too Many Tabs](/how-to-stop-opening-too-many-tabs/)
+- [Best Tab Suspender to Save Memory 2026](/best-tab-suspender-to-save-memory-2026/)
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing/)
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

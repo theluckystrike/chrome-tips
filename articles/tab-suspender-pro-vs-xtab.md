@@ -86,7 +86,7 @@ xTab's approach isn't wrong for everyone. Some users genuinely need a strict cap
 
 Tab Suspender Pro doesn't solve tab hoarding at the browser-startup level. If you routinely start Chrome with 150+ suspended tabs, session restore still takes time even with suspension. At that scale, you need a [dedicated strategy to prevent Chrome from crashing under tab load](/chrome-too-many-tabs-crashing-fix) — possibly pairing suspension with periodic session archiving.
 
-It also won't help if your RAM problem comes from something other than tabs. Heavy extensions, GPU processes, and memory leaks can eat resources regardless of how many tabs you suspend. If you're exploring different approaches to tab management, check out our guide to [auto tab discard alternatives](/chrome-tips/auto-tab-discard-alternatives) to see how other tools handle background tab optimization.
+It also won't help if your RAM problem comes from something other than tabs. Heavy extensions, GPU processes, and memory leaks can eat resources regardless of how many tabs you suspend. If you're exploring different approaches to tab management, check out our guide to [auto tab discard alternatives](/auto-tab-discard-alternatives) to see how other tools handle background tab optimization.
 
 > "Tab management is only half the equation. If Chrome is still eating memory after suspending tabs, look at your extensions and renderer processes next." — How-To Geek, 2026
 

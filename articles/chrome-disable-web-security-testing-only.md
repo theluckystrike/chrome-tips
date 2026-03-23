@@ -16,6 +16,7 @@ tags:
 - development
 author: theluckystrike
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # How to Disable Chrome Web Security for Testing Only
 
@@ -88,9 +89,9 @@ Disabling Chrome's web security is a straightforward process when you need to te
 For most development workflows, the temporary disabling of web security provides the flexibility needed to test effectively while maintaining security for your regular browsing activities.
 
 ## Related Articles
-- [How to Report a Malware Website in Chrome](/chrome-tips/chrome-report-malware-website-how-to/)
-- [chrome web otp autofill sms](/chrome-tips/chrome-web-otp-autofill-sms/)
-- [Chrome Security Checkup How to Run](/chrome-tips/chrome-security-checkup-how-to-run/)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to/)
+- [chrome web otp autofill sms](/chrome-web-otp-autofill-sms/)
+- [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

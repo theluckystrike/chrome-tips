@@ -2,6 +2,7 @@
 layout: default
 title: Chrome Touch Event Handling Performance
 description: Learn how Chrome processes touch events and discover practical tips to improve responsiveness on touch-enabled devices. Boost your browsing speed today.
+date: 2026-03-23
 ---
 
 # Chrome Touch Event Handling Performance

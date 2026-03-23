@@ -12,7 +12,7 @@ target_keyword: "chrome too many processes fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-process-too-many-fix/
+canonical_url: https://chrometipsguide.com/chrome-process-too-many-fix/
 faq:
   - q: "How do I fix Chrome running too many processes?"
     a: "The fastest chrome too many processes fix is enabling automatic tab discarding in chrome://flags/#automatic-tab-discarding. This feature automatically unloads background tabs to free up memory without closing them. You can also manually limit Chrome's process usage by disabling unnecessary extensions, using the built-in Task Manager to identify resource-heavy tabs, and restarting Chrome periodically. Zovo recommends starting with automatic tab discarding since it requires no ongoing maintenance."

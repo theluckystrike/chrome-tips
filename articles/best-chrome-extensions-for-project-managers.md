@@ -105,6 +105,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Diigo](/chrome-tips/chrome-extensions-for-diigo)
-- [Chrome for WhatsApp Web Tips and Tricks](/chrome-tips/chrome-for-whatsapp-web-tips-and-tricks)
-- [Chrome Report Broken Website How To](/chrome-tips/chrome-report-broken-website-how-to)
+- [Chrome Extensions for Diigo](/chrome-extensions-for-diigo)
+- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
+- [Chrome Report Broken Website How To](/chrome-report-broken-website-how-to)

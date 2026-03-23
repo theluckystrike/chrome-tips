@@ -91,6 +91,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Color Palette Picker](/chrome-tips/chrome-extensions-for-color-palette-picker)
-- [Chrome for Voice Search How to Enable](/chrome-tips/chrome-for-voice-search-how-to-enable)
-- ['Chrome Release Schedule: When Is the Next Update?'](/chrome-tips/chrome-release-schedule-when-next-update)
+- [Chrome Extensions for Color Palette Picker](/chrome-extensions-for-color-palette-picker)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+- ['Chrome Release Schedule: When Is the Next Update?'](/chrome-release-schedule-when-next-update)

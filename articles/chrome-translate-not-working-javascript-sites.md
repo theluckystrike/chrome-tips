@@ -12,7 +12,7 @@ target_keyword: "chrome translate not working javascript sites"
 target_extension: "belikenative"
 word_count: 1245
 reading_time: 5
-canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-not-working-javascript-sites/"
+canonical_url: "https://chrometipsguide.com/chrome-translate-not-working-javascript-sites/"
 ---
 
 Chrome's translate feature stops working on JavaScript-heavy sites because the browser scans page text during the initial `DOMContentLoaded` event, which fires before React, Vue, Angular, and similar frameworks have finished rendering content. Chrome finds empty containers or placeholder text during its scan, concludes the page has no translatable content, and never offers the translate bar. Modern single-page applications typically take 800 to 2,000 milliseconds to render visible content, while Chrome's translation scanner completes its pass in under 500 milliseconds. The most reliable fix is temporarily disabling JavaScript for the site, forcing Chrome to translate the server-rendered HTML before framework code runs.

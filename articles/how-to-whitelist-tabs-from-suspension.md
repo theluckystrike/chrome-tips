@@ -21,9 +21,9 @@ og:
   title: "How to Whitelist Tabs From Being Suspended in Chrome"
   description: "Learn how to whitelist tabs from suspension chrome with manual settings and automated tools. Keep important tabs active without losing work or progress."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-whitelist-tabs-from-suspension/"
+  url: "https://chrometipsguide.com/how-to-whitelist-tabs-from-suspension/"
   image: "https://og-image.vercel.app/How%20to%20Whitelist%20Tabs%20From%20Being%20Suspended%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-whitelist-tabs-from-suspension/
+canonical_url: https://chrometipsguide.com/how-to-whitelist-tabs-from-suspension/
 faq:
   - q: "How do I whitelist tabs from suspension in Chrome?"
     a: "To whitelist specific tabs from suspension, install a Chrome extension like Tab Suspender Pro that offers granular control over which sites stay active. Type `chrome://flags/#automatic-tab-discarding` in your address bar to access Chrome's experimental features. While you can't whitelist individual sites through built-in settings alone, extensions let you create custom whitelist rules for critical websites. This approach lets you keep important tabs active while still benefiting from automatic suspension for other tabs. Zovo recommends using extensions for the best balance of productivity and memory management."
@@ -123,6 +123,6 @@ Source: [Freezing on Energy Saver](https://developer.chrome.com/blog/freezing-on
 
 The extension automatically detects forms with unsaved content, active media playback, and WebSocket connections to prevent suspension of tabs that would lose important state. This intelligent approach gives you the benefits of memory management without the frustration of losing work progress.
 
-For more advanced techniques, check out these [Chrome productivity tips](https://theluckystrike.github.io/chrome-tips/) and learn about [tab organization strategies](https://theluckystrike.github.io/chrome-tips/) that work alongside suspension controls. You can also explore [memory optimization methods](https://theluckystrike.github.io/chrome-tips/) that reduce the need for aggressive tab suspension.
+For more advanced techniques, check out these [Chrome productivity tips](https://chrometipsguide.com/) and learn about [tab organization strategies](https://chrometipsguide.com/) that work alongside suspension controls. You can also explore [memory optimization methods](https://chrometipsguide.com/) that reduce the need for aggressive tab suspension.
 
 Built by Michael Lip. More tips at zovo.one

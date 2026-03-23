@@ -94,6 +94,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Best Chrome Extensions For Designers 2026](/chrome-tips/chrome-extensions-for-designers-2026)
-- [Chrome for Web3 Browsing Extensions](/chrome-tips/chrome-for-web3-browsing-extensions)
-- [Chrome Rendering Panel Guide](/chrome-tips/chrome-rendering-panel-guide)
+- [Best Chrome Extensions For Designers 2026](/chrome-extensions-for-designers-2026)
+- [Chrome for Web3 Browsing Extensions](/chrome-for-web3-browsing-extensions)
+- [Chrome Rendering Panel Guide](/chrome-rendering-panel-guide)

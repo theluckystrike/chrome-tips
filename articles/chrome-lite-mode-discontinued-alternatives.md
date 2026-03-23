@@ -76,9 +76,9 @@ Take some time to experiment with these alternatives. Most of them are free to t
 
 ## Related Articles
 
-- [Chrome Android Tips To Save Data](/chrome-tips/chrome-android-tips-to-save-data/)
-- [How to Reduce Chrome Data Usage on Slow Connection](/chrome-tips/reduce-chrome-data-usage-on-slow-connection/)
-- [chrome data saver mode how to reduce data usage](/chrome-tips/chrome-data-saver-mode-how-to-reduce-data-usage/)
+- [Chrome Android Tips To Save Data](/chrome-android-tips-to-save-data/)
+- [How to Reduce Chrome Data Usage on Slow Connection](/reduce-chrome-data-usage-on-slow-connection/)
+- [chrome data saver mode how to reduce data usage](/chrome-data-saver-mode-how-to-reduce-data-usage/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -99,7 +99,7 @@ Limited customization options frustrate power users who need specific workflows.
 
 > Chrome freezes background tabs when Energy Saver mode is active to reduce power consumption on battery-constrained devices. ,  [Freezing on Energy Saver](https://developer.chrome.com/blog/freezing-on-energy-saver)
 
-Professional Chrome users seeking [advanced tab management techniques](https://theluckystrike.github.io/chrome-tips/) often need more sophisticated solutions than Cluster Tab Manager provides.
+Professional Chrome users seeking [advanced tab management techniques](https://chrometipsguide.com/) often need more sophisticated solutions than Cluster Tab Manager provides.
 
 ## Bottom Line
 

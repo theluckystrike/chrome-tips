@@ -2,6 +2,7 @@
 layout: default
 title: "Chrome Media Recorder API Screen Recording"
 description: "Learn how to use the Chrome Media Recorder API for screen recording in your web applications. Complete guide with examples and best practices."
+date: 2026-03-23
 ---
 
 # Chrome Media Recorder API Screen Recording

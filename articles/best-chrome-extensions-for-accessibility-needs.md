@@ -85,6 +85,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Binaural Beats](/chrome-tips/chrome-extensions-for-binaural-beats)
-- [Chrome for Time Management Extensions](/chrome-tips/chrome-for-time-management-extensions)
-- [Chrome Reading Mode How to Activate](/chrome-tips/chrome-reading-mode-how-to-activate)
+- [Chrome Extensions for Binaural Beats](/chrome-extensions-for-binaural-beats)
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
+- [Chrome Reading Mode How to Activate](/chrome-reading-mode-how-to-activate)

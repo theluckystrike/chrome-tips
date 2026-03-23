@@ -2,6 +2,7 @@
 layout: default
 title: How to Use Chrome MIDI Output for Web Music Creation
 description: Discover how to leverage Chrome MIDI output capabilities to create music directly in your browser. A practical guide for web musicians and developers.
+date: 2026-03-23
 ---
 
 # How to Use Chrome MIDI Output for Web Music Creation
@@ -79,4 +80,4 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 - [Best Chrome Extensions for Web Developers 2026](best-chrome-extensions-for-web-developers-2026)
 - [Chrome A-Frame WebXR Getting Started Guide](chrome-a-frame-webxr-getting-started)
-- [Chrome AR Quick Look Web Augmented Reality](/chrome-tips/chrome-ar-quick-look-web-augmented-reality/)
+- [Chrome AR Quick Look Web Augmented Reality](/chrome-ar-quick-look-web-augmented-reality/)

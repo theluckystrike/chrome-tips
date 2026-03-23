@@ -21,9 +21,9 @@ og:
   title: "JSON Null Values Not Showing in Chrome Viewer"
   description: "Fix Chrome's JSON viewer when null values disappear. Working solutions for json null values not showing chrome with step-by-step troubleshooting guide."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-null-values-not-showing-chrome/"
+  url: "https://chrometipsguide.com/json-null-values-not-showing-chrome/"
   image: "https://og-image.vercel.app/JSON%20Null%20Values%20Not%20Showing%20in%20Chrome%20Viewer.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-null-values-not-showing-chrome/
+canonical_url: https://chrometipsguide.com/json-null-values-not-showing-chrome/
 faq:
   - q: "Why are null values missing from Chrome's JSON viewer?"
     a: "Chrome's JSON viewer allocates only 512MB per tab for processing, and when files approach this limit, the renderer strips null properties to conserve memory. Files larger than 50MB frequently trigger this behavior. The underlying data remains intact, but the presentation layer hides null values to maintain performance. You can verify this by testing with smaller JSON files or using Zovo to view large JSON files without memory constraints."
@@ -73,7 +73,7 @@ These manual fixes address different root causes, ordered from most to least eff
 
 Navigate to **Settings** > **Privacy and security** > **Clear browsing data** or use the keyboard shortcut **Ctrl+Shift+Delete** (Windows) or **Cmd+Shift+Delete** (Mac). Select **All time** from the time range dropdown and check **Cookies and other site data** plus **Cached images and files**. Click **Clear data** and restart Chrome completely.
 
-This fix works in 78% of cases because it removes corrupted cache entries that interfere with JSON parsing. The downside is you'll lose saved passwords and site preferences, requiring you to log back into websites. For more targeted solutions, check out these [Chrome troubleshooting techniques](https://theluckystrike.github.io/chrome-tips/).
+This fix works in 78% of cases because it removes corrupted cache entries that interfere with JSON parsing. The downside is you'll lose saved passwords and site preferences, requiring you to log back into websites. For more targeted solutions, check out these [Chrome troubleshooting techniques](https://chrometipsguide.com/).
 
 ### Disable All Extensions Temporarily
 

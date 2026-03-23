@@ -130,7 +130,7 @@ ImTranslator takes a traditional approach, focusing purely on language translati
 
 ### Performance and Resource Impact
 
-The size difference between these extensions tells an important story about optimization. BeLikeNative weighs in at just 999KiB, making it one of the [lightest productivity extensions for Chrome developers](https://theluckystrike.github.io/chrome-tips/). This compact footprint means faster loading times and minimal impact on your browser's memory usage, especially important when running multiple [Chrome extensions for developers](https://theluckystrike.github.io/chrome-tips/) simultaneously.
+The size difference between these extensions tells an important story about optimization. BeLikeNative weighs in at just 999KiB, making it one of the [lightest productivity extensions for Chrome developers](https://chrometipsguide.com/). This compact footprint means faster loading times and minimal impact on your browser's memory usage, especially important when running multiple [Chrome extensions for developers](https://chrometipsguide.com/) simultaneously.
 
 Modern extension architecture allows BeLikeNative to achieve powerful functionality within a small package. The developers clearly prioritized efficient code and streamlined features over bloated feature sets. This approach aligns with current browser optimization trends that favor lightweight, focused extensions.
 

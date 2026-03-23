@@ -102,6 +102,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Calendar Integration](/chrome-tips/chrome-extensions-for-calendar-integration)
-- [Chrome for Travel Itinerary Extensions](/chrome-tips/chrome-for-travel-itinerary-extensions)
-- [Chrome Recorder Panel Guide](/chrome-tips/chrome-recorder-panel-guide)
+- [Chrome Extensions for Calendar Integration](/chrome-extensions-for-calendar-integration)
+- [Chrome for Travel Itinerary Extensions](/chrome-for-travel-itinerary-extensions)
+- [Chrome Recorder Panel Guide](/chrome-recorder-panel-guide)

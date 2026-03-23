@@ -101,8 +101,8 @@ Remember that Web Vitals are just one piece of the performance puzzle. Other fac
 
 ## Related Articles
 
-- [Largest Contentful Paint Chrome Fix](/chrome-tips/largest-contentful-paint-chrome-fix/)
-- [First Input Delay Chrome Optimize](/chrome-tips/first-input-delay-chrome-optimize/)
-- [Chrome Web Vitals Optimization Guide](/chrome-tips/chrome-web-vitals-optimization/)
+- [Largest Contentful Paint Chrome Fix](/largest-contentful-paint-chrome-fix/)
+- [First Input Delay Chrome Optimize](/first-input-delay-chrome-optimize/)
+- [Chrome Web Vitals Optimization Guide](/chrome-web-vitals-optimization/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

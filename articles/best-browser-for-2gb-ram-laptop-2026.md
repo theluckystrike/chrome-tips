@@ -104,6 +104,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Auto Tab Closer](/chrome-tips/chrome-extensions-for-auto-tab-closer)
-- [Chrome For Telegram Web Best Settings](/chrome-tips/chrome-for-telegram-web-best-settings)
-- [Chrome Reading List vs Bookmarks Difference](/chrome-tips/chrome-reading-list-vs-bookmarks-difference)
+- [Chrome Extensions for Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
+- [Chrome For Telegram Web Best Settings](/chrome-for-telegram-web-best-settings)
+- [Chrome Reading List vs Bookmarks Difference](/chrome-reading-list-vs-bookmarks-difference)

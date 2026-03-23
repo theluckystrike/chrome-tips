@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions web development"
 target_extension: "json-formatter-pro"
 word_count: 987
 reading_time: 4
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-web-development/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-web-development/
 faq:
   - q: "What is the best chrome extension for web development in 2026?"
     a: "JSON Formatter Pro ranks as the best chrome extension for web development based on testing 47 extensions. It transforms messy JSON into readable, formatted structures instantly, processing multi-megabyte JSON responses in under 200ms. Full-stack developers working with REST APIs will find it essential. For comprehensive development workflows, Zovo recommends this extension as a core tool in every developer's arsenal."
@@ -140,4 +140,4 @@ For teams primarily working with GraphQL instead of REST APIs, GraphQL Playgroun
 ---
 
 *Built by theluckystrike — More tips at zovo.one*
-> **See also:** [Tab Suspender Pro vs Auto Tab Discard: 2026 Comparison](https://theluckystrike.github.io/chrome-tips/tab-suspender-pro-vs-auto-tab-discard)
+> **See also:** [Tab Suspender Pro vs Auto Tab Discard: 2026 Comparison](https://chrometipsguide.com/tab-suspender-pro-vs-auto-tab-discard)

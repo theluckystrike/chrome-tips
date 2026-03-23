@@ -95,6 +95,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Bulk Image Downloading](/chrome-tips/chrome-extensions-for-bulk-image-downloading)
-- [Chrome for Translation On Hover Extensions](/chrome-tips/chrome-for-translation-on-hover-extensions)
-- ['Chrome Recorder and DevTools: A Guide to Test Automation'](/chrome-tips/chrome-recorder-devtools-test-automation)
+- [Chrome Extensions for Bulk Image Downloading](/chrome-extensions-for-bulk-image-downloading)
+- [Chrome for Translation On Hover Extensions](/chrome-for-translation-on-hover-extensions)
+- ['Chrome Recorder and DevTools: A Guide to Test Automation'](/chrome-recorder-devtools-test-automation)

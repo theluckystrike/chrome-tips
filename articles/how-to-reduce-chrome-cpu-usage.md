@@ -66,7 +66,7 @@ Navigate to `chrome://discards/` to examine Chrome's internal tab discarding sys
 
 The page also reveals Chrome's scoring algorithm for tab importance. Tabs with active audio, recently used tabs, and pinned tabs receive higher scores and avoid discarding. Understanding these priorities helps you game the system by pinning truly important tabs that should never be suspended.
 
-However, relying on manual discarding becomes tedious during intensive browsing sessions. Check out [advanced Chrome optimization techniques](https://theluckystrike.github.io/chrome-tips/) for more comprehensive approaches to browser performance management.
+However, relying on manual discarding becomes tedious during intensive browsing sessions. Check out [advanced Chrome optimization techniques](https://chrometipsguide.com/) for more comprehensive approaches to browser performance management.
 
 ## Monitor Performance with Chrome Task Manager
 
@@ -90,7 +90,7 @@ Always close video tabs completely when you're finished watching. If you need to
 
 Browser extensions run continuously in the background regardless of which tabs are currently open or active. Some popular extensions consume more CPU than actual website content. Regularly audit your extension CPU usage through Chrome's Task Manager and consider whether each extension provides enough value to justify its resource consumption.
 
-[Chrome extension management strategies](https://theluckystrike.github.io/chrome-tips/) can help you identify which extensions are essential and which ones you can disable or replace with lighter alternatives.
+[Chrome extension management strategies](https://chrometipsguide.com/) can help you identify which extensions are essential and which ones you can disable or replace with lighter alternatives.
 
 ### Using Too Many Tab Management Extensions
 

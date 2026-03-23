@@ -99,6 +99,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Coupon Finder Automatic](/chrome-tips/chrome-extensions-for-coupon-finder-automatic)
-- [Chrome for Waze Web Tips](/chrome-tips/chrome-for-waze-web-tips)
-- [Chrome Remote Desktop Setup Guide](/chrome-tips/chrome-remote-desktop-setup-guide)
+- [Chrome Extensions for Coupon Finder Automatic](/chrome-extensions-for-coupon-finder-automatic)
+- [Chrome for Waze Web Tips](/chrome-for-waze-web-tips)
+- [Chrome Remote Desktop Setup Guide](/chrome-remote-desktop-setup-guide)

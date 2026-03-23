@@ -92,6 +92,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Discord](/chrome-tips/chrome-extensions-for-discord)
-- [Chrome for White Noise While Working](/chrome-tips/chrome-for-white-noise-while-working)
-- [How to Report a Malware Website in Chrome](/chrome-tips/chrome-report-malware-website-how-to)
+- [Chrome Extensions for Discord](/chrome-extensions-for-discord)
+- [Chrome for White Noise While Working](/chrome-for-white-noise-while-working)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)

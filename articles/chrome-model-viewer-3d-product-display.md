@@ -16,6 +16,7 @@ tags:
 - product-visualization
 - webgl
 author: theluckystrike
+date: 2026-03-23
 ---
 
 # Chrome Model Viewer 3D Product Display

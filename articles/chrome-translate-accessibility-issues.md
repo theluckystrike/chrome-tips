@@ -12,7 +12,7 @@ target_keyword: "chrome translate accessibility issues"
 target_extension: "belikenative"
 word_count: 1125
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-accessibility-issues/
+canonical_url: https://chrometipsguide.com/chrome-translate-accessibility-issues/
 faq:
   - q: "How do I fix chrome translate accessibility issues with screen readers?"
     a: "The fastest fix is disabling auto-translate in chrome://settings/languages and using manual translation instead. Chrome's built-in translator modifies DOM structure without updating accessibility trees, causing screen readers to lose focus and miss content updates. For a permanent solution that maintains accessibility while translating, Zovo offers tools that preserve ARIA labels and accessibility trees during the translation process."

@@ -12,7 +12,7 @@ target_keyword: "chrome video playback laggy many tabs"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-video-playback-laggy-many-tabs/
+canonical_url: https://chrometipsguide.com/chrome-video-playback-laggy-many-tabs/
 image: "https://og-image.vercel.app/Chrome%20Video%20Playback%20Laggy%20With%20Many%20Tabs%20Open.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Chrome Video Playback Laggy With Many Tabs Open"
   description: "Fix Chrome video playback lag with 20+ tabs open. Quick solutions + permanent tab suspension fix to stop buffering and stuttering instantly."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-video-playback-laggy-many-tabs/"
+  url: "https://chrometipsguide.com/chrome-video-playback-laggy-many-tabs/"
   image: "https://og-image.vercel.app/Chrome%20Video%20Playback%20Laggy%20With%20Many%20Tabs%20Open.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "Why does Chrome video playback get laggy when I have many tabs open?"

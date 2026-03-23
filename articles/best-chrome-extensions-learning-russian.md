@@ -87,7 +87,7 @@ Most free extensions also lack personalized learning features that track your vo
 
 BeLikeNative addresses these limitations by providing contextual explanations that help you understand Russian grammar patterns alongside vocabulary. The AI writing assistant catches common mistakes English speakers make when constructing Russian sentences, like incorrect case usage or improper verb aspect selection.
 
-As someone who maintains [browser productivity tools](https://theluckystrike.github.io/chrome-tips/), I've tested how different translation approaches affect learning retention. Simple dictionary lookups create dependency without building comprehension skills, while contextual explanations help you recognize patterns in future Russian encounters.
+As someone who maintains [browser productivity tools](https://chrometipsguide.com/), I've tested how different translation approaches affect learning retention. Simple dictionary lookups create dependency without building comprehension skills, while contextual explanations help you recognize patterns in future Russian encounters.
 
 The extension's learning analytics show which Russian grammatical concepts challenge you most, letting you focus study time on weak areas rather than reviewing vocabulary you already know. This targeted approach accelerates your progression from beginner phrases to complex Russian literature and news content.
 

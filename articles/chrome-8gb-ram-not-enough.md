@@ -12,7 +12,7 @@ target_keyword: "8gb ram not enough chrome"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-8gb-ram-not-enough/
+canonical_url: https://chrometipsguide.com/chrome-8gb-ram-not-enough/
 faq:
   - q: "How do I fix Chrome using too much RAM on my 8GB laptop?"
     a: "Enable automatic tab discarding by typing chrome://flags/#automatic-tab-discarding in your address bar and setting it to Enabled. This feature automatically suspends background tabs to free up memory without closing them. Restart Chrome and keep fewer than 15 tabs open at once to prevent the spinning wheel slowdown. Zovo recommends this as the fastest fix when 8gb ram not enough chrome becomes a problem."
@@ -79,7 +79,7 @@ Memory Saver shows a small refresh icon on suspended tabs. You can exclude speci
 
 ### Limit Extensions and Background Apps
 
-Review your extensions at `chrome://extensions/` and remove ones you haven't used recently. Each extension consumes memory even when not actively running. Keep only essential extensions like password managers and ad blockers. Consider using [web-based alternatives](https://theluckystrike.github.io/chrome-tips/) for tools like note-taking apps instead of browser extensions.
+Review your extensions at `chrome://extensions/` and remove ones you haven't used recently. Each extension consumes memory even when not actively running. Keep only essential extensions like password managers and ad blockers. Consider using [web-based alternatives](https://chrometipsguide.com/) for tools like note-taking apps instead of browser extensions.
 
 Check `chrome://settings/system` and disable "Continue running background apps when Chrome is closed" unless you need it for specific extensions or web apps that require persistent connections.
 
@@ -109,6 +109,6 @@ Not always. Chrome holds onto some process memory for faster tab reopening. You'
 
 Most of these settings are available in managed Chrome environments, but your IT administrator might have disabled `chrome://flags` access. The performance settings under `chrome://settings/performance` are usually available even in managed browsers.
 
-For more [advanced Chrome optimization techniques](https://theluckystrike.github.io/chrome-tips/), check out additional memory management strategies that work across different Chrome configurations.
+For more [advanced Chrome optimization techniques](https://chrometipsguide.com/), check out additional memory management strategies that work across different Chrome configurations.
 
 Built by Michael Lip — More tips at zovo.one

@@ -23,7 +23,7 @@ faq:
     a: "Yes, browser extensions significantly increase Chrome's memory footprint. Extensions run persistent background scripts consuming 50MB to 200MB each, even with zero active tabs. Popular extensions like password managers and ad blockers maintain constant server connections, raising baseline memory usage. Extensions with content scripts inject code into every webpage, creating additional overhead. Zovo suggests auditing extensions monthly and removing redundant ones."
   - q: "Does Chrome's site isolation feature use more memory?"
     a: "Yes, Chrome's site isolation feature increases memory usage by 15-20% compared to single-process browsers. This security measure prevents cross-site scripting attacks by giving Gmail, Google Drive, and Google Calendar dedicated process space even within the same domain. While it significantly improves security, the trade-off is higher baseline memory consumption. If memory is critical, you can disable site isolation in chrome://flags, though this reduces security protection."
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-high-memory-usage-fix/
+canonical_url: https://chrometipsguide.com/chrome-high-memory-usage-fix/
 ---
 
 If Chrome is consuming excessive memory, the fastest chrome high memory usage fix is enabling automatic tab discarding through `chrome://flags/#automatic-tab-discarding`. Chrome's multi-process architecture creates separate processes for each tab, extension, and plugin, which can quickly consume 4GB or more on systems with multiple tabs open. This article covers seven immediate fixes and permanent solutions to reduce Chrome's memory footprint without sacrificing browsing functionality.
@@ -81,7 +81,7 @@ Access `chrome://extensions/` and systematically disable extensions to identify 
 
 Password managers typically use 80-150MB while maintaining encrypted vault connections. Ad blockers consume 120-300MB depending on filter list complexity, with uBlock Origin generally using less memory than AdBlock Plus. Social media extensions and price comparison tools often leak memory during extended sessions, requiring periodic browser restarts to reset their consumption.
 
-Review your [extension management strategy](https://theluckystrike.github.io/chrome-tips/) to minimize memory overhead while preserving essential functionality. Consider switching to web-based alternatives for tools you only use occasionally, reducing the number of persistent background processes.
+Review your [extension management strategy](https://chrometipsguide.com/) to minimize memory overhead while preserving essential functionality. Consider switching to web-based alternatives for tools you only use occasionally, reducing the number of persistent background processes.
 
 ### Reset Chrome Flags and Clear Data
 
@@ -105,7 +105,7 @@ Bookmark frequently accessed but memory-heavy sites instead of keeping them perp
 
 Open Windows Task Manager or macOS Activity Monitor alongside Chrome's internal Task Manager to understand total system memory consumption. Chrome should not exceed 50% of available RAM for optimal system performance. When Chrome consumes over 4GB on 8GB systems, implement aggressive tab management or consider upgrading system memory.
 
-Set up [performance monitoring](https://theluckystrike.github.io/chrome-tips/) to track memory usage patterns over time. Record peak memory consumption during typical workflows to identify problematic websites or usage patterns that trigger excessive memory allocation.
+Set up [performance monitoring](https://chrometipsguide.com/) to track memory usage patterns over time. Record peak memory consumption during typical workflows to identify problematic websites or usage patterns that trigger excessive memory allocation.
 
 Consider browser alternatives like Firefox or Safari for specific tasks that consistently cause Chrome memory issues. Hybrid approaches using different browsers for different purposes can prevent any single browser from overwhelming system resources.
 

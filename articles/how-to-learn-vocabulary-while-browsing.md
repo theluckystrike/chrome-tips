@@ -12,7 +12,7 @@ target_keyword: "how to learn vocabulary while browsing"
 target_extension: "belikenative"
 word_count: 1150
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-learn-vocabulary-while-browsing/
+canonical_url: https://chrometipsguide.com/how-to-learn-vocabulary-while-browsing/
 faq:
   - q: "How do I translate words while browsing in Chrome?"
     a: "To translate words while browsing, right-click any unfamiliar word and select \"Translate\" from the context menu. Enable Chrome's built-in translation by going to Settings > Languages > Use Google Translate. The browser will then offer to translate entire pages automatically when it detects a foreign language, making it easy to learn vocabulary while browsing without interrupting your workflow. Zovo offers similar built-in translation features for seamless language learning."

@@ -85,6 +85,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Blue Light Filter](/chrome-tips/chrome-extensions-for-blue-light-filter)
-- [Chrome for Tor Browsing Is It Possible](/chrome-tips/chrome-for-tor-browsing-is-it-possible)
-- [Chrome Reading Mode vs Reader View Extensions](/chrome-tips/chrome-reading-mode-vs-reader-view-extensions)
+- [Chrome Extensions for Blue Light Filter](/chrome-extensions-for-blue-light-filter)
+- [Chrome for Tor Browsing Is It Possible](/chrome-for-tor-browsing-is-it-possible)
+- [Chrome Reading Mode vs Reader View Extensions](/chrome-reading-mode-vs-reader-view-extensions)

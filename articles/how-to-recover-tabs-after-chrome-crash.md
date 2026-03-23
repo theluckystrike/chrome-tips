@@ -12,7 +12,7 @@ target_keyword: "how to recover tabs after chrome crash"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-recover-tabs-after-chrome-crash/
+canonical_url: https://chrometipsguide.com/how-to-recover-tabs-after-chrome-crash/
 image: "https://og-image.vercel.app/How%20to%20Recover%20Tabs%20After%20a%20Chrome%20Crash.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "How to Recover Tabs After a Chrome Crash"
   description: "Learn how to recover tabs after Chrome crash with built-in features, keyboard shortcuts, and automated solutions for better tab management."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-recover-tabs-after-chrome-crash/"
+  url: "https://chrometipsguide.com/how-to-recover-tabs-after-chrome-crash/"
   image: "https://og-image.vercel.app/How%20to%20Recover%20Tabs%20After%20a%20Chrome%20Crash.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How do I recover tabs after a Chrome crash?"
@@ -119,7 +119,7 @@ Chrome's tab groups can complicate recovery because grouped tabs don't always re
 
 > The chrome.tabGroups API can be used to interact with the browser's tab grouping system, allowing extensions to modify and rearrange tab groups. Source: [chrome.tabGroups API](https://developer.chrome.com/docs/extensions/reference/api/tabGroups), 2026
 
-If you rely heavily on tab organization, consider using [bookmark folders](https://theluckystrike.github.io/chrome-tips/) for important tab collections that you might need to restore frequently after crashes or system restarts.
+If you rely heavily on tab organization, consider using [bookmark folders](https://chrometipsguide.com/) for important tab collections that you might need to restore frequently after crashes or system restarts.
 
 ## Skip the Manual Steps
 
@@ -135,6 +135,6 @@ In my testing across different crash scenarios, automated solutions consistently
 
 Chrome's tab management capabilities continue improving with each update, but crashes still happen due to memory issues, system conflicts, or extension problems. Having multiple recovery strategies ensures you can always get back to work quickly, whether you prefer manual control or automated backup solutions.
 
-For more advanced tab management techniques, check out [productivity extensions for power users](https://theluckystrike.github.io/chrome-tips/) and learn about [preventing tab-related crashes](https://theluckystrike.github.io/chrome-tips/) through proper browser maintenance.
+For more advanced tab management techniques, check out [productivity extensions for power users](https://chrometipsguide.com/) and learn about [preventing tab-related crashes](https://chrometipsguide.com/) through proper browser maintenance.
 
 Built by Michael Lip. More tips at zovo.one

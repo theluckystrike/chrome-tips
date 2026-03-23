@@ -12,7 +12,7 @@ target_keyword: "chrome translate not working fix"
 target_extension: "belikenative"
 word_count: 1280
 reading_time: 6
-canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-not-working-fix/"
+canonical_url: "https://chrometipsguide.com/chrome-translate-not-working-fix/"
 ---
 
 # Chrome Translate Not Working? Here's How to Fix It

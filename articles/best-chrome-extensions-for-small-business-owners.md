@@ -97,6 +97,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Email Tracking Read Receipts](/chrome-tips/chrome-extensions-for-email-tracking-read-receipts)
-- [Chrome for YouTube 4K Playback Settings](/chrome-tips/chrome-for-youtube-4k-playback-settings)
-- ['Chrome Responsive Design Mode: How to Use It Effectively'](/chrome-tips/chrome-responsive-design-mode-how-to-use)
+- [Chrome Extensions for Email Tracking Read Receipts](/chrome-extensions-for-email-tracking-read-receipts)
+- [Chrome for YouTube 4K Playback Settings](/chrome-for-youtube-4k-playback-settings)
+- ['Chrome Responsive Design Mode: How to Use It Effectively'](/chrome-responsive-design-mode-how-to-use)

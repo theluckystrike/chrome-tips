@@ -21,7 +21,7 @@ og:
   title: "How to Read Foreign Language Websites in Chrome"
   description: "Learn how to read foreign websites in Chrome using built-in translation tools and advanced extensions for seamless multilingual browsing."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-read-foreign-websites-in-chrome/"
+  url: "https://chrometipsguide.com/how-to-read-foreign-websites-in-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Read%20Foreign%20Language%20Websites%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How do I translate a foreign website in Chrome?"
@@ -54,7 +54,7 @@ If the right-click option doesn't appear, check your address bar for a small tra
 
 > "The Translator API allows you to translate text with AI models provided in the browser. The model is downloaded the first time a website uses this API." ,  [Translation with built-in AI - Chrome Translator API](https://developer.chrome.com/docs/ai/translator-api)
 
-For keyboard users, press Ctrl+Shift+T (Windows) or Cmd+Shift+T (Mac) to open the translate menu quickly. This shortcut works on pages that Chrome has already identified as containing foreign language content. The [Chrome productivity extensions guide](https://theluckystrike.github.io/chrome-tips/) covers additional keyboard shortcuts that speed up your workflow.
+For keyboard users, press Ctrl+Shift+T (Windows) or Cmd+Shift+T (Mac) to open the translate menu quickly. This shortcut works on pages that Chrome has already identified as containing foreign language content. The [Chrome productivity extensions guide](https://chrometipsguide.com/) covers additional keyboard shortcuts that speed up your workflow.
 
 ## Configure Automatic Translation Settings  
 
@@ -62,7 +62,7 @@ Navigate to Chrome's settings by typing `chrome://settings/languages` in your ad
 
 Toggle on "Offer to translate pages that aren't in a language you read" to make Chrome proactively suggest translations. When enabled, Chrome automatically displays a translation bar at the top of foreign language pages, reducing manual intervention by approximately 80% according to Google's usage analytics.
 
-Add languages to your preferred list by clicking "Add languages" and selecting from the comprehensive list of supported languages. Any content in these languages won't trigger translation offers, which proves useful when you're learning a language and want to practice reading original text. You can find more language customization tips in the [Chrome language settings guide](https://theluckystrike.github.io/chrome-tips/).
+Add languages to your preferred list by clicking "Add languages" and selecting from the comprehensive list of supported languages. Any content in these languages won't trigger translation offers, which proves useful when you're learning a language and want to practice reading original text. You can find more language customization tips in the [Chrome language settings guide](https://chrometipsguide.com/).
 
 Click the three dots next to any language in your list to configure whether Chrome should automatically translate pages in that specific language. This granular control lets you handle different languages differently based on your reading proficiency level.
 
@@ -78,7 +78,7 @@ Some websites actively block automatic translation through JavaScript or serve d
 
 > "The WebExtensions API has a module for internationalizing extensions: i18n, providing functions to retrieve localized strings from locale files bundled with your extension." ,  [Internationalization - WebExtensions - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Internationalization)
 
-For frequently visited foreign language sites, bookmark the translated versions. Chrome remembers your translation preferences and will automatically translate return visits to the same domain, creating a smoother experience for regular international content consumption. The [Chrome bookmark organization guide](https://theluckystrike.github.io/chrome-tips/) explains advanced bookmark management techniques.
+For frequently visited foreign language sites, bookmark the translated versions. Chrome remembers your translation preferences and will automatically translate return visits to the same domain, creating a smoother experience for regular international content consumption. The [Chrome bookmark organization guide](https://chrometipsguide.com/) explains advanced bookmark management techniques.
 
 ## Common Mistakes That Break Translation
 
@@ -92,7 +92,7 @@ Instead, use optical character recognition tools or manually transcribe visible 
 
 Chrome sometimes misidentifies the source language, particularly for languages sharing similar alphabets like Polish and Czech, or languages with overlapping character sets like Chinese and Japanese. If your translation produces completely nonsensical results, check that Chrome correctly identified the original language.
 
-Click the translation notification bar and manually select the correct source language from the dropdown menu. This simple fix resolves about 70% of translation quality issues on multilingual websites or pages containing mixed language content. The [Chrome debugging techniques guide](https://theluckystrike.github.io/chrome-tips/) covers more troubleshooting approaches.
+Click the translation notification bar and manually select the correct source language from the dropdown menu. This simple fix resolves about 70% of translation quality issues on multilingual websites or pages containing mixed language content. The [Chrome debugging techniques guide](https://chrometipsguide.com/) covers more troubleshooting approaches.
 
 ### Disabling JavaScript on Translation-Dependent Sites
 
@@ -104,7 +104,7 @@ If translation features aren't working and you use script blockers, temporarily 
 
 Machine translation prioritizes meaning over perfect grammar, often producing technically accurate but stylistically awkward sentences. Don't let imperfect phrasing distract you from extracting the core information you need. Focus on understanding main concepts rather than parsing every grammatical construction perfectly.
 
-Professional human translation typically costs $0.12 to $0.25 per word and takes days to complete, making instant browser translation a practical compromise for quick content consumption and research purposes. The [Chrome extension alternatives guide](https://theluckystrike.github.io/chrome-tips/) reviews other translation tools with different strengths.
+Professional human translation typically costs $0.12 to $0.25 per word and takes days to complete, making instant browser translation a practical compromise for quick content consumption and research purposes. The [Chrome extension alternatives guide](https://chrometipsguide.com/) reviews other translation tools with different strengths.
 
 ## Pro Tip: Skip the Manual Steps
 

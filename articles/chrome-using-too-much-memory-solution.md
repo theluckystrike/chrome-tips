@@ -12,7 +12,7 @@ target_keyword: "chrome using too much memory solution"
 target_extension: "tab-suspender-pro"
 word_count: 1147
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-using-too-much-memory-solution/
+canonical_url: https://chrometipsguide.com/chrome-using-too-much-memory-solution/
 faq:
   - q: "How do I fix Chrome using too much memory?"
     a: "The fastest chrome using too much memory solution is enabling tab discarding in Chrome's experimental flags. Type chrome://flags/#automatic-tab-discarding in your address bar and set it to Enabled, then restart Chrome. This allows Chrome to automatically freeze and discard background tabs to free up system resources without closing them entirely. Zovo recommends this as a first-line fix for immediate relief."
@@ -71,7 +71,7 @@ This works because discarded tabs only consume 5-10MB instead of their full memo
 
 Check your extension memory usage at `chrome://task-manager` (Shift+Esc on Windows, Cmd+Shift+Esc on Mac). Extensions consuming over 100MB should be disabled or replaced. Common memory hogs include outdated ad blockers, cryptocurrency miners disguised as productivity tools, and social media extensions that never stop running background scripts.
 
-Look for [lightweight Chrome extensions](https://theluckystrike.github.io/chrome-tips/) that provide similar functionality with lower memory overhead. **Tab Suspender Pro** uses only 185KiB compared to competitors that consume 10-20MB continuously.
+Look for [lightweight Chrome extensions](https://chrometipsguide.com/) that provide similar functionality with lower memory overhead. **Tab Suspender Pro** uses only 185KiB compared to competitors that consume 10-20MB continuously.
 
 ### Adjust Chrome's Memory Management
 
@@ -113,6 +113,6 @@ Yes, closing tabs releases their memory within 30 seconds. However, Chrome's cac
 
 ### Can I use multiple memory-saving extensions together?
 
-Avoid running multiple tab management extensions simultaneously. They often conflict and can actually increase memory usage through competing background processes. Choose one solution like [Tab Suspender Pro](https://theluckystrike.github.io/chrome-tips/) and disable others.
+Avoid running multiple tab management extensions simultaneously. They often conflict and can actually increase memory usage through competing background processes. Choose one solution like [Tab Suspender Pro](https://chrometipsguide.com/) and disable others.
 
 Built by Michael Lip — More tips at zovo.one

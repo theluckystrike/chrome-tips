@@ -73,8 +73,8 @@ A good largest contentful paint chrome fix requires attention to both server-sid
 
 ## Related Articles
 
-- [Chrome Web Vitals Explained Simply](/chrome-tips/chrome-web-vitals-explained-simply/)
-- [First Input Delay Chrome Optimize](/chrome-tips/first-input-delay-chrome-optimize/)
-- [Chrome Web Vitals Optimization Guide](/chrome-tips/chrome-web-vitals-optimization/)
+- [Chrome Web Vitals Explained Simply](/chrome-web-vitals-explained-simply/)
+- [First Input Delay Chrome Optimize](/first-input-delay-chrome-optimize/)
+- [Chrome Web Vitals Optimization Guide](/chrome-web-vitals-optimization/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

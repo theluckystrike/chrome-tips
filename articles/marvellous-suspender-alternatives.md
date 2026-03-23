@@ -12,7 +12,7 @@ target_keyword: "marvellous suspender alternatives"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/marvellous-suspender-alternatives/
+canonical_url: https://chrometipsguide.com/marvellous-suspender-alternatives/
 faq:
   - q: "What is the best alternative to Marvellous Suspender for memory savings?"
     a: "Tab Suspender Pro is the best overall alternative, using 60% less memory than Marvellous Suspender while adding smart suspension rules. It weighs only 185KiB compared to Marvellous Suspender's 2.3MB footprint, and earned a 4.9/5 rating from users who made the switch. The extension monitors actual system resources and automatically suspends tabs when your laptop's memory hits 80% capacity. At free with premium features for $4.99/month, Zovo considers it the top choice for anyone frustrated by Marvellous Suspender bloat."

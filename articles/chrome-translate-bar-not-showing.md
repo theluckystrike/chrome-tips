@@ -12,7 +12,7 @@ target_keyword: "chrome translate bar not showing"
 target_extension: "belikenative"
 word_count: 1210
 reading_time: 5
-canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-bar-not-showing/"
+canonical_url: "https://chrometipsguide.com/chrome-translate-bar-not-showing/"
 ---
 
 Chrome's translate bar disappears when the browser's language detection setting gets turned off, either by a Chrome update, a profile sync conflict, or an extension that overwrites the translation trigger. The fix takes about two minutes: open `chrome://settings/languages`, confirm the "Use Google Translate" toggle is on, restart Chrome, then visit any foreign-language page. That single change restores the bar for most users.

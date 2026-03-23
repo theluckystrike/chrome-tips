@@ -96,6 +96,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Blocking Distracting Websites](/chrome-tips/chrome-extensions-for-blocking-distracting-websites)
-- [Chrome for Todoist Web App Best Settings](/chrome-tips/chrome-for-todoist-web-app-best-settings)
-- [Chrome Reading Mode — How to Enable and Use It](/chrome-tips/chrome-reading-mode-how-to-enable)
+- [Chrome Extensions for Blocking Distracting Websites](/chrome-extensions-for-blocking-distracting-websites)
+- [Chrome for Todoist Web App Best Settings](/chrome-for-todoist-web-app-best-settings)
+- [Chrome Reading Mode — How to Enable and Use It](/chrome-reading-mode-how-to-enable)

@@ -24,7 +24,7 @@ Last tested: March 2026 | Chrome latest stable
 
 **Tab Suspender Pro** redefines tab management with surgical precision that puts you in complete control. Instead of Auto Tab Discard's broad suspension approach that treats all tabs equally, it targets specific tabs based on configurable rules while preserving your active work sessions and understanding context.
 
-Key features include smart domain whitelisting that learns from your browsing patterns over time, custom suspension timers ranging from 30 seconds to 24 hours for different use cases, automatic form data protection that prevents data loss mid-session, and integration with Chrome's native [tab grouping system](https://theluckystrike.github.io/chrome-tips/) to respect your organizational structure. The extension also offers manual suspension controls for immediate memory management and visual indicators that show suspension status at a glance.
+Key features include smart domain whitelisting that learns from your browsing patterns over time, custom suspension timers ranging from 30 seconds to 24 hours for different use cases, automatic form data protection that prevents data loss mid-session, and integration with Chrome's native [tab grouping system](https://chrometipsguide.com/) to respect your organizational structure. The extension also offers manual suspension controls for immediate memory management and visual indicators that show suspension status at a glance.
 
 Advanced users appreciate the URL pattern matching that goes beyond simple domain blocking, allowing suspension rules for specific pages or parameters. The extension handles streaming media intelligently, never suspending tabs with active audio or video content.
 
@@ -50,7 +50,7 @@ The downside is losing the immediate visual context of having actual tabs open i
 
 TGS Revived offers automatic suspension with customizable timers from 20 seconds to 3 days, visual indicators showing suspended tab status, and comprehensive whitelist management by domain, URL patterns, or even specific pages. The interface mirrors the original's beloved simplicity while adding modern security protections and performance improvements.
 
-The extension handles form data protection, audio detection for media tabs, and provides detailed suspension statistics. Users can manually suspend or restore tabs individually, and the extension integrates with Chrome's [bookmark management](https://theluckystrike.github.io/chrome-tips/) for easy organization.
+The extension handles form data protection, audio detection for media tabs, and provides detailed suspension statistics. Users can manually suspend or restore tabs individually, and the extension integrates with Chrome's [bookmark management](https://chrometipsguide.com/) for easy organization.
 
 Completely free and open-source with transparent development on GitHub. Best for users who loved the original Great Suspender experience and want familiar controls with modern security standards.
 
@@ -74,7 +74,7 @@ The limitation is exactly its strength: deliberately limited features. Power use
 
 This extension excels at creating named sessions for different projects, automatic crash recovery that saves your work even during browser failures, and cross-device session syncing for consistent experiences across computers. Instead of suspending tabs to save memory, Session Buddy closes them while preserving complete browsing sessions that restore instantly with all scroll positions and form data intact.
 
-The search functionality helps locate specific tabs across hundreds of saved sessions spanning months of work. Advanced features include session merging, duplicate tab detection, and export capabilities for backup purposes. Integration with Chrome's [session management](https://theluckystrike.github.io/chrome-tips/) provides additional recovery options.
+The search functionality helps locate specific tabs across hundreds of saved sessions spanning months of work. Advanced features include session merging, duplicate tab detection, and export capabilities for backup purposes. Integration with Chrome's [session management](https://chrometipsguide.com/) provides additional recovery options.
 
 Free with premium cloud sync options for cross-device access. Ideal for users who work on multiple projects simultaneously and need quick context switching between different browsing environments.
 
@@ -98,7 +98,7 @@ Auto Tab Discard's primary weakness is unpredictable suspension timing that inte
 
 The extension lacks sophisticated domain-specific rules and context awareness, forcing users into a reactive cycle of manually whitelisting sites after problems occur rather than preventing issues proactively. This approach frustrates users who need reliable protection for their regular workflows and applications.
 
-Auto Tab Discard's suspension logic also conflicts with Chrome's native [tab lifecycle management](https://theluckystrike.github.io/chrome-tips/), sometimes fighting against browser optimizations and causing unexpected behavior like double-suspension or failed restoration attempts that require manual intervention.
+Auto Tab Discard's suspension logic also conflicts with Chrome's native [tab lifecycle management](https://chrometipsguide.com/), sometimes fighting against browser optimizations and causing unexpected behavior like double-suspension or failed restoration attempts that require manual intervention.
 
 ## Bottom Line
 

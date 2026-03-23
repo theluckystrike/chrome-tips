@@ -21,9 +21,9 @@ og:
   title: "Chrome 'Not Enough Memory' Error: How to Solve It"
   description: "Fix Chrome's 'not enough memory' error with these proven solutions. Step-by-step guide to reclaim RAM and prevent browser crashes permanently."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-not-enough-memory-error/"
+  url: "https://chrometipsguide.com/chrome-not-enough-memory-error/"
   image: "https://og-image.vercel.app/Chrome%20%27Not%20Enough%20Memory%27%20Error%3A%20How%20to%20Solve%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-not-enough-memory-error/
+canonical_url: https://chrometipsguide.com/chrome-not-enough-memory-error/
 faq:
   - q: "How do I fix Chrome not enough memory error?"
     a: "Close unused tabs immediately and restart your browser, then enable tab discarding in chrome://flags/#automatic-tab-discarding to prevent future crashes. This chrome not enough memory error happens when Chrome's processes exceed your system's available RAM, typically around 8GB on most machines. For a permanent solution, consider using a tab management tool like Zovo to automatically suspend inactive tabs and free up memory."

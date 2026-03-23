@@ -81,9 +81,9 @@ Using tools like Tab Suspender Pro can automate tab management and significantly
 
 ## Related Articles
 
-- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer/)
-- [How to Make Chrome Faster on an Old Computer](/chrome-tips/how-to-make-chrome-faster-on-old-computer/)
-- [Best Browser for Low RAM Computer 2026](/chrome-tips/best-browser-for-low-ram-computer-2026/)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer/)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer/)
+- [Best Browser for Low RAM Computer 2026](/best-browser-for-low-ram-computer-2026/)
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

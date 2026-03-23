@@ -21,9 +21,9 @@ og:
   title: "Chrome Uses All Available RAM: How to Reclaim Memory"
   description: "Chrome consuming all your RAM? Learn the fastest chrome uses all ram fix with manual solutions and permanent tab management tools that work."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-uses-all-ram-fix/"
+  url: "https://chrometipsguide.com/chrome-uses-all-ram-fix/"
   image: "https://og-image.vercel.app/Chrome%20Uses%20All%20Available%20RAM%3A%20How%20to%20Reclaim%20Memory.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-uses-all-ram-fix/
+canonical_url: https://chrometipsguide.com/chrome-uses-all-ram-fix/
 faq:
   - q: "How do I fix Chrome using all my RAM?"
     a: "Enable Memory Saver mode by typing chrome://settings/performance in your address bar and toggling it on. This automatically discards inactive tabs when your system runs low on memory. For immediate relief, close unnecessary tabs with Ctrl+W (Windows) or Cmd+W (Mac), then restart Chrome completely using Ctrl+Shift+Q (Windows) or Cmd+Q (Mac). Zovo recommends this as the fastest chrome uses all ram fix."

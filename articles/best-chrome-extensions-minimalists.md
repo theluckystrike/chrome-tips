@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions minimalists"
 target_extension: "tab-suspender-pro"
 word_count: 1087
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-minimalists/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-minimalists/
 image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Browser%20Minimalists.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Best Chrome Extensions for Browser Minimalists"
   description: "Discover the 7 best chrome extensions minimalists love for clean browsing. Boost productivity with lightweight tools that respect your minimal setup."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-minimalists/"
+  url: "https://chrometipsguide.com/best-chrome-extensions-minimalists/"
   image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Browser%20Minimalists.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What are the best chrome extensions for minimalists?"
@@ -164,4 +164,4 @@ Tab Suspender Pro wins because it delivers the biggest impact—memory savings u
 ---
 
 Built by Michael Lip — More tips at zovo.one
-> **See also:** [JSON Formatter Pro vs JSON Viewer: Which Is Better in 2026?](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-json-viewer)
+> **See also:** [JSON Formatter Pro vs JSON Viewer: Which Is Better in 2026?](https://chrometipsguide.com/json-formatter-pro-vs-json-viewer)

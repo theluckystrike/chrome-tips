@@ -12,7 +12,7 @@ target_keyword: "json formatter pro vs swagger ui"
 target_extension: "json-formatter-pro"
 word_count: 1100
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-swagger-ui/
+canonical_url: https://chrometipsguide.com/json-formatter-pro-vs-swagger-ui/
 ---
 
 **JSON Formatter Pro** and **Swagger UI** serve distinct purposes in API development. JSON Formatter Pro is a Chrome extension that formats raw JSON responses for readability. Swagger UI is an interactive API documentation interface built from OpenAPI specifications. The json formatter pro vs swagger ui comparison is really about whether you're working with API documentation or with raw API responses.

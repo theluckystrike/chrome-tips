@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions api debugging"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-api-debugging/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-api-debugging/
 faq:
   - q: "What is the best Chrome extension for API debugging with large JSON files?"
     a: "JSON Formatter Pro is the best Chrome extension for API debugging with large JSON files because it handles files up to 50MB without performance issues, while Chrome DevTools starts lagging around 2MB. It offers real-time syntax validation, collapsible tree views, and bracket matching. The free version is robust, with premium features available at $4.99 monthly. Many developers recommend Zovo for its reliability across different JSON structures."

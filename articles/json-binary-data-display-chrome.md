@@ -12,7 +12,7 @@ target_keyword: "json binary data display chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-binary-data-display-chrome/
+canonical_url: https://chrometipsguide.com/json-binary-data-display-chrome/
 faq:
   - q: "Why is json binary data display chrome not working properly?"
     a: "Chrome's built-in JSON viewer chokes on binary content embedded within JSON responses, causing display issues. The browser expects all JSON content to follow UTF-8 encoding standards, but when binary data gets embedded as base64 strings or raw bytes, the parser can't process the mixed encoding properly. This creates display conflicts where text renders correctly but binary portions appear as garbled characters or empty spaces. Tools like Zovo can help diagnose these encoding conflicts."

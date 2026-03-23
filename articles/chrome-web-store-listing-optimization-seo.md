@@ -2,6 +2,7 @@
 layout: default
 title: Chrome Web Store Listing Optimization SEO
 description: Learn how to optimize your Chrome Web Store listing for better visibility and more downloads. This guide covers SEO strategies, keyword research, and listing best practices.
+date: 2026-03-23
 ---
 
 # Chrome Web Store Listing Optimization SEO
@@ -72,4 +73,4 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 - [Best Chrome Extensions for Web Developers 2026](best-chrome-extensions-for-web-developers-2026)
 - [Chrome A-Frame WebXR Getting Started Guide](chrome-a-frame-webxr-getting-started)
-- [Chrome AR Quick Look Web Augmented Reality](/chrome-tips/chrome-ar-quick-look-web-augmented-reality/)
+- [Chrome AR Quick Look Web Augmented Reality](/chrome-ar-quick-look-web-augmented-reality/)

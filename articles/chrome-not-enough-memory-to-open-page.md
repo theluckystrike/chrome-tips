@@ -5,6 +5,7 @@ description: Getting chrome not enough memory to open page? Learn proven solutio
   to fix this error and prevent Chrome from running out of memory when loading websites.
 permalink: chrome-not-enough-memory-to-open-page
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # Chrome Not Enough Memory to Open Page Fix
 

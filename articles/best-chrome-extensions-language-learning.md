@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions language learning"
 target_extension: "belikenative"
 word_count: 1,247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-language-learning/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-language-learning/
 faq:
   - q: "What is the best chrome extension for language learning in 2026?"
     a: "After testing 23 extensions over six months, BeLikeNative stands out as the best chrome extension for language learning in 2026. It combines AI-powered writing assistance with real-time translation and contextual learning that adapts to your skill level. The extension offers intelligent rewriting suggestions that go beyond basic grammar checking to address tone, formality, and cultural context. With a 4.6-star rating and support for 12 languages, it's the top recommendation from Zovo for serious learners seeking measurable improvement."
@@ -33,7 +33,7 @@ og:
   title: "Best Chrome Extensions for Language Learning in 2026"
   description: "Discover the 6 best Chrome extensions for language learning, tested and ranked by features, accuracy, and ease of use for faster fluency."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-language-learning/"
+  url: "https://chrometipsguide.com/best-chrome-extensions-language-learning/"
   image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Language%20Learning%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
@@ -131,4 +131,4 @@ The real advantage comes from the feedback quality. Instead of marking something
 Advanced learners benefit from the style suggestions that help them match their writing to professional or academic contexts. The extension recognizes when you're writing formally versus casually and adjusts its recommendations accordingly. This level of sophistication is typically only available through expensive tutoring or language coaching.
 
 Built by Michael Lip. More tips at [zovo.one](https://zovo.one).
-> **See also:** [JSON Formatter Pro vs JSON Hero: Which Is Better in 2026?](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-json-hero)
+> **See also:** [JSON Formatter Pro vs JSON Hero: Which Is Better in 2026?](https://chrometipsguide.com/json-formatter-pro-vs-json-hero)

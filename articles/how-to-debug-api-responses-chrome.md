@@ -12,7 +12,7 @@ target_keyword: "how to debug api responses chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-debug-api-responses-chrome/
+canonical_url: https://chrometipsguide.com/how-to-debug-api-responses-chrome/
 internal_links_added: true
 faq:
   - q: "How do I debug API responses in Chrome like a pro?"
@@ -56,7 +56,7 @@ Click on your specific request to open the detailed view. This splits the panel 
 
 The Response tab shows exactly what the server sent back. For JSON APIs, you'll see the raw response data. If the response looks garbled or cut off, there's likely a parsing error or incomplete data.
 
-Switch to the Headers tab to see request and response headers. Check the `Content-Type` header to confirm you're getting JSON (`application/json`). Look at response headers for cache settings, authentication tokens, or error messages the server included. Understanding how Chrome's [back forward cache](/chrome-tips/chrome-back-forward-cache-explained) works can help you diagnose caching-related issues that affect API debugging.
+Switch to the Headers tab to see request and response headers. Check the `Content-Type` header to confirm you're getting JSON (`application/json`). Look at response headers for cache settings, authentication tokens, or error messages the server included. Understanding how Chrome's [back forward cache](/chrome-back-forward-cache-explained) works can help you diagnose caching-related issues that affect API debugging.
 
 The Preview tab attempts to format JSON responses in a readable tree structure. This works well for properly formatted JSON but fails if the response contains syntax errors or isn't valid JSON.
 

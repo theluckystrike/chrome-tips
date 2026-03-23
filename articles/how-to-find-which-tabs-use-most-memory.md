@@ -12,7 +12,7 @@ target_keyword: "how to find which chrome tabs use most memory"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-find-which-tabs-use-most-memory/
+canonical_url: https://chrometipsguide.com/how-to-find-which-tabs-use-most-memory/
 ---
 
 Your browser starts crawling to a halt with 20+ tabs open. To solve this problem, you need to know **how to find which chrome tabs use most memory** so you can close the real culprits instead of randomly shutting tabs. Chrome includes a built-in Task Manager that reveals exactly which tabs consume the most RAM, and checking it takes less than 30 seconds.

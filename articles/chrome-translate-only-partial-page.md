@@ -12,7 +12,7 @@ target_keyword: "chrome translate only partial page"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-only-partial-page/
+canonical_url: https://chrometipsguide.com/chrome-translate-only-partial-page/
 faq:
   - q: "Why does Chrome only translate part of the page instead of the whole thing?"
     a: "Chrome's translation system has a 50MB memory buffer limit per tab, which causes partial translations when exceeded. The browser allocates this fixed buffer for translation processing, and when pages contain heavy JavaScript frameworks like React or Angular, or extensive content blocks, the translator simply stops mid-process. E-commerce sites with hundreds of reviews and embedded widgets routinely trigger this limit, leaving sections untranslated. Zovo recommends clearing translation cache in chrome://settings/languages to resolve memory conflicts."

@@ -112,7 +112,7 @@ The extension runs entirely within your browser, so your data never leaves your 
 
 **[Try JSON Formatter Pro Free](https://zovo.one)**
 
-You can also explore other [Chrome productivity extensions for web app setups](/chrome-tips/chrome-for-anydo-web-app-setup) to streamline your entire data workflow. For complex data transformation tasks, consider [learning advanced Chrome DevTools techniques](https://theluckystrike.github.io/chrome-tips/) that go beyond basic JSON conversion.
+You can also explore other [Chrome productivity extensions for web app setups](/chrome-for-anydo-web-app-setup) to streamline your entire data workflow. For complex data transformation tasks, consider [learning advanced Chrome DevTools techniques](https://chrometipsguide.com/) that go beyond basic JSON conversion.
 
 Converting JSON to CSV in Chrome gives you immediate access to your data without installing additional software or uploading files to third-party services. Whether you use the manual Developer Tools method or automate with browser extensions, you'll have spreadsheet-ready data in under five minutes.
 

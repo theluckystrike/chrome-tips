@@ -92,6 +92,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Etsy Sellers](/chrome-tips/chrome-extensions-for-etsy-sellers)
-- [Chrome for Zen Mode Extensions](/chrome-tips/chrome-for-zen-mode-extensions)
-- [Chrome Restore Previous Session After Crash](/chrome-tips/chrome-restore-previous-session-after-crash)
+- [Chrome Extensions for Etsy Sellers](/chrome-extensions-for-etsy-sellers)
+- [Chrome for Zen Mode Extensions](/chrome-for-zen-mode-extensions)
+- [Chrome Restore Previous Session After Crash](/chrome-restore-previous-session-after-crash)

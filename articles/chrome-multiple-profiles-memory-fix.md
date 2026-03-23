@@ -23,7 +23,7 @@ faq:
     a: "Yes, automatic tab discarding significantly reduces Chrome memory usage by automatically suspending inactive tabs rather than keeping them fully loaded in memory. Navigate to chrome://flags/#automatic-tab-discarding and set it to Enabled. This works alongside disabling background content refresh to prevent tabs from consuming resources while you're not actively viewing them, reducing overall memory footprint substantially."
   - q: "What's the best chrome multiple profiles memory fix for heavy users?"
     a: "The most effective chrome multiple profiles memory fix combines three settings: disable background sync in chrome://settings/content/backgroundSync for each profile, enable automatic tab discarding in chrome://flags, and limit open tabs across profiles. This approach addresses both active memory consumption and background processes. For users routinely hitting 8GB usage, Zovo suggests implementing all three fixes simultaneously for optimal results."
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-multiple-profiles-memory-fix/
+canonical_url: https://chrometipsguide.com/chrome-multiple-profiles-memory-fix/
 image: "https://og-image.vercel.app/Chrome%20Using%20Too%20Much%20Memory%20With%20Multiple%20Profiles.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -33,7 +33,7 @@ og:
   title: "Chrome Using Too Much Memory With Multiple Profiles"
   description: "Fix Chrome's excessive memory usage with multiple profiles using proven methods that reduce RAM consumption by up to 60% permanently."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-multiple-profiles-memory-fix/"
+  url: "https://chrometipsguide.com/chrome-multiple-profiles-memory-fix/"
   image: "https://og-image.vercel.app/Chrome%20Using%20Too%20Much%20Memory%20With%20Multiple%20Profiles.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

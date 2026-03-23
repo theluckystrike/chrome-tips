@@ -21,7 +21,7 @@ og:
   title: "Chrome Not Translating Embedded Frames and Iframes Fix"
   description: "Fix Chrome's translation issues with embedded frames and iframes using proven troubleshooting methods and permanent solutions that actually work."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-embedded-frames-fix/"
+  url: "https://chrometipsguide.com/chrome-translate-embedded-frames-fix/"
   image: "https://og-image.vercel.app/Chrome%20Not%20Translating%20Embedded%20Frames%20and%20Iframes%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

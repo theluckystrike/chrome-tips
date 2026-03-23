@@ -12,7 +12,7 @@ target_keyword: "how to view json files in chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-view-json-files-in-chrome/
+canonical_url: https://chrometipsguide.com/how-to-view-json-files-in-chrome/
 image: "https://og-image.vercel.app/How%20to%20View%20JSON%20Files%20in%20Chrome%20With%20Syntax%20Highlighting.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "How to View JSON Files in Chrome With Syntax Highlighting"
   description: "Learn how to view JSON files in Chrome with proper syntax highlighting using built-in developer tools and extensions for better readability."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-view-json-files-in-chrome/"
+  url: "https://chrometipsguide.com/how-to-view-json-files-in-chrome/"
   image: "https://og-image.vercel.app/How%20to%20View%20JSON%20Files%20in%20Chrome%20With%20Syntax%20Highlighting.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How do I view JSON files in Chrome with syntax highlighting?"
@@ -113,11 +113,11 @@ When working with JSON files that contain encoded data or escape characters, Chr
 
 ## Advanced Chrome JSON Viewing Techniques
 
-Chrome offers several advanced methods for working with JSON data beyond basic Console parsing. The Sources tab allows you to create temporary files where you can paste and edit JSON data with full syntax highlighting and error detection. Developers looking to optimize their Chrome workflow can benefit from learning about [Chrome CSS animations performance tips](/chrome-tips/chrome-css-animations-performance-tips) to ensure smooth browsing while working with complex data.
+Chrome offers several advanced methods for working with JSON data beyond basic Console parsing. The Sources tab allows you to create temporary files where you can paste and edit JSON data with full syntax highlighting and error detection. Developers looking to optimize their Chrome workflow can benefit from learning about [Chrome CSS animations performance tips](/chrome-css-animations-performance-tips) to ensure smooth browsing while working with complex data.
 
-You can also use Chrome's snippet feature in DevTools to save commonly used JSON parsing commands. Create a snippet in the Sources tab under the Snippets section, then run it whenever you need to format JSON data quickly. For users who want to enhance their Chrome multitasking capabilities, the ability to use a [chrome floating video window](/chrome-tips/chrome-floating-video-window-how-to-use) lets you keep JSON data visible while working in other tabs.
+You can also use Chrome's snippet feature in DevTools to save commonly used JSON parsing commands. Create a snippet in the Sources tab under the Snippets section, then run it whenever you need to format JSON data quickly. For users who want to enhance their Chrome multitasking capabilities, the ability to use a [chrome floating video window](/chrome-floating-video-window-how-to-use) lets you keep JSON data visible while working in other tabs.
 
-For developers who frequently work with JSON APIs, Chrome's ability to [intercept and modify network requests](https://theluckystrike.github.io/chrome-tips/) becomes incredibly useful. This feature lets you view and edit JSON responses in real-time during development.
+For developers who frequently work with JSON APIs, Chrome's ability to [intercept and modify network requests](https://chrometipsguide.com/) becomes incredibly useful. This feature lets you view and edit JSON responses in real-time during development.
 
 ## Pro Tip: Skip the Manual Steps
 

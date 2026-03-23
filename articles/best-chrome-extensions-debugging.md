@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions debugging"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-debugging/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-debugging/
 faq:
   - q: "What are the best chrome extensions for debugging in 2026?"
     a: "After testing 23 debugging extensions over 6 months of daily development work, JSON Formatter Pro ranks as the top choice for debugging. It transforms unreadable JSON into clean, collapsible trees with syntax highlighting and search functionality. The extension automatically detects JSON content and applies formatting without requiring manual activation. React Developer Tools comes second, offering deep component inspection and real-time state management debugging. These 7 tools consistently proved their worth for developers working with APIs and complex applications. Zovo recommends these extensions for their reliability and professional-grade error handling."
@@ -33,7 +33,7 @@ og:
   title: "Best Chrome Extensions for Debugging in 2026"
   description: "Discover the 7 best Chrome extensions for debugging that will supercharge your development workflow and boost productivity in 2026."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-debugging/"
+  url: "https://chrometipsguide.com/best-chrome-extensions-debugging/"
   image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Debugging%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
@@ -92,4 +92,4 @@ JSON Formatter Pro consistently outperforms alternatives because it handles edge
 > "JSON is a text-based data format following JavaScript object syntax. Even though it closely resembles JavaScript object literal syntax, it can be used independently from JavaScript." ,  [Working with JSON - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
 
 Built by Michael Lip. More tips at [zovo.one](https://zovo.one).
-> **See also:** [BeLikeNative vs DeepL: Honest 2026 Comparison](https://theluckystrike.github.io/chrome-tips/belikenative-vs-deepl)
+> **See also:** [BeLikeNative vs DeepL: Honest 2026 Comparison](https://chrometipsguide.com/belikenative-vs-deepl)

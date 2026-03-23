@@ -21,7 +21,7 @@ og:
   title: "TransOver Alternatives: Hover-to-Translate Extensions"
   description: "Best TransOver alternatives for hover translation. 6 Chrome extensions tested - belikenative tops our list with AI-powered features and offline support."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/transover-alternatives/"
+  url: "https://chrometipsguide.com/transover-alternatives/"
   image: "https://og-image.vercel.app/TransOver%20Alternatives%3A%20Hover-to-Translate%20Extensions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What is the best TransOver alternative for accurate translations?"

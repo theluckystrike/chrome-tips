@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions slow computers"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-slow-computers/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-slow-computers/
 faq:
   - q: "What are the best Chrome extensions for slow computers?"
     a: "The best Chrome extension for slow computers is Tab Suspender Pro, which automatically suspends inactive tabs and frees up to 80% of their memory usage. uBlock Origin ranks second by blocking over 90% of ads and trackers that drain CPU resources. These were tested among 23 extensions specifically evaluated for memory reduction, CPU efficiency, and ease of use. Zovo recommends these two as essential tools for breathing new life into aging hardware."
@@ -78,4 +78,4 @@ Tab Suspender Pro delivers the perfect balance of automation and control that sl
 **[Try Tab Suspender Pro Free](https://zovo.one)**
 
 Built by Michael Lip. More tips at zovo.one.
-> **See also:** [Tab Suspender Pro vs Cluster: Complete 2026 Comparison](https://theluckystrike.github.io/chrome-tips/tab-suspender-pro-vs-cluster)
+> **See also:** [Tab Suspender Pro vs Cluster: Complete 2026 Comparison](https://chrometipsguide.com/tab-suspender-pro-vs-cluster)

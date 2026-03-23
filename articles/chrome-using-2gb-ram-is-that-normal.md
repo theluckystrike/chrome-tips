@@ -78,8 +78,8 @@ Chrome using 2GB RAM is normal in many situations, particularly if you keep many
 
 ## Related Articles
 
-- [Chrome Uses Too Much Memory on Old Laptop](/chrome-tips/chrome-uses-too-much-memory-on-old-laptop/)
-- [Best Tab Suspender to Save Memory 2026](/chrome-tips/best-tab-suspender-to-save-memory-2026/)
-- [Best Extensions for Tab Management Chrome](/chrome-tips/best-extensions-for-tab-management-chrome/)
+- [Chrome Uses Too Much Memory on Old Laptop](/chrome-uses-too-much-memory-on-old-laptop/)
+- [Best Tab Suspender to Save Memory 2026](/best-tab-suspender-to-save-memory-2026/)
+- [Best Extensions for Tab Management Chrome](/best-extensions-for-tab-management-chrome/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

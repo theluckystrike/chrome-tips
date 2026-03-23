@@ -12,7 +12,7 @@ target_keyword: "toucan extension alternatives"
 target_extension: "belikenative"
 word_count: 1287
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/toucan-extension-alternatives/
+canonical_url: https://chrometipsguide.com/toucan-extension-alternatives/
 faq:
   - q: "What are the best toucan extension alternatives for immersive language learning?"
     a: "BeLikeNative stands out as the best overall translation assistant among toucan extension alternatives, offering AI-powered translation for 40+ languages with contextual accuracy. Unlike Toucan's problematic text replacement that breaks website layouts, BeLikeNative translates selected text with one click without disrupting page functionality. The free tier handles most needs, with premium features at $9.99/month. For those exploring other options, Zovo provides another solid choice for seamless multilingual browsing."
@@ -106,7 +106,7 @@ Modern translation extensions avoid these problems by offering non-intrusive tra
 
 When choosing alternatives, prioritize tools that maintain website functionality while delivering accurate translations. The extensions listed here represent the current best options for different use cases, from professional translation work to casual language learning.
 
-For developers building their own [Chrome extension translation features](https://theluckystrike.github.io/chrome-tips/), the Chrome APIs provide robust internationalization support that these commercial extensions build upon.
+For developers building their own [Chrome extension translation features](https://chrometipsguide.com/), the Chrome APIs provide robust internationalization support that these commercial extensions build upon.
 
 ## Bottom Line
 

@@ -98,6 +98,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Canva Companion](/chrome-tips/chrome-extensions-for-canva-companion)
-- ['Chrome for Travel Planning: Best Extensions'](/chrome-tips/chrome-for-travel-planning-best-extensions)
-- [Chrome Recorder Panel How To Record User Flows](/chrome-tips/chrome-recorder-panel-how-to-record-user-flows)
+- [Chrome Extensions for Canva Companion](/chrome-extensions-for-canva-companion)
+- ['Chrome for Travel Planning: Best Extensions'](/chrome-for-travel-planning-best-extensions)
+- [Chrome Recorder Panel How To Record User Flows](/chrome-recorder-panel-how-to-record-user-flows)

@@ -12,7 +12,7 @@ target_keyword: "how to test api endpoints chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-test-api-endpoints-chrome/
+canonical_url: https://chrometipsguide.com/how-to-test-api-endpoints-chrome/
 image: "https://og-image.vercel.app/How%20to%20Test%20API%20Endpoints%20Directly%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "How to Test API Endpoints Directly in Chrome"
   description: "Learn how to test API endpoints directly in Chrome browser using built-in developer tools, plus a powerful extension for automated JSON formatting."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-test-api-endpoints-chrome/"
+  url: "https://chrometipsguide.com/how-to-test-api-endpoints-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Test%20API%20Endpoints%20Directly%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

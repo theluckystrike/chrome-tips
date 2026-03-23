@@ -12,7 +12,7 @@ target_keyword: "chrome lag switching tabs fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-lag-when-switching-tabs/
+canonical_url: https://chrometipsguide.com/chrome-lag-when-switching-tabs/
 faq:
   - q: "How do I fix Chrome lag when switching tabs?"
     a: "The fastest chrome lag switching tabs fix is disabling hardware acceleration in Chrome settings. Go to Settings > Advanced > System and turn off 'Use hardware acceleration when available,' then restart Chrome. This prevents your GPU from being overwhelmed by Chrome's process-per-tab architecture. For better performance, also close unused tabs and use keyboard shortcuts like Ctrl+Shift+T to restore closed tabs instead of keeping dozens open."
@@ -33,7 +33,7 @@ og:
   title: "Chrome Lags When Switching Tabs: How to Fix the Delay"
   description: "Fix Chrome lag when switching tabs with these proven solutions. Instant fixes plus permanent tab management solutions that actually work."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-lag-when-switching-tabs/"
+  url: "https://chrometipsguide.com/chrome-lag-when-switching-tabs/"
   image: "https://og-image.vercel.app/Chrome%20Lags%20When%20Switching%20Tabs%3A%20How%20to%20Fix%20the%20Delay.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

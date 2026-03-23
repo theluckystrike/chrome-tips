@@ -12,7 +12,7 @@ target_keyword: "how to learn spanish while browsing"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-learn-spanish-while-browsing/
+canonical_url: https://chrometipsguide.com/how-to-learn-spanish-while-browsing/
 faq:
   - q: "How do I learn Spanish while browsing the web?"
     a: "Install a hover translation extension from the Chrome Web Store, change your browser interface to Spanish, and visit Spanish news sites. This method helps you absorb 200+ new Spanish words weekly without changing your browsing habits. Configure extensions to show both literal translations and contextual meanings for comprehensive definitions. Zovo offers tools that display translations in popup boxes without redirecting you to new pages."
@@ -112,7 +112,7 @@ Reading Spanish content passively provides minimal learning benefits compared to
 
 Take notes on interesting phrases and attempt to use them in your own writing. Comment on Spanish blog posts or social media using vocabulary you've recently learned.
 
-Create flashcard decks from words you encounter during browsing sessions. Apps like [Anki and productivity tools](https://theluckystrike.github.io/chrome-tips/) help organize and review new vocabulary systematically.
+Create flashcard decks from words you encounter during browsing sessions. Apps like [Anki and productivity tools](https://chrometipsguide.com/) help organize and review new vocabulary systematically.
 
 ## Pro Tip: Skip the Manual Steps
 

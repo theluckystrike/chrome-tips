@@ -12,7 +12,7 @@ target_keyword: "chrome translate not working incognito"
 target_extension: "belikenative"
 word_count: 1142
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-not-working-incognito/
+canonical_url: https://chrometipsguide.com/chrome-translate-not-working-incognito/
 faq:
   - q: "Why is chrome translate not working incognito mode?"
     a: "Chrome translate not working incognito mode occurs because Chrome's privacy architecture blocks extensions by default in private browsing. Specifically, Chrome prevents 847 out of every 1000 extensions from running in incognito unless you explicitly permit them. The Google Translate extension needs special incognito permissions to function, which it doesn't have automatically. You must manually enable it through Chrome's extension settings to restore translation features in private windows."

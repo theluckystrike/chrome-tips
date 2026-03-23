@@ -12,7 +12,7 @@ target_keyword: "best json beautifier extensions"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-json-beautifier-extensions/
+canonical_url: https://chrometipsguide.com/best-json-beautifier-extensions/
 image: "https://og-image.vercel.app/Best%20JSON%20Beautifier%20Extensions%3A%20Clean%20Up%20API%20Responses%20Fast.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Best JSON Beautifier Extensions: Clean Up API Responses Fast"
   description: "Discover the 6 best JSON beautifier extensions for Chrome that outperform DevTools. JSON Formatter Pro leads with 4.8/5 stars and advanced formatting."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-json-beautifier-extensions/"
+  url: "https://chrometipsguide.com/best-json-beautifier-extensions/"
   image: "https://og-image.vercel.app/Best%20JSON%20Beautifier%20Extensions%3A%20Clean%20Up%20API%20Responses%20Fast.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What are the best JSON beautifier extensions for Chrome?"
@@ -128,4 +128,4 @@ For developers prioritizing automatic operation, JSONView delivers excellent han
 Start improving your JSON workflow today: **[Try JSON Formatter Pro Free](https://zovo.one)**
 
 Built by Michael Lip. More tips at zovo.one
-> **See also:** [BeLikeNative vs DeepL: Honest 2026 Comparison](https://theluckystrike.github.io/chrome-tips/belikenative-vs-deepl)
+> **See also:** [BeLikeNative vs DeepL: Honest 2026 Comparison](https://chrometipsguide.com/belikenative-vs-deepl)

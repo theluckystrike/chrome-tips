@@ -12,7 +12,7 @@ target_keyword: "chrome swap memory fix"
 target_extension: "tab-suspender-pro"
 word_count: 1127
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-swap-memory-fix/
+canonical_url: https://chrometipsguide.com/chrome-swap-memory-fix/
 faq:
   - q: "How do I fix Chrome using too much swap memory?"
     a: "To apply the chrome swap memory fix, enable Memory Saver in Chrome Settings > Performance and enable Automatic tab discarding in chrome://flags. This immediately reduces memory usage by suspending inactive tabs. Chrome's process-per-tab architecture uses 50-100MB per tab before loading content, so with 20 tabs open you're using 1-2GB just for browser processes. Zovo recommends restarting Chrome after making these changes."
@@ -33,7 +33,7 @@ og:
   title: "Chrome Causing Swap Memory Usage: How to Fix It"
   description: "Fix Chrome swap memory issues with proven solutions. Reduce RAM usage and prevent browser crashes with our chrome swap memory fix guide."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-swap-memory-fix/"
+  url: "https://chrometipsguide.com/chrome-swap-memory-fix/"
   image: "https://og-image.vercel.app/Chrome%20Causing%20Swap%20Memory%20Usage%3A%20How%20to%20Fix%20It.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

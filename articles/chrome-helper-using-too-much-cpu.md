@@ -12,7 +12,7 @@ target_keyword: "chrome helper using too much cpu"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-helper-using-too-much-cpu/
+canonical_url: https://chrometipsguide.com/chrome-helper-using-too-much-cpu/
 faq:
   - q: "Why is chrome helper using too much cpu on my laptop?"
     a: "Chrome's process-per-tab architecture creates multiple helper processes that can consume excessive CPU when mismanaged. A single misbehaving tab can spawn 4-6 helper processes competing for CPU resources, pushing total processes from the typical 8-12 to over 25. Zovo recommends checking Task Manager to identify which specific helper process is causing the issue."

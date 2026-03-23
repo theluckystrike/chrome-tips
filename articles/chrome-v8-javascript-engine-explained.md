@@ -74,8 +74,8 @@ Understanding the V8 JavaScript engine helps you appreciate the complex technolo
 
 ## Related Articles
 
-- [Chrome V8 Engine What It Means for Users](/chrome-tips/chrome-v8-engine-what-it-means-for-users/)
-- [Chrome WebAssembly Explained for Beginners: What It Is and How It Works](/chrome-tips/chrome-webassembly-explained-for-beginners/)
-- [Chrome Hardware Acceleration Guide](/chrome-tips/chrome-hardware-acceleration-guide/)
+- [Chrome V8 Engine What It Means for Users](/chrome-v8-engine-what-it-means-for-users/)
+- [Chrome WebAssembly Explained for Beginners: What It Is and How It Works](/chrome-webassembly-explained-for-beginners/)
+- [Chrome Hardware Acceleration Guide](/chrome-hardware-acceleration-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -5,7 +5,10 @@ description: Learn practical strategies to improve your Next.js website's Core W
   Vitals metrics and deliver faster user experiences in Chrome.
 permalink: chrome-core-web-vitals-next-js-optimize
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
+{% raw %}
+
 Google's Core Web Vitals have become essential metrics for measuring user experience, directly affecting your website's search rankings and visitor satisfaction. If you're building applications with Next.js, understanding how to optimize these metrics will help you create faster, more responsive websites that perform well in Chrome and other browsers.
 
 ## Understanding Core Web Vitals
@@ -205,3 +208,4 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 * [Chrome Core Web Vitals WordPress Guide](/articles/chrome-core-web-vitals-wordpress-guide/)
 * [Chrome Core Web Vitals Check My Website](/articles/chrome-core-web-vitals-check-my-website/)
 * [Chrome Web Vitals What They Mean](/articles/chrome-web-vitals-what-they-mean/)
+{% endraw %}

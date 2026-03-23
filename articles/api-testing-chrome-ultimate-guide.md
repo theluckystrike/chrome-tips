@@ -12,7 +12,7 @@ target_keyword: "api testing chrome guide"
 target_extension: "json-formatter-pro"
 word_count: 3780
 reading_time: 16
-canonical_url: https://theluckystrike.github.io/chrome-tips/api-testing-chrome-ultimate-guide/
+canonical_url: https://chrometipsguide.com/api-testing-chrome-ultimate-guide/
 faq:
   - q: "How do I test APIs directly in Chrome without installing tools?"
     a: "Chrome DevTools includes everything needed for API testing without additional software. The Console provides a JavaScript REPL where you can run fetch() commands directly, while the Network panel captures all requests with headers, timing, and response previews. This api testing chrome guide shows how to leverage these built-in features. For authentication testing, Zovo recommends using the Console to send requests with your live session cookies intact."
@@ -30,7 +30,7 @@ Chrome ships with everything you need to test REST APIs without installing a sep
 
 Last tested: March 2026 | Chrome latest stable
 
-As someone who maintains multiple Chrome extensions, I run API tests in DevTools dozens of times daily. The tight integration with your page's JavaScript context means you test against live cookies, tokens, and session state without copy-pasting anything. For a broader set of [Chrome DevTools tips](https://theluckystrike.github.io/chrome-tips/), that resource covers related ground.
+As someone who maintains multiple Chrome extensions, I run API tests in DevTools dozens of times daily. The tight integration with your page's JavaScript context means you test against live cookies, tokens, and session state without copy-pasting anything. For a broader set of [Chrome DevTools tips](https://chrometipsguide.com/), that resource covers related ground.
 
 ## Table of Contents
 
@@ -46,7 +46,7 @@ As someone who maintains multiple Chrome extensions, I run API tests in DevTools
 
 Every HTTP request Chrome makes flows through a multi-process architecture designed to isolate tabs from each other and from the browser's core. When your JavaScript calls `fetch()` or `XMLHttpRequest`, the request starts in the renderer process, crosses an IPC boundary into the Network Service (a dedicated process since Chrome 67), and from there hits the operating system's network stack. Understanding this pipeline matters because it determines what DevTools can and cannot show you.
 
-The Network Service handles DNS resolution, connection pooling, TLS negotiation, HTTP/2 multiplexing, and caching. Chrome maintains up to 6 TCP connections per origin under HTTP/1.1 and a single multiplexed connection under HTTP/2 or HTTP/3. When you see a request "stalled" in the Network panel, it typically means the browser has hit that per-origin connection limit and is waiting for a slot to open. Learning to read these signals is covered in more detail in the [Network panel guide](https://theluckystrike.github.io/chrome-tips/).
+The Network Service handles DNS resolution, connection pooling, TLS negotiation, HTTP/2 multiplexing, and caching. Chrome maintains up to 6 TCP connections per origin under HTTP/1.1 and a single multiplexed connection under HTTP/2 or HTTP/3. When you see a request "stalled" in the Network panel, it typically means the browser has hit that per-origin connection limit and is waiting for a slot to open. Learning to read these signals is covered in more detail in the [Network panel guide](https://chrometipsguide.com/).
 
 > "JSON is a text-based data format following JavaScript object syntax. Even though it closely resembles JavaScript object literal syntax, it can be used independently from JavaScript." Source: [Working with JSON - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON), 2026
 
@@ -58,7 +58,7 @@ Chrome DevTools hooks into the Network Service through the Chrome DevTools Proto
 
 > "Valid JSON syntax is formally defined by the ABNF grammar copied from the IETF JSON standard (RFC 8259). Property names must be double-quoted strings; trailing commas are forbidden." Source: [JSON - JavaScript Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON), 2026
 
-For deeper troubleshooting, `chrome://net-internals` exposes the raw event log of every network operation, including socket reuse decisions, proxy resolution, and QUIC session state. It's more information than you typically need for API testing, but it becomes invaluable when [debugging Chrome networking issues](https://theluckystrike.github.io/chrome-tips/) like TLS handshake failures or DNS resolution problems that DevTools alone can't explain. The `chrome://net-export` tool captures a network log file you can analyze offline or share with a colleague.
+For deeper troubleshooting, `chrome://net-internals` exposes the raw event log of every network operation, including socket reuse decisions, proxy resolution, and QUIC session state. It's more information than you typically need for API testing, but it becomes invaluable when [debugging Chrome networking issues](https://chrometipsguide.com/) like TLS handshake failures or DNS resolution problems that DevTools alone can't explain. The `chrome://net-export` tool captures a network log file you can analyze offline or share with a colleague.
 
 ## Testing APIs Step by Step
 
@@ -84,7 +84,7 @@ const response = await fetch('https://jsonplaceholder.typicode.com/posts', {
 const data = await response.json();
 console.log(data);
 
-The Console preserves your command history. Press the up arrow to recall previous commands, which saves time when you're iterating on a request. For more on [Console techniques](https://theluckystrike.github.io/chrome-tips/), there are patterns that make this workflow even faster.
+The Console preserves your command history. Press the up arrow to recall previous commands, which saves time when you're iterating on a request. For more on [Console techniques](https://chrometipsguide.com/), there are patterns that make this workflow even faster.
 
 ### Inspecting Live API Traffic in the Network Panel
 
@@ -100,7 +100,7 @@ Right-click any request in the Network panel to access replay options. "Copy as 
 
 Chrome also supports direct replay. Right-click a request and choose "Replay XHR" to resend the exact same request with identical headers and body. This works specifically for XHR requests, not Fetch API calls, a distinction worth knowing when you need to repeat a test against a specific endpoint. For Fetch requests, the copy-and-paste-to-Console approach is your best option.
 
-For reusable test scripts, the Sources panel has a Snippets feature that acts as a lightweight notebook. Open Sources, click the Snippets tab in the left sidebar, create a new snippet, and write your API test code with proper error handling and logging. Snippets persist across browser sessions and run with Cmd+Enter (Mac) or Ctrl+Enter (Windows). They're a practical alternative to external API clients when you need [repeatable test workflows](https://theluckystrike.github.io/chrome-tips/) without setting up a full project.
+For reusable test scripts, the Sources panel has a Snippets feature that acts as a lightweight notebook. Open Sources, click the Snippets tab in the left sidebar, create a new snippet, and write your API test code with proper error handling and logging. Snippets persist across browser sessions and run with Cmd+Enter (Mac) or Ctrl+Enter (Windows). They're a practical alternative to external API clients when you need [repeatable test workflows](https://chrometipsguide.com/) without setting up a full project.
 
 ### Working with Authentication Headers
 
@@ -113,7 +113,7 @@ const response = await fetch('https://api.example.com/protected', {
   headers: { 'Authorization': 'Bearer YOUR_TOKEN_HERE' }
 });
 
-You can store tokens in Console variables and reuse them across multiple requests in the same session. The variable persists until you navigate away or close DevTools. For API keys or bearer tokens, assign them once at the top of your testing session and reference them by name in every subsequent call. Additional patterns for [handling API authentication](https://theluckystrike.github.io/chrome-tips/) cover OAuth flows and cookie-based schemes in more depth.
+You can store tokens in Console variables and reuse them across multiple requests in the same session. The variable persists until you navigate away or close DevTools. For API keys or bearer tokens, assign them once at the top of your testing session and reference them by name in every subsequent call. Additional patterns for [handling API authentication](https://chrometipsguide.com/) cover OAuth flows and cookie-based schemes in more depth.
 
 ## Advanced Techniques Most Guides Skip
 
@@ -127,7 +127,7 @@ Chrome saves the response as a local file and serves your version instead of the
 
 Block specific API endpoints to test how your application handles failures. In the Network panel, right-click any request and choose "Block request URL," or open the Network request blocking pane from the three-dot menu. URL patterns support wildcards, so `*api.example.com/users*` blocks all user-related endpoints at once.
 
-When a blocked request fires, Chrome returns a network error. This lets you verify error handling, fallback UI states, and retry logic in your frontend code. It's especially effective for [testing error states](https://theluckystrike.github.io/chrome-tips/) that are difficult to reproduce against a live backend.
+When a blocked request fires, Chrome returns a network error. This lets you verify error handling, fallback UI states, and retry logic in your frontend code. It's especially effective for [testing error states](https://chrometipsguide.com/) that are difficult to reproduce against a live backend.
 
 ### Network Conditions and Throttling
 
@@ -137,7 +137,7 @@ The Network panel's throttling dropdown simulates different connection speeds. T
 
 Launch Chrome with flags to modify its network behavior. The flag `--disable-web-security` disables same-origin policy checks, eliminating CORS errors when testing against APIs on different origins. Only use this in a dedicated testing profile, never for general browsing. The flag `--proxy-server=http://localhost:8080` routes all traffic through a local proxy like mitmproxy for deep packet inspection.
 
-The `chrome://flags` page exposes experimental features. The flag at `chrome://flags/#enable-experimental-web-platform-features` enables APIs that haven't yet shipped in stable Chrome. Check [Chrome flags documentation](https://theluckystrike.github.io/chrome-tips/) for details on networking-related flags.
+The `chrome://flags` page exposes experimental features. The flag at `chrome://flags/#enable-experimental-web-platform-features` enables APIs that haven't yet shipped in stable Chrome. Check [Chrome flags documentation](https://chrometipsguide.com/) for details on networking-related flags.
 
 ### Console Utilities for JSON Manipulation
 
@@ -166,7 +166,7 @@ const res = await fetch('https://api.example.com/data');
 const json = await res.json();
 console.log(`Request + parse: ${(performance.now() - t0).toFixed(1)}ms`);
 
-The Resource Timing API gives you programmatic access to the same data from the Timing tab. Calling `performance.getEntriesByType('resource')` returns an array of every resource the page has loaded, including API calls, with sub-millisecond precision on each phase. You can filter, average, and export this data for [performance analysis](https://theluckystrike.github.io/chrome-tips/) or regression tracking.
+The Resource Timing API gives you programmatic access to the same data from the Timing tab. Calling `performance.getEntriesByType('resource')` returns an array of every resource the page has loaded, including API calls, with sub-millisecond precision on each phase. You can filter, average, and export this data for [performance analysis](https://chrometipsguide.com/) or regression tracking.
 
 ## Common Problems and Fixes
 
@@ -202,7 +202,7 @@ While Chrome's built-in tools cover most API testing needs, a few extensions imp
 
 **ModHeader** lets you add, modify, or remove HTTP request and response headers at the browser level. This is useful for injecting custom routing headers, feature flags, or overriding Content-Type without writing code. The headers apply before requests leave Chrome, affecting both page loads and API calls.
 
-For most individual developers, a JSON formatter plus Chrome's built-in DevTools handles the majority of [API testing scenarios](https://theluckystrike.github.io/chrome-tips/). Dedicated API clients like Postman or Insomnia earn their place when you need saved collections, automated test scripts, or team collaboration features.
+For most individual developers, a JSON formatter plus Chrome's built-in DevTools handles the majority of [API testing scenarios](https://chrometipsguide.com/). Dedicated API clients like Postman or Insomnia earn their place when you need saved collections, automated test scripts, or team collaboration features.
 
 **[Try JSON Formatter Pro Free](https://zovo.one)**
 
@@ -214,7 +214,7 @@ Yes. Use `fetch()` in the Console with `method: 'POST'` as shown in the walkthro
 
 ### How do I test WebSocket APIs in Chrome?
 
-The Network panel captures WebSocket connections under the WS filter. Click any WebSocket connection to see the Messages tab, which logs every frame sent and received with timestamps and payload sizes. You can also create connections from the Console using `new WebSocket('wss://...')` and attach `onmessage`, `onopen`, and `onclose` handlers directly. More on [Chrome WebSocket debugging](https://theluckystrike.github.io/chrome-tips/) is available for complex scenarios.
+The Network panel captures WebSocket connections under the WS filter. Click any WebSocket connection to see the Messages tab, which logs every frame sent and received with timestamps and payload sizes. You can also create connections from the Console using `new WebSocket('wss://...')` and attach `onmessage`, `onopen`, and `onclose` handlers directly. More on [Chrome WebSocket debugging](https://chrometipsguide.com/) is available for complex scenarios.
 
 ### Is the Chrome Console secure for testing with API tokens?
 
@@ -230,7 +230,7 @@ The "Fetch/XHR" filter shows both XMLHttpRequest and Fetch API calls in a single
 
 ### Can Chrome DevTools fully replace Postman?
 
-For solo testing and debugging, DevTools handles the core workflow: making requests, inspecting responses, setting headers, measuring timing, and mocking responses with Local Overrides. Postman's advantage is in collaboration. Shared collections, environment variables, pre-request scripts, automated test suites, and [team workspaces](https://theluckystrike.github.io/chrome-tips/) are features DevTools doesn't attempt to replicate. Pick the tool that matches your workflow.
+For solo testing and debugging, DevTools handles the core workflow: making requests, inspecting responses, setting headers, measuring timing, and mocking responses with Local Overrides. Postman's advantage is in collaboration. Shared collections, environment variables, pre-request scripts, automated test suites, and [team workspaces](https://chrometipsguide.com/) are features DevTools doesn't attempt to replicate. Pick the tool that matches your workflow.
 
 ### How do I handle large JSON responses in the Console?
 

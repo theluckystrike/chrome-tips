@@ -12,7 +12,7 @@ target_keyword: "cors error viewing json chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/cors-error-viewing-json-chrome/
+canonical_url: https://chrometipsguide.com/cors-error-viewing-json-chrome/
 image: "https://og-image.vercel.app/CORS%20Error%20When%20Viewing%20JSON%20in%20Chrome%3A%20How%20to%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "CORS Error When Viewing JSON in Chrome: How to Fix"
   description: "Stop CORS errors when viewing JSON files in Chrome with these proven fixes. Get your JSON formatter working in under 2 minutes with step-by-step solutions."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/cors-error-viewing-json-chrome/"
+  url: "https://chrometipsguide.com/cors-error-viewing-json-chrome/"
   image: "https://og-image.vercel.app/CORS%20Error%20When%20Viewing%20JSON%20in%20Chrome%3A%20How%20to%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How do I fix CORS error when viewing JSON in Chrome?"

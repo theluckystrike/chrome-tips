@@ -2,6 +2,7 @@
 layout: default
 title: How to Share Any Chrome Page via QR Code
 description: Learn the built-in method to generate QR codes for any webpage directly in Chrome, plus discover how extensions can enhance your QR sharing workflow.
+date: 2026-03-23
 ---
 
 # How to Share Any Chrome Page via QR Code

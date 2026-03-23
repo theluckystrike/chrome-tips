@@ -69,8 +69,8 @@ Test your shortcuts immediately after setting them up. Enter your keyword follow
 Using **Tab Suspender Pro** is an excellent way to maintain a fast workflow. It automatically "hibernates" background tabs that you aren't currently viewing, freeing up **system resources**. This ensures that your **address bar shortcuts** and **URL navigation** happen instantly, without the stuttering that occurs when Chrome is overwhelmed. By keeping your browser lean, you can use as many **custom search engines** as you want without slowing down your computer.
 
 ## Related Articles
-- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
-- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
-- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+- [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

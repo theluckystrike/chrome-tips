@@ -12,7 +12,7 @@ target_keyword: "chrome tabs reloading automatically fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-tabs-reloading-automatically-fix/
+canonical_url: https://chrometipsguide.com/chrome-tabs-reloading-automatically-fix/
 faq:
   - q: "Why do my Chrome tabs keep reloading automatically?"
     a: "Chrome tabs reload automatically because of the browser's memory management system called tab discarding. Chrome automatically discards inactive tabs when your system's memory usage exceeds 80% of available RAM, which typically happens after 30 minutes of inactivity. When you return to a discarded tab, Chrome must reload the entire page instead of restoring it from memory. Background tabs consuming more than 100MB of RAM are prime candidates for this automatic discarding process, which prioritizes system performance over keeping tabs active."

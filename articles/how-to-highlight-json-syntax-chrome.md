@@ -12,7 +12,7 @@ target_keyword: "how to highlight json syntax chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-highlight-json-syntax-chrome/
+canonical_url: https://chrometipsguide.com/how-to-highlight-json-syntax-chrome/
 faq:
   - q: "How do I enable JSON syntax highlighting in Chrome?"
     a: "Install a JSON formatting extension from the Chrome Web Store to enable syntax highlighting. Open chrome://extensions, click the Web Store link, search for 'JSON formatter,' and install a well-rated option. Most extensions work automatically, though you may need to enable auto-formatting in settings. Extensions with over 100,000 users typically offer more stable performance. Once installed, right-click any JSON content and select 'Format JSON' to see color-coded, properly indented structure that can save developers about 23 minutes per day."

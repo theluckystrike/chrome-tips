@@ -12,7 +12,7 @@ target_keyword: "best json viewer extensions chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-json-viewer-extensions-chrome/
+canonical_url: https://chrometipsguide.com/best-json-viewer-extensions-chrome/
 image: "https://og-image.vercel.app/Best%20JSON%20Viewer%20Extensions%20for%20Chrome%3A%20Top%2010%20Ranked.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Best JSON Viewer Extensions for Chrome: Top 10 Ranked"
   description: "Discover the top JSON viewer extensions for Chrome that outperform DevTools. Compare 10 alternatives with features, pricing, and user ratings for 2026."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-json-viewer-extensions-chrome/"
+  url: "https://chrometipsguide.com/best-json-viewer-extensions-chrome/"
   image: "https://og-image.vercel.app/Best%20JSON%20Viewer%20Extensions%20for%20Chrome%3A%20Top%2010%20Ranked.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What is the best JSON viewer extension for Chrome in 2026?"
@@ -129,4 +129,4 @@ Chrome's built-in JSON viewer works for basic tasks but falls short when handlin
 For casual use, JSONView delivers solid formatting without configuration hassle. **[Try JSON Formatter Pro Free](https://zovo.one)** to see how proper JSON tooling transforms your debugging workflow.
 
 Built by Michael Lip. More tips at zovo.one.
-> **See also:** [BeLikeNative vs DeepL: Honest 2026 Comparison](https://theluckystrike.github.io/chrome-tips/belikenative-vs-deepl)
+> **See also:** [BeLikeNative vs DeepL: Honest 2026 Comparison](https://chrometipsguide.com/belikenative-vs-deepl)

@@ -12,7 +12,7 @@ target_keyword: "chrome renderer process memory"
 target_extension: "tab-suspender-pro"
 word_count: 1127
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-renderer-process-memory/
+canonical_url: https://chrometipsguide.com/chrome-renderer-process-memory/
 faq:
   - q: "How do I fix chrome renderer process memory when it's using too much?"
     a: "Press Shift+Esc to open Chrome Task Manager, then sort processes by Memory and close any renderer process over 800MB. This quick fix immediately frees up RAM, though restarting Chrome completely clears accumulated memory leaks. Chrome's process-per-tab architecture means each tab competes for your 8GB or 16GB of system RAM, so closing heavy tabs provides instant relief. For long-term management, Zovo recommends periodically restarting Chrome to prevent memory leaks from building up over hours of browsing."

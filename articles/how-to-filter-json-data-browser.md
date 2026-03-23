@@ -12,7 +12,7 @@ target_keyword: "how to filter json data browser"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-filter-json-data-browser/
+canonical_url: https://chrometipsguide.com/how-to-filter-json-data-browser/
 image: "https://og-image.vercel.app/How%20to%20Filter%20JSON%20Data%20in%20the%20Browser.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "How to Filter JSON Data in the Browser"
   description: "Learn how to filter JSON data in the browser using Chrome's built-in tools and JSON Formatter Pro for faster, more efficient debugging and development workflows."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-filter-json-data-browser/"
+  url: "https://chrometipsguide.com/how-to-filter-json-data-browser/"
   image: "https://og-image.vercel.app/How%20to%20Filter%20JSON%20Data%20in%20the%20Browser.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How do I filter JSON data in the browser using Chrome Developer Tools?"
@@ -84,7 +84,7 @@ Combine filter operations with other array methods for powerful data manipulatio
 
 Open the **Network** tab in Chrome Developer Tools before making API requests. When you refresh the page or trigger an API call, you'll see all network requests listed. Click on any request to view its response data in the **Response** tab.
 
-The Network tab includes built-in search functionality. Use Ctrl+F (Cmd+F on Mac) to open the search box and look for specific JSON properties or values within response bodies. Chrome highlights all matching instances across different requests. If you're building offline-capable applications, understanding how [Chrome Background Sync](/chrome-tips/chrome-background-sync-explained) handles deferred network requests can help you design more resilient API workflows that sync data when connectivity returns.
+The Network tab includes built-in search functionality. Use Ctrl+F (Cmd+F on Mac) to open the search box and look for specific JSON properties or values within response bodies. Chrome highlights all matching instances across different requests. If you're building offline-capable applications, understanding how [Chrome Background Sync](/chrome-background-sync-explained) handles deferred network requests can help you design more resilient API workflows that sync data when connectivity returns.
 
 > "JSON is a text-based data format following JavaScript object syntax. Even though it closely resembles JavaScript object literal syntax, it can be used independently from JavaScript." Source: [Working with JSON - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
 

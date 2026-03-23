@@ -12,7 +12,7 @@ target_keyword: "great suspender removed alternative"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/great-suspender-removed-what-to-use/
+canonical_url: https://chrometipsguide.com/great-suspender-removed-what-to-use/
 image: "https://og-image.vercel.app/The%20Great%20Suspender%20Removed%3F%20Here%27s%20What%20to%20Use%20Instead.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "The Great Suspender Removed? Here's What to Use Instead"
   description: "Chrome's built-in Memory Saver falls short for power users. We tested 6 alternatives and found the best great suspender removed alternative for serious tab management."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/great-suspender-removed-what-to-use/"
+  url: "https://chrometipsguide.com/great-suspender-removed-what-to-use/"
   image: "https://og-image.vercel.app/The%20Great%20Suspender%20Removed%3F%20Here%27s%20What%20to%20Use%20Instead.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What happened to The Great Suspender extension for Chrome?"

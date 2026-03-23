@@ -21,9 +21,9 @@ og:
   title: "JSON Encoding Issues in Chrome: UTF-8 and Special Characters"
   description: "Fix Chrome JSON encoding problems with UTF-8 characters and special symbols. Working solutions for developers dealing with malformed JSON display."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-encoding-issues-chrome/"
+  url: "https://chrometipsguide.com/json-encoding-issues-chrome/"
   image: "https://og-image.vercel.app/JSON%20Encoding%20Issues%20in%20Chrome%3A%20UTF-8%20and%20Special%20Characters.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-encoding-issues-chrome/
+canonical_url: https://chrometipsguide.com/json-encoding-issues-chrome/
 faq:
   - q: "How do I fix JSON encoding issues in Chrome?"
     a: "To fix JSON encoding issues in Chrome, check your response headers for Content-Type: application/json; charset=utf-8. If the charset parameter is missing, add it to your server configuration. Clear Chrome's cache with Ctrl+Shift+Delete and refresh the page. Zovo recommends using the Network tab in Chrome DevTools to inspect headers and verify the encoding is properly declared."

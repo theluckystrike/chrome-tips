@@ -83,9 +83,9 @@ Chrome making your laptop hot and slow is a common issue, but it's not unavoidab
 
 ## Related Articles
 
-- [Laptop Fan Loud When Using Chrome Fix](/chrome-tips/laptop-fan-loud-when-using-chrome-fix/)
-- [My MacBook Air Gets Hot When Using Chrome: Practical Solutions](/chrome-tips/my-macbook-air-gets-hot-when-using-chrome/)
-- [How to Fix High CPU Usage in Chrome on Mac](/chrome-tips/chrome-high-cpu-usage-fix-mac/)
+- [Laptop Fan Loud When Using Chrome Fix](/laptop-fan-loud-when-using-chrome-fix/)
+- [My MacBook Air Gets Hot When Using Chrome: Practical Solutions](/my-macbook-air-gets-hot-when-using-chrome/)
+- [How to Fix High CPU Usage in Chrome on Mac](/chrome-high-cpu-usage-fix-mac/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

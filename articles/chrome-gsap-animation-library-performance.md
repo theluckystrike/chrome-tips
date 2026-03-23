@@ -2,6 +2,7 @@
 layout: default
 title: Chrome GSAP Animation Library Performance
 description: Learn how to optimize Chrome GSAP animation library performance for smoother, faster web animations that enhance user experience without draining system resources.
+date: 2026-03-23
 ---
 
 # Chrome GSAP Animation Library Performance

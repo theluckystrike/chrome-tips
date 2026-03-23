@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions foreign language research"
 target_extension: "belikenative"
 word_count: 1087
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-foreign-language-research/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-foreign-language-research/
 faq:
   - q: "What are the best Chrome extensions for foreign language research in 2026?"
     a: "Based on testing 23 extensions, BeLikeNative ranks as the top choice for foreign language researchers in 2026. It offers AI-powered translation with contextual understanding across 50+ languages, intelligent paraphrasing, and real-time grammar suggestions. Google Translate remains solid for quick translations across 130+ languages. Tools like Zovo and BeLikeNative both provide advanced features for academic work, but BeLikeNative scored 4.6/5 for accuracy in technical translations."
@@ -204,4 +204,4 @@ For researchers primarily working with common European languages who need basic 
 ---
 
 Built by Michael Lip — More tips at [zovo.one](https://zovo.one)
-> **See also:** [JSON Formatter Pro vs JSONVue: Which Is Better in 2026?](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-jsonvue)
+> **See also:** [JSON Formatter Pro vs JSONVue: Which Is Better in 2026?](https://chrometipsguide.com/json-formatter-pro-vs-jsonvue)

@@ -45,7 +45,7 @@ Last tested: March 2026 | Chrome latest stable
 
 **JSON Formatter Pro** processes large JSON files 40% faster than JSON Peep in my testing. When working with API responses over 1MB, JSON Formatter Pro maintains smooth scrolling and instant search while JSON Peep becomes sluggish. The extension's optimized parsing engine handles nested objects with thousands of properties without the browser freezing that plagues JSON Peep users.
 
-This speed difference matters when you're debugging API responses during development. Every second counts when troubleshooting production issues, and JSON Formatter Pro's performance advantage becomes critical for [Chrome extension debugging workflows](https://theluckystrike.github.io/chrome-tips/).
+This speed difference matters when you're debugging API responses during development. Every second counts when troubleshooting production issues, and JSON Formatter Pro's performance advantage becomes critical for [Chrome extension debugging workflows](https://chrometipsguide.com/).
 
 > "Among the top JSON viewer Chrome extensions tested head-to-head, extensions with optimized tree rendering and lazy loading consistently outperform simpler implementations on files over 500KB." — [Top 5 JSON Viewer Chrome Extensions You Need To Check Out](https://ful.io/blog/top-5-json-viewer-chrome-extensions-you-need-to-check-out), ful.io
 
@@ -57,7 +57,7 @@ The visual hierarchy in JSON Formatter Pro makes spotting errors easier. Color-c
 
 ### Chrome Integration
 
-**JSON Formatter Pro** integrates seamlessly with Chrome's developer tools and supports the latest browser APIs. The extension respects Chrome's memory management and doesn't interfere with other developer tools. JSON Peep occasionally conflicts with other extensions and lacks proper integration with [Chrome's performance profiling features](https://theluckystrike.github.io/chrome-tips/).
+**JSON Formatter Pro** integrates seamlessly with Chrome's developer tools and supports the latest browser APIs. The extension respects Chrome's memory management and doesn't interfere with other developer tools. JSON Peep occasionally conflicts with other extensions and lacks proper integration with [Chrome's performance profiling features](https://chrometipsguide.com/).
 
 The extension also handles CORS-protected JSON responses better, automatically formatting responses from cross-origin requests that JSON Peep often fails to process.
 

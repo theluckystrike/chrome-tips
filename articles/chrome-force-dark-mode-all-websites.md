@@ -5,6 +5,7 @@ description: Learn how to force dark mode on all websites in Chrome with simple 
   Make every site dark and easy on your eyes.
 permalink: chrome-force-dark-mode-all-websites
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # Chrome Force Dark Mode All Websites
 
@@ -71,9 +72,9 @@ Once you experience the benefits of dark mode across all websites, you will like
 ---
 
 ## Related Articles
-- [How to Force Dark Mode on All Websites in Chrome](/chrome-tips/chrome-dark-mode-force-all-websites/)
-- [chrome force dark mode on all websites](/chrome-tips/chrome-force-dark-mode-on-all-websites/)
-- [Chrome Mobile Dark Mode Force on All Sites](/chrome-tips/chrome-mobile-dark-mode-force-on-all-sites/)
+- [How to Force Dark Mode on All Websites in Chrome](/chrome-dark-mode-force-all-websites/)
+- [chrome force dark mode on all websites](/chrome-force-dark-mode-on-all-websites/)
+- [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

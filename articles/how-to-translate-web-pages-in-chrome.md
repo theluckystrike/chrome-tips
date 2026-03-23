@@ -21,9 +21,9 @@ og:
   title: "How to Translate Web Pages in Chrome: Complete Guide"
   description: "Learn how to translate web pages in Chrome using built-in tools and extensions. Step-by-step guide with troubleshooting tips for seamless browsing."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-translate-web-pages-in-chrome/"
+  url: "https://chrometipsguide.com/how-to-translate-web-pages-in-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Translate%20Web%20Pages%20in%20Chrome%3A%20Complete%20Guide.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-web-pages-in-chrome/
+canonical_url: https://chrometipsguide.com/how-to-translate-web-pages-in-chrome/
 faq:
   - q: "How do I translate a web page in Chrome?"
     a: "Right-click anywhere on the page and select 'Translate to English' from the context menu. Chrome will instantly translate the content using Google's neural machine translation technology. Click the translation bar to adjust languages or turn off translation. The browser supports over 100 languages and downloads language models directly to your device for fast processing without sending data to external servers."

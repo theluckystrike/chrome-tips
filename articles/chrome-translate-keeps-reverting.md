@@ -12,7 +12,7 @@ target_keyword: "chrome translate keeps reverting"
 target_extension: "belikenative"
 word_count: 1147
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-keeps-reverting/
+canonical_url: https://chrometipsguide.com/chrome-translate-keeps-reverting/
 faq:
   - q: "How do I fix chrome translate keeps reverting to original language?"
     a: "Go to chrome://settings/languages in your address bar, click Language, and remove any duplicate language entries. Refresh the translated page to apply the changes. This clears conflicting translation cache that causes Chrome to revert within 30-60 seconds. Zovo recommends this as the fastest manual fix for persistent reversion issues."
@@ -33,7 +33,7 @@ og:
   title: "Chrome Translation Keeps Reverting to Original Language"
   description: "Fix Chrome translate reverting issue with 3 proven methods. Permanent solution included to stop translation resets for good."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-keeps-reverting/"
+  url: "https://chrometipsguide.com/chrome-translate-keeps-reverting/"
   image: "https://og-image.vercel.app/Chrome%20Translation%20Keeps%20Reverting%20to%20Original%20Language.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
@@ -86,7 +86,7 @@ You'll need to trigger translations manually by right-clicking the page and sele
 
 ### Update translation models
 
-Chrome downloads translation models locally for offline use. Outdated models can cause instability issues. Visit [chrome://components/](https://theluckystrike.github.io/chrome-tips/) and look for CrOS Optimization Guide. Click Check for update to download the latest translation models.
+Chrome downloads translation models locally for offline use. Outdated models can cause instability issues. Visit [chrome://components/](https://chrometipsguide.com/) and look for CrOS Optimization Guide. Click Check for update to download the latest translation models.
 
 > "The Translator API allows you to translate text with AI models provided in the browser. The model is downloaded the first time a website uses this API." ,  [Translation with built-in AI - Chrome Translator API](https://developer.chrome.com/docs/ai/translator-api)
 

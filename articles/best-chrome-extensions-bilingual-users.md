@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions bilingual users"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-bilingual-users/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-bilingual-users/
 image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Bilingual%20Users%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Best Chrome Extensions for Bilingual Users in 2026"
   description: "Discover the 6 best chrome extensions bilingual users need to replace Google Translate extension with better accuracy and features in 2026."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-bilingual-users/"
+  url: "https://chrometipsguide.com/best-chrome-extensions-bilingual-users/"
   image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Bilingual%20Users%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
@@ -125,6 +125,6 @@ The key is choosing an extension that matches your primary use case rather than 
 
 > "The Intl object is the namespace for the ECMAScript Internationalization API, which provides locale-sensitive string comparison, number formatting, and date/time formatting." ,  [Internationalization (Intl) - JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl)
 
-For advanced Chrome tips and extension reviews, check out our [comprehensive guide to productivity extensions](https://theluckystrike.github.io/chrome-tips/) and [developer tool recommendations](https://theluckystrike.github.io/chrome-tips/). You can also find more translation resources and bilingual productivity tips at [zovo.one](https://zovo.one).
+For advanced Chrome tips and extension reviews, check out our [comprehensive guide to productivity extensions](https://chrometipsguide.com/) and [developer tool recommendations](https://chrometipsguide.com/). You can also find more translation resources and bilingual productivity tips at [zovo.one](https://zovo.one).
 
 Built by Michael Lip. More tips at zovo.one

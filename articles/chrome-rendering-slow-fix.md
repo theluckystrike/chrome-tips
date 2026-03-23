@@ -12,7 +12,7 @@ target_keyword: "chrome rendering slow fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-rendering-slow-fix/
+canonical_url: https://chrometipsguide.com/chrome-rendering-slow-fix/
 faq:
   - q: "How do I fix Chrome rendering slow fix?"
     a: "The fastest chrome rendering slow fix is clearing your browser data and disabling unnecessary extensions. Press Ctrl+Shift+Delete and clear cached images and files from the last 24 hours, then type chrome://extensions/ in the address bar and disable any extensions you don't actively use. Zovo recommends closing unused tabs to free up memory immediately."

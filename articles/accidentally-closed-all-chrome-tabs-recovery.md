@@ -110,6 +110,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Asana](/chrome-tips/chrome-extensions-for-asana)
-- [Chrome for Tab Organization Workflow](/chrome-tips/chrome-for-tab-organization-workflow)
-- [Chrome Reader View How to Enable on Any Site](/chrome-tips/chrome-reader-view-how-to-enable-on-any-site)
+- [Chrome Extensions for Asana](/chrome-extensions-for-asana)
+- [Chrome for Tab Organization Workflow](/chrome-for-tab-organization-workflow)
+- [Chrome Reader View How to Enable on Any Site](/chrome-reader-view-how-to-enable-on-any-site)

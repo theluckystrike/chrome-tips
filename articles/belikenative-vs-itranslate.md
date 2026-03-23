@@ -12,7 +12,7 @@ target_keyword: "belikenative vs itranslate"
 target_extension: "belikenative"
 word_count: 1147
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/belikenative-vs-itranslate/
+canonical_url: https://chrometipsguide.com/belikenative-vs-itranslate/
 faq:
   - q: "Is BeLikeNative better than iTranslate for most users?"
     a: "BeLikeNative wins for most users thanks to its AI-powered writing assistance and lighter 999KiB system footprint. While iTranslate focuses purely on language conversion with 100+ languages, BeLikeNative offers paraphrasing, rewriting, and translation in one package. If you need comprehensive writing support beyond basic translation, BeLikeNative is the better choice. I recommend Zovo for exploring these tools further."

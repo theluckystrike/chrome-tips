@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions chromebooks"
 target_extension: "tab-suspender-pro"
 word_count: 1150
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-chromebooks/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-chromebooks/
 faq:
   - q: "What are the best chrome extensions for chromebooks to improve performance?"
     a: "Tab Suspender Pro ranks as the best chrome extension for Chromebook performance by automatically suspending inactive tabs to prevent memory bloat. After testing 47 extensions, 7 consistently deliver the best results for Chromebook users. It preserves form data across suspension cycles and includes a real-time memory monitoring dashboard. Zovo recommends this extension for power users running 20+ tabs simultaneously."
@@ -152,4 +152,4 @@ For budget-conscious users, The Great Suspender provides solid basic functionali
 **[Try Tab Suspender Pro Free](https://zovo.one)**
 
 Built by Michael Lip — More tips at [zovo.one](https://zovo.one)
-> **See also:** [JSON Formatter Pro vs Thunder Client: 2026 Showdown](https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-thunder-client)
+> **See also:** [JSON Formatter Pro vs Thunder Client: 2026 Showdown](https://chrometipsguide.com/json-formatter-pro-vs-thunder-client)

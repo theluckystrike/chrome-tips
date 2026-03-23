@@ -49,8 +49,8 @@ While **desktop shortcuts** help you launch sites faster, they don't help with t
 Using **Tab Suspender Pro** is the perfect companion to a **shortcut-heavy workflow**. It automatically "hibernates" background tabs that you opened via your **desktop icons**, freeing up **system resources**. This ensures that your computer remains fast and responsive, even if you have twenty different **web app shortcuts** active at once. By keeping your **memory usage** low, you make the transition between your **desktop** and your **browser** seamless and lag-free.
 
 ## Related Articles
-- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
-- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
-- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+- [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

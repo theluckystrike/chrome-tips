@@ -21,7 +21,7 @@ og:
   title: "Chrome Background Tabs Using Resources: Stop the Drain"
   description: "Fix Chrome background tabs using resources with proven manual methods and Tab Suspender Pro. Stop memory drain and CPU spikes in under 5 minutes."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-background-tabs-using-resources/"
+  url: "https://chrometipsguide.com/chrome-background-tabs-using-resources/"
   image: "https://og-image.vercel.app/Chrome%20Background%20Tabs%20Using%20Resources%3A%20Stop%20the%20Drain.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How much RAM do Chrome background tabs use?"

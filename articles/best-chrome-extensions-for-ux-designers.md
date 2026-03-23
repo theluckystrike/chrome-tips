@@ -120,6 +120,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Faster Browsing](/chrome-tips/chrome-extensions-for-faster-browsing)
-- [Chrome for Zoom in Browser Best Settings](/chrome-tips/chrome-for-zoom-in-browser-best-settings)
-- [How to Do a Reverse Image Search in Chrome Without an Extension](/chrome-tips/chrome-reverse-image-search-without-extension)
+- [Chrome Extensions for Faster Browsing](/chrome-extensions-for-faster-browsing)
+- [Chrome for Zoom in Browser Best Settings](/chrome-for-zoom-in-browser-best-settings)
+- [How to Do a Reverse Image Search in Chrome Without an Extension](/chrome-reverse-image-search-without-extension)

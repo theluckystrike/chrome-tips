@@ -12,7 +12,7 @@ target_keyword: "can't view json response in browser"
 target_extension: "json-formatter-pro"
 word_count: 1200
 reading_time: 5
-canonical_url: "https://theluckystrike.github.io/chrome-tips/cant-view-json-response-in-browser/"
+canonical_url: "https://chrometipsguide.com/cant-view-json-response-in-browser/"
 ---
 
 When Chrome refuses to display JSON responses as formatted output, the browser is showing raw text instead of the structured tree you expect. The reason Chrome can't view JSON response in browser almost always comes back to one of three causes: incorrect MIME type from the server, cached rendering decisions that persisted after you fixed the server, or an extension stripping the headers Chrome needs to identify JSON content. Each of these has a targeted fix that takes under 5 minutes.

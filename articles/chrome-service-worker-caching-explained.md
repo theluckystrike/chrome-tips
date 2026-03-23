@@ -77,9 +77,9 @@ Chrome service worker caching represents a fundamental shift in how web applicat
 
 ## Related Articles
 
-- [Chrome Service Worker Debugging Guide](/chrome-tips/chrome-service-worker-debugging/)
-- [chrome stale while revalidate strategy explained](/chrome-tips/chrome-stale-while-revalidate-strategy-explained/)
-- [chrome pwa offline capability how it works](/chrome-tips/chrome-pwa-offline-capability-how-it-works/)
+- [Chrome Service Worker Debugging Guide](/chrome-service-worker-debugging/)
+- [chrome stale while revalidate strategy explained](/chrome-stale-while-revalidate-strategy-explained/)
+- [chrome pwa offline capability how it works](/chrome-pwa-offline-capability-how-it-works/)
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

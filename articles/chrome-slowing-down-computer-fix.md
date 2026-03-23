@@ -12,7 +12,7 @@ target_keyword: "chrome slowing down computer fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-slowing-down-computer-fix/
+canonical_url: https://chrometipsguide.com/chrome-slowing-down-computer-fix/
 image: "https://og-image.vercel.app/Chrome%20Slowing%20Down%20Your%20Whole%20Computer%3A%20The%20Solution.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Chrome Slowing Down Your Whole Computer: The Solution"
   description: "Chrome slowing down computer fix that actually works. Stop browser lag and speed up your entire system with proven methods and automated solutions."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-slowing-down-computer-fix/"
+  url: "https://chrometipsguide.com/chrome-slowing-down-computer-fix/"
   image: "https://og-image.vercel.app/Chrome%20Slowing%20Down%20Your%20Whole%20Computer%3A%20The%20Solution.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "How do I fix Chrome slowing down my whole computer?"
@@ -79,7 +79,7 @@ Set the discard timer to 15 minutes for optimal balance between memory savings a
 
 Access the extensions page with Ctrl+Shift+E (Cmd+Shift+E on Mac) or visit `chrome://extensions/`. Disable extensions you don't use daily, particularly those requiring "Read and change all your data" permissions. These extensions process every page load and can add 2-5 seconds to loading times.
 
-Keep only essential extensions active. [Popular productivity extensions](https://theluckystrike.github.io/chrome-tips/) often provide diminishing returns when you have more than 5-7 running simultaneously. Consider alternatives that combine multiple functions into single extensions to reduce overhead.
+Keep only essential extensions active. [Popular productivity extensions](https://chrometipsguide.com/) often provide diminishing returns when you have more than 5-7 running simultaneously. Consider alternatives that combine multiple functions into single extensions to reduce overhead.
 
 ### Configure Tab Discarding Settings
 
@@ -113,7 +113,7 @@ Unlike manual tab management, **Tab Suspender Pro** works continuously without r
 
 ### Does closing Chrome completely fix the slowdown?
 
-Yes, but only temporarily. Closing Chrome releases all consumed memory and CPU resources immediately. However, the underlying causes return as soon as you restore your browsing session unless you implement proper [tab management strategies](https://theluckystrike.github.io/chrome-tips/).
+Yes, but only temporarily. Closing Chrome releases all consumed memory and CPU resources immediately. However, the underlying causes return as soon as you restore your browsing session unless you implement proper [tab management strategies](https://chrometipsguide.com/).
 
 ### How many tabs can Chrome handle before slowing down?
 
@@ -123,6 +123,6 @@ Most systems experience noticeable slowdowns with 15-25 active tabs, depending o
 
 These solutions apply to all Chromium-based browsers including Edge, Brave, and Opera. The underlying architecture and memory management systems are nearly identical, so performance issues and fixes translate directly across platforms.
 
-Tab suspension extensions designed for Chrome generally work without modification on other Chromium browsers. The [chrome.tabs API](https://theluckystrike.github.io/chrome-tips/) maintains compatibility across the entire Chromium ecosystem, ensuring consistent functionality regardless of your browser choice.
+Tab suspension extensions designed for Chrome generally work without modification on other Chromium browsers. The [chrome.tabs API](https://chrometipsguide.com/) maintains compatibility across the entire Chromium ecosystem, ensuring consistent functionality regardless of your browser choice.
 
 Built by Michael Lip — More tips at zovo.one

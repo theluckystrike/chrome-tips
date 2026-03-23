@@ -12,7 +12,7 @@ target_keyword: "json api response garbled chrome"
 target_extension: "json-formatter-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-api-response-garbled-chrome/
+canonical_url: https://chrometipsguide.com/json-api-response-garbled-chrome/
 faq:
   - q: "How do I fix garbled JSON API response in Chrome DevTools?"
     a: "To fix a garbled JSON response in Chrome, open DevTools with F12, navigate to the Network tab, select the API request, and click the \"Format\" button in the Response tab. Alternatively, press Ctrl+Shift+P and search for \"Pretty Print\" to format the raw JSON. Chrome displays responses in raw format by default, which is why minified JSON with 2,000+ characters on a single line appears garbled. Zovo recommends using this built-in formatting feature for cleaner debugging."
@@ -33,7 +33,7 @@ og:
   title: "JSON API Response Looks Garbled in Chrome Fix"
   description: "Fix garbled JSON API responses in Chrome with manual methods and JSON Formatter Pro extension. Working solutions for developers."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-api-response-garbled-chrome/"
+  url: "https://chrometipsguide.com/json-api-response-garbled-chrome/"
   image: "https://og-image.vercel.app/JSON%20API%20Response%20Looks%20Garbled%20in%20Chrome%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
@@ -121,6 +121,6 @@ Both manual DevTools methods and reputable extensions work with authenticated AP
 
 > "JSON is a text-based data format following JavaScript object syntax. Even though it closely resembles JavaScript object literal syntax, it can be used independently from JavaScript." ,  [Working with JSON - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
 
-For more Chrome debugging techniques, check out [advanced DevTools tips](https://theluckystrike.github.io/chrome-tips/devtools-advanced) and [network debugging strategies](https://theluckystrike.github.io/chrome-tips/network-debugging). You can also explore [Chrome extension recommendations](https://theluckystrike.github.io/chrome-tips/extension-recommendations) for additional development tools.
+For more Chrome debugging techniques, check out [advanced DevTools tips](https://chrometipsguide.com/devtools-advanced) and [network debugging strategies](https://chrometipsguide.com/network-debugging). You can also explore [Chrome extension recommendations](https://chrometipsguide.com/extension-recommendations) for additional development tools.
 
 Built by Michael Lip — More tips at zovo.one

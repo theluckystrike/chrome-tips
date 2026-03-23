@@ -21,7 +21,7 @@ og:
   title: "JSON Content-Type Not Recognized by Chrome"
   description: "Chrome not recognizing JSON content-type? Fix it instantly with these proven solutions that work for developers in 2026."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-content-type-not-recognized-chrome/"
+  url: "https://chrometipsguide.com/json-content-type-not-recognized-chrome/"
   image: "https://og-image.vercel.app/JSON%20Content-Type%20Not%20Recognized%20by%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "Why is my json content type not recognized chrome?"

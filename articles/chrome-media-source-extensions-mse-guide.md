@@ -2,6 +2,7 @@
 layout: default
 title: Chrome Media Source Extensions MSE Guide
 description: Learn how Chrome Media Source Extensions (MSE) work and how they enable custom video streaming solutions in your browser.
+date: 2026-03-23
 ---
 
 # Chrome Media Source Extensions MSE Guide

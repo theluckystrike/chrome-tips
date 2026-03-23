@@ -67,9 +67,9 @@ It provides a level of control the default browser doesn't offer. With **Tab Sus
 Chrome sleeping tabs are no longer an "experimental" feature; they are a fundamental part of how the modern web stays usable. By understanding how they work and using tools like the Performance dashboard or **Tab Suspender Pro**, you can enjoy the convenience of having dozens of tabs open without the performance penalty that used to come with it. Your browser stays fast, your computer stays cool, and your productivity stays high.
 
 ## Related Articles
-- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
-- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
-- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+- [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

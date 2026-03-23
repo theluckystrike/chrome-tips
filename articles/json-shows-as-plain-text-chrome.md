@@ -12,7 +12,7 @@ target_keyword: "json shows as plain text chrome"
 target_extension: "json-formatter-pro"
 word_count: 1260
 reading_time: 5
-canonical_url: "https://theluckystrike.github.io/chrome-tips/json-shows-as-plain-text-chrome/"
+canonical_url: "https://chrometipsguide.com/json-shows-as-plain-text-chrome/"
 ---
 
 JSON appears as plain, unformatted text in Chrome when the server sends the wrong Content-Type header or when no formatting extension is installed. Chrome's built-in JSON viewer only activates when it receives content labeled `application/json` in the HTTP response. Anything labeled `text/plain`, `text/html`, or sent without a Content-Type header at all displays as a wall of raw text. The fastest fix for API responses is opening Chrome DevTools (F12), going to the Network tab, and clicking the "Preview" tab for the JSON request: Chrome formats the response there regardless of headers. For a permanent solution, a JSON formatter extension handles it automatically on every page.

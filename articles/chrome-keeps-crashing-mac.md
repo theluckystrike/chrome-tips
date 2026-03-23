@@ -12,7 +12,7 @@ target_keyword: "chrome keeps crashing mac"
 target_extension: "tab-suspender-pro"
 word_count: 1156
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-keeps-crashing-mac/
+canonical_url: https://chrometipsguide.com/chrome-keeps-crashing-mac/
 faq:
   - q: "Why does Chrome keep crashing on my Mac?"
     a: "Chrome keeps crashing on your Mac primarily due to memory overload from too many active tabs and corrupted cache files. Chrome's process-per-tab architecture means each tab uses 100-300MB of RAM, and 20 tabs can consume 4-6GB. When your Mac hits around 80% memory usage, Chrome becomes unstable. Zovo recommends regularly clearing browsing data to prevent cache corruption from triggering crashes."

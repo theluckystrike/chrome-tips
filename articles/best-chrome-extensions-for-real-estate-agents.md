@@ -92,6 +92,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for DNS Lookup](/chrome-tips/chrome-extensions-for-dns-lookup)
-- [Chrome for Wikipedia Enhanced Reading](/chrome-tips/chrome-for-wikipedia-enhanced-reading)
-- ['Chrome Reporting API Errors Monitor: Complete Guide'](/chrome-tips/chrome-reporting-api-errors-monitor)
+- [Chrome Extensions for DNS Lookup](/chrome-extensions-for-dns-lookup)
+- [Chrome for Wikipedia Enhanced Reading](/chrome-for-wikipedia-enhanced-reading)
+- ['Chrome Reporting API Errors Monitor: Complete Guide'](/chrome-reporting-api-errors-monitor)

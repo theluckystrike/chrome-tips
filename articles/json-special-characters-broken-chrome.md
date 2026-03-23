@@ -21,9 +21,9 @@ og:
   title: "JSON Special Characters Showing as Broken Text in Chrome"
   description: "Fix JSON special characters showing as broken text in Chrome with proven solutions. Quick fixes plus permanent solution using json-formatter-pro."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-special-characters-broken-chrome/"
+  url: "https://chrometipsguide.com/json-special-characters-broken-chrome/"
   image: "https://og-image.vercel.app/JSON%20Special%20Characters%20Showing%20as%20Broken%20Text%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-special-characters-broken-chrome/
+canonical_url: https://chrometipsguide.com/json-special-characters-broken-chrome/
 faq:
   - q: "How do I fix json special characters broken chrome display issue?"
     a: "The fastest fix is switching the character encoding to UTF-8 in Chrome's developer tools. Open Chrome DevTools (F12), navigate to the Network tab, reload the page, and click on the JSON response. Check the Response Headers for Content-Type—if charset=utf-8 is missing, contact your server administrator to add the proper header. This resolves the issue in most cases where JSON special characters appear broken in Chrome."

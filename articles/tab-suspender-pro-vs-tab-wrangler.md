@@ -57,17 +57,17 @@ This is the fundamental split. Tab Suspender Pro *suspends* tabs — it replaces
 
 ### Memory Performance
 
-Tab Wrangler saves more raw memory because closed tabs consume zero resources. In our benchmark with 60 tabs, Tab Wrangler freed roughly 55% of tab-related memory versus Tab Suspender Pro's 42%. But the difference in real terms was about 380 MB — noticeable on a machine with 8 GB RAM, negligible on 16 GB. If you're running a tight setup, that gap matters. For most developers with modern hardware, it doesn't. Learning how to [optimize Chrome's memory usage](https://theluckystrike.github.io/chrome-tips/reduce-chrome-memory-usage/) helps either way.
+Tab Wrangler saves more raw memory because closed tabs consume zero resources. In our benchmark with 60 tabs, Tab Wrangler freed roughly 55% of tab-related memory versus Tab Suspender Pro's 42%. But the difference in real terms was about 380 MB — noticeable on a machine with 8 GB RAM, negligible on 16 GB. If you're running a tight setup, that gap matters. For most developers with modern hardware, it doesn't. Learning how to [optimize Chrome's memory usage](https://chrometipsguide.com/reduce-chrome-memory-usage/) helps either way.
 
 ### Tab Recovery and Workflow
 
-Tab Suspender Pro restores a suspended tab in under 0.3 seconds — you click it and the page is back. Tab Wrangler requires you to open its corral panel, find the closed tab, and click to reopen it, averaging about 1.2 seconds per tab. Over a full workday, that friction compounds. If you regularly [manage large numbers of Chrome tabs](https://theluckystrike.github.io/chrome-tips/manage-many-chrome-tabs/), recovery speed becomes critical.
+Tab Suspender Pro restores a suspended tab in under 0.3 seconds — you click it and the page is back. Tab Wrangler requires you to open its corral panel, find the closed tab, and click to reopen it, averaging about 1.2 seconds per tab. Over a full workday, that friction compounds. If you regularly [manage large numbers of Chrome tabs](https://chrometipsguide.com/manage-many-chrome-tabs/), recovery speed becomes critical.
 
 > "The best tab manager is the one you forget is running. If it interrupts your workflow, you'll disable it within a week." — Chrome Power Users Forum, 2025
 
 ### Configuration and Whitelisting
 
-Tab Suspender Pro supports URL pattern matching for whitelists, so you can exempt `*.github.com/*` or specific paths. Tab Wrangler offers domain-level whitelisting but no granular URL patterns. For developers juggling monitoring dashboards, CI pipelines, and documentation tabs, pattern-based rules prevent important tabs from being touched. Understanding [how Chrome handles background tabs](https://theluckystrike.github.io/chrome-tips/chrome-tab-throttling-explained/) helps you configure either extension more effectively.
+Tab Suspender Pro supports URL pattern matching for whitelists, so you can exempt `*.github.com/*` or specific paths. Tab Wrangler offers domain-level whitelisting but no granular URL patterns. For developers juggling monitoring dashboards, CI pipelines, and documentation tabs, pattern-based rules prevent important tabs from being touched. Understanding [how Chrome handles background tabs](https://chrometipsguide.com/chrome-tab-throttling-explained/) helps you configure either extension more effectively.
 
 ## When to Choose Each
 
@@ -75,7 +75,7 @@ Tab Suspender Pro supports URL pattern matching for whitelists, so you can exemp
 - You keep 20–80 tabs open as part of your working context
 - You want tabs to stay in place and restore instantly
 - You need granular whitelist rules for specific URL patterns
-- You value [fast Chrome startup performance](https://theluckystrike.github.io/chrome-tips/speed-up-chrome-startup/) without losing your session
+- You value [fast Chrome startup performance](https://chrometipsguide.com/speed-up-chrome-startup/) without losing your session
 
 **Choose Tab Wrangler if:**
 - You genuinely want tabs *gone* after a timeout, not just suspended
@@ -83,11 +83,11 @@ Tab Suspender Pro supports URL pattern matching for whitelists, so you can exemp
 - You prefer a "clean slate" approach to browsing and don't mind reopening tabs
 - You use fewer than 30 tabs and want simple auto-close behavior
 
-Both are solid tools. The choice depends on whether you see unused tabs as clutter to remove or context to preserve. If you're comparing other options like BeLikeNative vs Reverso for translation needs, our [best Chrome tab extensions roundup](https://theluckystrike.github.io/chrome-tips/best-chrome-tab-extensions/) covers the full field.
+Both are solid tools. The choice depends on whether you see unused tabs as clutter to remove or context to preserve. If you're comparing other options like BeLikeNative vs Reverso for translation needs, our [best Chrome tab extensions roundup](https://chrometipsguide.com/best-chrome-tab-extensions/) covers the full field.
 
 ## When Tab Suspender Pro Isn't Enough
 
-Tab Suspender Pro doesn't organize tabs — it manages their resource footprint. If your real problem is finding tabs across 6 windows, you need a tab search or grouping tool alongside it. It also won't help with [Chrome's built-in tab freezing](https://theluckystrike.github.io/chrome-tips/chrome-tab-freezing-vs-discarding/) conflicts on very old hardware where Chrome's own discard behavior competes with the extension. And if you need cross-device tab syncing, neither extension handles that — that's a browser-level feature.
+Tab Suspender Pro doesn't organize tabs — it manages their resource footprint. If your real problem is finding tabs across 6 windows, you need a tab search or grouping tool alongside it. It also won't help with [Chrome's built-in tab freezing](https://chrometipsguide.com/chrome-tab-freezing-vs-discarding/) conflicts on very old hardware where Chrome's own discard behavior competes with the extension. And if you need cross-device tab syncing, neither extension handles that — that's a browser-level feature.
 
 ## Our Pick
 
@@ -95,6 +95,6 @@ Tab Suspender Pro doesn't organize tabs — it manages their resource footprint.
 
 > "I switched from Tab Wrangler to Tab Suspender Pro after losing one too many research sessions. Suspension beats closure for knowledge work." — r/chrome, 2025
 
-If you're working with [Chrome tab groups](https://theluckystrike.github.io/chrome-tips/chrome-tab-groups-tips/) or managing multiple projects, Tab Suspender Pro pairs well with Chrome's native organization features. Give it a try and see the difference in your daily workflow.
+If you're working with [Chrome tab groups](https://chrometipsguide.com/chrome-tab-groups-tips/) or managing multiple projects, Tab Suspender Pro pairs well with Chrome's native organization features. Give it a try and see the difference in your daily workflow.
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**

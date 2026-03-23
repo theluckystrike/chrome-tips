@@ -12,7 +12,7 @@ target_keyword: "best chrome extensions students"
 target_extension: "tab-suspender-pro"
 word_count: 1127
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-students/
+canonical_url: https://chrometipsguide.com/best-chrome-extensions-students/
 image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Students%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Best Chrome Extensions for Students in 2026"
   description: "Discover the 7 best chrome extensions students need for productivity, focus, and academic success in 2026."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-chrome-extensions-students/"
+  url: "https://chrometipsguide.com/best-chrome-extensions-students/"
   image: "https://og-image.vercel.app/Best%20Chrome%20Extensions%20for%20Students%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What are the best chrome extensions for students in 2026?"

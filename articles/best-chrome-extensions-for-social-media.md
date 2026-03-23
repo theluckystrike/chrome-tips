@@ -101,6 +101,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Email Tracking](/chrome-tips/chrome-extensions-for-email-tracking)
-- [Chrome For Youtube Music Web Tips](/chrome-tips/chrome-for-youtube-music-web-tips)
-- [How to Restore Closed Tabs in Chrome](/chrome-tips/chrome-restore-closed-tabs-guide)
+- [Chrome Extensions for Email Tracking](/chrome-extensions-for-email-tracking)
+- [Chrome For Youtube Music Web Tips](/chrome-for-youtube-music-web-tips)
+- [How to Restore Closed Tabs in Chrome](/chrome-restore-closed-tabs-guide)

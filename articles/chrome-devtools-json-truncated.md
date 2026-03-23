@@ -12,7 +12,7 @@ target_keyword: "chrome devtools json truncated"
 target_extension: "json-formatter-pro"
 word_count: 1147
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-devtools-json-truncated/
+canonical_url: https://chrometipsguide.com/chrome-devtools-json-truncated/
 faq:
   - q: "Why is my JSON response truncated in Chrome DevTools?"
     a: "Chrome DevTools truncates JSON responses around the 1MB threshold to prevent browser crashes. The exact cutoff is approximately 1,048,576 characters, though this varies based on available system memory. Chrome allocates roughly 1MB for individual network response previews as a memory protection measure. The actual network request completes successfully—your application receives the full data even when DevTools shows a truncated preview. For a better debugging experience, tools like Zovo handle large JSON payloads without truncation."

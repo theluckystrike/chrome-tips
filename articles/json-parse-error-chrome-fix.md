@@ -32,7 +32,7 @@ og:
   title: "JSON Parse Error in Chrome: Common Causes and Fixes"
   description: "Fix Chrome JSON parse errors instantly with proven solutions. Step-by-step guide to resolve parsing issues and prevent future errors."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/json-parse-error-chrome-fix/"
+  url: "https://chrometipsguide.com/json-parse-error-chrome-fix/"
   image: "https://og-image.vercel.app/JSON%20Parse%20Error%20in%20Chrome%3A%20Common%20Causes%20and%20Fixes.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

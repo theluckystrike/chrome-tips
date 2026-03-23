@@ -5,6 +5,7 @@ description: Learn what Chrome partial prerendering is, how it speeds up your br
   and how it differs from traditional page preloading techniques.
 permalink: chrome-partial-prerendering-explained
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # Chrome Partial Prerendering Explained
 

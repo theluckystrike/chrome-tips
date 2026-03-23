@@ -94,6 +94,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Best Chrome Extensions for Developers 2026](/chrome-tips/chrome-extensions-for-developers)
-- [Chrome for Website Monitoring Extensions](/chrome-tips/chrome-for-website-monitoring-extensions)
-- [Chrome Reopen Closed Tab Shortcut](/chrome-tips/chrome-reopen-closed-tab-shortcut)
+- [Best Chrome Extensions for Developers 2026](/chrome-extensions-for-developers)
+- [Chrome for Website Monitoring Extensions](/chrome-for-website-monitoring-extensions)
+- [Chrome Reopen Closed Tab Shortcut](/chrome-reopen-closed-tab-shortcut)

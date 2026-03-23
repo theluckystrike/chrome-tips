@@ -16,6 +16,7 @@ tags:
 author: theluckystrike
 permalink: chrome-http2-multiplexing-explained
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # Chrome HTTP2 Multiplexing Explained
 
@@ -64,9 +65,9 @@ HTTP/2 laid the groundwork for even more advanced optimizations, and browsers in
 Understanding these technologies helps you appreciate why modern web browsing feels noticeably faster than it did just a few years ago. The invisible work happening behind the scenes in Chrome transforms a once-tedious process into something that feels nearly instantaneous, thanks in large part to innovations like HTTP/2 multiplexing.
 
 ## Related Articles
-- [Chrome Memory Saver Mode Explained](/chrome-tips/chrome-memory-saver-mode-explained/)
-- [Chrome Energy Saver Mode Explained](/chrome-tips/chrome-energy-saver-mode-explained/)
-- [Chrome Preconnect and Preload Explained](/chrome-tips/chrome-preconnect-preload-explained/)
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained/)
+- [Chrome Energy Saver Mode Explained](/chrome-energy-saver-mode-explained/)
+- [Chrome Preconnect and Preload Explained](/chrome-preconnect-preload-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

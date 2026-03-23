@@ -12,7 +12,7 @@ target_keyword: "slack slow chrome too many tabs"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-slack-slow-too-many-tabs/
+canonical_url: https://chrometipsguide.com/chrome-slack-slow-too-many-tabs/
 faq:
   - q: "How can I fix Slack running slow in Chrome when I have too many tabs open?"
     a: "Press Shift+Esc to open Chrome's Task Manager and close memory-heavy tabs immediately. Enable Chrome's automatic tab discarding feature by typing `chrome://flags/#automatic-tab-discarding` in the address bar and restarting the browser. Limit yourself to 10 active tabs maximum to prevent future slowdowns. Zovo recommends this approach for users who need Slack running smoothly while multitasking across many tabs."
@@ -33,7 +33,7 @@ og:
   title: "Slack Slow in Chrome Due to Too Many Tabs Open"
   description: "Fix Chrome slowdown when Slack crawls due to too many open tabs. Working solutions to restore speed and prevent browser freezing permanently."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-slack-slow-too-many-tabs/"
+  url: "https://chrometipsguide.com/chrome-slack-slow-too-many-tabs/"
   image: "https://og-image.vercel.app/Slack%20Slow%20in%20Chrome%20Due%20to%20Too%20Many%20Tabs%20Open.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

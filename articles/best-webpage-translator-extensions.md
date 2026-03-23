@@ -12,7 +12,7 @@ target_keyword: "best webpage translator extensions"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/best-webpage-translator-extensions/
+canonical_url: https://chrometipsguide.com/best-webpage-translator-extensions/
 image: "https://og-image.vercel.app/Best%20Webpage%20Translator%20Extensions%3A%20Full%20Page%20Translation.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Best Webpage Translator Extensions: Full Page Translation"
   description: "Compare the 6 best webpage translator extensions for Chrome. BeLikeNative leads with AI-powered translation that outperforms Google Translate."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/best-webpage-translator-extensions/"
+  url: "https://chrometipsguide.com/best-webpage-translator-extensions/"
   image: "https://og-image.vercel.app/Best%20Webpage%20Translator%20Extensions%3A%20Full%20Page%20Translation.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What are the best webpage translator extensions for Chrome in 2026?"
@@ -140,4 +140,4 @@ The subscription cost initially seems steep compared to free alternatives, but t
 **[Try BeLikeNative Free](https://zovo.one)**
 
 Built by Michael Lip. More tips at zovo.one
-> **See also:** [belikenative vs google translate extension: 2026](https://theluckystrike.github.io/chrome-tips/belikenative-vs-google-translate-extension)
+> **See also:** [belikenative vs google translate extension: 2026](https://chrometipsguide.com/belikenative-vs-google-translate-extension)

@@ -12,7 +12,7 @@ target_keyword: "how to learn german while browsing"
 target_extension: "belikenative"
 word_count: 1285
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-learn-german-while-browsing/
+canonical_url: https://chrometipsguide.com/how-to-learn-german-while-browsing/
 image: "https://og-image.vercel.app/How%20to%20Learn%20German%20While%20Browsing%20the%20Web.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "How to Learn German While Browsing the Web"
   description: "Learn how to learn german while browsing with Chrome's built-in translator and 5 proven browser techniques that turn any website into your German classroom."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-learn-german-while-browsing/"
+  url: "https://chrometipsguide.com/how-to-learn-german-while-browsing/"
   image: "https://og-image.vercel.app/How%20to%20Learn%20German%20While%20Browsing%20the%20Web.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 
@@ -74,7 +74,7 @@ For advanced learners, bookmark German forums and discussion boards where you ca
 
 The extension highlights unfamiliar words and provides contextual definitions through hover tooltips. You can adjust difficulty levels to match your current German proficiency, gradually reducing assistance as your skills improve. The 999KiB download size means minimal impact on browser performance during extended reading sessions.
 
-Additional extensions worth considering include language immersion tools that [replace English websites with German equivalents](https://theluckystrike.github.io/chrome-tips/language-immersion-browsing) and vocabulary trackers that monitor your learning progress across different websites.
+Additional extensions worth considering include language immersion tools that [replace English websites with German equivalents](https://chrometipsguide.com/language-immersion-browsing) and vocabulary trackers that monitor your learning progress across different websites.
 
 Grammar checking extensions help identify sentence patterns and word relationships in German text. These tools provide visual cues about grammatical structures that might be difficult to notice during casual reading.
 
@@ -84,7 +84,7 @@ Enable Chrome's reading list feature to save German articles for later review. A
 
 Reading analytics extensions track vocabulary exposure and comprehension rates across different German websites. These tools identify which topics provide the most effective learning opportunities based on your engagement patterns and retention rates.
 
-Set up [browser automation](https://theluckystrike.github.io/chrome-tips/automated-language-learning) to rotate through German websites at scheduled intervals. This creates consistent exposure without requiring conscious effort to seek out German content.
+Set up [browser automation](https://chrometipsguide.com/automated-language-learning) to rotate through German websites at scheduled intervals. This creates consistent exposure without requiring conscious effort to seek out German content.
 
 > "Use the chrome.i18n infrastructure to implement internationalization across your whole extension, providing locale-specific strings via messages.json files." ,  [chrome.i18n API - Chrome Extensions](https://developer.chrome.com/docs/extensions/reference/api/i18n)
 
@@ -108,13 +108,13 @@ Start with visual-heavy content like photo blogs, recipe sites, and product revi
 
 Browser-based learning often focuses exclusively on reading, neglecting pronunciation and listening skills. Many German websites include embedded audio content, podcasts, and video materials that provide crucial auditory learning opportunities.
 
-Enable auto-play for trusted German news sites so you hear pronunciation alongside text. Use [Chrome's accessibility features](https://theluckystrike.github.io/chrome-tips/screen-reader-language-learning) to activate text-to-speech for any German content, creating dual-mode learning experiences.
+Enable auto-play for trusted German news sites so you hear pronunciation alongside text. Use [Chrome's accessibility features](https://chrometipsguide.com/screen-reader-language-learning) to activate text-to-speech for any German content, creating dual-mode learning experiences.
 
 ### Inconsistent Practice Schedule
 
 Sporadic browsing sessions provide insufficient exposure for meaningful language acquisition. German learning requires consistent daily contact, even in small doses. Irregular practice prevents vocabulary retention and grammatical pattern recognition from developing naturally.
 
-Schedule specific times for German browsing rather than hoping to remember during busy days. Replace one English news source with a German equivalent, creating automatic exposure without additional time commitment. [Habit stacking techniques](https://theluckystrike.github.io/chrome-tips/language-learning-habits) help integrate German browsing into existing routines.
+Schedule specific times for German browsing rather than hoping to remember during busy days. Replace one English news source with a German equivalent, creating automatic exposure without additional time commitment. [Habit stacking techniques](https://chrometipsguide.com/language-learning-habits) help integrate German browsing into existing routines.
 
 ## Pro Tip: Skip the Manual Steps
 

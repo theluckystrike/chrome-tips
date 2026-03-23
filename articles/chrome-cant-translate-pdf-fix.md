@@ -12,7 +12,7 @@ target_keyword: "chrome can't translate pdf fix"
 target_extension: "belikenative"
 word_count: 1280
 reading_time: 5
-canonical_url: "https://theluckystrike.github.io/chrome-tips/chrome-cant-translate-pdf-fix/"
+canonical_url: "https://chrometipsguide.com/chrome-cant-translate-pdf-fix/"
 ---
 
 Chrome cannot translate most PDFs because the browser's PDF viewer runs inside a sandboxed process that is isolated from the translation engine. The translation bar appears for HTML pages by hooking into the DOM parsing pipeline, but PDF content bypasses that pipeline entirely. The fastest workaround is opening the PDF as a Google Doc: click File in Chrome's PDF viewer, choose "Open in Google Docs," and translate from the Docs toolbar. That converts the sandboxed PDF into an HTML document Chrome can translate normally.

@@ -2,6 +2,7 @@
 layout: default
 title: Chrome Reporting Connector for Security Events
 description: Learn how to configure Chrome reporting connectors to capture and analyze security events from your browser. This guide covers the Reporting API, security event types, and implementation steps.
+date: 2026-03-23
 ---
 
 # Chrome Reporting Connector for Security Events

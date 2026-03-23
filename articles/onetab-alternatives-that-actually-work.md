@@ -12,7 +12,7 @@ target_keyword: "onetab alternatives that actually work"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/onetab-alternatives-that-actually-work/
+canonical_url: https://chrometipsguide.com/onetab-alternatives-that-actually-work/
 image: "https://og-image.vercel.app/OneTab%20Alternatives%20That%20Actually%20Work%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "OneTab Alternatives That Actually Work in 2026"
   description: "Top 5 OneTab alternatives tested and ranked. Find tab management extensions that actually deliver on memory savings and session recovery in 2026."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/onetab-alternatives-that-actually-work/"
+  url: "https://chrometipsguide.com/onetab-alternatives-that-actually-work/"
   image: "https://og-image.vercel.app/OneTab%20Alternatives%20That%20Actually%20Work%20in%202026.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "Why does OneTab lose my tabs after browser restarts?"

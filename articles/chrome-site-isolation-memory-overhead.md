@@ -65,9 +65,9 @@ Understanding how Site Isolation works and affects your system empowers you to m
 
 ## Related Articles
 
-- [Chrome Site Isolation Explained](/chrome-tips/chrome-site-isolation-explained/)
-- [Chrome vs Edge Memory Usage Comparison](/chrome-tips/chrome-vs-edge-memory-usage-comparison/)
-- [How to Reduce Chrome Memory Usage](/chrome-tips/how-to-reduce-chrome-memory-usage/)
+- [Chrome Site Isolation Explained](/chrome-site-isolation-explained/)
+- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison/)
+- [How to Reduce Chrome Memory Usage](/how-to-reduce-chrome-memory-usage/)
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -12,7 +12,7 @@ target_keyword: "chrome memory leak fix"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-memory-leak-fix/
+canonical_url: https://chrometipsguide.com/chrome-memory-leak-fix/
 faq:
   - q: "How do I fix Chrome memory leak?"
     a: "Enable Memory Saver mode in chrome://settings/performance to fix Chrome memory leak immediately. This setting automatically suspends inactive tabs, freeing RAM while keeping your place saved. For best results, also set automatic tab discarding after 5 minutes of inactivity and restart Chrome to activate memory conservation. Zovo recommends these settings for instant relief from excessive RAM usage."

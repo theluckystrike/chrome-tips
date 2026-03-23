@@ -12,7 +12,7 @@ target_keyword: "how to translate pdf in chrome"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-pdf-in-chrome/
+canonical_url: https://chrometipsguide.com/how-to-translate-pdf-in-chrome/
 faq:
   - q: "How do I translate a PDF in Chrome without downloading it?"
     a: "Open the PDF in Chrome, right-click anywhere on the document, and select 'Translate to English' from the context menu. Chrome's built-in translator processes the entire document in 2-3 seconds. This method works directly in your browser without downloading files or using separate translation tools. Zovo recommends this approach for its speed and simplicity."
@@ -43,7 +43,7 @@ The first step requires getting your PDF document to display properly in Chrome'
 
 If your PDF doesn't open in Chrome automatically, you might need to adjust your browser settings. Navigate to chrome://settings/content/pdfDocuments and ensure "Open PDFs in Chrome" is enabled. This setting forces Chrome to use its internal PDF viewer instead of prompting downloads.
 
-Some PDFs might display differently based on their encoding. Text-based PDFs work perfectly with Chrome's translator, while image-based PDFs or scanned documents might require [optical character recognition tools](https://theluckystrike.github.io/chrome-tips/) before translation becomes possible.
+Some PDFs might display differently based on their encoding. Text-based PDFs work perfectly with Chrome's translator, while image-based PDFs or scanned documents might require [optical character recognition tools](https://chrometipsguide.com/) before translation becomes possible.
 
 ### Access Chrome's Built-in Translation Feature
 
@@ -77,13 +77,13 @@ To switch back to the original language, right-click again and select "Show orig
 
 Many users attempt to translate scanned documents or PDFs containing mostly images with embedded text. Chrome's built-in translator only works with selectable, copyable text. If you can't highlight words in your PDF by clicking and dragging, translation won't work properly.
 
-Test whether your PDF contains actual text by trying to select a word or sentence. If selection doesn't work, you're dealing with an image-based document that needs [OCR processing](https://theluckystrike.github.io/chrome-tips/) before translation. Consider using Google Drive's OCR feature by uploading the PDF there first.
+Test whether your PDF contains actual text by trying to select a word or sentence. If selection doesn't work, you're dealing with an image-based document that needs [OCR processing](https://chrometipsguide.com/) before translation. Consider using Google Drive's OCR feature by uploading the PDF there first.
 
 ### Forgetting to Enable JavaScript
 
 Chrome's translation feature relies on JavaScript to function properly. If you've disabled JavaScript in your browser settings or are using extensions that block scripts, the translate option might not appear in the right-click menu.
 
-Check your JavaScript settings at chrome://settings/content/javascript and ensure it's enabled for all sites. Some [privacy-focused extensions](https://theluckystrike.github.io/chrome-tips/) might interfere with translation functionality, so try disabling them temporarily if you're experiencing issues.
+Check your JavaScript settings at chrome://settings/content/javascript and ensure it's enabled for all sites. Some [privacy-focused extensions](https://chrometipsguide.com/) might interfere with translation functionality, so try disabling them temporarily if you're experiencing issues.
 
 ### Assuming All Languages Work Perfectly
 
@@ -111,7 +111,7 @@ Chrome's PDF translation includes several lesser-known features that enhance the
 
 > "The Intl object is the namespace for the ECMAScript Internationalization API, which provides locale-sensitive string comparison, number formatting, and date/time formatting." ,  Internationalization (Intl) - JavaScript - MDN Web Docs (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl)
 
-For users working with technical documents, Chrome allows you to add custom dictionaries and terminology preferences. Navigate to your [language settings](https://theluckystrike.github.io/chrome-tips/) and add specialized terms that Chrome should handle differently during translation. This feature particularly helps with industry-specific jargon and proper nouns.
+For users working with technical documents, Chrome allows you to add custom dictionaries and terminology preferences. Navigate to your [language settings](https://chrometipsguide.com/) and add specialized terms that Chrome should handle differently during translation. This feature particularly helps with industry-specific jargon and proper nouns.
 
 The translation history feature tracks your recent translations and lets you revisit previously translated documents. Access this through Chrome's history menu or by typing chrome://history/ and filtering for PDF files. This proves useful when you need to reference translated content weeks later.
 
@@ -133,7 +133,7 @@ Chrome's PDF translation feature works best in Chrome version 90 and later, with
 
 Other Chromium-based browsers like Microsoft Edge and Brave Browser include similar translation features, though implementation details vary. Edge uses Microsoft Translator instead of Google Translate, which sometimes produces different results for the same source text.
 
-Firefox users need to rely on [browser extensions](https://theluckystrike.github.io/chrome-tips/) for PDF translation since Mozilla doesn't include built-in translation for PDF documents. Safari on Mac provides basic translation through its integrated services, but the feature works inconsistently with complex PDF formatting.
+Firefox users need to rely on [browser extensions](https://chrometipsguide.com/) for PDF translation since Mozilla doesn't include built-in translation for PDF documents. Safari on Mac provides basic translation through its integrated services, but the feature works inconsistently with complex PDF formatting.
 
 The manual Chrome translation method handles most PDF translation needs effectively, but users processing multiple documents daily might benefit from automated solutions. Understanding both approaches gives you flexibility to choose the right tool for each situation.
 

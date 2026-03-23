@@ -12,7 +12,7 @@ target_keyword: "json response timeout chrome"
 target_extension: "json-formatter-pro"
 word_count: 1263
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/json-response-timeout-chrome/
+canonical_url: https://chrometipsguide.com/json-response-timeout-chrome/
 faq:
   - q: "How do I fix JSON response timeout in Chrome?"
     a: "Open Chrome DevTools with F12, click the gear icon for Settings, and under the Network section set Request timeout to 60000ms (60 seconds). This doubles Chrome's default 30-second timeout and gives large JSON responses enough time to fully load and parse without triggering the timeout error."

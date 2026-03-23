@@ -21,7 +21,7 @@ og:
   title: "Toby Alternatives: Simpler Tab Management Extensions"
   description: "Discover 5 powerful Toby alternatives for Chrome tab management. Compare features, pricing, and performance to find your perfect tab organizer."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/toby-tab-manager-alternatives/"
+  url: "https://chrometipsguide.com/toby-tab-manager-alternatives/"
   image: "https://og-image.vercel.app/Toby%20Alternatives%3A%20Simpler%20Tab%20Management%20Extensions.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What are the best toby tab manager alternatives for lighter tab management?"

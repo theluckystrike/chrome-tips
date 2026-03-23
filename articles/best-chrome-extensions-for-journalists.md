@@ -92,6 +92,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for College Professors](/chrome-tips/chrome-extensions-for-college-professors)
-- [Chrome for Udemy in Browser Tips](/chrome-tips/chrome-for-udemy-in-browser-tips)
-- ['Chrome Regex Lookbehind Support: What You Need to Know'](/chrome-tips/chrome-regex-lookbehind-support)
+- [Chrome Extensions for College Professors](/chrome-extensions-for-college-professors)
+- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
+- ['Chrome Regex Lookbehind Support: What You Need to Know'](/chrome-regex-lookbehind-support)

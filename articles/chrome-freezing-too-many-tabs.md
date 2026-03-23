@@ -12,7 +12,7 @@ target_keyword: "chrome freezing too many tabs"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-freezing-too-many-tabs/
+canonical_url: https://chrometipsguide.com/chrome-freezing-too-many-tabs/
 faq:
   - q: "Why does Chrome freeze when I have too many tabs open?"
     a: "Chrome freezes because its process-per-tab architecture creates a separate process for each tab, consuming massive amounts of RAM. Each tab uses 50-200MB, so 30 tabs can consume 1.5-6GB of memory. When your system exceeds available RAM and your GPU's VRAM is exhausted from graphics rendering, Chrome becomes completely unresponsive. Enable Memory Saver mode in chrome://settings/performance to help Zovo optimize background tab resource usage."
@@ -74,13 +74,13 @@ You can customize which sites never get discarded by adding them to the exceptio
 
 ### Use Tab Groups for Organization
 
-Right-click any tab and select **Add to new group** to create organized clusters. This doesn't reduce memory usage but makes it easier to close entire groups of related tabs when switching projects. You can [manage tab groups more effectively](https://theluckystrike.github.io/chrome-tips/tab-organization) by assigning colors and names to different work contexts.
+Right-click any tab and select **Add to new group** to create organized clusters. This doesn't reduce memory usage but makes it easier to close entire groups of related tabs when switching projects. You can [manage tab groups more effectively](https://chrometipsguide.com/tab-organization) by assigning colors and names to different work contexts.
 
 ### Restart Chrome Regularly
 
 A complete browser restart clears accumulated memory leaks and resets all processes. Save your tabs first using **Bookmarks > Bookmark all tabs** or use Chrome's continue where you left off feature in settings. This nuclear option works when other methods fail.
 
-For power users, creating [custom keyboard shortcuts](https://theluckystrike.github.io/chrome-tips/keyboard-shortcuts) can speed up tab management considerably.
+For power users, creating [custom keyboard shortcuts](https://chrometipsguide.com/keyboard-shortcuts) can speed up tab management considerably.
 
 ## Fix It Permanently with Tab-Suspender-Pro
 
@@ -92,7 +92,7 @@ The key difference from Chrome's built-in Memory Saver is granular control. You 
 
 Tab Suspender Pro has a **4.9/5** rating and receives regular updates, with version **1.0.27** released March 2026. At only **185KiB**, it adds minimal overhead while potentially saving gigabytes of RAM.
 
-The extension integrates with Chrome's native tab management system and works alongside features like [tab grouping strategies](https://theluckystrike.github.io/chrome-tips/advanced-tab-groups) and [session management](https://theluckystrike.github.io/chrome-tips/session-restore).
+The extension integrates with Chrome's native tab management system and works alongside features like [tab grouping strategies](https://chrometipsguide.com/advanced-tab-groups) and [session management](https://chrometipsguide.com/session-restore).
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
 
@@ -110,6 +110,6 @@ Yes, but not completely. Chrome retains some cached data for faster reopening, s
 
 Absolutely. Modern solutions like automatic tab suspension maintain your tab layout while freeing resources. You can also bookmark tab sessions and restore them later, or use Chrome's built-in session management to continue where you left off after restarting.
 
-For additional troubleshooting techniques, check out guides on [browser performance optimization](https://theluckystrike.github.io/chrome-tips/performance-tuning) and [memory management tips](https://theluckystrike.github.io/chrome-tips/memory-optimization). More advanced users might benefit from [extension development tutorials](https://theluckystrike.github.io/chrome-tips/extension-development) to create custom solutions.
+For additional troubleshooting techniques, check out guides on [browser performance optimization](https://chrometipsguide.com/performance-tuning) and [memory management tips](https://chrometipsguide.com/memory-optimization). More advanced users might benefit from [extension development tutorials](https://chrometipsguide.com/extension-development) to create custom solutions.
 
 Built by Michael Lip — More tips at [zovo.one](https://zovo.one)

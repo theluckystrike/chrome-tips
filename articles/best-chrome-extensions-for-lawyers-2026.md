@@ -100,6 +100,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Color Palette Generator](/chrome-tips/chrome-extensions-for-color-palette-generator)
-- [Chrome For Vimeo Web Upload Tips](/chrome-tips/chrome-for-vimeo-web-upload-tips)
-- ['Chrome Release Schedule: How Often Does It Update'](/chrome-tips/chrome-release-schedule-how-often-does-it-update)
+- [Chrome Extensions for Color Palette Generator](/chrome-extensions-for-color-palette-generator)
+- [Chrome For Vimeo Web Upload Tips](/chrome-for-vimeo-web-upload-tips)
+- ['Chrome Release Schedule: How Often Does It Update'](/chrome-release-schedule-how-often-does-it-update)

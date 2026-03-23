@@ -5,6 +5,7 @@ description: Learn how to configure Chrome referrer policy for better privacy an
   security. Discover the different policy options and when to use each one.
 permalink: chrome-referrer-policy-best-practices
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # Chrome Referrer Policy Best Practices
 

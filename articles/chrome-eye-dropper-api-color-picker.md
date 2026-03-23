@@ -5,6 +5,7 @@ description: Learn how to implement the Eye Dropper API in Chrome to let users p
   colors from any pixel on their screen.
 permalink: chrome-eye-dropper-api-color-picker
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # How to Use the Chrome Eye Dropper API for Color Picking
 

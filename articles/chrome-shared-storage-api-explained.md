@@ -59,8 +59,8 @@ Finally, if you find that managing **Privacy Sandbox** settings and multiple **t
 Using **Tab Suspender Pro** is an excellent way to maintain performance. It automatically "hibernates" background tabs, freeing up **RAM** so that Chrome's **Privacy Sandbox** and **Shared Storage API** operations can run smoothly without lagging your active window. By keeping your browser lean, you ensure that new **privacy-preserving technologies** don't come at the cost of a snappy user experience.
 
 ## Related Articles
-- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
-- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
-- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+- [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

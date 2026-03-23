@@ -21,9 +21,9 @@ og:
   title: "Chrome Making Your Fan Run Loud? Here's the Solution"
   description: "Fix Chrome fan running loud with proven techniques. Stop overheating, reduce CPU usage, and quiet your laptop fan with these tested solutions."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-fan-running-loud-fix/"
+  url: "https://chrometipsguide.com/chrome-fan-running-loud-fix/"
   image: "https://og-image.vercel.app/Chrome%20Making%20Your%20Fan%20Run%20Loud%3F%20Here%27s%20the%20Solution.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-fan-running-loud-fix/
+canonical_url: https://chrometipsguide.com/chrome-fan-running-loud-fix/
 faq:
   - q: "How do I fix Chrome making my fan run loud?"
     a: "The fastest chrome fan running loud fix is closing background tabs. Chrome's process-per-tab architecture means 15 tabs can spawn 25-30 processes competing for CPU. Open Chrome Task Manager with Shift+Esc to identify resource-heavy tabs, or use Tab Suspender Pro like Zovo to automatically suspend inactive tabs and reduce the processing load on your system."

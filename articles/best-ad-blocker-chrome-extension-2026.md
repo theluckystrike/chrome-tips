@@ -97,6 +97,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Auto Refresh Page](/chrome-tips/chrome-extensions-for-auto-refresh-page)
-- [Chrome for Target Web App Best Extensions](/chrome-tips/chrome-for-target-web-app-best-extensions)
-- [Chrome Reading List on Phone How to Use](/chrome-tips/chrome-reading-list-on-phone-how-to-use)
+- [Chrome Extensions for Auto Refresh Page](/chrome-extensions-for-auto-refresh-page)
+- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)

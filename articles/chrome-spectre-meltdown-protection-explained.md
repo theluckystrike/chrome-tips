@@ -72,9 +72,9 @@ For most users, the default security settings in Chrome provide ample protection
 
 ## Related Articles
 
-- [chrome sandbox mode explained](/chrome-tips/chrome-sandbox-mode-explained/)
-- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/chrome-tips/chrome-site-isolation-security-feature/)
-- [Chrome Spectre Attack Protection in Browser](/chrome-tips/chrome-spectre-attack-protection-in-browser/)
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained/)
+- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/chrome-site-isolation-security-feature/)
+- [Chrome Spectre Attack Protection in Browser](/chrome-spectre-attack-protection-in-browser/)
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

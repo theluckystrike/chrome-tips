@@ -93,9 +93,9 @@ Learning the chrome keyboard shortcuts complete list takes some time, but the pr
 
 ## Related Articles
 
-- [Chrome Tab Management Shortcuts Cheat Sheet](/chrome-tips/chrome-tab-management-shortcuts-cheat-sheet/)
-- [Chrome Address Bar Shortcuts You Should Know](/chrome-tips/chrome-address-bar-shortcuts-you-should-know/)
-- [Chrome Keyboard Shortcuts for Power Users](/chrome-tips/chrome-keyboard-shortcuts-for-power-users/)
+- [Chrome Tab Management Shortcuts Cheat Sheet](/chrome-tab-management-shortcuts-cheat-sheet/)
+- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know/)
+- [Chrome Keyboard Shortcuts for Power Users](/chrome-keyboard-shortcuts-for-power-users/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

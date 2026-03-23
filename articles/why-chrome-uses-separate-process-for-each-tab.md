@@ -5,6 +5,7 @@ description: Discover the engineering decisions behind Chrome's multi-process ar
   and how it improves stability, security, and performance.
 permalink: why-chrome-uses-separate-process-for-each-tab
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # Why Chrome Uses Separate Process for Each Tab
 

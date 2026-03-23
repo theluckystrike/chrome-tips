@@ -99,6 +99,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Email Templates](/chrome-tips/chrome-extensions-for-email-templates)
-- [Chrome For Yahoo Mail Best Extensions](/chrome-tips/chrome-for-yahoo-mail-best-extensions)
-- [Chrome Resource Timing API Explained](/chrome-tips/chrome-resource-timing-api-explained)
+- [Chrome Extensions for Email Templates](/chrome-extensions-for-email-templates)
+- [Chrome For Yahoo Mail Best Extensions](/chrome-for-yahoo-mail-best-extensions)
+- [Chrome Resource Timing API Explained](/chrome-resource-timing-api-explained)

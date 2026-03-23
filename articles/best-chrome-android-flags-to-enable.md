@@ -93,6 +93,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Bibliography Management](/chrome-tips/chrome-extensions-for-bibliography-management)
-- [Chrome For Tiktok Web Best Settings](/chrome-tips/chrome-for-tiktok-web-best-settings)
-- [Chrome Reading Mode Hidden Feature](/chrome-tips/chrome-reading-mode-hidden-feature)
+- [Chrome Extensions for Bibliography Management](/chrome-extensions-for-bibliography-management)
+- [Chrome For Tiktok Web Best Settings](/chrome-for-tiktok-web-best-settings)
+- [Chrome Reading Mode Hidden Feature](/chrome-reading-mode-hidden-feature)

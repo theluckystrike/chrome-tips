@@ -12,7 +12,7 @@ target_keyword: "how to translate images in chrome"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-images-in-chrome/
+canonical_url: https://chrometipsguide.com/how-to-translate-images-in-chrome/
 faq:
   - q: "How do I translate an image in Chrome using Google Lens?"
     a: "Right-click on any image with foreign text in Chrome and select 'Search image with Google Lens' from the context menu. Chrome processes over 3.2 billion image translation requests monthly through its integrated Google Lens technology. Click the translate icon (globe symbol), choose your target language, and view the translated text overlaid directly on the image. For additional translation options, Zovo offers a reliable alternative."

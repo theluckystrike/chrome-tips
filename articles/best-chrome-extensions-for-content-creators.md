@@ -99,6 +99,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Bookmark Manager](/chrome-tips/chrome-extensions-for-bookmark-manager)
-- [Chrome for Touchscreen Optimization Tips](/chrome-tips/chrome-for-touchscreen-optimization-tips)
-- [Chrome Recently Closed Tabs How To Reopen](/chrome-tips/chrome-recently-closed-tabs-how-to-reopen)
+- [Chrome Extensions for Bookmark Manager](/chrome-extensions-for-bookmark-manager)
+- [Chrome for Touchscreen Optimization Tips](/chrome-for-touchscreen-optimization-tips)
+- [Chrome Recently Closed Tabs How To Reopen](/chrome-recently-closed-tabs-how-to-reopen)

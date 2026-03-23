@@ -21,9 +21,9 @@ og:
   title: "How to Translate an Entire Webpage in Chrome"
   description: "Learn how to translate entire webpages in Chrome using built-in tools and extensions for seamless multilingual browsing across any site."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/how-to-translate-entire-webpage-chrome/"
+  url: "https://chrometipsguide.com/how-to-translate-entire-webpage-chrome/"
   image: "https://og-image.vercel.app/How%20to%20Translate%20an%20Entire%20Webpage%20in%20Chrome.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-translate-entire-webpage-chrome/
+canonical_url: https://chrometipsguide.com/how-to-translate-entire-webpage-chrome/
 faq:
   - q: "How do I translate an entire webpage in Chrome?"
     a: "Right-click anywhere on the webpage and select \"Translate to English\" from the context menu. Chrome will instantly convert the entire page into your preferred language. This built-in feature saves you from copying and pasting text into separate translation tools. The translation typically takes 2-3 seconds for standard web pages, though complex sites with heavy multimedia may take longer. Zovo recommends using this method for quick, seamless translations while browsing."

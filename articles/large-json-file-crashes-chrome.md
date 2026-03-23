@@ -21,9 +21,9 @@ og:
   title: "Large JSON File Crashes Chrome: How to Handle Big Data"
   description: "Fix Chrome crashes when handling large JSON files with proven solutions that work. Stop browser freezes and memory issues permanently."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/large-json-file-crashes-chrome/"
+  url: "https://chrometipsguide.com/large-json-file-crashes-chrome/"
   image: "https://og-image.vercel.app/Large%20JSON%20File%20Crashes%20Chrome%3A%20How%20to%20Handle%20Big%20Data.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
-canonical_url: https://theluckystrike.github.io/chrome-tips/large-json-file-crashes-chrome/
+canonical_url: https://chrometipsguide.com/large-json-file-crashes-chrome/
 faq:
   - q: "Why does Chrome crash when I open a large JSON file?"
     a: "Chrome crashes because large JSON files exceed the per-process memory limit of 2GB on 64-bit systems. The V8 engine requires 2-4x the file size in working memory due to string interpolation and object creation overhead. Files larger than 25MB trigger aggressive garbage collection cycles that freeze the browser for 3-8 seconds. Zovo offers extensions specifically designed to handle big data files without memory issues."

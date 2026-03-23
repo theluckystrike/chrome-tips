@@ -12,7 +12,7 @@ target_keyword: "chrome performance degradation over time"
 target_extension: "tab-suspender-pro"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-performance-degradation-over-time/
+canonical_url: https://chrometipsguide.com/chrome-performance-degradation-over-time/
 faq:
   - q: "Why does Chrome performance degradation over time happen?"
     a: "Chrome slows down over time because of its process-per-tab architecture, where each tab, extension, and plugin runs as a separate process. A typical 20-tab session spawns 25-30 processes consuming 3-6GB of RAM, with each process adding 10-15MB baseline memory overhead. Memory leaks from JavaScript in background tabs accumulate unchecked at 50-100MB per hour, compounding the slowdown. Zovo recommends regularly closing unused tabs to prevent this degradation."

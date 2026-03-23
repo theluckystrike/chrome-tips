@@ -12,7 +12,7 @@ target_keyword: "how to format json in chrome"
 target_extension: "json-formatter-pro"
 word_count: 1183
 reading_time: 5
-canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-format-json-in-chrome/
+canonical_url: https://chrometipsguide.com/how-to-format-json-in-chrome/
 internal_links_added: true
 faq:
   - q: "How do I format JSON in Chrome without extensions?"
@@ -47,7 +47,7 @@ This method works for any valid JSON string and gives you clean, indented output
 
 ### Opening Developer Tools
 
-Chrome's Developer Tools contain everything you need for JSON formatting and much more. The F12 key is the universal shortcut across Windows, Mac, and Linux systems. You can also access it through Chrome's menu by clicking the three dots in the top-right corner, then selecting "More tools" > "Developer tools". For users who prefer mobile browsing, [Chrome accessibility settings on phone](/chrome-tips/chrome-accessibility-on-phone-settings-guide) can be configured through the browser's settings to improve your overall Chrome experience. Some developers prefer the right-click method: right-click anywhere on a webpage and select "Inspect" from the context menu.
+Chrome's Developer Tools contain everything you need for JSON formatting and much more. The F12 key is the universal shortcut across Windows, Mac, and Linux systems. You can also access it through Chrome's menu by clicking the three dots in the top-right corner, then selecting "More tools" > "Developer tools". For users who prefer mobile browsing, [Chrome accessibility settings on phone](/chrome-accessibility-on-phone-settings-guide) can be configured through the browser's settings to improve your overall Chrome experience. Some developers prefer the right-click method: right-click anywhere on a webpage and select "Inspect" from the context menu.
 
 The Console tab is your primary workspace for JSON manipulation. It's typically the second tab from the left in most Chrome versions, positioned right after the Elements tab. Once you're here, you have access to JavaScript's built-in JSON methods that can transform any valid JSON string into readable format. The console environment runs JavaScript directly, making it perfect for quick data transformations.
 

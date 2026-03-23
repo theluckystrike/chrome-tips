@@ -5,6 +5,7 @@ description: Learn how using multiple profiles in Chrome affects your browser's 
   memory usage, and what you can do to optimize it.
 permalink: chrome-multiple-profiles-performance-impact
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 If you use Chrome with multiple profiles, you might have noticed that your browser feels slower or uses more memory than when you used just one profile. This is not your imagination — running multiple Chrome profiles does have a measurable impact on performance. Understanding how this works can help you decide whether the convenience of separate profiles is worth the performance trade-off, and more importantly, what you can do to minimize any slowdown.
 

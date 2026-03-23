@@ -12,7 +12,7 @@ target_keyword: "chrome translate breaking page layout"
 target_extension: "belikenative"
 word_count: 1247
 reading_time: 6
-canonical_url: https://theluckystrike.github.io/chrome-tips/chrome-translate-breaking-page-layout/
+canonical_url: https://chrometipsguide.com/chrome-translate-breaking-page-layout/
 faq:
   - q: "How do I stop Chrome translate from breaking page layout on specific websites?"
     a: "To prevent chrome translate breaking page layout on specific sites, right-click the translation bar and select 'Never translate this site.' Alternatively, go to chrome://settings/languages and disable 'Offer to translate pages.' After making changes, refresh the page to restore the original layout. These settings give you permanent control over which sites Chrome attempts to translate."
@@ -33,7 +33,7 @@ og:
   title: "Chrome Translation Breaking Page Layout: How to Fix"
   description: "Chrome translate breaking page layout? Here's the complete fix guide with 4 proven solutions and permanent prevention methods that actually work."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/chrome-translate-breaking-page-layout/"
+  url: "https://chrometipsguide.com/chrome-translate-breaking-page-layout/"
   image: "https://og-image.vercel.app/Chrome%20Translation%20Breaking%20Page%20Layout%3A%20How%20to%20Fix.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 ---
 

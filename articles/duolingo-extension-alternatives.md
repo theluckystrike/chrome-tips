@@ -12,7 +12,7 @@ target_keyword: "duolingo extension alternatives"
 target_extension: "belikenative"
 word_count: 1285
 reading_time: 5 minutes
-canonical_url: https://theluckystrike.github.io/chrome-tips/duolingo-extension-alternatives/
+canonical_url: https://chrometipsguide.com/duolingo-extension-alternatives/
 image: "https://og-image.vercel.app/Duolingo%20Extension%20Alternatives%20for%20In-Browser%20Learning.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 twitter:
   card: summary_large_image
@@ -22,7 +22,7 @@ og:
   title: "Duolingo Extension Alternatives for In-Browser Learning"
   description: "Top 6 Duolingo Extension alternatives tested. BeLikeNative leads with AI-powered translation, real-time paraphrasing, and seamless Chrome integration."
   type: article
-  url: "https://theluckystrike.github.io/chrome-tips/duolingo-extension-alternatives/"
+  url: "https://chrometipsguide.com/duolingo-extension-alternatives/"
   image: "https://og-image.vercel.app/Duolingo%20Extension%20Alternatives%20for%20In-Browser%20Learning.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fzovo.one%2Ffavicon.ico"
 faq:
   - q: "What are the best duolingo extension alternatives for in-browser language learning?"

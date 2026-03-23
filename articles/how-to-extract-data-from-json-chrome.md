@@ -59,7 +59,7 @@ Chrome provides a built-in `copy()` function that automatically copies any value
 
 Type `copy(data.users[0].name)` to copy the first user's name to your clipboard. You can then paste this value anywhere you need it. For complex objects, use `copy(JSON.stringify(data.users[0], null, 2))` to get a formatted JSON string.
 
-The `copy()` function works with strings, numbers, objects, and arrays. It's particularly useful when you need to extract multiple pieces of data and use them in other applications or [debugging Chrome extensions](https://theluckystrike.github.io/chrome-tips/).
+The `copy()` function works with strings, numbers, objects, and arrays. It's particularly useful when you need to extract multiple pieces of data and use them in other applications or [debugging Chrome extensions](https://chrometipsguide.com/).
 
 ## Common Mistakes
 
@@ -79,7 +79,7 @@ Always verify your data structure first by typing just the variable name (`data`
 
 You're trying to extract data from what looks like a single object, but it's actually wrapped in an array. This is extremely common with API responses that return arrays even for single results.
 
-Check if your data is an array by typing `Array.isArray(data)` in the console. If it returns true, you need to access the first element with `data[0]` before accessing properties. Many developers waste time trying `data.name` when they should be using `data[0].name`. When working with [Chrome's network debugging tools](https://theluckystrike.github.io/chrome-tips/), always check the response structure first.
+Check if your data is an array by typing `Array.isArray(data)` in the console. If it returns true, you need to access the first element with `data[0]` before accessing properties. Many developers waste time trying `data.name` when they should be using `data[0].name`. When working with [Chrome's network debugging tools](https://chrometipsguide.com/), always check the response structure first.
 
 ### Mixing Up JSON.parse and JSON.stringify
 
@@ -99,11 +99,11 @@ The extension was last updated on March 2nd, 2026, ensuring compatibility with t
 
 **[Try JSON Formatter Pro Free](https://zovo.one)**
 
-When you're building [Chrome automation workflows](https://theluckystrike.github.io/chrome-tips/) or need to extract data from multiple API endpoints quickly, having the right tools makes all the difference. The manual console method teaches you the fundamentals, but extensions like JSON Formatter Pro eliminate the repetitive work so you can focus on actual development tasks.
+When you're building [Chrome automation workflows](https://chrometipsguide.com/) or need to extract data from multiple API endpoints quickly, having the right tools makes all the difference. The manual console method teaches you the fundamentals, but extensions like JSON Formatter Pro eliminate the repetitive work so you can focus on actual development tasks.
 
-For developers working with REST APIs, GraphQL responses, or configuration files, having both skills ensures you can extract JSON data efficiently regardless of your current setup. Whether you're [optimizing Chrome's developer tools](https://theluckystrike.github.io/chrome-tips/) or building data processing workflows, these techniques form the foundation of effective JSON manipulation in the browser.
+For developers working with REST APIs, GraphQL responses, or configuration files, having both skills ensures you can extract JSON data efficiently regardless of your current setup. Whether you're [optimizing Chrome's developer tools](https://chrometipsguide.com/) or building data processing workflows, these techniques form the foundation of effective JSON manipulation in the browser.
 
-Modern web development relies heavily on JSON for data exchange between services. Understanding how Chrome handles JSON parsing gives you better insight into browser performance and helps you debug issues when working with [Chrome extension APIs](https://theluckystrike.github.io/chrome-tips/) or third-party integrations.
+Modern web development relies heavily on JSON for data exchange between services. Understanding how Chrome handles JSON parsing gives you better insight into browser performance and helps you debug issues when working with [Chrome extension APIs](https://chrometipsguide.com/) or third-party integrations.
 
 The console method also works perfectly for one-time extractions or when you're on a restricted system where installing extensions isn't allowed. Both approaches have their place in a developer's toolkit, and knowing when to use each one saves considerable time during development cycles.
 

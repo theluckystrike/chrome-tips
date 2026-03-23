@@ -94,8 +94,8 @@ By understanding the memory management features each browser offers and implemen
 
 ## Related Articles
 
-- [Chrome vs Brave Browser Comparison 2026](/chrome-tips/chrome-vs-brave-browser-comparison-2026/)
-- [Is Microsoft Edge Better Than Chrome Now](/chrome-tips/is-microsoft-edge-better-than-chrome-now/)
-- [Best Browser for Low RAM Computer 2026](/chrome-tips/best-browser-for-low-ram-computer-2026/)
+- [Chrome vs Brave Browser Comparison 2026](/chrome-vs-brave-browser-comparison-2026/)
+- [Is Microsoft Edge Better Than Chrome Now](/is-microsoft-edge-better-than-chrome-now/)
+- [Best Browser for Low RAM Computer 2026](/best-browser-for-low-ram-computer-2026/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

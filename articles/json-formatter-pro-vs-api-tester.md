@@ -12,7 +12,7 @@ target_keyword: "json formatter pro vs api tester extension"
 target_extension: "json-formatter-pro"
 word_count: 1270
 reading_time: 6
-canonical_url: "https://theluckystrike.github.io/chrome-tips/json-formatter-pro-vs-api-tester/"
+canonical_url: "https://chrometipsguide.com/json-formatter-pro-vs-api-tester/"
 ---
 
 # JSON Formatter Pro vs API Tester: Which Is Better in 2026?

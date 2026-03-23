@@ -16,6 +16,7 @@ tags:
 author: theluckystrike
 permalink: chrome-application-tab-devtools-guide
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # Chrome Application Tab DevTools Guide
 

@@ -5,6 +5,7 @@ description: Learn how a chrome tab limiter extension prevent overload issues an
   keeps your browser running smoothly by managing open tabs automatically.
 permalink: chrome-tab-limiter-extension-prevent-overload
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # Chrome Tab Limiter Extension to Prevent Browser Overload
 

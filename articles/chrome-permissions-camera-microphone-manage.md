@@ -5,6 +5,7 @@ description: Learn how to control which websites can access your camera and micr
   in Google Chrome for better privacy and security.
 permalink: chrome-permissions-camera-microphone-manage
 last_modified_at: '2026-03-12'
+date: 2026-03-23
 ---
 # How to Manage Chrome Camera and Microphone Permissions
 

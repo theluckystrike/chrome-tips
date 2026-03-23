@@ -68,8 +68,8 @@ Managing **site permissions** is a critical part of maintaining a healthy browse
 This is where **Tab Suspender Pro** becomes an essential tool. It automatically "hibernates" inactive tabs, freeing up **RAM** and **CPU** resources. This ensures that when you need to jump into your **Chrome settings** to manage **location access** or **microphone permissions**, the browser is snappy and responsive. By keeping your system resources lean, you can audit your **security settings** without the frustration of lag or browser crashes.
 
 ## Related Articles
-- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
-- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
-- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+- [Best Chrome Flags to Speed Up Browsing 2024](/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

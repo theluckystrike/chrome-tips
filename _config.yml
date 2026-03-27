@@ -1,12 +1,27 @@
 title: "Chrome Tips Guide"
-description: "Practical Chrome browser guides. Speed optimization, extensions, DevTools, and troubleshooting."
+tagline: "Make Chrome Faster, Safer & Smarter — Tips That Actually Work"
+description: "Practical Chrome browser guides with real benchmarks. Speed optimization, extension recommendations, DevTools tutorials, and privacy fixes to get the most out of Google Chrome."
 url: "https://chrometipsguide.com"
 baseurl: ""
+permalink: /:title/
 
-author:
-  name: Chrome Tips Guide
+twitter:
+  username: _alphashark_
+    card: summary_large_image
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
+    author:
+      name: Michael Lip
+        url: https://github.com/theluckystrike
+
+        plugins:
+          - jekyll-seo-tag
+            - jekyll-sitemap
+              - jekyll-feed
+
+              defaults:
+                - scope:
+                      path: "articles"
+                          values:
+                                layout: default
+                                      image: /assets/og-default.svg
+                                      

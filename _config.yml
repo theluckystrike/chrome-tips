@@ -7,21 +7,20 @@ permalink: /:title/
 
 twitter:
   username: _alphashark_
-    card: summary_large_image
+  card: summary_large_image
 
-    author:
-      name: Michael Lip
-        url: https://github.com/theluckystrike
+author:
+  name: Michael Lip
+  url: https://github.com/theluckystrike
 
-        plugins:
-          - jekyll-seo-tag
-            - jekyll-sitemap
-              - jekyll-feed
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
-              defaults:
-                - scope:
-                      path: "articles"
-                          values:
-                                layout: default
-                                      image: /assets/og-default.svg
-                                      
+defaults:
+  - scope:
+      path: "articles"
+    values:
+      layout: default
+      image: /assets/og-default.svg

@@ -4,6 +4,7 @@ title: "Chrome Protocol Handler API for PWAs: A Complete Guide"
 description: "Learn how to use the Chrome Protocol Handler API in Progressive Web Apps to register custom URL schemes and enable deep linking for a native app experience."
 date: 2026-01-15
 last_modified_at: 2026-01-15
+permalink: /chrome-protocol-handler-api-pwa/
 categories: [chrome, pwa, web-development, api]
 tags: [chrome-protocol-handler, pwa, deep-linking, web-api]
 author: theluckystrike

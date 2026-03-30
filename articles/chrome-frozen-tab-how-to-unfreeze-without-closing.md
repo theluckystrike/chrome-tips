@@ -4,6 +4,7 @@ title: How to Unfreeze Chrome Tabs Without Closing Them
 description: Is your Chrome tab frozen and unresponsive? Learn practical methods to unfreeze tabs without losing your place or closing the browser. Simple solutions for stuck tabs.
 date: 2026-01-15
 last_modified_at: 2026-01-15
+permalink: /chrome-frozen-tab-how-to-unfreeze-without-closing/
 categories:
 - chrome
 - tabs

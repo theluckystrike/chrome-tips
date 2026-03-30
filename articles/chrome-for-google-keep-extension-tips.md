@@ -5,6 +5,7 @@ description: "Get the most out of Google Keep in Chrome with these practical ext
   tips for better note-taking and productivity. Discover more tips and tricks to optim
 date: 2026-03-05
 last_modified_at: 2026-03-05
+permalink: /chrome-for-google-keep-extension-tips/
 categories: [productivity, chrome, tools]
 tags: [google-keep, chrome-extensions, note-taking, productivity-tips]
 author: theluckystrike

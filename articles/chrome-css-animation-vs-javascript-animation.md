@@ -4,6 +4,7 @@ title: Chrome CSS Animation vs JavaScript Animation – Which Should You Use?
 description: A practical comparison of CSS and JavaScript animations for Chrome. Learn when to use each method, performance considerations, and real-world examples for your web projects.
 date: 2026-01-15
 last_modified_at: 2026-01-15
+permalink: /chrome-css-animation-vs-javascript-animation/
 categories:
 - chrome
 - web development

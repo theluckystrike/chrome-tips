@@ -4,6 +4,7 @@ title: Chrome GSAP Animation Library Performance
 description: Learn how to optimize Chrome GSAP animation library performance for smoother, faster web animations that enhance user experience without draining system resources.
 date: 2026-03-23
 last_modified_at: 2026-03-23
+permalink: /chrome-gsap-animation-library-performance/
 ---
 
 # Chrome GSAP Animation Library Performance

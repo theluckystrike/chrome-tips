@@ -8,7 +8,8 @@ permalink: "chrome-status-code-502-bad-gateway-fix"
 categories: 
 tags: 
 author: theluckystrike
----# Chrome Status Code 502 Bad Gateway Fix
+---
+# Chrome Status Code 502 Bad Gateway Fix
 
 Encountering a 502 Bad Gateway error in Chrome can be confusing and frustrating. You might be trying to visit a website you use every day, and suddenly Chrome shows this unhelpful error message instead of the page you wanted. The good news is that this error is usually not your fault, and there are several things you can try to get past it. Let me walk you through what causes the chrome status code 502 bad gateway fix and how you can resolve it.
 

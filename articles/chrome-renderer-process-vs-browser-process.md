@@ -3,6 +3,7 @@ layout: default
 title: Chrome Renderer Process vs Browser Process - What's the Difference?
 description: Learn how Chrome's renderer and browser processes work together to deliver fast, secure web browsing. Understand the architecture behind your tabs.
 date: 2026-03-23
+last_modified_at: 2026-03-23
 ---
 
 # Chrome Renderer Process vs Browser Process: Understanding Chrome's Architecture

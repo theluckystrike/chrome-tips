@@ -8,7 +8,8 @@ permalink: "chrome-storage-inspector-how-to-use"
 categories: 
 tags: 
 author: theluckystrike
----# Chrome Storage Inspector How to Use
+---
+# Chrome Storage Inspector How to Use
 
 If you are searching for chrome storage inspector how to use, you probably want to understand how to see what information websites are saving on your computer. The Storage Inspector is a built-in Chrome tool that shows you exactly what data websites store, including things like login information, preferences, and temporary files. This guide will walk you through what it does and how to use it.
 

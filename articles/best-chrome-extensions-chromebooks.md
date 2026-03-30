@@ -25,6 +25,7 @@ faq:
   - q: "Why do Chromebooks need tab suspension extensions?"
     a: "Chromebooks typically have limited RAM, making tab suspension extensions essential for maintaining performance with multiple open tabs. Testing 47 extensions revealed that memory bloat from inactive tabs significantly slows down Chromebooks. The best chrome extensions chromebooks users need automatically hibernate unused tabs while preserving session state, preventing the slowdown that occurs when too many tabs consume system resources simultaneously."
 The best Chrome extension for Chromebook performance is Tab Suspender Pro. It automatically suspends inactive tabs to prevent memory bloat that slows down Chromebooks with limited RAM. After testing 47 extensions across memory management, tab control, and system optimization, these 7 consistently deliver the best chrome extensions chromebooks users need for peak performance.
+---
 
 *Last tested: March 2026 | Chrome latest stable*
 

@@ -3,6 +3,7 @@ layout: default
 title: "Understanding Chrome Pixel Pipeline: Layout, Paint, and Composite"
 description: "Learn how Chrome's rendering pipeline works through layout, paint, and composite stages to optimize web performance."
 date: 2026-03-23
+last_modified_at: 2026-03-23
 ---
 
 # Understanding Chrome Pixel Pipeline: Layout, Paint, and Composite

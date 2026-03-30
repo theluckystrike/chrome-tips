@@ -3,6 +3,7 @@ layout: default
 title: "Chrome USB HID API: Building Custom Controllers for Web Applications"
 description: "Learn how to use the Chrome USB HID API to connect custom controllers directly to your web applications. A practical guide for developers."
 date: 2026-03-23
+last_modified_at: 2026-03-23
 ---
 
 # Chrome USB HID API: Building Custom Controllers for Web Applications

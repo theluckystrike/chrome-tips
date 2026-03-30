@@ -3,6 +3,7 @@ layout: default
 title: How to Remove Most Visited Sites from Chrome New Tab Page
 description: Want to remove most visited sites from Chrome new tab page? This guide shows you simple methods to clear your browsing history and customize your new tab experience.
 date: 2026-03-23
+last_modified_at: 2026-03-23
 ---
 
 # How to Remove Most Visited Sites from Chrome New Tab Page

@@ -3,6 +3,7 @@ layout: default
 title: "Chrome vs Edge RAM Usage: Real Test Results That Might Surprise You"
 description: "We tested Chrome and Edge side-by-side with the same workload. See which browser actually uses less RAM in our real-world benchmark."
 date: 2026-03-23
+last_modified_at: 2026-03-23
 ---
 
 If you have ever watched your computer slow down while browsing with too many tabs open, you have already thought about browser memory usage. Chrome and Edge are the two most popular browsers on Windows, and they both run on the same Chromium engine. That makes the memory difference seem like it should be small, but our tests show the gap can be significant depending on how you use your browser.

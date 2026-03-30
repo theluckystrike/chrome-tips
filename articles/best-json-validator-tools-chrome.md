@@ -28,6 +28,7 @@ faq:
 Chrome's default DevTools JSON viewer fails when handling large payloads, offers no validation feedback, and lacks syntax highlighting for nested objects. After testing 12 extensions, including some of the best developer tools chrome extensions available, I found JSON Formatter Pro delivers the most comprehensive solution for developers seeking the best json validator tools chrome has to offer.
 
 Last tested: March 2026 | Chrome latest stable
+---
 
 1. JSON Formatter Pro. Best Overall Choice
 

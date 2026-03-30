@@ -3,6 +3,7 @@ layout: default
 title: "Chrome Serial Port API: A Complete Guide to Hardware Control"
 description: "Learn how to use the Chrome Serial Port API to connect your browser to hardware devices like Arduino, microcontrollers, and industrial equipment for real-time control."
 date: 2026-01-20
+last_modified_at: 2026-01-20
 permalink: chrome-serial-port-api-hardware-control
 categories:
 - chrome

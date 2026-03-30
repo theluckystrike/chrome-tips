@@ -3,6 +3,7 @@ layout: default
 title: Chrome Canvas 2D Performance Optimization – Complete Guide
 description: Master Chrome Canvas 2D performance optimization with proven techniques. Learn how to reduce rendering time, minimize reflows, and create buttery-smooth animations.
 date: 2026-03-12
+last_modified_at: 2026-03-12
 permalink: chrome-canvas-2d-performance-optimization
 categories:
 - performance

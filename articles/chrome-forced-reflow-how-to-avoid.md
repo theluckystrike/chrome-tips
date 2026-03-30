@@ -3,6 +3,7 @@ layout: default
 title: Chrome Forced Reflow How to Avoid
 description: Learn what causes forced reflow in Chrome, how it impacts performance, and practical techniques to prevent it for smoother web browsing.
 date: 2026-01-15
+last_modified_at: 2026-01-15
 permalink: chrome-forced-reflow-how-to-avoid
 categories:
 - performance

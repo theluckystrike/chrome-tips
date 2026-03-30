@@ -3,6 +3,7 @@ layout: default
 title: Chrome Version Number Meaning Explained
 description: Understand what the numbers and numbers in your Chrome browser version mean and how they indicate browser updates, security patches, and feature releases.
 date: 2025-01-20
+last_modified_at: 2025-01-20
 permalink: chrome-version-number-meaning-explained
 categories:
 - chrome

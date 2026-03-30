@@ -3,6 +3,7 @@ layout: default
 title: Chrome DOM Size Too Large Performance Impact – What You Need to Know
 description: Discover how a large DOM size impacts Chrome browser performance, why it slows down your browser, and practical solutions to optimize your web browsing experience.
 date: 2026-03-12
+last_modified_at: 2026-03-12
 permalink: chrome-dom-size-too-large-performance-impact
 categories:
 - performance

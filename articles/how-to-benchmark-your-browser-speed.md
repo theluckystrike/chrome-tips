@@ -3,6 +3,7 @@ layout: default
 title: How to Benchmark Your Browser Speed
 description: Learn how to benchmark your browser speed with practical tests and tools. Discover what affects Chrome performance and how to optimize your setup for faster browsing.
 date: 2025-03-12
+last_modified_at: 2025-03-12
 categories:
 - performance
 - browsers

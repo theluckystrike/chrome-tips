@@ -3,6 +3,7 @@ layout: default
 title: Chrome Infinite Scroll Performance Optimization
 description: Learn practical techniques to optimize infinite scroll performance in Chrome. Discover how to reduce memory usage, improve rendering speed, and create smoother scrolling experiences.
 date: 2026-01-15
+last_modified_at: 2026-01-15
 permalink: chrome-infinite-scroll-performance-optimization
 categories:
 - performance

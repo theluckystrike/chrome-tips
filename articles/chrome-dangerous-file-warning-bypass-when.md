@@ -3,6 +3,7 @@ layout: default
 title: "Chrome Dangerous File Warning Bypass: When Is It Possible?"
 description: "Learn when Chrome dangerous file warning bypass is possible, why Chrome shows these warnings, and how to safely handle potentially harmful downloads."
 date: 2026-01-20
+last_modified_at: 2026-01-20
 permalink: chrome-dangerous-file-warning-bypass-when
 categories:
 - chrome

@@ -3,6 +3,7 @@ layout: default
 title: How to Use Chrome MIDI Output for Web Music Creation
 description: Discover how to use Chrome MIDI output capabilities to create music directly in your browser. A practical guide for web musicians and developers.
 date: 2026-03-23
+last_modified_at: 2026-03-23
 ---
 
 # How to Use Chrome MIDI Output for Web Music Creation

@@ -3,6 +3,7 @@ layout: default
 title: Chrome Ambient Light Sensor API – Complete Guide
 description: Discover how the Chrome Ambient Light Sensor API enables web apps to detect environmental lighting conditions and adapt your browsing experience accordingly.
 date: 2026-01-15
+last_modified_at: 2026-01-15
 permalink: chrome-ambient-light-sensor-api
 categories:
 - features

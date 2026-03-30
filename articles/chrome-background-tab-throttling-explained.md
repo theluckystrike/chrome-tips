@@ -3,6 +3,7 @@ layout: default
 title: 'Chrome Background Tab Throttling Explained: What It Means for Your Browser'
 description: 'Learn how chrome background tab throttling explained works, why Chrome slows down inactive tabs, and what you can do to manage this feature effectively.'
 date: 2026-03-12
+last_modified_at: 2026-03-12
 categories:
 - browsers
 - performance

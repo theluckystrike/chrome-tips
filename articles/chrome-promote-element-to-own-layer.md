@@ -3,6 +3,7 @@ layout: default
 title: How to Promote an Element to Its Own Layer in Chrome
 description: Learn how to use Chrome DevTools to promote elements to their own compositor layer. Improve animation performance and reduce jank by understanding GPU acceleration in Chrome.
 date: 2026-03-12
+last_modified_at: 2026-03-12
 categories:
 - performance
 - chrome-devtools

@@ -45,11 +45,11 @@
   {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "{{ page.title | escape }}",
-    "description": "{{ page.description | default: site.description | escape }}",
+    "headline": {{ page.title | jsonify }},
+    "description": {{ page.description | default: site.description | jsonify }},
     "author": {
       "@type": "Person",
-      "name": "theluckystrike",
+      "name": {{ page.author | default: site.author.name | default: "theluckystrike" | jsonify }},
       "url": "https://github.com/theluckystrike"
     },
     "publisher": {

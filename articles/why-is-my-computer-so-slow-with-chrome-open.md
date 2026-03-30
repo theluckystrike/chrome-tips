@@ -3,6 +3,7 @@ layout: default
 title: "Why Is My Computer So Slow With Chrome Open"
 description: "Is Chrome making your computer sluggish? Discover the real reasons behind Chrome's high resource usage and practical solutions to speed up your system."
 date: 2025-01-15
+last_modified_at: 2025-01-15
 categories: [performance, chrome, troubleshooting]
 tags: [chrome-slow, computer-slow, chrome-memory, chrome-performance]
 author: theluckystrike

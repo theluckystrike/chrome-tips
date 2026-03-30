@@ -26,8 +26,6 @@ One of the most powerful aspects of the Web Bluetooth API is its security-first 
 Device Pairing and Discovery
 
 The first step in working with Web Bluetooth is discovering and connecting to devices. Chrome provides the `navigator.bluetooth.requestDevice()` method as the entry point for device discovery. This method triggers a browser-native dialog that shows the user all nearby discoverable BLE devices, allowing them to select which device to connect to.
-=======
->>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
 
 ```javascript
 async function discoverDevice() {
@@ -36,21 +34,11 @@ async function discoverDevice() {
       filters: [{ services: ['battery_service'] }],
       optionalServices: ['device_information']
     });
-    
+
     console.log('Selected device:', device.name);
     return device;
   } catch (error) {
     console.error('Device selection failed:', error);
-=======
-      filters: [{ services: ['battery_service'] }],
-      optionalServices: ['device_information']
-    });
-    
-    console.log('Selected device:', device.name);
-    return device;
-  } catch (error) {
-    console.error('Device selection failed:', error);
->>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
   }
 }
 ```
@@ -155,8 +143,6 @@ async function subscribeToHeartRate(characteristic) {
     const value = event.target.value;
     const heartRate = value.getUint8(1); // First byte is flags
     console.log('Heart rate:', heartRate);
-=======
->>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
   });
 }
 ```
@@ -193,8 +179,6 @@ async function safeDeviceRequest() {
       console.log('Connection blocked due to security policy');
     } else if (error.name === 'AbortError') {
       console.log('User cancelled the request');
-=======
->>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
     }
   }
 }

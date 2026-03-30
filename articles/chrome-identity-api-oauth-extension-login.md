@@ -3,6 +3,7 @@ layout: default
 title: Chrome Identity API OAuth Extension Login
 description: Learn how to implement secure user authentication in Chrome extensions using the Identity API and OAuth 2.0. A practical guide for developers.
 date: 2026-01-20
+last_modified_at: 2026-01-20
 permalink: chrome-identity-api-oauth-extension-login
 categories:
 - extensions

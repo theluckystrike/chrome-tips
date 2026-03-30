@@ -3,6 +3,7 @@ layout: default
 title: Chrome Encrypted Media Extensions EME DRM Explained
 description: Learn how Chrome encrypted media extensions (EME) and DRM work together to protect digital content in your browser.
 date: 2024-01-15
+last_modified_at: 2024-01-15
 permalink: chrome-encrypted-media-extensions-eme-drm
 categories:
 - extensions

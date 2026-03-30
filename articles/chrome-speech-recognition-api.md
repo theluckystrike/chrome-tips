@@ -108,7 +108,6 @@ recognition.onresult = (event) => {
 ```
 
 The confidence score provided by the API can also help you gauge accuracy. Each result includes a confidence value between 0 and 1, indicating how confident the recognition engine is in its transcription. You can use this to highlight potentially inaccurate transcriptions or request clarification from users:
->>>>>>> consumer/a15-chrome-speech-recognition-api
 
 ```javascript
 recognition.onresult = (event) => {

@@ -3,6 +3,7 @@ layout: default
 title: Chrome Device Orientation API – Detect Tilt and Motion in Your Browser
 description: Learn how the Chrome Device Orientation API enables web apps to detect device tilt and motion for interactive experiences, gaming, and accessibility features.
 date: 2026-01-20
+last_modified_at: 2026-01-20
 permalink: chrome-device-orientation-api-tilt-motion
 categories:
 - features

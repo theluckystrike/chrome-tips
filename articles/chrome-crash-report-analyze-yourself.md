@@ -3,6 +3,7 @@ layout: default
 title: Chrome Crash Report Analyze Yourself
 description: Learn how to analyze Chrome crash reports on your own. This guide walks you through understanding why Chrome crashes and how to fix common issues.
 date: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-crash-report-analyze-yourself
 categories: '[troubleshooting, crashes]'
 tags: '[chrome-crash, chrome-errors, browser-troubleshooting]'

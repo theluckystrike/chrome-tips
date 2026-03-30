@@ -3,6 +3,7 @@ layout: default
 title: How to Clear Cookies for One Website in Chrome Without Affecting Others
 description: Learn how to remove cookies from specific websites in Google Chrome while keeping your other site data intact. Simple step-by-step guide.
 date: 2026-03-23
+last_modified_at: 2026-03-23
 ---
 
 Managing cookies in Google Chrome gives you control over your privacy without erasing all your browsing data. Sometimes you only need to clear cookies for one website, perhaps to reset your login, fix a stuck session, or remove tracking data from a particular site. Here's how to clear cookies for specific websites only in Chrome.

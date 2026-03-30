@@ -3,6 +3,7 @@ layout: default
 title: Chrome Multiple Profiles Work Personal
 description: Learn how to set up and use Chrome multiple profiles to keep your work and personal browsing separate, organized, and secure.
 date: 2025-02-20
+last_modified_at: 2025-02-20
 categories:
 - browser
 - productivity

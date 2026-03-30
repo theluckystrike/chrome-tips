@@ -13,6 +13,7 @@ target_extension: "tab-suspender-pro"
 word_count: 1072
 reading_time: 5
 internal_links_added: true
+---
 
 # Tab Suspender Pro vs OneTab: Complete 2026 Comparison
 

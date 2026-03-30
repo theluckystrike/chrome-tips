@@ -8,7 +8,8 @@ permalink: "chrome-supervised-profiles-for-kids"
 categories: 
 tags: 
 author: theluckystrike
----# Chrome Supervised Profiles for Kids
+---
+# Chrome Supervised Profiles for Kids
 
 If you are looking for chrome supervised profiles for kids, you probably want to give your children a safe browsing experience while using Google Chrome. Setting up a supervised profile is one of the most effective ways to protect your kids from inappropriate content and monitor their online activity. I will explain what supervised profiles are, why they matter, and how to set them up step by step.
 

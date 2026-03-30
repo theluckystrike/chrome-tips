@@ -3,6 +3,7 @@ layout: default
 title: Chrome Commands API Keyboard Shortcuts for Extensions
 description: Learn how to use the Chrome Commands API to add custom keyboard shortcuts to your Chrome extension. A complete guide for developers.
 date: 2026-01-15
+last_modified_at: 2026-01-15
 permalink: chrome-commands-api-keyboard-shortcuts-ext
 categories:
 - extensions

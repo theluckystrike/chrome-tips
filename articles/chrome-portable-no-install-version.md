@@ -3,6 +3,7 @@ layout: default
 title: "Chrome Portable No Install Version: Run Chrome Without Installation"
 description: "Discover how to use Chrome as a portable app without installation. Perfect for USB drives, shared computers, or keeping your settings on the go."
 date: 2026-03-23
+last_modified_at: 2026-03-23
 ---
 
 Running Chrome without installation can be incredibly useful in many situations. Whether you need to use your browser on a shared computer, want to carry your personalized settings on a USB drive, or simply prefer not to clutter your system with installed software, a Chrome portable no install version offers the perfect solution. This guide walks you through everything you need to know about using Chrome as a portable application.

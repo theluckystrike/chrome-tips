@@ -3,6 +3,7 @@ layout: default
 title: How to Search and Find Chrome Bookmarks Quickly
 description: Learn the fastest methods to search and find bookmarks in Google Chrome. Discover keyboard shortcuts, built-in features, and tips for managing your bookmark library efficiently.
 date: 2026-01-15
+last_modified_at: 2026-01-15
 permalink: chrome-bookmark-search-find-quickly
 categories:
 - chrome

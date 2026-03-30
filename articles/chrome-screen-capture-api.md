@@ -467,7 +467,6 @@ Conclusion
 The Chrome Screen Capture API provides a powerful foundation for building screen capture functionality into your extensions and web applications. By understanding the different capture modes, using media constraints, and following best practices, you can create reliable and user-friendly screen capture experiences.
 
 Whether you're recording tutorials, enabling remote support, building collaboration tools, or creating content for education, the Screen Capture API offers the flexibility and capabilities you need. The key is to start with the basics, capturing screen, window, or tab content, and then progressively add features that enhance your application's functionality.
->>>>>>> consumer/a52-chrome-screen-capture-api
 
 Remember to consider how your screen capture features interact with other browser functionality, such as tab management and performance features. Extensions like Tab Suspender Pro demonstrate how thoughtful design can improve the overall browsing experience, and similar considerations should inform your approach to screen capture development.
 

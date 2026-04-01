@@ -188,13 +188,16 @@ jobs:
           # Read body from file
           BODY=$(cat /tmp/article_body.md)
 
-          # Build tags array (max 4 for devto, lowercase, alphanumeric only, max 30 chars each)
-          TAGS_JSON=$(head -4 /tmp/article_tags.txt | while IFS= read -r tag; do
+          # Build tags array: always start with broad discovery tags, then add up to 2 from article
+          ARTICLE_TAGS=$(head -2 /tmp/article_tags.txt | while IFS= read -r tag; do
             [ -z "$tag" ] && continue
             cleaned=$(echo "$tag" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]//g' | cut -c1-30)
             [ -z "$cleaned" ] && continue
+            # Skip if it's already one of our broad tags
+            [ "$cleaned" = "webdev" ] || [ "$cleaned" = "tutorial" ] && continue
             echo "$cleaned"
-          done | jq -R . | jq -s '.[0:4]')
+          done | jq -R . | jq -s '.')
+          TAGS_JSON=$(echo "$ARTICLE_TAGS" | jq '["webdev", "tutorial"] + . | .[0:4]')
 
           if [ -z "$TAGS_JSON" ] || [ "$TAGS_JSON" = "[]" ]; then
             TAGS_JSON='["chrome", "extensions", "productivity", "webdev"]'

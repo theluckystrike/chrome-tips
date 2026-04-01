@@ -188,10 +188,12 @@ jobs:
           # Read body from file
           BODY=$(cat /tmp/article_body.md)
 
-          # Build tags array (max 4 for devto, lowercase, alphanumeric only - no hyphens)
+          # Build tags array (max 4 for devto, lowercase, alphanumeric only, max 30 chars each)
           TAGS_JSON=$(head -4 /tmp/article_tags.txt | while IFS= read -r tag; do
             [ -z "$tag" ] && continue
-            echo "$tag" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]//g'
+            cleaned=$(echo "$tag" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]//g' | cut -c1-30)
+            [ -z "$cleaned" ] && continue
+            echo "$cleaned"
           done | jq -R . | jq -s '.[0:4]')
 
           if [ -z "$TAGS_JSON" ] || [ "$TAGS_JSON" = "[]" ]; then

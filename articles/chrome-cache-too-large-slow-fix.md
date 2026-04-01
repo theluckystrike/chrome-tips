@@ -63,7 +63,7 @@ Finally, consider using Chrome's built-in cleaning tool. Type chrome://settings/
 
 When Cache Clearing Is Not Enough
 
-Sometimes cache problems stem from deeper issues that simple clearing cannot fix. If you have followed all the steps above and Chrome remains slow, try creating a new browser profile. Corrupted profile data can cause persistent performance problems that do not respond to standard fixes. Open Chrome settings, scroll to "People," and create a new profile. Migrate your essential bookmarks and passwords to the fresh profile.
+Sometimes cache problems stem from deeper issues that simple clearing cannot fix. If you have followed all the steps above and Chrome remains slow, try creating a new browser profile. Corrupted profile data can cause persistent performance problems that do not respond to standard fixes. Open Chrome settings, scroll to "People," and create a new profile. Migrate your essential bookmarks and passwords to the fresh profile. If your Chrome profile folder has ballooned to several gigabytes, you may be dealing with a separate issue entirely. This <a href="https://claudecodeguides.com/chrome-profile-too-large/">guide to fixing an oversized Chrome profile</a> walks through how to identify and remove the files responsible for the bloat.
 
 Updating Chrome to the latest version also helps. Newer versions include performance improvements and bug fixes that address cache-related issues. Make sure automatic updates are enabled, or manually check for updates through the Chrome menu.
 

@@ -113,5 +113,7 @@ For teams working primarily with simple APIs and small JSON files, JSONView prov
 
 [Try JSON Formatter Pro Free](https://zovo.one)
 
+Developers who use AI coding assistants alongside these browser tools may also find it useful to explore the growing category of terminal-based AI pair programmers. If you are evaluating options in that space, this <a href="https://claudecodeguides.com/claude-code-for-beginners-complete-getting-started-2026/">beginner's guide to getting started with Claude Code</a> covers setup, configuration, and practical workflows.
+
 Built by Michael Lip. More tips at [zovo.one](https://zovo.one).
 > See also: [BeLikeNative vs DeepL: Honest 2026 Comparison](https://chrometipsguide.com/belikenative-vs-deepl)

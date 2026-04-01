@@ -48,7 +48,7 @@ For those who manage multiple profiles, such as separating work and personal bro
 
 Common Issues and Solutions
 
-One common issue occurs when the user data directory becomes corrupted. Symptoms include Chrome failing to launch, settings not saving, or extensions not loading correctly. In such cases, you can try renaming the user data folder to force Chrome to create a fresh one. If the problem persists, completely deleting the folder may be necessary, though this results in data loss.
+One common issue occurs when the user data directory becomes corrupted. Symptoms include Chrome failing to launch, settings not saving, or extensions not loading correctly. In such cases, you can try renaming the user data folder to force Chrome to create a fresh one. If the problem persists, completely deleting the folder may be necessary, though this results in data loss. Another frequent problem is the user data directory growing to an unexpectedly large size, sometimes exceeding 5-10 GB. If your profile folder is consuming too much disk space, this <a href="https://claudecodeguides.com/chrome-profile-too-large/">step-by-step fix for oversized Chrome profiles</a> explains exactly which subfolders are responsible and how to safely reclaim the space.
 
 Another scenario involves synchronization problems. If Chrome Sync is not working as expected, clearing the sync data within the user data directory and re-signing into your Google account often resolves the issue.
 

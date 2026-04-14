@@ -5,6 +5,9 @@ url: "https://chrometipsguide.com"
 baseurl: ""
 permalink: /:title/
 
+include:
+  - _redirects
+
 twitter:
   username: _alphashark_
   card: summary_large_image

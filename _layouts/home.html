@@ -1,0 +1,939 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ page.title | default: site.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ site.title | escape }}",
+  "url": "{{ site.url }}",
+  "description": "{{ site.description | escape }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chrome Tips Guide",
+    "url": "https://chrometipsguide.com"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.google.com/search?q=site:chrometipsguide.com+{search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    { "@type": "SiteNavigationElement", "position": 1, "name": "Speed", "url": "https://chrometipsguide.com/topics/memory-performance/" },
+    { "@type": "SiteNavigationElement", "position": 2, "name": "Extensions", "url": "https://chrometipsguide.com/topics/extensions/" },
+    { "@type": "SiteNavigationElement", "position": 3, "name": "Tabs", "url": "https://chrometipsguide.com/topics/tab-management/" },
+    { "@type": "SiteNavigationElement", "position": 4, "name": "DevTools", "url": "https://chrometipsguide.com/topics/devtools/" }
+  ]
+}
+</script>
+<style>
+  :root{
+    --paper:#F1ECE1;
+    --paper-2:#E8E1D2;
+    --ink:#161412;
+    --ink-2:#2A2622;
+    --mute:#5A524A;
+    --rule:#1614121a;
+    --accent:#C44530;
+    --accent-ink:#7A2A1C;
+    --hot:#E85A1F;
+    --ok:#3B6B4A;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:var(--paper);color:var(--ink);}
+  body{
+    font-family:"Inter Tight", system-ui, sans-serif;
+    font-feature-settings:"ss01","cv11";
+    font-size:16px; line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+    background-image:
+      radial-gradient(rgba(22,20,18,0.035) 1px, transparent 1px),
+      radial-gradient(rgba(22,20,18,0.02) 1px, transparent 1px);
+    background-size: 3px 3px, 7px 7px;
+    background-position: 0 0, 1px 1px;
+  }
+  .serif{font-family:"Instrument Serif", serif; font-weight:400;}
+  .mono{font-family:"JetBrains Mono", ui-monospace, monospace;}
+  .cap{text-transform:uppercase; letter-spacing:0.14em;}
+
+  /* ------- Frame ------- */
+  .frame{max-width:1360px; margin:0 auto; padding: 0 40px;}
+  .rule{height:1px; background:var(--ink); opacity:.9;}
+  .rule-soft{height:1px; background:var(--ink); opacity:.15;}
+
+  /* ------- Top bar ------- */
+  .topbar{
+    display:grid; grid-template-columns:1fr auto 1fr;
+    align-items:center; padding: 14px 0;
+    font-size:12px;
+  }
+  .topbar .mark{display:flex; gap:10px; align-items:center;}
+  .topbar .mark a{color:var(--ink); text-decoration:none;}
+  .mark-badge{
+    width:28px; height:28px; border:1.5px solid var(--ink);
+    display:grid; place-items:center;
+    font-family:"Instrument Serif", serif; font-style:italic; font-size:22px; line-height:1;
+    border-radius:999px;
+  }
+  .topbar .meta{text-align:center;}
+  .topbar nav{display:flex; gap:22px; justify-content:flex-end;}
+  .topbar nav a{color:var(--ink); text-decoration:none; border-bottom:1px solid transparent;}
+  .topbar nav a:hover{border-bottom-color:var(--ink);}
+
+  /* ------- Masthead ------- */
+  .masthead{
+    display:grid; grid-template-columns: 1fr auto 1fr;
+    align-items:end; padding: 20px 0 22px;
+    gap:30px;
+  }
+  .mh-left, .mh-right{font-size:12px; color:var(--ink-2);}
+  .mh-right{text-align:right;}
+  .mh-title{
+    font-family:"Instrument Serif", serif;
+    font-size: clamp(56px, 10vw, 148px);
+    line-height: 0.88;
+    letter-spacing:-0.02em;
+    text-align:center;
+    white-space:nowrap;
+  }
+  .mh-title a{color:var(--ink); text-decoration:none;}
+  .mh-title .amp{font-style:italic; color:var(--accent);}
+  .kicker{display:flex; gap:10px; align-items:center; font-size:11px;}
+  .dot{width:7px; height:7px; border-radius:50%; background:var(--accent); display:inline-block;}
+  .dot.live{animation:pulse 1.8s infinite;}
+  @keyframes pulse{0%{transform:scale(1); opacity:1}50%{transform:scale(1.4); opacity:.4}100%{transform:scale(1); opacity:1}}
+
+  .sub-rail{
+    display:grid; grid-template-columns: repeat(12,1fr);
+    font-size:11px; padding: 10px 0;
+    color:var(--ink-2);
+  }
+  .sub-rail > div{grid-column: span 3;}
+  .sub-rail b{color:var(--ink);}
+
+  /* ------- Hero ------- */
+  .hero{
+    padding: 56px 0 40px;
+    display:grid; grid-template-columns: 1.1fr 1fr;
+    gap: 60px;
+    align-items:end;
+  }
+  .hero-left{position:relative;}
+  .lede{
+    font-family:"Instrument Serif", serif;
+    font-size: clamp(40px, 5.6vw, 86px);
+    line-height: 0.98;
+    letter-spacing:-0.015em;
+  }
+  .lede em{color:var(--accent); font-style:italic;}
+  .lede .strike{text-decoration: line-through; text-decoration-thickness:3px; color:var(--mute);}
+  .issue-tag{
+    position:absolute; top:-14px; left:0;
+    display:inline-flex; gap:10px; align-items:center;
+    font-size:11px;
+  }
+  .hero-right{
+    border-left:1px solid var(--ink);
+    padding-left:28px;
+    display:flex; flex-direction:column; gap:18px;
+  }
+  .hero-right p{margin:0; font-size:15.5px; max-width:44ch;}
+  .hero-right .lead{font-size:17px; line-height:1.45; color:var(--ink);}
+
+  .cta-row{display:flex; gap:14px; align-items:center; margin-top:4px;}
+  .btn{
+    display:inline-flex; align-items:center; gap:10px;
+    background:var(--ink); color:var(--paper); padding:12px 18px;
+    border-radius:999px; border:none; cursor:pointer;
+    font: 500 13px/1 "Inter Tight";
+    letter-spacing:0.02em;
+    text-decoration:none;
+  }
+  .btn .arrow{display:inline-block; transition:transform .2s;}
+  .btn:hover .arrow{transform:translateX(4px);}
+  .btn.ghost{background:transparent; color:var(--ink); border:1px solid var(--ink);}
+  .btn.accent{background:var(--accent); color:#fff;}
+
+  .hero-fig{
+    margin-top:34px;
+    border:1px solid var(--ink);
+    background:var(--paper-2);
+    padding:18px;
+    display:grid; grid-template-columns: 1fr auto; gap:14px;
+    align-items:end;
+  }
+  .gauge{
+    height:120px; position:relative; overflow:hidden;
+    background:
+      repeating-linear-gradient(90deg, transparent 0 19px, rgba(22,20,18,.08) 19px 20px);
+    border:1px solid var(--ink);
+  }
+  .gauge .fill{
+    position:absolute; inset:0 62% 0 0;
+    background: var(--accent);
+    mix-blend-mode:multiply;
+    transition: inset .6s cubic-bezier(.2,.7,.2,1);
+  }
+  .gauge .label{
+    position:absolute; left:10px; top:8px; font-size:10px;
+    color:var(--ink); mix-blend-mode:multiply;
+  }
+  .gauge .val{
+    position:absolute; right:10px; top:6px;
+    font: 500 42px/1 "Instrument Serif"; font-style:italic;
+  }
+  .gauge .foot{
+    position:absolute; left:10px; bottom:8px; font-size:10px; color:var(--ink-2);
+  }
+  .hero-fig .caption{
+    font-size:11px; max-width:180px; line-height:1.4;
+  }
+  .hero-fig .caption b{display:block; margin-bottom:4px; font-size:12px;}
+
+  /* ------- Section labels ------- */
+  .sec{
+    display:grid; grid-template-columns: 180px 1fr;
+    gap:30px;
+    padding: 54px 0 12px;
+    border-top:1px solid var(--ink);
+    align-items:start;
+  }
+  .sec-num{
+    font-family:"Instrument Serif", serif;
+    font-size: 84px; line-height:.8;
+    font-style:italic;
+    color:var(--accent);
+  }
+  .sec-meta{font-size:11px; margin-top:8px; color:var(--ink-2);}
+  .sec-title{
+    font-family:"Instrument Serif", serif;
+    font-size: clamp(36px, 4.2vw, 64px);
+    line-height: .98;
+    letter-spacing:-0.01em;
+    max-width: 22ch;
+  }
+  .sec-desc{max-width:54ch; margin-top:14px; font-size:15px; color:var(--ink-2);}
+
+  /* ------- Benchmark grid ------- */
+  .bench{
+    margin-top: 28px;
+    display:grid; grid-template-columns: repeat(12, 1fr); gap:0;
+    border:1px solid var(--ink);
+    background:var(--paper);
+  }
+  .bench .cell{
+    grid-column: span 3;
+    padding:18px 18px 18px;
+    border-right:1px solid var(--ink);
+    border-bottom:1px solid var(--ink);
+    position:relative;
+    min-height:180px;
+    display:flex; flex-direction:column; justify-content:space-between;
+  }
+  .bench .cell:nth-child(4n){border-right:none;}
+  .bench .cell:nth-last-child(-n+4){border-bottom:none;}
+  .bench .cell .idx{
+    font-size:10px; color:var(--ink-2);
+    display:flex; justify-content:space-between; align-items:center;
+  }
+  .bench .cell .big{
+    font-family:"Instrument Serif", serif;
+    font-size: 66px; line-height:.9;
+    letter-spacing:-0.01em;
+    font-style:italic;
+  }
+  .bench .cell .big .unit{font-style:normal; font-family:"Inter Tight"; font-size:16px; margin-left:4px; letter-spacing:0; color:var(--ink-2);}
+  .bench .cell .lbl{font-size:12px; color:var(--ink); max-width:22ch;}
+  .bench .cell.accent{background:var(--accent); color:#fff;}
+  .bench .cell.accent .idx, .bench .cell.accent .lbl{color:#fff;}
+  .bench .cell.accent .big .unit{color:rgba(255,255,255,.75);}
+  .bench .cell.ink{background:var(--ink); color:var(--paper);}
+  .bench .cell.ink .idx, .bench .cell.ink .lbl{color:var(--paper);}
+  .bench .cell.ink .big .unit{color:rgba(241,236,225,.6);}
+
+  .spark{
+    height:30px; width:100%; display:block;
+    stroke: currentColor; fill:none; stroke-width:1.2;
+  }
+
+  /* ------- Article index ------- */
+  .idx-list{margin-top:20px; border-top:1px solid var(--ink);}
+  .row{
+    display:grid;
+    grid-template-columns: 56px 80px 1fr 160px 110px 30px;
+    gap:20px; align-items:center;
+    padding:22px 4px;
+    border-bottom:1px solid var(--ink);
+    text-decoration:none; color:var(--ink);
+    transition: background .2s, padding .2s;
+    position:relative;
+  }
+  .row:hover{background:var(--paper-2); padding-left:16px;}
+  .row:hover .title{color:var(--accent);}
+  .row:hover .go{transform:translateX(6px);}
+  .row .n{font-family:"JetBrains Mono",monospace; font-size:12px; color:var(--ink-2);}
+  .row .tag{
+    font-size:10px; letter-spacing:.14em; text-transform:uppercase;
+    border:1px solid var(--ink); padding:4px 8px; border-radius:999px;
+    justify-self:start;
+  }
+  .row .tag.speed{background:var(--accent); color:#fff; border-color:var(--accent);}
+  .row .tag.extensions{background:var(--ink); color:var(--paper); border-color:var(--ink);}
+  .row .tag.devtools{background:transparent;}
+  .row .tag.privacy{background:#3B6B4A; color:#fff; border-color:#3B6B4A;}
+  .row .title{
+    font-family:"Instrument Serif", serif;
+    font-size: 28px; line-height:1.05; letter-spacing:-.01em;
+  }
+  .row .sub{font-size:13px; color:var(--ink-2); margin-top:2px;}
+  .row .meta-col{font-size:11px; color:var(--ink-2); font-family:"JetBrains Mono",monospace;}
+  .row .read{font-size:11px; color:var(--ink-2); font-family:"JetBrains Mono",monospace; text-align:right;}
+  .row .go{font-family:"Instrument Serif",serif; font-size:26px; font-style:italic; transition: transform .2s;}
+
+  /* ------- Featured story ------- */
+  .feature{
+    margin-top:24px;
+    display:grid; grid-template-columns: 1.3fr 1fr;
+    gap:0;
+    border:1px solid var(--ink);
+    text-decoration:none;
+    color:var(--ink);
+  }
+  .feature .fig{
+    background:var(--ink); color:var(--paper);
+    padding:28px; position:relative; overflow:hidden;
+    min-height:420px;
+    display:flex; flex-direction:column; justify-content:space-between;
+  }
+  .feature .fig .tag{font-size:11px; letter-spacing:.14em; text-transform:uppercase;}
+  .feature .fig .big{
+    font-family:"Instrument Serif", serif;
+    font-size: clamp(52px, 7vw, 104px);
+    font-style:italic;
+    line-height:.92;
+    color:var(--paper);
+  }
+  .feature .fig .big u{text-decoration: none; color:var(--accent);}
+  .feature .fig .rail{display:flex; gap:40px; font-size:11px; color:rgba(241,236,225,.7); font-family:"JetBrains Mono",monospace;}
+
+  .chart{
+    position:absolute; right:-40px; top:60%; transform:translateY(-50%);
+    width:60%; opacity:.5;
+  }
+
+  .feature .body{padding:28px;}
+  .feature .body .eye{font-size:11px; color:var(--ink-2); letter-spacing:.14em; text-transform:uppercase;}
+  .feature .body h2{
+    font-family:"Instrument Serif",serif; font-weight:400;
+    font-size:40px; line-height:1.02; letter-spacing:-0.01em;
+    margin: 14px 0 14px;
+  }
+  .feature .body p{font-size:15px; color:var(--ink-2); margin:0 0 14px;}
+  .feature .body ol{padding-left:18px; margin:0 0 18px; font-size:14px;}
+  .feature .body ol li{margin-bottom:6px;}
+  .feature .body ol li b{font-family:"JetBrains Mono",monospace; font-weight:500; font-size:13px; background:var(--paper-2); padding:1px 6px; border-radius:3px;}
+
+  /* ------- Topics ring ------- */
+  .topics{
+    margin-top:28px; padding:22px; border:1px solid var(--ink);
+    display:flex; flex-wrap:wrap; gap:10px; align-items:center;
+  }
+  .topics .lead-l{
+    font-family:"Instrument Serif",serif; font-style:italic;
+    font-size:22px; margin-right:10px;
+  }
+  .chip{
+    display:inline-flex; align-items:center; gap:6px;
+    padding: 7px 14px; border:1px solid var(--ink);
+    border-radius:999px; font-size:13px; background:var(--paper);
+    cursor:pointer; transition: background .15s;
+    text-decoration:none; color:var(--ink);
+  }
+  .chip:hover{background:var(--ink); color:var(--paper);}
+  .chip .ct{font-family:"JetBrains Mono",monospace; font-size:11px; color:var(--ink-2);}
+  .chip:hover .ct{color:rgba(241,236,225,.75);}
+
+  /* ------- Terminal card ------- */
+  .term{
+    margin-top:28px;
+    border:1px solid var(--ink); background:#0F0E0D;
+    color:#E8E1D2; font-family:"JetBrains Mono",monospace;
+    border-radius:2px;
+  }
+  .term-head{
+    display:flex; align-items:center; gap:8px;
+    padding:10px 14px; border-bottom:1px solid #2A2622; font-size:11px;
+    color:#9b9387;
+  }
+  .term-head .d{width:10px; height:10px; border-radius:50%; background:#2A2622;}
+  .term-head .d.r{background:#C44530;}
+  .term-head .d.y{background:#D0A63A;}
+  .term-head .d.g{background:#3B6B4A;}
+  .term-head .pt{margin-left:auto;}
+  .term-body{padding:18px; font-size:13.5px; line-height:1.7;}
+  .term-body .p{color:#9b9387;}
+  .term-body .c{color:#E85A1F;}
+  .term-body .s{color:#6FA8A0;}
+  .term-body .k{color:#E8E1D2;}
+  .term-body .ok{color:#6B9B5D;}
+  .cursor{display:inline-block; width:8px; height:16px; background:#E85A1F; vertical-align:-2px; animation: blink 1.1s steps(2) infinite;}
+  @keyframes blink{50%{opacity:0;}}
+
+  /* ------- Newsletter ------- */
+  .news{
+    margin-top:56px;
+    padding: 56px 40px;
+    background:var(--ink); color:var(--paper);
+    border-radius:2px;
+    display:grid; grid-template-columns: 1.1fr 1fr; gap:40px; align-items:center;
+  }
+  .news h3{
+    font-family:"Instrument Serif", serif; font-weight:400;
+    font-size: clamp(40px, 5vw, 72px);
+    line-height:.95; margin:0;
+  }
+  .news h3 em{color:var(--accent); font-style:italic;}
+  .news p{color:rgba(241,236,225,.75); max-width: 46ch; font-size:15px; margin-top:14px;}
+  .mail{
+    display:flex; gap:0; border:1px solid var(--paper);
+    border-radius:999px; overflow:hidden; background:transparent;
+  }
+  .mail input{
+    flex:1; background:transparent; border:none; outline:none;
+    padding: 14px 18px; color:var(--paper); font: 400 14px "Inter Tight";
+  }
+  .mail input::placeholder{color:rgba(241,236,225,.5);}
+  .mail button{
+    background:var(--accent); color:#fff; border:none;
+    padding: 0 22px; font:500 13px/1 "Inter Tight"; cursor:pointer;
+    letter-spacing:.02em;
+  }
+  .news-side{font-family:"JetBrains Mono",monospace; font-size:11px; color:rgba(241,236,225,.65);
+    display:grid; gap:12px;
+  }
+  .news-side .line{display:flex; justify-content:space-between; gap:10px;}
+  .news-side .line b{color:var(--paper); font-weight:500;}
+
+  /* ------- Footer ------- */
+  footer{
+    margin-top:56px; padding: 40px 0 28px;
+    border-top:1px solid var(--ink);
+    display:grid; grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 40px;
+    font-size:13px;
+  }
+  footer h5{
+    margin:0 0 14px; font-size:11px; letter-spacing:.14em;
+    text-transform:uppercase; color:var(--ink-2); font-weight:500;
+  }
+  footer ul{list-style:none; padding:0; margin:0; display:grid; gap:8px;}
+  footer a{color:var(--ink); text-decoration:none;}
+  footer a:hover{color:var(--accent);}
+  .foot-brand .serif{font-size:34px; line-height:1;}
+  .foot-brand p{margin:10px 0 0; color:var(--ink-2); max-width:34ch;}
+  .satellite{
+    margin-top:16px; padding-top:14px; border-top:1px solid var(--rule);
+    display:flex; flex-wrap:wrap; gap:8px; font-size:11px;
+  }
+  .satellite a{
+    padding:4px 10px; border:1px solid var(--ink); border-radius:999px;
+    font-family:"JetBrains Mono",monospace; font-size:10px;
+    color:var(--ink-2); text-decoration:none; transition: background .15s;
+  }
+  .satellite a:hover{background:var(--ink); color:var(--paper);}
+  .colophon{
+    margin-top:30px; padding-top:18px; border-top:1px solid var(--rule);
+    display:flex; justify-content:space-between; font-size:11px; color:var(--ink-2);
+    font-family:"JetBrains Mono",monospace;
+  }
+
+  /* ------- Focus styles ------- */
+  .btn:focus-visible, .chip:focus-visible, .row:focus-visible, .cell:focus-visible, .feature:focus-visible{
+    outline:2px solid var(--accent); outline-offset:2px;
+  }
+  a:focus-visible{outline:2px solid var(--accent); outline-offset:2px;}
+
+  @media (max-width: 900px){
+    .frame{padding:0 20px;}
+    .topbar{grid-template-columns: 1fr auto; }
+    .topbar .meta{display:none;}
+    .masthead{grid-template-columns:1fr;}
+    .mh-left, .mh-right{text-align:left;}
+    .mh-title{white-space:normal; text-align:left;}
+    .hero{grid-template-columns:1fr; gap:30px;}
+    .hero-right{border-left:none; padding-left:0; border-top:1px solid var(--ink); padding-top:22px;}
+    .sec{grid-template-columns:1fr; gap:10px;}
+    .sec-num{font-size:56px;}
+    .bench .cell{grid-column: span 6;}
+    .bench .cell:nth-child(4n){border-right:1px solid var(--ink);}
+    .bench .cell:nth-child(2n){border-right:none;}
+    .row{grid-template-columns: 40px 1fr 24px; gap:12px;}
+    .row .tag, .row .meta-col, .row .read{display:none;}
+    .feature{grid-template-columns:1fr;}
+    .news{grid-template-columns:1fr; padding:36px 24px;}
+    footer{grid-template-columns:1fr 1fr;}
+    .colophon{flex-direction:column; gap:8px;}
+  }
+</style>
+</head>
+<body>
+
+<!-- ============ TOP BAR ============ -->
+<div class="frame">
+  <div class="topbar mono cap">
+    <div class="mark">
+      <a href="/">
+        <span class="mark-badge">c</span>
+      </a>
+      <a href="/"><span>Chrome Tips Guide</span></a>
+    </div>
+    <div class="meta">A Journal of Browser Performance</div>
+    <nav aria-label="Primary navigation">
+      <a href="#bench">Benchmarks</a>
+      <a href="#archive">Archive</a>
+      <a href="#tools">Toolbox</a>
+      <a href="#news">Dispatch</a>
+    </nav>
+  </div>
+
+  <div class="rule"></div>
+
+  <!-- ============ MASTHEAD ============ -->
+  <div class="masthead">
+    <div class="mh-left mono">
+      <div class="kicker"><span class="dot live"></span> LIVE</div>
+      <div style="margin-top:8px;">2,800+ guides published</div>
+    </div>
+    <h1 class="mh-title"><a href="/">Chrome Tips <span class="amp">&amp;</span> Guide</a></h1>
+    <div class="mh-right mono">
+      <div>Independent · Ad-free</div>
+      <div style="margin-top:8px;">$0.00 · Reader-supported</div>
+    </div>
+  </div>
+
+  <div class="rule"></div>
+
+  <div class="sub-rail mono cap">
+    <div><b>Focus</b> · Speed &amp; memory</div>
+    <div><b>Guides</b> · Updated weekly</div>
+    <div><b>Tested</b> · Real benchmarks</div>
+    <div style="text-align:right;"><b>Price</b> · Free, always</div>
+  </div>
+
+  <div class="rule"></div>
+
+  <!-- ============ HERO ============ -->
+  <main>
+  <section class="hero">
+    <div class="hero-left">
+      <div class="issue-tag mono cap"><span class="dot"></span> The Performance Issue</div>
+      <h2 class="lede">
+        Your browser is <span class="strike">fine</span> <em>quietly eating 8&nbsp;GB</em> of&nbsp;RAM.
+      </h2>
+
+      <div class="hero-fig" aria-hidden="true">
+        <div style="flex:1;">
+          <div class="gauge" id="gauge">
+            <div class="fill" id="gaugeFill"></div>
+            <span class="label mono cap">Memory — this machine</span>
+            <span class="val" id="gaugeVal">7.4 GB</span>
+            <span class="foot mono">sampled 60Hz · 24 tabs · 7 ext.</span>
+          </div>
+        </div>
+        <div class="caption mono">
+          <b>FIG. A</b>
+          Typical weekday session before Memory Saver. After tuning: <span style="color:var(--accent);">2.1 GB</span>.
+        </div>
+      </div>
+    </div>
+
+    <aside class="hero-right">
+      <p class="lead">A quiet, opinionated journal for people who want Chrome to be <em>fast</em>, <em>private</em>, and <em>out of the way</em>. No marketing. No affiliate sludge. Real benchmarks, settings you can actually find, and the two flags that matter this month.</p>
+      <p>Written by practitioners who run 200-tab sessions on modest laptops and lived to tell about it. Updated weekly. Readable in under eight minutes.</p>
+      <div class="cta-row">
+        <a class="btn" href="#archive">Start with the canon <span class="arrow">→</span></a>
+        <a class="btn ghost" href="#news">Get the weekly dispatch</a>
+      </div>
+      <div class="mono" style="font-size:11px; color:var(--mute); margin-top:8px;">
+        2,800+ guides · Real benchmarks · 0 sponsored posts
+      </div>
+    </aside>
+  </section>
+</div>
+
+<!-- ============ BENCHMARK SECTION ============ -->
+<div class="frame" id="bench">
+  <section class="sec">
+    <div>
+      <div class="sec-num">01</div>
+      <div class="sec-meta mono cap">Measured, not remembered</div>
+    </div>
+    <div>
+      <h3 class="sec-title">Numbers we've actually watched Chrome do this quarter.</h3>
+      <p class="sec-desc">Every recommendation on this site is benchmarked on real hardware. We publish the raw runs. These four are the ones most worth your Tuesday afternoon.</p>
+    </div>
+  </section>
+
+  <div class="bench" aria-label="Benchmark summary">
+    <a href="/chrome-high-memory-usage-fix/" class="cell" style="text-decoration:none; color:inherit;">
+      <div class="idx mono cap"><span>01 · Memory Saver</span><span>Δ</span></div>
+      <div class="big">−73<span class="unit">% RAM</span></div>
+      <svg class="spark" aria-hidden="true" viewBox="0 0 200 30" preserveAspectRatio="none"><polyline points="0,6 20,8 40,7 60,12 80,10 100,18 120,22 140,24 160,27 180,28 200,28"/></svg>
+      <div class="lbl">Enabled on a 24-tab session, suspended inactive tabs after 5 minutes.</div>
+    </a>
+
+    <a href="/chrome-performance-optimization-guide/" class="cell accent" style="text-decoration:none; color:inherit;">
+      <div class="idx mono cap"><span>02 · Cold start</span><span>▲</span></div>
+      <div class="big">1.8<span class="unit">seconds</span></div>
+      <svg class="spark" aria-hidden="true" viewBox="0 0 200 30" preserveAspectRatio="none"><polyline points="0,26 20,22 40,24 60,18 80,14 100,16 120,10 140,8 160,6 180,4 200,3"/></svg>
+      <div class="lbl">After pruning 11 extensions down to 3 and clearing startup tabs.</div>
+    </a>
+
+    <a href="/4gb-ram-laptop-best-browser-settings/" class="cell" style="text-decoration:none; color:inherit;">
+      <div class="idx mono cap"><span>03 · Battery life</span><span>Δ</span></div>
+      <div class="big">+2.4<span class="unit">hrs</span></div>
+      <svg class="spark" aria-hidden="true" viewBox="0 0 200 30" preserveAspectRatio="none"><polyline points="0,22 20,18 40,20 60,14 80,16 100,10 120,12 140,8 160,6 180,4 200,5"/></svg>
+      <div class="lbl">Energy Saver on · hardware accel. on · VP9 over H.264 where offered.</div>
+    </a>
+
+    <a href="/ad-blocker-chrome-setup-guide/" class="cell ink" style="text-decoration:none; color:inherit;">
+      <div class="idx mono cap"><span>04 · Trackers blocked</span><span>●</span></div>
+      <div class="big">184<span class="unit">/ hr</span></div>
+      <svg class="spark" aria-hidden="true" viewBox="0 0 200 30" preserveAspectRatio="none"><polyline points="0,20 20,22 40,16 60,18 80,12 100,14 120,8 140,10 160,6 180,4 200,4"/></svg>
+      <div class="lbl">With uBlock Origin Lite + Enhanced Safe Browsing across a normal news day.</div>
+    </a>
+  </div>
+</div>
+
+<!-- ============ FEATURED ============ -->
+<div class="frame">
+  <section class="sec">
+    <div>
+      <div class="sec-num">02</div>
+      <div class="sec-meta mono cap">This week's long read</div>
+    </div>
+    <div>
+      <h3 class="sec-title">The memory leak that wasn't. A field guide.</h3>
+      <p class="sec-desc">You are not imagining it. Chrome's process model keeps a copy of the rendering engine, JS interpreter, and security sandbox for every site — the cost is the point, until it isn't.</p>
+    </div>
+  </section>
+
+  <a href="/chrome-memory-management-complete-guide/" class="feature">
+    <div class="fig">
+      <div class="tag mono">COVER STORY · 11 MIN READ</div>
+      <div class="big">Stop <u>the endless</u> RAM consumption.</div>
+      <div class="rail cap">
+        <div><div style="color:var(--accent);">BEFORE</div>7.42 GB</div>
+        <div><div style="color:var(--accent);">AFTER</div>2.14 GB</div>
+        <div><div style="color:var(--accent);">TABS</div>24 → 24</div>
+      </div>
+      <svg class="chart" aria-hidden="true" viewBox="0 0 400 200">
+        <defs>
+          <linearGradient id="g1" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-color="#C44530" stop-opacity="0.8"/>
+            <stop offset="1" stop-color="#C44530" stop-opacity="0"/>
+          </linearGradient>
+        </defs>
+        <path d="M0,120 L20,110 L40,130 L60,100 L80,90 L100,140 L120,80 L140,70 L160,110 L180,60 L200,90 L220,40 L240,60 L260,30 L280,50 L300,20 L320,40 L340,18 L360,30 L380,14 L400,22 L400,200 L0,200 Z" fill="url(#g1)"/>
+        <path d="M0,120 L20,110 L40,130 L60,100 L80,90 L100,140 L120,80 L140,70 L160,110 L180,60 L200,90 L220,40 L240,60 L260,30 L280,50 L300,20 L320,40 L340,18 L360,30 L380,14 L400,22" fill="none" stroke="#E85A1F" stroke-width="1.5"/>
+      </svg>
+    </div>
+
+    <div class="body">
+      <div class="eye">Filed under · Performance · Memory · chrome://flags</div>
+      <h2>The five-minute triage that returns four gigabytes.</h2>
+      <p>A step you can run before coffee. Open the built-in task manager, sort by memory footprint, and be surprised who's winning.</p>
+      <ol>
+        <li>Press <b>Shift + Esc</b> (Windows) or <b>Search + Esc</b> (Mac) to open the task manager.</li>
+        <li>Enable Memory Saver at <b>chrome://settings/performance</b> and restart.</li>
+        <li>Flip <b>Proactive Tab Freeze and Discard</b> in <b>chrome://flags</b>.</li>
+        <li>Exempt your email and two work apps so they don't get discarded.</li>
+        <li>Audit extensions — three are usually eating more than your tabs.</li>
+      </ol>
+      <span class="btn accent">Read the full guide <span class="arrow">→</span></span>
+    </div>
+  </a>
+</div>
+
+<!-- ============ ARCHIVE / INDEX ============ -->
+<div class="frame" id="archive">
+  <section class="sec">
+    <div>
+      <div class="sec-num">03</div>
+      <div class="sec-meta mono cap">The canon · updated weekly</div>
+    </div>
+    <div>
+      <h3 class="sec-title">Nine guides worth reading before you add one more tab.</h3>
+      <p class="sec-desc">Organized by what they fix, not by what Google calls them. Every entry is dated, benchmarked, and pruned when the UI changes under our feet.</p>
+    </div>
+  </section>
+
+  <nav class="idx-list" aria-label="Article index">
+    <a class="row" href="/chrome-high-memory-usage-fix/">
+      <span class="n">№ 001</span>
+      <span class="tag speed">Speed</span>
+      <span>
+        <div class="title">Chrome Memory Leak Fix: stop the endless RAM consumption.</div>
+        <div class="sub">Memory Saver, proactive freeze, and the four flags that actually move the needle.</div>
+      </span>
+      <span class="meta-col">chrome://flags</span>
+      <span class="read">11 min</span>
+      <span class="go">→</span>
+    </a>
+    <a class="row" href="/tab-suspender-pro-vs-workona/">
+      <span class="n">№ 002</span>
+      <span class="tag extensions">Extensions</span>
+      <span>
+        <div class="title">Tab suspenders, reading-list managers &amp; the case for fewer extensions.</div>
+        <div class="sub">Why installing eight productivity tools costs you productivity. A short catalogue.</div>
+      </span>
+      <span class="meta-col">manifest v3</span>
+      <span class="read">8 min</span>
+      <span class="go">→</span>
+    </a>
+    <a class="row" href="/api-json-response-cut-off-chrome/">
+      <span class="n">№ 003</span>
+      <span class="tag devtools">DevTools</span>
+      <span>
+        <div class="title">JSON content-type not recognized: a permanent fix you can paste.</div>
+        <div class="sub">Server headers vs. cache vs. extensions — diagnosing which of the three is lying to you.</div>
+      </span>
+      <span class="meta-col">Content-Type</span>
+      <span class="read">6 min</span>
+      <span class="go">→</span>
+    </a>
+    <a class="row" href="/chrome-enhanced-safe-browsing/">
+      <span class="n">№ 004</span>
+      <span class="tag privacy">Privacy</span>
+      <span>
+        <div class="title">Enhanced Safe Browsing, explained without the scare language.</div>
+        <div class="sub">What you send Google, what it sends back, and how to reason about the tradeoff.</div>
+      </span>
+      <span class="meta-col">chrome://settings</span>
+      <span class="read">9 min</span>
+      <span class="go">→</span>
+    </a>
+    <a class="row" href="/chrome-shopping-list-feature-how-to-use/">
+      <span class="n">№ 005</span>
+      <span class="tag extensions">Extensions</span>
+      <span>
+        <div class="title">The shopping-list feature almost nobody uses (and when it beats a spreadsheet).</div>
+        <div class="sub">A rare built-in that's quietly useful — if you know where the star-icon actually lives.</div>
+      </span>
+      <span class="meta-col">sync</span>
+      <span class="read">5 min</span>
+      <span class="go">→</span>
+    </a>
+    <a class="row" href="/chrome-hardware-acceleration-guide/">
+      <span class="n">№ 006</span>
+      <span class="tag speed">Speed</span>
+      <span>
+        <div class="title">Why your laptop fans spin up on Tuesdays: the hardware acceleration audit.</div>
+        <div class="sub">Four toggles, two benchmarks, and a confession about VP9 decoding on Intel iGPUs.</div>
+      </span>
+      <span class="meta-col">GPU process</span>
+      <span class="read">10 min</span>
+      <span class="go">→</span>
+    </a>
+    <a class="row" href="/chrome-extensions-for-regex-tester/">
+      <span class="n">№ 007</span>
+      <span class="tag devtools">DevTools</span>
+      <span>
+        <div class="title">A regex tester that lives in your toolbar (and the one I stopped using).</div>
+        <div class="sub">Comparing three lightweight extensions against a ten-line Codepen. The Codepen wins.</div>
+      </span>
+      <span class="meta-col">regex</span>
+      <span class="read">7 min</span>
+      <span class="go">→</span>
+    </a>
+    <a class="row" href="/how-to-use-chrome-profiles-properly/">
+      <span class="n">№ 008</span>
+      <span class="tag privacy">Privacy</span>
+      <span>
+        <div class="title">Profiles are the privacy tool you already have. Stop emailing yourself links.</div>
+        <div class="sub">A layout for work, home, shopping, and finance — plus the one setting you must change.</div>
+      </span>
+      <span class="meta-col">profile://</span>
+      <span class="read">6 min</span>
+      <span class="go">→</span>
+    </a>
+    <a class="row" href="/chrome-lastpass-extension-slow-fix/">
+      <span class="n">№ 009</span>
+      <span class="tag speed">Speed</span>
+      <span>
+        <div class="title">LastPass feels slow? It is. Here is why, with timings.</div>
+        <div class="sub">Extension conflicts, cache rebuilds, and the antivirus rule that adds 400ms per page.</div>
+      </span>
+      <span class="meta-col">autofill</span>
+      <span class="read">8 min</span>
+      <span class="go">→</span>
+    </a>
+  </nav>
+</div>
+
+<!-- ============ TOOLBOX ============ -->
+<div class="frame" id="tools">
+  <section class="sec">
+    <div>
+      <div class="sec-num">04</div>
+      <div class="sec-meta mono cap">The toolbox</div>
+    </div>
+    <div>
+      <h3 class="sec-title">Copy-paste snippets we keep open in another window.</h3>
+      <p class="sec-desc">These are the URLs and shortcuts this whole site keeps coming back to. Bookmark the toolbox, not the guides.</p>
+    </div>
+  </section>
+
+  <div class="topics">
+    <span class="lead-l">Jump to</span>
+    <a class="chip" href="/chrome-flags-best-settings/">chrome://flags <span class="ct">12</span></a>
+    <a class="chip" href="/chrome-performance-optimization-guide/">chrome://settings/performance <span class="ct">8</span></a>
+    <a class="chip" href="/topics/extensions/">chrome://extensions <span class="ct">7</span></a>
+    <a class="chip" href="/chrome-net-internals-how-to-use/">chrome://net-internals <span class="ct">4</span></a>
+    <a class="chip" href="/chrome-high-memory-usage-fix/">Shift + Esc · Task Manager <span class="ct">★</span></a>
+    <a class="chip" href="/chrome-memory-management-complete-guide/">chrome://memory-internals <span class="ct">3</span></a>
+    <a class="chip" href="/chrome-hardware-acceleration-guide/">chrome://gpu <span class="ct">3</span></a>
+    <a class="chip" href="/about/">chrome://version <span class="ct">2</span></a>
+    <a class="chip" href="/accidentally-closed-all-chrome-tabs-recovery/">Cmd/Ctrl + Shift + T <span class="ct">—</span></a>
+  </div>
+
+  <div class="term" role="img" aria-label="terminal showing benchmark run">
+    <div class="term-head mono">
+      <span class="d r"></span><span class="d y"></span><span class="d g"></span>
+      <span>~/chrometipsguide/bench · measure-ram.sh</span>
+      <span class="pt">t+00:00:42</span>
+    </div>
+    <div class="term-body">
+      <div><span class="p">$</span> <span class="k">chrome --enable-features=MemorySaverMultistate \</span></div>
+      <div><span class="p"> </span>  <span class="k">--max-active-webcontents=6 \</span></div>
+      <div><span class="p"> </span>  <span class="k">--profile-directory="Default"</span></div>
+      <div><span class="p">»</span> <span class="s">loading 24 tabs from session.json …</span></div>
+      <div><span class="p">»</span> <span class="s">sampling resident set size every 1.00s</span></div>
+      <div><span class="p">»</span> <span class="s">baseline captured · t+10s · <span class="c">7.42 GB</span></span></div>
+      <div><span class="p">»</span> <span class="s">enabling Memory Saver …</span></div>
+      <div><span class="p">»</span> <span class="s">proactive discard · 18 / 24 tabs frozen</span></div>
+      <div><span class="p">✓</span> <span class="ok">t+04:12 · RSS stabilized · 2.14 GB · −71.2%</span></div>
+      <div><span class="p">»</span> <span class="s">tab resume latency (p50): 412ms · (p95): 980ms</span></div>
+      <div><span class="p">$</span> <span class="k">echo "publish to /bench/memory-saver-24tab"</span><span class="cursor"></span></div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ NEWSLETTER ============ -->
+<div class="frame" id="news">
+  <section class="news">
+    <div>
+      <h3>A short letter, <em>every Friday.</em></h3>
+      <p>One benchmark, one fix, one flag that's about to change. No affiliate roundups, no "top 10" bait, no AI-generated filler. About four minutes to read, shorter on slow weeks.</p>
+      <form class="mail" aria-label="Newsletter subscription" onsubmit="event.preventDefault(); this.querySelector('button').textContent='Subscribed ✓';">
+        <input type="email" placeholder="you@domain.com" required aria-label="Email address">
+        <button type="submit">Subscribe →</button>
+      </form>
+    </div>
+    <div class="news-side">
+      <div class="line"><span>Format</span> <b>Weekly digest</b></div>
+      <div class="line"><span>Topics</span> <b>Speed · Privacy · Flags</b></div>
+      <div class="line"><span>Read time</span> <b>~4 minutes</b></div>
+      <div class="line"><span>Sponsored posts</span> <b>0, ever</b></div>
+      <div class="line"><span>Frequency</span> <b>Every Friday</b></div>
+      <div style="opacity:.6; margin-top:6px;">No trackers, no pixel, one-click opt-out.</div>
+    </div>
+  </section>
+</div>
+
+  </main>
+
+<!-- ============ FOOTER ============ -->
+<div class="frame">
+  <footer>
+    <div class="foot-brand">
+      <div class="serif">Chrome Tips &amp; Guide.</div>
+      <p>A reader-supported journal of practical browser performance. Independent. Ad-free.</p>
+      <div class="satellite">
+        <a href="https://securetoolsguide.com">Security Tools</a>
+        <a href="https://bestchromeextensions.com">Extensions</a>
+        <a href="https://bestremotetools.com">AI Tools</a>
+        <a href="https://welikeremotestack.com">Remote Work</a>
+        <a href="https://claudecodeguides.com">Claude Code</a>
+      </div>
+    </div>
+    <div>
+      <h5>Sections</h5>
+      <ul>
+        <li><a href="#bench">Benchmarks</a></li>
+        <li><a href="#archive">Archive</a></li>
+        <li><a href="#tools">Toolbox</a></li>
+        <li><a href="#news">Dispatch</a></li>
+      </ul>
+    </div>
+    <div>
+      <h5>Topics</h5>
+      <ul>
+        <li><a href="/topics/memory-performance/">Speed &amp; Memory</a></li>
+        <li><a href="/topics/extensions/">Extensions</a></li>
+        <li><a href="/topics/privacy-security/">Privacy</a></li>
+        <li><a href="/topics/devtools/">DevTools</a></li>
+        <li><a href="/topics/tab-management/">Tab Management</a></li>
+        <li><a href="/topics/flags-settings/">Chrome Flags</a></li>
+      </ul>
+    </div>
+    <div>
+      <h5>About</h5>
+      <ul>
+        <li><a href="/about/">About Us</a></li>
+        <li><a href="/topics/troubleshooting/">Troubleshooting</a></li>
+        <li><a href="/topics/translation/">Translation</a></li>
+        <li><a href="/feed.xml">RSS Feed</a></li>
+      </ul>
+    </div>
+  </footer>
+  <div class="colophon">
+    <span>&copy; 2026 Chrome Tips Guide · Set in Instrument Serif, Inter Tight &amp; JetBrains Mono.</span>
+    <span>Not affiliated with Google LLC. Chrome is a trademark of its respective owner.</span>
+  </div>
+</div>
+
+<script>
+  (function(){
+    var fill = document.getElementById('gaugeFill');
+    var val  = document.getElementById('gaugeVal');
+    if(!fill || !val) return;
+    var samples = [
+      {pct: 62, label: "7.4 GB"},
+      {pct: 58, label: "6.9 GB"},
+      {pct: 68, label: "8.1 GB"},
+      {pct: 18, label: "2.1 GB"},
+      {pct: 22, label: "2.6 GB"}
+    ];
+    var i = 0;
+    var max = samples.length * 20;
+    var count = 0;
+    function tick(){
+      if(count >= max) return;
+      var s = samples[i % samples.length];
+      fill.style.inset = "0 " + (100 - s.pct) + "% 0 0";
+      val.textContent = s.label;
+      i++;
+      count++;
+    }
+    tick();
+    var timer = setInterval(function(){ tick(); if(count >= max) clearInterval(timer); }, 2200);
+  })();
+</script>
+
+</body>
+</html>

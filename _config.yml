@@ -8,6 +8,12 @@ permalink: /:title/
 include:
   - _redirects
 
+exclude:
+  - index.md.bak
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
 twitter:
   username: _alphashark_
   card: summary_large_image

@@ -5,7 +5,7 @@ description: "Master Chrome Enhanced Safe Browsing with our comprehensive guide 
   a...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
-permalink: chrome-enhanced-safe-browsing
+permalink: /chrome-enhanced-safe-browsing/
 layout: default
 categories: '[browser, security, privacy]'
 tags: '[chrome, safe-browsing, enhanced-protection, phishing, malware, security-guide,

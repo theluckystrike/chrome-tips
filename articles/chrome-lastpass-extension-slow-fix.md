@@ -5,7 +5,7 @@ description: "Is your LastPass Chrome extension running slowly? Learn practical 
   to fix performance issues and speed up your browser. Check out our expert recommend
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
-permalink: chrome-lastpass-extension-slow-fix
+permalink: /chrome-lastpass-extension-slow-fix/
 categories:
 - extensions
 - troubleshooting

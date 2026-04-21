@@ -1,15 +1,18 @@
 ---
-title: Chrome Enhanced Safe Browsing Guide
-description: "Master Chrome Enhanced Safe Browsing with our comprehensive guide covering............................................................................"
-  real-time protection, phishing detection, download scanning, malware protection,
-  a...
+title: "Chrome Enhanced Safe Browsing Guide"
+description: "Master Chrome Enhanced Safe Browsing with our guide covering real-time protection, phishing detection, download scanning, and malware protection."
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: /chrome-enhanced-safe-browsing/
 layout: default
-categories: '[browser, security, privacy]'
-tags: '[chrome, safe-browsing, enhanced-protection, phishing, malware, security-guide,
-  online-protection]'
+categories:
+  - browser
+  - security
+  - privacy
+tags:
+  - chrome
+  - safe-browsing
+  - enhanced-protection
 author: theluckystrike
 ---
 

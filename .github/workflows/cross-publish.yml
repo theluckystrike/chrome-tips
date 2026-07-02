@@ -20,6 +20,11 @@ on:
         description: 'Article slug (leave empty for auto-select from unpublished)'
         required: false
         type: string
+      dry_run:
+        description: 'Dry run: build/validate the request but do not publish publicly (Dev.to posts as unpublished draft; Hashnode skips the publish call)'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -34,17 +39,44 @@ jobs:
 
       - name: Determine platform and select article
         id: setup
+        env:
+          # Hashnode retired FREE GraphQL API access (2026): every mutation now
+          # requires a paid Pro plan on the publication, so gql.hashnode.com
+          # 301-redirects free requests to a deprecation notice and publishing
+          # fails. Hashnode publishing is therefore OFF unless you set a repo
+          # variable HASHNODE_ENABLED=true (do that only after upgrading to Pro).
+          HASHNODE_ENABLED: ${{ vars.HASHNODE_ENABLED }}
         run: |
-          # Determine platform based on cron schedule or manual input
+          # Determine platform. For scheduled runs, key off the exact cron that
+          # triggered the run (github.event.schedule) -- NOT the wall-clock hour,
+          # which is unreliable because GitHub delays cron starts (07:00 often
+          # fires at ~08:0x, so an hour-based check mis-selected hashnode).
+          SCHEDULE="${{ github.event.schedule }}"
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "platform=${{ inputs.platform }}" >> $GITHUB_OUTPUT
+          elif [ "$SCHEDULE" = "0 13 * * 1-5" ]; then
+            echo "platform=hashnode" >> $GITHUB_OUTPUT
           else
-            HOUR=$(date -u +%H)
-            if [ "$HOUR" = "07" ]; then
-              echo "platform=devto" >> $GITHUB_OUTPUT
-            else
-              echo "platform=hashnode" >> $GITHUB_OUTPUT
-            fi
+            echo "platform=devto" >> $GITHUB_OUTPUT
+          fi
+
+          # Resolve the effective platform for gating below.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            EFFECTIVE_PLATFORM="${{ inputs.platform }}"
+          elif [ "$SCHEDULE" = "0 13 * * 1-5" ]; then
+            EFFECTIVE_PLATFORM="hashnode"
+          else
+            EFFECTIVE_PLATFORM="devto"
+          fi
+
+          # Skip Hashnode-only runs gracefully when Pro is not enabled, so the
+          # job goes GREEN instead of failing daily. Dev.to is unaffected.
+          if [ "$EFFECTIVE_PLATFORM" = "hashnode" ] && [ "$HASHNODE_ENABLED" != "true" ]; then
+            echo "Hashnode publishing is disabled (free API retired; requires paid Pro)."
+            echo "Set repo variable HASHNODE_ENABLED=true after upgrading to enable it."
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "slug=" >> $GITHUB_OUTPUT
+            exit 0
           fi
 
           # Initialize cross-post log if it does not exist
@@ -58,11 +90,10 @@ jobs:
           else
             PLATFORM_CHECK="${{ inputs.platform }}"
             if [ -z "$PLATFORM_CHECK" ]; then
-              HOUR=$(date -u +%H)
-              if [ "$HOUR" = "07" ]; then
-                PLATFORM_CHECK="devto"
-              else
+              if [ "$SCHEDULE" = "0 13 * * 1-5" ]; then
                 PLATFORM_CHECK="hashnode"
+              else
+                PLATFORM_CHECK="devto"
               fi
             fi
 
@@ -180,10 +211,18 @@ jobs:
           (steps.setup.outputs.platform == 'devto' || steps.setup.outputs.platform == 'both')
         env:
           DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+          DRY_RUN: ${{ inputs.dry_run }}
         run: |
           SLUG="${{ steps.setup.outputs.slug }}"
           TITLE="${{ steps.content.outputs.title }}"
           CANONICAL="${{ steps.content.outputs.canonical }}"
+
+          # Dry run publishes as an UNPUBLISHED draft so nothing goes public.
+          PUBLISHED="true"
+          if [ "$DRY_RUN" = "true" ]; then
+            PUBLISHED="false"
+            echo "DRY RUN: creating an unpublished Dev.to draft (not public)."
+          fi
 
           # Read body from file
           BODY=$(cat /tmp/article_body.md)
@@ -217,7 +256,8 @@ jobs:
               --arg body "$BODY" \
               --arg canonical "$CANONICAL" \
               --argjson tags "$TAGS_JSON" \
-              '{article: {title: $title, body_markdown: $body, published: true, canonical_url: $canonical, tags: $tags}}')")
+              --argjson published "$PUBLISHED" \
+              '{article: {title: $title, body_markdown: $body, published: $published, canonical_url: $canonical, tags: $tags}}')")
 
           HTTP_CODE=$(echo "$RESPONSE" | tail -1)
           RESPONSE_BODY=$(echo "$RESPONSE" | sed '$d')
@@ -225,13 +265,17 @@ jobs:
           if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
             ARTICLE_URL=$(echo "$RESPONSE_BODY" | jq -r '.url // empty')
             ARTICLE_ID=$(echo "$RESPONSE_BODY" | jq -r '.id // empty')
-            echo "Published to Dev.to: $ARTICLE_URL"
-            echo "devto_url=$ARTICLE_URL" >> $GITHUB_OUTPUT
-            echo "devto_id=$ARTICLE_ID" >> $GITHUB_OUTPUT
-
-            # Save for log update step
-            echo "$ARTICLE_URL" > /tmp/devto_result_url.txt
-            echo "$ARTICLE_ID" > /tmp/devto_result_id.txt
+            if [ "$DRY_RUN" = "true" ]; then
+              echo "DRY RUN OK: Dev.to accepted the request (draft id $ARTICLE_ID, url $ARTICLE_URL)."
+              echo "Not recording to cross-post log so the article stays available for a real run."
+            else
+              echo "Published to Dev.to: $ARTICLE_URL"
+              echo "devto_url=$ARTICLE_URL" >> $GITHUB_OUTPUT
+              echo "devto_id=$ARTICLE_ID" >> $GITHUB_OUTPUT
+              # Save for log update step
+              echo "$ARTICLE_URL" > /tmp/devto_result_url.txt
+              echo "$ARTICLE_ID" > /tmp/devto_result_id.txt
+            fi
           else
             echo "ERROR: Dev.to API returned HTTP $HTTP_CODE"
             echo "$RESPONSE_BODY" | jq . 2>/dev/null || echo "$RESPONSE_BODY"
@@ -246,89 +290,97 @@ jobs:
         env:
           HASHNODE_PAT: ${{ secrets.HASHNODE_PAT }}
           HASHNODE_PUBLICATION_ID: ${{ secrets.HASHNODE_PUBLICATION_ID }}
+          HN_TITLE: ${{ steps.content.outputs.title }}
+          HN_CANONICAL: ${{ steps.content.outputs.canonical }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          HN_ENDPOINT: https://gql.hashnode.com/
         run: |
-          SLUG="${{ steps.setup.outputs.slug }}"
-          TITLE="${{ steps.content.outputs.title }}"
-          CANONICAL="${{ steps.content.outputs.canonical }}"
-
-          # Read body from file
-          BODY=$(cat /tmp/article_body.md)
-
-          # Build tags for Hashnode: [{slug: "...", name: "..."}]
-          TAGS_JSON=$(head -5 /tmp/article_tags.txt | while IFS= read -r tag; do
+          # Build tags for Hashnode: [{slug,name}] -> /tmp/hn_tags.json
+          head -5 /tmp/article_tags.txt | while IFS= read -r tag; do
             [ -z "$tag" ] && continue
             slug=$(echo "$tag" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | sed 's/[^a-z0-9-]//g')
             jq -n --arg slug "$slug" --arg name "$tag" '{slug: $slug, name: $name}'
-          done | jq -s '.')
-
-          if [ -z "$TAGS_JSON" ] || [ "$TAGS_JSON" = "[]" ]; then
-            TAGS_JSON='[{"slug":"chrome","name":"Chrome"},{"slug":"extensions","name":"Extensions"}]'
+          done | jq -s '.' > /tmp/hn_tags.json
+          if [ ! -s /tmp/hn_tags.json ] || [ "$(cat /tmp/hn_tags.json)" = "[]" ]; then
+            echo '[{"slug":"chrome","name":"Chrome"},{"slug":"extensions","name":"Extensions"}]' > /tmp/hn_tags.json
           fi
 
-          echo "Publishing to Hashnode: $TITLE"
-          echo "  Canonical: $CANONICAL"
-          echo "  Publication ID: $HASHNODE_PUBLICATION_ID"
+          echo "Publishing to Hashnode: $HN_TITLE"
+          echo "  Canonical: $HN_CANONICAL"
 
-          # Step 1: Create draft (more reliable than direct publish)
-          DRAFT_PAYLOAD=$(python3 -c "
-          import json, sys
-          body = open('/tmp/article_body.md').read()
-          tags = json.loads('''$TAGS_JSON''')
+          # Build the createDraft payload in Python, reading ALL dynamic values
+          # from the environment / files (never interpolated into source) so a
+          # title with quotes/apostrophes cannot break it.
+          HN_TAGS_FILE=/tmp/hn_tags.json HN_BODY_FILE=/tmp/article_body.md python3 -c '
+          import json, os
+          body = open(os.environ["HN_BODY_FILE"]).read()
+          tags = json.load(open(os.environ["HN_TAGS_FILE"]))
           payload = {
-              'query': 'mutation CreateDraft(\$input: CreateDraftInput!) { createDraft(input: \$input) { draft { id } } }',
-              'variables': {
-                  'input': {
-                      'title': '''$TITLE''',
-                      'contentMarkdown': body,
-                      'publicationId': '$HASHNODE_PUBLICATION_ID',
-                      'tags': tags,
-                      'originalArticleURL': '''$CANONICAL'''
-                  }
-              }
+              "query": "mutation CreateDraft($input: CreateDraftInput!) { createDraft(input: $input) { draft { id } } }",
+              "variables": {"input": {
+                  "title": os.environ["HN_TITLE"],
+                  "contentMarkdown": body,
+                  "publicationId": os.environ["HASHNODE_PUBLICATION_ID"],
+                  "tags": tags,
+                  "originalArticleURL": os.environ["HN_CANONICAL"],
+              }},
           }
-          print(json.dumps(payload))
-          ")
+          open("/tmp/hn_draft_payload.json","w").write(json.dumps(payload))
+          '
 
-          DRAFT_RESPONSE=$(curl -s -X POST "https://gql.hashnode.com/" \
+          # Hashnode retired free API access: authenticated Pro requests use the
+          # RAW token (not "Bearer ..."). Follow redirects (-L) and capture the
+          # HTTP code so we can detect the deprecation redirect instead of
+          # feeding HTML to jq and dying with a cryptic exit code.
+          HTTP_CODE=$(curl -sS -L -o /tmp/hn_draft_resp.json -w '%{http_code}' \
+            -X POST "$HN_ENDPOINT" \
             -H "Content-Type: application/json" \
-            -H "Authorization: Bearer ${HASHNODE_PAT}" \
-            -d "$DRAFT_PAYLOAD")
+            -H "Authorization: ${HASHNODE_PAT}" \
+            --data-binary @/tmp/hn_draft_payload.json) || true
 
-          DRAFT_ID=$(echo "$DRAFT_RESPONSE" | jq -r '.data.createDraft.draft.id // empty' 2>/dev/null)
-
-          if [ -z "$DRAFT_ID" ]; then
-            echo "ERROR: Failed to create Hashnode draft"
-            echo "$DRAFT_RESPONSE" | jq . 2>/dev/null || echo "$DRAFT_RESPONSE"
+          if ! jq -e . /tmp/hn_draft_resp.json >/dev/null 2>&1; then
+            echo "ERROR: Hashnode did not return JSON (HTTP $HTTP_CODE)."
+            echo "The free GraphQL API was retired; publishing now requires a paid Hashnode Pro plan."
+            head -c 400 /tmp/hn_draft_resp.json; echo
             exit 1
           fi
 
+          DRAFT_ID=$(jq -r '.data.createDraft.draft.id // empty' /tmp/hn_draft_resp.json)
+          if [ -z "$DRAFT_ID" ]; then
+            echo "ERROR: Failed to create Hashnode draft (HTTP $HTTP_CODE)"
+            jq . /tmp/hn_draft_resp.json 2>/dev/null || cat /tmp/hn_draft_resp.json
+            exit 1
+          fi
           echo "Draft created: $DRAFT_ID"
 
+          if [ "$DRY_RUN" = "true" ]; then
+            echo "DRY RUN OK: Hashnode draft created but NOT published. Skipping publishDraft."
+            exit 0
+          fi
+
           # Step 2: Publish the draft
-          PUBLISH_PAYLOAD=$(python3 -c "
-          import json
+          HN_DRAFT_ID="$DRAFT_ID" python3 -c '
+          import json, os
           payload = {
-              'query': 'mutation PublishDraft(\$input: PublishDraftInput!) { publishDraft(input: \$input) { post { id url title slug } } }',
-              'variables': {'input': {'draftId': '$DRAFT_ID'}}
+              "query": "mutation PublishDraft($input: PublishDraftInput!) { publishDraft(input: $input) { post { id url title slug } } }",
+              "variables": {"input": {"draftId": os.environ["HN_DRAFT_ID"]}},
           }
-          print(json.dumps(payload))
-          ")
+          open("/tmp/hn_publish_payload.json","w").write(json.dumps(payload))
+          '
 
-          PUBLISH_RESPONSE=$(curl -s -X POST "https://gql.hashnode.com/" \
+          PUB_CODE=$(curl -sS -L -o /tmp/hn_publish_resp.json -w '%{http_code}' \
+            -X POST "$HN_ENDPOINT" \
             -H "Content-Type: application/json" \
-            -H "Authorization: Bearer ${HASHNODE_PAT}" \
-            -d "$PUBLISH_PAYLOAD")
+            -H "Authorization: ${HASHNODE_PAT}" \
+            --data-binary @/tmp/hn_publish_payload.json) || true
 
-          POST_URL=$(echo "$PUBLISH_RESPONSE" | jq -r '.data.publishDraft.post.url // empty' 2>/dev/null)
-
+          POST_URL=$(jq -r '.data.publishDraft.post.url // empty' /tmp/hn_publish_resp.json 2>/dev/null)
           if [ -n "$POST_URL" ]; then
             echo "Published to Hashnode: $POST_URL"
-
-            # Save for log update step
             echo "$POST_URL" > /tmp/hashnode_result_url.txt
           else
-            echo "ERROR: Failed to publish Hashnode draft"
-            echo "$PUBLISH_RESPONSE" | jq . 2>/dev/null || echo "$PUBLISH_RESPONSE"
+            echo "ERROR: Failed to publish Hashnode draft (HTTP $PUB_CODE)"
+            jq . /tmp/hn_publish_resp.json 2>/dev/null || cat /tmp/hn_publish_resp.json
             exit 1
           fi
 

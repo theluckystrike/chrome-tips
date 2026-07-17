@@ -276,6 +276,17 @@ jobs:
               echo "$ARTICLE_URL" > /tmp/devto_result_url.txt
               echo "$ARTICLE_ID" > /tmp/devto_result_id.txt
             fi
+          elif [ "$HTTP_CODE" = "422" ] && echo "$RESPONSE_BODY" | grep -qi "Canonical url has already been taken"; then
+            # A prior run already published this article to Dev.to, but the
+            # cross-post log never recorded it (e.g. the log commit lost a
+            # push/rebase race), so the selector keeps re-picking it and 422s
+            # here every run. Treat it as already published: backfill the log
+            # so it is not selected again, and exit green.
+            echo "NOTE: Dev.to reports this canonical URL is already published. Backfilling the cross-post log so this article is not re-selected."
+            if [ "$DRY_RUN" != "true" ]; then
+              echo "$CANONICAL" > /tmp/devto_result_url.txt
+              echo "" > /tmp/devto_result_id.txt
+            fi
           else
             echo "ERROR: Dev.to API returned HTTP $HTTP_CODE"
             echo "$RESPONSE_BODY" | jq . 2>/dev/null || echo "$RESPONSE_BODY"

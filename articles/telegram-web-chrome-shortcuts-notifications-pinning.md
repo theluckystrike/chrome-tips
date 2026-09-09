@@ -8,6 +8,7 @@ permalink: /telegram-web-chrome-shortcuts-notifications-pinning/
 categories:
 - how-to
 - productivity
+- tab-management
 tags:
 - telegram
 - chrome-shortcuts
